@@ -1,20 +1,42 @@
-LocalH-2009-11-27-MC930-t01.flac:d49c6a2272438e5f03d3c6915f0971ce
-LocalH-2009-11-27-MC930-t02.flac:e7506a1828803782c0761bbe4e95c8cd
-LocalH-2009-11-27-MC930-t03.flac:2d345259b7fbc67b452e7315b6c3910d
-LocalH-2009-11-27-MC930-t04.flac:ba33373c4a2bfa65f9f0dcbbbd1052e5
-LocalH-2009-11-27-MC930-t05.flac:7fc3f2f5c54b4defa286ac194f7d4f0c
-LocalH-2009-11-27-MC930-t06.flac:d35b50491b15c089695fbca8187fe284
-LocalH-2009-11-27-MC930-t07.flac:c3ea9a33f281977243b1f5e87e09a114
-LocalH-2009-11-27-MC930-t08.flac:240bac3be7bd58d2da1f1ddbbec9a992
-LocalH-2009-11-27-MC930-t09.flac:80741475c3c312329077b31a58a512e7
-LocalH-2009-11-27-MC930-t10.flac:9d127d0b0514f2f762f31fc037b49301
-LocalH-2009-11-27-MC930-t11.flac:cf61614b572d76105de7cbc74a32cdf9
-LocalH-2009-11-27-MC930-t12.flac:214ca7ea75d7e479505809401045016e
-LocalH-2009-11-27-MC930-t13.flac:0b78ae3eb74739b50aedd4df82122d0a
-LocalH-2009-11-27-MC930-t14.flac:32c948b8359ec45b10a1d7e064ba2a18
-LocalH-2009-11-27-MC930-t15.flac:0f019e15b874de4f52b644b67b15172f
-LocalH-2009-11-27-MC930-t16.flac:eccf4bec47c9a88ae3b4069d2a005151
-LocalH-2009-11-27-MC930-t17.flac:60831ec2c237693faffbf3faced4378a
-LocalH-2009-11-27-MC930-t18.flac:2edd27a0d2bc1255f86f9d8665124d5d
-LocalH-2009-11-27-MC930-t19.flac:ea7be61127db93df33e44b14023eaa36
-LocalH-2009-11-27-MC930-t20.flac:56b63af29ecdb52ebc1d05297114d44d
+Local H
+2009-11-27
+Clearwater Theater
+West Dundee, IL
+
+Source:     MC930 (DIN) > MMe > MT II
+
+Transfer:   MT II > USB > Adobe Audition 3.0 > CD Wave > 
+            FLAC Frontend 1.7.1
+
+Generation: WAV(M 24bit 48kHz) > WAV(16b 44.1kHZ) > FLAC (level 6)
+
+SET: 1hr 41 min.
+----------------
+01. in
+02. All Right (Oh-Yeah)
+03. User
+04. Fritz's Corner
+05. Taxi Cabs
+06. Rock and Roll Professionals
+07. 24 hour Breakup Session
+08. HiFiven MF
+09. Eddie Vedder
+10. BMW Man
+11. Michelle (again)
+12. Hands On The Bible
+13. Buffalo Trace
+14. Bound For The Floor
+15. Skidmarks
+16. encore break
+17. California Songs
+18. One With Kid (tease)
+19. What Would You Have Me Do?
+20. Wolf Like Me 
+
+Location: Approx 40 ft. back, 1-2 ft. LOC, mics 9 ft. up 
+from stage level maybe 15 ft up from main floor.
+
+Recorded and transferred by J. Weiss
+
+Support Local H, see them live, and buy their merchandice.
+More info @ localh.com. 

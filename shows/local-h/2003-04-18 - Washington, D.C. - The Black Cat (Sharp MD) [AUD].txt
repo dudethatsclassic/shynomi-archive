@@ -1,41 +1,46 @@
-localh2003-04-18t01.flac:af8935aa95031bb3e7a3f0be7dc4c900
-localh2003-04-18t20.flac:c730e7dd07ec7ad924a4bef37cb3ceeb
-localh2003-04-18t01.flac:af8935aa95031bb3e7a3f0be7dc4c900
-localh2003-04-18t02.flac:5d726f74b6fb12852de759277724dfa6
-localh2003-04-18t03.flac:b52ea2308ac174946a527976e4c93451
-localh2003-04-18t04.flac:c3e449981bc733db07dac0b123f6ad97
-localh2003-04-18t05.flac:67e05b0a7726ca10cf246a2bb0b0041b
-localh2003-04-18t06.flac:8a470d7ac8f582d3bc507c209196f918
-localh2003-04-18t07.flac:b2ad0b11aec89d2457eba49a7bc3ff30
-localh2003-04-18t08.flac:753eb97abcbc743100315c3248347a6a
-localh2003-04-18t09.flac:00000000000000000000000000000000
-localh2003-04-18t10.flac:00000000000000000000000000000000
-localh2003-04-18t11.flac:9b8ae166034d7a839a66973cee741724
-localh2003-04-18t12.flac:d9fea0e8435bf6a2ccc94513afcb9cdb
-localh2003-04-18t13.flac:179a4329c8214dbf0b784c1763f00471
-localh2003-04-18t14.flac:8962d7c057db72237b47b558d442db22
-localh2003-04-18t15.flac:378523cffc2fbdb790da4c17f2507ff5
-localh2003-04-18t16.flac:d0a7c9dee7d1784c01eba1d2d32fcb80
-localh2003-04-18t17.flac:078c958d1414a051de5bc7cc5ee27778
-localh2003-04-18t18.flac:9473082038528e7dd07a2ef4aa1f3dfe
-localh2003-04-18t19.flac:a153c341e6ca97ac7c53df24c81cf6f0
-localh2003-04-18t20.flac:772303e2f976b13504a2a39d72829be4
-localh2003-04-18t01.flac:af8935aa95031bb3e7a3f0be7dc4c900
-localh2003-04-18t02.flac:5d726f74b6fb12852de759277724dfa6
-localh2003-04-18t03.flac:b52ea2308ac174946a527976e4c93451
-localh2003-04-18t04.flac:c3e449981bc733db07dac0b123f6ad97
-localh2003-04-18t05.flac:67e05b0a7726ca10cf246a2bb0b0041b
-localh2003-04-18t06.flac:8a470d7ac8f582d3bc507c209196f918
-localh2003-04-18t07.flac:b2ad0b11aec89d2457eba49a7bc3ff30
-localh2003-04-18t08.flac:753eb97abcbc743100315c3248347a6a
-localh2003-04-18t09.flac:e16089e190f1f659d9e4e910c916784c
-localh2003-04-18t10.flac:eefc94fb0127cc41b1584dcf3b611d8b
-localh2003-04-18t11.flac:d52c0967b7d3fdaa7cc07d16a6adac8e
-localh2003-04-18t12.flac:48749aebb8b18921bdad76efd284f547
-localh2003-04-18t13.flac:d69916130cc6acfd67d87a85e1e68bbb
-localh2003-04-18t14.flac:2d8bc7e91c6fe650bd1fec1fe6fe7215
-localh2003-04-18t15.flac:e2e1da0b7c6ac36384994a362428b499
-localh2003-04-18t16.flac:bba381aee7d65b2eb8c641ce00ac6f29
-localh2003-04-18t17.flac:f175650e38015e3e904ceb16272479c0
-localh2003-04-18t18.flac:fb0aaee21cf93a1d2bce62b63ca1472a
-localh2003-04-18t19.flac:2cc8edfbce248d86cc1cbffb2b672564
+Local H
+April 18th, 2003.
+Black Cat - Washington DC.
+
+Taper: Zack Hair <zacharyhair@aol.com>
+Location: Back of audience on the floor. 
+Source: Sharp Minidisc MD-MT161E -> Goldwave
+Conversion: Zack Hair
+
+----------------------------------------------
+
+Disc One: (74:58)
+
+01. Intro             		      3:06
+02. No Fun            		      4:30
+03. Fritz's Corner                           3:07
+04. High Fiven MF                           6:06
+05. User                                         2:27
+06. Rock And Roll Professionals    3:53
+07. <Banter>		      1:43
+08. Chicago Fanphair '87	      3:53
+09. Deep Cut		      2:06
+10. Halcyon Days ^ 		      2:23	
+11. I Saw What You Did And I	      3:23
+    Know Who You Are		    
+12. <Banter>		      2:01
+13. President Forever	      3:13
+14. Half-Life		      3:34
+15. Cooler Heads		      3:27
+16. All-Right (Oh Yeah)	      3:37
+17. <Encore Break>	                      4:53
+18. I Just Want Something To Do* 2:45
+19. Hands On The Bible                 4:14
+20. Fuck Yeah, That Wide	    10:27
+
+---------------------------------------------
+Notes:
+
+^ = Scott solo, first time performed live.
+
+* = Originally recorded by The Ramones
+
+---------------------------------------------
+For more information on Local H, please visit:
+
+ http://www.localh.com/

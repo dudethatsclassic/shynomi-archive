@@ -1,23 +1,53 @@
-01) Novacane.flac:84be0b0ac8d75fda044c592278e19c1b
-02) Mixed Bizness.flac:581e005a89dd0a8ecc9a35b50b0c6991
-03) Thunder Peel.flac:7bc3d182f7fe65f297978e092e99bca4
-04) Hotwax.flac:91a6d50949f74dda71c0b3fb9ad80199
-05) The New Pollution.flac:9dd5cefb342cb2e36b90475e88c7b9fd
-06) Get Real Paid.flac:df4c5313b6a8f258fdafc7f62005f697
-07) Nicotine & Gravy.flac:0c6cdc25a6e52a491c5ccd65dc5afa79
-08) Lazy Flies.flac:0ef4a50dd730dd63a3d98e54a4e33b39
-09) Do You Realize (Flaming Lips).flac:d274ba3fdd28ced89f42c86d5a43d4d3
-10) Guess I'm Doing Fine.flac:aca3e56fcedb3eaf96ad4c839d5f07a8
-11) Lost Cause.flac:371f6335693e012341cd6a78658f7132
-12) Lonesome Tears.flac:b18bc6839a000a54c716e341dd12900e
-13) Cold Brains.flac:a6381fe3ce2e94d5b8a38913cf651505
-14) Paper Tiger.flac:53f76ed697d8b4eafda8648f79784978
-15) Beer Commercial Blues.flac:eb3abdd66b5513875564dd5da0129826
-16) Loser.flac:68f266933605051c6ae6c09663c69804
-17) Milk & Honey.flac:f2e7f28c7f6a168355ac930c28316fa5
-18) Hollywood Freaks.flac:f3d803906ac2f1368aa5780a4aecb947
-19) Beercan.flac:f6502f11593f803973a0f45dbbee456d
-20) Where It's At.flac:323196f09b5ee7d65614d0021a081701
-21) The Golden Age.flac:dacb67ecc408a1946ae0435705714175
-22) It's All In Your Mind.flac:ec36c13f31489d5b1ea9a327e5ad4713
-23) Devils Haircut.flac:357048c5e7dc74562b7dd7a5abbe0684
+Beck
+June 14 2003
+Denver, CO
+Red Rocks Ampitheatre
+
+Source: Sharp MT770 with MLC, SP-CMC-2 AT Cardioids w/ battery box
+
+Gen:    MD Master > PC > CD > EAC > PC >Sony Soundforge 7.0a (Track Splitting) > FLAC Front End 1.7.1
+
+
+Setlist:
+
+
+Disc 1
+
+01) Novacane
+02) Mixed Bizness
+03) Thunder Peel
+04) Hotwax ---> Beatbox ---> One Foot In The Grave
+05) The New Pollution
+06) Get Real Paid
+07) Nicotine & Gravy
+08) Lazy Flies
+09) Do You Realize?
+10) Guess I'm Doing Fine
+11) Lost Cause
+12) Lonesome Tears
+13) Cold Brains
+14) Paper Tiger
+15) Beer Commercial Blues
+16) Loser
+17) Milk & Honey
+18) Hollywood Freaks
+19) Beercan *
+
+Disc 2
+
+20) Where It's At
+21) The Golden Age
+22) It's All In Your Mind
+23) Devils Haircut
+
+
+* Beercan was originally split between the 2 discs (probably where the minidisc was switched), but I edited together   for a better listening experience.
+
+
+
+Ripped, Tracked, FLACed, and Seeded by:
+
+breathmint (breathmint@hotmail.com)
+
+on becktabs hub (dc://becktabs.homeunix.org)
+

@@ -1,21 +1,43 @@
-localh-2010-04-09-mc930-16b-t01.flac:870e336b6c47fbb54d6b5ce4e5718c4d
-localh-2010-04-09-mc930-16b-t02.flac:46db7bd1e3496d45fb6b457f1614efa1
-localh-2010-04-09-mc930-16b-t03.flac:09eef5094cbc30f65a840cd9df68d773
-localh-2010-04-09-mc930-16b-t04.flac:41f542543f682efd68adb09ff0479999
-localh-2010-04-09-mc930-16b-t05.flac:d89660f2046686723d50b068a4d21b81
-localh-2010-04-09-mc930-16b-t06.flac:3a1dc021ca8ae6453617cc2d93f14fab
-localh-2010-04-09-mc930-16b-t07.flac:b0a7aa028d775a215961c0a8f7059d81
-localh-2010-04-09-mc930-16b-t08.flac:7cc09427f26e2282103a81552e8c8265
-localh-2010-04-09-mc930-16b-t09.flac:51667f30868e526b98e7ee10531f47a2
-localh-2010-04-09-mc930-16b-t10.flac:e2d0a8ef2a4d638b97f43596fbcc8ebe
-localh-2010-04-09-mc930-16b-t11.flac:9c0dbd4cda0a412f5578ba67c7c1feb0
-localh-2010-04-09-mc930-16b-t12.flac:1fd08433b9e2e3cfa16f29799f26a41a
-localh-2010-04-09-mc930-16b-t13.flac:b873b922d9c985fb1652674c7bbd4fb0
-localh-2010-04-09-mc930-16b-t14.flac:99018ca376bad14d5c2b5103a9097f5a
-localh-2010-04-09-mc930-16b-t15.flac:7d1668e84f038976c8acbb66c8563249
-localh-2010-04-09-mc930-16b-t16.flac:ad31dcff7730dd081e37e915ad46a004
-localh-2010-04-09-mc930-16b-t17.flac:56ddd9d0c8c0a99afb26fb0d98d987c7
-localh-2010-04-09-mc930-16b-t18.flac:84d992c04481d61d40575c588354f116
-localh-2010-04-09-mc930-16b-t19.flac:5ff594da22191ed1bc1e2df1796a4669
-localh-2010-04-09-mc930-16b-t20.flac:faee8e76a96a98892ab4ec9571e195db
-localh-2010-04-09-mc930-16b-t21.flac:013d840bea9104093c47363584c5d670
+Local H
+2010-04-09
+Shark City
+Glendale Heights, IL
+
+Night 1 of the 6 Angry records Tour. Performing 
+the record As Good As Dead.
+
+Source:     Beyerdynamics MC930 (DIN) > Apogee MiniMe > MTII
+
+Transfer:   MTII > USB > Adobe Audition 3.0
+
+Generation: WAV(M 24bit 48kHz) > WAV(16bit 44.1 kHz) 
+            > CD Wave 1.95.2 > FLAC Frontend 1.7.1 [Level 6]
+
+SET:
+----
+01. intro
+02. Manifest Density Pt. 1
+03. Bound For The Floor
+04. Lovey Dovey
+05. I Saw What You Did And I Know Who You Are
+06. Freeze-Dried (F)Lies
+07. Eddie Vedder
+08. Back In The Day
+09. No Problem
+10. Nothing Special
+11. High-Fiving MF
+12. Fritz's Corner
+13. OK
+14. Manifest Density Pt. 2
+15. Scott Rock
+16. Fine And Good
+17. Michelle (again)
+18. BMW Man
+19. Hands On The Bible
+20. California Songs
+21. Skid Marks*
+
+*Cut outs lost approx 3 mins. of recording.
+
+Mics located Left of SBD, 7.5 ft high, aprrox. 30 ft from stage.
+Recorded, and transferred by John Weiss.

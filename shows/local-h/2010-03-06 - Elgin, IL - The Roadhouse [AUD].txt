@@ -1,18 +1,39 @@
-localh-2010-03-06-mc930-16b-t01.flac:d27e62a16f4ad133f0b15854a842f8c6
-localh-2010-03-06-mc930-16b-t02.flac:898d47f0b7181ceebcbe90b54cd02318
-localh-2010-03-06-mc930-16b-t03.flac:1c8f2b86fc2d7d26e58be8f168e0c307
-localh-2010-03-06-mc930-16b-t04.flac:f7f7df68168331460217cb188190c1a8
-localh-2010-03-06-mc930-16b-t05.flac:514526975bd905ad68fcc8e0e95546be
-localh-2010-03-06-mc930-16b-t06.flac:c440e4044e91fe27d314fc0f39056337
-localh-2010-03-06-mc930-16b-t07.flac:0380ca918c2118aaef5e335f2380cb6c
-localh-2010-03-06-mc930-16b-t08.flac:3f5d6258fcdf6639af003460b50fdf30
-localh-2010-03-06-mc930-16b-t09.flac:85100b32050104b0d3fdfad2438a210c
-localh-2010-03-06-mc930-16b-t10.flac:9ef1c2caebb3cb96bb2e0e64a98cb832
-localh-2010-03-06-mc930-16b-t11.flac:f725d5554d418da4f03bd9c78709475f
-localh-2010-03-06-mc930-16b-t12.flac:d67ab20788f49bfd8db7e18aad2d5eef
-localh-2010-03-06-mc930-16b-t13.flac:87ef2c5fa31598a9ba5e44e10ecc2e81
-localh-2010-03-06-mc930-16b-t14.flac:e17cb566b47c611a65dac8859bd1073f
-localh-2010-03-06-mc930-16b-t15.flac:9f96467b658261ce29c656e9c33e0423
-localh-2010-03-06-mc930-16b-t16.flac:c081407839fa17143c2d25db3cbfcec9
-localh-2010-03-06-mc930-16b-t17.flac:407a17289e35a333f250b15684e3b9ef
-localh-2010-03-06-mc930-16b-t18.flac:fe423377c98ca595b4fc68e7b5a02420
+Local H 
+2010-03-06
+The Roadhouse
+Elgin, IL
+
+Source:     Beyerdynamics MC930 (DIN) > Apogee MiniMe > MT
+
+Transfer:   MT > USB > Adobe Audition 3.0
+
+Generation: WAV(M 24bit 48kHz) > remaster > WAV(16bit 44.1 kHz) 
+            > CD Wave 1.95.2 > FLAC Frontend 1.7.1 [Level 6]
+
+Set: 100 min.
+-------------
+01. The One With Kid
+02. Everyone Alive
+03. Eddie Vedder
+04. California Songs
+05. Hands On The Bible
+06. Buffalo Trace
+07. Taxi-Cabs
+08. 24 Hour Break-Up Session
+09. Dick Jones
+10. Cool Magnet
+11. Hey Rita > I've Got A Feeling
+12. Fritz's Corner
+13. Hi-Fiven MF
+14. No Problem
+15. encore break
+16. Time
+17. Bound For The Floor
+18. Skid Marks
+
+Location: Approx 50 ft. back,5 ft. LOC, mics 8 ft. up. 
+
+Recorded, remastered and transferred by J. Weiss
+
+Support Local H, see them live, and buy their merchandice.
+More info @ localh.com. 

@@ -1280,8 +1280,7 @@ const ARTIST_DATA = {
       "venue": "RPI Fieldhouse",
       "notes": "ANA(3) \u00b7 unk",
       "version": "AUD #1",
-      "format": "FLAC",
-      "textFile": "1991-11-05 - Troy, NY - RPI Fieldhouse (AMT) [DVD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -1294,7 +1293,8 @@ const ARTIST_DATA = {
       "venue": "RPI Fieldhouse",
       "notes": "unk",
       "version": "AMT",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1991-11-05 - Troy, NY - RPI Fieldhouse (AMT) [DVD].txt"
     },
     {
       "year": 1991,
@@ -1598,7 +1598,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 fonky1",
       "version": "AUD #2",
       "format": "FLAC",
-      "textFile": "1992-07-19 - Mounain View, CA - Shoreline Amphitheatre - Lollapolloza II (Aiwa TPS30) (scott heller) [AUD].txt"
+      "textFile": "1992-07-19 - Mountain View, CA - Shoreline Amphitheater [AUD #2].txt"
     },
     {
       "year": 1992,
@@ -1612,7 +1612,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-07-19 - Mountain View, CA - Shoreline Amphitheater [AUD #2].txt"
+      "textFile": "1992-07-19 - Mounain View, CA - Shoreline Amphitheatre - Lollapolloza II (Aiwa TPS30) (scott heller) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1681,7 +1681,7 @@ const ARTIST_DATA = {
       "notes": "Lollapalooza",
       "version": "AUD #2",
       "format": "FLAC",
-      "textFile": "1992-08-08 - Mansfield, MA - Great Woods Performing Arts Center (Lollapalooza) [AUD #1].txt"
+      "textFile": "1992-08-08 - Mansfield, MA - Great Woods Performing Arts Center (Sony D6) [AUD #1].txt"
     },
     {
       "year": 1992,
@@ -1695,7 +1695,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 Sony D6",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1992-08-08 - Mansfield, MA - Great Woods Performing Arts Center (Sony D6) [AUD #1].txt"
+      "textFile": "1992-08-08 - Mansfield, MA - Great Woods Performing Arts Center (Lollapalooza) [AUD #1].txt"
     },
     {
       "year": 1992,
@@ -1913,7 +1913,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO #1c",
       "format": "MKV",
-      "textFile": "1993-01-26 - Buenos Aires, Argentina - Estadio Obras Sanitarias (FM) [SBD #1].txt"
+      "textFile": "1993-01-26 - Buenos Aires, Argentina - Obras Sanitarias - VHS(1) (unk) [PRO #1c].txt"
     },
     {
       "year": 1993,
@@ -1927,7 +1927,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO #1d",
       "format": "MKV",
-      "textFile": "1993-01-26 - Buenos Aires, Argentina - Obras Sanitarias - VHS(1) (unk) [PRO #1c].txt"
+      "textFile": "1993-01-26 - Buenos Aires, Argentina - Obras Sanitarias - VHS(1) (unk) [PRO #1d].txt"
     },
     {
       "year": 1993,
@@ -1941,7 +1941,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD #1",
       "format": "FLAC",
-      "textFile": "1993-01-26 - Buenos Aires, Argentina - Obras Sanitarias - VHS(1) (unk) [PRO #1d].txt"
+      "textFile": "1993-01-26 - Buenos Aires, Argentina - Estadio Obras Sanitarias (FM) [SBD #1].txt"
     },
     {
       "year": 1993,
@@ -2095,7 +2095,7 @@ const ARTIST_DATA = {
       "notes": "ECM737 \u00b7 unk",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1994-10-21 - Pasadena, CA - Rose Bowl (Sony ECM-909A) (marco moir) [AUD24].txt"
+      "textFile": "1994-10-21 - Pasadena, CA - Rose Bowl [AUD #1].txt"
     },
     {
       "year": 1994,
@@ -2109,7 +2109,7 @@ const ARTIST_DATA = {
       "notes": "Sony ECM-909A \u00b7 marco moir",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1994-10-21 - Pasadena, CA - Rose Bowl [AUD #1].txt"
+      "textFile": "1994-10-21 - Pasadena, CA - Rose Bowl (Sony ECM-909A) (marco moir) [AUD24].txt"
     },
     {
       "year": 1995,
@@ -2455,7 +2455,7 @@ const ARTIST_DATA = {
       "notes": "Moonraker",
       "version": "SBD #1",
       "format": "FLAC",
-      "textFile": "1996-05-14 - Sydney, Australia - Sydney Entertainment Centre (unk) [SBD #1].txt"
+      "textFile": "1996-05-14 - Sydney, AUS - Sydney Entertainment Center [SBD #1].txt"
     },
     {
       "year": 1996,
@@ -4686,8 +4686,7 @@ const ARTIST_DATA = {
       "venue": "Estadio Monumental Antonio Vespucio Liberti",
       "notes": "ANA(M) \u00b7 unk",
       "version": "SBD #1",
-      "format": "FLAC",
-      "textFile": "2002-10-16 - Buenos Aires, Argentina - River Plate Stadium (Version 1) [SBD #1].txt"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -4700,7 +4699,8 @@ const ARTIST_DATA = {
       "venue": "River Plate Stadium",
       "notes": "ANA(1) \u00b7 Version 1",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-10-16 - Buenos Aires, Argentina - River Plate Stadium (Version 1) [SBD #1].txt"
     },
     {
       "year": 2002,
@@ -9032,8 +9032,7 @@ const ARTIST_DATA = {
       "venue": "Rogers Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2012-11-17 - Vancouver, BC - Rogers Arena (CA-14 + CA-11) (seth meister) [MIX24].txt"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -9046,7 +9045,8 @@ const ARTIST_DATA = {
       "venue": "Rogers Arena",
       "notes": "CA-14 + CA-11 \u00b7 seth meister",
       "version": "MIX",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2012-11-17 - Vancouver, BC - Rogers Arena (CA-14 + CA-11) (seth meister) [MIX24].txt"
     },
     {
       "year": 2012,
@@ -9624,7 +9624,8 @@ const ARTIST_DATA = {
       "venue": "Isle of Wight Festival",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-06-14 - Isle Of Wight, England - Isle of Wight Festival [SBD #2].txt"
     },
     {
       "year": 2014,
@@ -9637,8 +9638,7 @@ const ARTIST_DATA = {
       "venue": "Isle of Wight Festival",
       "notes": "Absolute Radio Stream",
       "version": "SBD #2",
-      "format": "FLAC",
-      "textFile": "2014-06-14 - Isle Of Wight, England - Isle of Wight Festival [SBD #2].txt"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -10520,7 +10520,7 @@ const ARTIST_DATA = {
       "notes": "Tascam Dr-08 \u00b7 binko",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2017-02-10 - Buffalo, NY - Key Bank Center (Official) [SBD].txt"
+      "textFile": "2017-02-10 - Buffalo, NY - Key Bank Center [AUD].txt"
     },
     {
       "year": 2017,
@@ -10534,7 +10534,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2017-02-10 - Buffalo, NY - Key Bank Center [AUD].txt"
+      "textFile": "2017-02-10 - Buffalo, NY - Key Bank Center (Official) [SBD].txt"
     },
     {
       "year": 2017,
@@ -10786,7 +10786,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4023 \u00b7 george wang",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2017-04-19 - Columbia, SC - Colonial Life Arena (Official) [SBD].txt"
+      "textFile": "2017-04-19 - Columbia, SC - Colonial Life Arena [AUD #1].txt"
     },
     {
       "year": 2017,
@@ -10800,7 +10800,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2017-04-19 - Columbia, SC - Colonial Life Arena [AUD #1].txt"
+      "textFile": "2017-04-19 - Columbia, SC - Colonial Life Arena (Official) [SBD].txt"
     },
     {
       "year": 2017,
@@ -11416,7 +11416,7 @@ const ARTIST_DATA = {
       "notes": "SP Omnis \u00b7 unk",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2017-10-16 - Denver, CO - Pepsi Center (Official) [SBD].txt"
+      "textFile": "2017-10-16 - Denver, CO - Pepsi Center [AUD #1].txt"
     },
     {
       "year": 2017,
@@ -11430,7 +11430,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC HD",
-      "textFile": "2017-10-16 - Denver, CO - Pepsi Center [AUD #1].txt"
+      "textFile": "2017-10-16 - Denver, CO - Pepsi Center (Official) [SBD].txt"
     },
     {
       "year": 2017,
@@ -12297,7 +12297,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 \u00b7 toshi",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-02-21 - Osaka, Japan - Osaka Jo Hall -  Japan Tour 2023 Osaka - Definitive Edition (xavel) [MIX].txt"
+      "textFile": "2023-02-21 - Osaka, Japan - Okaka-Jo Hall (SP-CMC-8) (toshi) [AUD].txt"
     },
     {
       "year": 2024,

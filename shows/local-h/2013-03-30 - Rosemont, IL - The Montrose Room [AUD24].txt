@@ -1,22 +1,47 @@
-lh-2013-03-30-mc930-24b-t01.flac:663f4f95fa032a51cc1e784497389b84
-lh-2013-03-30-mc930-24b-t02.flac:cf223e28d73bd7d4eb1043609e8bdad2
-lh-2013-03-30-mc930-24b-t03.flac:2e87960a570da6db058332d4c828bcb1
-lh-2013-03-30-mc930-24b-t04.flac:d8a966ae929b80e604c9313ccb948b41
-lh-2013-03-30-mc930-24b-t05.flac:1a15f7a9f4e0f7ff0eba9692574a5b5b
-lh-2013-03-30-mc930-24b-t06.flac:d4de3ff0425b1633bd5e7497038fb15a
-lh-2013-03-30-mc930-24b-t07.flac:ca12ef6abbd405df5d183049e322b101
-lh-2013-03-30-mc930-24b-t08.flac:8de2bae2ce4d81f752c15ec5147f1f6f
-lh-2013-03-30-mc930-24b-t09.flac:bea113629bec4313fa504db4d3dfa7f9
-lh-2013-03-30-mc930-24b-t10.flac:f8adab5f10f398c88a56fcae86dc5fc3
-lh-2013-03-30-mc930-24b-t11.flac:eef2a3063bca9fea5e8a8dd9118fd501
-lh-2013-03-30-mc930-24b-t12.flac:07e8b3691ad0c24a555c00f7875082de
-lh-2013-03-30-mc930-24b-t13.flac:848df3822daa049f88063a90bc51a456
-lh-2013-03-30-mc930-24b-t14.flac:e728d382e01245b539d316423fecefae
-lh-2013-03-30-mc930-24b-t15.flac:f1c107431f9fdaaa99c35f62a7142818
-lh-2013-03-30-mc930-24b-t16.flac:91ad11be8446c06dff0cb4fa0a0cc5d1
-lh-2013-03-30-mc930-24b-t17.flac:13c32e563dbbcdc40bd272b3054c9aa3
-lh-2013-03-30-mc930-24b-t18.flac:d2f9e2ccff2d0e21006d6fa4ff268ae8
-lh-2013-03-30-mc930-24b-t19.flac:5805d1f409de65ad237fb33e9ce7cc3f
-lh-2013-03-30-mc930-24b-t20.flac:b67843b993ccb415f3610e481d96853b
-lh-2013-03-30-mc930-24b-t21.flac:dfd38f84c17f6b638dcf67e52f5f27be
-lh-2013-03-30-mc930-24b-t22.flac:b1336ffae7025d7d944f86cfe8ee3364
+Local H
+2013-03-30
+The Montrose Room
+Rosemont, IL
+
+Source:     Beyerdynamics MC930 > Apogee MiniMe > MT
+
+Transfer:   MT > USB > Adobe Audition 
+
+Generation: WAV(M 24bit 48kHz) > edit > CD Wave 1.95.2 >
+            FLAC Frontend 1.7.1 [Level 6]
+
+Set (1hr 30 min)
+----------------
+01. Looks Who's Walking On Four Legs Again*
+02. Blue Line
+03. Eddie Vedder
+04. The One With Kid
+05. banter
+06. Deep Cut
+07. Ruling Kind
+08. Cold Manor
+09. California Songs
+10. Another Febuary
+11. Sad History
+12. All-Right (Oh, Yeah)
+13. Fritz's Corner
+14. Nothing Special
+15. encore break
+16. All The Kids Are Right (solo)
+17. Hands On The Bible
+18. Waves Again
+19. Terrible Love
+20. Bound For The Floor >
+21. What Would You Have Me Do? >
+22. Jam/out
+
+* = cuts in (missed 10 seconds or so)
+
+Location: Just right of center, above rail, mics up 7 ft.
+
+Big Thanks to Local H, for allowing this recording to 
+happen. More info at localh.com 
+
+Recorded and transferred by John Weiss
+
+

@@ -1,16 +1,23 @@
-beck1997-09-06t01 Intro.flac:6ac750e87b1b6fee8bfd3e05b4ce67ed
-beck1997-09-06t02 Devil's Haircut.flac:44bc67b612203cb98e47d4a0979e8c4b
-beck1997-09-06t03 Novacane.flac:750804e59b6c75426a2cef5d2d3ae1c6
-beck1997-09-06t04 Hotwax.flac:31407935f70d1e09fbefed1c24e60021
-beck1997-09-06t05 Debra.flac:f46209da350542c4b2a387cdeba0a579
-beck1997-09-06t06 Allegretto Per Signora.flac:6c55493b9a1339bd5a3b05fe08860dbb
-beck1997-09-06t07 The New Pollution.flac:9a14436e06f0f5840ba002422e71d4c5
-beck1997-09-06t08 Sissyneck.flac:3545ba62c40b844eb0f6124c6e84983b
-beck1997-09-06t09 Derelict.flac:10398ef1ddd378ab9cc7d2e21e98806e
-beck1997-09-06t10 Rowboat.flac:1aa40cc9df3440c2545c5c1ccaad048b
-beck1997-09-06t11 Ramshackle.flac:61b21eaea55bbdd13207a6ef8ad0fb13
-beck1997-09-06t12 One Foot in the Grave.flac:fef101459d7cd85b2eb656bcdea3595c
-beck1997-09-06t13 Asshole.flac:693ef8370407d3effba30ecd4e840dbd
-beck1997-09-06t14 Commentary.flac:9b32493aff02bc4f424d43499d6f8a66
-beck1997-09-06t15 Jackass.flac:087bb02d78d60de62aeca144827a60c2
-beck1997-09-06t16 Where It's At.flac:8db64e235911c45b147461184a84ca47
+BECK
+"Sessions at West 54th"
+Sony Studios, New York City, NY   9/6/97
+
+Source: SBD > ? > CDR > EAC > FLAC Frontend
+
+Disc 1:
+01. Intro
+02. Devil's Haircut
+03. Novacane
+04. Hotwax
+05. Debra
+06. Allegretto Per Signora
+07. The New Pollution
+08. Sissyneck
+09. Derelict
+10. Rowboat
+11. Ramshackle
+12. One Foot in the Grave
+13. Asshole
+14. commentary
+15. Jackass
+16. Where It's At

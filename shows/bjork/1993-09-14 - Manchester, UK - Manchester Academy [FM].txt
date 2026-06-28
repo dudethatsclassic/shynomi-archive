@@ -1,12 +1,24 @@
-Björk 1993-09-14t12.flac:e1c7c803520fdc7d61f2403f1812fc0f
-Björk 1993-09-14t01.flac:9ff62d0587d3be9d80d3c730f13890bd
-Björk 1993-09-14t02.flac:3f58968d2b866a0bd6eaad20c8c5b1af
-Björk 1993-09-14t03.flac:742072f2d68608a23a31e5471d54d29d
-Björk 1993-09-14t04.flac:2d0b91837ac8e604edd6e70bc24187f7
-Björk 1993-09-14t05.flac:b2b9e8e00945e73b691b1ca3446dadca
-Björk 1993-09-14t06.flac:7345aea7726cd6139d7ed6cc9b951391
-Björk 1993-09-14t07.flac:1629264723182030371aeed2a2b0ef36
-Björk 1993-09-14t08.flac:5285b97d8edec569d16aaaeeb4d62028
-Björk 1993-09-14t09.flac:5e61b6d19fd9440d275d37253b3e6313
-Björk 1993-09-14t10.flac:f9f1cf0a260011c8c9f0191f891f6190
-Björk 1993-09-14t11.flac:d61e7372057550f4b07691e48291a985
+Björk 
+Manchester Academy
+14 September 1993
+
+01 Human Behaviour
+02 Atlantic
+03 One Day
+04 Venus As A Boy
+05 Come To Me
+06 The Anchor Song
+07 Play Dead
+08 Crying
+09 Violently Happy
+10 There's More To Life Than This
+11 Big Time Sensuality
+12 Army Of Me
+
+52:21 minutes
+
+Broadcast on BBC 6 Music
+30 June 2004
+
+Digital satellite receiver>audio CD recorder>CDRW>EAC>HD>CD Wave>CDR>EAC>HD>FLAC
+

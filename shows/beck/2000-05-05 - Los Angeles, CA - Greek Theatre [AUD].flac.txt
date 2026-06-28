@@ -1,19 +1,34 @@
-D1 Track01.flac:0473313d217598663e1adf469111271d
-D1 Track02.flac:1205a25af2b16bc864184d7b57c4e108
-D1 Track03.flac:ef4208727ea608c4892ae45a213d6dd3
-D1 Track04.flac:2983ceae3fcf55149f43f0bd4d9f884b
-D1 Track05.flac:417ab419dc66fa8dde1f54730de146e9
-D1 Track06.flac:8081d0f014488cdbb06c9566a4d7b7b4
-D1 Track07.flac:4ae6ae17ac482efca7bd9433d9c1f6f0
-D1 Track08.flac:1e9aad1500361b125751f41fc525d8d4
-D1 Track09.flac:0cb7462a864e274873c6d95ff49178d2
-D1 Track10.flac:3447f86b1acc180e7ea03424911a14e9
-D1 Track11.flac:ddf95acc14c972876861b82afe8a8df7
-D1 Track12.flac:f7f89df33ef861b001383fe317f1578e
-D1 Track13.flac:88070e3bde687a9b5a76d3d53d7c2f5b
-D1 Track14.flac:1bb4f22a99127287a62943f2b34af0c8
-D1 Track15.flac:7053dd04e68d9c25a77447efd97b62c1
-D2 Track01.flac:84459d6c4a66888a738b78dc114b5b0d
-D2 Track02.flac:a3e8ada78641d11e0ea0f33477a0d58f
-D2 Track03.flac:b8dde7b6912e59eb86b05aeecf058bfc
-D2 Track04.flac:240b00e65f72a20af870c29ae83b6df0
+Beck
+Greek Theatre
+Los Angeles,Ca
+May 5, 2000
+
+source    :  nakamichi cm300(cp4) > sony tcd-d100
+taper     :  markp
+
+SetList:
+
+------Disc 1 ----------
+01) Put Your Hands Where My Eyes Can See(Busta Rhymes Cover)
+02) Beercan / Electric Avenue (Eddy Grant Cover)
+03) Novacane
+04) Band Introductions / Jam Session
+05) Mixed Bizness
+06) Loser
+07) Hollywood Freaks
+08) Milk & Honey
+09) Minus
+10) Nicotine & Gravy
+11) Debra
+12) Tropicalia
+13) Dead Melodies
+14) One Foot in the Grave
+15) Nobody's Fault But My Own
+-----Disc 2-----------------
+01) Burro ((with Cafe Tacuba))
+02) Where It's At
+03) The New Pollution
+04) DJ Swamp
+    Devils Haircut
+    
+

@@ -1,28 +1,43 @@
-ryanadams2009-03-16d1t01.flac:aaaab3cd53246cb6ea98d78edf2947f0
-ryanadams2009-03-16d1t02.flac:573b7320c9c0f9d3d49dee854a85b0aa
-ryanadams2009-03-16d1t03.flac:80ca6e47c5f09dc0fa50c3fbe7e92265
-ryanadams2009-03-16d1t04.flac:7fd16878bb2e2dc801ba9bc0e78c8b66
-ryanadams2009-03-16d1t05.flac:09e8d696ddd21ba3f61bd5affe417e77
-ryanadams2009-03-16d1t06.flac:7e0d5ee77249d44a806ab1f72f12479f
-ryanadams2009-03-16d1t07.flac:a5ef5d9621a3e090c1a9ea6c3385ed63
-ryanadams2009-03-16d1t08.flac:6df42f15eb54d3b1a62e772650731aed
-ryanadams2009-03-16d1t09.flac:d1b862119437ef53f1d6e394a9e36d3e
-ryanadams2009-03-16d1t10.flac:544455c4e52eb13cfd54e0914af3776f
-ryanadams2009-03-16d1t11.flac:a9e114d5f06c7f95220648993c29fd88
-ryanadams2009-03-16d2t01.flac:1b13d2b71274723c07227879fa56d5c3
-ryanadams2009-03-16d2t02.flac:cb286113f029de75a9a74846b958101d
-ryanadams2009-03-16d2t03.flac:693dc232d0ce0db67fcb24caee6f011c
-ryanadams2009-03-16d2t04.flac:3c44ff70534889e438ba762101f8ad75
-ryanadams2009-03-16d2t05.flac:283ef45b2c24a18cf1c7a6fc9918955f
-ryanadams2009-03-16d2t06.flac:e39ff14aa696689d70818e2cfa320b02
-ryanadams2009-03-16d2t07.flac:b383722d4656a89339693667ca841e48
-ryanadams2009-03-16d2t08.flac:c82b167419ee8c7b33aa73842af3ce7b
-ryanadams2009-03-16d2t09.flac:0373a0af0c886870b59c811a2eed03e9
-ryanadams2009-03-16d2t10.flac:79c628e0b166ab2dc2f7b9cb70742769
-ryanadams2009-03-16d2t11.flac:cb1eee8e348f5e0398f997fed8ec1452
-ryanadams2009-03-16d2t12.flac:8f54d4366c17a5dfbe07c83823ebcc03
-ryanadams2009-03-16d2t13.flac:995a774ca788c16f3fa0172a07ee5e53
-ryanadams2009-03-16d2t14.flac:be2167b1cfe53082162e6a035efb1d30
-ryanadams2009-03-16d2t15.flac:43b52bad2f439671a39261681c782aa6
-ryanadams2009-03-16d2t16.flac:4e83a5cbc7acdf51927234c257131341
-ryanadams2009-03-16d2t17.flac:9ecd63f141b2d9dfb130262996c2b9ac
+Ryan Adams and The Cardinals
+03/16/09
+Louisville Palace Theater
+Louisville, KY
+
+Source : SBD > Sound Device 702 @ 24/96
+Transfer : CF > PC > Wavelab 5.0 for normalizing/using uv22hr for 24 to 16 bit conversion >
+CD Wave > xACT > Flac  16/44.1
+Taped and Transfered By : Brent Stober
+
+SET 1  50:26
+
+01.House Music/Intro
+02.Beautiful Sorta
+03.Fix It
+04.Born Into A Light
+05.Come Pick Me Up
+06.Cobwebs
+07.Two
+08.Freeway to the Canyon 
+09.I See Monsters
+10.Let it Ride 
+11.Goodnight Rose
+
+SET 2  74:35
+
+01.crowd
+02.Grand Island 
+03.Mockingbird >
+04.Please Do Not Let Me Go
+05.A Kiss Before I Go
+06.Cold Roses
+07.Games
+08.Peaceful Valley >
+09.Evergreen
+10.Lost Satellite 
+11.Blue Hotel
+12.Band Intros 
+13.Louisville Banter
+14.Why Do They Leave?
+15.Sink Ships
+16.Wonderwall
+17.Magick

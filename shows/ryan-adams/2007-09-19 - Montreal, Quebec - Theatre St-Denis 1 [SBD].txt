@@ -1,21 +1,39 @@
-ra2007-09-19d1t01.flac:fb1125471c559d1ea626deaa6e00d137
-ra2007-09-19d1t02.flac:ec3909e62211d4e6a918cfeff8122036
-ra2007-09-19d1t03.flac:ac11ca87dc53b2bb16b21add07058a42
-ra2007-09-19d1t04.flac:5906c62feb1ae08e9d5ac96a7bfd23d4
-ra2007-09-19d1t05.flac:9527958235b77a87a1ea94336d17ac2d
-ra2007-09-19d1t06.flac:a07aff09a9af117991ca7231c53c3364
-ra2007-09-19d1t07.flac:31eab8819096fb8a65396cc5cf789bdc
-ra2007-09-19d1t08.flac:6d1b586e6a660a16f7de77585d0156bd
-ra2007-09-19d1t09.flac:f862410d318cb3967d973f9f9acbe593
-ra2007-09-19d1t10.flac:63b037d94178e37dfa33110cdc037356
-ra2007-09-19d1t11.flac:32af9dd0d74e3f4373ae7f33c5483348
-ra2007-09-19d1t12.flac:b438cbd40449990e892484c80195f600
-ra2007-09-19d2t01.flac:ec72e6d7c485c1d4b830edb46bd94f00
-ra2007-09-19d2t02.flac:ce0f4b81b4cd971d27ef2e2052c4cbd8
-ra2007-09-19d2t03.flac:c402116723a44994b3bf0837200b75b3
-ra2007-09-19d2t04.flac:3c7cd6aeb6b93c72b631b2bc8f05a279
-ra2007-09-19d2t05.flac:f7f941436cd7d6495b6fcddfaa4e2a7b
-ra2007-09-19d2t06.flac:7d38be7fc6193ff7771bb4a02936f48c
-ra2007-09-19d2t07.flac:ccb6d71c2cc065a17da28e1c5c80e5c7
-ra2007-09-19d2t08.flac:f02f3a6a762948d411a894d81da7262d
-ra2007-09-19d2t09.flac:c6ff28afa37a6a48a79453676988684f
+Ryan Adams and The Cardinals
+Theatre St-Denis 1
+Montreal, Quebec Canada
+Wednesday, September 19, 2007
+
+Recording Process: XLR patch from soundboard>Tascam HD-P2 @24/96
+Transfer Process: Tascam HD-P2>Dell Inspiron 8600 via firewire>Audacity>cdwav>flacfrontend
+
+Taped/Transferred: Bill Demars
+wdemarsjr@yahoo.com
+
+Disc One
+1. Please Do Not Let Me Go
+2. Peaceful Valley
+3. Beautiful Sorta
+4. Wildflowers
+5. Off Broadway
+6. Dear John
+7. Goodnight Rose
+8. Blue Hotel
+9. Mockingbird
+10.Magnolia Mountain
+11.Shakedown on 9th Street
+12.I See Monsters
+Disc Two
+Encores 1
+01.SYLVIA PLATH (Ryan solo piano)
+02.Sweet Lil' Gal (Ryan solo piano)
+03.Rescue Blues (Ryan piano)
+04.Dear Chicago
+05.Cold Roses
+06.Games
+Encores 2
+07.Nightbirds
+08.Goodnight Hollywood Boulevard
+Encore 3
+09.Easy Plateau
+
+Thanks to Jon Carter for his hospitality and a great mix.

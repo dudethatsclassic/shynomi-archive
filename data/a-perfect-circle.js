@@ -200,8 +200,7 @@ const ARTIST_DATA = {
       "venue": "The Troubadour",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1999-10-22 - West Hollywood, CA - The Troubadour.txt"
+      "format": "FLAC"
     },
     {
       "year": 1999,

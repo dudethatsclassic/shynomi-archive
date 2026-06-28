@@ -1,17 +1,37 @@
-Beck2005-06-03T01.flac:3b8eedcf91cdcfb66985fd9dc4144064
-Beck2005-06-03T02.flac:eb97f83661d7aff6004ead1f022bfc86
-Beck2005-06-03T03.flac:9910f7f7e6bfae5ed2670929151e77ec
-Beck2005-06-03T04.flac:9c7a730ce1f97e135d7e569cdf528c8a
-Beck2005-06-03T05.flac:3f2c0cfb6a1d5f5174c3684f52af4af2
-Beck2005-06-03T06.flac:0537ff7ffd3fd37d6726c8f722224248
-Beck2005-06-03T07.flac:c2b64868536eca0e66159b938507d8f4
-Beck2005-06-03T08.flac:9122c5a8b2a1a44bc30439646241e100
-Beck2005-06-03T09.flac:a14a491d5a226962525a9c47f6d837b6
-Beck2005-06-03T10.flac:9da025d4992c33cb0b12309b6d8bb411
-Beck2005-06-03T11.flac:e19b684fd1f274804150388662d082ee
-Beck2005-06-03T12.flac:b92eb717d6052c51fedee5482d9d8e20
-Beck2005-06-03T13.flac:4d3e15f3f8643d958454e17f90e61559
-Beck2005-06-03T14.flac:0ef64fbd4460416d9ae177868e63fed9
-Beck2005-06-03T15.flac:1e8ceabbaad3c26e7c9e27a4d3ef5da5
-Beck2005-06-03T16.flac:aa58409cbe3b0f31017d449d5a4c324a
-Beck2005-06-03T17.flac:ddea03e59b77a20fe1ae0e9918ced15d
+Beck
+June 3 2005
+Apollo Theatre
+Manchester, England
+
+
+SBD >> Radio Wales >> Digital Satellite 48 KHz >> Digital Tos Link to PC > Goldwave record and edit > Wav > Flac
+
+01 Radio promo
+02 DJ Intro
+03 Intro
+04 Devils Haircut
+05 The New Pollution
+06 Scarecrow
+07 Paper Tiger
+08 Loser
+09 Rental Car
+10 Broken Drum
+11 Guess I'm Doing Fine
+12 Everybody's Gotta Learn Sometime
+13 True Love Will Find You In The End (Daniel Johnston Cover >> Clap Hands
+14 Where It's At
+15 E-Pro
+16 Sexx Laws
+17 Radio Promo
+
+(Broadcast on Radio Wales 21st January 2006)
+
+Dime/Brigstow
+
+
+Notes: (2006-01-24)
+
+I grabbed this from torrent, updated the text, added tags, FFP, and MD5.
+
+breathmint (breathmint@hotmail.com)
+becktabs hub (dc://becktabs.homeunix.org)

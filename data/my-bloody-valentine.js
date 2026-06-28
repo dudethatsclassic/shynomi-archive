@@ -1713,7 +1713,7 @@ const ARTIST_DATA = {
       "notes": "HiMD(M) \u00b7 Marantz EM8 \u00b7 straap",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-05-25 - Eindhoven, The Netherlands - Effenaar (Edirol R09) (martin van rappard remaster) [AUD24].txt"
+      "textFile": "2009-05-25 - Eindhoven, The Netherlands - Effenaar - HiMD(M) (Marantz EM8) (straap) [AUD].txt"
     },
     {
       "year": 2009,
@@ -1741,7 +1741,7 @@ const ARTIST_DATA = {
       "notes": "Edirol R09 \u00b7 martin van rappard remaster",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2009-05-25 - Eindhoven, The Netherlands - Effenaar - HiMD(M) (Marantz EM8) (straap) [AUD].txt"
+      "textFile": "2009-05-25 - Eindhoven, The Netherlands - Effenaar (Edirol R09) (martin van rappard remaster) [AUD24].txt"
     },
     {
       "year": 2009,

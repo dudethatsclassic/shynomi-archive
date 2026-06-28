@@ -756,7 +756,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2012-09-08 - Bridgeview, IL - Toyota Park (HEB DPA 4060) (live2cd) [AUD].txt"
+      "textFile": "2012-09-08 - Bridgeview, IL - Toyota Park (DPA 4060) (charles dewey cole) [AUD24].txt"
     },
     {
       "year": 2013,

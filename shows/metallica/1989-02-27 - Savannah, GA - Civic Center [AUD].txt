@@ -1,20 +1,27 @@
-2-27-89_01.flac:0c6653d623290c3a8a69594ed15c6b8d
-2-27-89_02.flac:85de0f1c7ee8b5e24696cf9a80dd08f5
-2-27-89_03.flac:409406b0fa227abd51072e26be73a724
-2-27-89_04.flac:596372d4f0b7c2986727acd925ab81f0
-2-27-89_05.flac:2b78420bbedef1eb65f6efd3ced78fff
-2-27-89_06.flac:b2630c0184783c62a103a93df88c5d7d
-2-27-89_07.flac:4cd7124c695614affc3c4dc0a1b68bc7
-2-27-89_08.flac:019d80016df8f357d6220a85cbf1ed04
-2-27-89_09.flac:fa81f12ef11a108f1c4814b8ab2da5fc
-2-27-89_10.flac:5a36d717a508fbd9b2c5d9079939d582
-2-27-89_11.flac:6d240d6f34319cb5988c8398ef8d070f
-2-27-89_12.flac:d68ae3d59ad46333602b207822277768
-2-27-89_13.flac:069819e94a04dcccbe629e4a13a242da
-2-27-89_14.flac:79248342a9a5d684e4fcfd9ba28fef64
-2-27-89_15.flac:e989d20b725142db3243961c2302cfca
-2-27-89_16.flac:9dd0c0969f069ee6657cf301e6b1f14e
-2-27-89_17.flac:27783120828639d02a514f98f8ccf223
-2-27-89_18.flac:a67d6bd6b1f4803eb80a9f733af5fa21
-2-27-89_19.flac:07af65550a3e319aac6a4a412e1a1da3
-2-27-89_20.flac:e51e658dadbeb6c4b2dd18bc91524fb8
+Metallica
+1989-02-27
+Civic Center
+Savannah, GA
+
+Intro
+Blackened
+For Whom the Bell Tolls
+Welcome Home (Sanitarium)
+Harvester of Sorrow
+Eye of the Beholder
+Jason's Solo
+Master of Puppets
+One
+Seek and Destroy
+...And Justice for All
+Creeping Death
+Fade to Black
+Kirk's solo
+Battery 
+Last Caress
+Am I Evil?
+Whiplash
+
+SOURCE: unknown mics > unknown recorder
+TRANSFER: unknown gen cassette > Adobe Audigy Platinum > Goldwave > CDWAVE > WAV (transferred by Jeff S.)
+

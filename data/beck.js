@@ -786,7 +786,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1997-02-14 - Santa Cruz, CA - Santa Cruz Civic Auditorium (New Source, Extra Tracks) [AUD].txt"
+      "textFile": "1997-02-14 - Santa Cruz, CA - Santa Cruz Civic Auditorium [SBD].txt"
     },
     {
       "year": 1997,
@@ -800,7 +800,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps CCM4 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-02-14 - Santa Cruz, CA - Santa Cruz Civic Auditorium [SBD].txt"
+      "textFile": "1997-02-14 - Santa Cruz, CA - Santa Cruz Civic Auditorium (New Source, Extra Tracks) [AUD].txt"
     },
     {
       "year": 1997,
@@ -2575,7 +2575,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 huibert",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-04-24 - Utrecht, The Netherlands - Vredenburg (Rappard Source - GSB - JVC XM-R70 - New Lineage) [AUD].txt"
+      "textFile": "2003-04-24 - Utrecht, The Netherlands - Vredenburg [AUD2].txt"
     },
     {
       "year": 2003,
@@ -2589,7 +2589,7 @@ const ARTIST_DATA = {
       "notes": "MD(x) \u00b7 rappard",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-04-24 - Utrecht, The Netherlands - Vredenburg [AUD2].txt"
+      "textFile": "2003-04-24 - Utrecht, The Netherlands - Vredenburg [AUD].shn.txt"
     },
     {
       "year": 2003,
@@ -2602,8 +2602,7 @@ const ARTIST_DATA = {
       "venue": "Vredenburg",
       "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2003-04-24 - Utrecht, The Netherlands - Vredenburg [AUD].shn.txt"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -3662,8 +3661,7 @@ const ARTIST_DATA = {
       "venue": "Manchester Apollo",
       "notes": "AT853 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2008-07-02 - England - Manchester Apollo [AUD].flac.txt"
+      "format": "FLAC"
     },
     {
       "year": 2008,

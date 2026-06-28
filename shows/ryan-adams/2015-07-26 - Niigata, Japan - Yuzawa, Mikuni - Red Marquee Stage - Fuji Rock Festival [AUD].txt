@@ -1,14 +1,27 @@
-ra2015-07-26t01.flac:9357a467ddb781cc6bd3e4320adfb3a3
-ra2015-07-26t02.flac:3c46085c50ddfe5066424dba4244cad6
-ra2015-07-26t03.flac:3e0ccb58df93a7304e146b67d9fb1bb2
-ra2015-07-26t04.flac:44447285aaaae1e33cda623927c4acb0
-ra2015-07-26t05.flac:1c931edb504a92390961e3ba3b4f0038
-ra2015-07-26t06.flac:5bb1b8c6744ab049b5122f15e59887ea
-ra2015-07-26t07.flac:eaa7718b6b688752e0ec0a88c1b22521
-ra2015-07-26t08.flac:ba66ae1c6c953401ba2714db17edf445
-ra2015-07-26t09.flac:dd3886e3eee3ab73edd9521da67bea75
-ra2015-07-26t10.flac:44f37db9aba6420aebb8869f1692f796
-ra2015-07-26t11.flac:2e23721fdcbaf922a91d3341bf2482bb
-ra2015-07-26t12.flac:ee6a227ee0eafe820147b8f75d04a202
-ra2015-07-26t13.flac:92c2f65ea46e79cfe26d779bfc5095c0
-ra2015-07-26t14.flac:47f119b9913ace9b6d74ba43df98a6cd
+RYAN ADAMS
+2016-07-26
+Fuji Rock Festival2015 - Red Marquee Stage
+Yuzawa,Mikuni,Niigata,japan
+
+Source:MM-HLSC SC-1 >PCM-M10(44.1kHz 16Bit)
+Lineage: PC>Sound Forge 11>Wav(44.1kHz 16Bit)>CD Wave Editor(tracking) >Flac(Level8)
+Taped by: Koji
+Transferred by: Koji
+
+
+Set 1
+01.announce
+02.Gimme Something Good
+03.Let It Ride
+04.Stay With Me
+05.Dirty Rain
+06.To Be Young (Is to Be Sad, Is to Be High)
+07.New York, New York
+08.Kim
+09.This House Is Not For Sale
+10.Peaceful Valley
+11.Magnolia Mountain
+12.Come Pick Me Up
+13.When the Stars Go Blue
+14.Shakedown On 9th Street
+

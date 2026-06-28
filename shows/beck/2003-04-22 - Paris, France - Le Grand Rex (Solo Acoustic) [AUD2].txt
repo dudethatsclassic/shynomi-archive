@@ -1,25 +1,40 @@
-beck2003-04-22d1tr13.flac:75e678bf10b2dd2c8e19b5fcc5801755
-beck2003-04-22d1tr02.flac:4ab898eece3b182aaeb8e607ba4314e8
-beck2003-04-22d1tr03.flac:2a953ef37fa2111b9df25ac703408a71
-beck2003-04-22d1tr04.flac:520892f646da7f19bf2cc8443623929d
-beck2003-04-22d1tr05.flac:e31c2b305d2c9e7a11f1fd61c73c5581
-beck2003-04-22d1tr06.flac:6ff48b5ce6e15c2bf15704494ee3b867
-beck2003-04-22d1tr07.flac:99ea3d25f84e0d0ea67e00436754fac2
-beck2003-04-22d1tr08.flac:d061f31129657b6e999a79cd6dba8209
-beck2003-04-22d1tr09.flac:e97ea480ebe6c7c6727921a790f5d075
-beck2003-04-22d1tr10.flac:79253697cc86d8dcf09311653eabbf0a
-beck2003-04-22d1tr11.flac:7b8f48e61cfa8ce02b1aa4ebff890621
-beck2003-04-22d1tr12.flac:1a8fd1b4cce8d01ed6a80fe7eb7fe94a
-beck2003-04-22d1tr01.flac:2898097027325ed7ea616da5c81a4c89
+Beck
+Solo Acoustic
+April 22, 2003
+Le Grand Rex
+Paris
 
-beck2003-04-22d2tr11.flac:89fede83dcd8a2dc85e3a653669058d2
-beck2003-04-22d2tr02.flac:c22c2dff6fa269bf1b1eea6005fbe3df
-beck2003-04-22d2tr03.flac:59b07e30ba85095bbf1876ffae2f1a2a
-beck2003-04-22d2tr04.flac:2ff015c42fe21b02db10fc9b9f44b9ee
-beck2003-04-22d2tr05.flac:e407162947edeb4eea2acea551b94176
-beck2003-04-22d2tr06.flac:71383b623555ee16c969b4c1431f4c77
-beck2003-04-22d2tr07.flac:d74f0e3ce870de9515d046a33a6a8cf3
-beck2003-04-22d2tr08.flac:63483a49a440066348be910d213efe9e
-beck2003-04-22d2tr09.flac:b6ecd347f6904ce98fd57a6bd0662166
-beck2003-04-22d2tr10.flac:c3bb082be57cb20d33d2880f48f0f63b
-beck2003-04-22d2tr01.flac:718a338b7d663af2eb289e85f6546ba5
+Lineage: DAT AUD(TCD100>OKMII)>CD>EAC>flac
+Thank you, oecourt, for the cds.
+
+disc1:
+
+01-Guess I'm Doing Fine
+02-Lazy Flies
+03-(I Heard That) Lonesome Whistle (Williams)
+04-Already Dead
+05-Kangaroo (Big Star)
+06-Dead Melodies
+07-Tropicalia
+08-Side Of The Road
+09-Beachwood Park (Zombies)
+10-Lonesome Tears
+11-Nicotine And Gravy
+12-Debra
+13-The Golden Age
+                                                   50'21''
+
+disc2:
+
+01-Beck, The Master Puppeteer
+02-Lost Cause
+03-The Devil Got My Woman
+04-Nobody's Fault But Mine
+05-Round The Bend
+06-Loser
+07-New Song (w/AIR)
+08-Whiskeyclone, Hotel City (w/AIR)
+09-Mexico (w/guest from audience)
+10-Love (Lennon)
+11-One Foot In The Grave 
+                                                     56'31'' 

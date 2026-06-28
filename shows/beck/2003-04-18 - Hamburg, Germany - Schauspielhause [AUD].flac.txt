@@ -1,22 +1,38 @@
-beck2003-04-18t01.flac:32f5ae1a50bce7a3141b0bf1070dd38b
-beck2003-04-18t02.flac:caa4f1a2ff76213b18d418f9d395d830
-beck2003-04-18t03.flac:12718639aa2a1cf25003d7f4e57b269c
-beck2003-04-18t04.flac:180a6d3ba1e5c01fef7072236d637dfd
-beck2003-04-18t05.flac:ecf4a94a2f58a16aab5bdea554b49c16
-beck2003-04-18t06.flac:d7b963d1b75a6fc9ef28341a39fecf98
-beck2003-04-18t07.flac:98d9d0695ba519f5ac1e9693795f8556
-beck2003-04-18t08.flac:13856e0f66d74f3f5acbec219198319d
-beck2003-04-18t09.flac:934619d73e867201e5e62e7d44362bde
-beck2003-04-18t10.flac:91aff9b1f78a1381ca147a0d9def3ae9
-beck2003-04-18t11.flac:1cd4fd56792c198d850082f6ed33c991
-beck2003-04-18t12.flac:7b916eb612751dc092283784a82b6a8e
-beck2003-04-18t13.flac:bd998bfd0182a01f1f936ef6476c40be
-beck2003-04-18t14.flac:e9f8dbcf286979830d8e42ccba7105e8
-beck2003-04-18t15.flac:062e0055d0396507f06cc59a36c53355
-beck2003-04-18t16.flac:a486cd2121da070d69387c2a8de978f7
-beck2003-04-18t17.flac:153c2144a420d17d7ce9dd9ea79d7f13
-beck2003-04-18t18.flac:03a992c710d375b1e59dd4901b33de91
-beck2003-04-18t19.flac:f3ca24bcfa1806a950eb52f03f11579b
-beck2003-04-18t20.flac:691001a81235fbecf679c732b725f031
-beck2003-04-18t21.flac:3b9cc8eb46a3d8d13827c87b61b3b2d4
-beck2003-04-18t22.flac:f8b00ab585c55de249bd9c0d29a3c34d
+Beck
+Schauspielhause
+Hamburg, Germany
+2003-04-18
+
+Source: Sony ECM-DS70P, hidden in baseball cap, 2 m extension cord.
+Lineage: Sony MZ R55 -> 14cm cable -> SHN -> FLAC 1.1.0 (Level 8)
+Taped by: slein (n-st@gmx.net)
+Position: Third Row
+
+Setlist:
+01 - Guess I'm Doing Fine
+02 - Lazy Flies
+03 - Lonesome Whistle (Hank Williams Cover)
+04 - The Golden Age
+05 - Already Dead
+06 - Kangaroo (Big Star Cover)
+07 - Dead Melodies
+08 - Tropicalia
+09 - Side of the Road
+10 - Beechwood Park (Zombies Cover)
+11 - Lonesome Tears
+12 - O Maria
+13 - Lost Cause
+14 - Devil Got My Woman (Skip James Cover)
+15 - Nicotine & Gravy
+16 - Nobody's Fault But My Own (Harmonium Version)
+17 - Round the Bend
+18 - Sunday Sun
+19 - Loser
+--
+20 - Do You Realize? (The Flaming Lips Cover)
+21 - Love (John Lennon Cover)
+--
+22 - One Foot in the Grave 
+
+Notes:
+First show of the solo acoustic tour.

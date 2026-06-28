@@ -1,22 +1,48 @@
-radams2006-07-28d1t01.flac:b627b911309a7c481e128df3ea41408e
-radams2006-07-28d1t02.flac:34686ee109aa9ae18f26ce59536eecf1
-radams2006-07-28d1t03.flac:70377f519f6d4ab78e6bc2e8ab1ec2d3
-radams2006-07-28d1t04.flac:b9cca240c18fbca520b603d9d5a9110b
-radams2006-07-28d1t05.flac:3160b660598541ac4cdb2aa63aee5919
-radams2006-07-28d1t06.flac:b0aa5e890e47f422ec1fbbbe39e7335c
-radams2006-07-28d1t07.flac:a1307c42aacb2bdc71877dba8a0a9273
-radams2006-07-28d1t08.flac:6dd74d9b0d27c90fdc59d9e343ca2345
-radams2006-07-28d2t01.flac:0e37de60c63cef5ccb33a467574335a3
-radams2006-07-28d2t02.flac:b87554947fda56b0de35919720983300
-radams2006-07-28d2t03.flac:f02d1f72ffb61b581b53b63e5506011f
-radams2006-07-28d2t04.flac:34ca23ddce8019fe3a4abfcfc4a84f59
-radams2006-07-28d2t05.flac:a5bbb340f4e941addb444e2767f7acf6
-radams2006-07-28d2t06.flac:c4c02c1a5bf2663bf13760c5cd26a68b
-radams2006-07-28d2t07.flac:8388e2238367a4ac50ddb51102b9c029
-radams2006-07-28d2t08.flac:70cd7c1bbaf4931154b84c18d086ea18
-radams2006-07-28d2t09.flac:bf5000fb5d2be361fa63e263de3d2825
-radams2006-07-28d2t10.flac:ab734d506c5e6c9b3dbf7e97902b85fa
-radams2006-07-28d2t11.flac:9b271f36a881e7061eb58b6d43e968a4
-radams2006-07-28d2t12.flac:0eb3336cf20ce236d42f12df50fd08fc
-radams2006-07-28d2t13.flac:d0eb8cdd81de9da867eb6236b6a49dfa
-radams2006-07-28d2t14.flac:c63c5431af3eeafde3b5811bc8fa9fb5
+Ryan Adams & the Cardinals
+2006-07-28
+Charleston Music Hall
+Charleston, SC
+
+Original Sources: SBD->M1(44.1) + AUD->KM140(ORTF)->MP2->M1(44.1)
+
+Source: SBD/AUD POST-Matrix > 24bit/88.2 Files > Mastering (January 2007) > CDR
+
+Lineage: CDR > Plextools Pro > WAV > FLAC [7]
+
+Taped by: Kevin Wathen (wkwathen AT yahoo.com)
+
+Transfered by: Jim Blackwood (Post Matrix + Mastering)
+
+Set 1:
+
+1. What Sin
+2. Please Do Not Let Me Go
+3. Shakedown on 9th St
+4. Blue Hotel
+5. Beautiful Sorta
+6. A Kiss Before I Go
+7. Lost Satelite
+8. Peaceful Valley
+
+Set 2:
+
+1. Cold Roses
+2. Hickory Wind
+3. To Be Young
+4. Harder Now That It's Over
+5. Anybody Wanna Take Me Home
+6. Dear Chicago
+7. Nightbirds
+8. Call Me On Your Way Back Home
+9. The End
+10. Houses On The Hill
+11. Wish You Were Here 
+12. This Is It >
+13. Bird Song
+
+Encore:
+
+14. Elizabeth, You Were Born To Play The Part
+
+
+Note..  Encore has M1 wireless interference briefly in left channel (from SBD source).

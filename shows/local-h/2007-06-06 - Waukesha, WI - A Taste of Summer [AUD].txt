@@ -1,19 +1,40 @@
-LocalH-2007-06-06-t01.flac:ccfe085156cdba6bc99c5c57a5f1b6c2
-LocalH-2007-06-06-t02.flac:f3d46d32042f2bbbaa5eecde8dac61c1
-LocalH-2007-06-06-t03.flac:4dcb057b9c368261b03104f25e039574
-LocalH-2007-06-06-t04.flac:353ce49945f73d26c11e0b77d20b8c8d
-LocalH-2007-06-06-t05.flac:068007fc5657a5a08c82b27914c5887d
-LocalH-2007-06-06-t06.flac:cd1cd4c2465f8db2baa5295a08e7567a
-LocalH-2007-06-06-t07.flac:72a791098f277eeba2ca21fab902aa72
-LocalH-2007-06-06-t08.flac:c5690605286ec76880ff14a60902e703
-LocalH-2007-06-06-t09.flac:5f2a5e94da63b497d68924f091ed4548
-LocalH-2007-06-06-t10.flac:73de5da6706fcd3ba4e127c497bbe3d5
-LocalH-2007-06-06-t11.flac:d147bb667a44deda81ea51af5d11b39d
-LocalH-2007-06-06-t12.flac:b8fec3fb71f625ebf002516fe85153a9
-LocalH-2007-06-06-t13.flac:8120f218e65d599228a3bfcf601f7c59
-LocalH-2007-06-06-t14.flac:94ad644aad0fbc594aca3ea2245c94ec
-LocalH-2007-06-06-t15.flac:5542a1e5e627d3b0973ca1d35b889051
-LocalH-2007-06-06-t16.flac:fcfab7703ee05afb77428bdd2ee9a2b1
-LocalH-2007-06-06-t17.flac:bdbc66d440607cc6ceb8f35b5d74798e
-LocalH-2007-06-06-t18.flac:7e19a8b6b17642fd52f9ab173481bcb3
-LocalH-2007-06-06-t19.flac:b04d468f119651eff859ee733db777f3
+Local H
+2007-06-06
+A Taste of Summer
+Waukesha, WI
+
+Source: AT U853's(mod) > CA ST-9100 > M-Audio MT 24/96
+
+Transfer: M-Audio MT 24/96 > USB > Adobe Audition 2.0
+
+Generation: WAV(M 24bit 48kHz) > WAV (16bit 44.1 kHz) > CD Wave 
+            > FLAC Frontend 1.7.1 [Level 8] 
+
+Duration: 82 min.
+
+Set: 
+01. Intro
+02. Blib
+03. Bound For The Floor	
+04. Heaven On The Way Down
+05. Michelle
+06. Fine And Good
+07. Everyone Alive
+08. Hands On The Bible
+09. California Songs
+10. Money On The Dresser
+11. Hey Rita (#1)
+12. All The Kids Are Right
+13. All Right (Oh-Yeah)
+14. Fritz's Corner
+15. Encore Break
+16. Last Caress
+17. Bloodstains
+18. Toxic
+19. What Would You Have Me Do/Jam
+
+Recorded and Transfered by John Weiss.
+
+Location: Approx. 20 ft. back, front of SBD, Mics 8ft up.  
+
+Thank You LOCAL H, please support, www.localh.com

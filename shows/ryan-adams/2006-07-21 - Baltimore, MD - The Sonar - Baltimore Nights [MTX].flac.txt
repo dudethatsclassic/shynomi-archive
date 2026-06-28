@@ -1,27 +1,48 @@
-radams2006-07-21d2t08.flac:b03361df19faa04e890b0fdbb1664d7a
-radams2006-07-21d2t09.flac:64a8942189a2d9eec6898d629ebc224b
-radams2006-07-21d2t10.flac:9c245a132e7dcbf74ffe146f307fc561
-radams2006-07-21d2t11.flac:15938e682a6bc7f28fb7d36a92415c3f
-radams2006-07-21d2t12.flac:7c7389b10c916e664439fdcccffef1a1
-radams2006-07-21d2t13.flac:2b82be637519fdb55443ee3bef68a456
-radams2006-07-21d1t01.flac:5fe3450df1f673f3f508792a359f4436
-radams2006-07-21d1t02.flac:d45f462e6960b988d24b923c910eb324
-radams2006-07-21d1t03.flac:0a612fbc6ac29f3c880d3fdd962a820f
-radams2006-07-21d1t04.flac:8e735c566ea32956ef259c2fc9d6bd5b
-radams2006-07-21d1t05.flac:93223d1d224826445f9a33988050abc4
-radams2006-07-21d1t06.flac:4d0a3f785ead8360a751eb3c58537a5d
-radams2006-07-21d1t07.flac:950991ef453d507372f0de94e096c1d7
-radams2006-07-21d1t08.flac:36d5443cf7ed39da9db333a7d2f55439
-radams2006-07-21d1t09.flac:33f96cf379ce54a399bbcf38c33c2402
-radams2006-07-21d1t10.flac:58b24077b36c0fd56d1808d769463306
-radams2006-07-21d1t11.flac:fc329732faa45b6d28930daba6a0be72
-radams2006-07-21d1t12.flac:2ff5b111bbd0de0135e339f81a780264
-radams2006-07-21d1t13.flac:6e3f8a8f400d12ebb16690a10ccc10e7
-radams2006-07-21d1t14.flac:8ebb0608d1ff9c0d5ca479c9f83cc3e6
-radams2006-07-21d2t01.flac:9bd0d1f27f07ce9129f349fb1d6034af
-radams2006-07-21d2t02.flac:ede96ddab2eeb90fbda1d3992b05d02d
-radams2006-07-21d2t03.flac:12a6da53dca865d8b8b6f119267f67a0
-radams2006-07-21d2t04.flac:722339e6b428f8041a8e714bdc66c65d
-radams2006-07-21d2t05.flac:bf8d31b99a47021becc79f24c565f4b7
-radams2006-07-21d2t06.flac:6080b268ede596f2a806e00a0e8503e1
-radams2006-07-21d2t07.flac:0710344161eb0b1a4d3af303d13011dd
+Ryan Adams & the Cardinals
+2006-07-21
+Sonar
+Baltimore, MD
+
+Original Sources: SBD->M1(44.1) + AUD->KM140(ORTF)->MP2->M1(44.1)
+
+Source: SBD/AUD POST-Matrix > 24bit/44.1 Files > Mastering ( 2007) > CDR
+
+Lineage: CDR > Plextools Pro > WAV > FLAC [7]
+
+Taped by: Kevin Wathen
+
+Transfered by: Jim Blackwood (Post Matrix + Mastering)
+
+Set 1:
+
+1: Peaceful Valley
+2: Let It Ride   	
+3: Magnolia Mountain 	
+4: Oh My Sweet Carolina 	
+5: To Be Young (Is To Be Sad, Is To Be High) 	
+6: My Winding Wheel 	
+7: Love Is Hell (false start)
+8. Love Is Hell	
+9: Please Do Not Let Me Go 	
+10: This Is It 	
+11: Tennessee Sucks 	
+12: Dear Chicago 	
+13: Beautiful Sorta 	
+14: Cherry Lane
+
+Set 2:
+
+1: The End   	
+2: A Kiss Before I Go 	
+3: Meadowlake Street 	
+4: September 	
+5: La Cienega Just Smiled 	
+6: Dance All Night 	
+7: Nightbirds 	
+8: Trains 	
+9: Wharf Rat > 	
+10: Cold Roses > 	
+11: He's Gone > 	
+12: Mockingbird > 	
+13: Stella Blue
+

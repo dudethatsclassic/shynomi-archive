@@ -2582,7 +2582,7 @@ const ARTIST_DATA = {
       "notes": "Scott Lucas solo w/ Special Guests \u00b7 DABs \u00b7 jon gannon",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2004-10-31 - Chicago, IL - Double Door (DPA 4061s) (tapeworm48) [AUD24].txt"
+      "textFile": "2004-10-31 - Chicago, IL - The Double Door (Scott Lucas solo with Special Guests) (DABs) [AUD].txt"
     },
     {
       "year": 2004,
@@ -2596,7 +2596,7 @@ const ARTIST_DATA = {
       "notes": "Scott Lucas solo w/ Special Guests \u00b7 DPA 4061 \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2004-10-31 - Chicago, IL - The Double Door (Scott Lucas solo with Special Guests) (DABs) [AUD].txt"
+      "textFile": "2004-10-31 - Chicago, IL - Double Door (DPA 4061s) (tapeworm48) [AUD24].txt"
     },
     {
       "year": 2004,
@@ -6738,7 +6738,7 @@ const ARTIST_DATA = {
       "notes": "West \u00b7 Early and Late shows \u00b7 CA-14 \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2020-08-08 - Schaumburg, IL - Boomers Stadium - West Lot (Late show) [AUD24].txt"
+      "textFile": "2020-08-08 - Schaumburg, IL - Boomers Stadium - West Lot (Early show) [AUD24].txt"
     },
     {
       "year": 2020,
@@ -6934,7 +6934,7 @@ const ARTIST_DATA = {
       "notes": "Rode TF-5 \u00b7 james bonaiuto",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2021-10-27 - New York, NY - Le Poisson Rouge (DPA 4061) (bill hoy) [AUD24].txt"
+      "textFile": "2021-10-27 - New York, NY - Le Poisson Rouge (Rode TF-5) (james bonaiuto) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -6948,7 +6948,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061 \u00b7 bill hoy",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2021-10-27 - New York, NY - Le Poisson Rouge (Rode TF-5) (james bonaiuto) [AUD24].txt"
+      "textFile": "2021-10-27 - New York, NY - Le Poisson Rouge (DPA 4061) (bill hoy) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -7059,7 +7059,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps CCM4 \u00b7 james bonaiuto",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-05-07 - New York, NY - Bowery Electric (DPA 4061) (bill hoy) [AUD24].txt"
+      "textFile": "2022-05-07 - New York, NY - Bowery Electric (Schoeps CCM4) (james bonaiuto) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -7073,7 +7073,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061 \u00b7 bill hoy",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-05-07 - New York, NY - Bowery Electric (Schoeps CCM4) (james bonaiuto) [AUD24].txt"
+      "textFile": "2022-05-07 - New York, NY - Bowery Electric (DPA 4061) (bill hoy) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -7240,7 +7240,7 @@ const ARTIST_DATA = {
       "notes": "CA-14s \u00b7 charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-12-31 - Chicago, IL - Bottom Lounge (Schoeps MK4s) (tapeworm48) [AUD24].txt"
+      "textFile": "2022-12-31 - Chicago, IL - Bottom Lounge (CA-14s) (charles dewey cole) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -7575,8 +7575,7 @@ const ARTIST_DATA = {
       "venue": "Family Arena",
       "notes": "CA-14 \u00b7 cptncrash76",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2025-09-26 - St. Charles, MO - Family Arena (Sony PCM-A10) (shane e. calhoon) [AUD24].txt"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -7589,7 +7588,8 @@ const ARTIST_DATA = {
       "venue": "Family Arena",
       "notes": "Sony PCM-A10 \u00b7 shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-09-26 - St. Charles, MO - Family Arena (Sony PCM-A10) (shane e. calhoon) [AUD24].txt"
     },
     {
       "year": 2025,

@@ -1,20 +1,45 @@
-Beck2000-05-06D01T01.flac:971fcbc5fc9f176e9a208929c713a8fe
-Beck2000-05-06D01T02.flac:a00efd1af8b7619d567bb1e9365fb055
-Beck2000-05-06D01T03.flac:c312be77db6f9626782ff3db698ae576
-Beck2000-05-06D01T04.flac:56c9cab2007e88744091f57d896c84cf
-Beck2000-05-06D01T05.flac:1037ef9135acd0e0e9d091d9d0f4f7d5
-Beck2000-05-06D01T06.flac:57be11990c52bf8b084e14842f4c1ce0
-Beck2000-05-06D01T07.flac:c7a9dc7939bbe89fb8ea0389a782ed25
-Beck2000-05-06D01T08.flac:f356b7aafe973f00abac8d12054bb263
-Beck2000-05-06D01T09.flac:4d153e07be79c646f80019ec259b2297
-Beck2000-05-06D01T10.flac:479bc1f90abf2ba4568fc19481e2882c
-Beck2000-05-06D01T11.flac:c266a6e871719c9466a0ee6715593c8c
-Beck2000-05-06D01T12.flac:3e1d1dd8e6c81e1b233baa58d11f2a5b
-Beck2000-05-06D01T13.flac:bfd0e1ef1d012045af14d401b4714841
-Beck2000-05-06D02T01.flac:01d194a74c2da6feb8a64ede63153839
-Beck2000-05-06D02T02.flac:364bc0b54fc98529b1e67f66c325da3b
-Beck2000-05-06D02T03.flac:b4532490d56b812e9b63a83b25fe2feb
-Beck2000-05-06D02T04.flac:6d9a91b10f7ef20e3f85ea598a65c301
-Beck2000-05-06D02T05.flac:d9d909cf41d40e48addd1c13ac81c23e
-Beck2000-05-06D02T06.flac:975ace5a8856917ead73d459f0bef0b3
-Beck2000-05-06D02T07.flac:c133f4c070707066621675d2568201f9
+Beck
+Greek Theatre
+Los Angeles,Ca
+May 6, 2000
+
+source  : nakamichi cm300(cp1) > sony tcd-d100
+taper : markp
+
+
+Disc 1
+
+01) Put Your Hands Where My Eyes Could See
+02) Devils Haircut
+03) Novacane
+04) Mixed Bizness
+05) Loser
+06) Hollywood Freaks
+07) Milk & Honey
+08) Minus
+09) Nicotine & Gravy
+10) Debra
+11) Tropicalia
+12) Asshole
+13) Pay No Mind (Snoozer) >> MTV Makes Me Want To Smoke Crack
+    >> Patience (Guns N' Roses Cover)
+
+Disc 2
+
+14) Nobody's Fault But My Own
+15) Burro (with Cafe Tacuba)
+16) The Bugaloo
+    The New Pollution
+17) DJ Swamp Solo
+18) Where It's At
+19) Outro
+20) MC Chatter
+
+
+
+Notes (2006-05-02):
+
+I grabbed this from a Dimeadozen Torrent, added the setlist, BT2K5 compliant tags, FFP file, and an MD5.
+
+breathmint (breathmint@hotmail.com)
+becktabs hub (dc://becktabs.homeunix.org)

@@ -1332,7 +1332,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "Shure Mv88 \u00b7 Tremolo75",
-      "textFile": "2022-05-23 - Los Angeles, CA - Fonda Theater (Beyerdynamic TG L34C) (aaron miller) [AUD24].txt"
+      "textFile": "2022-05-23 - Los Angeles, CA - Fonda Theatre (Shure MV88) (tremolo75) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -1346,7 +1346,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "Beyerdynamic Tg L34c \u00b7 Aaron Miller",
-      "textFile": "2022-05-23 - Los Angeles, CA - Fonda Theatre (Shure MV88) (tremolo75) [AUD24].txt"
+      "textFile": "2022-05-23 - Los Angeles, CA - Fonda Theater (Beyerdynamic TG L34C) (aaron miller) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -1792,7 +1792,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "DPA 4061 \u00b7 Dynamicalories",
-      "textFile": "2023-09-13 - Brooklyn, NY - Brooklyn Steel (CA-11) (manofstealth) [AUD24].txt"
+      "textFile": "2023-09-13 - Brooklyn, NY - Brooklyn Steel (DPA 4061) (dynamicalories) [AUD].txt"
     },
     {
       "year": 2023,
@@ -1806,7 +1806,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "Ca-11 \u00b7 Manofstealth",
-      "textFile": "2023-09-13 - Brooklyn, NY - Brooklyn Steel (DPA 4061) (dynamicalories) [AUD].txt"
+      "textFile": "2023-09-13 - Brooklyn, NY - Brooklyn Steel (CA-11) (manofstealth) [AUD24].txt"
     },
     {
       "year": 2024,

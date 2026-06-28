@@ -71,7 +71,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "preFM",
       "format": "FLAC",
-      "textFile": "1964-04-16 - Bremen, Germany (Update) [AUD].txt"
+      "textFile": "1964-04-16 - Bremen, Germany - Sendesaal [preFM].txt"
     },
     {
       "year": 1964,
@@ -85,7 +85,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1964-04-16 - Bremen, Germany - Sendesaal [preFM].txt"
+      "textFile": "1964-04-16 - Bremen, Germany (Update) [AUD].txt"
     },
     {
       "year": 1964,

@@ -1,17 +1,25 @@
- 
-tsp1996-07-10d1t01.flac:5243fe52be8983df2839e1b7d66d0fb0
-tsp1996-07-10d1t02.flac:694464f0a691874614229e5b55cb07ce
-tsp1996-07-10d1t03.flac:58bb23874497324042e72aa717bcfdbe
-tsp1996-07-10d1t04.flac:3f181eb00ead2505a176b9240afc2bd5
-tsp1996-07-10d1t05.flac:1866e7eca187161ae0c0aa32339f45c4
-tsp1996-07-10d1t06.flac:66844bb2e630c573524275374dec4034
-tsp1996-07-10d1t07.flac:430a20a3ac03ade99fcdaecf0a1f45cf
-tsp1996-07-10d1t08.flac:ac1598fd7d9c8f6c08ed9c80518cbb24
-tsp1996-07-10d1t09.flac:8e9be21af527f7dc07ba45e087e6a580
-tsp1996-07-10d1t10.flac:660521db844d3e1ca6804d33fc8b8c80
-tsp1996-07-10d1t11.flac:8429c11cb77f5801205322c1c5d94842
-tsp1996-07-10d1t12.flac:77a6addac5974e14a4b9c90c2012f464
-tsp1996-07-10d2t01.flac:c123550a9dc2c160d7a3a5dc2ac580b4
-tsp1996-07-10d2t02.flac:c4e48eb782483d0f756540b468d83f79
-tsp1996-07-10d2t03.flac:4e9b5749d94ee14599bf6e0f53386ec3
-tsp1996-07-10d2t04.flac:e424403f4b64344583b8d9962740f921
+Smashing Pumpkins - 07/10/96
+US Air Arena, Landover, MD
+
+Source:	fob audience( 15th row dead center) ss dsm 6s > sony d7 dat >zoltrix nightengale 6.0 > soundforge 7 > cdwav>flac
+Media Type: flac
+Media Count: 2
+
+Disc 1
+01. melloncolie and infinite sadness
+02. Tonight, Tonight
+03. Zero
+04. Fuck You (an ode to no one)
+05. To Forgive
+06. Today
+07. Thru the Eyes of Ruby
+08. By Starlight
+09. Disarm
+10. Bullet With Butterfly Wings
+11. Siva
+12. Porcelina of the Vast Oceans
+Disc 2
+01. Cherub Rock
+02. XYU
+03. 1979
+04. Silverfuck

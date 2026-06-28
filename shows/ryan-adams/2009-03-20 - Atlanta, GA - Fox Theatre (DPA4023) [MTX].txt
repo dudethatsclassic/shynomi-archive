@@ -1,30 +1,53 @@
-ryanadams2009-03-20d1t01.flac:ace131a9a6441150c2eded262d3c84ff
-ryanadams2009-03-20d1t02.flac:73eefe61d2fd1118cc1ea61125120d61
-ryanadams2009-03-20d1t03.flac:8d090d155df200ebf1253fdb077e36aa
-ryanadams2009-03-20d1t04.flac:53ec66614781b0ea828da929fe8267fe
-ryanadams2009-03-20d1t05.flac:e0a647b64409633adcb5b8c8a5f63d73
-ryanadams2009-03-20d1t06.flac:45255f16d74b1be46b66ba507b9c980f
-ryanadams2009-03-20d1t07.flac:18ed6f8564e935b7dba9458c9edbe642
-ryanadams2009-03-20d1t08.flac:9d40e0c964a60c3e002b4c571845a36c
-ryanadams2009-03-20d1t09.flac:1975afc5ca9480856979cef48dd0b3e3
-ryanadams2009-03-20d1t10.flac:bb79bea022d010e490bc8e2773fe9115
-ryanadams2009-03-20d1t11.flac:cd4be31a5824ad76af09eb0aabd8cc93
-ryanadams2009-03-20d1t12.flac:51d57b414b59009d0573b78e0f08e024
-ryanadams2009-03-20d1t13.flac:92c47a4b695555ffe704a64f71738411
-ryanadams2009-03-20d1t14.flac:7abf3d60c9a7996cace015057f29adb8
-ryanadams2009-03-20d1t15.flac:0b440d59e60072d000ab196c6ecf7733
-ryanadams2009-03-20d1t16.flac:9ecdfe1faa34084608b988e413e41c39
-ryanadams2009-03-20d1t17.flac:5da013407fdeecc16741a524b04904b5
-ryanadams2009-03-20d1t18.flac:468f95f75a4c299762448418fd1e6850
-ryanadams2009-03-20d2t01.flac:6d8c0e6e5ecef10b331c3135a5aba2c1
-ryanadams2009-03-20d2t02.flac:d1c1d5278927ac6ada08fcd8df998102
-ryanadams2009-03-20d2t03.flac:814a5e76bf7609cad4de13d6c11cdd9a
-ryanadams2009-03-20d2t04.flac:be9355af64ba52a4dcd0e6a055ce8369
-ryanadams2009-03-20d2t05.flac:9991c7b6f6572cfa4f090f581ff88bb9
-ryanadams2009-03-20d2t06.flac:befd7cc8d9eb29906ed4b0562cfd6146
-ryanadams2009-03-20d2t07.flac:621e4f5bbbcbd2f41e34e1c5263636e4
-ryanadams2009-03-20d2t08.flac:b08e8803e12af3c27b136d49fb19ebdc
-ryanadams2009-03-20d2t09.flac:caa98202093d2ed8a4c92fcdc3071526
-ryanadams2009-03-20d2t10.flac:62208ec700370fda53f260c22324cca7
-ryanadams2009-03-20d2t11.flac:9fe5fe25f339393f07df44378bad980b
-ryanadams2009-03-20d2t12.flac:a3e9706f03661b9ddb6985076c5e9233
+Ryan Adams and The Cardinals
+03-20-2009
+Fox Theater
+Atlanta, GA
+
+
+Source:  DPA 4023(ORTF)->Lunatec ACM V3 + SBD(Yamaha M7CL)->Sound Devices 744t (24/48) 
+
+Location: 5' ROC at SBD
+
+Transfer: 744t->HDD->Wavelab 5.01b->CD Wave->Flac 16
+
+Recorded and Transferred by: Chris Hall
+
+
+Set 1/Disc 1
+
+1.  Intro
+2.  Magick
+3.  Let It Ride
+4.  Two
+5.  Everybody Knows
+6.  Beautiful Sorta
+7.  Mockingbird->
+8.  Dear Chicago
+9.  Blue Hotel
+10. Cold Roses
+11. Natural Ghost
+12. Easy Plateau>
+13. Bartering Lines
+14. Band Intros
+15. Fix It
+16. Magnolia Mountain
+17. Please Do Not Let Me Go
+18. Peaceful Valley
+
+Set 1/Disc 2
+
+1.  Freeway To The Canyon
+
+Set 2/Disc 2
+
+2.  Intro
+3.  When The Stars Go Blue
+4.  Sink Ships
+5.  Oh My Sweet Carolina
+6.  Grand Island
+7.  Evening Joke
+8.  I See Monsters
+9.  Come Pick Me Up
+10. Rescue Blues
+11. Wonderwall
+12. Goodnight Rose

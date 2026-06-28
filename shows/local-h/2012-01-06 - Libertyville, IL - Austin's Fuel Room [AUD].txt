@@ -1,20 +1,42 @@
-localh-2012-01-06-mc930-16b-t01.flac:a3c297042f80cb323b201a7bbe00d9d0
-localh-2012-01-06-mc930-16b-t02.flac:c53cd14a2284fb5e7b03713a3e0bdaf9
-localh-2012-01-06-mc930-16b-t03.flac:eb449bfa83fbd1cd2d96ae1f5da3d64b
-localh-2012-01-06-mc930-16b-t04.flac:dbd9c810ee6801c778ab8acd6b3356dc
-localh-2012-01-06-mc930-16b-t05.flac:1d6483a4bc79db6b9833e37e72847ca1
-localh-2012-01-06-mc930-16b-t06.flac:fb0997adc6f6a68959f8c7e6478e3acc
-localh-2012-01-06-mc930-16b-t07.flac:2d2d9a35302493a02cfe9f13a6fc2fc7
-localh-2012-01-06-mc930-16b-t08.flac:c6e45e1c551971bd08ea4ae66220b660
-localh-2012-01-06-mc930-16b-t09.flac:41761da6c3b873c5f27d226728a90191
-localh-2012-01-06-mc930-16b-t10.flac:0f2d585aff9c0fbab20dcd2007f9dddf
-localh-2012-01-06-mc930-16b-t11.flac:5dd365a30fde365d8d56dac04086f8b6
-localh-2012-01-06-mc930-16b-t12.flac:c19e0e6b46cab660b540163a6277c502
-localh-2012-01-06-mc930-16b-t13.flac:7fb041e3c6e47cac5948b80ca12682ad
-localh-2012-01-06-mc930-16b-t14.flac:39145eee5afb884970f30049e51182c2
-localh-2012-01-06-mc930-16b-t15.flac:de623f7f1e39ce5904b7fa18333b75ed
-localh-2012-01-06-mc930-16b-t16.flac:ef3354efb009f0eca1f99257dff90526
-localh-2012-01-06-mc930-16b-t17.flac:cd6a940d000ff7c30dc8b371a3ec8ca2
-localh-2012-01-06-mc930-16b-t18.flac:961916d013396575fd111b5eca849b6b
-localh-2012-01-06-mc930-16b-t19.flac:6e8def64c017fc85644fecd5af175ea4
-localh-2012-01-06-mc930-16b-t20.flac:17531739fefc527ce575dc0b18370523
+Local H
+2012-01-06
+Austin's Fuel Room
+Libertyville, IL
+
+Source:     Beyerdynamics MC930 > Apogee MiniMe > MT
+
+Transfer:   MT > USB > Adobe Audition III
+
+Generation: WAV(M 24bit 48kHz) > edit > WAV (16bit 44.1 kHz) > 
+            CD Wave 1.95.2 > FLAC Frontend 1.7.1 [Level 6]
+
+Set: 89min.
+-----------
+01. in
+02. 2112 Overture / Temple Of Syrinx
+03. Heaven On The Way Down
+04. Bound For The Floor
+05. Back In The Day
+06. Fine And Good
+07. Michelle (again)
+08. BMW Man
+09. Hands On The Bible
+10. California Songs
+11. Another Feburary
+12. Fritz's Corner
+13. All The Kids Are Right
+14. Heavy Metal Bakesale
+15. Hi Fiven MF
+16. What Would You Have Me Do?
+17. break
+18. Terrible Love
+19. Skid Marks
+20. out
+
+Location: DFC, approx. 45 ft back, mics up 7 ft.
+Recorded, Remastered, amd Transfered by John Weiss.
+Support Local H! Recorded with permission. 
+FOR FREE TRADE OR GIFT ONLY!
+Visit localh.com for more info!
+
+

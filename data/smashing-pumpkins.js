@@ -10064,7 +10064,7 @@ const ARTIST_DATA = {
       "notes": "DAT",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1998-06-04 - Paris, France (Pro-Shot DVD).txt"
+      "textFile": "1998-06-04 - Paris, France - Palais des Sports.txt"
     },
     {
       "year": 1998,
@@ -10092,7 +10092,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO",
       "format": "FLAC",
-      "textFile": "1998-06-04 - Paris, France - Palais des Sports.txt"
+      "textFile": "1998-06-04 - Paris, France (Pro-Shot DVD).txt"
     },
     {
       "year": 1998,
@@ -19905,8 +19905,7 @@ const ARTIST_DATA = {
       "venue": "Q101 Interview",
       "notes": "",
       "version": "WEB",
-      "format": "MP3",
-      "textFile": "2008-11-21 - Chicago, IL - Auditorium Theatre.txt"
+      "format": "MP3"
     },
     {
       "year": 2008,
@@ -19933,7 +19932,8 @@ const ARTIST_DATA = {
       "venue": "Auditorium Theatre",
       "notes": "Sony HDR-SR11 \u00b7 ryan fisher",
       "version": "AUD",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2008-11-21 - Chicago, IL - Auditorium Theatre.txt"
     },
     {
       "year": 2008,
@@ -24656,7 +24656,7 @@ const ARTIST_DATA = {
       "notes": "WAV(M) \u00b7 SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2024-09-14 - Inglewood, CA - SoFi Stadium (DPA 4081) (faninor) [AUD24].txt"
+      "textFile": "2024-09-14 - Inglewood, CA - SoFi Stadium.txt"
     },
     {
       "year": 2024,
@@ -24684,7 +24684,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-09-14 - Inglewood, CA - SoFi Stadium.txt"
+      "textFile": "2024-09-14 - Inglewood, CA - SoFi Stadium (DPA 4081) (faninor) [AUD24].txt"
     },
     {
       "year": 2024,

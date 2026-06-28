@@ -1,15 +1,29 @@
-Smashing Pumpkins - Denver CO - 1993-10-10 - 01 - Disarm.flac:afc4ea7290fa57f4fb8909c495e39792
-Smashing Pumpkins - Denver CO - 1993-10-10 - 02 - Rocket.flac:40968bd9d44f40ac475b2a3de1d27b77
-Smashing Pumpkins - Denver CO - 1993-10-10 - 03 - Geek USA.flac:53785535b81813f02c3859ddc25743bb
-Smashing Pumpkins - Denver CO - 1993-10-10 - 04 - Drown.flac:e89101a88baf4a08163350a7ca609835
-Smashing Pumpkins - Denver CO - 1993-10-10 - 05 - Hummer.flac:07f8e92e4b1daa0739f8dbfc6f133c64
-Smashing Pumpkins - Denver CO - 1993-10-10 - 06 - Quiet.flac:b3c029706df4eb847c8d3e258af040f4
-Smashing Pumpkins - Denver CO - 1993-10-10 - 07 - Today.flac:e0b194c061e1145c0e5d2d79bac538ac
-Smashing Pumpkins - Denver CO - 1993-10-10 - 08 - I Am One.flac:e1bbeae96687b0813babb580b7f2876e
-Smashing Pumpkins - Denver CO - 1993-10-10 - 09 - Soma.flac:94a1c1a3e6acbe82ebcbc39867493499
-Smashing Pumpkins - Denver CO - 1993-10-10 - 10 - Rhinoceros (soft version).flac:f295c641be262de1296cf8bf4d5fae8f
-Smashing Pumpkins - Denver CO - 1993-10-10 - 11 - Siva.flac:05b1500f523e50422630703d6b6bdb7b
-Smashing Pumpkins - Denver CO - 1993-10-10 - 12 - Silverfuck.flac:33b866ea2865b8b74929703925745ef5
-Smashing Pumpkins - Denver CO - 1993-10-10 - 13 - - interlude -.flac:4e5e0ce52aa918df5d088e4d01bc7b42
-Smashing Pumpkins - Denver CO - 1993-10-10 - 14 - Cherub Rock.flac:b8c817246584fb464825c5e2edff626f
-Smashing Pumpkins - Denver CO - 1993-10-10 - 15 - Starla.flac:bb25f38c6f2cd8fb4856c7942144659f
+Smashing Pumpkins   
+
+Ogden Theater
+Denver CO (USA)
+1993-10-10
+
+Recorded: ? - received in CDR trade in aughts
+Presented: SxPxDxCx
+Source: ? - CDR
+Transfer: CDR - EAC - WAVs - Adobe Audition - CDWave - FLAC 
+Run time: (85:59.42)
+ 
+01 Disarm 
+02 Rocket 
+03 Geek USA 
+04 Drown 
+05 Hummer 
+06 Quiet 
+07 Today 
+08 I Am One 
+09 Soma
+10 Rhinoceros (soft version) 
+11 Siva 
+12 Silverfuck
+13 - interlude -
+14 Cherub Rock 
+15 Starla 
+
+ 

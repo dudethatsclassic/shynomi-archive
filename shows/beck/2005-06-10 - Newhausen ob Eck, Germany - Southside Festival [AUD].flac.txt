@@ -1,20 +1,46 @@
-beck2005-06-10t01.flac:ec67000a83040ee640348dbb4562b628
-beck2005-06-10t02.flac:9b52c29ed67dfa63c98cec12cd3c700b
-beck2005-06-10t03.flac:bc75d5ef7c928f04d9223b60979784d8
-beck2005-06-10t04.flac:a1e76aa79af174d9324d8db59defff7e
-beck2005-06-10t05.flac:e5cfd960e83a371dd3d8b61bbdb32a79
-beck2005-06-10t06.flac:5eec33ded6f61bd0628aa615d1910182
-beck2005-06-10t07.flac:e8824e4e6dec738ca4145c979479eccd
-beck2005-06-10t08.flac:20036668f2ad3b7d8376bfedd5a97964
-beck2005-06-10t09.flac:21236a3b8a4cca0bcb338139112ce7f3
-beck2005-06-10t10.flac:32f54fa693149dcbed84d697b85a1637
-beck2005-06-10t11.flac:0f8d5b3ba11502882f91886fd72747c8
-beck2005-06-10t12.flac:fb2fb2df84d6a85e4913a03d8eebc767
-beck2005-06-10t13.flac:497a7f25abbff13be8f02e06102c1630
-beck2005-06-10t14.flac:bbbadee5b00f1ebbfa121eb43707c499
-beck2005-06-10t15.flac:59cc56d25a93fab9f307616394dba8f3
-beck2005-06-10t16.flac:ac406746b913e15ca1378d77b61c1bfe
-beck2005-06-10t17.flac:4dfc58a60850776825035a7b586dbe09
-beck2005-06-10t18.flac:3c487eaff589892b5cea926771509464
-beck2005-06-10t19.flac:1687172e9e153cc812bc1e0bdf5ccd34
-beck2005-06-10t20.flac:d6d46daa2ead8f80e9a1c320864bd15f
+Beck
+June 10, 2005
+Southside Festival
+Neuhausen ob Eck, Germany
+
+Source: SONY ECM-719 > IRiver IHP120 > USB to PC WAV > Sony Soundforge 7.0a (Split/Level) > FLAC Frontend 1.7.1
+
+01) Intro
+02) Devil's Haircut
+03) Black Tambourine
+04) Girl
+05) Beercan
+06) Hell Yes (beatbox intro)
+07) Minus
+08) New Pollution
+09) Rental Car
+10) Qué Onda Guero
+11) Missing
+12) Loser
+13) Sexx Laws
+14) Broken Drum
+
+--Acoustic Set--
+
+15) Do You Realize (Flaming Lips Cover) (Beck solo, band eats dinner on stage)
+16) Golden Age (Band Percussion w/ Plates, Glasses, Cutlery, & Fruit)
+17) Clap Hands (Band Percussion w/ Plates, Glasses, Cutlery, & Fruit)
+
+--End Acoustic Set--
+
+18) Where It's At (High 5 / Blackhole Sun Outro)
+19) E-pro
+
+--Encore (Beck removes coat, Band now in Blacklight Suits)--
+
+20) Get Real Paid (Beck does some scratching @ the turntables )
+
+
+
+Recorded by:
+Slein (n-st@gmx.net)
+
+Edited, Encoded, & Seeded by:
+breathmint (breathmint@hotmail.com)
+
+on becktabs hub (dc://becktabs.homeunix.org)

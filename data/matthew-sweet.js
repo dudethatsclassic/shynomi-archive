@@ -211,7 +211,7 @@ const ARTIST_DATA = {
       "notes": "Matthew Sweet & Susanna Hoff \u00b7 unk",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2006-03-18 - Austin, TX - KGSR 107.1 FM Studios (Matthew Sweet & Susanna Hoffs) [FM].txt"
+      "textFile": "2006-03-18 - Austin, TX - SXSW (Matthew Sweet & Susanna Hoff) [SBD].txt"
     },
     {
       "year": 2006,
@@ -225,7 +225,7 @@ const ARTIST_DATA = {
       "notes": "Matthew Sweet & Susanna Hoff \u00b7 unk",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2006-03-18 - Austin, TX - SXSW (Matthew Sweet & Susanna Hoff) [SBD].txt"
+      "textFile": "2006-03-18 - Austin, TX - KGSR 107.1 FM Studios (Matthew Sweet & Susanna Hoffs) [FM].txt"
     },
     {
       "year": 2006,

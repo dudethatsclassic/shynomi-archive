@@ -1,23 +1,45 @@
-01) Cold Brains.flac:6d2a363adf40a8406e6f4953ecae2df0
-02) Nobody's Fault But My Own.flac:c0753b6538485e82eb74802622a2982e
-03) The Golden Age.flac:974ac392b5ee523945a67e39816f6c84
-04) Lazy Flies.flac:f3aa39a50858d8b300e9a8fd44015fe2
-05) Lonesome Tears.flac:f1cd4d0e1ea21065ef8f1a2623ca6072
-06) Lost Cause.flac:fb877d5e35c09856716edb6ecc6521be
-07) It's All In Your Mind.flac:372691a155e61e2feac157aaa48ea066
-08) Dead Melodies.flac:a62cda409baa5403c1fd6f9d72382187
-09) Guess I'm Doing Fine.flac:b59fb3fe94aeacc12f47c9c80d28d204
-10) Jack-ass.flac:2f79c12e6acdd191dcf0706a92385fca
-11) Paper Tiger.flac:7753f09c5a62d8368ed86f224a55ef2d
-12) End of the Day.flac:b09ac0800f8bc607f1e3afee34b1f1c7
-13) Sunday Sun.flac:8ac1bec2f60a028a060a655531fa4575
-14) The New Pollution.flac:466419079989ab87e11b65e51b294e5a
-15) Lord Only Knows.flac:8b51bce10ee13f21dd45d25b956bfa75
-16) Broken Train.flac:4e0a629e4afb620382c7b90420219384
-17) Loser.flac:5de0e888621bc56e0be929978a7c2287
-18) Novacane.flac:481cf827d16da576e35de961b4253d8a
-19) Where It's At.flac:e6855477826aa7ce2e737ed050d1f475
-20) Devils Haircut.flac:3832f9022179721c24f4aa4ac8a9741d
-21) Nicotine & Gravy.flac:28a2228d134b54dd574eb06354d15f34
-22) Do You Realize .flac:e1011ec57cde6d2478022988a07c1202
-23) Funk (Hot in Here , The Genius of Love , Put Your Hands Where My Eyes Could See , Erotic City Medley).flac:50fcff7ad81e568b68599db1e29966b0
+Beck
+March 15 2003
+Brisbane Qld, Australia
+Festival Hall
+
+Source: Core Sound Binaural Mics > Bass Roll-Off Filter > Panasonic SJ-MR220 MD >
+Gen:    Cool Edit Pro > CD > EAC > FLAC Frontend 1.7.1
+
+
+Disc 1
+
+01) Cold Brains
+02) Nobody's Fault But My Own (Harmonium Version)
+03) The Golden Age
+04) Lazy Flies
+05) Lonesome Tears
+06) Lost Cause
+07) It's All In Your Mind
+08) Dead Melodies
+09) Guess I'm Doing Fine
+10) Jack-ass
+11) Paper Tiger
+12) End of the Day
+13) Sunday Sun
+
+Disc 2
+
+14) The New Pollution
+15) Lord Only Knows
+16) Broken Train
+17) Loser
+18) Novacane
+19) Where It's At
+20) Devils Haircut
+21) Nicotine & Gravy
+22) Do You Realize??
+23) Funk (Hot in Here / The Genius of Love / Put Your Hands Where My Eyes Could See / Erotic City Medley)
+
+
+
+Ripped, FLAC'd, and Seeded by:
+
+breathmint (breathmint@hotmail.com)
+
+on becktabs hub (dc://becktabs.homeunix.org)

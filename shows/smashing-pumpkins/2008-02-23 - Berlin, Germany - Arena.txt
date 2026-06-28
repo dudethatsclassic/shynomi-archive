@@ -1,32 +1,50 @@
-SMASHING PUMPKINS 080223 Berlin tr01.flac:b31e796cb171ef1e024e7893137e0207
-SMASHING PUMPKINS 080223 Berlin tr02.flac:98e30edfba27384e795f0c9db9d62da6
-SMASHING PUMPKINS 080223 Berlin tr03.flac:2590392e3f10c40493faf9b8f0197e3f
-SMASHING PUMPKINS 080223 Berlin tr04.flac:2f4b62355baae125051c63795abb8b08
-SMASHING PUMPKINS 080223 Berlin tr05.flac:9170a077877aa7687a8130f02fdf92e0
-SMASHING PUMPKINS 080223 Berlin tr06.flac:e9b6a498f0d91f52d76b14a2a8a6c9b4
-SMASHING PUMPKINS 080223 Berlin tr07.flac:63b971529739ba61b4518d461a286216
-SMASHING PUMPKINS 080223 Berlin tr08.flac:82aba994b0332e384eecee983328edc8
-SMASHING PUMPKINS 080223 Berlin tr09.flac:a20322fa2a66a0ce7458dccf2c384312
-SMASHING PUMPKINS 080223 Berlin tr10.flac:3b3ee7fe1d16633a5da0de134dca0506
-SMASHING PUMPKINS 080223 Berlin tr11.flac:d93aeb5b0263b40e33ad6caba67d1a0f
-SMASHING PUMPKINS 080223 Berlin tr12.flac:fbd4112f8bee63dcd73630700cd56f67
-SMASHING PUMPKINS 080223 Berlin tr13.flac:8a2052a655d339384138a2dce21d44bf
-SMASHING PUMPKINS 080223 Berlin tr14.flac:5d380b38115d7714eebbd7b78f5464e2
-SMASHING PUMPKINS 080223 Berlin tr15.flac:add509dd7c9150997d5b0502d364d38f
-SMASHING PUMPKINS 080223 Berlin tr16.flac:04e0bdde69387bab1d622a116b780374
-SMASHING PUMPKINS 080223 Berlin tr17.flac:9a7323f5a5de8ec9356aab2ea411fa5a
-SMASHING PUMPKINS 080223 Berlin tr18.flac:dc4effeb8b4b4f54ba7e688cbb89b96e
-SMASHING PUMPKINS 080223 Berlin tr19.flac:faf86d5d3f1e7635b94384654a8c9a6d
-SMASHING PUMPKINS 080223 Berlin tr20.flac:e4eb291852806b95856d58b9408a6a7c
-SMASHING PUMPKINS 080223 Berlin tr21.flac:ad2dd69200f180ae6e08e2463323aae2
-SMASHING PUMPKINS 080223 Berlin tr22.flac:01369b6a0e3a65bb656c920326a99a12
-SMASHING PUMPKINS 080223 Berlin tr23.flac:c0ef92bfe8fd759da88a5fda7d826a38
-SMASHING PUMPKINS 080223 Berlin tr24.flac:d743be54a4519dc886044f95f2c4f3f8
-SMASHING PUMPKINS 080223 Berlin tr25.flac:89c11efe3d258baef17052d16bfdffb7
-SMASHING PUMPKINS 080223 Berlin tr26.flac:9f1e7b1904f16151d0157018af87f05f
-SMASHING PUMPKINS 080223 Berlin tr27.flac:cbfb97003d58966fae0c8cb918e300f2
-SMASHING PUMPKINS 080223 Berlin tr28.flac:f82df751687e8936348a85b81e671310
-SMASHING PUMPKINS 080223 Berlin tr29.flac:46efbf3a42d6417e24e6f2ec03265d7d
-SMASHING PUMPKINS 080223 Berlin tr30.flac:ca348e14c9066048a0b6bc756bf55d34
-SMASHING PUMPKINS 080223 Berlin tr31.flac:f3a0b140451b96893b5c0f4e7c3a2737
-SMASHING PUMPKINS 080223 Berlin tr32.flac:4ac3385c3e770f55f8df380d7f4ef101
+THE SMASHING PUMPKINS
+Arena, Berlin, Germany
+2008/02/23
+
+Disc 1:
+01  Porcelina Of The Vast Oceans
+02  Behold! The Night Mare
+03  Bring The Light
+04  Tonight, Tonight
+05  Mayonaise
+06  Try, Try, Try
+07  Superchrist
+08  (Come On) Let's Go!
+09  Stellar
+10  Perfect
+11  Lily (My One And Only)
+
+Disc 2:
+12  The Rose March
+13  Today 
+14  Tarantula
+15  Stand Inside Your Love
+16  Ava Adore
+17  Drown 
+18  Bullet With Butterfly Wings
+19  1979
+20  That's The Way (My Love Is)
+21  My Blue Heaven [Whiting/Donaldson]
+22  The Everlasting Gaze
+23  Cash Car Star > 
+24  Easy Livin' [Uriah Heep] >
+25  Foreplay [Boston] > 
+26  For What It's Worth [Buffalo Springfield] >
+27  Wasted Years [Iron Maiden] (tease) 
+
+Disc 3:
+28  Daydream
+29  Wound
+30  United States
+31  (encore break)
+32  Run, Shaker Life [Richie Havens]
+
+approx. 166 min
+this is a seamless recording, the disc changes are a suggestion
+
+Recording Info:
+OKM IIr > A3 > M-AUDIO Microtrack 24/96 (44.1/16) >
+USB > WAV > Adobe Audition (EQing) > CDwave (tracking)
+> FLAC frontend (level 8, verify, with align on sector boundaries)
+> Tracker

@@ -1,23 +1,39 @@
-d2Track08.flac:f89379ab360fd71f1015d0cf7fa58c20
-d1Track02.flac:5e8f9d0acf3f2d98d3bd4e8948ce441a
-d1Track03.flac:df33bbccc46aeef1905e992d15d23dc0
-d1Track04.flac:86360dca5f388379e651b4cda3d65fea
-d1Track05.flac:cd57af39ffe0342d028ce191f5cb05fe
-d1Track06.flac:28d2f1c0805ce30e62b0e0e0969a07c2
-d1Track07.flac:7d0bd795ae690f12646787d607959c1f
-d1Track08.flac:24e18926e5c326666b1225a76da9b94c
-d1Track09.flac:d4a490b942b2b80a6a2f0e7c2016bf92
-d1Track10.flac:0267b661c1930ee024e80f6d2aa4ddef
-d1Track11.flac:45ba6da4bd83c021dec117b06900bc6f
-d1Track12.flac:24e8a26550fcc84ba04dff45ebc25278
-d1Track13.flac:6dc3ee52151885c57f966d56f52e5dfe
-d1Track14.flac:0322037a27bae7ac1839af0a48bb3693
-d1Track15.flac:723dd399ff2395f53784a64b6a5da56b
-d2Track01.flac:8b21c666375e39e9c1f2c533eb10b76f
-d2Track02.flac:6a16b8ae7bbf0eea2dda3f5705912da6
-d2Track03.flac:a69cd11143e1452e6f793d503ddbb4bb
-d2Track04.flac:8c05d3828320b25febeb1519a020c5e1
-d2Track05.flac:b9ed8589caa18daf8264eeaaa2f61b81
-d2Track06.flac:a465a872f9ce8d32c6bd2dd19a006f5f
-d2Track07.flac:353b5387cc3929a37cd5ffe44232f19f
-d1Track01.flac:64411f8f4012f00816540f1e06f142d0
+Beck
+Sea Change Solo Europe Tour
+Hamburg, Schauspielhaus
+April 18, 2003
+
+
+d1:
+
+ 1. Guess I'm Doin' Fine
+ 2. Lazy Flies
+ 3. Lonesome Whistle
+ 4. The Golden Age
+ 5. Already Dead
+ 6. Kanga Roo
+ 7. Dead Melodies
+ 8. Tropicalia
+ 9. Side of the Road
+10. Beechwood Park
+11. Lonesome Tears
+12. O Maria
+13. Lost Cause
+14. Talk (Intro >>)
+15. Devil Got My Woman
+                                        (62.04)
+
+d2:
+
+1. Nicotine & Gravy
+2. Nobody's Fault But My Own (Harmonium Version)
+3. Round the Bend
+4. Sunday Sun
+5. Loser
+6. Do You Realize??
+7. Love
+8. One Foot in the Grave 
+                                        (40:51)
+
+source: dpa>dat>?>cd>eac>flac8
+As eac reports same levels for each song, there must have been some kind of level adjustment.

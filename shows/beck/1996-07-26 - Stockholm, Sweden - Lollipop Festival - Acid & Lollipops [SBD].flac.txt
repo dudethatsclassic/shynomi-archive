@@ -1,13 +1,28 @@
-beck1996-07-26t01.flac:b2f7011c81a7a5f6801831221e988dd4
-beck1996-07-26t02.flac:44e8dc8cb4c5132591ac83f1961c02e1
-beck1996-07-26t03.flac:cb443c7c16e4e6a8a3d89837d39d1a26
-beck1996-07-26t04.flac:8035f078c30c43a5a507e33b9cff9f32
-beck1996-07-26t05.flac:b2b9686ba491de035fd07f07789e3c51
-beck1996-07-26t06.flac:769b1923674f67583c2aa274fe78699c
-beck1996-07-26t07.flac:ed80ea9c732926697ec15c2467095a4d
-beck1996-07-26t08.flac:24b6a447e22c073f143da8606f6ae8c8
-beck1996-07-26t09.flac:af15b55b49b877dfd9ea979215aa8cd8
-beck1996-07-26t10.flac:ed7c6c8d2091968167c1b3a8641936e3
-beck1996-07-26t11.flac:23e511c4468ff254341c1ee24d22065b
-beck1996-07-26t12.flac:1b5172123617e85d1698c3d4d2483412
-beck1996-07-26t13.flac:ec25a889c19299787940b78a63b37d19
+Beck
+July 26 1996
+
+Lollipop Festival
+Stockholm, SWE
+
+Source: SBD > CD Silver (Acid&Lollipops) > EAC > FLAC
+
+01) Lord Only Knows
+02) Devils Haircut
+03) Novacane
+04) Sissyneck
+05) Minus
+06) Pay No Mind (Snoozer)
+07) Loser
+08) Truckdrivin Neighbors Downstairs (Yellow Sweat)
+09) Where It's At
+10) The New Pollution
+11) Jack-ass
+12) Beercan
+13) High 5 (Rock the Catskills) 
+
+
+Ripped, Encoded, and Seeded by:
+
+breathmint (breathmint@hotmail.com)
+
+dc://becktabs.homelinux.org:1411

@@ -1,15 +1,26 @@
-ra2007-09-17d1t01.flac:4c6001a10d36be7f4efe51f4c0035992
-ra2007-09-17d1t02.flac:d9e248c399cf146655682897eb4511b4
-ra2007-09-17d1t03.flac:fd3976a5079f56a851d37fe19851950a
-ra2007-09-17d1t04.flac:d0a59d01edf364eee789cea48168d735
-ra2007-09-17d1t05.flac:3ebe28b1124704df6ce989a220893829
-ra2007-09-17d1t06.flac:8e097d50541f754c0939c652ddde5c4b
-ra2007-09-17d1t07.flac:80ea89687a5b7b7b63ea3b616b899105
-ra2007-09-17d1t08.flac:9735e79478a819577547dc3b9c552231
-ra2007-09-17d1t09.flac:1af6b4be765cbc14bf5800b6f7823fc3
-ra2007-09-17d1t10.flac:23f1c407684b3862ee09f0469ca7741b
-ra2007-09-17d1t11.flac:e3575260445d9c4c20b093a7f93954f1
-ra2007-09-17d1t12.flac:6587a4cad6398a4a2745c3d56287bf6b
-ra2007-09-17d1t13.flac:052494f76d1f3218badc57f1a036b049
-ra2007-09-17d1t14.flac:471c7fee9eda7738b852496b0ac99e75
-ra2007-09-17d1t15.flac:6db5de3d6ffa7aabcf3374d8e6d7c5ed
+Ryan Adams and The Cardinals
+Merrill Auditorium
+Portland, Maine
+Monday September 17, 2007
+
+Recording Process: XLR patch from soundboard>Tascam HD-P2@ 24/96
+Transfer: Tascam HD-P2>Dell Inspiron 8600 via firewire cable>Audacity>cdwav>flacfrontend
+Taped/Transferred: Bill Demars wdemarsjr@yahoo.com
+
+1. Goodnight Rose
+2. I Taught Myself How To Grow Old
+3. Two
+4. Let It Ride
+Break to fix equipment
+5. Goodnight Rose
+6. When The Lights Go Blue
+7. Nightbirds
+8. Rescue Blues
+9. The Sun Also Sets
+Break to fix equipment
+10.Beautiful sorta
+11.Cold Roses
+12.Mockingbird
+13.Dear Chicago
+14.Freeway To The Canyon (Ryan aborts What Sin)
+15.Goodnight Hollywood Boulevard

@@ -1,10 +1,25 @@
-beck2000-08-27t01.flac:bd42cf41be2f1a1d014af5d8e8420729
-beck2000-08-27t02.flac:60200cb79ba4dd7d79b590f174d4606f
-beck2000-08-27t03.flac:cdcd4332876dea7d46b938da3a57bb20
-beck2000-08-27t04.flac:67235779aa2999fc800f4079fd8e7069
-beck2000-08-27t05.flac:b2065adcb0807be3778adcb9c492cde5
-beck2000-08-27t06.flac:0e3a581f93c727a5a9cd75f4e7e0dfec
-beck2000-08-27t07.flac:db171009a406bc46cb7da357cf16ed27
-beck2000-08-27t08.flac:64ed29e4b91372ab7a90986d99a24009
-beck2000-08-27t09.flac:99eed7d58d0b08d4651defe8b4a19d5f
-beck2000-08-27t10.flac:874d93dad9f5d323de57349c4c6b1d79
+Beck
+August 27, 2000
+Leeds Festival
+Leeds, ENG 
+
+Source: Analog Satellite Receiver > VHS Recorder > Stand Alone Burner Philips > CDR >
+        > EAC > FLAC
+
+01) Broken Train	
+02) New Pollution
+03) Mixed Bizness
+04) Feel Like Makin' Love / Nicotine & Gravy
+05) Peaches & Cream
+06) Tropicalia
+07) Jack-ass
+08) Devil's Haircut
+09) Salt In The Wound
+10) Where It's At
+
+Recorded by:
+Kevin Domas
+
+Encoded & Seeded by:
+breathmint (breathmint@hotmail.com)
+becktabs hub (dc://becktabs.homeunix.org)

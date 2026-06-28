@@ -1,23 +1,30 @@
-Metallica_1999-06-12_02.flac:13acff0bdadac493bbd06db338e19dea
-Metallica_1999-06-12_03.flac:5eda18ee981c395eb1eb9f3fe17d6ff3
-Metallica_1999-06-12_04.flac:18ff3e6ba54db2211d65830708547c3b
-Metallica_1999-06-12_05.flac:f6a5048b5a86554696b6d3e0c94b46f5
-Metallica_1999-06-12_06.flac:72a99f6a67823e7c8f78c566c8dfcb9a
-Metallica_1999-06-12_07.flac:85f1096c9a4a43f3f360c51b5bc21f19
-Metallica_1999-06-12_08.flac:30140918a5a14316480c7a48815974a0
-Metallica_1999-06-12_09.flac:18895ea0b6e47811b2dc6392130eead3
-Metallica_1999-06-12_10.flac:8cb23bdc9f4fb1bb1eb8f5b36d6ef214
-Metallica_1999-06-12_11.flac:7276b1073e0593e5294110f001b391dc
-Metallica_1999-06-12_12.flac:f20f4e6b32057dd7f1b6b48577a32c7d
-Metallica_1999-06-12_13.flac:a9258e400a45fec69263e566c1200cd3
-Metallica_1999-06-12_14.flac:7305a925299b09ab4c8944d006786f62
-Metallica_1999-06-12_15.flac:e853c0847a2ba80993cca326cb23c354
-Metallica_1999-06-12_16.flac:02a7021a381c7cfaf613049b52695c54
-Metallica_1999-06-12_17.flac:4ca5f44007aa1660d4e964c916ec38f6
-Metallica_1999-06-12_18.flac:e2e0409f14153a957e88db579631ef06
-Metallica_1999-06-12_19.flac:131020fc4e46cba0f47fecbb7a8518f4
-Metallica_1999-06-12_20.flac:f5ebe649bbee66a4c1b2cfadd3ecd2d5
-Metallica_1999-06-12_21.flac:df48665cd4990671c01d5ff1bcf60691
-Metallica_1999-06-12_22.flac:3c9219e0b79c20f5ab8caf0f3d8f1207
-Metallica_1999-06-12_23.flac:698675cc3bc872fbf0dda75f30897dbf
-Metallica_1999-06-12_01.flac:c209889911836bcc624b43db8e32cf29
+Intro
+So What
+Last Caress
+Master of Puppets
+Of Wolf and Man
+Thing that Should not Be
+Fuel
+Memory Remains
+Bleeding Me
+Jason's solo
+Kirk's solo
+The Four Horsemen
+For Whom the Bell Tolls
+King Nothing
+Wherever I May Roam
+One
+Fight Fire with Fire
+Nothing Else Matters
+Sad but True
+Creeping Death
+Die, Die My Darling
+Enter Sandman
+Battery
+
+
+SOURCE: Unknown mic > Unknown analog
+TRANSFER:2nd gen cassette > Adobe Audigy Platnium > Goldwave > CDWAVE > WAV (transferred by Jeff S)
+
+CORRECT SHOW: Yes, Athens said several times.
+

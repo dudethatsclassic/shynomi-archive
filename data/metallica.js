@@ -1918,7 +1918,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1986-11-28 - Poughkeepsie, NY - Mid-Hudson Civic Center (Source 2 - }{eywood) (koondog) [AUD24].txt"
+      "textFile": "1986-11-28 - Poughkeepsie, NY - Mid-Hudson Civic Center - The Freak's Not Here [AUD].txt"
     },
     {
       "year": 1986,
@@ -1932,7 +1932,7 @@ const ARTIST_DATA = {
       "notes": "}{eywood) \u00b7 koondog",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1986-11-28 - Poughkeepsie, NY - Mid-Hudson Civic Center - The Freak's Not Here [AUD].txt"
+      "textFile": "1986-11-28 - Poughkeepsie, NY - Mid-Hudson Civic Center (Source 2 - }{eywood) (koondog) [AUD24].txt"
     },
     {
       "year": 1986,
@@ -4159,7 +4159,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC 24",
-      "textFile": "1992-01-11 - Sacramento, CA - Arco Arena (2nd night) [AUD].txt"
+      "textFile": "1992-01-11 - Sacramento, CA - Arco Arena (Nakamichi CM300) (markp) [AUD].txt"
     },
     {
       "year": 1992,
@@ -4173,7 +4173,7 @@ const ARTIST_DATA = {
       "notes": "Nakamichi CM300 \u00b7 markp",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-01-11 - Sacramento, CA - Arco Arena (Nakamichi CM300) (markp) [AUD].txt"
+      "textFile": "1992-01-11 - Sacramento, CA - Arco Arena (2nd night) [AUD].txt"
     },
     {
       "year": 1992,
@@ -10278,8 +10278,7 @@ const ARTIST_DATA = {
       "venue": "Pannonia Fields II",
       "notes": "LiveMetallica",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2006-06-15 - Nickelsdorf, AUT - Pannonia Fields II (Source 2) (metallifreak) - MD(M) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -10292,7 +10291,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-06-15 - Nickelsdorf, AUT - Pannonia Fields II (Source 2) (metallifreak) - MD(M) [AUD].txt"
     },
     {
       "year": 2006,
@@ -18284,8 +18284,7 @@ const ARTIST_DATA = {
       "venue": "Calling",
       "notes": "Harvard \u00b7 LiveMetallica",
       "version": "SBD",
-      "format": "FLAC HD",
-      "textFile": "2022-05-29 - Cambridge, MA - Boston Calling Music Festival (R9 Interior Mics) (ec666) [AUD24].txt"
+      "format": "FLAC HD"
     },
     {
       "year": 2022,
@@ -18298,7 +18297,8 @@ const ARTIST_DATA = {
       "venue": "Boston Calling Music Festival",
       "notes": "R9 Interior Mics \u00b7 ec666",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-05-29 - Cambridge, MA - Boston Calling Music Festival (R9 Interior Mics) (ec666) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -18468,8 +18468,7 @@ const ARTIST_DATA = {
       "venue": "Highmark Stadium",
       "notes": "LiveMetallica",
       "version": "SBD",
-      "format": "FLAC HD",
-      "textFile": "2022-08-11 - Orchard Park, NY - Highmark Stadium (CA-14s) (binko) [AUD24].txt"
+      "format": "FLAC HD"
     },
     {
       "year": 2022,
@@ -18482,7 +18481,8 @@ const ARTIST_DATA = {
       "venue": "Highmark Stadium",
       "notes": "CA-14s \u00b7 binko",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-08-11 - Orchard Park, NY - Highmark Stadium (CA-14s) (binko) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -18759,8 +18759,7 @@ const ARTIST_DATA = {
       "venue": "Stade Olympique",
       "notes": "LiveMetallica",
       "version": "SBD",
-      "format": "FLAC HD",
-      "textFile": "2023-08-11 - Montreal, CAN - Olympic Stadium (CA-14s) (colinw) [AUD24].txt"
+      "format": "FLAC HD"
     },
     {
       "year": 2023,
@@ -18773,7 +18772,8 @@ const ARTIST_DATA = {
       "venue": "Olympic Stadium",
       "notes": "CA-14s \u00b7 colinw",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-08-11 - Montreal, CAN - Olympic Stadium (CA-14s) (colinw) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -19423,8 +19423,7 @@ const ARTIST_DATA = {
       "venue": "Sonic Temple",
       "notes": "Historic \u00b7 LiveMetallica",
       "version": "SBD",
-      "format": "FLAC HD",
-      "textFile": "2025-05-11 - Columbus, OH - Sonic Temple - Historic Crew Stadium (Schoeps MK41) (jesse mc) [AUD24].txt"
+      "format": "FLAC HD"
     },
     {
       "year": 2025,
@@ -19437,7 +19436,8 @@ const ARTIST_DATA = {
       "venue": "Sonic Temple",
       "notes": "Historic \u00b7 Schoeps MK41 \u00b7 jesse mc",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-05-11 - Columbus, OH - Sonic Temple - Historic Crew Stadium (Schoeps MK41) (jesse mc) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -19450,8 +19450,7 @@ const ARTIST_DATA = {
       "venue": "Lincoln Financial Field",
       "notes": "LiveMetallica",
       "version": "SBD",
-      "format": "FLAC HD",
-      "textFile": "2025-05-23 - Philadelphia, PA - Lincoln Financial Field (Edirol R-09) (tikimaize) [AUD24].txt"
+      "format": "FLAC HD"
     },
     {
       "year": 2025,
@@ -19464,7 +19463,8 @@ const ARTIST_DATA = {
       "venue": "Lincoln Financial Field",
       "notes": "Edirol R-09 \u00b7 tikimaize",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-05-23 - Philadelphia, PA - Lincoln Financial Field (Edirol R-09) (tikimaize) [AUD24].txt"
     },
     {
       "year": 2025,

@@ -1,16 +1,34 @@
-ra2007-10-15d1t01.flac:42043d047cf4dc1a3e344471a5264349
-ra2007-10-15d1t02.flac:706133d1d65e64b6c759f9dc3e0a208a
-ra2007-10-15d1t03.flac:294342bfe0fe49c0a33484ef2cefe994
-ra2007-10-15d1t04.flac:66c0bb5db5a6528661d18c9b58bfdda0
-ra2007-10-15d1t05.flac:539cb4a1d4d4344f39bc3e3fe10774a2
-ra2007-10-15d1t06.flac:264cb701e6db5f9c44651457a74be326
-ra2007-10-15d1t07.flac:133522c9540543f899c3784bb176f2c2
-ra2007-10-15d1t08.flac:6bb8a3d5f93a3261d1ef030d426d9748
-ra2007-10-15d1t09.flac:d95bf430e988152e626ac669fc37c5ad
-ra2007-10-15d1t10.flac:e13fe3f7e5f005f16b02fd7022b4fad6
-ra2007-10-15d1t11.flac:5da3e3f2fc62ea797300862eb27900ee
-ra2007-10-15d2t01.flac:93cf911cb5adc3a40c0c61d4939f0b19
-ra2007-10-15d2t02.flac:b80a23e64f128d4e7d1781abdf30bb2f
-ra2007-10-15d2t03.flac:0f526770d823d1ee8fe56eb419d82bba
-ra2007-10-15d2t04.flac:8b8eddf3d14797af0db08a75ceb00646
-ra2007-10-15d2t05.flac:b5542e18d82da3b1d373e44662a645b2
+Ryan Adams & the Cardinals
+10-15-2007
+Alabama Theater
+Birmingham AL
+
+
+Source:  DPA 4023->Oade m148->Hi-Ho Silver Interconnects->Sound Devices 722 (24/96)
+
+Location: FOB DIN on front row of left stack
+
+Transfer: 722->HDD->Wavelab 5.0 (dither/resample)->cdwav->Flac 16
+
+
+Disc 1/Set 1
+
+1.  Bartering Lines
+2.  Tears of Gold
+3.  Mockingbird 
+4.  Cold Roses
+5.  Peaceful Valley
+6.  Please Do Not Let Me Go
+7.  Trouble on Wheels->
+8.  A Kiss Before I Go
+9.  Arkham Asylum
+10. Goodnite Rose
+11. Shakedown On 9th Street
+
+Disc 2/Set 2
+
+1.  I See Monsters
+2.  Nightbirds
+3.  Rescue Blues
+4.  I Taught Myself How To Grow Big
+5.  What Sin

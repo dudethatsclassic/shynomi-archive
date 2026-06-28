@@ -1,21 +1,43 @@
-localh-2010-09-25-mc930-16b-t01.flac:74991cc7d19ae33f1e002cf98510b5e1
-localh-2010-09-25-mc930-16b-t02.flac:91e489e1e6cb5cccbd7afbf63fcd1a17
-localh-2010-09-25-mc930-16b-t03.flac:2dfcc2d6dc6aac2eed1b63a8d8bf99cd
-localh-2010-09-25-mc930-16b-t04.flac:8e765657fff8e8c714b8aa55a71078b4
-localh-2010-09-25-mc930-16b-t05.flac:99d60f2a5130d0ff9cf82bbebd0dac09
-localh-2010-09-25-mc930-16b-t06.flac:c6d7d3d76968653554ee2f92dd3c5bbc
-localh-2010-09-25-mc930-16b-t07.flac:699380c6bf7003e3f15c060c0b872d96
-localh-2010-09-25-mc930-16b-t08.flac:da5cc8db3597762c8c9babab9bf48993
-localh-2010-09-25-mc930-16b-t09.flac:88fa37ce3606830049a35d0aebca64a8
-localh-2010-09-25-mc930-16b-t10.flac:c41ef2cf5a46b880cd6ae2a6ccf535c3
-localh-2010-09-25-mc930-16b-t11.flac:d56b07e931080f23b0e8c8d478d16857
-localh-2010-09-25-mc930-16b-t12.flac:a603c3d7bb77243a0ba31bf46f91941a
-localh-2010-09-25-mc930-16b-t13.flac:25f40f334bd551dc3097625e79d8aefb
-localh-2010-09-25-mc930-16b-t14.flac:a580b824b3a57fb4c76f840b0126de82
-localh-2010-09-25-mc930-16b-t15.flac:1e8407522e4dcf9b36bc8b82f51feaad
-localh-2010-09-25-mc930-16b-t16.flac:7cb727679d6bd44ac3aaefa8de9f23d6
-localh-2010-09-25-mc930-16b-t17.flac:a05d18dfbb43c255223198e4384aebf1
-localh-2010-09-25-mc930-16b-t18.flac:f6172ef39315107060ffc73d1f0c633b
-localh-2010-09-25-mc930-16b-t19.flac:e230a965f4bb74bd25b7564e783e4ac7
-localh-2010-09-25-mc930-16b-t20.flac:7fd9a0acf7f90cc7e4997519a0421167
-localh-2010-09-25-mc930-16b-t21.flac:581c25ac3740f84649b7779bef18405a
+Local H
+2010-09-25
+Half Way to St Pat's Day Fest
+Mahoney's Pub
+Chicago, IL
+
+Source:     Beyerdynamics MC930 > Apogee MiniMe > MTII
+
+Transfer:   MT > USB > Adobe Audition 3.0 > CD Wave > 
+            FLAC Frontend 1.7.1
+
+Generation: WAV(M 24b 48kHz) > remaster > WAV(16b 44.1kHZ) >
+            FLAC (level 6) 
+
+
+set: 1hr 30min
+--------------
+01. intro
+02. Hands On The Bible
+03. California Songs
+04. BMW Man
+05. Michelle (again)
+06. I Saw What you Did And I Know Who You Are
+07. Eddie Vedder
+08. Buffalo Trace
+09. banter
+10. Taxi Cabs
+11. Fritz's Corner
+12. How's The Weather Down There?
+13. All The Kids Are Right
+14. All Right! (Oh Yeah)
+15. High Fiven MF > To Bring You My LOve > HFMF
+16. break / banter 
+17. Smothered In Hugs
+18. Bound For The Floor
+19. Skid Marks
+20. Wolf Like Me
+21. out
+
+Location: FOB 40' back. 3' ROC, 10' up.
+Recorded by J Weiss. Do Not Sell This recording!
+For free trade or gift only! Support Local H.
+More info at localh.com

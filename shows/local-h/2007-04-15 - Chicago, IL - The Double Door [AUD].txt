@@ -1,21 +1,37 @@
-LocalH-2007-04-15-Chicago-t01.flac:6290c1d3758243a8bd5af07658912ee9
-LocalH-2007-04-15-Chicago-t02.flac:2a5fc5202f76c15b14f94d38917ee947
-LocalH-2007-04-15-Chicago-t03.flac:24d859969c3c461054f1e016e92b8bd9
-LocalH-2007-04-15-Chicago-t04.flac:5d9bf353a6ba5d3477ca5d2027fb1c30
-LocalH-2007-04-15-Chicago-t05.flac:2565e1028cffe91f4787623e7a4e1073
-LocalH-2007-04-15-Chicago-t06.flac:5c248444f6cf531daba33ce320c4b139
-LocalH-2007-04-15-Chicago-t07.flac:e3373d50626ba55cc7c066d5cb7e1bb0
-LocalH-2007-04-15-Chicago-t08.flac:5bb968325aac2cf5c9f5abe2f3484e60
-LocalH-2007-04-15-Chicago-t09.flac:c05af01fe49f149de3f785a1ea326819
-LocalH-2007-04-15-Chicago-t10.flac:44c63106ecaccba16ae19f2dfe223289
-LocalH-2007-04-15-Chicago-t11.flac:3cb2166050a91ba007d5c12449090ab5
-LocalH-2007-04-15-Chicago-t12.flac:7204fa48fbd7b8f14415eb5395a18b80
-LocalH-2007-04-15-Chicago-t13.flac:b5bb9cbcd6053bfd183feaa64614630e
-LocalH-2007-04-15-Chicago-t14.flac:2c3512656f55531f53d6ff456a41d2a1
-LocalH-2007-04-15-Chicago-t15.flac:bd68b225262f569f916604ae15397cd5
-LocalH-2007-04-15-Chicago-t16.flac:fa02f7e8fe48a1bb465eb17fd01a3325
-LocalH-2007-04-15-Chicago-t17.flac:39b782a69ade72eece0e5070960c3cd4
-LocalH-2007-04-15-Chicago-t18.flac:83a300c0dbb9985c2b4eee8c93e9733e
-LocalH-2007-04-15-Chicago-t19.flac:87f58b10a621126462c414d1cb176036
-LocalH-2007-04-15-Chicago-t20.flac:760db41922239039be1e32c9ac19e937
-LocalH-2007-04-15-Chicago-t21.flac:6d93aa6dc0b2bb30fedb95083854056e
+Local H
+04-15-2007
+Double Door
+Chicago, IL
+
+SOURCE:   AT U853's(mod)>CA ST-9100>M-Audio MT 24/96
+TRANSFER: MT 24/96>USB>Adobe Audition 2.0>CD Wave>
+          Flac Frontend 1.7.1
+GEN:      WAV (M @ 48kHz, 24 bit)>WAV(44.1kHz, 16 bit)>
+          FLAC [Level 8]
+
+SET:
+01. Them's Fighting Words
+02. Bound For The Floor (Looks That Kill)
+03. Eddie Vedder
+04. Scott Rock
+05. BMW Man
+06. Hands On The Bible
+07. Buffalo Trace
+08. California Songs
+09. Ow, My Balls
+10. Hey Rita (#1)
+11. All Right (Oh-Yeah)
+12. Fritz's Corner
+13. High Fiven MF (Feel Good Hit Of The Summer)
+14. Encore Break
+15. Scott Banter
+16. Message In A Bottle (tease)
+17. Wolf Like Me
+18. Boodstains
+19. Joey
+20. Toxic
+21. FYTW
+
+Recorded and Transfered by John Weiss.  
+
+Thank You LOCAL H, please support, www.localh.com

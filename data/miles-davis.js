@@ -1075,6 +1075,20 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
+      "textFile": "1960-09-27 - Manchester, UK - Free Trade Hall - Manchester Concert [SBD].txt"
+    },
+    {
+      "year": 1960,
+      "month": 9,
+      "day": 27,
+      "dateStr": "9-27-1960",
+      "city": "Manchester",
+      "state": "UK",
+      "location": "Manchester, UK",
+      "venue": "Free Trade Hall *Manchester Concert",
+      "notes": "",
+      "version": "AUD",
+      "format": "FLAC",
       "textFile": "1960-09-27 - Manchester, UK - Free Trade Hall - Manchester Concert (Early) [AUD].txt"
     },
     {
@@ -1090,20 +1104,6 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1960-09-27 - Manchester, UK - Free Trade Hall - Manchester Concert (Late) [AUD].txt"
-    },
-    {
-      "year": 1960,
-      "month": 9,
-      "day": 27,
-      "dateStr": "9-27-1960",
-      "city": "Manchester",
-      "state": "UK",
-      "location": "Manchester, UK",
-      "venue": "Free Trade Hall *Manchester Concert",
-      "notes": "",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1960-09-27 - Manchester, UK - Free Trade Hall - Manchester Concert [SBD].txt"
     },
     {
       "year": 1960,
@@ -1593,7 +1593,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1967-10-30 - Rotterdam, Netherlands - De Doelen.txt"
+      "textFile": "1967-10-30 - Rotterdam, Netherlands - De Doelen [FM].txt"
     },
     {
       "year": 1967,
@@ -1677,7 +1677,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1967-11-06 - Paris, France - Salle Pleyel - ORTF Radio Broadcast.txt"
+      "textFile": "1967-11-06 - Paris, France - Salle Pleyel - ORTF Radio Broadcast [FM].txt"
     },
     {
       "year": 1967,
@@ -1857,7 +1857,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1969-10-27 - Rome, Italy - Teatro Sistina [SBD].txt"
+      "textFile": "1969-10-27 - Rome, Italy - Teatro Sistina [FM].txt"
     },
     {
       "year": 1969,

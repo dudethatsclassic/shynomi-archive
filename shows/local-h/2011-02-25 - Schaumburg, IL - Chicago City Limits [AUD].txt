@@ -1,21 +1,44 @@
-localh-2011-02-25-mc930-16b-t01.flac:a0fcaf13e02648b67aeae606eac5a209
-localh-2011-02-25-mc930-16b-t02.flac:cf66a91a90fdd092e35b09af414d16e5
-localh-2011-02-25-mc930-16b-t03.flac:f481710b0428f5973db22e1b546c2458
-localh-2011-02-25-mc930-16b-t04.flac:6c77eb1958c901902b96d10d4700bf01
-localh-2011-02-25-mc930-16b-t05.flac:234bd2ac96b8961e1fad5fe6baedb4e2
-localh-2011-02-25-mc930-16b-t06.flac:a06d0a30def0fe6cdf9d500dc30182ba
-localh-2011-02-25-mc930-16b-t07.flac:181ac4bc7dc09a8a9c64182889ecdffc
-localh-2011-02-25-mc930-16b-t08.flac:20fc18c83e1affe1e3677f95bb5baf5a
-localh-2011-02-25-mc930-16b-t09.flac:a33078e49c748f2eb5ecaae6b8557c5e
-localh-2011-02-25-mc930-16b-t10.flac:91072e1f26b07b6373fd998c67d7fe28
-localh-2011-02-25-mc930-16b-t11.flac:5d3c4c709b7a74e87db4b9f3200ed686
-localh-2011-02-25-mc930-16b-t12.flac:9aa3ef8be0ecfbc8e8bcc22efb189f65
-localh-2011-02-25-mc930-16b-t13.flac:6ca3f89934e8e09ce9c4aeda667c5df2
-localh-2011-02-25-mc930-16b-t14.flac:5b13eded1de3c555621108a829ce6965
-localh-2011-02-25-mc930-16b-t15.flac:114df0f7f736134e4533dd9311e7f1fd
-localh-2011-02-25-mc930-16b-t16.flac:55716902efc286c86000f67d9ed4938c
-localh-2011-02-25-mc930-16b-t17.flac:5a9843892dc553a7b1e5b710061bd32e
-localh-2011-02-25-mc930-16b-t18.flac:48a0e09920bb2b26448048756ac41428
-localh-2011-02-25-mc930-16b-t19.flac:10c0de5c0acd6ac69f381571989ccfa0
-localh-2011-02-25-mc930-16b-t20.flac:2392882d25a6cf676f52db279c4ae180
-localh-2011-02-25-mc930-16b-t21.flac:b2fb8b25190c47de520237b36c3628ad
+Local H
+2011-02-25
+Chicago City Limits	
+Schaumburg, IL
+
+Source:     Beyerdynamics MC930 (NOS) > Apogee MiniMe > MTII
+
+Transfer:   MTII > USB > Adobe Audition 3.0
+
+Generation: WAV(M 24bit 48kHz) > WAV(16bit 44.1 kHz) 
+            > CD Wave 1.95.2 > FLAC Frontend 1.7.1 [Level 6]
+
+Set: 1hr 33min.
+---------------
+01. in
+02. Jesus Christ! Did You See The Size Of That Sperm Whale?
+03. Hands On The Bible
+04. California Songs
+05. Manor
+06. Eddie Vedder
+07. Back in the Day
+08. (Baby Wants To) Tame Me
+09. Michelle
+10. PJ Soles >
+11. How's The Weather Down There? >
+12. Fritz's Corner
+13. banter
+14. All The Kids Are Right >
+15. All-Right (Oh, Yeah)
+16. High Fiving MF
+17. encore break 
+18. Bound For The Floor > 25 or 6 to 4 >
+19. Skidmarks
+20. Wolf Like Me
+21. out
+
+Location: 3 ft back (in front of Brian), 
+          5 - 6 ft LOC, mics 7 - 8 ft. up. 
+
+Recorded, and transferred by J. Weiss
+
+Support Local H, see them live, and buy their merchandice.
+More info @ localh.com. 
+

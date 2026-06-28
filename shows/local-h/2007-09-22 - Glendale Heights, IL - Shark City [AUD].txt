@@ -1,21 +1,43 @@
-LocalH-2007-09-22-t21.flac:b54d171b4b1e14b305a596064de7942e
-LocalH-2007-09-22-t01.flac:05581a22651b50e5de6b4c91c966b384
-LocalH-2007-09-22-t02.flac:85c1b89b6464aa05521ff28f7da84457
-LocalH-2007-09-22-t03.flac:191ec044c59462c4e6c983f50da5ca71
-LocalH-2007-09-22-t04.flac:f66a6828350c0a8bedf8a7a00d4128b2
-LocalH-2007-09-22-t05.flac:0db9413d13df8dc2358ad51702666af7
-LocalH-2007-09-22-t06.flac:d5de19bb0e5acba2608002d7586a545a
-LocalH-2007-09-22-t07.flac:1f4a2c040159c33916c382f71d84de37
-LocalH-2007-09-22-t08.flac:52e9b18553d42a72a2bb7ce95e7970f0
-LocalH-2007-09-22-t09.flac:2e461d89313d907a83c37e3cc5e44bc2
-LocalH-2007-09-22-t10.flac:74011fe4fa519413c413411ccb843f3e
-LocalH-2007-09-22-t11.flac:43f1dd17b9ede5c718e39cce20ea860f
-LocalH-2007-09-22-t12.flac:96633154c4a79cb35e166100eb4c7848
-LocalH-2007-09-22-t13.flac:d6bf2c41bfad6a3f6d867491bc786db6
-LocalH-2007-09-22-t14.flac:69ccfcda5088650c31243136b6127a81
-LocalH-2007-09-22-t15.flac:5db66d631de3b978eee7e0f90ea91527
-LocalH-2007-09-22-t16.flac:2f25fe8bf738797f380dd7930a5a5344
-LocalH-2007-09-22-t17.flac:94851cf38357577151b9e36afd364a91
-LocalH-2007-09-22-t18.flac:d926c07ff79303252f0a3481ebc854eb
-LocalH-2007-09-22-t19.flac:ab0268c46a28b921d72c54569cfafd0e
-LocalH-2007-09-22-t20.flac:7519e74474b569c59647079a0ec92517
+Local H 
+2007-09-22
+Shark City
+Glendale Heights, IL
+
+Source:     AT U853's(mod) > CA ST-9100 > M-Audio MT 24/96
+
+Transfer:   M-Audio MT 24/96 > USB > Adobe Audition 2.0
+
+Generation: WAV(M 24bit 48kHz) > WAV (16bit 44.1 kHz) > CD Wave 
+            > FLAC Frontend 1.7.1 [Level 6]
+
+SET: (1:41:29)
+--------------
+01. Sports Bar
+02. California Songs
+03. Michelle
+04. Eddie Vedder
+05. Blib
+06. Hands on the Bible
+07. Buffalo Trace
+08. Bound for the Floor
+09. Hey, Rita (I've Got a Feeling)
+10. Hit The Skids
+11. All Right (Oh, Yeah) *
+12. issues/banter
+13. Fritz's Corner
+14. HFMF (To Bring You My Love)
+15. Heavy Metal Bakesale
+16. Encore Break
+17. Summer of Boats
+18. Wolf Like Me
+19. Toxic
+20. That's What They All Say > National Anthem > Goodnight
+21. outro
+
+* - lost power for the guitar and vocals 
+
+Location: 30 ft from stage, right side of the soundboard
+
+Taped and transfered by John Weiss
+
+Support Local H, please visit www.localh.com

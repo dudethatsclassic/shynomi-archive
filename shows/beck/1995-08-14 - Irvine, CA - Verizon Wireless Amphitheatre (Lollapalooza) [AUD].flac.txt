@@ -1,11 +1,26 @@
-01) Intro (1995-08-14).flac:c933b4de394170b243dc0a09eceee1ab
-02) Fuckin With My Head (Mountain Dew Rock) (1995-08-14).flac:2304dfa672af8ead59aa25f2687259c4
-03) Thunder Peel (1995-08-14).flac:1506e6520ff99ca8ce7cc892dd6d6fef
-04) Novacane (1995-08-14).flac:339d6714110d05b8fe1ceabbb50f43b0
-05) Pay No Mind (Snoozer) [Got No Mind] (1995-08-14).flac:6a33756d3851a1397b973e9a28b71968
-06) Where It's At (1995-08-14).flac:9c9694329f7c929a8143eb6c8d1d01a3
-07) Truckdrivin Neighbors Downstairs (Yellow Sweat) (1995-08-14).flac:b936c2f7f29dfef06482377b9bb011c8
-08) Loser (1995-08-14).flac:a45f23e2f0f5e13bb8bc235735202f52
-09) Fume (1995-08-14).flac:f16ff12fe736cf31be99356adfe68d43
-10) Asshole (1995-08-14).flac:384b6325f9347512c5b304677b6dbaf4
-11) Beercan (1995-08-14).flac:b05987b5fa3495d29661d93829c4484e
+Beck
+Aug 14 1995
+Lollapalooza
+Verizon Wirelss Amphitheater (Irvine Meadows Amphitheater)
+Irvine, CA
+
+Source: Unknown AUD >> ?? >> CD >> EAC >> Sony Soundforge 7.0a >> FLAC Frontend 1.7.1 Etree Edition
+
+01) Intro
+02) Fuckin With My Head (Mountain Dew Rock)
+03) Thunder Peel
+04) Novacane
+05) Pay No Mind (Snoozer) / Got No Mind
+06) Where It's At
+07) Truckdrivin Neighbors Downstairs (Yellow Sweat)
+08) Loser
+09) Fume
+10) Asshole
+11) Beercan
+
+
+
+Ripped, Mastered, FLAC'd and Seeded by:
+
+breathmint (breathmint@hotmail.com)
+becktabs hub (dc://becktabs.homeunix.org)

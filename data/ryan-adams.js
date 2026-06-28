@@ -3184,7 +3184,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC 24",
-      "textFile": "2005-06-16 - Austin, TX - Stubb's [AUD24].txt"
+      "textFile": "2005-06-16 - Austin, TX - Stubb's [SBD].txt"
     },
     {
       "year": 2005,
@@ -3198,7 +3198,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4022 \u00b7 rick bendes",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2005-06-16 - Austin, TX - Stubb's [SBD].txt"
+      "textFile": "2005-06-16 - Austin, TX - Stubb's [AUD24].txt"
     },
     {
       "year": 2005,
@@ -4402,7 +4402,7 @@ const ARTIST_DATA = {
       "notes": "bill demars",
       "version": "SBD",
       "format": "FLAC 24",
-      "textFile": "2007-06-29 - Somerville, MA - Somerville Theatre [AUD24].txt"
+      "textFile": "2007-06-29 - Somerville, MA - Somerville Theatre [SBD24].txt"
     },
     {
       "year": 2007,
@@ -4416,7 +4416,7 @@ const ARTIST_DATA = {
       "notes": "bill demars",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2007-06-29 - Somerville, MA - Somerville Theatre [SBD24].txt"
+      "textFile": "2007-06-29 - Somerville, MA - Somerville Theatre [AUD24].txt"
     },
     {
       "year": 2007,
@@ -5521,7 +5521,7 @@ const ARTIST_DATA = {
       "notes": "paul massaro",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2008-09-07 - Boston, MA - Bank of America Pavilion (MK012) [AUD].txt"
+      "textFile": "2008-09-07 - Boston, MA - Bank of America Pavilion [SBD].txt"
     },
     {
       "year": 2008,
@@ -5535,7 +5535,7 @@ const ARTIST_DATA = {
       "notes": "Oktava MK-012 \u00b7 vanark",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-09-07 - Boston, MA - Bank of America Pavilion [SBD].txt"
+      "textFile": "2008-09-07 - Boston, MA - Bank of America Pavilion (MK012) [AUD].txt"
     },
     {
       "year": 2008,
@@ -5577,7 +5577,7 @@ const ARTIST_DATA = {
       "notes": "claude sawyer",
       "version": "SBD",
       "format": "FLAC 24",
-      "textFile": "2008-09-25 - Albany, NY - Theater at the Egg (MC012) [AUD].txt"
+      "textFile": "2008-09-25 - Albany, NY - Theater at the Egg [SBD].txt"
     },
     {
       "year": 2008,
@@ -5591,7 +5591,7 @@ const ARTIST_DATA = {
       "notes": "Gefell M20 \u00b7 tim burke",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2008-09-25 - Albany, NY - Theater at the Egg [SBD].txt"
+      "textFile": "2008-09-25 - Albany, NY - Theater at the Egg (MC012) [AUD].txt"
     },
     {
       "year": 2008,
@@ -5605,7 +5605,7 @@ const ARTIST_DATA = {
       "notes": "bill demars",
       "version": "SBD",
       "format": "FLAC 24",
-      "textFile": "2008-09-26 - Syracuse, NY - Landmark Theatre (M20) [AUD24].txt"
+      "textFile": "2008-09-26 - Syracuse, NY - Landmark Theatre [SBD24 Remaster].txt"
     },
     {
       "year": 2008,
@@ -5619,7 +5619,7 @@ const ARTIST_DATA = {
       "notes": "Gefell M20 \u00b7 tim burke",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2008-09-26 - Syracuse, NY - Landmark Theatre [SBD24 Remaster].txt"
+      "textFile": "2008-09-26 - Syracuse, NY - Landmark Theatre (M20) [AUD24].txt"
     },
     {
       "year": 2008,
@@ -5773,7 +5773,7 @@ const ARTIST_DATA = {
       "notes": "joel swaney",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2008-10-05 - Madison, WI - Overture Hall (MD Master) [AUD].txt"
+      "textFile": "2008-10-05 - Madison, WI - Overture Hall [SBD].txt"
     },
     {
       "year": 2008,
@@ -5787,7 +5787,7 @@ const ARTIST_DATA = {
       "notes": "MD(M) \u00b7 ECM 717",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-10-05 - Madison, WI - Overture Hall [SBD].txt"
+      "textFile": "2008-10-05 - Madison, WI - Overture Hall (MD Master) [AUD].txt"
     },
     {
       "year": 2008,
@@ -6557,7 +6557,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4023 \u00b7 chris hall",
       "version": "MTX",
       "format": "FLAC",
-      "textFile": "2009-03-20 - Atlanta, GA - Fox Theatre (SSM4) [AUD].txt"
+      "textFile": "2009-03-20 - Atlanta, GA - Fox Theatre (SSM4) [MTX].txt"
     },
     {
       "year": 2009,
@@ -6571,7 +6571,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps CCM 4 Lg \u00b7 dennis tyler",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-03-20 - Atlanta, GA - Fox Theatre (SSM4) [MTX].txt"
+      "textFile": "2009-03-20 - Atlanta, GA - Fox Theatre (SSM4) [AUD].txt"
     },
     {
       "year": 2009,

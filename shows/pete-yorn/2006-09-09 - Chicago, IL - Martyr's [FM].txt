@@ -1,13 +1,24 @@
-pyorn01.flac:51a35da775020b96a6fd533040ef7c2f
-pyorn02.flac:13138654c82de47fde01e29d98dad7ef
-pyorn03.flac:a1f79f29c10d36c9f1c85091963caff5
-pyorn04.flac:a37d3c7e6bb9609d457897afb4ddbeb5
-pyorn05.flac:4b0f2bc545fe92fa861b92e26548d223
-pyorn06.flac:9b1261b8767fa5577240390146b6abce
-pyorn07.flac:06a9465f59207adfabce2b1f5bd4db58
-pyorn08.flac:f44dc3ac7ca8eb73872b8062461e720c
-pyorn09.flac:b5e74a74242b05e5efea22ffc45c29c0
-pyorn10.flac:92e7c9a793da67c7ee1f45e0c5cf2598
-pyorn11.flac:f91580b021f57c68fa7827843cd89c7a
-pyorn12.flac:5f9b6b245b011a4c5e2b124b9b510166
-pyorn13.flac:0d7205301a78f2d2886d354ebd816c33
+Pete Yorn
+Martyr's
+Chicago, IL
+2006-09-09
+
+Lineage: fm>SoundBlaster>wav>flac
+
+Another 'XRT show. Probably incomplete, but it is not circulating.
+
+Intro (Day I Forgot) 5:22
+Long Time, Nothing New 3:32
+For Us 3:52
+Life on a Chain 3:53
+Burrito 2:54
+Strange Condition 4:11
+Broken Bottle 3:32
+Alive 3:45
+How Do You Go On? 5:39
+Closet 3:28
+Black 5:29
+The Man 4:07
+Crystal Village 8:21
+
+Total Time: 58:12

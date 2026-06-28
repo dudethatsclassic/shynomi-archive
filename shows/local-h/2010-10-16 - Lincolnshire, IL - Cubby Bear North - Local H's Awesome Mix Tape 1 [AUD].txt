@@ -1,23 +1,47 @@
-localh-2010-10-16-mc930-16b-t01.flac:844ed2f37c9709a2568a6c8472b7481a
-localh-2010-10-16-mc930-16b-t02.flac:6631fdcf551028e1c8abff0cfc1d46c9
-localh-2010-10-16-mc930-16b-t03.flac:176561a43a8d08def5342b0024158dfc
-localh-2010-10-16-mc930-16b-t04.flac:fdd0831d0c2a33f8d8c5ca3fb860a491
-localh-2010-10-16-mc930-16b-t05.flac:985624c81056539e659e062071d567c0
-localh-2010-10-16-mc930-16b-t06.flac:1825988bf60526f06522188037ae880d
-localh-2010-10-16-mc930-16b-t07.flac:1b5e6ee0efbcec1983fb62b84841d8d5
-localh-2010-10-16-mc930-16b-t08.flac:87b37e1b9ec87a796839c57b15ed20b3
-localh-2010-10-16-mc930-16b-t09.flac:7e065d1f1c3ce5db5f7019d99bf07e95
-localh-2010-10-16-mc930-16b-t10.flac:2387a72df1d2076307d84188e8855f19
-localh-2010-10-16-mc930-16b-t11.flac:2e7c11980be5f92243b56c3ecdb3f4fb
-localh-2010-10-16-mc930-16b-t12.flac:4bb3f9ac51eca6f2b96b8b567de130c5
-localh-2010-10-16-mc930-16b-t13.flac:7998c8268018daf7e9571ee86eb91e8a
-localh-2010-10-16-mc930-16b-t14.flac:261462a93e5233d78dbb3000a8ab9cdd
-localh-2010-10-16-mc930-16b-t15.flac:819f07d8028634ab663c05a74fdf63eb
-localh-2010-10-16-mc930-16b-t16.flac:6af803b78d28407a7557b59e325a997d
-localh-2010-10-16-mc930-16b-t17.flac:0e59498fc421f3c7330b8a5ae5b84d92
-localh-2010-10-16-mc930-16b-t18.flac:00d5d0d0e79f9c076255a1b8d3b8fecd
-localh-2010-10-16-mc930-16b-t19.flac:b49f22bbd024fe117579af00e7e4aaad
-localh-2010-10-16-mc930-16b-t20.flac:9ba0ae137ba45e0fa7db8ae6da123190
-localh-2010-10-16-mc930-16b-t21.flac:6667da35e88d40b362f7e69291ca2481
-localh-2010-10-16-mc930-16b-t22.flac:d9134aa0c03cbc4c9e46afd2759fea2c
-localh-2010-10-16-mc930-16b-t23.flac:1b14cb22c3fa0b12ee7b431beff5742d
+Local H 
+2010-10-16	
+Cubby Bear North
+Lincolnshire, IL
+
+"Local H's Awesome Mix Tape #1" Release party
+
+Source:     MC930 > MMe > MT II
+
+Transfer:   MT II > USB > Adobe Audition 3.0 > CD Wave > 
+            FLAC Frontend 1.7.1
+
+Generation: WAV(M 24bit 48kHz) > remaster > WAV(16b 44.1kHZ) > 
+            FLAC (level 6) 
+
+SET: 1hr 36min 
+--------------
+01. intro
+02. Skidmarks
+03. Bound For The Floor
+04. Lovey Dovey
+05. Chicago Fanphair '93
+06. Pretender
+07. Michelle (again)
+08. banter
+09. Hands On The Bible
+10. Manor
+11. California SOngs
+12. All The Kids Are Right
+13. All Right! (Oh Yeah)
+14. Cha! Saind The Kitty
+15. Son of Cha!
+16. Fritz's Corner
+17. High Fiven MF
+18. encore break
+19. Bloodstains
+20. Joey
+21. Time
+22. Wolf Like Me
+23. out
+
+Location: FOB, Dead Center, Approx 25-30 ft. back, 8 ft. up
+Recorded, transferred and remastered by J Weiss.
+
+For more info visit localh.com.
+Not for sale, for free trade and gift only.
+Support Local H, go to a show, buy a t-shirt, and bring a friend.
