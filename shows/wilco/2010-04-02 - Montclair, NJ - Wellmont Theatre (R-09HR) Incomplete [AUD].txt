@@ -1,32 +1,59 @@
-Wilco-2010-0402-32-BrokenArrow.flac:fadfaca7e183da3a1f36f1df2eb64e05
-Wilco-2010-0402-01-Intro.flac:5cedf2badad46f4dd74d91ba5af4d578
-Wilco-2010-0402-02-WilcoTheSong.flac:f84f176c77417d589c01277f19394e6d
-Wilco-2010-0402-03-BullBlackNova.flac:4b4ecc9f9189f2ce2591a0d0fb70bf47
-Wilco-2010-0402-04-YouAreMyFace.flac:b78a8780e0c269484a33cdbf261a6c18
-Wilco-2010-0402-05-TryingToBreakYourHeart.flac:c8632b19e51d91fc5c62e4a0dc84fb8b
-Wilco-2010-0402-06-OneWing.flac:0d04c96227b63bdd30c139d1475ba8fd
-Wilco-2010-0402-07-ViaChicago.flac:8aeb7492b78da7c92a3c3ee2f1d94f5a
-Wilco-2010-0402-08-CompanyInMyBack.flac:4be3ceb6619737b76d4d5f4ae361dfe3
-Wilco-2010-0402-09-HandshakeDrugs.flac:30e3c8e7a410774e87e2294bed16fbc4
-Wilco-2010-0402-10-SideWithSeeds.flac:078cec843cae5d5cee313ae11fbf6cfd
-Wilco-2010-0402-11-PotKettleBlack.flac:8e9ffe9cc6ce31025d537ee2cdfe137e
-Wilco-2010-0402-12-NothingsEver.flac:b81f95991c4116fdcde6d81ce99f831a
-Wilco-2010-0402-13-IllFight.flac:4f77645583d60822205c03f108110e4e
-Wilco-2010-0402-14-ImpossibleGermany.flac:2987011b0f37089a3cd8f1877f0eb505
-Wilco-2010-0402-15-CAStars.flac:3344e453f0f8b892f8eeb3ba8822de00
-Wilco-2010-0402-16-PoorPlaces.flac:c516e03b013efee7d9fc6176beee64cc
-Wilco-2010-0402-17-Spiders.flac:fabcf088a8114039062a5e5a22402bfe
-Wilco-2010-0402-18-MoreLikeTheMoon.flac:990ca1cd87759481d56b9aff458e248f
-Wilco-2010-0402-19-JeffTalks.flac:fa47e054807cbba439ef37c81dce7118
-Wilco-2010-0402-20-ForgetTheFlowers.flac:85d56f8be5ffc3bc3aa2c3d70a710c8c
-Wilco-2010-0402-21-SomedaySomeMorningSometime.flac:a0dd785ac62b415c244f31240e5a6443
-Wilco-2010-0402-22-NotForTheSeasons.flac:e0a4229dfa6d190c7b2d2bca8cfdc294
-Wilco-2010-0402-23-WarOnWar.flac:91e62ef64784b4327e6db5cce996b201
-Wilco-2010-0402-24-PassengerSide.flac:f55ca996213a2674b7571e7d8bd97413
-Wilco-2010-0402-25-AirlineToHeaven.flac:8d326144514773e2a6b1616ea6bb2686
-Wilco-2010-0402-26-ShotInTheArms.flac:958ad6d44b2fcb2431270bf8cdbdead8
-Wilco-2010-0402-27-JesusEtc.flac:6495bac16763f033fc3d5eb227dc3554
-Wilco-2010-0402-28-YouNeverknow.flac:c51a4eb5f7897eb9a8ad4ec6e5b959dc
-Wilco-2010-0402-29-HeavyMetalDrummer.flac:aac1dff7af4aadd59d97bfe5ad55459e
-Wilco-2010-0402-30-RedEyedBlue.flac:78eb1ec3d71b09f2e1d2b539a48c749c
-Wilco-2010-0402-31-IGotYou.flac:8dfdc4b0d1bce0872740f4a4eb59e7e6
+WILCO 
+APRIL 2, 2010
+Wellmont Theater, Montclair, NJ
+
+(Incomplete Recording)
+
+Recorded from front of balcony. 
+
+Recorded with Edirol/Roland R-09HR digital recorder and Sony ECM-719 microphone>Wavepad>Flac Frontend>Flac LEvel 8
+
+Disc 1:
+01. (intro)
+02. Wilco (the song)
+03. Bull Black Nova
+04. You Are My Face
+05. I am Trying to Break Your Heart
+06. One Wing
+07. Via Chicago
+08. Company In My Back
+09. Handshake Drugs
+10. Side With The Seeds
+11. Pot Kettle Black
+12. Nothing'severgonnastandinmyway(again)
+13. I'll Fight
+14. Impossible Germany
+15. California Stars
+
+Disc 2:
+01. Poor Places>
+----into acoustic set----
+02. Spiders (Kidsmoke)
+03. More Like The Moon
+04. (Jeff Talks)
+05. Forget The Flowers
+06. Someday, Some Morning, Sometime
+07. Not For the Seasons [Laminated Cat]
+08. War On War
+09. Passenger Side>
+----out of acoustic set----
+10. Airline To Heaven
+11. A Shot in the Arm
+12. Jesus, etc. (crowd singalong)
+13. You Never Know
+14. Heavy Metal Drummer
+15. Red-Eyed and Blue>
+16. I Got You (At The End of the Century)
+17. Broken Arrow (cuts in)
+
+The following songs were not recorded:
+31. Hummingbird
+32. Hate It Here
+33. Theologians
+34. I'm The Man Who Loves You
+35. Monday
+36. Thank You Friends
+
+Set 4:
+37. The Late Greats
+38. I'm A Wheel

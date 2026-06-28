@@ -1,26 +1,53 @@
-wilco 2007-09-01 d1t01.flac:7ebd0b5c53b3726ceb4c81023cc006b6
-wilco 2007-09-01 d1t02.flac:77f14c205953d49215b1dec7248851e5
-wilco 2007-09-01 d1t03.flac:82619f13b539338c764472994ce70a3e
-wilco 2007-09-01 d1t04.flac:8e5c7d0ac18bf2e8ec95b93e54db9dc5
-wilco 2007-09-01 d1t05.flac:f9408e3c972fec0d6eb8e42ed6749ca0
-wilco 2007-09-01 d1t06.flac:ebc8ee49861f889e6a145f773861f51c
-wilco 2007-09-01 d1t07.flac:0df9b28603044822d7cca1789d1d090e
-wilco 2007-09-01 d1t08.flac:8b054614f2176ea3151030132648385a
-wilco 2007-09-01 d1t09.flac:0374c88d9b643103913e146770dadee5
-wilco 2007-09-01 d1t10.flac:88970e7dce3c1ba62e7051596ce19a4c
-wilco 2007-09-01 d1t11.flac:dd6f0558fb8cc1f552390e2c864e15fe
-wilco 2007-09-01 d1t12.flac:0c5e371b214b23929c0caea225d2f3c6
-wilco 2007-09-01 d1t13.flac:b626e1fa283810bd6507272f8bbeacdb
-wilco 2007-09-01 d2t01.flac:57ec85c978e4f1722214612d4faa3d00
-wilco 2007-09-01 d2t02.flac:82365c2632de2bffc8b8d6afea03e02d
-wilco 2007-09-01 d2t03.flac:d401fa99e28dd03b6d99ab9bbd38b35c
-wilco 2007-09-01 d2t04.flac:53cd0860bccb881f37275232af2f4169
-wilco 2007-09-01 d2t05.flac:8f44a6bea2023584d991bc349a4fa9c6
-wilco 2007-09-01 d2t06.flac:825e424d77e421a4dc63070d4e75b5f9
-wilco 2007-09-01 d2t07.flac:a805cc89a1df2f75ac1b5e05bdda58e7
-wilco 2007-09-01 d2t08.flac:9191d45bcac1e619d381e1c8d9c7ca39
-wilco 2007-09-01 d2t09.flac:8c0f21b941e9dafa3e45da10ca7c9d04
-wilco 2007-09-01 d2t10.flac:c75715b75e253d57b76be493204fa262
-wilco 2007-09-01 d2t11.flac:700d7e5fc995f60030067ac1f4e58e64
-wilco 2007-09-01 d2t12.flac:ff0ff05a6aae7f6f5e18010af7ad653b
-wilco 2007-09-01 d2t13.flac:ef8b55d8d6824125bf44c20f38b8c382
+Wilco
+09-01-2007
+The Fillmore Auditorium
+Denver, CO
+
+taped and transfered by jeromejello [@yahoo.com]
+
+Source: AT853a (c) > SD MP-2 > ihp120
+hrtf#, dfc, ots
+Transfer: ihp120 > usb2 > SF 7.0* > cdwav > flac
+
+released into the wild: 09-05-07
+
+one set only
+
+Disc 1
+01. intro				[00:55.00]
+02. You Are My Face			[04:41.00]
+03. I Am Trying to Break Your Heart	[06:21.00]
+04. Pot Kettle Black			[04:56.00]
+05. Handshake Drugs			[06:07.00]
+06. Shot in the Arm			[04:52.00]
+07. Radio Cure				[05:03.00]
+08. War on War				[03:51.00]
+09. Side With the Seeds			[04:58.00]
+10. Shake It Off			[05:55.00]
+11. Too Far Apart 			[04:12.00]
+12. Jesus, etc.				[04:29.00]
+13. Walken				[04:38.00]
+
+Total Disc 1:				[60:58.00]
+
+Disc 2
+01. I'm the Man Who Loves You		[03:57.00]
+02. Hummingbird				[03:40.00]
+03. On And On And On			[04:16.00]
+04. encore 1 (crowd)			[02:05.00]
+05. Impossible Germany			[06:18.00]
+06. How To Fight Loneliness 		[04:46.00]
+07. Spiders (Kidsmoke)			[13:28.00]
+08. encore 2 (crowd)			[02:04.00]
+09. Via Chicago				[05:28.00]
+10. Hate it Here			[04:36.00]
+11. Heavy Metal Drummer			[03:29.00]
+12. I'm Always In Love 			[03:44.00]
+13. Outtasite (Outta Mind)		[03:11.00]
+
+Total Disc 2:				[61:02.00]
+
+
+~ show notes ~
+# - mics mounted in croakies, stealth stylee.
+* - both channels normalized to -0.1dB.

@@ -1,19 +1,32 @@
-wilco1995-07-20t01.flac:2465f92a72e03ec3a3fb9491bea6ad25
-wilco1995-07-20t02.flac:fb123025a7d766ca8b55344f5921b51e
-wilco1995-07-20t03.flac:2701e72e6fe7b992c3f826967134d597
-wilco1995-07-20t04.flac:634bc70677edbca68cc11548b99be7c5
-wilco1995-07-20t05.flac:41ae35e4637c3f7cc7121045c24459d8
-wilco1995-07-20t06.flac:45804f735c2d4e6a66c80fe30d0b21c0
-wilco1995-07-20t07.flac:2243811acb947401604d0e8cd1f466f6
-wilco1995-07-20t08.flac:c480222dc910f141eea366142748a40f
-wilco1995-07-20t09.flac:5f17a331c4279041f4be492920931f7f
-wilco1995-07-20t10.flac:46dba713e8c9f7781381151301c98b71
-wilco1995-07-20t11.flac:a6c49c94b435cb8c490dd02ded7775df
-wilco1995-07-20t12.flac:5826e342aaeec314b815680db58deb86
-wilco1995-07-20t13.flac:af6798dd7e30c19d3840ff1f96f630f6
-wilco1995-07-20t14.flac:b2647cfd659ed9709cda1e635524c1cf
-wilco1995-07-20t15.flac:71e2203d7bfa80bca2033d9eeedb6274
-wilco1995-07-20t16.flac:3522aa2941e50ea612cbe1ba350efc6d
-wilco1995-07-20t17.flac:e619abeb4dd3531ebc953043487dd15a
-wilco1995-07-20t18.flac:46e70dad040b1aac81d21875c51fbd7a
-wilco1995-07-20t19.flac:d1b3aa24adb3174947a75334bf1652a4
+Wilco
+7/20/1995
+Dancing in the District, Nashville, TN
+
+Source = SBD
+Lineage unknown
+Extracted and converted using EAC and FLAC Frontend
+
+There are a couple of minor problems - the end of track 12 is cut and it's a choppy transition between tracks 12 and 13, but the show seems pretty rare so I thought I'd put it out there.  Enjoy!
+
+Soundcheck:
+01 I Got You (at the end of the century)
+02 Say You Miss Me
+03 Ian Drury
+04 Watch Me Fall
+
+Show:
+05 We've Been Had
+06 I Must Be High
+07 Box Full Of Letters
+08 Shouldn't Be Ashamed
+09 It's Just That Simple
+10 Pick Up The Change
+11 New Madrid
+12 That's Not The Issue
+13 Should've Been In Love
+14 I Got You (at the end of the century)
+15 The Long Cut
+16 Passenger Side
+17 Casino Queen
+18 Outtasite (outta mind)
+19 Listen To Her Heart

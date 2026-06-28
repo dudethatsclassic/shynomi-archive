@@ -1,19 +1,27 @@
-wilco1996-11-05t01.flac:bea788f239757a487bc47f4dc7381265
-wilco1996-11-05t02.flac:b67d30a28d5dc3825d0bbfa92e63f6d3
-wilco1996-11-05t03.flac:6769a41630709f3e7a7a39f9bf54435f
-wilco1996-11-05t04.flac:552772b571542b556de09bed01254589
-wilco1996-11-05t05.flac:1a6168a2fed908195083fa6d3a355a4b
-wilco1996-11-05t06.flac:a692a828e0a8a14c9b420585cd30e8d4
-wilco1996-11-05t07.flac:c7c5ee2a5c5dd8671c349a303018dc31
-wilco1996-11-05t08.flac:7f01839e7e002deee6bf62bc09c1f72c
-wilco1996-11-05t09.flac:b6cc67174c97f20c57f6df488bc21d60
-wilco1996-11-05t10.flac:6914905d652e8c2c64927ba8cde1289d
-wilco1996-11-05t11.flac:9f4eae0156c67b1976656e6da7ca16cb
-wilco1996-11-05t12.flac:83eceee8679fcc7bb2d9f9755ada05b3
-wilco1996-11-05t13.flac:2c18f3445171219259bdbd13adff42c5
-wilco1996-11-05t14.flac:75ef229be91a78d042fc411333357078
-wilco1996-11-05t15.flac:385a35a3f0f40024a94dd7a034616321
-wilco1996-11-05t16.flac:331fd9e2529ef7eb8b4610540fd70b84
-wilco1996-11-05t17.flac:2fd9da1bb4bc341736ed3d5bf8f9cf17
-wilco1996-11-05t18.flac:bc59019eb0e76e2d740bd14b10e95a16
-wilco1996-11-05t19.flac:1cbcae944d8480f05d024363d103c129
+wilco 1996-11-05 liberty lunch austin,tx
+
+sbd>d7>extigy>sforge>flac8
+
+
+1. Sunken Treasure
+2. The Long Cut
+3. Someday Soon
+4. Forget The Flowers
+5. New Madrid
+6. What's The World Got In Store
+7. Red-Eyed And Blue
+8. I Got You (At The End Of The Century)
+9. Someone Else's Song
+10. I Must Be High
+11. Passenger Side
+12. Hotel Arizona
+13. Monday
+14. Kingpin
+15. We've Been Had
+16. Outtasite (Outta Mind)
+
+17. Gun
+18. The Lonely 1
+19. Casino Queen
+
+Date taken from wilcobase, files were labelled as " wilco 110696 liberty lunch austin,tx sbd", folder labelled as "wilco1996-11-04 sbd liberty lunch austin,tx".  Files re-named, re-flacced and tagged.

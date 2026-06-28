@@ -1,25 +1,48 @@
-wilco_111112_tr01.flac:4c5ec82e600aa13e08498d9249381daa
-wilco_111112_tr02.flac:19088528f0ec8293ce6d853df95e567e
-wilco_111112_tr03.flac:aabe8a90fc7ce2ad1bea5b6d08233181
-wilco_111112_tr04.flac:934295bf8bd404429a2459dbaa0e35d5
-wilco_111112_tr05.flac:da964280bac4c059ee8ab89be764b5ae
-wilco_111112_tr06.flac:28f7de9a3f1ef638735d0334d76d583c
-wilco_111112_tr07.flac:b4862c6dc223889758ffe3ad3983766c
-wilco_111112_tr08.flac:b9c7d239f1f6e39647113e397959dfe7
-wilco_111112_tr09.flac:fd14c8f9a1e79b57012112cfc48a66ff
-wilco_111112_tr10.flac:d3e195a6d692899f3a373baec574953e
-wilco_111112_tr11.flac:fc910127f51983721145059f8548030f
-wilco_111112_tr12.flac:8cde8db5bf9c3b44aecdc45b8e8b3643
-wilco_111112_tr13.flac:219308e2a45591de715d7eff925c69a0
-wilco_111112_tr14.flac:f7e87e4d733e626cbd3f875e75418657
-wilco_111112_tr15.flac:8d3f31a9372c1f2a237bb04574283fb7
-wilco_111112_tr16.flac:18c2afe2a90ae80bde1e4e2b2fdbff28
-wilco_111112_tr17.flac:f4e4cdb2c96e28c40d1a79996bc3c5cc
-wilco_111112_tr18.flac:410bce5222f9ee97ba70b5d032f0f8df
-wilco_111112_tr19.flac:0d8c0a55ff1e0000fbd4e25bce8eecfb
-wilco_111112_tr20.flac:8aa5819c92b7165cf6f13e9b35f37249
-wilco_111112_tr21.flac:67e31ea5f126c2b31139020bc4c447dd
-wilco_111112_tr22.flac:5810718fbb3404022365221682703e9f
-wilco_111112_tr23.flac:7a8d37b01c776e0871de7f62fc03d0b9
-wilco_111112_tr24.flac:c1058a339039ecee3cf6931576ec1106
-wilco_111112_tr25.flac:7f2d42e3a0b4217079eca2f1074d0345
+
+WILCO
+Tempodrom, Berlin, GER   12. Nov. 2011
+
+Disc 1:
+01.  
+02.  
+03.  
+04.  
+05.  
+06.  
+07.  
+08.  
+09.  
+10.  
+11.  
+
+Disc 2:
+12.  
+13.  
+14.  
+15.  
+16.  
+17.  
+18.  
+encore:
+19.  
+20.  
+21.  
+22.  
+23.  
+24.  
+25.  
+
+approx. 127 mins
+seamless recording, disc change is only a suggestion
+
+Recording Info:
+recorded by Vortex242
+OKM IIr (hat mounted) > A3 > EDIROL R-09HR (48/24) >
+USB > WAV > Adobe Audition 3 (EQing, 44.1/16) > CDwave 
+(tracking) > FLAC frontend (level 6, verify, with align 
+on sector boundaries) > Tracker
+
+Feel free to spread this on other trackers
+but don't forget to support the artist by buying the 
+official releases and going to their shows!
+I'd like to get feedback from you, so please comment!!

@@ -1,28 +1,44 @@
-wilco2012-07-03t01.16bit.flac:e0e02c1e5db4c5726ecc2b4375bb2bcb
-wilco2012-07-03t02.16bit.flac:85b333dae2ac804e33034f1c5444a4de
-wilco2012-07-03t03.16bit.flac:f146d6d997d8dfdc9b42c7fec29f6d50
-wilco2012-07-03t04.16bit.flac:2288b776872bdbf29c567605206852d4
-wilco2012-07-03t05.16bit.flac:a0367301c315628e7b7834ce32b55a11
-wilco2012-07-03t06.16bit.flac:37a80e4d0183610740a91eb21d6cd88e
-wilco2012-07-03t07.16bit.flac:83082667960a8be30765ccbb8191ff41
-wilco2012-07-03t08.16bit.flac:be57ae50831573fdfa62fee50bbafd20
-wilco2012-07-03t09.16bit.flac:a123337a9a6b5b8d27bc5125f684658f
-wilco2012-07-03t10.16bit.flac:93b9e489615f9cf6a821d16d599ccc6a
-wilco2012-07-03t11.16bit.flac:694aaf4669f78aef60930d33c74de60a
-wilco2012-07-03t12.16bit.flac:098f30229921ead158251da019081a43
-wilco2012-07-03t13.16bit.flac:990c27f8ec588af73d7d793bc463cffa
-wilco2012-07-03t14.16bit.flac:d272e864adb9e98f4d52dde1a399f343
-wilco2012-07-03t15.16bit.flac:1b3956d1b28ee2127ae65ad86dc2ddf6
-wilco2012-07-03t16.16bit.flac:e7799570658e566fdabb11cb7fc663b1
-wilco2012-07-03t17.16bit.flac:a74047cc02dbb9dad9cd3bb9791e4d8e
-wilco2012-07-03t18.16bit.flac:dfd989e2e83ae7d1f3da05275edfd687
-wilco2012-07-03t19.16bit.flac:0600d9df1ec6139316535f149ae941fc
-wilco2012-07-03t20.16bit.flac:3fa6d0f441abfa5600db13a920293eea
-wilco2012-07-03t21.16bit.flac:33a0f0a2792299ecf864b5a423cb77b9
-wilco2012-07-03t22.16bit.flac:c35fe3d2ae0987246567c66903641cd7
-wilco2012-07-03t23.16bit.flac:9ee8e0bc9502986d14f9e69e0bdafb4d
-wilco2012-07-03t24.16bit.flac:5827daeae4bc1d1ce750c87cccd5af9a
+Wilco
+07-03-2012
+Adler Theater
+Davenport, IA
 
-Checksum file saved to disk.
+Source:  Neumann AK40(ORTF)>LC3KA>KM100>Lunatech ACM V3>Edirol R-44(24/48)
+Location:  FOB, SLOC, Section B, Row H, Seat 2, 40' from stage, 8' high
+Info:  SDHC>PC>Wave Lab 6.0 (fades, levels, conversion - UVHR22)>CD Wave 1.98 (tracks)>TLH (level 8)
+Recorded by:  Rob O'Brien
 
-No errors occured.
+
+01. One Sunday Morning
+02. Art Of Almost
+03. I Might
+04. I Am Trying To Break Your Heart
+05. One Wing
+06. Rising Red Lung
+07. Ashes Of American Flags
+08. Born Alone
+09. Laminated Cat (aka Not For The Season)
+10. Country Disappeared
+11. Handshake Drugs
+12. Whole Love
+13. Hate It Here
+14. Box Full Of Letters
+15. I'm Always In Love
+16. Heavy Metal Drummer
+17. I'm The Man Who Loves You
+18. Dawned On Me
+19. A Shot in the Arm
+
+Encore:
+20. Impossible Germany
+21. California Stars
+22. Walken
+23. Can't Stand It
+
+Encore 2:
+24. Dreamer In My Dreams
+
+Notes: 
+- Kelly Hogan and her band opened the show
+- Flacs tagged in Mp3tagger
+- Disc split after t13

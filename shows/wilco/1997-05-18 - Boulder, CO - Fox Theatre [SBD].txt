@@ -1,25 +1,38 @@
-wilco1997-05-18d1t01.flac:df29738300cc772837353dbc8c620dc3
-wilco1997-05-18d1t02.flac:573672d9c25d36a5ec7eb0d0c91f7670
-wilco1997-05-18d1t03.flac:a5f378b6a5d4e86d8feb5d11be8d800c
-wilco1997-05-18d1t04.flac:349073b1d4b70b6fdcf0d26fe982669a
-wilco1997-05-18d1t05.flac:68f7555d8f78afe0852db330dcffc6ed
-wilco1997-05-18d1t06.flac:2756cb9d59aa8edf4891bc912545fad9
-wilco1997-05-18d1t07.flac:3b3d0251db49c978567ae4392bdc01b7
-wilco1997-05-18d1t08.flac:1b842583aef31636e40183e2e39fbfde
-wilco1997-05-18d1t09.flac:79676ed983047bb888babe25802dab23
-wilco1997-05-18d1t10.flac:59dc7ab3c21649036058950d600b4b21
-wilco1997-05-18d1t11.flac:7dedcf81fc0309b0ef7aa7e42c83bf0c
-wilco1997-05-18d1t12.flac:72d819955433b972188d23d4f25315de
-wilco1997-05-18d1t13.flac:496bf6408357e16b6279ff19c83b787f
-wilco1997-05-18d1t14.flac:c69bc020b755819e89c051782ac1ae0c
-wilco1997-05-18d1t15.flac:932b0e18e2f826e48f275c35b0f0dca0
-wilco1997-05-18d1t16.flac:e97ab5ff67c2725ec02ad18d139cf5cd
-wilco1997-05-18d1t17.flac:40443b6b8c341337561df4740c04ffb0
-wilco1997-05-18d2t01.flac:1695687c39c1fc5a87090c6abfdfdfff
-wilco1997-05-18d2t02.flac:95460f9eac88d8052f79a5d19322cad7
-wilco1997-05-18d2t03.flac:047fd3455b3d7cd34b828c2302172bf0
-wilco1997-05-18d2t04.flac:b08c73285ad924094c72c137c74bf59d
-wilco1997-05-18d2t05.flac:6f0b966b20774c1114c1767243cac8f4
-wilco1997-05-18d2t06.flac:776709741d7ff51c3a83edc7ef0945e9
-wilco1997-05-18d2t07.flac:67f4ee46b9d5de29f768703c3fa7e168
-wilco1997-05-18d2t08.flac:96667a78ab62a6913e7ee8997079d89a
+Wilco
+5/18/1997
+Fox Theatre
+Boulder, CO
+
+Source: SBD
+Transfer: CDR>EAC>WAV>FLAC
+
+d1t01 crowd
+d1t02 Misunderstood
+d1t03 Red-Eyed And Blue
+d1t04 I Got You (at the end of the century)/Someone Else's Song
+d1t05 Forget The Flowers
+d1t06 That's Not The Issue
+d1t07 Someday Soon
+d1t08 New Madrid
+d1t09 What's The World Got In Store
+d1t10 Why Would You Wanna Live
+d1t11 I Must Be High
+d1t12 Passenger Side
+d1t13 Passenger Side {calypso version}
+d1t14 Hotel Arizona
+d1t15 Monday
+d1t16 Kingpin
+d1t17 Outta Mind (outtasite)
+
+d2t01 crowd
+d2t02 The Long Cut
+d2t03 Dreamer In My Dreams
+d2t04 Reincarnation
+d2t05 Casino Queen
+d2t06 I Wanna Be Sedated
+d2t07 Ziggy Stardust*
+d2t08 Immigrant Song*
+
+*JP on vocals
+
+There is some weird music after outtasite... I don't know what this is.

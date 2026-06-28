@@ -415,7 +415,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "SBD",
-      "textFile": "1995-07-30 - Charleston, WV - Mountain Stage [SBD].txt"
+      "textFile": "1995-07-30 - Charleston, WV - Mountain Stage - In Your Ear OR Wilco Roger and Out [FM].txt"
     },
     {
       "year": 1995,
@@ -582,7 +582,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "2 sources",
-      "textFile": "1995-10-07 - Columbia, MO - The Courtyard [SBD].txt"
+      "textFile": "1995-10-07 - Columbia, MO - THe Courtyard [SBD Replacement].txt"
     },
     {
       "year": 1995,
@@ -972,7 +972,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FM",
-      "textFile": "1997-02-14 - Philadelphia, PA - Trocadero [FM].txt"
+      "textFile": "1997-02-14 - Philadelphia, PA - Trocadero [AUD].txt"
     },
     {
       "year": 1997,
@@ -986,7 +986,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "4 sources",
-      "textFile": "1997-02-15 - New York, NY - Irving Plaza [SBD].txt"
+      "textFile": "1997-02-15 - New York, NY - Irving Plaza (Schoeps) [AUD].txt"
     },
     {
       "year": 1997,
@@ -1238,7 +1238,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "MTX",
       "format": "2 sources",
-      "textFile": "1997-05-23 - Chicago, IL - Riviera Theater [SBD].txt"
+      "textFile": "1997-05-23 - Chicago, IL - Riviera Theater [MTX].txt"
     },
     {
       "year": 1997,
@@ -1447,7 +1447,7 @@ const ARTIST_DATA = {
       "notes": "Fleadh",
       "version": "SBD",
       "format": "2 sources",
-      "textFile": "1998-06-28 - San Jose, CA - Spartan Stadium - San Jose Fleadh [AUD].txt"
+      "textFile": "1998-06-28 - San Jose, CA - Spartan Stadium - Fleadh Festival [MTX].txt"
     },
     {
       "year": 1998,
@@ -1544,7 +1544,7 @@ const ARTIST_DATA = {
       "notes": "Newport",
       "version": "SBD",
       "format": "4 sources",
-      "textFile": "1998-09-20 - Los Angeles, CA - Greek Theatre [AUD].txt"
+      "textFile": "1998-09-20 - Los Angeles, CA - Greek Theatre - Newport Folk Festival [MTX2].txt"
     },
     {
       "year": 1998,
@@ -2016,7 +2016,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "TV",
       "format": "",
-      "textFile": "1999-07-09 - Lorely, Germany - Rocplast Airbase [TV].txt"
+      "textFile": "1999-07-09 - Loreley, Germany - Rockpalast [FM].txt"
     },
     {
       "year": 1999,
@@ -3465,7 +3465,7 @@ const ARTIST_DATA = {
       "notes": "Sony ECM12s \u00b7 luke",
       "version": "AUD",
       "format": "",
-      "textFile": "2002-09-10 - CRW Webcast [DVD].txt"
+      "textFile": "2002-09-10 - Los Angeles, CA - John Anson Ford Theater (Sony ECM12s) (luke) [AUD].txt"
     },
     {
       "year": 2002,
@@ -3493,7 +3493,7 @@ const ARTIST_DATA = {
       "notes": "Morning",
       "version": "Webcast",
       "format": "",
-      "textFile": "2002-09-10 - Los Angeles, CA - John Anson Ford Theater (Sony ECM12s) (luke) [AUD].txt"
+      "textFile": "2002-09-10 - CRW Webcast [DVD].txt"
     },
     {
       "year": 2002,
@@ -6812,7 +6812,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2008-02-15 - Chicago, IL - Riviera Theater (Schoeps) [AUD].txt"
+      "textFile": "2008-02-15 - Chicago, IL - Riviera Theater (AT-899) [AUD].txt"
     },
     {
       "year": 2008,
@@ -6826,7 +6826,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "MTX",
       "format": "3 sources",
-      "textFile": "2008-02-16 - Chicago, IL - Riviera Theater (Schoeps) [AUD].txt"
+      "textFile": "2008-02-16  - Chicago, IL - Riviera Theater (thir13en) [MTX].txt"
     },
     {
       "year": 2008,
@@ -6840,7 +6840,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "3 sources",
-      "textFile": "2008-02-18 - Chicago, IL - Riviera Theater (Schoeps) [AUD].txt"
+      "textFile": "2008-02-18 - Chicago, IL - Riviera Theater (Neumann AK40s) [AUD].txt"
     },
     {
       "year": 2008,
@@ -6854,7 +6854,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "3 sources",
-      "textFile": "2008-02-19 - Chicago, IL - Riviera Theater (Mono) [FM].txt"
+      "textFile": "2008-02-19  -Chicago, IL - Riviera Theater (Stereo) [FM].txt"
     },
     {
       "year": 2008,
@@ -6868,7 +6868,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2008-02-20 - Chicago, IL - Riviera Theater [WEBCAST].txt"
+      "textFile": "2008-02-20 - Chicago, IL - Riviera Theater (AK40s) [AUD].txt"
     },
     {
       "year": 2008,
@@ -6937,7 +6937,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2008-02-26 - Washington, D.C. - 930 Club [AUD].txt"
+      "textFile": "2008-02-26 - Washington, D.C. - 930 Club (MBHO) [AUD].txt"
     },
     {
       "year": 2008,
@@ -6951,7 +6951,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "3 sources",
-      "textFile": "2008-02-27 - Washington, D.C. - 930 Club (MK4) [AUD].txt"
+      "textFile": "2008-02-27 - Washington, D.C. - 930 Club (4011s) [AUD] .txt"
     },
     {
       "year": 2008,
@@ -7007,7 +7007,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "3 sources",
-      "textFile": "2008-03-05 - New Orleans, LA - Tipitina's [AUD].txt"
+      "textFile": "2008-03-05 - New Orleans, LA - Tipitina's (AKG463) [AUD].txt"
     },
     {
       "year": 2008,
@@ -7160,7 +7160,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2008-05-08 - Colorado Springs, CO - Pikes Peak Center (Neumann) [AUD].rtf"
+      "textFile": "2008-05-08 - Colorado Springs, CO - Pikes Peak Center (KM184) [AUD].txt"
     },
     {
       "year": 2008,
@@ -7188,7 +7188,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2008-05-12 - Austin, TX - Stubb's (MC930) [AUD].txt"
+      "textFile": "2008-05-12 - Austin, TX - Stubb's (MBHO) [AUD].txt"
     },
     {
       "year": 2008,
@@ -7216,7 +7216,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "MTX",
       "format": "2 sources",
-      "textFile": "2008-05-15 - St. Louis, MO - The Pageant [SBD-LOSSY].txt"
+      "textFile": "2008-05-15 - St. Louis, MO - The Pageant [MTX].txt"
     },
     {
       "year": 2008,
@@ -7230,7 +7230,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "MTX",
       "format": "2 sources",
-      "textFile": "2008-05-16 - St. Louis, MO - The Pageant [SBD-LOSSY].txt"
+      "textFile": "2008-05-16 - St. Louis, MO - The Pageant [MTX].txt"
     },
     {
       "year": 2008,
@@ -7244,7 +7244,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "MTX",
       "format": "2 sources",
-      "textFile": "2008-05-17 - St. Louis, MO - The Pageant [SBD-LOSSY].txt"
+      "textFile": "2008-05-17 - St. Louis, MO - The Pageant [AUD].txt"
     },
     {
       "year": 2008,
@@ -7258,7 +7258,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2008-07-25 - Fairbanks, AK - Blue Loon (SP-CMC-4U) [AUD].txt"
+      "textFile": "2008-07-25 - Fairbanks, AK - Blue Loon (DSM-6P) [AUD].txt"
     },
     {
       "year": 2008,
@@ -7383,7 +7383,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "4 sources",
-      "textFile": "2008-08-08 - Cary, NC - Koka Booth Amphitheatre (Zoom H2) [AUD].txt"
+      "textFile": "2008-08-08 - Cary, NC - Koka Booth Amphitheatre (4022) [AUD].txt"
     },
     {
       "year": 2008,
@@ -7551,7 +7551,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "MTX",
       "format": "3 sources",
-      "textFile": "2008-12-06 - Rochester, NY - Auditorium Theatre [MTX].rtf"
+      "textFile": "2008-12-06 - Rochester, NY - Auditorium Theater [AUD].txt"
     },
     {
       "year": 2008,
@@ -7775,7 +7775,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "3 sources",
-      "textFile": "2009-04-18 - Knoxville, TN - Tennessee Theater (MK41) [AUD].txt"
+      "textFile": "2009-04-18 - Knoxville, TN - Tennessee Theater (AK40) [AUD].txt"
     },
     {
       "year": 2009,
@@ -7803,7 +7803,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "3 sources",
-      "textFile": "2009-04-21 - Asheville, NC - Thomas Wolfe Auditorium (MK4) [AUD].txt"
+      "textFile": "2009-04-21 - Asheville, NC - Thomas Wolfe Auditorium (4023) [AUD].txt"
     },
     {
       "year": 2009,
@@ -7817,7 +7817,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "3 sources",
-      "textFile": "2009-04-22 - Birmingham, AL - Sloss Furnace [DPA 4023) [AUD].txt"
+      "textFile": "2009-04-22 - Birmingham, AL - Sloss Furnace (MK21) [AUD].txt"
     },
     {
       "year": 2009,
@@ -7886,7 +7886,7 @@ const ARTIST_DATA = {
       "notes": "What",
       "version": "AUD",
       "format": "4 sources",
-      "textFile": "2009-06-13 - Manchester, TN - Bonnaroo - What Stage (TLM-170) [AUD].txt"
+      "textFile": "2009-06-13 - Manchester, TN - Bonnaroo - What Stage (CA-11s) [AUD].txt"
     },
     {
       "year": 2009,
@@ -7900,7 +7900,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2009-06-18 - Tuscon, AZ - University of Arizona - Centennial Hall (CA-11) [AUD].txt"
+      "textFile": "2009-06-18 - Tuscon, AZ - University of Arizona - Centennial Hall (AKG) [AUD].txt"
     },
     {
       "year": 2009,
@@ -7914,7 +7914,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2009-06-19 - Las Vegas, NV - The Joint @ The Hard Rock (MCO12) [AUD].txt"
+      "textFile": "2009-06-19 - Las Vegas, NV - The Joint @ The Hard Rock (CK63) [AUD].txt"
     },
     {
       "year": 2009,
@@ -7970,7 +7970,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2009-06-27 - Berkeley, CA - Greek Theatre (KM140) [AUD].txt"
+      "textFile": "2009-06-27 - Berkeley, CA - Greek Theatre (BSC1) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8066,7 +8066,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "3 sources",
-      "textFile": "2009-07-11 - Lowell, MA - LeLacheur Park (Schoeps) [AUD].txt"
+      "textFile": "2009-07-11 - Lowell, MA - LeLacheur Park (CSB) Incomplete [AUD].txt"
     },
     {
       "year": 2009,
@@ -8080,7 +8080,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2009-07-13 - Brooklyn, NY - Keyspan Park (Schoeps) [AUD].txt"
+      "textFile": "2009-07-13 - Brooklyn, NY - Keyspan Park (DPA 4021) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8108,7 +8108,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2009-07-18 - Wappinger Falls, NY - Duchess Stadium - Incomplete [AUD].txt"
+      "textFile": "2009-07-18 - Wappinger Falls, NY - Duchess Stadium (Edirol) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8149,7 +8149,7 @@ const ARTIST_DATA = {
       "notes": "Main",
       "version": "AUD",
       "format": "5 sources",
-      "textFile": "2009-07-23 - Detroit Lakes, MI - Soo Pass Ranch - Main Stage (U89A) [AUD].txt"
+      "textFile": "2009-07-23 - Detroit Lakes, MI - Soo Pass Ranch - Main Stage (614s) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8260,7 +8260,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "4 sources",
-      "textFile": "2009-10-06 - Kansas City, MO - Crossroads @ Grinders (STC-11) [AUD].txt"
+      "textFile": "2009-10-06 - Kansas City, MO - Crossroads @ Grinders (AKG480) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8274,7 +8274,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "3 sources",
-      "textFile": "2009-10-09 - Dallas, TX - The Palladium Ballroom [SBD].txt"
+      "textFile": "2009-10-09 - Dallas, TX - The Palladium Ballroom (AKG 391s) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8344,7 +8344,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "3 sources",
-      "textFile": "2009-10-18 - Chicago, IL - U.I.C. Pavilion (R09) [AUD].txt"
+      "textFile": "2009-10-18 - Chicago, IL - U.I.C. Pavilion (AT-899) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8358,7 +8358,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2009-10-19 - Chicago, IL - U.I.C. Pavilion (R09) [AUD].txt"
+      "textFile": "2009-10-19 - Chicago, IL - U.I.C. Pavilion (AT-899) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8428,7 +8428,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2009-11-08 - Copenhagen, Denmark - Royal Theatre (R09) [AUD].txt"
+      "textFile": "2009-11-08 - Copenhagen, Denmark - Royal Theatre (ECM 155) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8442,7 +8442,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2009-11-11 - Zurich, Switzerland - Volkshaus (MBHO) [AUD].txt"
+      "textFile": "2009-11-11 - Zurich, Switzerland - Volkshaus (KM140s) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8470,7 +8470,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2009-11-14 - Milan, Italy - Conservatorio (Olympus) [AUD].txt"
+      "textFile": "2009-11-14 - Milan, Italy - Conservatorio (DR1) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8484,7 +8484,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "2 sources",
-      "textFile": "2009-11-16 - Amsterdam, The Netherlands - Paradiso [FM].txt"
+      "textFile": "2009-11-16 - Amsterdam, The Netherlands - Paradiso [AUD].txt"
     },
     {
       "year": 2010,
@@ -8539,7 +8539,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2010-02-20 - Madison, WI - Overture Center (AT853) [AUD].txt"
+      "textFile": "2010-02-20 - Madison, WI - Overture Center (AT831) [AUD].txt"
     },
     {
       "year": 2010,
@@ -8553,7 +8553,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "MTX",
       "format": "3 sources",
-      "textFile": "2010-03-03 - Halifax, Nova Scotia - Halifax Forum [MTX].txt"
+      "textFile": "2010-03-03 - Halifax, Nova Scotia - Halifax Forum (CSB) ColinW [AUD].txt"
     },
     {
       "year": 2010,
@@ -8581,7 +8581,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2010-03-23 - Clearwater, FL - Ruth Eckerd Hall (MK41) [AUD].txt"
+      "textFile": "2010-03-23 - Clearwater, FL - Ruth Eckerd Hall (CA-9100) [AUD].txt"
     },
     {
       "year": 2010,
@@ -8595,7 +8595,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "3 sources",
-      "textFile": "2010-03-27 - Durham, NC - Durham Performing Arts Center (MK4) [AUD].txt"
+      "textFile": "2010-03-27 - Durham, NC - Durham Performing Arts Center (CK21) [AUD].txt"
     },
     {
       "year": 2010,
@@ -8609,7 +8609,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "3 sources",
-      "textFile": "2010-03-29 - Richmond, VA - The National (MK41) [AUD].txt"
+      "textFile": "2010-03-29 - Richmond, VA - The National (4022) [AUD].txt"
     },
     {
       "year": 2010,
@@ -8691,7 +8691,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2010-04-04 - Providence, RI - Lupo's Heartbreak Hotel (Dave Copp) [AUD].txt"
+      "textFile": "2010-04-04 - Providence, RI - Lupo's Heartbreak Hotel (CMC64) [AUD].txt"
     },
     {
       "year": 2010,
@@ -8747,7 +8747,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2010-04-09 - Hartford, CT - Bushnell Memorial Hall - Mortenson Hall (Sony ECM) [AUD].txt"
+      "textFile": "2010-04-09 - Hartford, CT - Bushnell Memorial Hall - Mortenson Hall (CCM4) [AUD].txt"
     },
     {
       "year": 2010,
@@ -8789,7 +8789,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2010-04-22 - Osaka, Japan - Big Cat (MXL 2003) [AUD].txt"
+      "textFile": "2010-04-22 - Osaka, Japan - Big Cat (MGR-A7) [AUD].txt"
     },
     {
       "year": 2010,
@@ -8803,7 +8803,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "4 sources",
-      "textFile": "2010-04-23 - Tokyo, Japan - Zepp Tokyo [AUD].txt"
+      "textFile": "2010-04-23 - Tokyo, Japan - Zepp Tokyo (AT9900) [AUD].txt"
     },
     {
       "year": 2010,
@@ -8845,7 +8845,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2010-05-02 - Sydney, Australia - Factory Theatre (MC102) [AUD].txt"
+      "textFile": "2010-05-02 - Sydney, Australia - Factory Theatre (DR1) [AUD].txt"
     },
     {
       "year": 2010,
@@ -9055,7 +9055,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "MTX",
       "format": "2 sources",
-      "textFile": "2010-09-23 - Vienna, Austria - Gasometer [MTX].txt"
+      "textFile": "2010-09-23 - Vienna, Austria - Gasometer (C1000s) [AUD].txt"
     },
     {
       "year": 2010,
@@ -9097,7 +9097,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2010-09-27 - Berlin, Germany - Admiralspalast Theater (OKM) [AUD].txt"
+      "textFile": "2010-09-27 - Berlin, Germany - Admiralspalast Theater (OKM v2) [AUD].txt"
     },
     {
       "year": 2011,
@@ -9111,7 +9111,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2011-05-02 - Montgomery, AL - Montgomery Performing Arts Centre (MK41) [AUD].txt"
+      "textFile": "2011-05-02 - Montgomery, AL - Montgomery Performing Arts Centre (DPA 4023) [AUD].txt"
     },
     {
       "year": 2011,
@@ -9139,7 +9139,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2011-05-05 - New Orleans, LA - New Orleans Jazz and Heritage Festival (PA6) [AUD].txt"
+      "textFile": "2011-05-05 - New Orleans, LA - New Orleans Jazz and Heritage Festival (MK41) [AUD].txt"
     },
     {
       "year": 2011,
@@ -9153,7 +9153,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "3 sources",
-      "textFile": "2011-05-06 - Houston, TX - Verizon Wireless Theatre (ME 51S) [AUD].txt"
+      "textFile": "2011-05-06 - Houston, TX - Verizon Wireless Theatre (AT933) [AUD].txt"
     },
     {
       "year": 2011,
@@ -9167,7 +9167,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2011-05-07 - Denton, TX - University of North Texas Auditorium (VM-44) [AUD].txt"
+      "textFile": "2011-05-07 - Denton, TX - University of North Texas Auditorium (DPA 4061) [AUD].txt"
     },
     {
       "year": 2011,
@@ -9209,7 +9209,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "3 sources",
-      "textFile": "2011-06-25 - North Adams, MA - Mass MoCA (Q3HD) [AUD].txt"
+      "textFile": "2011-06-25 - North Adams, MA - Mass MoCA (CA-14) [AUD].txt"
     },
     {
       "year": 2011,
@@ -9223,7 +9223,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2011-07-31 - Naeba, Nigata, Japan - Naeba Ski Resort (MKE) [AUD].txt"
+      "textFile": "2011-07-31 - Naeba, Nigata, Japan - Naeba Ski Resort (COS) [AUD].txt"
     },
     {
       "year": 2011,
@@ -9293,7 +9293,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "4 sources",
-      "textFile": "2011-09-28 - Atlanta, GA - Cobb Energy Performing Arts Centre (MK41) [AUD].txt"
+      "textFile": "2011-09-28 - Atlanta, GA - Cobb Energy Performing Arts Centre (AKG483) [AUD].txt"
     },
     {
       "year": 2011,
@@ -9307,7 +9307,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2011-09-29 - Atlanta, GA - Cobb Energy Performing Arts Centre (MK41) [AUD].txt"
+      "textFile": "2011-09-29 - Atlanta, GA - Cobb Energy Performing Arts Centre (DPA 4023) [AUD].txt"
     },
     {
       "year": 2011,
@@ -9335,7 +9335,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2011-10-02 - Nashville, TN - Ryman Auditorium (R-09) [AUD].txt"
+      "textFile": "2011-10-02 - Nashville, TN - Ryman Auditorium (CMC-25) [AUD].txt"
     },
     {
       "year": 2011,
@@ -9363,7 +9363,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2011-10-24 - Glasgow, Scotland - Glasgow Royal Concert Hall (Zoom H2) [AUD].txt"
+      "textFile": "2011-10-24 - Glasgow, Scotland - Glasgow Royal Concert Hall (SP-CMC 8s) [AUD].txt"
     },
     {
       "year": 2011,
@@ -9432,7 +9432,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "4 sources",
-      "textFile": "2011-11-09 - Munich, Germany - Circus Krone [FM].txt"
+      "textFile": "2011-11-09 - Munich, Germany - Circus Krone (MBHO) [AUD].txt"
     },
     {
       "year": 2011,
@@ -9488,7 +9488,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "2 sources",
-      "textFile": "2011-11-14 - Tilburg, The Netherlands - 013 [FM].txt"
+      "textFile": "2011-11-14 - Tilburg, The Netherlands - 013 (R-09) [AUD].txt"
     },
     {
       "year": 2011,
@@ -9852,7 +9852,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2012-01-29 - San Francisco, CA - Warfield Theater (Schoeps) [AUD].rtf"
+      "textFile": "2012-01-29 - San Francisco, CA - Warfield Theater (MK4Vs) [AUD].txt"
     },
     {
       "year": 2012,
@@ -9880,7 +9880,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2012-02-03 - Eugene, OR - Hult Center (Shoeps) [AUD].txt"
+      "textFile": "2012-02-03 - Eugene, OR - Hult Center (BSC-2) [AUD].txt"
     },
     {
       "year": 2012,
@@ -9894,7 +9894,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2012-02-05 - Vancouver, BC - Orpheum Theatre (ECM-Sony MD) [AUD].txt"
+      "textFile": "2012-02-05 - Vancouver, BC - Orpheum Theatre (CA-14) [AUD].txt"
     },
     {
       "year": 2012,
@@ -10020,7 +10020,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "3 sources",
-      "textFile": "2012-03-05 - Paris, France - Le Grand Rex [AUD].txt"
+      "textFile": "2012-03-05 - Paris, France - Le Grand Rex (CSB) [AUD].txt"
     },
     {
       "year": 2012,
@@ -10034,7 +10034,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2012-03-07 - Zurich, Switzerland - Volkshaus [AUD].txt"
+      "textFile": "2012-03-07 - Zurich, Switzerland - Volkshaus (KM140) [AUD].txt"
     },
     {
       "year": 2012,
@@ -10118,7 +10118,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2012-06-04 - Dublin, Ireland - Forbidden Fruit Festival (MD-MT190) [AUD].txt"
+      "textFile": "2012-06-04 - Dublin, Ireland - Forbidden Fruit Festival (CA14s) [AUD].txt"
     },
     {
       "year": 2012,
@@ -10368,7 +10368,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2012-07-17 - Vienna, VA - Filene Center at Wolf Trap (SP-CMC-2) [AUD].txt"
+      "textFile": "2012-07-17 - Vienna, VA - Filene Center at Wolf Trap (DPA 4023) [AUD].txt"
     },
     {
       "year": 2012,
@@ -10409,7 +10409,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2012-07-19 - Charlottesville, VA - Charlottesville Pavilion (MK21) [AUD].txt"
+      "textFile": "2012-07-19 - Charlottesville, VA - Charlottesville Pavilion (4022) [AUD].txt"
     },
     {
       "year": 2012,
@@ -10558,7 +10558,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2012-08-01 - Hartford, CT - Bushnell Theater (R44) [AUD].txt"
+      "textFile": "2012-08-01 - Hartford, CT - Bushnell Theater (CA-11) [AUD].txt"
     },
     {
       "year": 2012,
@@ -10668,7 +10668,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2012-09-15 - Chicago, IL - The Hideout Festival (R09) [AUD].txt"
+      "textFile": "2012-09-15 - Chicago, IL - The Hideout Festival (CA-11) [AUD].txt"
     },
     {
       "year": 2012,
@@ -10954,7 +10954,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2012-10-22 - Stuttgart, Germany - Theaterhaus (MBHO) [AUD].txt"
+      "textFile": "2012-10-22 - Stuttgart, Germany - Theaterhaus (DPA 4061) [AUD].txt"
     },
     {
       "year": 2013,
@@ -10968,7 +10968,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2013-03-27 - Melbourne, Australia - VIC - Hamer Hall [AUD].txt"
+      "textFile": "2013-03-27 - Melbourne, Australia - Hamer Hall [MP2].txt"
     },
     {
       "year": 2013,
@@ -10982,7 +10982,7 @@ const ARTIST_DATA = {
       "notes": "Byron",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2013-03-30 - NSW, Australia - Tyagara Tea Tree Farm - Byron Bay Bluesfest [AUD].txt"
+      "textFile": "2013-03-30 - NSW, Australia - Tyagara Tea Tree Farm - Byron Bay Bluesfest (R05) [AUD].txt"
     },
     {
       "year": 2013,
@@ -11368,7 +11368,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2013-07-05 - Noblesville, IN - Klipsch Music Center (MK4V) [AUD].txt"
+      "textFile": "2013-07-05 - Noblesville, IN - Klipsch Music Center (CMC) [AUD].txt"
     },
     {
       "year": 2013,
@@ -11424,7 +11424,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2013-07-19 - Bridgeport, CT - Webster Bank Arena (DPA 4061) [AUD].txt"
+      "textFile": "2013-07-19 - Bridgeport, CT - Webster Bank Arena (AT853) [AUD].txt"
     },
     {
       "year": 2013,
@@ -11452,7 +11452,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2013-07-21 - Saratoga, NY - Saratoga PAC (R-09HR) [AUD].txt"
+      "textFile": "2013-07-21 - Saratoga, NY - Saratoga PAC (CSB) [AUD].txt"
     },
     {
       "year": 2013,
@@ -11522,7 +11522,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2013-08-03 - Irvine, CA - Verizon Wireless Amphitheatre (SKM140) [AUD].txt"
+      "textFile": "2013-08-03 - Irvine, CA - Verizon Wireless Amphitheatre (R-09) [AUD].txt"
     },
     {
       "year": 2013,
@@ -11646,7 +11646,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "4 sources",
-      "textFile": "2014-09-06 - Arrington, VA - Lockin' Festival (Schoeps) [AUD].txt"
+      "textFile": "2014-09-06 - Arrington, VA - Lockin' Festival (744) [AUD].txt"
     },
     {
       "year": 2014,
@@ -11660,7 +11660,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "MTX",
       "format": "6 sources",
-      "textFile": "2014-09-07 - Arrington, VA - Lockin' Festival [MTX].txt"
+      "textFile": "2014-09-07 - Arrington, VA - Lockin' Festival (CA-14) [AUD].txt"
     },
     {
       "year": 2014,
@@ -12220,7 +12220,7 @@ const ARTIST_DATA = {
       "notes": "Seaside",
       "version": "AUD",
       "format": "6 sources",
-      "textFile": "2015-08-01 - Bridgeport, CT - Gathering of the Vibes - Seaside Park (TLM170) [AUD].txt"
+      "textFile": "2015-08-01 - Bridgeport, CT - Gathering of the Vibes - Seaside Park (ELA M260) [AUD].txt"
     },
     {
       "year": 2015,
@@ -12658,7 +12658,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2016-02-13 - Roanoke, VA - Berglund Performing Arts Theatre (Schoeps) [AUD].rtf"
+      "textFile": "2016-02-13 - Roanoke, VA - Berglund Performing Arts Theatre (MK4) [AUD].txt"
     },
     {
       "year": 2016,
@@ -12740,7 +12740,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2016-07-10 - Dublin, Ireland - Iveagh Gardens (Zoom H1) [AUD].txt"
+      "textFile": "2016-07-10 - Dublin, Ireland - Iveagh Gardens (CA14s) [AUD].txt"
     },
     {
       "year": 2016,
@@ -13826,8 +13826,7 @@ const ARTIST_DATA = {
       "venue": "Budweiser Stage",
       "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "textFile": "2019-10-08 - Toronto, ON - Budweiser Stage (CSB) (burnboy) Rec 1 [AUD].txt"
+      "format": ""
     },
     {
       "year": 2019,
@@ -13841,7 +13840,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2019-10-08 - Toronto, ON - Budweiser Stage (SP-CMC-8) (burnboy) Rec 2 [AUD].txt"
+      "textFile": "2019-10-08 - Toronto, ON - Budweiser Stage (CSB) (burnboy) Rec 1 [AUD].txt"
     },
     {
       "year": 2019,
@@ -13854,7 +13853,8 @@ const ARTIST_DATA = {
       "venue": "Budweiser Stage (SP-CMC-8) (burnboy) Rec 2",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2019-10-08 - Toronto, ON - Budweiser Stage (SP-CMC-8) (burnboy) Rec 2 [AUD].txt"
     },
     {
       "year": 2019,
@@ -14275,8 +14275,7 @@ const ARTIST_DATA = {
       "venue": "Thompson's Point",
       "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "textFile": "2021-08-25 - Portland, ME - Thompson's Point (Schoeps MK4V) (jim kelly) [AUD24].txt"
+      "format": ""
     },
     {
       "year": 2021,
@@ -14289,7 +14288,8 @@ const ARTIST_DATA = {
       "venue": "Thompson's Point",
       "notes": "Schoeps MK4V \u00b7 jim kelly",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2021-08-25 - Portland, ME - Thompson's Point (Schoeps MK4V) (jim kelly) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -15266,8 +15266,7 @@ const ARTIST_DATA = {
       "venue": "Solid Sound Festival",
       "notes": "Roadcase 103",
       "version": "SBD",
-      "format": "",
-      "textFile": "2024-06-29 - North Adams, MA - Joe's Field MASS MoCA (Schoeps MK4V + SP-BMC-12) (jim kelly + manofstealth) [MIX24].txt"
+      "format": ""
     },
     {
       "year": 2024,
@@ -15280,7 +15279,8 @@ const ARTIST_DATA = {
       "venue": "Joe's Field MASS MoCA",
       "notes": "Schoeps MK4V + SP-BMC-12 \u00b7 jim kelly + manofstealth",
       "version": "MIX",
-      "format": ""
+      "format": "",
+      "textFile": "2024-06-29 - North Adams, MA - Joe's Field MASS MoCA (Schoeps MK4V + SP-BMC-12) (jim kelly + manofstealth) [MIX24].txt"
     },
     {
       "year": 2024,

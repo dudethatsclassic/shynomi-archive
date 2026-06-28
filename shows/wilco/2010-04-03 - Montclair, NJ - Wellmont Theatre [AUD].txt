@@ -1,40 +1,58 @@
-Wilco-2010-0403-40-HoodooVoodoo.flac:3c9ae2a5ea6cc2e8d385771a3472aaee
-Wilco-2010-0403-01-Intro.flac:6550f849f13ed2f9bd6bd594afb03d67
-Wilco-2010-0403-02-AshesOfAmericanFlags.flac:9f718c6a4d6995d25f51fc8f28cafc9c
-Wilco-2010-0403-03-WilcoTheSong.flac:65f0729f0e5673108ec1121e2c06da83
-Wilco-2010-0403-04-IamTryingToBreakYourHeart.flac:31811cd62fe670b2d33415557c498956
-Wilco-2010-0403-05-BullBlackNova.flac:3aef77d744e37e146653d06fa884a467
-Wilco-2010-0403-06-YouAreMyFace.flac:bece8b155ddd19bcb9a5013aa1bff842
-Wilco-2010-0403-07-OneWing.flac:26ddd0f4322f728d61a319aa4b28c3b5
-Wilco-2010-0403-08-AShotInTheArm.flac:bbc2ea09149ef3876885cf9e2dc48c54
-Wilco-2010-0403-09-MuzzleOfBees.flac:b34add8aee7bf53ca8bbcd9c7420258c
-Wilco-2010-0403-10-DeeperDown.flac:81d25904dd2e0fa4fb0bee2cd4770dcb
-Wilco-2010-0403-11-Summerteeth.flac:1dbf0edc31d20e132aeed5fe226fb715
-Wilco-2010-0403-12-Misunderstood.flac:89904a8f0fa44cd8e56b175a14e6f5bc
-Wilco-2010-0403-13-CaStars.flac:ef8887ce54081b92bbac3bb809bc53bd
-Wilco-2010-0403-14-ImpossibleGermany.flac:a94c95ae5db3186e2c1c6cb4842c8eda
-Wilco-2010-0403-15-PoorPlaces.flac:0ad4c870d30df947f19369f60a8add83
-Wilco-2010-0403-16-Spiders.flac:305f0eb9832c28d6445186f93d22bbd6
-Wilco-2010-0403-17-YouAndI.flac:6ee55d9e84290d0cda2e0d7877393000
-Wilco-2010-0403-18-JeffTalks.flac:b2a109f82c6b06337aab089928bf680d
-Wilco-2010-0403-19-Kamera.flac:cefea213fd9b5fa3d6fa28293575fcdc
-Wilco-2010-0403-20-JeffTalks.flac:31dcac8a406ab07cc2271ff19e99e7f4
-Wilco-2010-0403-21-Hesitating Beauty.flac:22558615ce6a5be1500d8668471e7185
-Wilco-2010-0403-22-NotForTheSeasons.flac:a317dc3c01b30157db000c621392cc5b
-Wilco-2010-0403-23-WhenYoUWakeUpFeelingOld.flac:0e576d4b3aa7ba87f6d02df9f9d08c53
-Wilco-2010-0403-24-DreamerInMyDreams.flac:f031ecc9315c11da4ccce0d61b8e9b68
-Wilco-2010-0403-25-OuttaMind.flac:091f928a2215d30f5d7e5902a9f231cc
-Wilco-2010-0403-26-AirlineToHeaven.flac:c7197d1ae77d8911d364fa5b4e7bd51d
-Wilco-2010-0403-27-ImAlwaysInLove.flac:39addceba4f4a09e96f847c9dbd46728
-Wilco-2010-0403-28-Candyfloss.flac:a0a9fca49188acc4b1d07100fec3d9ff
-Wilco-2010-0403-29-JesusEtc.flac:a6de9a97912f249d25d77c451cf5501b
-Wilco-2010-0403-30-BoxFullOfLetters.flac:d9d04f2b56e2afc4ccfd2d7a641d304a
-Wilco-2010-0403-31-ICantStandIt.flac:cc4e147766b68d3d28584dee2d63a48a
-Wilco-2010-0403-32-HateItHere.flac:c9ca4c4c49a5d230e517f79db170d11e
-Wilco-2010-0403-33-YouNeverknow.flac:015a5405134ce0be76bf9c8953452e4b
-Wilco-2010-0403-34-Walken.flac:52b0413d7dfefc5accafdc645be16ab2
-Wilco-2010-0403-35-ImTheManWhoLovesYou.flac:0cde39015114289857d20d8c7e7f8470
-Wilco-2010-0403-36-ThankYouFriends.flac:b988a65fd306fc48062dd9608380ba9b
-Wilco-2010-0403-37-InTheStreets.flac:c97b4437aeca0d0a450e720076551359
-Wilco-2010-0403-38-CasinoQueen.flac:94b52711b49dd7bc3d2480089e3a3e62
-Wilco-2010-0403-39-OuttaSite.flac:78e644115965767e5a607a6a0e25f9dd
+WILCO
+APRIL 3, 2010
+Wellmont Theater, Montclair, NJ
+
+Recorded from front of stage.
+
+Recorded with Edirol/Roland R-09HR digital recorder and Sony ECM-719 microphone>Wavepad>Flac Frontend>Flac LEvel 8
+
+
+DISC ONE
+01. (intro)
+02. Ashes of American Flags
+03. Wilco (The Song)
+04. I am Trying to Break Your Heart
+05. Bull Black Nova
+06. You Are My Face
+07. One Wing
+08. A Shot in the Arm
+09. Muzzle of Bees
+10. Deeper Down
+11. Summerteeth
+12. Misunderstood
+13. California Stars
+14. Impossible Germany
+
+DISC TWO
+01. Poor Places
+----into acoustic set----
+02. Spiders (Kidsmoke)
+03. You and I
+04. (Jeff Talks)
+05. Kamera
+06. (Jeff Talks)
+07. Hesitating Beauty
+08. Not For the Seasons
+09. When You Wake Up Feeling Old
+10. Dreamer in My Dreams
+11. OuttaMind (Outtasite)
+----out of acoustic set----
+12. Airline to Heaven
+13. I'm Always in Love
+14. Candyfloss
+
+DISC THREE
+01. Jesus, Etc.
+02. Box Full of Letters
+03. I Can't Stand It 
+04. Hate It Here
+05. You Never Know
+06. Walken 
+07. I'm the Man Who Loves You
+08. Thank You Friends
+09. In the Streets
+10. Casino Queen
+11. Outtasite (Outta Mind)
+12. Hoodoo Voodoo 
+
+

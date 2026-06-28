@@ -1,21 +1,35 @@
-sc2025-12-13-01.flac:76167bf3b30251dc74831a8f68a11221
-sc2025-12-13-02.flac:afd9e7d0b9e262d13740c41c311eae1d
-sc2025-12-13-03.flac:43ad4128c26d84f85f3c5e78f07ec0b6
-sc2025-12-13-04.flac:23bd7aa13bf12d79da28e0695c7942b5
-sc2025-12-13-05.flac:a0c0fb12460c439e318db9cd6ede8dfc
-sc2025-12-13-06.flac:8c7c2b7e22b52a17cb4b6f1ae028a1b3
-sc2025-12-13-07.flac:33adc83287682ec10939ae005320c9a1
-sc2025-12-13-08.flac:b874c77481c4eca04eb6dcf038745c78
-sc2025-12-13-09.flac:342f58cccf2f094b80a22e6a705a542c
-sc2025-12-13-10.flac:3be65320e111422b6f4632d235fe4ba0
-sc2025-12-13-11.flac:fdcaabaebdd08536ca4cbf6c9ce95717
-sc2025-12-13-12.flac:b58978a0e759f08a9ca46d835be7394e
-sc2025-12-13-13.flac:a1d64dc95cfc8a4a7b1328b7127607c3
-sc2025-12-13-14.flac:1cfaed121d83d99f03a63fa5651f9b0b
-sc2025-12-13-15.flac:691d2f7f8e99d6f0d31c7232d56a92ea
-sc2025-12-13-16.flac:9c8500ccbb4f8abeed2b9588b5e24e9e
-sc2025-12-13-17.flac:0db014c1ae3ffc44f030440cd629be92
-sc2025-12-13-18.flac:c52a5f707529e0457b4baec3c58f4f47
-sc2025-12-13-19.flac:f852482e8fcf0aefbb8898908cc4741f
-sc2025-12-13-20.flac:73dfa139076a4330f1fc59b4375e30eb
-sc2025-12-13-21.flac:77d5fed2e5ee2ec27e9f8f14e0fa89fc
+Band: Soul Coughing
+Venue: The Sylvee
+Location: Madison, WI
+Date: 12-13-2025
+Taper: Pael
+
+Source: Zoom H1N 44.1khz/16 bit. Dead center, Jack Daniels balcony seats
+
+Transfer: Zoom WAV -> USB Transfer-> Audacity for levels and tracking -> FLAC level 8
+
+
+Bus to Beelzebub
+Soft Serve
+Casiotone Nation
+Blue Eyed Devil
+Sugar Free Jazz
+White Girl
+Disseminated
+City of Motors
+Collapse
+The Idiot Kings
+True Dreams of Wichita
+I Miss the Girl
+Misinformed
+St. Louise Is Listening
+Mr. Bitterness
+Janine (with Rachel Benbow Murdy)
+Rolling
+Circles (The song before the fake last song)
+Screenwriter's Blues (The fake last song)
+
+Encore:
+Is Chicago, Is Not Chicago
+Super Bon Bon
+

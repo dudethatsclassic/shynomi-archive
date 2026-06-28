@@ -1,19 +1,31 @@
-wilco2004-08-08d1t01.flac:cf22be00f05c5ed52d1b2257913ae52d
-wilco2004-08-08d1t02.flac:63701fd9b19de2ee53925cf4f06dba61
-wilco2004-08-08d1t03.flac:39419ace967605266cbb68e16307cad8
-wilco2004-08-08d1t04.flac:03a422f77ca2ef81b6b8633634cafec8
-wilco2004-08-08d1t05.flac:9787c74a99665172d5d463680c55a322
-wilco2004-08-08d1t06.flac:181c39f9adc98b61b50bcad4dff97bd8
-wilco2004-08-08d1t07.flac:a49c5b687ac373cde627b5a632cf57b4
-wilco2004-08-08d1t08.flac:a112c56e25e61692cdec102e1ed2cfbe
-wilco2004-08-08d1t09.flac:40de18be476a940e58a65cc7840ed420
-wilco2004-08-08d1t10.flac:79bf3817ebc3ba855173fc6d0f2943df
-wilco2004-08-08d1t11.flac:6d928da085268bfd08686af4e43b48f2
-wilco2004-08-08d1t12.flac:aeaeb6ca2059613d77a88abb78e2a0c0
-wilco2004-08-08d2t01.flac:47ba34613327be87a978112a1d40ed6c
-wilco2004-08-08d2t02.flac:d511cab63b121d1c179676dd7aa01e3f
-wilco2004-08-08d2t03.flac:f1a276ad20d3cfa40c89e9cf28e0eeb4
-wilco2004-08-08d2t04.flac:65c427544c1925def9c50990a3292ebe
-wilco2004-08-08d2t05.flac:8b313bc0665617139dae1f6bcb24cf86
-wilco2004-08-08d2t06.flac:dcccc1524c4948ccab313d4e8ce55e8b
-wilco2004-08-08d2t07.flac:f947ace57b626c5ede04b58f32fc3af4
+Wilco
+8-8-04
+Newport Folk Festival, Newport, RI
+
+Source: CSB mics>D8 (about 10 yards out from left stack)>pro Tascam 700 (via coax)>CDR>EAC(secure)>wav>flac(8)
+
+1. intro
+2. Muzzle Of Bees
+3. Company In My Back
+4. Hummingbird
+5. When The Roses Bloom Again
+6. One By One
+7. Bob Dylan's 49th Beard
+8. I Am Trying to Break Your Heart
+9. War On War
+10. A Shot In The Arm
+11. Ashes Of American Flags
+12. Handshake Drugs
+
+Disc 2
+1. Jesus, Etc.
+2. At Least That's What You Said
+3. I'm The Man Who Loves You
+4. Theologians
+5. Poor Places   
+6. California Stars
+Encore
+7. The Late Greats
+
+Notes:
+Garth Hudson from The Band sat in on keyboard for the last 2 songs. 

@@ -1,28 +1,53 @@
-wilco2009-04-22d1t01.flac:3d9958d4f06c751606a3b113e63ed06a
-wilco2009-04-22d1t02.flac:384bea3a47944327dcd05b6f8b6b5e72
-wilco2009-04-22d1t03.flac:657bbe10b8c8fcf36ed8d3c0214a34db
-wilco2009-04-22d1t04.flac:e79da87930bd3cb0159da21b0774873f
-wilco2009-04-22d1t05.flac:e0725d7b9389d9a07fcb3b33716e49b4
-wilco2009-04-22d1t06.flac:e11ba927371abe184145f02305cdd34a
-wilco2009-04-22d1t07.flac:1dd7d01ceef879677e6aec19e78f9a30
-wilco2009-04-22d1t08.flac:24acc808bbda4376f24a067fbfe79284
-wilco2009-04-22d1t09.flac:c7c87e5b70d1e8d332a1247dc04e8989
-wilco2009-04-22d1t10.flac:de842f0646234cd3e0e682df4b087121
-wilco2009-04-22d1t11.flac:0018c24a354924d163799682737e0214
-wilco2009-04-22d1t12.flac:ab72a5395edf51be3d6c202d81c0fd8e
-wilco2009-04-22d1t13.flac:d2ea3a90a562bece82dc5c216d04398d
-wilco2009-04-22d2t01.flac:c840d839598c3868245aea774e83a89a
-wilco2009-04-22d2t02.flac:0e4a9cea8b70bfb942f3d82b6ef7eb31
-wilco2009-04-22d2t03.flac:857744600d7730ff31c4dd0aeca0a987
-wilco2009-04-22d2t04.flac:0355dd05920ce5459d556248e0c74e3c
-wilco2009-04-22d2t05.flac:a3d5a5cd90ab9cfb3bece58eb86c4bf4
-wilco2009-04-22d2t06.flac:915b3acaad9e31a321bff79ad6d538c0
-wilco2009-04-22d2t07.flac:3b62a8cb3406e0f7c00791beb551d69d
-wilco2009-04-22d2t08.flac:ffd157a182b5ce3754b26baa3be5945f
-wilco2009-04-22d2t09.flac:db9c3790c2123157374587d4fadbd86e
-wilco2009-04-22d2t10.flac:480edf6aa5741c4e719b6b6ba7ce4bef
-wilco2009-04-22d2t11.flac:34f6554ad98f5417905cc299bc16cca3
-wilco2009-04-22d2t12.flac:5a05e2206e3a706fa3f9e60124aceef3
-wilco2009-04-22d2t13.flac:b90448238fd4866818ce29e54d150f90
-wilco2009-04-22d2t14.flac:70ed962c480a3f8998cecc62b6855919
-wilco2009-04-22d2t15.flac:ca2816c7141af8d3369df06a7e3ea70e
+Wilco
+4-22-2009
+Sloss Furnace
+Birmingham, AL
+
+
+Source:  DPA 4023(ORTF)->Sonosax SX-M2->Sonic AD2K+->Sound Devices 744t(24/48)
+
+Location: FOB/DFC
+
+Transfer: 744t->HDD->Wavelab 5.01b->CD Wave->Flac 16
+
+Recorded and Transferred by:  Chris Hall
+
+
+One Set
+
+Disc 1
+
+1.  Intro
+2.  Misunderstood
+3.  Company In My Back
+4.  You Are My Face
+5.  I Am Trying To Break Your Heart
+6.  Kamera
+7.  Ashes of American Flags
+8.  At Least That's What You Said
+9.  Hotel Arizona
+10. A Shot In the Arm
+11. Jesus, etc.
+12. Impossible Germany
+13. Hummingbird
+
+Disc 2
+
+1.  Can't Stand It
+2.  Handshake Drugs*
+3.  Heavy Metal Drummer
+4.  Spiders (Kidsmoke)
+5.  Encore Break 1
+6.  The Late Greats
+7.  Candyfloss
+8.  Hate It Here
+9.  Walken
+10. I'm the Man Who Loves You
+11. Encore Break 2
+12. Red Eyed and Blue->
+13. I Got You (At the End Of The Century)
+14. Hoodoo Voodoo**
+15. I'm A Wheel
+
+* interrupted by passing train
+**with shirtless bass/keyboard/guitar tech Josh on cowbell

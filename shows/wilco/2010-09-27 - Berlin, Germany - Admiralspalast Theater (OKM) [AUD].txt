@@ -1,23 +1,44 @@
-wilco_100927_16_tr01.flac:ecf6bb25a52f90f05b0d0b9e7eb0f305
-wilco_100927_16_tr02.flac:6de6dd0950cd9c62e4715642e1bcbd72
-wilco_100927_16_tr03.flac:4eaa8bdddc883824dec57d257860fbe1
-wilco_100927_16_tr04.flac:c177e3c4b4214c1387288c9dfdc18551
-wilco_100927_16_tr05.flac:cada1ecbb381f068db460946f55b2f1a
-wilco_100927_16_tr06.flac:5b94f6043d6684c278338d19a36d67d1
-wilco_100927_16_tr07.flac:395f8dda1c3fd3e1ee159e1d817e6db0
-wilco_100927_16_tr08.flac:c5843fd49468c34bd06f11cad8c48d9e
-wilco_100927_16_tr09.flac:b5931f33b6c1d47fa711116d4ab4ff07
-wilco_100927_16_tr10.flac:d2f9ecceb6f601b22b0975c7ff8a6859
-wilco_100927_16_tr11.flac:9387f40d480a4ba406b664bc0e75ca42
-wilco_100927_16_tr12.flac:5411d2374bfbbaca7f4f5720d4fb8a87
-wilco_100927_16_tr13.flac:5c0bab4dd24415566b817219d64d2f7f
-wilco_100927_16_tr14.flac:1cb4cc75a15fe5f8bd8e89eb3c26c26f
-wilco_100927_16_tr15.flac:dd7cb00f3ebe0f47793bfa7770c536cc
-wilco_100927_16_tr16.flac:de11a67433b1f225dad066d361fc431e
-wilco_100927_16_tr17.flac:a426f659cf5ec409b12de469faad17af
-wilco_100927_16_tr18.flac:8aed85b3e7861998a3cb80dd6c5fc876
-wilco_100927_16_tr19.flac:95293774f28321c6db2e9f324c541937
-wilco_100927_16_tr20.flac:1cc25f08b384499a4f6febe48051bd93
-wilco_100927_16_tr21.flac:58c4a545d9d8d2ac21816dc714f20003
-wilco_100927_16_tr22.flac:4638ce37db5f62d07cf33357d292f056
-wilco_100927_16_tr23.flac:49f0217a0fabd310dff80991c6839b51
+
+WILCO
+Admiralspalast Theater, Berlin, GER  27. Sep. 2010
+
+Disc 1:
+01.  
+02.  
+03.  
+04.  
+05.  
+06.  
+07.  
+08.  
+09.  
+10.  
+11.  
+
+Disc 2:
+01.  
+02.  
+03.  
+04.  
+05.  
+06.  
+07.  
+08.  
+09.  
+10.  
+11.  
+12.  
+
+approx. 115 mins
+
+Recording Info:
+recorded by Vortex242
+OKM IIr > A3 > EDIROL R-09HR (48/24) >
+USB > WAV > Adobe Audition 3 (EQing, 44.1/16) > CDwave (tracking)
+> FLAC frontend (level 6, verify, with align on sector boundaries)
+> Tracker
+
+Feel free to spread this on other trackers
+but don't forget to support the artist by buying the official releases 
+and going to their shows!
+I'd like to get feedback from you, so please comment!!

@@ -1,36 +1,55 @@
-wilco2026-04-23s1t01.flac:395829e75e4457fd2cd4e3948ce5b22e
-wilco2026-04-23s1t02.flac:d2202fe63ba8172ba8d6a1ac05a7de64
-wilco2026-04-23s1t03.flac:8d461a72c89dd4d712d929a7854d94f2
-wilco2026-04-23s1t04.flac:fcd81e171bb8030b42e66af447cd5667
-wilco2026-04-23s1t05.flac:85fba58c38665723f063e0d162f82c61
-wilco2026-04-23s1t06.flac:c783b553698d1216ec5ed04d245387a0
-wilco2026-04-23s1t07.flac:662002e00d504ef8b916041fdb708cd7
-wilco2026-04-23s1t08.flac:ba33df816d7b2c68dc0acb593e76c651
-wilco2026-04-23s1t09.flac:1551e939a97f8d5de16dd10f578716a1
-wilco2026-04-23s1t10.flac:e80d7a71a2aecd9133f02338a61103ef
-wilco2026-04-23s1t11.flac:8c046e539165d005478bba9dfbb9d262
-wilco2026-04-23s1t12.flac:61e25125fdeb3a9198d4b617b6cbb0bd
-wilco2026-04-23s1t13.flac:19eee26fdcad1711f444c35c8ab9383c
-wilco2026-04-23s1t14.flac:5fac6c20f8d336137cb98e473b61a482
-wilco2026-04-23s1t15.flac:b369ff8a64e2843c0ceac687f49681db
-wilco2026-04-23s1t16.flac:2be769149e978a9922ca7040252225c4
-wilco2026-04-23s2t01.flac:79ad1dc530ec93d0e3ad5fa9914fa8af
-wilco2026-04-23s2t02.flac:e4275328fcd656c05b7a13391404e6fd
-wilco2026-04-23s2t03.flac:93152ee45e9a9d8807ced236f8b238e5
-wilco2026-04-23s2t04.flac:37d5752d4c94708624629b1145b4a29f
-wilco2026-04-23s2t05.flac:4e2ce9216918e0ddfd60323a170f5a1c
-wilco2026-04-23s2t06.flac:de9b896a0a40e167635aa5d8bb3a77df
-wilco2026-04-23s2t07.flac:e5dc6b18fb6f9fd72775869ed88cea7c
-wilco2026-04-23s2t08.flac:681d39b6a849df6559dfafeacd52862b
-wilco2026-04-23s2t09.flac:d361e4c6c9f2c9986b2aba7c97b2cbbe
-wilco2026-04-23s2t10.flac:b7a2696a963e24ca264e901c54365a9b
-wilco2026-04-23s2t11.flac:800f977163824a2c03060716b7af98c7
-wilco2026-04-23s2t12.flac:c66ad37a7bbaf41d188f36ac9ac1b10b
-wilco2026-04-23s2t13.flac:671782ddb8f2b66bca6cc5165b41323c
-wilco2026-04-23s2t14.flac:32a27b23ca0c8b4356a286e44f07a6a4
-wilco2026-04-23s2t15.flac:111c70fdd49f821f991ab781af132dad
-wilco2026-04-23s2t16.flac:2bd5dd4ce6d779bec3b776ad33aee085
+Wilco
+"An Evening with Wilco"
+04-23-2026
+Clyde Theater
+Fort Wayne, IN
 
-Checksum file saved to disk.
+Source:  DPA 4061 (AB) > Tascam FR-AV2 (32bit-float/96)
+Location:  FOB, DFC, 45' from stage, 
+Info:  SD > PC > Wave Lab 6.1 (fades, levels, edits, down sampled to 24/96) > CD Wave 1.98 (tracks) > Traders Little Helper (flac 8)
+Taped by:  Rob O'Brien - robotaper
 
-No errors occurred.
+Set 1:
+01.  I Am Trying To Break Your Heart
+02.  If I Ever Was A Child
+03.  Cruel Country
+04.  Handshake Drugs
+05.  Art of Almost
+06.  Forget The Flowers
+07.  Evicted
+08.  Bird Without a Tail / Base of My Skull
+09.  Hummingbird
+10.  It's Just That Simple
+11.  You and I
+12.  Quiet Amplifier
+13.  Whole Love
+14.  Love Is Everywhere (Beware)
+15.  Falling Apart (Right Now)
+16.  California Stars
+
+Set 2:
+17.  You Are My Face
+18.  The Late Greats
+19.  Box Full of Letters
+20.  Annihilation
+21.  Sunken Treasure
+22.  Either Way
+23.  Impossible Germany
+24.  Jesus, Etc.
+25.  The Universe
+26.  Theologians
+27.  Hate It Here
+28.  Heavy Metal Drummer
+29.  Spiders (Kidsmoke)
+
+Encore:
+30.  I'm the Man Who Loves You
+31.  Walken
+32.  I Got You (At the End of the Century)
+
+
+Notes:
+- Flacs tagged w/Mp3tag
+
+
+

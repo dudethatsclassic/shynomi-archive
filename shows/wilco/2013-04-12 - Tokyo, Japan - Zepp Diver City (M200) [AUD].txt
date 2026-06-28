@@ -1,24 +1,41 @@
-wilco2013-04-12m200t01.flac:8751eaf906a7ed4418d892f7810f0fe7
-wilco2013-04-12m200t02.flac:c87cf117b1b84f72082548b8b358e6b8
-wilco2013-04-12m200t03.flac:5b72216d5674394563779c2f811a876e
-wilco2013-04-12m200t04.flac:f48c29b64ac4aebb43519ae3c9955b6d
-wilco2013-04-12m200t05.flac:1c007afb304e6446f295959883224e94
-wilco2013-04-12m200t06.flac:ed2f09a124411cd7ed33114fed5181a5
-wilco2013-04-12m200t07.flac:203c7aefaf2577f9c5d7761577778af8
-wilco2013-04-12m200t08.flac:8a869d09c0bceede03096a392dde8db2
-wilco2013-04-12m200t09.flac:2d3f0e375d7f19a018a90df4b9668c4e
-wilco2013-04-12m200t10.flac:40d5fd4a6ff792aefaa9ed985c06ba4d
-wilco2013-04-12m200t11.flac:ee8377bb55b04407b8a27fd3f9484d8b
-wilco2013-04-12m200t12.flac:bf67365344a8150e9d235b857f425a2e
-wilco2013-04-12m200t13.flac:5cac58e1b2d71988d30c1b85e46fb665
-wilco2013-04-12m200t14.flac:45d77f4d923317d75fce4f589dd36b39
-wilco2013-04-12m200t15.flac:54bbaeac9c8107ba88f09c1a174d3b04
-wilco2013-04-12m200t16.flac:351aff1a812bc8cb21ca57f55b5aa266
-wilco2013-04-12m200t17.flac:a1105f4306c5e554efa915ad50435859
-wilco2013-04-12m200t18.flac:d533a47a551320ce0c9700edd1bfb444
-wilco2013-04-12m200t19.flac:6873ebc5c771fa6d5d705d9eed92cc52
-wilco2013-04-12m200t20.flac:9da26b7e05ae16d2046f49f0a8895ab7
-wilco2013-04-12m200t21.flac:0487307f2916ce4517fe56361a40ad38
-wilco2013-04-12m200t22.flac:a0bcf38e2bab1f9a8fda3f95ab2f2aa9
-wilco2013-04-12m200t23.flac:a485d8dc38bb70294aa6e63add3e0c6e
-wilco2013-04-12m200t24.flac:41e795e71577fda5743e691187b69e41
+Wilco
+2013-04-12
+Zepp DiverCity Tokyo
+Koto-ku, Tokyo, Japan
+
+Source: Microtech Gefell M200>Lunatec V3>PCM-M10(48kHz 24Bit)
+Lineage: PC>Sound Forge 9.0>Wav(44.1kHz 16Bit)>CD Wave Editor(tracking) >Flac(Level8)
+Taped & Transferred by: Koji
+
+01.Less Than You Think
+02.Art Of Almost
+03.I Might
+04.One Wing
+05.Sunken Treasure
+06.Spiders (Kidsmoke)
+07.Impossible Germany
+08.Born Alone
+09.Radio Cure
+10.Sky Blue Sky
+11.Say You Miss Me
+12.I Must Be High
+13.Whole Love
+14.Theologians
+15.Heavy Metal Drummer
+16.Dawned On Me
+17.A Shot In The Arm
+18.Hummingbird
+19.crowd
+Encore
+20.California Stars
+21.The Late Greats
+22.I'm The Man Who Loves You
+23.Monday
+24.Outtasite (Outta Mind)
+
+
+Note
+Wilco Japan Tour 2013
+
+Location:Right side of SBD
+

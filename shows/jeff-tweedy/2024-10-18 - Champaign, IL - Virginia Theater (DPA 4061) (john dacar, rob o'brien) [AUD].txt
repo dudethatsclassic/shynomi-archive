@@ -1,25 +1,34 @@
-jefftweedy2024-10-18dpa4061t01.flac:297e4e632ed857fcb5296e748ea50eea
-jefftweedy2024-10-18dpa4061t02.flac:4190de4769fa666912039f1e636473ee
-jefftweedy2024-10-18dpa4061t03.flac:136b868e07d5f619a796bf396bba49b4
-jefftweedy2024-10-18dpa4061t04.flac:4e153f5b7ab28baddfff6f94f01fdd02
-jefftweedy2024-10-18dpa4061t05.flac:371df8e0d42151be8ac6f36170eea25a
-jefftweedy2024-10-18dpa4061t06.flac:bd07560161741321f660c814f67bbcb8
-jefftweedy2024-10-18dpa4061t07.flac:04219a571da03e61774ef3de0fda31a3
-jefftweedy2024-10-18dpa4061t08.flac:4204d20d32461baaa3c8d9fffaf8e923
-jefftweedy2024-10-18dpa4061t09.flac:3bd35d73872cb2176fbb6a0f2f4238e9
-jefftweedy2024-10-18dpa4061t10.flac:3abac2f1de175907c71d7531324e449e
-jefftweedy2024-10-18dpa4061t11.flac:8fbd2f5e18f992e27338a0eaa98770e5
-jefftweedy2024-10-18dpa4061t12.flac:2f54554fc7b204958148cb80744fae5f
-jefftweedy2024-10-18dpa4061t13.flac:3981a8d9b7dee33353587f16c79d3d92
-jefftweedy2024-10-18dpa4061t14.flac:edb261ecfb111db72dd79ef099106901
-jefftweedy2024-10-18dpa4061t15.flac:ed55db593f9c1ff54a18243ca1816db5
-jefftweedy2024-10-18dpa4061t16.flac:3f9ecdd1f3e0ab622367fc074f105870
-jefftweedy2024-10-18dpa4061t17.flac:64e5ffadf74b51ac45f6f17e48889d10
-jefftweedy2024-10-18dpa4061t18.flac:274427caa8f9857673299ed892b6670c
-jefftweedy2024-10-18dpa4061t19.flac:eee72eb8556b48b01c4741734425dc5d
-jefftweedy2024-10-18dpa4061t20.flac:1bd812d24b40c6e40317e31672c0efd8
-jefftweedy2024-10-18dpa4061t21.flac:c82b5c1945a9c2e9bf157b50eaf0bd55
+Jeff Tweedy
+10-18-2024
+Virginia Theater
+Champaign, IL
 
-Checksum file saved to disk.
+Source:  DPA 4061(AB)> CoreSounds Battery Box (Flat) > IRiver(16/44)
+Location:  FOB, Row A, Seat 401
+Info:  IRiver > PC > Wave Lab 6.1 (fades, levels, edits) > CD Wave (tracks) > Traders Little Helper (flac 8)
+Taped by:  John Dacar, Rob O'Brien
 
-No errors occurred.
+01.  Via Chicago
+02.  Impossible Germany
+03.  I Am My Mother
+04.  I Am Trying to Break Your Heart
+05.  Venus Stopped the Train
+06.  An Empty Corner
+07.  New Madrid [Uncle Tupelo]
+08.  I Know What It's Like
+09.  A Lifetime to Find
+10.  Gwendolyn
+11.  Everlasting Everything
+12.  Either Way
+13.  Jesus, Etc.
+14.  Dawned On Me
+15.  Meant to Be
+16.  Falling Apart (Right Now)
+17.  Lou Reed Was My Babysitter
+18.  Passenger Side
+19.  You Are Not Alone
+20.  Family Ghost
+21.  I'm the Man Who Loves You
+
+Notes:
+- Flacs tagged w/Mp3tag

@@ -1,36 +1,52 @@
-Jeff_Tweedy_2009-03-27_t01.flac:6257aaa5a6b5dd31e6979ec227681cd6
-Jeff_Tweedy_2009-03-27_t02.flac:57d124d26362a24151d3bca53a0a4305
-Jeff_Tweedy_2009-03-27_t03.flac:f4dbf8bcd432ea9b03ba335a1e7fe8ca
-Jeff_Tweedy_2009-03-27_t04.flac:4418a1de8acf598204a6bf35f1bb3fbb
-Jeff_Tweedy_2009-03-27_t05.flac:fede6323da592341c034bcd6c5fd0581
-Jeff_Tweedy_2009-03-27_t06.flac:5556b89d8159342ea23b1187ab9d01d1
-Jeff_Tweedy_2009-03-27_t07.flac:8cc38ebfcf7f9a11dce1c405a4fbdc98
-Jeff_Tweedy_2009-03-27_t08.flac:0662d319441896ff86cca81502d78153
-Jeff_Tweedy_2009-03-27_t09.flac:5efa05ba25b571930acf3fa294a811eb
-Jeff_Tweedy_2009-03-27_t10.flac:a6a41b9203752a15a08247aa60cb1cf7
-Jeff_Tweedy_2009-03-27_t11.flac:6a33854e80d9ca3102f4a12262edb4d0
-Jeff_Tweedy_2009-03-27_t12.flac:0de23180894d24eb117fa011b7425cd3
-Jeff_Tweedy_2009-03-27_t13.flac:42c47dcc7b43e41f8c4b0b4216224b4c
-Jeff_Tweedy_2009-03-27_t14.flac:41b4af7a9cf9744023f377cf84f1e42a
-Jeff_Tweedy_2009-03-27_t15.flac:794d871a9bc9789832be022c1f33317a
-Jeff_Tweedy_2009-03-27_t16.flac:c25734f4fec4b6c8ba0d29d976139313
-Jeff_Tweedy_2009-03-27_t17.flac:57379d4e9fea43bc011ced5e4ad5955e
-Jeff_Tweedy_2009-03-27_t18.flac:411c4985cdf09fc0ce54e25b4ad1bc8f
-Jeff_Tweedy_2009-03-27_t19.flac:5fe43942e07aa0dea7236da9c8e5a5ab
-Jeff_Tweedy_2009-03-27_t20.flac:9afbba821da715a2d2bf23b02bbd149a
-Jeff_Tweedy_2009-03-27_t21.flac:a4d79893d3c58cbc71141320d148cd2b
-Jeff_Tweedy_2009-03-27_t22.flac:30fe79b0670a8f1bb2aa1c6e58e53d05
-Jeff_Tweedy_2009-03-27_t23.flac:088bbfc38e41c0795e8147e43131aa51
-Jeff_Tweedy_2009-03-27_t24.flac:f3fcbd33910824f1c3b513d8644d58f3
-Jeff_Tweedy_2009-03-27_t25.flac:bb4c8540814ca2887894680c049dfb40
-Jeff_Tweedy_2009-03-27_t26.flac:c0687d63d29e77b692078b954a11f02a
-Jeff_Tweedy_2009-03-27_t27.flac:ea247e1ed941e2346dfe02b319de2e4a
-Jeff_Tweedy_2009-03-27_t28.flac:953ce6f802bea7ca87ff0bd22b9afd8e
-Jeff_Tweedy_2009-03-27_t29.flac:ce9ec51a88303ea5a6d826ac1d3fc08b
-Jeff_Tweedy_2009-03-27_t30.flac:1dffcf6102a9126f18b2331ab90ef473
-Jeff_Tweedy_2009-03-27_t31.flac:f6fc28e0d84cad8dcbcf68514a894f68
-Jeff_Tweedy_2009-03-27_t32.flac:bc8d8d0252b9f5f4f360521641d98337
-Jeff_Tweedy_2009-03-27_t33.flac:8f3ba81d823ea09181cbb7dc8c7616a0
-Jeff_Tweedy_2009-03-27_t34.flac:70f209adcc3fff2eb02afdd3a7ebbdb7
-Jeff_Tweedy_2009-03-27_t35.flac:b3bdc1775f79e6a2f46e3a24e0efc12b
-Jeff_Tweedy_2009-03-27_t36.flac:c9dc56ac322ad1eca97667f2638a7f05
+Thanks to the recorder for sharing this with the community.
+
+
+this concert was recorded on march 27th, 2009 at the calvin theater in northampton, ma. 
+Recording location was 12 rows back and center. the music lineage is: 
+sony pcm-d50>48-khz/16 bit wav>sound studio(normalize and track split)>
+xact (encode flac and mp3 v0)>itunes (assign track names and file details). 
+
+Track list:
+
+1. Intro
+2. spiders (kidsmoke)
+3. i'm always in love
+4. remember the mountain bed
+5. bob dylan's 49th beard
+6. jesus, etc.
+7. one by one
+8. everlasting everything
+9. solitaire
+10. Jeff talking
+11. someday, some morning, sometime
+12. Jeff talking
+13. the ruling class
+14. Jeff talking
+15. wait up
+16. Jeff talking
+17. muzzle of bees
+18. Jeff talking
+19. in a future age
+20. Jeff talking
+21. forget the flowers
+22. Jeff talking
+23. california stars
+
+encore 1
+24. Jeff talking
+25. shot in the arm
+26. Jeff talking
+27. via chicago
+28. fake plastic trees
+
+encore 2
+29. wilco
+30. Jeff talking
+31. heavy metal drummer
+32. casino queen
+33. i'm the man who loves you
+
+encore 3 (no mics, no amps)
+34. dreamer in my dreams
+35. Jeff talking
+36. acuff rose

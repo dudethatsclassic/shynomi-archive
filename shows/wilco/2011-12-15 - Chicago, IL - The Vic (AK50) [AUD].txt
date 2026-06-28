@@ -1,32 +1,49 @@
-wilco2011-12-15ak50d01t01.16bit.flac:f440ea839b31a8e1bf0475ec69d8988d
-wilco2011-12-15ak50d01t02.16bit.flac:44d288f0c0120c1a101f7a4728a7ec01
-wilco2011-12-15ak50d01t03.16bit.flac:2c5e09202ae2722defd117a4a08bf0d0
-wilco2011-12-15ak50d01t04.16bit.flac:3c2e3ca2b7822e27379c3ce2b9af6c5b
-wilco2011-12-15ak50d01t05.16bit.flac:069e364919c19a5f5d8e197f193950a8
-wilco2011-12-15ak50d01t06.16bit.flac:a8939273bf170a5730365bb593d42bc2
-wilco2011-12-15ak50d01t07.16bit.flac:0cca1a5741af66f0f1b8b6d4e3d74c57
-wilco2011-12-15ak50d01t08.16bit.flac:8670830bf1d226909ce9df342e773602
-wilco2011-12-15ak50d01t09.16bit.flac:a4a469b72878b607165babda8ab47883
-wilco2011-12-15ak50d01t10.16bit.flac:1ce460a6b71281020d0a6c4b7408ffbe
-wilco2011-12-15ak50d01t11.16bit.flac:f6ac67647b6b2f57d4ac7edd4e265fab
-wilco2011-12-15ak50d01t12.16bit.flac:ccc8c99482d5b00417cdd4bb6a2c66fd
-wilco2011-12-15ak50d01t13.16bit.flac:fe8474f5d1b93a939189f60eac73f0cc
-wilco2011-12-15ak50d01t14.16bit.flac:d1acb5a67be392e7754cbaa22e4aeae9
-wilco2011-12-15ak50d01t15.16bit.flac:fbc7785223eaab2c0faa078682a7c1d3
-wilco2011-12-15ak50d01t16.16bit.flac:6810c513edb07a5d8b0d94d8d4559d51
-wilco2011-12-15ak50d02t01.16bit.flac:290b146f52e0da6611122e6e3924c97c
-wilco2011-12-15ak50d02t02.16bit.flac:fc3310e98f1918d411d067c79bef2088
-wilco2011-12-15ak50d02t03.16bit.flac:ee03b0c4edd47799dcb834d73e71a2c1
-wilco2011-12-15ak50d02t04.16bit.flac:3e9b0f337afa3ddb052e53fb9632674a
-wilco2011-12-15ak50d02t05.16bit.flac:b0fa1252b175b9dade3fb1f3178defe6
-wilco2011-12-15ak50d02t06.16bit.flac:1f661fc70eb7280c0ca57ae1ba83a060
-wilco2011-12-15ak50d02t07.16bit.flac:99dce2773ed4bd9e6f6f0070b268938a
-wilco2011-12-15ak50d02t08.16bit.flac:36dd87e17ac75f0b196878c299bc4738
-wilco2011-12-15ak50d02t09.16bit.flac:eea321386ef629114d6acd57171f8392
-wilco2011-12-15ak50d02t10.16bit.flac:d9e7f59649ef3ea569bffbef1c95b371
-wilco2011-12-15ak50d02t11.16bit.flac:efa9beb16dfa9d674f159165c2a82324
-wilco2011-12-15ak50d02t12.16bit.flac:b81f6f9459a8b14fa4344282032a33fa
+Wilco
+12-15-2011
+Vic Theater
+Chicago, IL
 
-Checksum file saved to disk.
+Source:  Neumann Ak50(DINa)>LC3KA>KM100>Naiant Little Box>Edirol R-44(24/48)
+Location:  FOB, DFC, 2nd drink rail, 6.5' high
+Info:  SDHC>PC>Wave Lab 6.0 (fades, levels)>CD Wave 1.98 (tracks)>Wave Lab 6.0 (conversion)>TLH (level 8)
+Recorded by:  Rob O'Brien
 
-No errors occured.
+~16 Bit File Set~
+
+Disc 1:
+01.  One Sunday Morning>
+02.  Hell Is Chrome
+03.  Art Of Almost
+04.  I Might
+05.  Muzzle Of Bees
+06.  Hotel Arizona
+07.  Radio Cure
+08.  Born Alone
+09.  At Least That's What You Said
+10.  Rising Red Lung
+11.  Say You Miss Me
+12.  Wilco (The Song)
+13.  Capitol City
+14.  Hesitating Beauty
+15.  Summerteeth
+16.  Standing O
+
+Disc 2:
+01.  A Magazine Called Sunset
+02.  Nothing'severgonnastandinmyway(again)
+03.  Dawned On Me
+
+Encore:
+04.  Whole Love
+05.  Hate It Here
+06.  You Never Know
+07.  Theologians
+08.  Casino Queen
+09.  Kicking Television
+
+Encore 2:
+10.  Hoodoo Voodoo*>
+11.  Outtasite (Outta Mind)
+12.  The Lonely 1 
+
+* w/Guitar-Keyboard Tech Josh on cowbell

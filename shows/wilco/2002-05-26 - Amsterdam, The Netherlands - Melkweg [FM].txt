@@ -1,6 +1,14 @@
-wilco2002-05-26_FM_t01.flac:8d0bc201a231c758fa075e7cb4806c92
-wilco2002-05-26_FM_t02.flac:046cd7a252926d92fc11df617dbe4a87
-wilco2002-05-26_FM_t03.flac:ff00a79c5a4d065f7b18524b4033ca10
-wilco2002-05-26_FM_t04.flac:f26a9af8a29da8e8674677ed94d587f3
-wilco2002-05-26_FM_t05.flac:687607713294d13d0b08f9debbcecf43
-wilco2002-05-26_FM_t06.flac:b7ceefda11462cef1c6cb9c716c4149e
+Wilco
+May 26, 2002
+Melkweg
+Amsterdam, Netherlands
+
+FM > HD > CD > EAC > Soundforge 6.0 > FLAC
+
+
+01 I'm The Man Who Loves You
+02 Radio Cure
+03 A Shot In The Arm
+04 Ashes Of American Flags
+05 Reservations
+06 Jesus, Etc.

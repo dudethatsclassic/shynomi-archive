@@ -1,29 +1,56 @@
-wilco 2007-09-02 d1t01.flac:58e39bb43efa89135ea2ed361721fbe8
-wilco 2007-09-02 d1t02.flac:4fd87760b801d784990de8e1fbf4a669
-wilco 2007-09-02 d1t03.flac:125f7defb110d3c75c96ea840114ba3b
-wilco 2007-09-02 d1t04.flac:5e82b6981d7856a452bd797059cd9912
-wilco 2007-09-02 d1t05.flac:70474d58f9ae6ee99ec71a5e2539eb40
-wilco 2007-09-02 d1t06.flac:7fbc797c3f1808db06e7dd5066bce4c5
-wilco 2007-09-02 d1t07.flac:a8d8c263e8f734d709189ca17358f7c5
-wilco 2007-09-02 d1t08.flac:b93e68022b5f9947b939042c77c0871c
-wilco 2007-09-02 d1t09.flac:4805c0bc201a200110fa89188c6f6732
-wilco 2007-09-02 d1t10.flac:3caffbb17b7fa4465a724e89a942324f
-wilco 2007-09-02 d1t11.flac:912e556ed5b95c1f47add6fab160485b
-wilco 2007-09-02 d1t12.flac:d7353feb12aa2ba302b7b231a1a8ce76
-wilco 2007-09-02 d1t13.flac:1cb9dd4e14daba098ac71c402962aef7
-wilco 2007-09-02 d1t14.flac:668373531669c2a2eb932edd1dc7f677
-wilco 2007-09-02 d1t15.flac:014ad3f56915b26e5732da7f29b071a5
-wilco 2007-09-02 d2t01.flac:014636ce3c93fe4073a9fd6bc4961462
-wilco 2007-09-02 d2t02.flac:8767d437c8377fcb5d946511b8af2c4a
-wilco 2007-09-02 d2t03.flac:a3f4a5ba69ef0a3619f045d563f77f76
-wilco 2007-09-02 d2t04.flac:fe9f4f8161e24f8d77e245af0bd1126b
-wilco 2007-09-02 d2t05.flac:b3081e473e641c2b2b0d630c85cc3b3f
-wilco 2007-09-02 d2t06.flac:c3d6e5274c60d31d60b51bafa8bd2756
-wilco 2007-09-02 d2t07.flac:56d25ebabbe38bb474215125c8f0d890
-wilco 2007-09-02 d2t08.flac:73b98d32758c567bf0deeb943d2658b3
-wilco 2007-09-02 d2t09.flac:48c86061b1abacc03f7123031292e4b0
-wilco 2007-09-02 d2t10.flac:d2d6c527e322ff29ee08008b6380eca1
-wilco 2007-09-02 d2t11.flac:6d9c59113488570e0f8aae917a360ec3
-wilco 2007-09-02 d2t12.flac:82e72b616b06bb818492725f93d4aaf9
-wilco 2007-09-02 d2t13.flac:8f9c6d34467f7b0d77ad885c69d08aa2
-wilco 2007-09-02 d2t14.flac:93d45dcca300214f791bcec2e6c8845c
+Wilco
+09-02-2007
+The Fillmore Auditorium
+Denver, CO
+
+taped and transfered by jeromejello [@yahoo.com]
+
+Source: AT853a (c) > SD MP-2 > ihp120
+hrtf#, dfc, ots
+Transfer: ihp120 > usb2 > SF 7.0* > cdwav > flac
+
+released into the wild: 09-05-07
+
+one set only
+
+Disc 1
+01. intro					[00:50.00]
+02. Sunken Treasure				[07:55.00]
+03. Side With the Seeds				[05:01.00]
+04. You Are My Face				[04:45.00]
+05. I am Trying to Break Your Heart		[06:21.00]
+06. Forget the Flowers				[03:25.00]
+07. Handshake Drugs				[06:28.00]
+08. Impossible Germany 				[06:14.00]
+09. Sky Blue Sky				[03:53.00]
+10. Company In My Back				[03:52.00]
+11. A Shot In The Arm				[04:54.00]
+12. banter - opening band			[01:30.00]
+13. Jesus, etc.					[04:08.00]
+14. Too Far Apart				[03:58.00]
+15. banter - B.M.				[00:47.00]
+
+Total Disc 1:					[64:01.00]
+
+Disc 2
+01. Theologians					[03:51.00]
+02. Walken					[04:45.00]
+03. I'm the Man Who Loves You			[03:51.00]
+04. encore 1 (crowd)				[02:07.00]
+05. What Light					[03:52.00]
+06. Hesitating Beauty				[03:34.00]
+07. California Stars				[05:01.00]
+08. Poor Places	>				[05:31.00]
+09. Reservations				[03:43.00]
+10. encore 2 (crowd)				[01:50.00]
+11. The Late Greats				[02:53.00]
+12. Red-Eyed And Blue >				[02:33.00]
+13. I Got You (At The End Of The Century)	[03:59.00]
+14. Spiders (Kidsmoke)				[14:29.00]
+
+Total Disc 2:					[61:59.00]
+
+
+~ show notes ~
+# - mics mounted in croakies, stealth stylee.
+* - both channels normalized to -0.1dB.

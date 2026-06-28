@@ -1,28 +1,41 @@
-wilco2010-04-23uem81t01.flac:b2395d3852230540824895971469dc05
-wilco2010-04-23uem81t02.flac:d2987abae93f7badaf4cbc022c1fd6c5
-wilco2010-04-23uem81t03.flac:0d4286b86ace4321135af8fd11ed701e
-wilco2010-04-23uem81t04.flac:52bd35defa96b1f978ea18bed2bf192b
-wilco2010-04-23uem81t05.flac:fe88aef990fdb399d8c00ceb3928b983
-wilco2010-04-23uem81t06.flac:d87dc2933eef36d5e90c3e0cba9ac9ef
-wilco2010-04-23uem81t07.flac:179d3f40ed1dce7da8ff8366a87c6e63
-wilco2010-04-23uem81t08.flac:42fe5a2dae30d12696ace7ba4df7958d
-wilco2010-04-23uem81t09.flac:9aced09d10c552a453e826dfa6c92a69
-wilco2010-04-23uem81t10.flac:bb6a3ce23d667ac4d31ed7157a17b7d6
-wilco2010-04-23uem81t11.flac:4c991ab15b55a91266f8cd43984e796f
-wilco2010-04-23uem81t12.flac:16f11d8c6929a2e45257d235586d76eb
-wilco2010-04-23uem81t13.flac:0e3e0b60bfb05ed58df8ac4e0fb6c5c2
-wilco2010-04-23uem81t14.flac:04cde97bd066b5d24ab94ec230750b57
-wilco2010-04-23uem81t15.flac:f4944fecb30f58e8f6ba0a96236d4b29
-wilco2010-04-23uem81t16.flac:f5eb3575b548ce21ff41ebedf33e0fd8
-wilco2010-04-23uem81t17.flac:d28561388067aa5c3dde65b18dfcd6f8
-wilco2010-04-23uem81t18.flac:bbb3ca0ef7e9493ae04b70fa8e895939
-wilco2010-04-23uem81t19.flac:6e9a7ef0c8d7247ade7b20ed2ed769bf
-wilco2010-04-23uem81t20.flac:0769bad693923f6a990344cc741044ac
-wilco2010-04-23uem81t21.flac:d420b8fd39416825bd567dc1714e1f11
-wilco2010-04-23uem81t22.flac:5a204223e647cc5612d00d4ab6d08006
-wilco2010-04-23uem81t23.flac:8f313529005a3e56ce8a40f22ded93e4
-wilco2010-04-23uem81t24.flac:05922dbafdc3b4756e6b733f63dea192
-wilco2010-04-23uem81t25.flac:e0ce14c20a0e2c09a0f3f10d4ea49900
-wilco2010-04-23uem81t26.flac:8bdc9478956768090d64fe6208f75031
-wilco2010-04-23uem81t27.flac:099576338fd97c4c05827a4cdeffcf14
-wilco2010-04-23uem81t28.flac:2b338f48ec5c11724005f4fdcb2117eb
+Wilco
+Zepp Tokyo, Kotoku, Tokyo, Japan
+2010-04-23
+
+
+01.intro
+02.Wilco (The Song)
+03.Bull Black Nova 
+04.You Are My Face
+05.I Am Trying To Break Your Heart 
+06.One Wing
+07.Shot In The Arm
+08.At Least That's What You Said
+09.Radio Cure
+10.Muzzle Of Bees
+11.Deeper Down
+12.Handshake Drugs
+13.Impossible Germany
+14.Via Chicago
+15.Poor Places
+16.Reservations
+17.Spiders(Kidsmoke)
+18.Hummingbird
+19.Jesus, Etc.
+20.You Never Know
+21.I'm Always In Love
+22.Heavy Metal Drummer
+23.Hate It Here
+24.Walken
+25.I'm The Man Who Loves You
+26.crowd
+Encore
+27.The Late Greats
+28.I'm A Wheel
+
+
+
+Source: UEM-81>Attenuator -20dB>MixPre>PCM-M10(48kHz 24bit)
+Lineage: PC>Sound Forge 9.0>Wav(44.1kHz 16bit)>CD Wave Editor(tracking) >Flac(Level8)
+Taped by: Koji 
+Transferred by: Koji

@@ -27,7 +27,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Astoria",
-      "notes": "Sony ECM-TS125 · unk",
+      "notes": "Sony ECM-TS125 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-02-05 - London, UK - Astoria (Sony ECM-TS125) (unk) [AUD].txt"
@@ -41,7 +41,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Villiers Theatre",
-      "notes": "Sony ECM-TS125 · unk",
+      "notes": "Sony ECM-TS125 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-02-05 - London, UK - Villiers Theatre (Sony ECM-TS125) (unk) [AUD].txt"
@@ -83,7 +83,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Leeds, UK",
       "venue": "The Metropolitan University",
-      "notes": "Sony ECM-TS125 · unk",
+      "notes": "Sony ECM-TS125 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-04-24 - Leeds, UK - The Metropolitan University (Sony ECM-TS125) (unk) [AUD].txt"
@@ -153,7 +153,7 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Belfast, Ireland",
       "venue": "The Ulster Hall",
-      "notes": "AT831b · johnky",
+      "notes": "AT831b \u00b7 johnky",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-08-28 - Belfast, Ireland - The Ulster Hall (AT831b) (johnky) [AUD].txt"
@@ -167,7 +167,7 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Grafton St.",
-      "notes": "HMV · AT831b · johnky",
+      "notes": "HMV \u00b7 AT831b \u00b7 johnky",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-08-29 - Dublin, Ireland - Grafton St. - HMV In-store Session (AT831b) (johnky) [AUD].txt"
@@ -181,7 +181,7 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "The Olympia Theatre",
-      "notes": "AT831b · johnky",
+      "notes": "AT831b \u00b7 johnky",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-08-29 - Dublin, Ireland - The Olympia Theatre (AT831b) (johnky) [AUD].txt"
@@ -251,7 +251,7 @@ const ARTIST_DATA = {
       "state": "Norway",
       "location": "Oslo, Norway",
       "venue": "Sentrum Scene",
-      "notes": "Sharp IM-DR420H · unk",
+      "notes": "Sharp IM-DR420H \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-05-27 - Oslo, Norway - Sentrum Scene (Sharp IM-DR420H) (unk) [AUD].txt"
@@ -293,7 +293,7 @@ const ARTIST_DATA = {
       "state": "WS",
       "location": "Seattle, WS",
       "venue": "Moore Theatre",
-      "notes": "AT 853 · b.c.",
+      "notes": "AT 853 \u00b7 b.c.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-09-10 - Seattle, WA - The Moore Theater (AT 853) (b.c.) [AUD].txt"
@@ -349,7 +349,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "BBC Radio Theatre",
-      "notes": "Broadcasting · Radio 2 In Concert",
+      "notes": "Broadcasting \u00b7 Radio 2 In Concert",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2012-05-07 - London, England - BBC Radio Theatre, Broadcasting House (Radio 2 In Concert) [FM].txt"
@@ -377,7 +377,7 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "Paris, FR",
       "venue": "L'Olympia",
-      "notes": "WSMA-889 + SP-CMC-4 · julien",
+      "notes": "WSMA-889 + SP-CMC-4 \u00b7 julien",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2012-10-17 - Paris, FR - L'Olympia (WSMA-889 + SP-CMC-4) (julien) [MIX].txt"
@@ -419,7 +419,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "BBC Radio 2 Studio",
-      "notes": "Broadcasting · The Dermot O'Leary Show",
+      "notes": "Broadcasting \u00b7 The Dermot O'Leary Show",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2019-10-12 - London, England - BBC Radio 2 Studio - Broadcasting House (The Dermot O'Leary Show) [FM].txt"
@@ -447,7 +447,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "O2 Shepherd's Bush Empire",
-      "notes": "MT350s · pietaker",
+      "notes": "MT350s \u00b7 pietaker",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-02-20 - London, UK - O2 Shepherd's Bush Empire (MT350s) (pietaker) [AUD].txt"
@@ -461,7 +461,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Shepherd's Bush Empire",
-      "notes": "MT350s · pietaker · abby taper remaster",
+      "notes": "MT350s \u00b7 pietaker \u00b7 abby taper remaster",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-02-20 - London, UK - Shepherd's Bush Empire (MT350s) (pietaker) (abby taper remaster) [AUD].txt"
@@ -475,10 +475,10 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "AFAS Live",
-      "notes": "DPA 4061 · one8ung",
+      "notes": "DPA 4061 \u00b7 one8ung",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-04-19 - Amsterdam, The Netherlands - AFAS Live (Schoeps MK41s) (grigio) [AUD].txt"
+      "textFile": "2024-04-19 - Amsterdam, The Netherlands - AFAS Live (DPA 4061) (one8ung) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -489,7 +489,7 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "AFAS Live",
-      "notes": "Schoeps MK41s · grigio",
+      "notes": "Schoeps MK41s \u00b7 grigio",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-04-19 - Amsterdam, The Netherlands - AFAS Live (Schoeps MK41s) (grigio) [AUD].txt"
@@ -503,7 +503,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Palladium",
-      "notes": "AT-853s · pietaker",
+      "notes": "AT-853s \u00b7 pietaker",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-04-21 - Cologne, Germany - Palladium (AT-853s) (pietaker) [AUD24].txt"
@@ -517,7 +517,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "L'Olympia",
-      "notes": "AT-853s · pietaker",
+      "notes": "AT-853s \u00b7 pietaker",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-04-26 - Paris, France - L'Olympia (AT-853s) (pietaker) [AUD24].txt"
@@ -531,7 +531,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Leeds, UK",
       "venue": "First Direct Arena",
-      "notes": "Tascam DR-2D · unk",
+      "notes": "Tascam DR-2D \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-05-03 - Leeds, UK - First Direct Arena (Tascam DR-2D) (unk) [AUD].txt"
@@ -545,7 +545,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "Utilita Arena",
-      "notes": "Zoom H2n · trickymicky",
+      "notes": "Zoom H2n \u00b7 trickymicky",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-05-04 - Birmingham, UK - Utilita Arena (Zoom H2n) (trickymicky) [AUD].txt"
@@ -559,7 +559,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The 02 Arena,",
-      "notes": "CA-11 · markeano",
+      "notes": "CA-11 \u00b7 markeano",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-05-11 - London, UK - The 02 Arena,  (CA-11) (markeano) [AUD].txt"
@@ -573,7 +573,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "02 Arena",
-      "notes": "Tascam DR-2d · CA-11c · IEM · one8ung + markeano",
+      "notes": "Tascam DR-2d \u00b7 CA-11c \u00b7 IEM \u00b7 one8ung + markeano",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2024-05-11 - London, UK - 02 Arena (Tascam DR-2d) (CA-11c) (IEM) (one8ung + markeano) [MIX].txt"
@@ -615,10 +615,10 @@ const ARTIST_DATA = {
       "state": "BE",
       "location": "Nieuwpoort, BE",
       "venue": "Beach Festival",
-      "notes": "Rec · AT853 · pietaker",
+      "notes": "Rec \u00b7 AT853 \u00b7 pietaker",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2024-07-20 - Nieuwpoort, BE - Beach Festival - Rec 2 (AT831) (pietaker) [AUD].txt"
+      "textFile": "2024-07-20 - Nieuwpoort, BE - Beach Festival - Rec 1 (AT853) (pietaker) [AUD].txt"
     },
     {
       "year": 2024,
@@ -629,7 +629,7 @@ const ARTIST_DATA = {
       "state": "BE",
       "location": "Nieuwpoort, BE",
       "venue": "Beach Festival",
-      "notes": "Rec · AT831 · pietaker",
+      "notes": "Rec \u00b7 AT831 \u00b7 pietaker",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-07-20 - Nieuwpoort, BE - Beach Festival - Rec 2 (AT831) (pietaker) [AUD].txt"
@@ -643,7 +643,7 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Nieuwpoort, Belgium",
       "venue": "Maritiem Park",
-      "notes": "AT853+AT831 · pieteker",
+      "notes": "AT853+AT831 \u00b7 pieteker",
       "version": "MIX",
       "format": "FLAC 24",
       "textFile": "2024-07-20 - Nieuwpoort, Belgium - Maritiem Park (AT853+AT831) (pieteker) [MIX24].txt"

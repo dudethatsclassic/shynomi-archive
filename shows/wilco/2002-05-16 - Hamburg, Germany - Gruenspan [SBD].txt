@@ -1,23 +1,36 @@
-wilco2002-05-16_SBD_d1t01.flac:f6a9861a5def676c4c6dfe37b2a23522
-wilco2002-05-16_SBD_d1t02.flac:d0be1f59bf8701b213325fe1b28f8e46
-wilco2002-05-16_SBD_d1t03.flac:cc0eea7616c02913ef06d965d5c39961
-wilco2002-05-16_SBD_d1t04.flac:fc88db17d59ca5cdabc92c1278a95e96
-wilco2002-05-16_SBD_d1t05.flac:5a86f6bb6af50d28d59d9d5d7daaa032
-wilco2002-05-16_SBD_d1t06.flac:87d8753b3c8b9487a4dc811808759093
-wilco2002-05-16_SBD_d1t07.flac:123ef078d5a3730a9f593d2c91975afc
-wilco2002-05-16_SBD_d1t08.flac:3016881d557a17e6e010e4c9e203e77e
-wilco2002-05-16_SBD_d1t09.flac:cf4c7cb691949c36335b5e3181ede9bb
-wilco2002-05-16_SBD_d1t10.flac:c31db6024d5d970dc7b04202ffc9ff83
-wilco2002-05-16_SBD_d1t11.flac:70fc02ddca845508076e4cae1f74e0f7
-wilco2002-05-16_SBD_d1t12.flac:76e56926ca14a314bf9f4f1790542cce
-wilco2002-05-16_SBD_d1t13.flac:01d56d95a49dc6f6a161ed612c59b144
-wilco2002-05-16_SBD_d1t14.flac:39dbbbb69bef4570e45a80ae2c7d1268
-wilco2002-05-16_SBD_d1t15.flac:2e2d0063d4ad7c1256a778550b936419
-wilco2002-05-16_SBD_d2t01.flac:ba59bed12d91fc6a61b845edc9eff92a
-wilco2002-05-16_SBD_d2t02.flac:3a9b9d98a34b4d0e8e7708d68e35ffe2
-wilco2002-05-16_SBD_d2t03.flac:df5a13a9c5cf71bf0ff1b4027bc075bf
-wilco2002-05-16_SBD_d2t04.flac:af9293287ec05050741ed7dc0babf8c8
-wilco2002-05-16_SBD_d2t05.flac:dfff5e8ac546b4a29133daa20a57a01d
-wilco2002-05-16_SBD_d2t06.flac:c612a5ad1570599d783c8e3c36fee480
-wilco2002-05-16_SBD_d2t07.flac:8429587abb4ddcfccaa07eb603c6d36c
-wilco2002-05-16_SBD_d2t08.flac:04fcba02f2bcffcbaa01373776b01ecd
+Wilco
+May 16, 2002
+Grünspan
+Hamburg, Germany
+
+DSBD > ? > CD > EAC > Soundforge 6.0 > FLAC
+
+
+Disc 1
+
+01 Intro
+02 Spiders (Kidsmoke)
+03 I Am Trying To Break Your Heart
+04 War On War
+05 Kamera
+06 Radio Cure
+07 A Shot In The Arm
+08 She's A Jar
+09 Ashes Of American Flags
+10 Can't Stand It
+11 Pot Kettle Black
+12 Heavy Metal Drummer
+13 How To Fight Loneliness
+14 I'm The Man Who Loves You
+15 Not For The Season [end incomplete, patched with AUD source, crossfade starts @4:38]
+
+Disc 2
+
+01 Reservations [start incomplete]
+02 Jesus, Etc.
+03 Hesitating Beauty
+04 California Stars
+05 Monday
+06 Red-Eyed And Blue
+07 I Got You (At The End Of The Century)
+08 Outtasite (Outta Mind)

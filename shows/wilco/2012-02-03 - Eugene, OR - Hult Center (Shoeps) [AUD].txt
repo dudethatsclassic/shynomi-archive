@@ -1,23 +1,33 @@
-wilco2012-02-03-mk4-t01.flac:a9a1451e21152bd5619a260a57eb04e8
-wilco2012-02-03-mk4-t02.flac:acc3aeb6d8d3ebfc8b664071ffc27515
-wilco2012-02-03-mk4-t03.flac:d4aa1240346b42754fb0307f0288b83d
-wilco2012-02-03-mk4-t04.flac:54e87f25948ea41023e8d87ae8097b88
-wilco2012-02-03-mk4-t05.flac:339929608fcf1b90516954d411959586
-wilco2012-02-03-mk4-t06.flac:492339450c2959952a411bf79b52bc0d
-wilco2012-02-03-mk4-t07.flac:3f7356104e92d33d48fcdfaed0acaa11
-wilco2012-02-03-mk4-t08.flac:2b2ceb8c887dc5de025bf09fd128436b
-wilco2012-02-03-mk4-t09.flac:b45020bae5a24a4887262a6846fe671b
-wilco2012-02-03-mk4-t10.flac:c4b334ba394da44ac5bbe11b29b3e3a4
-wilco2012-02-03-mk4-t11.flac:d75e51939268713790c0e33a067488f4
-wilco2012-02-03-mk4-t12.flac:671fdbade1cc511d50abfb6e497d0e80
-wilco2012-02-03-mk4-t13.flac:9d2346f1682e4d8002edc5a65e82574b
-wilco2012-02-03-mk4-t14.flac:04f16e36113dc1b1d80b37cf94901e82
-wilco2012-02-03-mk4-t15.flac:c95a0823c5e32ab7e9f3ab91767f59e0
-wilco2012-02-03-mk4-t16.flac:d59b04d380046d4038980dc9791c53d1
-wilco2012-02-03-mk4-t17.flac:c0b7637a1b2b6247316d1eb34d662276
-wilco2012-02-03-mk4-t18.flac:e8e29b6f1a64fc2a6d3d945eb314e25e
-wilco2012-02-03-mk4-t19.flac:f634c136ee8cc9f0a2afdd5b7b66c82e
-wilco2012-02-03-mk4-t20.flac:c1c13ca614c2b7ae1ec25c99641b9bf3
-wilco2012-02-03-mk4-t21.flac:c8014e14f51220c358b645dd2c5cf151
-wilco2012-02-03-mk4-t22.flac:e1ce90a22b32003e4a3b001c5039cb97
-wilco2012-02-03-mk4-t23.flac:72f7d426dc01c47f971f2ff0f0b669b7
+Wilco
+February 3, 2012
+Hult Center, Eugene OR
+
+01 Some Sunday Morning
+02 Poor Places
+03 Art of Almost
+04 I Might
+05 I Am Trying To Break Your Heart
+06 One Wing
+07 Company In My Back
+08 Spiders (Kidsmoke)
+09 Born Alone
+10 You Are My Face
+11 Impossible Germany
+12 Handshake Drugs
+13 California Stars
+14 I'm The Man Who Loves You
+15 Standing O
+16 Misunderstood
+17 Dawned On Me
+18 Hummingbird
+19 A Shot In The Arm
+20 Whole Love
+21 Hate It Here
+22 The Late Greats
+23 Heavy Metal Drummer
+
+Source: Schoeps MK4/CMC6 > Grace Design Lunatec V2 > Apogee Mini-Me (24/48) > Tascam HD-P2
+Transfer: SF8 (volume/fades) > WaveLab (resample/UV22HR) CD WAVE > FLAC
+notes: DIN 16th row left side Van den Hul Integration Hybrid mic cables/VdH Orchid ic cables/VdH 1st Ultimate digital cable
+Thanks to Nigel-Tufnel for the setlist
+recorded & transferred by Dean Grabski (taperdean@gmail.com)

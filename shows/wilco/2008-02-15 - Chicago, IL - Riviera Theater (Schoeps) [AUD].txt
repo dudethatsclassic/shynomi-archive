@@ -1,34 +1,65 @@
-wilco2008-02-15t01.flac:a34f3a24edcc24934c86672f79da3b57
-wilco2008-02-15t02.flac:1591175a6140a3872179e76149e372ff
-wilco2008-02-15t03.flac:62a8d4d65f615d2781506b6204ce675c
-wilco2008-02-15t04.flac:c337ecf3f641518157d2fd698a90993f
-wilco2008-02-15t05.flac:9d9c90d71ad11c610e3138a37ea35264
-wilco2008-02-15t06.flac:04fb808e39725014fc2e3f22407000f7
-wilco2008-02-15t07.flac:d92160efaab5b08b940477ec24bf08de
-wilco2008-02-15t08.flac:25b1251186aa80806fbc5cd90ee3583b
-wilco2008-02-15t09.flac:136417f1884e05038b9bb08dac1a8427
-wilco2008-02-15t10.flac:9adead7b0c0525543019ce62bdf75a25
-wilco2008-02-15t11.flac:21c98b72619694e1f39ab64b79856c16
-wilco2008-02-15t12.flac:abec102ab0b4037015a95506bde44f94
-wilco2008-02-15t13.flac:64a3f24538c56e2e6ef780c0828d9217
-wilco2008-02-15t14.flac:3f4286c7439dd3813ca859f7cbbe44b1
-wilco2008-02-15t15.flac:b4ded0bef1b714b4d1f874771af59827
-wilco2008-02-15t16.flac:bf279cccfc75caff7c8d7b2679260ae3
-wilco2008-02-15t17.flac:7ab0c98695fa7d56981d0bc7edc03d02
-wilco2008-02-15t18.flac:e7375a9054ea0f77da71c624f4fac5fb
-wilco2008-02-15t19.flac:8e761b47a86cae36d54fa734506172bd
-wilco2008-02-15t20.flac:6914841306ef292901a952b8503a4b5d
-wilco2008-02-15t21.flac:eca745b859834005e6887a3572106204
-wilco2008-02-15t22.flac:be7cdaf88e6708b1b545f2fe6b24f843
-wilco2008-02-15t23.flac:4f9bb35238e41e5d719e749918d74233
-wilco2008-02-15t24.flac:df75cb127146f757537c559c25efd85e
-wilco2008-02-15t25.flac:67cbbfb858e910987eac89e6c15f44a1
-wilco2008-02-15t26.flac:7e8a39d1e2f73f97f7a7e1c23c56aa4f
-wilco2008-02-15t27.flac:02ea9e2daa5e7a6436b6b1c7efab1139
-wilco2008-02-15t28.flac:1ca5c8cc2c948e9e7427f25c3e06d2d4
-wilco2008-02-15t29.flac:3b2dd49f9b646f0242a7fae9ce1315eb
-wilco2008-02-15t30.flac:82fa2abe4ad748c98484a5c1e0b30579
-wilco2008-02-15t31.flac:a7a2689126f97ad9eab3fc9c11406e52
-wilco2008-02-15t32.flac:dfc894c9e57e5541b6e56eee21ed7f03
-wilco2008-02-15t33.flac:7f802b47a714625e0bac5423edb484c4
+Wilco
+2008-02-15
+Chicago, IL - Riviera Theatre
+
+http://www.wilcoworld.net
+
+w/ on some tracks:  The Total Pros Horns
+
+
+1ST SET
+
+01. Intro
+02. ELT
+03. Handshake Drugs
+04. Side With the Seeds
+05. You Are My Face
+06. I Am Trying to Break Your Heart
+07. Pot Kettle Black
+08. At Least That's What You Said
+09. What's the World Got in Store
+10. When the Roses Bloom Again
+11. Airline to Heaven
+12. Ashes of American Flags
+13. Either Way
+14. Jesus, Etc.
+15. Too Far Apart
+16. Can't Stand It
+17. Sunken Treasure
+18. Spiders (Kidsmoke)
+
+2ND SET
+
+19. < lead-in >
+20. Misunderstood
+21. Far, Far Away
+22. Why Would You Wanna Live
+23. Impossible Germany
+24. Sky Blue Sky
+25. Please Be Patient With Me
+26. Cars Can't Escape
+27. Hummingbird
+
+ENCORE
+
+28. Hate It Here
+29. Walken
+30. I'm the Man Who Loves You
+31. Heavy Metal Drummer
+32. Candyfloss
+33. Outtasite (Outta Mind)
+
+
+NOTES
+
+Recordist    : Brian Skalinder / bskalinder@yahoo.com
+Location     : ~3' RoC, ~40' back at first rail overlooking pit, ~6.5' stand
+Mic Config   : DINA, 17cm, 90º
+Source       : Schoeps MK5 (cardioid) > KC5 > CMC6 > Sound Devices 722
+Record Format: 24-bit, 48 kHz
+Conversion   : Sound Devices 722 > firewire > PC
+Edit         : MAGIX Samplitude SE v8.3 (gain adjustments, iZotope Ozone 3 Loudness Maximizer, mixdown, fades, resample, MBIT+ dither, tracking)
+Final Format : 16-bit, 44 kHz
+
+Thanks to the taping crew - Jerry, Chris, and especially Warner for the clamp space - and the surrounding, understanding crowd for accommodating my late entrance and making it easy to get set up shortly before the show started.  As always, thanks to the venue, crew, and band.
 

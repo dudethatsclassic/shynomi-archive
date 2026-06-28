@@ -218,7 +218,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "2 sources",
-      "textFile": "1999-03-02 - Chicago, IL - Lounge Ax [SBD].txt"
+      "textFile": "1999-03-02 - Chicago, IL - Lounge Ax (AKG 481) [AUD].txt"
     },
     {
       "year": 1999,
@@ -232,7 +232,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "3 sources",
-      "textFile": "1999-03-05 - Palatine, IL - Harper College [SBD].txt"
+      "textFile": "1999-03-05 - Palatine, IL - Harper College (AKG481) [AUD].txt"
     },
     {
       "year": 1999,
@@ -1336,7 +1336,7 @@ const ARTIST_DATA = {
       "notes": "Ann",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2009-01-30 - Ann Arbor, MI - Hill Auditorium - Ann Arbor Folk Festival (Zoom H4) [AUD].txt"
+      "textFile": "2009-01-30 - Ann Arbor, MI - Hill Auditorium - Ann Arbor Folk Festival (DPA4060) [AUD].txt"
     },
     {
       "year": 2009,
@@ -1350,7 +1350,7 @@ const ARTIST_DATA = {
       "notes": "University",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2009-01-31 - Urbana, IL - Foellinger Auditorium - University of Illinois (ME40) [AUD].txt"
+      "textFile": "2009-01-31 - Urbana, IL - Foellinger Auditorium - University of Illinois (CA-11) [AUD].txt"
     },
     {
       "year": 2009,
@@ -1490,7 +1490,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2010-12-08 - Charlottesville, VA - Paramount Theater (DPA 4022) [AUD].txt"
+      "textFile": "2010-12-08 - Charlottesville, VA - Paramount Theater (B&K4022) [AUD].txt"
     },
     {
       "year": 2011,
@@ -1518,7 +1518,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2011-03-26 - Portland, ME - State Theater (Zoom) [AUD].txt"
+      "textFile": "2011-03-26 - Portland, ME - State Theater (Naks 700) [AUD].txt"
     },
     {
       "year": 2011,
@@ -1560,7 +1560,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2011-04-15 - Chicago, IL - Vic Theatre (MK41) [AUD].txt"
+      "textFile": "2011-04-15 - Chicago, IL - Vic Theatre (Edirol R09) [AUD].txt"
     },
     {
       "year": 2011,
@@ -1574,7 +1574,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2011-04-16 - Chicago, IL - Vic Theatre (R09) [AUD].txt"
+      "textFile": "2011-04-16 - Chicago, IL - Vic Theatre (MK4) [AUD].txt"
     },
     {
       "year": 2011,
@@ -1616,7 +1616,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2012-03-30 - Chicago, IL - The Vic (Zoom QHD) [AUD].txt"
+      "textFile": "2012-03-30 - Chicago, IL - The Vic (CA-11) [AUD].txt"
     },
     {
       "year": 2012,
@@ -2949,8 +2949,7 @@ const ARTIST_DATA = {
       "venue": "Solid Sound Festival",
       "notes": "Jeff Tweedy \u00b7 Roadcase 104",
       "version": "SBD",
-      "format": "",
-      "textFile": "2024-06-30 - North Adams, MA - Joe's Field - Solid Sound Festival (2 sets of DPA 4061s) (km) [MIX24].txt"
+      "format": ""
     },
     {
       "year": 2024,
@@ -2963,7 +2962,8 @@ const ARTIST_DATA = {
       "venue": "Joe's Field",
       "notes": "Solid \u00b7 2 sets of DPA 4061s \u00b7 km",
       "version": "MIX",
-      "format": ""
+      "format": "",
+      "textFile": "2024-06-30 - North Adams, MA - Joe's Field - Solid Sound Festival (2 sets of DPA 4061s) (km) [MIX24].txt"
     },
     {
       "year": 2024,

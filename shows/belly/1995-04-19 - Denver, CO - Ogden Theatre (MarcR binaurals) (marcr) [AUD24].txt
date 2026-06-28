@@ -1,17 +1,29 @@
-Belly - Denver CO - 1995-04-19 - 01 - Dusted.flac:aa8502058c9b193a53290c2b08244239
-Belly - Denver CO - 1995-04-19 - 02 - Puberty.flac:b5c83c35f9192a369916658456d6ac0d
-Belly - Denver CO - 1995-04-19 - 03 - Super-Connected.flac:850858252d77c5ca3ae76f3aefd364f6
-Belly - Denver CO - 1995-04-19 - 04 - Untitled and Unsung.flac:c01a58dbcc78028ccba7db2c00336757
-Belly - Denver CO - 1995-04-19 - 05 - Full Moon, Empty Heart.flac:f55b4d29ffbc1e4809ba2a060ad20342
-Belly - Denver CO - 1995-04-19 - 06 - Angel.flac:4fb6e6d5bb1c59f9fe5583ef6b142a64
-Belly - Denver CO - 1995-04-19 - 07 - Judas My Heart.flac:39d6e222ed3d3f04af616f2cacaa64bf
-Belly - Denver CO - 1995-04-19 - 08 - Red.flac:4dfbe58b3acc5a42fb9875683f10a20d
-Belly - Denver CO - 1995-04-19 - 09 - Feed the Tree.flac:7e62f3b14560229a4d64989d1f44a717
-Belly - Denver CO - 1995-04-19 - 10 - King.flac:89de289b5ac44ae6620c87a9ba8c373c
-Belly - Denver CO - 1995-04-19 - 11 - Now They'll Sleep.flac:b48b84b72d35ccb05de804ad44bc4d5f
-Belly - Denver CO - 1995-04-19 - 12 - Seal My Fate.flac:430371ce2635e1c8925de940aa15aac5
-Belly - Denver CO - 1995-04-19 - 13 - Gepetto.flac:9c49bc412045cfc6add7ca9fbc944feb
-Belly - Denver CO - 1995-04-19 - 14 - - encore -.flac:9c422a4539b4ca4bd36eb1fa00fe10cf
-Belly - Denver CO - 1995-04-19 - 15 - Slow Dog.flac:59d04d5ce8900882fa810e296df75c23
-Belly - Denver CO - 1995-04-19 - 16 - Thief.flac:739d6a567e3c89bfed5979c4463cba72
-Belly - Denver CO - 1995-04-19 - 17 - Lilith.flac:60bc9978d9e82f4f880ade8837bc58e0
+Belly
+
+Ogden Theatre
+Denver CO (USA)
+1995-04-19
+
+Recorded: MarcR
+Transferred and Presented: SxPxDxCx
+Source: MarcR binaural mics - D7 - DAT
+Transfer: DAT - D100 - Oade Digi I/O-A - DAC - AAE-9 - Audition - CDWave - FLAC
+Time: (72:20)
+
+01 Dusted
+02 Puberty
+03 Super-Connected
+04 Untitled and Unsung
+05 Full Moon, Empty Heart
+06 Angel
+07 Judas My Heart
+08 Red
+09 Feed the Tree
+10 King
+11 Now They'll Sleep
+12 Seal My Fate
+13 Gepetto
+14 - encore -
+15 Slow Dog
+16 Thief
+17 Lilith

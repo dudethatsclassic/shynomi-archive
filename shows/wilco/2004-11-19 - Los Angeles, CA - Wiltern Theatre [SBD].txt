@@ -1,25 +1,40 @@
-wilco2004-11-19d1t14.flac:e97ef5a4c144396ed51e90de8b2f8f68
-wilco2004-11-19d1t02.flac:c88ea1dbe2b25dc43110c8c91a11ecfe
-wilco2004-11-19d1t03.flac:d7bf0346d81d751c398a5041a478b19c
-wilco2004-11-19d1t04.flac:e6185693203c9f549cc20eb62a1ed4ba
-wilco2004-11-19d1t05.flac:85cf6e9e65c253331523ae15abda955c
-wilco2004-11-19d1t06.flac:d071af44719758b1d3f20c4a2e1783db
-wilco2004-11-19d1t07.flac:9d4452b69433b690d3857c4b6979b16f
-wilco2004-11-19d1t08.flac:c70136ee9114beb2ecb8ad7d803e7f09
-wilco2004-11-19d1t09.flac:2b4596832232dae711d71adaf2af790a
-wilco2004-11-19d1t10.flac:f766725154de19baa1bfc0edaff3e09c
-wilco2004-11-19d1t11.flac:4fa7554e36d193955e949f7559b3c383
-wilco2004-11-19d1t12.flac:0aadbd7cfce1f91ec7622b4da92ed114
-wilco2004-11-19d1t13.flac:c6fc4880662572d7c4fb6dd7a18027ab
-wilco2004-11-19d1t01.flac:c8831448eae42fc4a5c184b5dc5c4ce9
-wilco2004-11-19d2t11.flac:4285f385c43ea0348c1a8b99acfd3330
-wilco2004-11-19d2t02.flac:526162a3d456728622205c78b8350c84
-wilco2004-11-19d2t03.flac:737edd6c550aa06a2441a736e4d8c664
-wilco2004-11-19d2t04.flac:a53b67f98dbd0c5efa6aa8d0a34a2bb4
-wilco2004-11-19d2t05.flac:860e64831e1afd2d26b1ddba14b5cb87
-wilco2004-11-19d2t06.flac:d2d0abc76f2710179639d4c7c50c4581
-wilco2004-11-19d2t07.flac:6966a740c0ec9c1318106a758db47884
-wilco2004-11-19d2t08.flac:2f77cd1e4d21a56913b60dc9018b0c75
-wilco2004-11-19d2t09.flac:8f7b2569696222e0fce81719f9e1626c
-wilco2004-11-19d2t10.flac:715067f0a87a3f16ec6d32ce2fbf608f
-wilco2004-11-19d2t01.flac:e90a59f4920c420a527e89f03803093b
+Wilco
+2004-11-19
+The Wiltern Theatre
+Los Angeles, CA
+
+SBD>cdr>EAC>WAV>FLAC Frontend>flac (level 8)
+
+DISC 1
+1. The Late Greats
+2. Hummingbird
+3. Muzzle Of Bees
+4. Handshake Drugs
+5. I Am Trying To Break Your Heart
+6. Company In My Back
+7. A Shot In The Arm
+8. At Least That's What You Said
+9. Radio Cure
+10. War On War
+11. I'm Always In Love
+12. Jesus, Etc.
+13. Theologians
+14. I'm The Man Who Loves You
+
+DISC 2
+
+01. Kingpin
+02. I'm A Wheel
+
+Encore 1:
+03. Misunderstood
+04. Poor Places
+05. Less Than You Think
+06. Spiders (Kidsmoke)
+
+Encore 2:
+07. Cars Can't Escape
+08. One By One
+09. Another Man's Done Gone
+10. Passenger Side
+11. (Don't Fear) The Reaper

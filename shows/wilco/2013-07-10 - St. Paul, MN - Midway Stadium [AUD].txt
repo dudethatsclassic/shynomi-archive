@@ -1,18 +1,29 @@
-Wilco 2013-07-10 16bit t14.flac:f10349a3f83b193f98165f170dd091d1
-Wilco 2013-07-10 16bit t15.flac:0191672448ca4262d0bd876d10364b5d
-Wilco 2013-07-10 16bit t16.flac:d668715ee9a6679300e8345bb8c5ec90
-Wilco 2013-07-10 16bit t17.flac:5c8763bb649097f9bb5ee412867a3910
-Wilco 2013-07-10 16bit t18.flac:130e3aea193010252cccd18726840053
-Wilco 2013-07-10 16bit t01.flac:3f5504489e5b143e4b4d50523aaea939
-Wilco 2013-07-10 16bit t02.flac:245cdbf86eef7396962ddc51a5e28dcc
-Wilco 2013-07-10 16bit t03.flac:49e6cf4e96d3e862e6e62ef1a17a525d
-Wilco 2013-07-10 16bit t04.flac:ff5a8aa00019947945d4f1f404894eca
-Wilco 2013-07-10 16bit t05.flac:f8d415679d172ceef3077738f8d0cf10
-Wilco 2013-07-10 16bit t06.flac:8e89111d1779f995258129647199442f
-Wilco 2013-07-10 16bit t07.flac:df74634a20aa040f1fe715bc7aa02150
-Wilco 2013-07-10 16bit t08.flac:290cb34292be148571577fcd5c324fc8
-Wilco 2013-07-10 16bit t09.flac:6d4c57c994a9f15edbdc11d451a3c44d
-Wilco 2013-07-10 16bit t10.flac:d97a40b25683db32d702c6a6707c6e28
-Wilco 2013-07-10 16bit t11.flac:261251c4bf6fdb86c3658bcbddabeb07
-Wilco 2013-07-10 16bit t12.flac:0026175cb0aa3d2191b80d875e92e383
-Wilco 2013-07-10 16bit t13.flac:5b81437e6faff76304fc29dedbc2de70
+Wilco
+July 10, 2013
+Midway Stadium
+St. Paul, MN
+
+Source: Schoeps MK5's (c) > Nbox active cables > Naiant Tinybox v1.5 > Edirol R-05 @ 24/96. Recorded FOB/DFC.
+
+Transfer: SanDisk 16gb SDHC card > Dell PC > 24bit WAV > Sony Sound Forge 9.0e > CDWave Editor > Traders' Little Helper > FLAC16.
+
+Recorded and transferred by perks.
+
+1. Intro
+2. At My Window Sad and Lonely Play Video 
+3. Muzzle of Bees Play Video 
+4. New Madrid Play Video  
+5. Forget the Flowers Play Video 
+6. I Am Trying to Break Your Heart Play Video 
+7. It's Just That Simple Play Video 
+8. Impossible Germany Play Video 
+9. Born Alone Play Video 
+10. Laminated Cat Play Video  
+11. Wishful Thinking Play Video 
+12. Art of Almost Play Video 
+13. Hummingbird Play Video 
+14. Cinnamon Girl Play Video 
+15. Walken Play Video 
+16. I'm the Man Who Loves You Play Video 
+17. Hoodoo Voodoo Play Video 
+18. Outro

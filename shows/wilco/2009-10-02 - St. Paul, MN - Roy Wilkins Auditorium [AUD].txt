@@ -1,29 +1,49 @@
-Wilco 2009-10-02 d02t04.flac:79556439ba72edf2edbf13c5da3b9403
-Wilco 2009-10-02 d02t05.flac:644a6801a5b10d24b53ae608beb69a36
-Wilco 2009-10-02 d02t06.flac:3d2fca3832b79720aeccd3dfce9acf9f
-Wilco 2009-10-02 d02t07.flac:c59fcbf31cfe0489d6889ed5e8656c5d
-Wilco 2009-10-02 d02t08.flac:2287997fcce9787f191c67017562c1cc
-Wilco 2009-10-02 d02t09.flac:676b9f191b589aaa404fc2121e36577d
-Wilco 2009-10-02 d02t10.flac:02daf89cf988fef4f4fc708696963e71
-Wilco 2009-10-02 d02t11.flac:95322f69b6cd3637f9b4b0efcd2cc749
-Wilco 2009-10-02 d02t12.flac:848b8e82d0bb9413c18386b339b7dfc3
-Wilco 2009-10-02 d02t13.flac:2157583ef32fecad57a94000a34b9710
-Wilco 2009-10-02 d02t14.flac:58539e254b47ba4c9e10ef728d833f43
-Wilco 2009-10-02 d01t01.flac:80aaad8e88dfeb418fcef2c7296dd2b6
-Wilco 2009-10-02 d01t02.flac:6b1fb28d437f2a85b3d6697b827b52e4
-Wilco 2009-10-02 d01t03.flac:a419717ed68d28b63e7f026a204c0f57
-Wilco 2009-10-02 d01t04.flac:adaeca2547bac0c7609e3deedadc7eeb
-Wilco 2009-10-02 d01t05.flac:5dc48b5ba44ef644d6fc6085681523a9
-Wilco 2009-10-02 d01t06.flac:adac2a96f4ebae47cd30a34e995c8b11
-Wilco 2009-10-02 d01t07.flac:2f931852b7e3b4fa759bfa2cb2a0b68c
-Wilco 2009-10-02 d01t08.flac:f82ab113fc2ac6008b40f6ab1e6738ee
-Wilco 2009-10-02 d01t09.flac:df5cd5aa4052614cb0b46b76bbd6d8ca
-Wilco 2009-10-02 d01t10.flac:6c1d4abf60624c4a49f0e7c86859f5f8
-Wilco 2009-10-02 d01t11.flac:1f26eac74313dbfa397a99409148b136
-Wilco 2009-10-02 d01t12.flac:02947e89568e4d6134d9fe3aca515fea
-Wilco 2009-10-02 d01t13.flac:5adccf555fa03aa9bde18d0aad573d7b
-Wilco 2009-10-02 d01t14.flac:77d8a31563ba39922a05d7111e74ee47
-Wilco 2009-10-02 d01t15.flac:53f191604e4b8db8d724ec715342996f
-Wilco 2009-10-02 d02t01.flac:b6e3253171d086be31465a66d33a7975
-Wilco 2009-10-02 d02t02.flac:20676543a172393b7a007342d5dc877d
-Wilco 2009-10-02 d02t03.flac:62f2ed1c64d908d5765dde849482cbce
+Wilco
+October 2, 2009
+Roy Wilkins Auditorium
+St. Paul, MN
+
+Source: DPA 4061's > DPA MMA6000 > Edirol R-09HR @ 24/48.
+
+Transfer: Transcend 4GB SD card > USB > Dell PC > 24bit WAV > Soundforge 9.0e > 16bit WAV > CDWave Editor > FLAC.
+
+Recorded and transfered by perks.
+
+Disc One (73:49)
+
+1. Price Is Right Intro
+2. Wilco (the song)
+3. Shot In The Arm
+4. Bull Black Nova
+5. You Are My Face
+6. I Am Trying To Break Your Heart
+7. One Wing
+8. At Least That's What You Said
+9. Handshake Drugs
+10. Deeper Down
+11. Impossible Germany
+12. It's Just That Simple
+13. Sonny Feeling
+14. Can't Stand It
+15. Jesus, Etc.
+
+Disc Two (72:48)
+
+1. Via Chicago
+2. Spiders (Kidsmoke)
+3. Hummingbird
+4. ENCORE 1: The Late Greats
+5. You Never Know (w/Liam Finn)
+6. California Stars ( w/ Gary Louris & Liam Flinn)
+7. Heavy Metal Drummer
+8. ENCORE 2: Theologians
+9. Hate It Here %
+10. % Hate It Here
+11. Walken
+12. I'm The Man Who Loves You
+13. Monday
+14. Hoodoo Voodoo 
+
+
+
+

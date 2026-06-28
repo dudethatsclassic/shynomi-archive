@@ -1,26 +1,46 @@
-wilco2009-06-18t01.flac:73b892e004032e05506b3852f1745bb5
-wilco2009-06-18t02.flac:3a1bba7a20f047dca7bc042703f34c6a
-wilco2009-06-18t03.flac:d85a960f19d9d7ddc0800b8f653fb470
-wilco2009-06-18t04.flac:7f4bc5077c19bb1139411f27ca6e4a8a
-wilco2009-06-18t05.flac:c70a2252a2f3e2ef94e40d3311563d58
-wilco2009-06-18t06.flac:e53d46aed05a924bb6283fa93aaea53e
-wilco2009-06-18t07.flac:cf16770c450de2e700cbd89409f413f7
-wilco2009-06-18t08.flac:eef1ba392ce8860c93424998ffd28d80
-wilco2009-06-18t09.flac:9c96cbcfff8a5308301d690ddd668293
-wilco2009-06-18t10.flac:9efa7c95f0056965c02c82b73204d06a
-wilco2009-06-18t11.flac:d2d1d9086790a69a2f0e676eda6f2ad5
-wilco2009-06-18t12.flac:46fa0fcec772a8038fe67f85b4df9d25
-wilco2009-06-18t13.flac:b98e337063e77eb93e895bc75bf012ec
-wilco2009-06-18t14.flac:4b7a5f08d7b17e6dfda2ac68fb0855ee
-wilco2009-06-18t15.flac:b33af187411f01178b6bd452a7705e68
-wilco2009-06-18t16.flac:f5e2ad40b3e5ca19d7da51fe1b77621c
-wilco2009-06-18t17.flac:f7d650dafe3bca0ee1cdfeca627be491
-wilco2009-06-18t18.flac:f63e43471962035d4b2126a924f49dc7
-wilco2009-06-18t19.flac:a90d9b578f659eff9da55af5844ed9e1
-wilco2009-06-18t20.flac:33d8ab788460da8aa9822e2cc50cd6c8
-wilco2009-06-18t21.flac:39d15230aa162e4566424ba5c64ed91f
-wilco2009-06-18t22.flac:3ecec544ab953fcfea75ebfa5768840c
-wilco2009-06-18t23.flac:6d8a3a094169e1a3ad7f4e33554275c3
-wilco2009-06-18t24.flac:2a548fe5dcdb718ca7e132018559693a
-wilco2009-06-18t25.flac:ded5c540d3de27bc8a3951158f22906d
-wilco2009-06-18t26.flac:969778ac1fced435f25f8f29bfa51e74
+Wilco
+Centennial Hall
+University of Arizona
+Tucson, AZ
+2009-06-18
+
+Source:  AKG ck3|a60m|c460b > Segue Dogstar XLRs > Fostex FR-2LE (24bit/44.1khz)
+Transfer:  CF Card > .bwf > Audacity (gain/fades/dither) > CDWav > .wav > .flac
+
+Location:  directly right of SBD cage, 8'ROC, ~85' from stage, stand @ 7'
+Config:  23cm @ 70*
+taped/transferred by:  (jbanyai97@yahoo.com)
+
+01.  Hell Is Chrome  (5:11)
+02.  Handshake Drugs  (6:15)
+03.  Wilco(The Song)  (3:21)
+04.  Muzzle Of Bees  (5:02)
+05.  You Are My Face  (4:49)
+06.  Bull Black Nova  (5:38)
+07.  I Am Trying To Break Your Heart  (6:18)
+08.  Pot Kettle Black  (4:31)
+09.  One Wing  (3:40)
+10.  Shot In The Arm >  (4:56)
+11.  Side With Seeds  (5:47)
+12.  Via Chicago  (6:12)
+13.  Jesus etc.  (4:13)
+14.  Impossible Germany  (6:26)
+15.  Poor Places >  (5:06)
+16.  Reservations >  (3:48)
+17.  Spiders  (11:47)
+18.  Hummingbird  (3:36)
+19.  crowd  (2:27)
+Encores:
+20.  Hotel Arizona  (3:41)
+21.  Late Greats  (3:04)
+22.  Hate It Here  (4:40)
+23.  Walken  (4:51)
+24.  I'm The Man Who Loves You  (4:26)
+25.  King Pin  (5:55)
+26.  I'm a Wheel  (3:07)
+Total:  (128:47)
+
+Notes:
+- thanks to Marc Natelsky for the clamp space.
+- thanks to Stan  for letting us setup near the SBD.
+- a 24bit/44.1khz version exists upon request.

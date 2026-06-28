@@ -1,23 +1,32 @@
-wilco1999-04-15d01t01.flac:9a7c3cd4e85e4be4f811d80a54550f65
-wilco1999-04-15d01t02.flac:ac7dfde82fbd7bb0dae4a69820b2a1a1
-wilco1999-04-15d01t03.flac:7830ec45a2938b8aa0602177c39f77d7
-wilco1999-04-15d01t04.flac:7def6507b424c1710b96f0ec93c323c5
-wilco1999-04-15d01t05.flac:0956f92607b90745abc9cd39ca0a41aa
-wilco1999-04-15d01t06.flac:b77874d6508222f146277bd41fa17e03
-wilco1999-04-15d01t07.flac:c2f0972e90b86692ef8ff38e75fbae8f
-wilco1999-04-15d01t08.flac:02abfaf2b7f4e7353811c6b2abd42ba1
-wilco1999-04-15d01t09.flac:b3b2e069808a45eae29d82a7357c8ebe
-wilco1999-04-15d01t10.flac:35fce8ecb14d65866916dd5aa847ea5c
-wilco1999-04-15d01t11.flac:1ae041870fd8b29ee437548a0b7cc0f4
-wilco1999-04-15d01t12.flac:892be13e49171b759027953cffbe533a
-wilco1999-04-15d01t13.flac:19213f9bd4a0c4cbb5d2639c5637fbb2
-wilco1999-04-15d01t14.flac:33e75d86feb299d8f1d31ca079c36796
-wilco1999-04-15d01t15.flac:23ae9be4df6591443014d9fa6e26af17
-wilco1999-04-15d01t16.flac:1c2f14e767c5a84ac9085ede6388c055
-wilco1999-04-15d01t17.flac:83d892bb4780077a57d554bdc3be8e65
-wilco1999-04-15d02t01.flac:872829b57977552022c0e557ba13c66b
-wilco1999-04-15d02t02.flac:63488e0f08c376c3c99a43042d4f13c6
-wilco1999-04-15d02t03.flac:815e06bdbf96a382fac07ce495f14b22
-wilco1999-04-15d02t04.flac:5fc88e0d38fa3fa7406f3855bcf1d5b2
-wilco1999-04-15d02t05.flac:9f77489b8b9af0143650ca9a81a99f71
-wilco1999-04-15d02t06.flac:3845888224e6c554a46fe85abe36da31
+Wilco
+4/15/1999
+Canopy Theatre
+Champaign-Urbana, IL
+
+Unknown source/lineage
+Extracted and converted using EAC and FLAC Frontend
+
+d1t01 I’m Always In Love
+d1t02 Via Chicago
+d1t03 How To Fight Loneliness
+d1t04 Hotel Arizona
+d1t05 Nothing’severgonnastandinmyway(again)
+d1t06 Red-Eyed And Blue
+d1t07 I Got You (at the end of the century)
+d1t08 My Darling
+d1t09 She’s A Jar
+d1t10 A Shot In The Arm
+d1t11 We’re Just Friends
+d1t12 Hesitating Beauty
+d1t13 Christ For President
+d1t14 Passenger Side
+d1t15 Monday
+d1t16 Can’t Stand It
+d1t17 In A Future Age
+
+d2t01 Summer Teeth
+d2t02 When You Wake Up Feeling Old
+d2t03 New Madrid
+d2t04 California Stars
+d2t05 ELT
+d2t06 Outtamind (outta site)

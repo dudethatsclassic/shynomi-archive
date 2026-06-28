@@ -1,22 +1,45 @@
-wilco1998-07-04d1t01.flac:6809f68ad847ee526f3716b00a88231b
-wilco1998-07-04d1t02.flac:a7c3eb8de554b16138f64d4e0abb3444
-wilco1998-07-04d1t03.flac:bd41ec0c78bd7f3408b2b64dae133d9e
-wilco1998-07-04d1t04.flac:59f5e4185b7d8248aa7aaf69d8d5c917
-wilco1998-07-04d1t05.flac:a81e34a0c1a0b5d4de0f802a0455af4a
-wilco1998-07-04d1t06.flac:5321cf855eef4023546a1d98f6f23d96
-wilco1998-07-04d1t07.flac:08f677b4b1dfdde3f62b47a94d149636
-wilco1998-07-04d1t08.flac:01a410c288792403a9b4fd12987c9552
-wilco1998-07-04d1t09.flac:6bcafdbbc63182dda834301febc83d48
-wilco1998-07-04d1t10.flac:70a98bf726b67be9e5c59c8ddfde9e45
-wilco1998-07-04d1t11.flac:e944f42607db57c5893fd158f789340d
-wilco1998-07-04d1t12.flac:4bfb849c632116cfac7290a261f12c34
-wilco1998-07-04d1t13.flac:3e1b85320b2e02ac21c6daa6814756eb
-wilco1998-07-04d1t14.flac:c86b0625892e601aef9f5f75e3a01f3e
-wilco1998-07-04d1t15.flac:b0f794a66d1a8b2ee96027e0722e16a2
-wilco1998-07-04d1t16.flac:9c7142dc85641cc9bc92136fea362e56
-wilco1998-07-04d1t17.flac:a4c19f3e8ac02446bce5231d25219ef1
-wilco1998-07-04d2t01.flac:2ee6da61a5ae77ce058c035258a892e0
-wilco1998-07-04d2t02.flac:a553a21f97fc162e9b57ea75fc42d0f5
-wilco1998-07-04d2t03.flac:fe7234dff496d9ceba9f8512a8cf1a8b
-wilco1998-07-04d2t04.flac:ff85f7b356ae6890a0e51868af1f099c
-wilco1998-07-04d2t05.flac:998481037a929277ccf7a59346a5ddc9
+1998-07-04 Wilco Summerfest     Milwaukee, WI
+
+source for 07-04-98:soundboard
+
+cdr>wav>flac 
+
+disc 1
+
+01. Don't Forget The Flowers
+02. Hesitating Beauty
+03. California Stars   
+04. She's A Jar   
+05. Christ For President   
+06. New Madrid
+07. At My Window Sad And Lonely*   
+08. Passenger Side   
+09. I Must Be High   
+10. Candyfloss   
+11. I Got You (At The End Of The Century)   
+12. Monday   
+13. I'm Always In Love 
+14  Jeff stage banter  
+15. Outta Mind (Outta Sight)   
+16. Hoodoo Voodoo
+17. Crowd Noise
+
+
+
+disc 2
+
+01. Casino Queen   
+02. Kingpin
+03. crowd noise  
+04. Another Man's Done Gone*   
+05. James Alley Blues 
+
+*first time played 
+
+
+This is the complete 07-07-98 show.  A version circulates that is missing the first 2 songs.
+There was an issue with the PA/SBD/monitors or something.  Somewhere along the line somebody decided
+to lop off those 2 tracks. The sound on these first 2 tracks is a bit fuzzy. The rest of the show sounds great. 
+a big thanks to Bldad for giving me a copy so i could share them!  
+
+~PoorPlaces

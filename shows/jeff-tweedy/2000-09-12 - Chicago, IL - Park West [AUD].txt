@@ -1,28 +1,41 @@
-tweedy2000.09.12d1t01.flac:7b5bf12c52962af185ffabfa592c5588
-tweedy2000.09.12d1t02.flac:7a78fe45fc2598b1ef23d17e0286229b
-tweedy2000.09.12d1t03.flac:a8b5cebab304a3b7706a4457e5dd9a00
-tweedy2000.09.12d1t04.flac:ea1bb0c0e9786cadc7d4dc8e7a955019
-tweedy2000.09.12d1t05.flac:05d89ccaa6315147c8915fb5d139ad57
-tweedy2000.09.12d1t06.flac:9edc5ff4f3aed1ecc15a20af8fce1d0f
-tweedy2000.09.12d1t07.flac:f4d0286c688fa7bd80a7324d76d48b97
-tweedy2000.09.12d1t08.flac:ec70b7b5a7f3ae758f3eff115bcb53c1
-tweedy2000.09.12d1t09.flac:1ae70c1f4bb9dadd2462c0779c12e63e
-tweedy2000.09.12d1t10.flac:afd132c97c5b1ed45bf8dd0d2d3e734e
-tweedy2000.09.12d1t11.flac:e20280826bf82b6067a4867dfb0cbdb7
-tweedy2000.09.12d1t12.flac:3982648a532866459085ea1136db864a
-tweedy2000.09.12d1t13.flac:7d349489e76c7891a685a07f7cac7950
-tweedy2000.09.12d1t14.flac:33a4da8266b2fc11681abf0d302df236
-tweedy2000.09.12d2t01.flac:70389c0304fc967087ecdeaf6f4856fd
-tweedy2000.09.12d2t02.flac:e93881d94eb6ce722772ee132fb4e366
-tweedy2000.09.12d2t03.flac:958f9d0eee677ec584fd423aef78d04d
-tweedy2000.09.12d2t04.flac:6d08400a1859fc5cc8a734b8d239032d
-tweedy2000.09.12d2t05.flac:2c47cc0e7dd94b99c697e88ead997f53
-tweedy2000.09.12d2t06.flac:742b8c35a0f2cbd31b530d44de0bfa3a
-tweedy2000.09.12d2t07.flac:9f8c41e4124407eebe1b28e2da95dd52
-tweedy2000.09.12d2t08.flac:9fef6be2d68e7207da0e61bd4c5e2fc3
-tweedy2000.09.12d2t09.flac:db432711f196aba20e45b8409e84c8e4
-tweedy2000.09.12d2t10.flac:42e387ecbf39ce273462caa93813378a
-tweedy2000.09.12d2t11.flac:e632d5a71b2875018a44bbbed073d8e7
-tweedy2000.09.12d2t12.flac:5308714bc502b8ff64925b06bdfc0171
-tweedy2000.09.12d2t13.flac:1017fc406e11067e5d435107b41f41d8
-tweedy2000.09.12d2t14.flac:02d98ee7554bdd483403d2839625a364
+Jeff Tweedy
+9/12/2000
+Park West
+Chicago, IL
+
+Source unknown AUD
+extracted and converted using EAC and FLAC Frontend
+
+d1t01 This Ain't No Lounge Ax
+d1t02 Remember the Mountain Bed
+d1t03 New Madrid
+d1t04 I'm the Man Who Loves You
+d1t05 Alone
+d1t06 Say You Miss Me
+d1t07 How to Fight Loneliness
+d1t08 Lost Love
+d1t09 She's a Jar
+d1t10 A Shot in the Arm
+d1t11 Pieholden Suite
+d1t12 Pick Up the Change
+d1t13 Sunken Treasure
+d1t14 Airline to Heaven
+
+d2t01 Via Chicago
+d2t02 Heavy Metal Drummer
+d2t03 Hesitating Beauty
+d2t04 Please Tell My Brothers
+d2t05 When You Wake Up Feeling Old
+d2t06 Passenger Side
+d2t07 Blood of the Lamb
+d2t08 California Stars
+d2t09 Hoodoo Voodoo
+d2t10 I'm Always in Love
+d2t11 Reflections on a Crystal Wind
+d2t12 Ashes of an American Flag
+d2t13 Pecan Pie
+d2t14 Candyfloss
+
+Below is a link to the page for this show at db.etree.org:
+
+http://db.etree.org/lookup_show.php?shows_key=98145&show_users=true

@@ -1,21 +1,38 @@
-wilco1995-08-01t01.flac:6461abeda00ff801ad34ed6f09b970f7
-wilco1995-08-01t02.flac:40960e50442a25d2fd3be898cdf4cdeb
-wilco1995-08-01t03.flac:f7461077c4777ca725ef1da4d3c40d9e
-wilco1995-08-01t04.flac:e9c2f7a7bb4c711b61416e23520c2424
-wilco1995-08-01t05.flac:c2087658c8ab9670abe8a470a5569d26
-wilco1995-08-01t06.flac:1b45c27a6392b7998578d11d64eb7b1f
-wilco1995-08-01t07.flac:d9a884ba067dbb7403b9e9d162baac37
-wilco1995-08-01t08.flac:90e2f14107a085a438a9ab18af33d1f7
-wilco1995-08-01t09.flac:bb995fd84d4e0d3da911c23d7bb45ebb
-wilco1995-08-01t10.flac:1fb2268b14b1c02eb0bc71fdee1fb2a5
-wilco1995-08-01t11.flac:9df4571df9670560cf1fab16f45975c8
-wilco1995-08-01t12.flac:6bf306eb3a50016ea93dcf7a29b1bbc7
-wilco1995-08-01t13.flac:698a480eb720d9895587783b23d73ecb
-wilco1995-08-01t14.flac:f9279cea69343a63084536ac9deb175d
-wilco1995-08-01t15.flac:e9e3a67c698432f63dbf7100b722d243
-wilco1995-08-01t16.flac:6dd7c7fd2310e18a9d8e76e018a5fae0
-wilco1995-08-01t17.flac:36e607a39776185b32bb184d45d8a073
-wilco1995-08-01t18.flac:a316e9268c8d306164f1a63c9f8ed79b
-wilco1995-08-01t19.flac:d40b3fd3e887f80dbdffd96b23054cb0
-wilco1995-08-01t20.flac:a703404db722f8e565d855909b4d3717
-wilco1995-08-01t21.flac:8d807ba82ecbe308cfce98d19ebb2543
+Wilco
+8/1/1995
+Flood Zone
+Richmond, VA
+
+Source: SBD
+Transfer: CDR>EAC>WAV>FLAC
+
+t01 I Must Be High
+t02 Box Full Of Letters
+t03 Shouldn't Be Ashamed
+t04 It's Just That Simple
+t05 New Madrid
+t06 Pick Up The Change
+t07 Wait Up
+t08 That's Not The Issue
+t09 Should've Been In Love
+t10 I Got You (at the end of the century)
+t11 We've Been Had
+t12 Passenger Side
+t13 Casino Queen
+t14 The Long Cut
+t15 Outtasite (outta mind)
+t16 Give Back The Key To My Heart
+
+Wilco
+8/1/1995
+WVGO Studios
+Richmond, VA
+
+Source: unknown (probably FM)
+Transfer: CDR>EAC>WAV>FLAC
+
+t17 Intro/Interview
+t18 Casino Queen
+t19 Interview
+t20 Box Full Of Letters
+t21 Outro

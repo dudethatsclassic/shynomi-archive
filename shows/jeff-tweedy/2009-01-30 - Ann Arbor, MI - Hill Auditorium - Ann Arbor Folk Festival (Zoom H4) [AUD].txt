@@ -1,16 +1,32 @@
-jefftweedy2009-01-30tr01.flac:9b84d108d3a27fd64c880224b3d1a42e
-jefftweedy2009-01-30tr02.flac:158643fcc9c43aa3fc5d8f8f440e36fa
-jefftweedy2009-01-30tr03.flac:c293b604808c8562381be4c5f9f62cc9
-jefftweedy2009-01-30tr04.flac:5da008eb71d5f862fc9ce9fc517a1d0c
-jefftweedy2009-01-30tr05.flac:e9467446152a9c233f4715f1d2dab169
-jefftweedy2009-01-30tr06.flac:febc56edb59fdb5d2ad75f76d764497f
-jefftweedy2009-01-30tr07.flac:0af106c3ba1874288f22c3389b9fcbda
-jefftweedy2009-01-30tr08.flac:1572307a9b15cbf0021a959907c61e5f
-jefftweedy2009-01-30tr09.flac:ba2a1a794d311e2bfef36e7393c1d472
-jefftweedy2009-01-30tr10.flac:37f1f76b5a8d4ade082b6218bbc19766
-jefftweedy2009-01-30tr11.flac:f524b17ae465578c6fae6bd0cfe00170
-jefftweedy2009-01-30tr12.flac:f9b10ec91ba5048830b731181eae6992
-jefftweedy2009-01-30tr13.flac:671b68eebcfe6d69bf970cb112dfba0e
-jefftweedy2009-01-30tr14.flac:2dc7ee2ec498e28879dc4aaee978cfba
-jefftweedy2009-01-30tr15.flac:1ecc1c38a1dec733f978b339409a0b29
-jefftweedy2009-01-30tr16.flac:f7fe96af47ba0918fee3a1249edd1739
+Jeff Tweedy
+2009-01-30
+Ann Arbor Folk Festival
+Hill Auditorium
+Ann Arbor, MI
+
+Source: Zoom H4 (built in mics) 
+Location: Mezzanine, Row H, center
+Transfer: H4 > Audacity > WAV > FLAC (Level 8)
+
+
+
+
+01.  Intro by Jim Lauderdale
+02.  Someone Else's Song * (played at edge of stage w/o PA)
+03.  One By One
+04.  Spiders (Kidsmoke)
+05.  Everlasting Everything
+06.  Solitaire
+07.  I Am Trying To Break Your Heart
+08.  Wait Up
+09.  I Wanna Be Your Dog [The Stooges]
+10.  The Ruling Class
+11.  Jesus, etc.
+12.  Airline to Heaven
+13.  A Shot in the Arm
+14.  I'm The Man Who Loves You
+15.  encore break
+16.  Acuff-Rose *
+
+*  (played at edge of stage w/o PA)
+
