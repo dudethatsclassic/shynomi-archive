@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Napa, CA",
       "venue": "Silverado Resort",
-      "notes": "Blue · Shure MV88 · funk it blog",
+      "notes": "Blue \u00b7 Shure MV88 \u00b7 funk it blog",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-07-29 - Napa, CA - Silverado Resort - Blue Note Jazz Festival (Shure MV88) (funk it blog) [AUD24].txt"
     }
   ],
   "misc": []

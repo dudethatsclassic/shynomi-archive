@@ -91,6 +91,7 @@ function render() {
         + '<td class="col-badges"><div class="badge-group">'
           + versionBadge(s.version) + formatBadge(s.format)
           + (s.recordingVersion != null ? '<span class="badge badge-recver">v' + s.recordingVersion + '</span>' : '')
+          + (s.official ? '<span class="badge badge-official">Official</span>' : '')
           + '</div></td>'
         + '</tr>';
     }).join('');

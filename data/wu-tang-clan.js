@@ -53,7 +53,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Meadows Music Theatre",
-      "notes": "Radio Shack 33-3003 · mike ganezer",
+      "notes": "Radio Shack 33-3003 \u00b7 mike ganezer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-08-17 - Hartford, CT - Meadows Music Theatre (Radio Shack 33-3003) (mike ganezer) [AUD].txt"
@@ -81,9 +81,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Water St. Music Hall",
-      "notes": "Raekwon · CSB · unk",
+      "notes": "Raekwon \u00b7 CSB \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-12-06 - Rochester, NY - Water St. Music Hall - Raekwon (CSB) (unk) [AUD].txt"
     },
     {
       "year": 2002,
@@ -135,9 +136,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Seattle Center",
-      "notes": "Bumbershoot · Zoom H1 · askinas",
+      "notes": "Bumbershoot \u00b7 Zoom H1 \u00b7 askinas",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-08-30 - Seattle, WA - Seattle Center - Bumbershoot Festival (Zoom H1) (askinas) [AUD].txt"
     },
     {
       "year": 2018,
@@ -148,7 +150,7 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Anthem",
-      "notes": "CA-14s · unk",
+      "notes": "CA-14s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-11-01 - Washington, DC - The Anthem (CA-14s) (unk) [AUD].txt"
@@ -162,7 +164,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit , MI",
       "venue": "Little Caesars Arena",
-      "notes": "Sennheiser Ambeo · unk",
+      "notes": "Sennheiser Ambeo \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-07-08 - Detroit , MI - Little Caesars Arena (Sennheiser Ambeo) (unk) [AUD24].txt"

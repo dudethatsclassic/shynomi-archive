@@ -1,27 +1,46 @@
-pj1996-11-12d1t01.flac:cd145bf71c41fe89da763d9d0ddb921e
-pj1996-11-12d1t02.flac:498cb7cb603c6a8828ba00c1b5b8ad8a
-pj1996-11-12d1t03.flac:5b15b319e4cbe96ed63b9c41e9fb871f
-pj1996-11-12d1t04.flac:98748b481253f35ffd81ad5d440590bd
-pj1996-11-12d1t05.flac:6579d7b0fbacf8bd9498afa7a9b3fb4f
-pj1996-11-12d1t06.flac:ddd9eaba5c2d4c908cfdf3cb45aaf6e5
-pj1996-11-12d1t07.flac:8350eab0bb079ea3301d702fbefff12b
-pj1996-11-12d1t08.flac:4d24891196253033fadef41931ca1936
-pj1996-11-12d1t09.flac:12b931168d19a8e5ca3827353e5b8df5
-pj1996-11-12d1t10.flac:398b087a84d1a81d54dab051b36838fc
-pj1996-11-12d1t11.flac:d0a1032e4717f5b41965e4ed015a5960
-pj1996-11-12d1t12.flac:641fb5b0d20d37ea6bef5936780b50fa
-pj1996-11-12d1t13.flac:844f4c35f0dfb7eaba17e1a52f29abfe
-pj1996-11-12d1t14.flac:a86297a65a3160efe01fbe48964af157
-pj1996-11-12d1t15.flac:aa70d8dece600f7d1538830b2558e1e2
-pj1996-11-12d1t16.flac:2784bccdf98296666975b3f31f23c265
-pj1996-11-12d1t17.flac:98c1b82d38778ecae5384711afc00d56
-pj1996-11-12d1t18.flac:dd804b0a3a4afbf0b8284cbf8004db12
-pj1996-11-12d2t01.flac:83509cd4676dcb753a81a80dab0dac60
-pj1996-11-12d2t02.flac:17477381c6b1c9274cd1797a925eda8c
-pj1996-11-12d2t03.flac:4a998a4d93d5bdb39b8086c6b36c483c
-pj1996-11-12d2t04.flac:2f840e1f27a29074922481e22d751eaf
-pj1996-11-12d2t05.flac:f42feaea9b444bee1cf5457bddf24d6b
-pj1996-11-12d2t06.flac:095b90b1657e0b8672b671befa9bbfab
-pj1996-11-12d2t07.flac:e6704baf0961f7b00edd17c45af0cd0d
-pj1996-11-12d2t08.flac:891b3f7a375e6f37b26728ebf8eb7492
-pj1996-11-12d2t09.flac:3e2156906d375176c332f5596788d8a2
+Pearl Jam
+Palaeur: Rome Italy
+November 12, 1996
+
+Source : Core Sounds > Sony TCD-D8 > dat > ? > cdr > EAC (wav) > dEdit > dEQ > flac
+
+Setlist:
+
+DISC ONE
+01 intro
+02 Release
+03 Last Exit
+04 Animal
+05 Hail Hail
+06 Dissident
+07 In My Tree
+08 Corduroy
+09 Better Man
+10 Not for You ->
+11 Even Flow
+12 Daughter/(Androgynous Mind)/(W.M.A.)
+13 Jeremy
+14 (Hunger Strike) ->
+15 Black
+16 State of Love and Trust
+17 Sometimes
+18 Rearviewmirror
+
+DISC TWO
+01 Immortality
+02 Lukin
+03 Alive
+04 encore: 
+05 Who You Are
+06 Once
+07 Present Tense
+08 Smile
+09 Rockin' in the Free World
+
+Notes: Distant/muddy sound, this is definitely for "collectors only". Not sure what the problem was, but 
+this source had an incredible number of pops throughout the whole show, and some diginoise at the beginning 
+of each disc. This has been corrected to a certain degree, but some pops and small cuts remain. There are
+other recordings made of this show, so hopefully at least one of them is better than this.
+
+EAC (wav) > dEdit > dEQ > flac by spacedvest (offset of +103, flac level 7)
+compiled on 7/3/04 by spacedvest

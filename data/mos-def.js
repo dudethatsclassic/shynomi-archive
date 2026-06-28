@@ -19,7 +19,7 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Winooski, VT",
       "venue": "Higher Ground",
-      "notes": "Mos Def & Black Jack Johnson · Sony PCM R500",
+      "notes": "Mos Def & Black Jack Johnson \u00b7 Sony PCM R500",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "2000-09-28 - Winooski, VT - Higher Ground (Mos Def & Black Jack Johnson) (Sony PCM R500) [SBD].txt"

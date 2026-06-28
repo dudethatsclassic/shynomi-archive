@@ -23,9 +23,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Palace",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-04-20 - Hollywood, CA - The Palace - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -49,7 +50,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park",
-      "notes": "Tibetan · unk · neekrive",
+      "notes": "Tibetan \u00b7 unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -62,7 +63,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -77,7 +78,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "DAT(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-08-21 - New York, NY - Madison Square Garden [AUD].txt"
     },
     {
       "year": 1998,

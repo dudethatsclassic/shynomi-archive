@@ -1,23 +1,47 @@
-pj1994-03-22d1t01.flac:10bd5cc1a466c206c5a0a41037714605
-pj1994-03-22d1t02.flac:36902989e00abad7220af829fd413f55
-pj1994-03-22d1t03.flac:064ae77ebae5503731743efc617aea27
-pj1994-03-22d1t04.flac:1ad86b3e2248fd47f213c1a231c37b50
-pj1994-03-22d1t05.flac:dd2388bd4dc5bd7e471ad58ae407c03d
-pj1994-03-22d1t06.flac:21e0fa93b6f8d3970cc607538034007b
-pj1994-03-22d1t07.flac:46de85eb6b40d5f7caaf9360980b0435
-pj1994-03-22d1t08.flac:7b9319f4d37c7b21271f4f2103c15a60
-pj1994-03-22d1t09.flac:38f3aae38a5f9352c3f9a4357b8408ab
-pj1994-03-22d1t10.flac:0e6e69d6135bee361985375ab58e4ecb
-pj1994-03-22d1t11.flac:89f6909e33627a2f03bc511b81f98ac2
-pj1994-03-22d1t12.flac:bf6b9acf2be40f4741327680cecf86ed
-pj1994-03-22d1t13.flac:a03b26323657483a3ef0fd88cfc43d3c
-pj1994-03-22d1t14.flac:d2af0ed1d26ef3a3a9fdc55292c5cc8b
-pj1994-03-22d2t01.flac:b3d1e0b1017e4f4a7364f5c80c893c1c
-pj1994-03-22d2t02.flac:5af79bef006a1a050b1297cd2620f83d
-pj1994-03-22d2t03.flac:b909dfdb586e6593e2a173264a0acf12
-pj1994-03-22d2t04.flac:066b6e24a8e8910ff64148e4b75984dc
-pj1994-03-22d2t05.flac:8cd032203ce82f917265b8a3b00d0a0c
-pj1994-03-22d2t06.flac:60bac742a0275096a767dc58ca79ee95
-pj1994-03-22d2t07.flac:4b9872fbd89603dd67d0856524fca266
-pj1994-03-22d2t08.flac:4fc40024303b67e63c896eaf4dfe95d6
-pj1994-03-22d2t09.flac:bf38fdf62cd0f6674c5d37cec82f8aba
+Pearl Jam
+Cleveland State University Convocation Center: Cleveland, OH
+March 22, 1994
+
+Source : unknown Aiwa microphone > Aiwa JS-415 walkman > analog (2nd gen) > dEQ > dat > cdr > EAC (wav) > 
+         dEdit > flac
+
+Setlist:
+
+DISC ONE
+01 Release
+02 Go
+03 Animal
+04 Dissident
+05 Even Flow
+06 Glorified G
+07 Daughter/(I Won't Back Down)
+08 Jeremy
+09 Why Go
+10 Alone
+11 Oceans
+12 State of Love and Trust
+13 Black
+14 Blood
+
+DISC TWO
+01 Alive
+02 Porch
+encore:
+03 Rats
+04 Rearviewmirror
+05 Elderly Woman...
+06 Leash
+07 Rockin' in the Free World (^)
+08 Sheraton Gibson ($)
+09 Indifference
+
+(^) played with Grant Lee Buffalo
+($) Ed solo
+
+Notes: This source is plagued with problems. First of all, it suffers from the "screaming girl syndrome". Also, 
+there were many cuts inbetween songs, probably where the taper paused the recording inbetween songs. Unfortunately,
+the Aiwa is the only known source for this show. Some problems have been corrected through editing, but many of
+the faults still remain.
+
+EAC (wav) > dEdit > flac by spacedvest (offset of +103, flac level 7)
+compiled on 7/1/04 by spacedvest

@@ -1,21 +1,49 @@
-dcfc2005-11-16d1t05.flac:1fdc000adb24f8b54586b0487b9328f6
-dcfc2005-11-16d1t06.flac:c6cad4b30ecbc36f5bedaa6b3b7b0288
-dcfc2005-11-16d1t07.flac:1f2abb90c828aba019082a6f703a1d9f
-dcfc2005-11-16d1t08.flac:fb6aedca9e52663e572b50d38b0bc0af
-dcfc2005-11-16d1t09.flac:d075a1053a0098204db590785fd13485
-dcfc2005-11-16d1t10.flac:802018c260f4eeda46e3ca2a6959ca78
-dcfc2005-11-16d1t11.flac:3bf2db79e450721f0c151f313e68f9ee
-dcfc2005-11-16d1t12.flac:511e960415586b83a7b8952876240924
-dcfc2005-11-16d2t01.flac:084b3401ae36a3322610292a604d0014
-dcfc2005-11-16d2t02.flac:37b103721913d9a6bb1e170fa199aad6
-dcfc2005-11-16d2t03.flac:6f1d7665b8e5f017308bcf1d331bd3fa
-dcfc2005-11-16d2t04.flac:00f5805e9e67eb739d65687943624c47
-dcfc2005-11-16d2t05.flac:cd625c7745347ffa180395f89f7f973e
-dcfc2005-11-16d2t06.flac:f1440eba93a01c9915d45d81de3bfa0e
-dcfc2005-11-16d2t07.flac:42743542de0943f190a4692f4b52ac46
-dcfc2005-11-16d2t08.flac:6070536a08f8f7a46631bd28483161a3
-dcfc2005-11-16d2t09.flac:92bbac61cfd22561842bd35721de7be9
-dcfc2005-11-16d1t01.flac:f080496d8bb85d06728296fbb310d4a0
-dcfc2005-11-16d1t02.flac:b57715a1a59fd5bc4f2179e3903681c1
-dcfc2005-11-16d1t03.flac:05ac115c890960b44f35c6216ec766a3
-dcfc2005-11-16d1t04.flac:6c1b77fa86800d5d8d9a2f91219cd7ff
+Death Cab for Cutie
+11/16/2005
+Crystal Ballroom
+Portland OR
+
+Taper: Ryan Olsen (digginaditch@hotmail.com)
+Source: DPA 4061 > DPA mma6000 > M-Audio MicroTrack 24/96
+Conversion: Audacity1.2.4 > CD Wave 1.9.3.14 (track & flac)
+Location: DFC in the crowd, 20' from stage, mics worn binaurally
+
+==========================================
+
+Disc 1
+
+01. Intro
+02. Marching Bands of Manhattan
+03. We Laugh Indoors
+04. The New Year
+05. Title and Registration >
+06. Photobooth
+07. Soul Meets Body
+08. Summer Skin
+09. Expo '86
+10. Company Calls
+11. Crooked Teeth
+12. Different Names for the Same Thing
+
+
+Disc 2
+
+01. A Movie Script Ending
+02. Pictures in an Exhibition
+03. What Sarah Said
+04. We Looked Like Giants
+05. The Sound of Settling
+encore
+06. I Will Follow You Into the Dark
+07. We Have the Facts and We're Voting Yes
+08. Tiny Vessels >
+09. Transatlanticism*
+
+
+Notes:
+
+*w/ members of Stars
+No DSP/EQ was done in the processing of this show
+A 24/48 version of this show is also available
+
+compiled by Ryan Olsen (digginaditch@hotmail.com) 12/11/2005

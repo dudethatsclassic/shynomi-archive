@@ -1,17 +1,33 @@
-pj1992-06-19t01.flac:e17abef9fa09b7849beec81b93bec6ab
-pj1992-06-19t02.flac:39be52da61a02832c2755353c6ac1583
-pj1992-06-19t03.flac:0db4cb7fe4c35c3bc6601341a673a00c
-pj1992-06-19t04.flac:d6327408ed71d2f8611cacbf8af97a91
-pj1992-06-19t05.flac:c7c2d53d0db218b00ecb7eb561755606
-pj1992-06-19t06.flac:29b1eb6fd9c32c69dbe0605a3e9af11d
-pj1992-06-19t07.flac:fd6e276748dd95157fa831f5ebae04cf
-pj1992-06-19t08.flac:0ad3e7db3d2552b3dc67cd8589673036
-pj1992-06-19t09.flac:0c758113bdacb2c36a1d90a16816f671
-pj1992-06-19t10.flac:3424c53a7809bdd87f5e8a16f2d5b774
-pj1992-06-19t11.flac:938d44ef0c0b085fc98db4574187a1ee
-pj1992-06-19t12.flac:5daf0996036f1b9b8b73b363b038a776
-pj1992-06-19t13.flac:3aa156cc40f5134061df9ffbe394d4a1
-pj1992-06-19t14.flac:9196ace3864dd12f7ce8118fa58c97a8
-pj1992-06-19t15.flac:13310ded7f3acc82474e38d6800ce76d
-pj1992-06-19t16.flac:cf8d171c3a4e2f300c48940d021cd0a1
-pj1992-06-19t17.flac:ef74ebe9f158116a8462b25437a78f5c
+Pearl Jam
+Rockhaus: Vienna, Austria 
+June 19, 1992
+
+Source : Sennheiser 2000 > Sony WM-D6 (master) > dat > dEdit > dEQ > cdr > dEdit(*) > flac
+
+Setlist:
+
+01 intro
+02 Oceans
+03 Even Flow
+04 Why Go
+05 Jeremy
+06 State of Love and Trust
+07 Black
+08 Alive
+09 improv ->
+10 Once
+11 Footsteps
+12 Deep
+13 improv
+14 Leash
+15 Porch
+enc: 
+16 Garden
+17 Rockin' in the Free World
+
+(*) Editing Notes: Sound is a little muddy. Retracked (some of the original tracking made no sense), 
+and some problems were corrected. However some faults remain, the big ones are: some bumps @ 3:12 of 
+Jeremy, small cut/dropout @ 3:11 of Black, and a small cut at the very beginning of Deep. Not sure if 
+these problems exist on the master, but they seem to be on all circulating copies of this show.
+
+Extracted with EAC (offset of +103) and encoded to FLAC (level 7) on 6/19/04 by spacedvest

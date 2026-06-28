@@ -1,16 +1,24 @@
-qotsa2002-11-06t1.flac:4752ecf31c512ddae6b3d512319d975d
-qotsa2002-11-06t2.flac:e6bbb1445d7faeaa892ee7509ceb021a
-qotsa2002-11-06t3.flac:aec63adec4ee6beec0fbd17aa3885142
-qotsa2002-11-06t4.flac:8ff8c1d366c27922f88c553b46f5795c
-qotsa2002-11-06t5.flac:d93f78742f9ee871a29336fb5ef8296f
-qotsa2002-11-06t6.flac:10bd4ef5aaa196300c50bcd4944e2faa
-qotsa2002-11-06t7.flac:1b00a84e595ed0df09d58a18bc884510
-qotsa2002-11-06t8.flac:60cc9e4b60a1af01e9c9fc024edb3ace
-qotsa2002-11-06t9.flac:e746495fa86aa0b63957ddba58e76809
-qotsa2002-11-06t10.flac:5e762e0de97c72da3426cb5e877d9074
-qotsa2002-11-06t11.flac:c4e659afc7695c2df12fd1a4b9992087
-qotsa2002-11-06t12.flac:7d25431ada9f967a28d505bf13abb8d6
-qotsa2002-11-06t13.flac:450f8f3af2c96d5fd8d96a97d60e95cf
-qotsa2002-11-06t14.flac:f31675024a5c734e26e39c8dd5c2c3b6
-qotsa2002-11-06t15.flac:e4ba1a467464dc97d306a7c30888815e
-qotsa2002-11-06t16.flac:7170cb14724fbb9af731c8f10ca39661
+Queens Of The Stone Age
+FM Radio (Swedish radio P3) ---> Steinberg Wavelab ---> wav
+Taped by Qew.
+
+2002-11-06 Münchenbryggeriet, Stockholm, Sweden
+--
+1. Intro
+2. Regular John
+3. If Only
+4. You Think I Ain't Worth A Dollar, But I Feel Like A Millionaire
+5. Quick And To The Pointless
+6. Gonna Leave You
+7. Hangin' Tree
+8. Auto Pilot
+9. A Song For The Dead
+10. No One Knows
+11. Go With The Flow
+12. The Lost Art Of Keeping A Secret
+13. Mexicola
+14. Ode To Clarissa
+15. Feel Good Hit Of The Summer
+16. Outro
+
+Broadcast omits "The Sky Is Fallin'", "Better Living Through Chemistry", "Tension Head", "Walkin' On The Sidewalks", "A Song For The Deaf" and "Monster In The Parasol".

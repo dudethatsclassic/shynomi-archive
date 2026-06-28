@@ -1,18 +1,26 @@
-bb1994-06-21t02-Do It.flac:6a64f1d0ede0000f4f8a0a4899dc77aa
-bb1994-06-21t03-Pass the Mic.flac:d0cd4f98d2f7f39df9f8760f8d89fce0
-bb1994-06-21t04-Tough Guy.flac:3ab42a19add3a4e41bf6648bef66e372
-bb1994-06-21t05-Futterman's Rule - The Update.flac:cb72bc8b00176aa1824ab0642c81c8d1
-bb1994-06-21t06-POW.flac:df08f6636ea9fafe0ac825ddd75f762d
-bb1994-06-21t07-The Maestro.flac:551cd6965988c1e883b320d8ad9a4232
-bb1994-06-21t08-Alright Hear This.flac:1eeac7b445aa17017b01ad9de60cf205
-bb1994-06-21t09-Time to Get Ill.flac:5b543eb5cefde9ed79fd8f0a33e1eac8
-bb1994-06-21t10-Stand Together.flac:b81443eda2aeb1461b4f4e17a3cadc03
-bb1994-06-21t11-Root Down.flac:57366746329c4d6b1157cc1979edb097
-bb1994-06-21t12-Bodhisativa Row.flac:ff412ac5c259e5fdfc58add3cb3915ba
-bb1994-06-21t13-Elbow Room.flac:e33f76e0580069a551b5d2089e5ea826
-bb1994-06-21t14-Heart Attack Man.flac:9e3f1bbd3b51044bb69f7d294a2c08ea
-bb1994-06-21t15-Sabotage.flac:b21f14d92b7cf3de5dc76944c9ac9d4a
-bb1994-06-21t16-Sabotage (Bonus Track).flac:454c1207dcf88cf15a881e2ea1de793e
-bb1994-06-21t17-Sure Shot (Bonus Track).flac:ebe4694b42403991e9b94e89a739c938
-bb1994-06-21t18-Sabotage (Bonus Track NYC August 1994).flac:a38cad99aabbc1b6697d77be2bcdf28b
-bb1994-06-21t01-Egg Man.flac:fc851163b7e3a19a8256d58940348c8f
+Beastie Boys
+"Rabid" Liberated Bootleg
+1994-06-21
+Paradiso, Amsterdam, Holland
+
+Lineage: silver cd > EAC > WAV > Flac Frontend > FLAC (lvl 8)
+
+01. Egg Man
+02. Do It
+03. Pass The Mic
+04. Tough Guy
+05. Futterman's Rule - The Update
+06. POW
+07. The Maestro
+08. Alright Hear This
+09. Time To Get Ill
+10. Stand Together
+11. Root Down
+12. Bodhisattva Vow
+13. Elbow Room
+14. Heart Attack Man
+15. Sabotage
+16. Sabotage (Bonus Track--09-08-1994)
+17. Sure Shot (Bonus Track--09-09-1994)
+18. Sabotage (Bonus Track--08-xx-1994)
+

@@ -21,9 +21,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Celebrity Theatre",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-12-18 - Anaheim, CA -  Celebrity Theatre - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1991,

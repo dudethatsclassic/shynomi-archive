@@ -93,7 +93,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "notes": "Edirol R09 · unk",
+      "notes": "Edirol R09 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2018-07-17 - San Francisco, CA - Great American Music Hall (Edirol R09) (unk) [AUD24].txt"
@@ -107,7 +107,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Masquerade",
-      "notes": "AT853 · ryanj",
+      "notes": "AT853 \u00b7 ryanj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-07-27 - Atlanta, GA - The Masquerade (AT853) (ryanj) [AUD].txt"
@@ -147,7 +147,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Victoria Park",
-      "notes": "DPA 4061s · gambra",
+      "notes": "DPA 4061s \u00b7 gambra",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-06-13 - London, UK - Victoria Park (DPA 4061s) (gambra) [AUD].txt"

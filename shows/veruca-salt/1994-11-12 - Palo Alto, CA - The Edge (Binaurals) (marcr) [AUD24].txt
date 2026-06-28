@@ -1,11 +1,23 @@
-Veruca Salt - Palo Alto - 1994-11-12 - 01 - Pale Green.flac:aa0a9c1790ba50cb4a7ea7a52b00559c
-Veruca Salt - Palo Alto - 1994-11-12 - 02 - All Hail Me.flac:3c7d85cb80a894427c921e2e551e1622
-Veruca Salt - Palo Alto - 1994-11-12 - 03 - Stoneface.flac:2b3db66dcc20f9b8d8a6c80eed2a4be5
-Veruca Salt - Palo Alto - 1994-11-12 - 04 - Forsythia.flac:2affd1bc4b99f12373f07aa3c1711716
-Veruca Salt - Palo Alto - 1994-11-12 - 05 - Straight.flac:3c07bd8a0fd3aebb858bbaddb2838328
-Veruca Salt - Palo Alto - 1994-11-12 - 06 - Sleeper Car.flac:ea1e6f7dd767e1d518be5397cf629281
-Veruca Salt - Palo Alto - 1994-11-12 - 07 - Hey Little Ghost.flac:36df9eb6f45cf13581ad6d9984910659
-Veruca Salt - Palo Alto - 1994-11-12 - 08 - Seether.flac:fc4333d42bdfdd51cdd5fa629fa4f8fa
-Veruca Salt - Palo Alto - 1994-11-12 - 09 - Spiderman '79.flac:e508bd33a001ef3a9bf7396ffbf3319d
-Veruca Salt - Palo Alto - 1994-11-12 - 10 - Victrola.flac:97793171944148f9c90cb3d8eac09343
-Veruca Salt - Palo Alto - 1994-11-12 - 11 - 25.flac:71dae60f594ea2296ee4c245962a9f59
+Veruca Salt
+
+The Edge
+Palo Alto CA (USA)
+1994-11-12
+
+Recorded: MarcR
+Transferred and Presented: SxPxDxCx
+Source: MarcR binaural mics - D7 - DAT
+Transfer: DAT - D100 - Oade Digi I/O-A - DAC - AAE-9 - Audition - CDWave - FLAC
+Time: (47:24.07)
+
+01 Pale Green
+02 All Hail Me
+03 Stoneface
+04 Forsythia
+05 Straight
+06 Sleeper Car
+07 Hey Little Ghost
+08 Seether
+09 Spiderman '79
+10 Victrola
+11 25

@@ -1,24 +1,64 @@
-pj1996-10-24d1t01.flac:6e17b3412f71b85d85d59a2eeccec0ad
-pj1996-10-24d1t02.flac:0c1d7ce544eaeff9737f267b511b5bea
-pj1996-10-24d1t03.flac:79d70b545f0457b75b996b17cefa386f
-pj1996-10-24d1t04.flac:fd6ce429cd7aafd2afc7d03e480868dc
-pj1996-10-24d1t05.flac:1d46fea0c1fa71262c9b4325c677c7c0
-pj1996-10-24d1t06.flac:6859592116858d9311ee1adced64b593
-pj1996-10-24d1t07.flac:6e3af26eeca32c215ac05a7dc0c34509
-pj1996-10-24d1t08.flac:3c05afd10a76ef94a18489fdae30113a
-pj1996-10-24d1t09.flac:c754129e1d25f056d377db0a66535a52
-pj1996-10-24d1t10.flac:a280ef8f5669c1dc90df14933976a135
-pj1996-10-24d1t11.flac:c271cacd42ae317facb629d2183d198c
-pj1996-10-24d1t12.flac:a610b7b53af9497849e932a76418f913
-pj1996-10-24d1t13.flac:727576504454e7dd36640d14afc32893
-pj1996-10-24d1t14.flac:90de50052ecd89cf5d661f62578bb1e4
-pj1996-10-24d1t15.flac:0abda1eff1049e660df6184c165c23ae
-pj1996-10-24d1t16.flac:c5df385a68a0209db068e6d788a68001
-pj1996-10-24d1t17.flac:40d31d71f7a316d22daa65abcc07da3c
-pj1996-10-24d1t18.flac:28c8519b08273fec028279a6d4076fe4
-pj1996-10-24d2t01.flac:72091f576413758bbecc756d4fedc75a
-pj1996-10-24d2t02.flac:e759a8bb3959ffc281a3f92687c14133
-pj1996-10-24d2t03.flac:3ce38e8360ece4a900aba7529481a0e4
-pj1996-10-24d2t04.flac:19121058fa8c8ae929b7d5ca27e8d37f
-pj1996-10-24d2t05.flac:01d46c2181de179268396c1523a803ba
-pj1996-10-24d2t06.flac:aa51bfc6193469aeb739eb6a5bd07a40
+Pearl Jam
+10-24-96
+Millstreet Arena
+Cork, Ireland
+
+Source: Core Sound Binaurals -> Sony TCD-D7
+Lineage: DAT(c) 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> CEP 2.1 -> FLAC
+
+
+Disc I
+01 Intro
+02 Sometimes
+03 Last Exit
+04 Spin the Black Circle
+05 Hail Hail
+06 Tremor Christ
+07 In My Tree
+08 Corduroy
+09 Better Man
+10 Not For You
+11 Animal
+12 Dissident
+13 Daughter/(Bull in the Heather)/(WMA)
+14 Habit
+15 Rearviewmirror
+16 Jeremy
+17 Alive
+18 Porch 
+
+
+Disc II
+01 crowd
+02 I Got Shit
+03 Lukin
+04 Even Flow
+05 Present Tense
+06 Yellow Ledbetter
+
+
+
+Notes: Sound improves greatly during the middle of Last Exit.
+
+Small dropout during betterman.
+
+
+
+Thanks to JR for the DAT.
+
+transfer by BLG
+compiled on 01-30-05
+
+
+
+
+
+
+
+
+
+
+
+
+

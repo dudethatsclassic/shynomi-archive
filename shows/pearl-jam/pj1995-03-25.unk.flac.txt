@@ -1,26 +1,55 @@
-pj1995-03-25d2t09.flac:bb2cac40cc83528f1e54d3ca1f6a96fa
-pj1995-03-25d1t01.flac:b94f70f6d1733e3fe825b858b3afc85b
-pj1995-03-25d1t02.flac:1f73946b7ebd8017c730fab237ab1d8a
-pj1995-03-25d1t03.flac:e5636be6166158a1c6fa03ac02ec6b5a
-pj1995-03-25d1t04.flac:14b7338201bb9cbe53f8e8490c80a570
-pj1995-03-25d1t05.flac:c78c3e431dd123d8b129e8d0ff3c69ac
-pj1995-03-25d1t06.flac:8debdb9569e4baab22df3f09493ea329
-pj1995-03-25d1t07.flac:3effd8018026b82e064780f991dffa44
-pj1995-03-25d1t08.flac:5e3a72ac1b07e7a759b21732a2d87fd6
-pj1995-03-25d1t09.flac:827fabd88149acdad27a42379a38aba0
-pj1995-03-25d1t10.flac:1f7038537642d0ccd4a107a916cecd13
-pj1995-03-25d1t11.flac:acf629bc4a6fbff3bfc2f44c9829e329
-pj1995-03-25d1t12.flac:ac5d1f306b6cbec9af522016406437a2
-pj1995-03-25d1t13.flac:a00b389146ef3b5c0c7af143b5729f28
-pj1995-03-25d1t14.flac:fa4640951cddcb907928ea3107bef9a5
-pj1995-03-25d1t15.flac:1db6f3457b6ead7ef918aa408044f763
-pj1995-03-25d1t16.flac:118ac02716c5a49d87ec45a4dd526039
-pj1995-03-25d1t17.flac:9a2fb8e9da24b836f7bad2c6980cb140
-pj1995-03-25d2t01.flac:6a76f93ccd630f025dc0e6241fc433bd
-pj1995-03-25d2t02.flac:47b4027a01740a96c22f20a2ca800270
-pj1995-03-25d2t03.flac:a547ab9b272d287f5821f3ecec6fe5fb
-pj1995-03-25d2t04.flac:55f884c02cea6271de338f63b7aa10f4
-pj1995-03-25d2t05.flac:1a514d2574e5e720271896c6559b1436
-pj1995-03-25d2t06.flac:61a3d9fc74ff2eff20330ac37c62bd5a
-pj1995-03-25d2t07.flac:670b9067a4f88310479a45100fbccd50
-pj1995-03-25d2t08.flac:24b3df9d6d38155bcc53243f19a04854
+1995-03-25 Pearl Jam
+
+Mt. Smart Super Top: Auckland, New Zealand
+
+Source: Unknown Microphones > Unknown DAT > Cassette 3rd Gen > CD-R > EAC > dEdit > dEQ ( with Adobe Audition v.1.0) > FLAC
+
+Disc 1:
+
+01 - Release 04:32
+02 - Go 03:02
+03 - Last Exit 02:32
+04 - Spin the Black Circle 02:40
+05 - Tremor Christ 04:00
+06 - Not For You 06:49
+07 - Rearviewmirror 06:02
+08 - Small Town 03:11
+09 - Animal 02:35
+10 - Why Go 03:36
+11 - Jeremy 05:45
+12 - Glorified G 03:44
+13 - Daughter/State of Love and Trust 08:58
+14 - Garden pt.1 00:19
+15 - Garden pt.2 05:46
+16 - Corduroy 05:30
+17 - Lukin 01:04
+
+Disc 2:
+
+01 - Betterman 04:24
+02 - Alive 06:06
+03 - Porch 10:21
+04 - Jam 00:51
+05 - Blood 04:45
+06 - Black 05:38
+07 - Immortality 07:05
+08 - History Never Repeats 06:03 (With Neil and Tim Finn)
+09 - I Got You 04:09 (With Neil and Tim Finn)
+
+Notes: A few dropouts during "Tremor Christ" and brief stereo-to-mono phase shift during "Why Go". 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

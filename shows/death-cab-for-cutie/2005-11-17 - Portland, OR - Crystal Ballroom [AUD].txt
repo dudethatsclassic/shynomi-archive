@@ -1,20 +1,48 @@
-dcfc2005-11-17d1t02.flac:d33d85bfdb2daa0ec48629764db66b50
-dcfc2005-11-17d1t03.flac:4332f257eb7f6abf1cb93e98fb8d9f62
-dcfc2005-11-17d1t04.flac:838944a95889b8b35bb80b51e76d120f
-dcfc2005-11-17d1t05.flac:4e77d61fc08c77233fc9c71ba0bbc72d
-dcfc2005-11-17d1t06.flac:880d14fccbf70404699e830e8570d157
-dcfc2005-11-17d1t07.flac:56857ab3bd91d8525fd58664c82c6bcd
-dcfc2005-11-17d1t08.flac:26416d9db00da60e88197e25c6589931
-dcfc2005-11-17d1t09.flac:afefb3faad2fb8e5b89079a86d3a38ec
-dcfc2005-11-17d1t10.flac:6171685fe62b742afa4bc47d0df00721
-dcfc2005-11-17d1t11.flac:b44f2b08ebf88e4842eb50ab23188764
-dcfc2005-11-17d2t01.flac:c0b6afe4fe2ae07aa21791baf5b4705d
-dcfc2005-11-17d2t02.flac:7e1ad8807325b5fad6afa59dc7f11126
-dcfc2005-11-17d2t03.flac:56443f5a7d8a1a7267e7500e7106dff0
-dcfc2005-11-17d2t04.flac:eb7e96f76fc3abe9c63167c94a4ecd41
-dcfc2005-11-17d2t05.flac:b513b1892c05b10ae9d17ef49734e940
-dcfc2005-11-17d2t06.flac:df6b5d45589bdf30a8f0620290fbca23
-dcfc2005-11-17d2t07.flac:cc99f838934a60726a99c0b1d99eba94
-dcfc2005-11-17d2t08.flac:7785fce8d5bf86d9ce5d42f025381cda
-dcfc2005-11-17d2t09.flac:3ea8cf73502b22d5bafdfc347a18944a
-dcfc2005-11-17d1t01.flac:b2f13251749ad256a67eb02db1486195
+Death Cab for Cutie
+11/17/2005
+Crystal Ballroom
+Portland OR
+
+Taper: Ryan Olsen (digginaditch@hotmail.com)
+Source: DPA 4061 > DPA mma6000 > M-Audio MicroTrack 24/96
+Conversion: Audacity1.2.4 > CD Wave 1.9.3.14 (track & flac)
+Location: DFC in the crowd, 20' from stage, mics worn binaurally
+
+==========================================
+
+Disc 1
+
+01. Intro
+02. Marching Bands of Manhattan
+03. The New Year >
+04. Why You'd Want to Live Here
+05. Title & Registration
+06. Soul Meets Body
+07. Summer Skin
+08. President of What? >
+09. Photobooth
+10. Crooked Teeth
+11. Different Names for the Same Thing
+
+
+Disc 2
+
+01. For What Reason
+02. Company Calls
+03. Company Calls Epilogue
+04. What Sarah Said
+05. Expo '86
+06. The Sound of Settling
+encore
+07. I Will Follow You Into the Dark
+08. Tiny Vessels >
+09. Transatlanticism*
+
+
+Notes:
+
+*w/ members of Stars
+No DSP/EQ was done in the processing of this show
+A 24/48 version of this show is also available
+
+compiled by Ryan Olsen (digginaditch@hotmail.com) 12/11/2005

@@ -22,7 +22,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -35,9 +35,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "House Of Blues",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-03-09 - West Hollywood, CA - House Of Blues - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1999,
@@ -48,7 +49,7 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Richmond, VA",
       "venue": "Mayo Island Music Festival",
-      "notes": "CM701s · tunegrabber",
+      "notes": "CM701s \u00b7 tunegrabber",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-05-16 - Richmond, VA - Mayo Island Music Festival (CM701s) (tunegrabber) [AUD].flac.txt"
@@ -62,7 +63,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Kia Forum",
-      "notes": "SP-CMC-4U · unk",
+      "notes": "SP-CMC-4U \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-09-03 - Inglewood, CA - The Kia Forum (SP-CMC-4U) (unk) [AUD].txt"
@@ -76,9 +77,10 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Wolf Trap",
-      "notes": "with Digable Planets & Arrested Development · Schoeps MK4 · bob jacobson",
+      "notes": "with Digable Planets & Arrested Development \u00b7 Schoeps MK4 \u00b7 bob jacobson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-08-31 - Vienna, VA - Wolf Trap (with Digable Planets & Arrested Development) (Schoeps MK4) (bob jacobson) [AUD].txt"
     },
     {
       "year": 2025,
@@ -89,9 +91,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Blue Note",
-      "notes": "Early set · Zoom H4n Pro · randybayers",
+      "notes": "Early set \u00b7 Zoom H4n Pro \u00b7 randybayers",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-03-15 - New York, NY - The Blue Note (Early set) (Zoom H4n Pro) (randybayers) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -102,9 +105,10 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Ft. Adams State Park",
-      "notes": "Newport · Schoeps MK4 · funk it blog",
+      "notes": "Newport \u00b7 Schoeps MK4 \u00b7 funk it blog",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-08-01 - Newport, RI - Ft. Adams State Park - Newport Jazz Festival (Schoeps MK4) (funk it blog) [AUD24].txt"
     }
   ],
   "misc": []

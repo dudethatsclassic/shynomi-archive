@@ -21,7 +21,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Chestnut Cabaret",
-      "notes": "billydee · 2023 remaster",
+      "notes": "billydee \u00b7 2023 remaster",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1989-05-18 - Philadelphia, PA - Chestnut Cabaret (billydee) (2023 remaster) [SBD].txt"
@@ -49,7 +49,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park",
-      "notes": "Tibetan · unk · neekrive",
+      "notes": "Tibetan \u00b7 unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -76,10 +76,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Green Bay, WI",
       "venue": "Leicht Memorial Park",
-      "notes": "Sennheiser Ambeo · unk",
+      "notes": "Sennheiser Ambeo \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-04-23 - Green Bay, WI - Leicht Memorial Park (Zoom H2) (unk) [AUD24].txt"
+      "textFile": "2025-04-23 - Green Bay, WI - Leicht Memorial Park (Sennheiser Ambeo) (unk) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -90,10 +90,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Green Bay, WI",
       "venue": "Leicht Memorial Park",
-      "notes": "Shure MV88 · unk",
+      "notes": "Shure MV88 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-04-23 - Green Bay, WI - Leicht Memorial Park (Zoom H2) (unk) [AUD24].txt"
+      "textFile": "2025-04-23 - Green Bay, WI - Leicht Memorial Park (Shure MV88) (unk) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -104,7 +104,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Green Bay, WI",
       "venue": "Leicht Memorial Park",
-      "notes": "Zoom H2 · unk",
+      "notes": "Zoom H2 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-04-23 - Green Bay, WI - Leicht Memorial Park (Zoom H2) (unk) [AUD24].txt"
@@ -118,9 +118,10 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Ft. Adams State Park",
-      "notes": "Newport · Schoeps MK4 · funk it blog",
+      "notes": "Newport \u00b7 Schoeps MK4 \u00b7 funk it blog",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-08-03 - Newport, RI - Ft. Adams State Park - Newport jazz Festival (Schoeps MK4) (funk it blog) [AUD24].txt"
     }
   ],
   "misc": []
