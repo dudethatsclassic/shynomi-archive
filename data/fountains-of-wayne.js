@@ -26,9 +26,9 @@ const ARTIST_DATA = {
       "day": null,
       "dateStr": "6-XX-1997",
       "city": "Las Vegas",
-      "state": "NV - Hogs And Heifers",
-      "location": "Las Vegas, NV - Hogs And Heifers",
-      "venue": "",
+      "state": "NV",
+      "location": "Las Vegas, NV",
+      "venue": "Hogs And Heifers",
       "notes": "",
       "version": "SBD",
       "format": "MP3"
@@ -55,7 +55,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Dingwalls",
-      "notes": "DPA 4061 \u00b7 unk",
+      "notes": "DPA 4061 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-04-19 - London, UK - Dingwalls [AUD].txt"
@@ -69,7 +69,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Sam Goody",
-      "notes": "Aiwa Clip-on>Sony MZ-R50 MD \u00b7 kamenlitter",
+      "notes": "Aiwa Clip-on>Sony MZ-R50 MD · kamenlitter",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-05-25 - New York, NY - Sam Goody [AUD].txt"
@@ -83,7 +83,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Shelter",
-      "notes": "CSB \u00b7 mitaper78",
+      "notes": "CSB · mitaper78",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-11-13 - Detroit, MI - The Shelter (CSB) (mitaper78) [AUD].txt"
@@ -97,7 +97,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Double Door",
-      "notes": "unk \u00b7 aadam jacobs",
+      "notes": "unk · aadam jacobs",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-11-15 - Chicago, IL - Double Door (unk) (aadam jacobs) [AUD].txt"
@@ -125,7 +125,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Tower Records",
-      "notes": "unk \u00b7 aadam jacobs",
+      "notes": "unk · aadam jacobs",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-06-10 - Chicago, IL - Tower Records (unk) (aadam jacobs) [AUD].txt"
@@ -166,7 +166,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "unk \u00b7 aadam jacobs",
+      "notes": "unk · aadam jacobs",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-07-17 - Chicago, IL - Metro (unk) (aadam jacobs) [AUD].txt"
@@ -194,7 +194,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore",
-      "notes": "DAT(M) \u00b7 Schoeps MK4 \u00b7 ted mattes",
+      "notes": "DAT(M) · Schoeps MK4 · ted mattes",
       "version": "AUD (48k)",
       "format": "FLAC",
       "textFile": "2003-07-25 - San Francisco, CA - Fillmore - DAT(M) (Schoeps MK4) (ted mattes) [AUD].txt"
@@ -222,7 +222,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "notes": "unk \u00b7 aadam jacobs",
+      "notes": "unk · aadam jacobs",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-11-19 - Chicago, IL - Vic Theatre (unk) (aadam jacobs) [AUD].txt"
@@ -263,7 +263,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Avalon",
-      "notes": "Sony ECM-717 \u00b7 jason adler",
+      "notes": "Sony ECM-717 · jason adler",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-05-06 - Boston, MA - Avalon [AUD].txt"
@@ -277,7 +277,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Taste of Randolph",
-      "notes": "unk \u00b7 aadams jacobs",
+      "notes": "unk · aadams jacobs",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-06-19 - Chicago, IL - Taste of Randolph (unk) (aadams jacobs) [AUD].txt"
@@ -319,7 +319,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Copley Square",
-      "notes": "SP-TFB-2s \u00b7 falcomadol",
+      "notes": "SP-TFB-2s · falcomadol",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-07-22 - Boston, MA - Copley Square (SP-TFB-2s) (falcomadol) [AUD].txt"
@@ -333,7 +333,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "notes": "M \u00b7 Sony ECM-DS70P \u00b7 unk",
+      "notes": "M · Sony ECM-DS70P · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-06-13 - Minneapolis, MN - First Avenue (M) (Sony ECM-DS70P) (unk) [AUD].txt"
@@ -389,7 +389,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Copely Square Park",
-      "notes": "SP-CMC-20 \u00b7 unk",
+      "notes": "SP-CMC-20 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-08-09 - Boston, MA - Copely Square Park [AUD].txt"
@@ -403,7 +403,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Cafe du Nord",
-      "notes": "Schoeps CCM-4 \u00b7 unk",
+      "notes": "Schoeps CCM-4 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-01-19 - San Francisco, CA - Cafe du Nord [AUD].txt"
@@ -417,7 +417,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Annapolis, MD",
       "venue": "Rams Head Tavern",
-      "notes": "DPA 4061 \u00b7 kubacheck",
+      "notes": "DPA 4061 · kubacheck",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-02-20 - Annapolis, MD - Rams Head Tavern [AUD].txt"
@@ -431,7 +431,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Maxwell's",
-      "notes": "DPA 4021 \u00b7 scott bernstein",
+      "notes": "DPA 4021 · scott bernstein",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-06-29 - Hoboken, NJ - Maxwell's [AUD].txt"
@@ -473,10 +473,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "HSB10",
-      "notes": "Towers \u00b7 DPA 4023 \u00b7 jean lerond",
+      "notes": "Towers · DPA 4023 · jean lerond",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-10-02 - San Francisco, CA - HSB10 Towers of Gold Stage [AUD].txt"
+      "textFile": "2010-10-02 - San Francisco, CA - HSB10 Towers of Gold Stage (MK4) (daspyknows) [AUD].txt"
     },
     {
       "year": 2010,
@@ -487,7 +487,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "HSB10",
-      "notes": "Towers \u00b7 MK4 \u00b7 daspyknows",
+      "notes": "Towers · MK4 · daspyknows",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-10-02 - San Francisco, CA - HSB10 Towers of Gold Stage (MK4) (daspyknows) [AUD].txt"
@@ -501,7 +501,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Troubador",
-      "notes": "Edirol R-09HR \u00b7 scooter123",
+      "notes": "Edirol R-09HR · scooter123",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-10-13 - Los Angeles, CA - Troubador [AUD].txt"
@@ -515,7 +515,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Double Door",
-      "notes": "CA-14s \u00b7 brian emerick",
+      "notes": "CA-14s · brian emerick",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-04-27 - Chicago, IL - The Double Door [AUD].txt"
@@ -529,7 +529,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
-      "notes": "Yep \u00b7 CEMC6-CK4 \u00b7 unk",
+      "notes": "Yep · CEMC6-CK4 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-10-12 - Carrboro, NC - Cat's Cradle - Yep Roc 15th Anniversary [AUD].txt"
