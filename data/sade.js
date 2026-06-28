@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "RAI 3",
       "notes": "unk",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1984-10-XX - Milano, Italy - RAI 3 (unk) [SBD].txt"
     }
   ],
   "misc": []
