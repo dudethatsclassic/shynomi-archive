@@ -401,7 +401,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "",
-      "textFile": "1978-07-16 - Boston, MA - Paradise Rock Club  (WMET FM Chicago Broadcast) (r.j.p.) [FM24].txt"
+      "textFile": "1978-07-16 - Boston, MA - Paradise Rock Club - Breakdown [FM].txt"
     },
     {
       "year": 1978,
@@ -415,7 +415,7 @@ const ARTIST_DATA = {
       "notes": "WMET FM Chicago Broadcast \u00b7 r.j.p.",
       "version": "FM",
       "format": "",
-      "textFile": "1978-07-16 - Boston, MA - Paradise Rock Club - Breakdown [FM].txt"
+      "textFile": "1978-07-16 - Boston, MA - Paradise Rock Club  (WMET FM Chicago Broadcast) (r.j.p.) [FM24].txt"
     },
     {
       "year": 1978,
@@ -1323,7 +1323,7 @@ const ARTIST_DATA = {
       "notes": "mr",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-06-23 - East Troy, WI - Alpine Valley (AKG 460B) (rb) [AUD24].txt"
+      "textFile": "1985-06-23 - East Troy, WI - Alpine Valley Music Theater (inc) [AUD].txt"
     },
     {
       "year": 1985,
@@ -1337,7 +1337,7 @@ const ARTIST_DATA = {
       "notes": "AKG 460B \u00b7 rb",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-06-23 - East Troy, WI - Alpine Valley Music Theater (inc) [AUD].txt"
+      "textFile": "1985-06-23 - East Troy, WI - Alpine Valley (AKG 460B) (rb) [AUD24].txt"
     },
     {
       "year": 1985,
@@ -2316,7 +2316,7 @@ const ARTIST_DATA = {
       "notes": "DAT(1) \u00b7 CMC64 \u00b7 blg transfer",
       "version": "AUD",
       "format": "",
-      "textFile": "1997-01-10 - San Francisco, CA - The Fillmore - DAT(1) (CMC64) (blg transfer) [AUD].txt"
+      "textFile": "1997-01-10 - San Francisco, CA - The Fillmore (Schoeps) (dolphinsmile) [AUD].txt"
     },
     {
       "year": 1987,
@@ -3056,7 +3056,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 jeftak \u00b7 krw_co transfer",
       "version": "AUD (48k)",
       "format": "",
-      "textFile": "2002-08-31 - Marysville, CA - Autowest Amphitheater - DAT(M) (jeftak) (krw_co transfer) (48k) [AUD].txt"
+      "textFile": "2002-08-31 - Wheatland, CA - Sacramento Valley Amphitheater (KM-140) (evan) [AUD].txt"
     },
     {
       "year": 2002,
@@ -3070,7 +3070,7 @@ const ARTIST_DATA = {
       "notes": "KM-140 \u00b7 evan",
       "version": "AUD",
       "format": "",
-      "textFile": "2002-08-31 - Wheatland, CA - Sacramento Valley Amphitheater (KM-140) (evan) [AUD].txt"
+      "textFile": "2002-08-31 - Marysville, CA - Autowest Amphitheater - DAT(M) (jeftak) (krw_co transfer) (48k) [AUD].txt"
     },
     {
       "year": 2002,

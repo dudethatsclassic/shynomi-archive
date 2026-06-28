@@ -1,26 +1,38 @@
-rh1995-11-06-aud-t01.flac:db2279248bf58754874f9b07011644a8
-rh1995-11-06-aud-t02.flac:342e11c2807498ae39a5c42c3399fd96
-rh1995-11-06-aud-t03.flac:d3b7368e9835dd6a1ac8f0519e1033ae
-rh1995-11-06-aud-t04.flac:6b1ac70be5ef076df92ffd31c3dfa3f9
-rh1995-11-06-aud-t05.flac:cebdf435dcd3b5ef38410198fad60b0d
-rh1995-11-06-aud-t06.flac:099e77693e4403f43a690447851c3b97
-rh1995-11-06-aud-t07.flac:c3bc0c7eac31f538eaab04f8625fb6e6
-rh1995-11-06-aud-t08.flac:5afda9c31972d88695a844b38687b75e
-rh1995-11-06-aud-t09.flac:3b3f6c6b90be7556f3593e8f4b52a64f
-rh1995-11-06-aud-t10.flac:eeba3484b7af69fd1a242866b759575a
-rh1995-11-06-aud-t11.flac:80139912878376ab7f450c0d99d287f8
-rh1995-11-06-aud-t12.flac:d9e82c6e9de6879a23bf58586e2e42f9
-rh1995-11-06-aud-t13.flac:229e8da5e4c41447955eb652cc1ddfe9
-rh1995-11-06-aud-t14.flac:daba338542fc16b483ea4dfc6fbd52af
-rh1995-11-06-aud-t15.flac:0c319a72bb96e006b3176e411a376ced
-rh1995-11-06-aud-t16.flac:cf0e20473c6f706ee0815fc7fc2d3832
-rh1995-11-06-aud-t17.flac:100f3a736d272276d8eac646476ce9f1
-rh1995-11-06-aud-t18.flac:5d95af17840ed79372cc11a36799357f
-rh1995-11-06-aud-t19.flac:27af975c50d02fb165cecfcdaf9b1892
-rh1995-11-06-aud-t20.flac:8465fd3c3f22bc431745a62b40879f80
-rh1995-11-06-aud-t21.flac:0300f275a69edf40c3ce08b67e45b0b2
-rh1995-11-06-aud-t22.flac:ccf2605fc930a03587c268757392ecde
-rh1995-11-06-aud-t23.flac:e3264b4493b1f305e1480082ade90855
-rh1995-11-06-aud-t24.flac:6f15e044df6985002e85ae965487197e
-rh1995-11-06-aud-t25.flac:1c6ba9431fdd1f640f0b99098c535389
-rh1995-11-06-aud-t26.flac:89c04e86d5eb1a0b81c59143ae8bffe9
+Radiohead
+1995-11-06
+Cambridge
+Corn Exchange
+
+Unknown AUD>?>TDK SR90 C90>Sansui D-99MW>GoldWave 5.10>FLAC frontend 1.7.1 Etree edition
+
+01 Intro
+02 The Bends
+03 Bones
+04 Anyone Can Play Guitar
+05 Bullet Proof..I Wish I Was
+06 High And Dry
+07 Lucky
+08 Creep
+09 Big Boots
+10 Planet Telex
+11 Vegetable
+12 Bishop's Robes
+13 My Iron Lung
+14 Just
+15 'could the people down the front please get some water?'
+16 Blow Out
+17 Fake Plastic Trees
+18 encore 1
+19 Subterranean Homesick Alien
+20 (Nice Dream)
+21 'i never ever read the press, but...'
+22 Street Spirit (Fade Out)
+23 'thank you to the support band'
+24 Stop Whispering
+25 encore 2
+26 You
+
+seeded by Keir 2005-12-06
+
+share the flacs freely and never accept money for them
+convert to mp3 for personal use if you must, never share them

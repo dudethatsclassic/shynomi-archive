@@ -1,20 +1,33 @@
-garbage1998-0924d1t01.flac:0920560ccba976c1bc4511cb466c005d
-garbage1998-0924d1t02.flac:22ffa4fa36a881365389dea12aa948ba
-garbage1998-0924d1t03.flac:50de8f6f16c102a20cfcd2917d986aff
-garbage1998-0924d1t04.flac:2fbd8fb5f923cfece78850e801b95340
-garbage1998-0924d1t05.flac:23eca7d9fa54364a47d506b17b54fc61
-garbage1998-0924d1t06.flac:2889eba1503ecdde6b8ff599eeea627a
-garbage1998-0924d1t07.flac:f6b3b031d5537a26997df7871f25176a
-garbage1998-0924d1t08.flac:9a2f35953c3107d5b76a955bfe90a0f5
-garbage1998-0924d1t09.flac:11889e5f79ec47c12be3260d7152dc24
-garbage1998-0924d1t10.flac:6a5cab672e2f1658a31c791cce63207b
-garbage1998-0924d1t11.flac:5ab6c913dcaef3de7467b2f30f952616
-garbage1998-0924d1t12.flac:2d96f9bcc9c69fda8c418c8f09c087d8
-garbage1998-0924d1t13.flac:bb3160c6da908e46157f96c44f0b6de0
-garbage1998-0924d1t14.flac:e9563c6c6ddb4c94a6fccc3285abfa97
-garbage1998-0924d1t15.flac:25388d9f3fe60d832fd22c00a428bcd1
-garbage1998-0924d1t16.flac:e02642e04bc39cf0aec175b0990fafd7
-garbage1998-0924d2t01.flac:8898e5a74a644e2345b7bcc01528abc2
-garbage1998-0924d2t02.flac:1777e8970c478c49736f4366ed672d67
-garbage1998-0924d2t03.flac:0bb786c22ab19480498712ca65e0fa15
-garbage1998-0924d2t04.flac:02c42702783fcada8e44d57c839b0ff2
+Garbage
+Freeborn Hall - Davis CA
+Sept 24, 1998
+
+cd1:
+
+01. intro
+02. Temptation Waits 
+03. Not My Idea 
+04. I Think I'm Paranoid 
+05. Special 
+06. My Lover's Box  
+07. Hammering In My Head 
+08. Thirteen 
+09. #1 Crush  
+10. Stupid Girl  
+11. Vow 
+12. When I Grow Up
+13. Queer 
+14. Push It  
+15. Only Happy When It Rains  
+16. You Look So Fine 
+
+cd2:
+
+01. Milk 
+02. Lick The Pavement 
+03. Wicked Ways
+
+Neumann KM140's > Aerco > SBM1 > D8
+master > standalone cdr > eac/wav > flac
+
+Enjoy! 

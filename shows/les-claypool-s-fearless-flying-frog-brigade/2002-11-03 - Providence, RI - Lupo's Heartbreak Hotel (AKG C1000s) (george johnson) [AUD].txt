@@ -1,15 +1,33 @@
-FFFB_2002-11-03_S1T01.flac:48375d8d1c93b475a6be7b1965f0a765
-FFFB_2002-11-03_S1T02.flac:f2b1e8f304cec2c9b027ffa19e0e118e
-FFFB_2002-11-03_S1T03.flac:1c633081a1532f6404d9c84c3575e69e
-FFFB_2002-11-03_S1T04.flac:7cbb23b09c46f9803dacb8af539b6a4c
-FFFB_2002-11-03_S1T05.flac:509093f109d273e4cd7914c2134a6ef6
-FFFB_2002-11-03_S1T06.flac:635e2726cb7192f9ea6af03c670f70f4
-FFFB_2002-11-03_S1T07.flac:45085cf3b3d00e767dc1d15d5afb8380
-FFFB_2002-11-03_S1T08.flac:9e7873ac28f99c4e0edfb9674b1b8e92
-FFFB_2002-11-03_S1T09.flac:131376ccb188d72220012df8f1e3e9b1
-FFFB_2002-11-03_S1T10.flac:6dea9024f9fd04868d111818172e1e2f
-FFFB_2002-11-03_S1T11.flac:c63bb03e55cd83f80e642d63196aacea
-FFFB_2002-11-03_S1T12.flac:4721c25c16e73adb533637582fd86002
-FFFB_2002-11-03_S1T13.flac:ae42f8cb8657c8cc3f154cd3257f53b0
-FFFB_2002-11-03_S1T14.flac:5b56e075dee47a94da3863a6cdb1f2fe
-FFFB_2002-11-03_S1T15.flac:0df212737a4686771502a251c90a3eea
+Les Claypool's Fearless Flying Frog Brigade
+11/3/2002
+Lupo's Heartbreak Hotel - Providence, RI
+
+Source: AKG C1000's > Behringer MXB1002 > DA-P1
+Transfer: Tascam DA-20 MKII > Tascam DR-680 > Audacity > WAV > Traders Little Helper > FLAC
+Taped by George Johnson
+Tracked & Seeded by Bill Graves
+
+1. Crowd / Tuning
+2. Up on the Roof >
+3. Cosmic Highway
+4. Long in the Tooth
+5. Intruder
+6. D's Diner
+7. Holy Mackerel *
+8. Highball with the Devil
+9. David Makalaster I >
+10. Southbound Pachyderm Tease >
+11. David Makalaster I >
+12. David Makalaster II
+13. Whamola
+
+~ Encore ~
+14. Crowd 
+15. Locomotive Breath
+
+*-w/Ike Willis (Guitar)
+
+Huge thanks to George Johnson for letting me borrow the archives.
+
+This show is a Boiler in the Basement Installment –
+https://boilerinthebasementmusic.wordpress.com/

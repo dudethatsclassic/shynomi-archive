@@ -1,26 +1,40 @@
-radiohead2006-0623d1t01.flac:a89fa80d51d2ba42965b378767633db7
-radiohead2006-0623d1t02.flac:cc74c52371752c61f0d6f918cec6ddee
-radiohead2006-0623d1t03.flac:d7cb4f5864639a9f94005ca86de3fd9b
-radiohead2006-0623d1t04.flac:c78c96c95a63b82acce9c288cc555cb3
-radiohead2006-0623d1t05.flac:25d82905c3fe9fcf32196abb7dd8033a
-radiohead2006-0623d1t06.flac:c888310b86ab5c3529a6ea608b73f8ce
-radiohead2006-0623d1t07.flac:17fcec27eb074d8962e7083278089970
-radiohead2006-0623d1t08.flac:e7205ba563241733e5444a334b82f8a2
-radiohead2006-0623d1t09.flac:c9f3f2a18bec28ac07c7bdccb9fbe8c5
-radiohead2006-0623d1t10.flac:6dc6782f96763fcee684ee31b5f799ac
-radiohead2006-0623d1t11.flac:80e3943125aa95e62d002d47b6f36e29
-radiohead2006-0623d1t12.flac:d30bc3c2aff89852599113e60a1cded1
-radiohead2006-0623d1t13.flac:b8f56fda862647e3d9249b1eb0a3f6db
-radiohead2006-0623d1t14.flac:aa157232580d7458a9bdd4eb15a8ac13
-radiohead2006-0623d1t15.flac:23f5d97350ee2aafa1857d88cc5b4075
-radiohead2006-0623d1t16.flac:6cf73371f7d8bbb63d6ed6fc0bab626f
-radiohead2006-0623d1t17.flac:354331adb488d5f835f1752c485ee91d
-radiohead2006-0623d1t18.flac:ac847cdc7d69798185a9649e4b84fcc0
-radiohead2006-0623d2t01.flac:60e5f76a30071daa5fde40e53f30e313
-radiohead2006-0623d2t02.flac:91ff4072f9bedef0bd5822280da78404
-radiohead2006-0623d2t03.flac:6e7f9e335eebdb2c654745b5a26a2817
-radiohead2006-0623d2t04.flac:511c29d16d62128e465802124449deb1
-radiohead2006-0623d2t05.flac:892d01a3861eaca6155a87842909b82f
-radiohead2006-0623d2t06.flac:72be6d1c72a15b2f0c4d0ccfe3fb5df5
-radiohead2006-0623d2t07.flac:b5be12a05460d0cbac5030b15bd17cc4
-radiohead2006-0623d2t08.flac:f62c8b0196861ceb11303a5be999649e
+Radiohead 
+Monday June 26 2006
+Bayside Embarcadero
+San Diego, CA
+
+CD1
+
+01 intro
+02 There There
+03 2+2=5
+04 15 Step
+05 Morning Bell
+06 Kid A
+07 Arpeggi
+08 Videotape
+09 The National Anthem
+10 Nude
+11 Down Is The New Up
+12 Paranoid Android
+13 All I Need
+14 The Gloaming
+
+CD2
+
+01 You And Whose Army
+02 Idioteque
+03 Bangers And Mash
+04 How To Disappear Completely
+
+   Encore 1
+05 House Of Cards
+06 Street Spirit
+07 Just
+08 Everything In Its Right Place
+   Encore 2
+09 4 Minute Warning
+10 Lucky
+
+Source: Neumann KM140s (fob) > Sound Devices MP2 > Sony SBM1 (48k) > Sony D7
+Transfer: DAT master > Standalone CD > EAC > PC/WAV > FLAC 

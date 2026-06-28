@@ -1,21 +1,36 @@
-petty2005-0826d1_01.flac:d14a81c5fc275a3c291be83a764cc744
-petty2005-0826d1_02.flac:88c7afce810666dc3fc08ff7a64a3524
-petty2005-0826d1_03.flac:d214fad3eccccffebd354f55ade21ed4
-petty2005-0826d1_04.flac:fab041de95b190e21dbd7c8c7c708cfe
-petty2005-0826d1_05.flac:950730d0b9f1c7aa9f31c66d03471875
-petty2005-0826d1_06.flac:57ce22ea6a6802a5007b08bd3c57a42d
-petty2005-0826d1_07.flac:d525a3f682f9e446ea7131c4f3ab297f
-petty2005-0826d1_08.flac:afacedf3353b13ed18ff25215cb8d22a
-petty2005-0826d1_09.flac:a6a4fa0da3ced56eefce0088d104d45c
-petty2005-0826d1_10.flac:19f63fecf2cb340f39bf4c6af522dff0
-petty2005-0826d1_11.flac:a6bdb373ee98c30ccfde98ab75bbda45
-petty2005-0826d1_12.flac:7bbf47ca923f9dee771dc03310028f05
-petty2005-0826d2_01.flac:f5b2ac78d12300437730a5fafeeecc5d
-petty2005-0826d2_02.flac:731b07b4f289ab5cc869a1ae7abee33b
-petty2005-0826d2_03.flac:9a2618dd46ef007672ec5d2a7aaaa089
-petty2005-0826d2_04.flac:d5cdf645c64daa7a4190d472fff910af
-petty2005-0826d2_05.flac:b2b67bfa339597a4a700d361d0cd8596
-petty2005-0826d2_06.flac:3253cf5fcc6388e218b0f1f6ff08a81a
-petty2005-0826d2_07.flac:cf23d7d428abfe356a866bdb71989e8e
-petty2005-0826d2_08.flac:a8f8ac3db2d786ebb2e3289f7b324338
-petty2005-0826d2_09.flac:1fad3fbbe0082db4db9f9e8c489369f8
+GARBAGE
+Sept 7, 2005
+The Catalyst 
+Santa Cruz, CA 
+
+cd1:
+
+01. intro/Hurt
+02. Queer
+03. Bad Boyfriend 
+04. Boys Wanna Fight 
+05. Shirley talks...
+06. Sex is Not the Enemy  
+07. Why Do You Love Me 
+08. Vow 
+09. Cherry Lips 
+10. Only Happy When it Rains 
+11. Metal Heart 
+12. Happy Home 
+13. Shut Your Mouth 
+14. When I Grow Up 
+15. I Think I'm Paranoid 
+16. Push It 
+17. Right Between the Eyes 
+
+cd2:
+
+01. Bleed Like Me 
+02. #1 Crush 
+03. Thirteen 
+04. I Fall To Pieces 
+05. Shirley banter...
+06. Stupid Girl
+
+Neumann KM140s > Sound Devices MP2 > Sony SBM1 > Sony D7
+master > standalone CDR > EAC/wav > FLAC

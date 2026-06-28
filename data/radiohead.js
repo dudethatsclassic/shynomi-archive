@@ -2337,7 +2337,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 SS-DSM6 \u00b7 chris m.",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-09-20(12) - Dallas, TX,  Starplex Amptheater (or Birmingham, AL - Jefferson Civic Center) DSM-6 [AUD].txt"
+      "textFile": "1995-09-20 - Dallas, TX - Starplex Ampitheater [AUD].txt"
     },
     {
       "year": 1995,
@@ -2742,7 +2742,7 @@ const ARTIST_DATA = {
       "notes": "CASS(1)",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1995-12-05 - Brussels, Belgium - La Luna Theatre [AUD#1].txt"
+      "textFile": "1995-12-05 - Brussels, Belgium - La Luna Theatre [AUD].txt"
     },
     {
       "year": 1995,
@@ -2756,7 +2756,7 @@ const ARTIST_DATA = {
       "notes": "Video8(M) \u00b7 j.f & c.c",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "1995-12-05 - Brussels, Belgium - La Luna Theatre [AUD].txt"
+      "textFile": "1995-12-05 - Brussels, Belgium - La Luna Theatre [AUD#1].txt"
     },
     {
       "year": 1995,
@@ -2770,7 +2770,7 @@ const ARTIST_DATA = {
       "notes": "Moonraker MMR6",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "1995-12-12 - Toronto, Canada - The Warehouse - The Warehouse [Silver].txt"
+      "textFile": "1995-12-12 - Toronto, Canada - The Warehouse (Moonraker Label Bootleg RIP) [Silver].txt"
     },
     {
       "year": 1995,
@@ -4624,7 +4624,7 @@ const ARTIST_DATA = {
       "notes": "DAT(1) \u00b7 Sony ECM-144 \u00b7 rj",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-11-05 - Stockholm, SWE - Hovet - MD(M) (unk) (qew transfer) [AUD24].txt"
+      "textFile": "1997-11-05 - Stockholm, Sweden - Johanneshovs Isstadion (ECM144) [AUD].txt"
     },
     {
       "year": 1997,
@@ -4638,7 +4638,7 @@ const ARTIST_DATA = {
       "notes": "MD(M) \u00b7 unk \u00b7 qew transfer",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1997-11-05 - Stockholm, Sweden - Johanneshovs Isstadion (ECM144) [AUD].txt"
+      "textFile": "1997-11-05 - Stockholm, SWE - Hovet - MD(M) (unk) (qew transfer) [AUD24].txt"
     },
     {
       "year": 1997,
@@ -5225,7 +5225,7 @@ const ARTIST_DATA = {
       "notes": "DDC2>MKE-2002 \u00b7 unk",
       "version": "AUD (48k)",
       "format": "SHN",
-      "textFile": "1998-04-13 - Montreal, Canada - Molson Theatre (DDC2) [AUD].txt"
+      "textFile": "1998-04-13 - Montreal, Canada - Molson Theatre (Sennheiser MK) [AUD24].txt"
     },
     {
       "year": 1998,
@@ -5239,7 +5239,7 @@ const ARTIST_DATA = {
       "notes": "MKE-2002 \u00b7 stevemtl",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1998-04-13 - Montreal, Canada - Molson Theatre (Sennheiser MK) [AUD24].txt"
+      "textFile": "1998-04-13 - Montreal, Canada - Molson Theatre (DDC2) [AUD].txt"
     },
     {
       "year": 1998,
@@ -5364,7 +5364,7 @@ const ARTIST_DATA = {
       "notes": "Tibetan \u00b7 Capitaol Records Promo VHS Master",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1998-06-14 - Washington, D.C. - RFK Stadium - Tibetan Freedom Concert (Promo VHS) [AUD].txt"
+      "textFile": "1998-06-14 - Washington, D.C. - RFK Stadium - Tibetan Freedom Concert [DVD].txt"
     },
     {
       "year": 1998,
@@ -5391,7 +5391,7 @@ const ARTIST_DATA = {
       "notes": "Tibetan",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "1998-06-14 - Washington, D.C. - RFK Stadium - Tibetan Freedom Concert [DVD].txt"
+      "textFile": "1998-06-14 - Washington, D.C. - RFK Stadium - Tibetan Freedom Concert (Promo VHS) [AUD].txt"
     },
     {
       "year": 1998,
@@ -5640,7 +5640,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Silver CD",
       "format": "SHN",
-      "textFile": "2000-06-18 - Monza, Milan, Italy - Villa Reale (DAT Master LDB #3) [AUD].txt"
+      "textFile": "2000-06-18 - Monza, Milan, Italy - Villa Reale - Just New [Silver].txt"
     },
     {
       "year": 2000,
@@ -5668,7 +5668,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 ldb master series #3",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2000-06-18 - Monza, Milan, Italy - Villa Reale - Just New [Silver].txt"
+      "textFile": "2000-06-18 - Monza, Milan, Italy - Villa Reale (DAT Master LDB #3) [AUD].txt"
     },
     {
       "year": 2000,
@@ -5891,7 +5891,8 @@ const ARTIST_DATA = {
       "venue": "Grofler Sendesaal des SFB",
       "notes": "remastered by the swingin' pig",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-07-04 - Berlin, Germany - Grofler Sendesaal des SFB [preFM].txt"
     },
     {
       "year": 2000,
@@ -5904,8 +5905,7 @@ const ARTIST_DATA = {
       "venue": "Grofler Sendesaal des SFB",
       "notes": "Satellite",
       "version": "preFM",
-      "format": "SHN",
-      "textFile": "2000-07-04 - Berlin, Germany - Grofler Sendesaal des SFB [preFM].txt"
+      "format": "SHN"
     },
     {
       "year": 2000,
@@ -6198,6 +6198,20 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "WEB",
       "format": "FLAC",
+      "textFile": "2000-09-25 - XFM London - Ed O Brien & Phil Selway Interview [WEB].txt"
+    },
+    {
+      "year": 2000,
+      "month": 9,
+      "day": 25,
+      "dateStr": "9-25-2000",
+      "city": "London",
+      "state": "UK",
+      "location": "London, UK",
+      "venue": "Victoria Park",
+      "notes": "Tower \u00b7 unk",
+      "version": "AUD",
+      "format": "FLAC",
       "textFile": "2000-09-25 - London, UK - Victoria Park - Tower Hamlets (Unknown) [AUD].txt"
     },
     {
@@ -6213,20 +6227,6 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2000-09-25 - London, UK - Victoria Park - Tower Hamlets (likely CSB but different tracking) [AUD].txt"
-    },
-    {
-      "year": 2000,
-      "month": 9,
-      "day": 25,
-      "dateStr": "9-25-2000",
-      "city": "London",
-      "state": "UK",
-      "location": "London, UK",
-      "venue": "Victoria Park",
-      "notes": "Tower \u00b7 unk",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2000-09-25 - XFM London - Ed O Brien & Phil Selway Interview [WEB].txt"
     },
     {
       "year": 2000,
@@ -6946,7 +6946,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "SHN",
-      "textFile": "2001-06-04 - Landgraaf, Netherlands - Pinkpop Festival (DVB 576i) [PRO].txt"
+      "textFile": "2001-06-04 - Landgraaf, Netherlands - Pinkpop Festival [FM].txt"
     },
     {
       "year": 2001,
@@ -6960,7 +6960,7 @@ const ARTIST_DATA = {
       "notes": "inc \u00b7 chrizzz99999",
       "version": "PRO",
       "format": "TS",
-      "textFile": "2001-06-04 - Landgraaf, Netherlands - Pinkpop Festival [FM].txt"
+      "textFile": "2001-06-04 - Landgraaf, Netherlands - Pinkpop Festival (DVB 576i) [PRO].txt"
     },
     {
       "year": 2001,
@@ -7336,7 +7336,7 @@ const ARTIST_DATA = {
       "notes": "WW1 \"Absolutely Live in the Zone #01-38",
       "version": "Silver CD",
       "format": "SHN",
-      "textFile": "2001-07-07 - Oxford, UK - South Park [SBD2].txt"
+      "textFile": "2001-07-07 - Oxford, UK - South Park [SBD].txt"
     },
     {
       "year": 2001,
@@ -7364,7 +7364,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 XFM Broadcast",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2001-07-07 - Oxford, UK - South Park [SBD].txt"
+      "textFile": "2001-07-07 - Oxford, UK - South Park [SBD2].txt"
     },
     {
       "year": 2001,
@@ -7644,7 +7644,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 DPA 4061 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2001-08-17 - Jersey City, NJ - Liberty State Park (2-Source Mix) [MTX].txt"
+      "textFile": "2001-08-17 - Jersey City, NJ - Liberty State Park (DPA4061) [AUD].txt"
     },
     {
       "year": 2001,
@@ -7658,7 +7658,7 @@ const ARTIST_DATA = {
       "notes": "unk + DPA 4061 \u00b7 unk",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "2001-08-17 - Jersey City, NJ - Liberty State Park (DPA4061) [AUD].txt"
+      "textFile": "2001-08-17 - Jersey City, NJ - Liberty State Park (2-Source Mix) [MTX].txt"
     },
     {
       "year": 2001,
@@ -7880,7 +7880,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 SS-DSM-6S (hiroyuki tanaka",
       "version": "AUD (48k)",
       "format": "FLAC",
-      "textFile": "2001-10-02 - Tokyo, Japan - Budokan (DSM6S) [AUD].txt"
+      "textFile": "2001-10-02 - Tokyo, Japan - Budokan [AUD].txt"
     },
     {
       "year": 2001,
@@ -7894,7 +7894,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "2001-10-02 - Tokyo, Japan - Budokan [AUD].txt"
+      "textFile": "2001-10-02 - Tokyo, Japan - Budokan (DSM6S) [AUD].txt"
     },
     {
       "year": 2001,
@@ -7908,7 +7908,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 SS-DSM-6S \u00b7 hiroyuki tanaka",
       "version": "AUD (48k)",
       "format": "FLAC",
-      "textFile": "2001-10-03 - Yokohama, Japan - Yokohama Arena (DSM-6S) [AUD 48].txt"
+      "textFile": "2001-10-03 - Yokohama, Japan - Yokohama Arena (DSM-6S) [AUD].txt"
     },
     {
       "year": 2001,
@@ -7922,7 +7922,7 @@ const ARTIST_DATA = {
       "notes": "SS DSM6S \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2001-10-03 - Yokohama, Japan - Yokohama Arena (DSM-6S) [AUD].txt"
+      "textFile": "2001-10-03 - Yokohama, Japan - Yokohama Arena (DSM-6S) [AUD 48].txt"
     },
     {
       "year": 2001,
@@ -8829,7 +8829,7 @@ const ARTIST_DATA = {
       "notes": "Grundig Sky Digibox \u00b7 steve edgar",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "2003-06-28 - Glastonbury, England - Glastonbury Festival (TV) [DVD].txt"
+      "textFile": "2003-06-28 - Glastonbury, England - Glastonbury Festival [AUD].txt"
     },
     {
       "year": 2003,
@@ -8843,7 +8843,7 @@ const ARTIST_DATA = {
       "notes": "BBC Broadcast",
       "version": "preFM",
       "format": "FLAC",
-      "textFile": "2003-06-28 - Glastonbury, England - Glastonbury Festival [AUD].txt"
+      "textFile": "2003-06-28 - Glastonbury, England - Glastonbury Festival [preFM].txt"
     },
     {
       "year": 2003,
@@ -8857,7 +8857,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "TV",
       "format": "DVD",
-      "textFile": "2003-06-28 - Glastonbury, England - Glastonbury Festival [preFM].txt"
+      "textFile": "2003-06-28 - Glastonbury, England - Glastonbury Festival (TV) [DVD].txt"
     },
     {
       "year": 2003,
@@ -9571,7 +9571,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 KM140s + Schoeps \u00b7 blg edit",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "2003-09-23 - Mountain View, CA - Shoreline Amphitheatre (DPA4061) [AUD].txt"
+      "textFile": "2003-09-23 - Mountain View, CA - Shoreline Amphitheatre (Neumann KM140s - Schoeps) [MTX].txt"
     },
     {
       "year": 2003,
@@ -9585,7 +9585,7 @@ const ARTIST_DATA = {
       "notes": "IEM + Neumann KM140s \u00b7 hoserama + wilson66",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "2003-09-23 - Mountain View, CA - Shoreline Amphitheatre (Neumann KM140s - Schoeps) [MTX].txt"
+      "textFile": "2003-09-23 - Mountain View, CA - Shoreline Amphitheatre [IEM].txt"
     },
     {
       "year": 2003,
@@ -9599,7 +9599,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 DPA 4061 \u00b7 mahntoh",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-09-23 - Mountain View, CA - Shoreline Amphitheatre [IEM].txt"
+      "textFile": "2003-09-23 - Mountain View, CA - Shoreline Amphitheatre (DPA4061) [AUD].txt"
     },
     {
       "year": 2003,
@@ -10340,7 +10340,7 @@ const ARTIST_DATA = {
       "notes": "inez",
       "version": "TV",
       "format": "SHN",
-      "textFile": "2003-11-26 - London, UK - Earl's Court [XFM].txt"
+      "textFile": "2003-11-26 - London, UK - Earl's Court [preFM].txt"
     },
     {
       "year": 2003,
@@ -10354,7 +10354,7 @@ const ARTIST_DATA = {
       "notes": "XFM Broadcast",
       "version": "FM",
       "format": "SHN",
-      "textFile": "2003-11-26 - London, UK - Earl's Court [preFM].txt"
+      "textFile": "2003-11-26 - London, UK - Earl's Court [XFM].txt"
     },
     {
       "year": 2003,
@@ -11946,7 +11946,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2006-08-24 D1.txt"
+      "textFile": "2006-08-24 - Tom Robinson on BBC Radio 6 (Thom Yorke) [FM].txt"
     },
     {
       "year": 2006,
@@ -11959,8 +11959,7 @@ const ARTIST_DATA = {
       "venue": "Marlay Park",
       "notes": "SP-CMC-4 \u00b7 rainman",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2006-08-24 D2.txt"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -12584,7 +12583,7 @@ const ARTIST_DATA = {
       "notes": "Core Sound HEB 4060 \u00b7 jb",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-05-17 - Houston, TX - The Woodlands Pavilion (DSM-6s) [AUD24].txt"
+      "textFile": "2008-05-17 - Houston, TX - The Woodlands Pavilion (JB's 4060) [AUD].txt"
     },
     {
       "year": 2008,
@@ -12598,7 +12597,7 @@ const ARTIST_DATA = {
       "notes": "SS-DSM-6S/L \u00b7 chris milazzo",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2008-05-17 - Houston, TX - The Woodlands Pavilion (JB's 4060) [AUD].txt"
+      "textFile": "2008-05-17 - Houston, TX - The Woodlands Pavilion (DSM-6s) [AUD24].txt"
     },
     {
       "year": 2008,
@@ -12640,7 +12639,7 @@ const ARTIST_DATA = {
       "notes": "iRiver H320 + KM140s + CS HEB 4060 \u00b7 treeman + wilson + jb",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "2008-05-18 - Dallas, TX - Superpages.com Center (KM140) [AUD].txt"
+      "textFile": "2008-05-18 - Dallas, TX - Superpages.com Center (iRiver H320) [AUD].txt"
     },
     {
       "year": 2008,
@@ -12654,7 +12653,7 @@ const ARTIST_DATA = {
       "notes": "Core Sound HEB 4060 \u00b7 jb",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2008-05-18 - Dallas, TX - Superpages.com Center (iRiver H320) [AUD].txt"
+      "textFile": "2008-05-18 - Dallas, TX - Superpages.com Center (KM140) [AUD].txt"
     },
     {
       "year": 2008,
@@ -12724,7 +12723,7 @@ const ARTIST_DATA = {
       "notes": "Festival \u00b7 inc \u00b7 unk",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2008-06-12 - Barcelona, Spain - Parc del Furum de - Festival Daydream (MD) [AUD].txt"
+      "textFile": "2008-06-12 - Barcelona, Spain - Parc del Furum de - Festival Daydream [FM].txt"
     },
     {
       "year": 2008,
@@ -12738,7 +12737,7 @@ const ARTIST_DATA = {
       "notes": "Festival \u00b7 M \u00b7 MZ NHF 800 \u00b7 joan corbera",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-06-12 - Barcelona, Spain - Parc del Furum de - Festival Daydream [FM].txt"
+      "textFile": "2008-06-12 - Barcelona, Spain - Parc del Furum de - Festival Daydream (MD) [AUD].txt"
     },
     {
       "year": 2008,
@@ -13129,7 +13128,7 @@ const ARTIST_DATA = {
       "notes": "XM2GO \u00b7 rholland",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2008-08-01 - Chicago, IL - Lollapalooza Festival (MM-HLSC-1) [AUD24].txt"
+      "textFile": "2008-08-01 - Chicago, IL - Lollapalooza Festival [XM].txt"
     },
     {
       "year": 2008,
@@ -13157,7 +13156,7 @@ const ARTIST_DATA = {
       "notes": "MM-HLSC-1 \u00b7 sin213",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2008-08-01 - Chicago, IL - Lollapalooza Festival [XM].txt"
+      "textFile": "2008-08-01 - Chicago, IL - Lollapalooza Festival (MM-HLSC-1) [AUD24].txt"
     },
     {
       "year": 2008,
@@ -13423,7 +13422,7 @@ const ARTIST_DATA = {
       "notes": "CA-11 + DPA 4061 \u00b7 smashing0 + firmdragon",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "2008-08-19 - Vancouver, BC - Thunderbird Stadium (CA-11) [AUD].txt"
+      "textFile": "2008-08-19 - Vancouver, BC - Thunderbird Stadium (DPA4061) [AUD].txt"
     },
     {
       "year": 2008,
@@ -13437,7 +13436,7 @@ const ARTIST_DATA = {
       "notes": "WAV(M) \u00b7 DPA 4061 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-08-19 - Vancouver, BC - Thunderbird Stadium (DPA4061) [AUD].txt"
+      "textFile": "2008-08-19 - Vancouver, BC - Thunderbird Stadium (CA-11) [AUD].txt"
     },
     {
       "year": 2008,
@@ -13479,7 +13478,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC4 + Countryman Isomax \u00b7 rich steele",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "2008-08-20 - Auburn, WA - White River Ampitheatre (Countryman Isomax II) [AUD].txt"
+      "textFile": "2008-08-20 - Auburn, WA - White River Ampitheatre (SP-CMC-4) [AUD].txt"
     },
     {
       "year": 2008,
@@ -13493,7 +13492,7 @@ const ARTIST_DATA = {
       "notes": "Neumann KM140s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-08-20 - Auburn, WA - White River Ampitheatre (DSM-6s) [AUD24].txt"
+      "textFile": "2008-08-20 - Auburn, WA - White River Ampitheatre (Countryman Isomax II) [AUD].txt"
     },
     {
       "year": 2008,
@@ -13521,7 +13520,7 @@ const ARTIST_DATA = {
       "notes": "SS DSM-6S/L \u00b7 b.c.",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-08-20 - Auburn, WA - White River Ampitheatre (SP-CMC-4) [AUD].txt"
+      "textFile": "2008-08-20 - Auburn, WA - White River Ampitheatre (DSM-6s) [AUD24].txt"
     },
     {
       "year": 2008,
@@ -13633,7 +13632,7 @@ const ARTIST_DATA = {
       "notes": "CA-11 \u00b7 shotyd",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-08-24 - Los Angeles, CA - Hollywood Bowl (CSC) [AUD24].txt"
+      "textFile": "2008-08-24 - Los Angeles, CA - Hollywood Bowl (DPA4022) [AUD].rtf"
     },
     {
       "year": 2008,
@@ -13647,7 +13646,7 @@ const ARTIST_DATA = {
       "notes": "AT831 \u00b7 Schoeps CCM4 \u00b7 edgar + hoserama",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "2008-08-24 - Los Angeles, CA - Hollywood Bowl (DPA4022) [AUD].rtf"
+      "textFile": "2008-08-24 - Los Angeles, CA - Hollywood Bowl (Shotyd's CA-11) [AUD].txt"
     },
     {
       "year": 2008,
@@ -13661,7 +13660,7 @@ const ARTIST_DATA = {
       "notes": "CSC \u00b7 faninor",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2008-08-24 - Los Angeles, CA - Hollywood Bowl (JB's 4060) [AUD24].txt"
+      "textFile": "2008-08-24 - Los Angeles, CA - Hollywood Bowl (CSC) [AUD24].txt"
     },
     {
       "year": 2008,
@@ -13675,7 +13674,7 @@ const ARTIST_DATA = {
       "notes": "Core Sound HEB 4060 \u00b7 jb",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2008-08-24 - Los Angeles, CA - Hollywood Bowl (Shotyd's CA-11) [AUD].txt"
+      "textFile": "2008-08-24 - Los Angeles, CA - Hollywood Bowl (JB's 4060) [AUD24].txt"
     },
     {
       "year": 2008,
@@ -13759,7 +13758,7 @@ const ARTIST_DATA = {
       "notes": "CSB + CSC \u00b7 faninor",
       "version": "MIX",
       "format": "FLAC 24",
-      "textFile": "2008-08-25 - Hollywood, CA - Hollywood Bowl (DPA4022) [AUD].rtf"
+      "textFile": "2008-08-25 - Hollywood, CA - Hollywood Bowl (JB's 4060) [AUD24].txt"
     },
     {
       "year": 2008,
@@ -13773,7 +13772,7 @@ const ARTIST_DATA = {
       "notes": "Core Sound HEB 4060 \u00b7 jb",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2008-08-25 - Hollywood, CA - Hollywood Bowl (JB's 4060) [AUD24].txt"
+      "textFile": "2008-08-25 - Hollywood, CA - Hollywood Bowl (DPA4022) [AUD].rtf"
     },
     {
       "year": 2008,
@@ -16156,7 +16155,7 @@ const ARTIST_DATA = {
       "notes": "4 source mix \u00b7 sharebear/hoserama",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "2017-04-17 - Berkeley, CA - Greek Theater (DR-07 MKII) [AUD].txt"
+      "textFile": "2017-04-17 - Berkeley, CA - Greek Theater [MIX4].txt"
     },
     {
       "year": 2017,
@@ -16170,7 +16169,7 @@ const ARTIST_DATA = {
       "notes": "Tascam DR-07MKII \u00b7 ozowie",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2017-04-17 - Berkeley, CA - Greek Theater - Lerond Archive (DPA4023) [AUD].txt"
+      "textFile": "2017-04-17 - Berkeley, CA - Greek Theater (DR-07 MKII) [AUD].txt"
     },
     {
       "year": 2017,
@@ -16184,7 +16183,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4023 \u00b7 jean lerond",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2017-04-17 - Berkeley, CA - Greek Theater [MIX4].txt"
+      "textFile": "2017-04-17 - Berkeley, CA - Greek Theater - Lerond Archive (DPA4023) [AUD].txt"
     },
     {
       "year": 2017,

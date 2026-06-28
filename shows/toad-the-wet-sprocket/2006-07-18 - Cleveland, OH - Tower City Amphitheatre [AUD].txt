@@ -1,21 +1,56 @@
-toad2006-07-18d2t10.flac:3416fe1c740bee9ea946ec4ea50adc1a
-toad2006-07-18d1t01.flac:22bfe155ac2f32bbcf3c75e7ca7a70ea
-toad2006-07-18d1t02.flac:8b90cdf8fe19412d1a1a7e797cdf9448
-toad2006-07-18d1t03.flac:ed6b2d11f5fc7309ea00a563f4d7b5c2
-toad2006-07-18d1t04.flac:08cb749ed2e3b0aae946047289598e71
-toad2006-07-18d1t05.flac:c27eec9dd7e8f8f01c7e9292f52a260c
-toad2006-07-18d1t06.flac:a9a2d9ef5ebaf7eb0ee5957c39e39cfc
-toad2006-07-18d1t07.flac:955bdf35989b88d9d3fe5a264035b506
-toad2006-07-18d1t08.flac:cb8247c84bbbc0e89af34bb09224fd9a
-toad2006-07-18d1t09.flac:df5570fc7fac656abb527af7a85bc94d
-toad2006-07-18d1t10.flac:23ff630aacfb7f2cc586c1badc3c0f4c
-toad2006-07-18d1t11.flac:1ff034f32f51a0981910f0a758f28f2e
-toad2006-07-18d2t01.flac:0cc24bb2394bc24811fb3f15146c19ca
-toad2006-07-18d2t02.flac:ad94ad80711e087ca0ac882bd61d9775
-toad2006-07-18d2t03.flac:000826c307cec3ecf9bba1fe9179c875
-toad2006-07-18d2t04.flac:3062b056451ede2922faa8304043b335
-toad2006-07-18d2t05.flac:7c14c124e4889229bab4590742b0342a
-toad2006-07-18d2t06.flac:1782709be511a45916218e10f2849ea9
-toad2006-07-18d2t07.flac:c2fce4521b1109d5ae4c3515a9c72ae9
-toad2006-07-18d2t08.flac:c36513da93c3302e407e12b20a2e2d92
-toad2006-07-18d2t09.flac:2ea21ce0c8d351ce8ca938d9367fe8dc
+
+Artist : Toad the Wet Sprocket
+Date : July 18th, 2006
+Venue : Tower City Ampitheatre
+Location : Cleveland, Oh.
+
+
+Source : AKG CK93/SE300B (DIN)->UA-5->NJB3(@44.1K)
+Transfer : JB3->USB->Nuendo(Waves&TC plugins)->CD Wave(Tracking,FLAC level 6)->FLAC Frontend(ffp)
+Taped and Transferred by Shane McGraw - Anodyne33@gmail.com
+Mastered by Heath Condiotte
+
+Please do not convert to MP3 or other lossy formats except for 
+personal use.  - Shane
+
+Disc 1
+
+Set 1
+01. Somethings Always Wrong
+02. Whatever I Fear
+03. Fly From Heaven
+04. Windmills
+05. Crowing
+06. All I Want
+07. Nightengale Song
+08. Good Intentions
+09. When I Come Back Down
+10. Finally Fading#
+11. Drive By#
+
+Disc 2
+
+Set 1 (cont'd)
+01. Everything But You
+02. Way Away
+03. Hold Her Down
+04. Brother
+05. Amnesia
+06. Inside
+07. Fall Down
+08. crowd
+Encore
+09. Crazy Life
+10. Walk On the Ocean
+
+
+
+
+
+
+
+
+# Glen solo
+A Team Pittsburgh Recording!
+
+

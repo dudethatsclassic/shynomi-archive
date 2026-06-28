@@ -220,7 +220,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-05-26 - Kansas City, MO - Grinders (Internal mics) (unk) [AUD24].txt"
+      "textFile": "2023-05-26 - Kansas City, MO - Grinders KC (DPA 4061s) (kcmoejoe) [AUD].txt"
     },
     {
       "year": 2023,
@@ -234,7 +234,7 @@ const ARTIST_DATA = {
       "notes": "Internal mics \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2023-05-26 - Kansas City, MO - Grinders KC (DPA 4061s) (kcmoejoe) [AUD].txt"
+      "textFile": "2023-05-26 - Kansas City, MO - Grinders (Internal mics) (unk) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -304,7 +304,7 @@ const ARTIST_DATA = {
       "notes": "Sennheiser Ambeo \u00b7 blue tweeker",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-06-02 - Detroit, MI - Masonic Temple (SP-LAV-1) (unk) [AUD24].txt"
+      "textFile": "2023-06-02 - Detroit, MI - Masonic Temple (Sennheiser Ambeo) (blue tweeker) [AUD].txt"
     },
     {
       "year": 2023,
@@ -318,7 +318,7 @@ const ARTIST_DATA = {
       "notes": "SP-LAV-1 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2023-06-02 - Detroit, MI - Masonic Temple (Sennheiser Ambeo) (blue tweeker) [AUD].txt"
+      "textFile": "2023-06-02 - Detroit, MI - Masonic Temple (SP-LAV-1) (unk) [AUD24].txt"
     },
     {
       "year": 2023,

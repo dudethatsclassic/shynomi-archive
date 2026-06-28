@@ -1,25 +1,40 @@
-gd_20090716_d2t11-fixed.flac:9a1feae7cc8cf0e48acb897df3ef22ff
-gd_20090716_d1t01-fixed.flac:5222c4630e8e473333463d6948460cec
-gd_20090716_d1t02-fixed.flac:9dc75bfbfe693b6f9a05758f98bcb3ad
-gd_20090716_d1t03-fixed.flac:f268ae91e0c0b52c276e25194810dc28
-gd_20090716_d1t04-fixed.flac:db8ca97aba934de2e7383ef1e0604a1d
-gd_20090716_d1t05-fixed.flac:2c01dfb7d5d6c84cfa2ebf9c4d52bf4b
-gd_20090716_d1t06-fixed.flac:91f062cc281a436d1249cdb48c011e6a
-gd_20090716_d1t07-fixed.flac:cc78bc8f6c2cd0c0ce0cf9623b9cfc00
-gd_20090716_d1t08-fixed.flac:3f1f2cd1f9b5eabb5ea7c42cfca6b10b
-gd_20090716_d1t09-fixed.flac:d02c09c540dccfd0542631e781a8356b
-gd_20090716_d1t10-fixed.flac:48ca6511496a60e2e506c162202c453a
-gd_20090716_d1t11-fixed.flac:a5cdd90768f28e2b13c674e3ee1bc4f3
-gd_20090716_d1t12-fixed.flac:59c87ea4903e2a3df8ddb42802cdd228
-gd_20090716_d1t13-fixed.flac:f47b3394dd215b746a63e86cc7ab184a
-gd_20090716_d1t14-fixed.flac:81dcef30be132f9a63ec46323e6fe6d0
-gd_20090716_d2t01-fixed.flac:3c0965c8205a853e85f81ace35f11730
-gd_20090716_d2t02-fixed.flac:f1ca93f1dc68959bfd4fa965771cbb86
-gd_20090716_d2t03-fixed.flac:fddfcf4c3d45cd24fa0103b9368f89dd
-gd_20090716_d2t04-fixed.flac:48810cf3184c31effbd5918e760b3124
-gd_20090716_d2t05-fixed.flac:e50c720647ed3c85dde14cecf0401ec6
-gd_20090716_d2t06-fixed.flac:ea177a8c8a1f9c36a4f0ed30387b92cc
-gd_20090716_d2t07-fixed.flac:1716d9d79c7bbd9e20903358d898f23b
-gd_20090716_d2t08-fixed.flac:e6674a4ef5eb6ff4d653c0e52fa46f00
-gd_20090716_d2t09-fixed.flac:26f0fcecd8a7dd4d97ca28661221478f
-gd_20090716_d2t10-fixed.flac:ebf3da0b2eb19efcf1e699421d92dbf1
+Green Day
+Copps Coliseum
+Hamilton ON
+2009-07-16
+
+source:Church Audio (CA-11)Cardioids>CA STC-9000 Pre-Amp >Edirol R-09 at 24/48 >USB >Sonic Foundry 16bit wave> FlacFrontend
+recorded by Krewe Chief
+
+
+Disc 1
+
+
+Song of the Century (from 21st Century Breakdown, 2009)
+21st Century Breakdown  (from 21st Century Breakdown, 2009)
+Know Your Enemy (from 21st Century Breakdown, 2009)
+East Jesus Nowhere (from 21st Century Breakdown, 2009)
+Holiday (from American Idiot, 2004)
+The Static Age (from 21st Century Breakdown, 2009)
+Before the Lobotomy (from 21st Century Breakdown, 2009)
+Are We the Waiting (from American Idiot, 2004)
+St. Jimmy (from American Idiot, 2004)
+Boulevard Of Broken Dreams (from American Idiot, 2004)
+Hitchin' A Ride (Nimrod, 1997)
+Brain Stew (Insomniac, 1994)
+Jaded (Insomniac, 1994)
+Longview (Dookie, 1994)
+
+Disc 2
+
+Basket Case (Dookie, 1994)
+She (Dookie, 1994)
+King For A Day (Nimrod, 1997)
+Shout/Earth Angel, I'll Be There, and Stand By Me snippets (The Isley Brothers cover) 
+21 Guns (from 21st Century Breakdown, 2009)
+American Eulogy (from 21st Century Breakdown, 2009)
+Encore:
+American Idiot (from American Idiot, 2004)
+Jesus Of Suburbia (from American Idiot, 2004)
+Minority (Warning, 2000)
+Good Riddance (Time Of Your Life) (Nimrod, 1997)

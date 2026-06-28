@@ -948,7 +948,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1991-11-14 - Charlotte, NC - 13.13 Club [AUD].txt"
+      "textFile": "1991-11-14 - Charlotte, NC - 13.13 Club (Tape Speed Corrected) [AUD].txt"
     },
     {
       "year": 1991,
@@ -1099,7 +1099,7 @@ const ARTIST_DATA = {
       "notes": "VID(1) \u00b7 bobc",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "1992-02-09 - St. Louis, MO - Fox Theatre [DVD].txt"
+      "textFile": "1992-02-09 - St. Louis, MO - Fox Theatre (BobC) [DVD].txt"
     },
     {
       "year": 1992,
@@ -1570,8 +1570,7 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley Music Theater",
       "notes": "Lollapalooza \u00b7 unk \u00b7 rob landis transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1992-08-29 - East Troy, WI - Alpine Valley Music Theater - Lollapalooza (unk) (rob landis transfer) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -2855,7 +2854,7 @@ const ARTIST_DATA = {
       "notes": "M300 \u00b7 pl",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-11-07 - Denver, CO - Mammoth Event Center (exene-bluejane99) [MTX].txt"
+      "textFile": "1996-11-07 - Denver, CO - Mammoth Events Center (M300) [AUD].txt"
     },
     {
       "year": 1996,
@@ -2869,7 +2868,7 @@ const ARTIST_DATA = {
       "notes": "MarcSounds",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "1996-11-07 - Denver, CO - Mammoth Events Center (M300) [AUD].txt"
+      "textFile": "1996-11-07 - Denver, CO - Mammoth Events Center [AUD].txt"
     },
     {
       "year": 1996,
@@ -2883,7 +2882,7 @@ const ARTIST_DATA = {
       "notes": "exene/bluejane99",
       "version": "MTX",
       "format": "SHN",
-      "textFile": "1996-11-07 - Denver, CO - Mammoth Events Center [AUD].txt"
+      "textFile": "1996-11-07 - Denver, CO - Mammoth Event Center (exene-bluejane99) [MTX].txt"
     },
     {
       "year": 1996,
@@ -4111,7 +4110,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-2 \u00b7 lou",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2013-05-03 - Atlantic City, NJ - Borgata Event Center [AUD].txt"
+      "textFile": "2013-05-03 - Atlantic City, NJ - Borgata Event Center (SP-CMC-2) (lou) [AUD24].txt"
     },
     {
       "year": 2013,
@@ -4668,7 +4667,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-02-21 - Adelaide, Australia - Soundwave Festival [AUD].txt"
+      "textFile": "2015-02-21 - Adelaide, AUS - Soundwave Festival (SP-CMC-25) (godzogolfball) [AUD].txt"
     },
     {
       "year": 2015,

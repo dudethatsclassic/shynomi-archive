@@ -1,24 +1,44 @@
-tompetty2006-06-29t01.flac:66c5544b3e9aac58de905b711e316014
-tompetty2006-06-29t02.flac:3920bffd42644ebb388a13e6239af652
-tompetty2006-06-29t03.flac:cb151e5f65c3dd97ac4e081c0a86e147
-tompetty2006-06-29t04.flac:a3d4553abb74562037fa6b65a90efb90
-tompetty2006-06-29t05.flac:e09372cd7e16855963a44e27be5373dd
-tompetty2006-06-29t06.flac:5c9b2868832a82d58931f3013b01fd68
-tompetty2006-06-29t07.flac:aee6030ae53143dbb8a05b4e7f6d3125
-tompetty2006-06-29t08.flac:7531011433d2fafb69c15dc4df4f0703
-tompetty2006-06-29t09.flac:2a284647ee0931bcd3f55552fe455fbf
-tompetty2006-06-29t10.flac:e348272076fe42de51517caee640c2f3
-tompetty2006-06-29t11.flac:18f50337478b2dc656589c6f8eca6586
-tompetty2006-06-29t12.flac:64d8325d1d79fe1133933fc64a7a255b
-tompetty2006-06-29t13.flac:9dd05b7f140f933ba37bcca07b8d5c80
-tompetty2006-06-29t14.flac:896b48ca2127de9cb533b54d77917eea
-tompetty2006-06-29t15.flac:33322e216f54122f03934a954d932e39
-tompetty2006-06-29t16.flac:177e917273cd3075cd23e813f9a3c1cb
-tompetty2006-06-29t17.flac:b8d5c03a0835397e3e96d94fecc63b73
-tompetty2006-06-29t18.flac:62165a940f9fc1cef774c3b665184afb
-tompetty2006-06-29t19.flac:8aff3c0bccadfeafbc36c5761815e220
-tompetty2006-06-29t20.flac:ed3bc71b11c9939e30046bf83e95fc6c
-tompetty2006-06-29t21.flac:42b941cbc46a5c8ae1d36f1577271352
-tompetty2006-06-29t22.flac:bff0c607a6b42314ea5a829fec49cdcd
-tompetty2006-06-29t23.flac:f6349bdbaba8e579e0ee6beb58cb3eea
+Tom Petty & The Heartbreakers
+Marcus Amphitheater
+Summerfest
+Milwaukee, WI
+Thursday June 29, 2006
+
+Taper: George Wang <gewwang@yahoo.com>
+Source: DPA 4023 > Sonosax SX-M2 > Mogami interconnect > Edirol R1 @ 24/44.1
+Location: Sec 2 Row S Seat 32, 17th Row Center
+
+WAV > FLAC: .wav @ 24/44.1 > CD-WAV/FLAC frontend v1.7.1 > .flac
+
+01: Intro - 02:00.400
+02: Listen To Her Heart - 03:41.866
+03: You Don't Know How It Feels - 08:09.133
+04: I Won't Back Down - 04:03.266
+05: Free Fallin' - 06:23.000
+06: Saving Grace - 04:47.600
+07: Mary Jane's Last Dance - 07:49.866
+08: I'm A Man - 02:48.400
+09: Oh Well - 04:26.733
+10: Handle With Care - 03:54.733
+11: Band Introduction - 03:03.266
+12: The Waiting * - 06:45.266
+13: Here Comes My Girl - 04:59.333
+14: Little Red Rooster - 05:00.666
+15: Cabin Down Below - 03:32.333
+16: Learning To Fly - 04:35.666
+17: Don't Come Around Here No More - 06:37.466
+18: Refugee - 04:51.000
+19: Runnin' Down A Dream - 10:53.666
+20: You Wreck Me - 06:44;466
+21: Mystic Eyes - 07:56.133
+22: American Girl * - 05:57.000
+23: Outro - 03:02.600
+
+Total: - 122:03.866
+
+Note: digital noise in d1t05-d1t09 caused by fireworks
+
+* with Eddie Vedder
+
+compiled by George Wang on 07-04-2006
 

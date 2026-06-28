@@ -1,15 +1,7 @@
-9846de52957090df5d5bb282a25d1d4f *01 Intro.flac
-1e84a2f61ef552b9e213a27ee6f1af86 *02 Ekki Mukk.flac
-8851de6589ab89c6deaf107502c0ba2f *03 Glosoli.flac
-cb8e9fa15974e45c62bccaaf62b9ffdf *04 E-Bow.flac
-75988d86a788dde18766a65ca6cff366 *05 Dau�alagi�.flac
-4eb5fb4e32ad8793787b9adb4631c2e2 *06 Var�a.flac
-a4185b82ac4bd95ca36a9ea86446d05d *07 Oveour.flac
-f4d6805e6759175939babd266c196ca7 *08 Saeglopur.flac
-33bd5cfcfa01cb69f1e0b9c08b20dcc5 *09 Ny Batteri.flac
-3017f589d0151bc2203f988b19c27486 *10 Vaka.flac
-d8b3aae2946fe3cdfccdaa83779a2d7f *11 Festival.flac
-912b2c00a2a5e46cd391ac843ff38e38 *12 Kveikur.flac
-0a1624c090df849b4a311c7a6f3ebe94 *13 encore.flac
-a2e7e49086bdc0e8c079423352b7be83 *14 Popplagi�.flac
-1e26e1b351f08e5172d8e1be8e2663a1 *15 outro.flac
+﻿Sigur Rós 2017-11-26 Buenos Aires, Argentina Sónar Buenos Aires Festival, Estadio Cubierto De Tecnópolis, Buenos Aires, Argentina
+
+Taper: Julian Conti
+Source: Zoom H1 > WAV > Audacity 2.1.2 > WAV > Act 2.39 > FLAC 16/44 Level 08
+01. intro
+02. Ekki Múkk03. Glósóli04. E-Bow05. Dauðalagið06. Varða 07. Óveður08. Sæglópur09. Ný Batterí10. Vaka11. Festival12. Kveikur13. encore14. Popplagið
+15. outroNote: The band came back two times to stage to salute the audience

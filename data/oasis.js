@@ -729,7 +729,7 @@ const ARTIST_DATA = {
       "notes": "Unplugged \u00b7 josu4ever remaster",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "1994-10-19 - Toronto, Lee's Palace (unk) (44matsu) [AUD24].txt"
+      "textFile": "1994-10-19 - Toronto, Ontario - Lee's Palace [AUD].txt"
     },
     {
       "year": 1994,
@@ -743,7 +743,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 44matsu",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1994-10-19 - Toronto, Ontario - Lee's Palace [AUD].txt"
+      "textFile": "1994-10-19 - Toronto, Lee's Palace (unk) (44matsu) [AUD24].txt"
     },
     {
       "year": 1994,
@@ -1051,7 +1051,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-12-29 - Brighton, UK - The Centre [AUD].txt"
+      "textFile": "1994-12-29 - Brighton, UK - Brighton Centre [AUD].txt"
     },
     {
       "year": 1995,
@@ -1567,7 +1567,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-08-22 - Tokyo, Japan - Club Citta [Remastered AUD].txt"
+      "textFile": "1995-08-22 - Tokyo, Japan - Club Citta [AUD].txt"
     },
     {
       "year": 1995,
@@ -2390,7 +2390,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-03-26 - Offenbach, Germany - Stadthalle [AUD].txt"
+      "textFile": "1996-03-26 - Offenbach, Germany - Stadthalle [AUD 24bit].txt"
     },
     {
       "year": 1996,
@@ -3988,7 +3988,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1998-03-18 - Buenos Aires, Argentina - Luna Park (PRO) [DVD].txt"
+      "textFile": "1998-03-18 - Buenos Aires, Argentina - Luna Park [SBD].txt"
     },
     {
       "year": 1998,
@@ -4002,7 +4002,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "1998-03-18 - Buenos Aires, Argentina - Luna Park [SBD].txt"
+      "textFile": "1998-03-18 - Buenos Aires, Argentina - Luna Park (PRO) [DVD].txt"
     },
     {
       "year": 1998,
@@ -7207,7 +7207,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-03-05.txt"
+      "textFile": "2003-03-05 - Dublin, Ireland - Point Theatre [AUD].txt"
     },
     {
       "year": 2003,
@@ -7221,7 +7221,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-03-06 - Dublin, Ireland - Point Theatre [AUD].txt"
+      "textFile": "2003-03-06.txt"
     },
     {
       "year": 2003,
@@ -8319,7 +8319,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2008-08-14 - London, England - Black Island Studios (PRO) [MKV].txt"
+      "textFile": "2008-08-14 - London, UK - Black Island Studios [FM].txt"
     },
     {
       "year": 2008,
@@ -8333,7 +8333,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO",
       "format": "MKV",
-      "textFile": "2008-08-14 - London, UK - Black Island Studios [FM].txt"
+      "textFile": "2008-08-14 - London, England - Black Island Studios (PRO) [MKV].txt"
     },
     {
       "year": 2008,
@@ -8347,7 +8347,7 @@ const ARTIST_DATA = {
       "notes": "SS-DSM6S/L \u00b7 b.c.",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2008-08-26 - Seattle, WA - WaMu Theater (2 Sources Mix) [MTX].txt"
+      "textFile": "2008-08-26 - Seattle, WA, - WaMu Theater (24 bit) [AUD].txt"
     },
     {
       "year": 2008,
@@ -8375,7 +8375,7 @@ const ARTIST_DATA = {
       "notes": "CA-11 + SS-DSM-6S/L \u00b7 james remaster",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "2008-08-26 - Seattle, WA, - WaMu Theater (24 bit) [AUD].txt"
+      "textFile": "2008-08-26 - Seattle, WA - WaMu Theater (2 Sources Mix) [MTX].txt"
     },
     {
       "year": 2008,
@@ -9784,8 +9784,7 @@ const ARTIST_DATA = {
       "venue": "Principality Stadium",
       "notes": "Countdown \u00b7 asithappens",
       "version": "WEB",
-      "format": "TS",
-      "textFile": "2025-07-05 - Cardiff, Wales - Principality Stadium (SP-CMC-8) (eerie_young) [AUD24] .txt"
+      "format": "TS"
     },
     {
       "year": 2025,
@@ -9798,7 +9797,8 @@ const ARTIST_DATA = {
       "venue": "Principality Stadium",
       "notes": "SP-CMC-8 \u00b7 eerie_young",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-07-05 - Cardiff, Wales - Principality Stadium (SP-CMC-8) (eerie_young) [AUD24] .txt"
     },
     {
       "year": 2025,
@@ -9854,7 +9854,7 @@ const ARTIST_DATA = {
       "notes": "Primo EM182 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-07-25 - London, UK - Wembley Stadium (Custom Primo EM182) (Remaster) [AUD24].txt"
+      "textFile": "2025-07-25 - London, UK - Wembley Stadium (Primo EM182) (unk) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -9868,7 +9868,7 @@ const ARTIST_DATA = {
       "notes": "Custom Primo EM182 \u00b7 2025 remaster",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-07-25 - London, UK - Wembley Stadium (Primo EM182) (unk) [AUD24].txt"
+      "textFile": "2025-07-25 - London, UK - Wembley Stadium (Custom Primo EM182) (Remaster) [AUD24].txt"
     },
     {
       "year": 2025,

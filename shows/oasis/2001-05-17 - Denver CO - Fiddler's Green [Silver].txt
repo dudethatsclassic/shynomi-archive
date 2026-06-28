@@ -1,34 +1,23 @@
-oasis - Live In Denver 17th May 2001 - FFP:
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
 
-01. Go Let It Out.flac:  tested ok (file is decodable without error).
-02. Columbia.flac:  tested ok (file is decodable without error).
-03. Morning Glory.flac:  tested ok (file is decodable without error).
-04. Fade Away.flac:  tested ok (file is decodable without error).
-05. Acquiesce.flac:  tested ok (file is decodable without error).
-06. Gas Panic!.flac:  tested ok (file is decodable without error).
-07. Cigarettes & Alcohol.flac:  tested ok (file is decodable without error).
-08. Step Out.flac:  tested ok (file is decodable without error).
-09. Slide Away.flac:  tested ok (file is decodable without error).
-10. Champagne Supernova.flac:  tested ok (file is decodable without error).
-11. Don't Look Back In Anger.flac:  tested ok (file is decodable without error).
-12. I Am The Walrus.flac:  tested ok (file is decodable without error).
-
-No errors occured.
+Detect mode (0..40 with 0 = most accurate):  8 (default)
 
 
-01. Go Let It Out.flac:f40d7c11858358ef12924e6503d6c01a
-02. Columbia.flac:595a878ed1ed06497df6d68ea8c5d41e
-03. Morning Glory.flac:e408b34cf44b0dfed05f482d38d47b97
-04. Fade Away.flac:8a90bb42050b4409f38be84619924c67
-05. Acquiesce.flac:562401c08ff4c020f596a3c9fdaa5a44
-06. Gas Panic!.flac:caccf1aa116e8cbccf56c16806bcea99
-07. Cigarettes & Alcohol.flac:9f10806f26486bc5a919be000daa7f2e
-08. Step Out.flac:c2d76c08a2204f8da219d2355cc10af8
-09. Slide Away.flac:6669e003160bf4716c54f253341cf0f5
-10. Champagne Supernova.flac:bc3b26759a2326feb17d73bbce1ab821
-11. Don't Look Back In Anger.flac:b530c4149bc47f0341d4b088e2eddac7
-12. I Am The Walrus.flac:2fc45ba379822e75941aecccb6f38e43
-
-Checksum file saved to disk.
+01. Go Let It Out.wav:  track looks like CDDA with probability 100%.
+02. Columbia.wav:  track looks like CDDA with probability 100%.
+03. Morning Glory.wav:  track looks like CDDA with probability 100%.
+04. Fade Away.wav:  track looks like CDDA with probability 100%.
+05. Acquiesce.wav:  track looks like CDDA with probability 100%.
+06. Gas Panic!.wav:  track looks like CDDA with probability 100%.
+07. Cigarettes & Alcohol.wav:  track looks like CDDA with probability 100%.
+08. Step Out.wav:  track looks like CDDA with probability 100%.
+09. Slide Away.wav:  track looks like CDDA with probability 100%.
+10. Champagne Supernova.wav:  track looks like CDDA with probability 100%.
+11. Don't Look Back In Anger.wav:  track looks like CDDA with probability 100%.
+12. I Am The Walrus.wav:  track looks like CDDA with probability 100%.
 
 No errors occured.
+
+Test for MPEG log saved to file.

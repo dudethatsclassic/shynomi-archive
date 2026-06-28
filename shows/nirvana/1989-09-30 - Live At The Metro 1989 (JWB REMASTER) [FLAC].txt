@@ -1,14 +1,28 @@
-01 - (intro).flac:6bae2ff2a9789e43e40b135d8dec562a
-02 - School.flac:2918ce83678f5679ea2408e97cf4de26
-03 - Scoff.flac:444db6947d40005d0a11d621a5761625
-04 - Love Buzz.flac:80951da1a677a49b96c9b696d92e81ed
-05 - Floyd The Barber.flac:51570accb98d03f963505ac6d1883ee2
-06 - Dive.flac:54f7f102cdcd3b9d0d7bdd6b0c1074f1
-07 - Polly.flac:2a03a57fd684aeaac99dd88b162c1c14
-08 - Big Cheese.flac:4ba0710bc5075f9e4e4aa23eba5ddcc6
-09 - Spank Thru.flac:8551891e192288b35a73d023bc1752ad
-10 - Token Eastern Song.flac:ac3df0d36840cba4e0644392450e1f0f
-11 - About A Girl.flac:074839285fd5e377a8c4d9b98d24a7d8
-12 - Stain.flac:fcd0cf1419aedf65ffec11680a810851
-13 - Negative Creep.flac:f3d9e5945ee6b027c9d703573bf440de
-14 - Blew.flac:d88bfc263eb226ff7f188243c3c6b186
+NIRVANA
+September 30, 1989
+Cabaret Metro
+Chicago, IL
+(JWB REMASTER)
+--------------
+01 intro
+02 School
+03 Scoff
+04 Love Buzz
+05 Floyd The Barber
+06 Dive
+07 Polly
+08 Big Cheese
+09 Spank Thru
+10 Token Eastern Song
+11 About A Girl
+12 Stain
+13 Negative Creep
+14 Blew
+
+SOURCE: ANA(M) -> CDR(1) -> WAV (AUD #1)
+
+SOUND QUALITY: Excellent Stereo Audience
+
+Extracted by Mike Ziegler
+Remastered by JWB
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,18 +1,35 @@
-01 - Black Crowes - Jealous Again.flac:d8d458bb9ddb7bcb4cd49090811d38f5
-02 - Black Crowes - Thick N' Thin.flac:b771a45290221704a0c16697015aafbd
-03 - Black Crowes - Hotel Illness.flac:4503a8819b1ecf9ff7ddfdd64b2af06c
-04 - Black Crowes - Medicated Goo.flac:a677a66dcd4ff27677958799498e24e1
-05 - Black Crowes - Ballad In Urgency.flac:90a6d4754da055893e42226dbbab8811
-06 - Black Crowes - Wiser Time.flac:5c09b0f97c48ccbf112a438be2263023
-07 - Black Crowes - She Talks To Angels.flac:3e817859ece1e34d8696612042edfe2f
-08 - Black Crowes - Appaloosa.flac:aad3ff3e2172e0fffc71d0b8054604a2
-09 - Black Crowes - Whoa Mule.flac:5b253e2d400c4be87e3dab2dbe70127a
-10 - Black Crowes - My Morning Song.flac:91efd879e02527d7a45a6705fb4a886e
-11 - Black Crowes - High Head Blues.flac:a34fa15b82ee4c4628d68dbee90d2bca
-12 - Black Crowes - She Gave Good Sunflower.flac:0c4a034d61c6468a8052883852367566
-13 - Black Crowes - Soul Singing.flac:09b679574d3fe19263a5d9562ef2e424
-14 - Black Crowes - Thorn In My Pride.flac:8655fb2fdfd756657b78d5e74b7b7f99
-15 - Black Crowes - Remedy.flac:a5a69196484538d0be8ed5c65f835ce9
-16 - Black Crowes - Hard To Handle-Hush-Hard To Handle.flac:22b99dca36aa9bdf5eb6df1b17fb9e04
-17 - Black Crowes - Poor Elijah - Tribute To Johnson.flac:bf0286c08c8f43f70304e4fe2536c438
-18 - Black Crowes - Been A Long Time (Waiting On Love).flac:046af0b8da5582e92550730aa59c1c3f
+
+Black Crowes
+O2 Academy, Birmingham, England
+2013-03-25
+
+Taper: Andy L
+Location: front row balcony, left of centre
+
+Source: SP-CMC-4 (3 wire mod) > CA-9100 > Sony PCM-M10 (44.1 khz, 24 bit) > MicroSD card
+Transfer: WAV > USB > Hard drive > Har-Bal (EQ) > Cool Edit Pro 2.1 (edits, normalize, fade out) > Sound Forge 10 (compression, dither) > CDWave > FLAC 1.2.1
+
+1. Jealous Again
+2. Thick N' Thin 
+3. Hotel Illness
+4. Medicated Goo
+5. Ballad In Urgency
+6. Wiser Time
+7. She Talks To Angels
+8. Appaloosa
+9. Whoa Mule
+10. My Morning Song
+11. High Head Blues
+12. She Gave Good Sunflower
+13. Soul Singing
+14. Thorn In My Pride
+15. Remedy
+16. Hard To Handle > Hush > Hard To Handle
+17. Poor Elijah - Tribute To Johnson
+18. Been A Long Time (Waiting On Love)
+
+*************************************************************
+Do not sell this recording
+
+Do not distribute in MP3 or other lossy formats
+*************************************************************

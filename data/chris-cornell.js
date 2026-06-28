@@ -1063,7 +1063,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2016-05-14 - Copenhagen, Denmark - Konserthuset [AUD].txt"
+      "textFile": "2016-05-14 - Copenhagen, Denmark - Konserthuset (Edited) [AUD].txt"
     },
     {
       "year": 2016,

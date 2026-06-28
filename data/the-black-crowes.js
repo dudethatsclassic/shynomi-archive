@@ -618,8 +618,7 @@ const ARTIST_DATA = {
       "venue": "Royal Albert Hall",
       "version": "preFM",
       "format": "FLAC",
-      "notes": "WW1",
-      "textFile": "1995-01-29 - London, England - Royal Albert Hall (WW1) [preFM].txt"
+      "notes": "WW1"
     },
     {
       "year": 1995,

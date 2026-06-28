@@ -1,12 +1,25 @@
-primus1997-08-06t01.flac:d08c331bfcb8977e51193bbdc1d59995
-primus1997-08-06t02.flac:49cb1e2d56ed347021db6ac5d1fe4de7
-primus1997-08-06t03.flac:04a15b5cefc4879c0298e1f84edbda34
-primus1997-08-06t04.flac:93204525a614a0516a7604f481b58e96
-primus1997-08-06t05.flac:8086495f41d4fad5d504d52adac7eb28
-primus1997-08-06t06.flac:28424fd38ba4f518cad68048c54d8c3e
-primus1997-08-06t07.flac:a00a36f2d6d34fd395c4f01176676bd6
-primus1997-08-06t08.flac:9ae1d7618e07945749f162f518aa6ca6
-primus1997-08-06t09.flac:19ec816ee5b00f77fcbe6c8f2e6c2c58
-primus1997-08-06t10.flac:0a680f87f89d782e6312228832520adf
-primus1997-08-06t11.flac:17a6b972d41793e13c29567ff78438c6
-primus1997-08-06t12.flac:6ec5e2120b4a19038f2ac4bc06ab1528
+Primus
+HORDE Festival
+Meadows Music Theater
+Hartford, CT
+1997-08-06
+
+01.Damn Blue Collar Tweakers
+02.Jerry Was A Racecar Driver
+03.Puddin' Taine
+04.My Name Is Mudd
+05.Shake Hands With Beef
+06.Seas of Cheese
+07.Over The Falls
+08.John The Fisherman
+09.Here Come the Bastards
+10.Duchess And The Proverbial Mind Spread
+11.Groundhog's Day
+12.Tommy The Cat
+
+
+Source: Schoeps CMC's > Awia Pro DAT > Cass/1
+Transfer: Cass/1 > Harmon Kardon TD4200 > Sony PC-R300 (LEVEL BOOST) > NJB3 > CDWAV > TLH > FLAC
+Taper unknown
+Transferred by Lobster
+Cassette Received from Eric Horton

@@ -1,23 +1,48 @@
-ttws2006-08-14t02.flac:936d5bf5436e7516ed7dbde0ecedb723
-ttws2006-08-14t03.flac:d9a2d3408f5af411b650cae01a41145d
-ttws2006-08-14t04.flac:677ea4e0744c4340550d038658fa85f2
-ttws2006-08-14t05.flac:27a22891a818ae5ae72202fe0d7ec604
-ttws2006-08-14t06.flac:f1838ed2e3081b791aeaacf4f1c8ef62
-ttws2006-08-14t07.flac:6a977f401c4ee68fe04691840289873c
-ttws2006-08-14t08.flac:e570a71febb4ec06af568f211590d2b1
-ttws2006-08-14t09.flac:db2138e29c74104358af22a9682e7eb1
-ttws2006-08-14t10.flac:ada9fc29521c7afb737e075eec1be2f6
-ttws2006-08-14t11.flac:baa3b5b2d27fcd9f4683a36d88c117cd
-ttws2006-08-14t12.flac:9fef64d743c43f41d4d44010c2be0aaf
-ttws2006-08-14t13.flac:05294d69b06e92ecafe2b5cd59c390f5
-ttws2006-08-14t14.flac:f37ca57b669438aa8475097f686d6f01
-ttws2006-08-14t15.flac:cd4d37f8d369f01d9f5e6cad141cf6ba
-ttws2006-08-14t16.flac:942bcf08a3b9349c3c9bb261b3896b05
-ttws2006-08-14t17.flac:54368e097e3755013fca3df083f78672
-ttws2006-08-14t18.flac:fb5d02d831576dc0fb7023a984591a47
-ttws2006-08-14t19.flac:09e7d39125e5980ed089ccde765ecbdd
-ttws2006-08-14t20.flac:a0cfa4b178bcc094d1c0ae1d8a9379ef
-ttws2006-08-14t21.flac:d6b37e190d515c2874751295cf394ee8
-ttws2006-08-14t22.flac:faa2b1e00aaff4cddd10fa248a8212ee
-ttws2006-08-14t23.flac:a3c24090ba38850b315e49215d1afedb
-ttws2006-08-14t01.flac:267ef4aa7ba601470f2b66a4dec21543
+Toad the Wet Sprocket
+08/14/2006
+The Moore Theatre
+Seattle WA
+
+Taper: Ryan Olsen (digginaditch@hotmail.com)
+Source: DPA 4061 > DPA mma6000 > Edirol R-09 @24/44.1
+             nerf'd @ seated head height for main set, @ 6' for encore
+Location: MFC, Row L, Seats 3/4, 4' LOC
+
+============================================
+
+Setlist
+01.  Intro
+02.  Something's Always Wrong
+03.  Whatever I Fear
+04.  Rings
+05.  Windmills
+06.  Fly From Heaven
+07.  Stupid
+08.  All I Want
+09.  Good Intentions
+10.  Come Back Down
+11.  Darkest Hour*
+12.  Easier*
+13.  Everything But You
+14.  Inside
+15.  Woodburning
+16.  Crowing
+17.  Nightingale Song
+18.  In My Ear
+19.  Brother
+20.  Fall Down
+encore1:
+21.  Crazy Life
+22.  Walk on the Ocean
+encore2:
+23.  I Will Not Take These Things for Granted
+
+Total: 94:38:08
+
+NOTES:
+
+*Glen Phillips solo
+
+To burn to CD, split between tracks 12 & 13
+
+Compiled by Ryan Olsen (digginaditch@hotmail.com) 08/15/2006

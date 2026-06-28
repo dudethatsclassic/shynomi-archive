@@ -1,22 +1,38 @@
-garbage1999-1124d1_01.flac:eaa0516c137413a7a05534c2c95b3456
-garbage1999-1124d1_02.flac:3cda6ab70c1b521ef524c12b99a5c074
-garbage1999-1124d1_03.flac:a9944adab8a3697b0d7f42ce5619b1bc
-garbage1999-1124d1_04.flac:6c5844f9fe9023ef919a7ac8ceffb429
-garbage1999-1124d1_05.flac:66596c2338711a9b8c62048033a8022f
-garbage1999-1124d1_06.flac:39a1f40ffe9bdf156942d953b2f6aca0
-garbage1999-1124d1_07.flac:2223d8a1fcf5412b572ee5e4935b8de7
-garbage1999-1124d1_08.flac:7677a56794a8015344cd26d81f7a2aaa
-garbage1999-1124d1_09.flac:c78364e428c10f70b9b63197af1ec51f
-garbage1999-1124d1_10.flac:9718b72ace597e1d46a0c58f9d171726
-garbage1999-1124d1_11.flac:ab3a375292c47a5cfbc0eb6b69e8387a
-garbage1999-1124d1_12.flac:a7c2968a6ce2b16d93bd7a4420ff1afb
-garbage1999-1124d2_01.flac:e9c80dac13037463a0c68aec9e358221
-garbage1999-1124d2_02.flac:766d93b0cb2a2b10b0289c5d59c2f729
-garbage1999-1124d2_03.flac:2cd4e3a1ff384d7464cd59f0f07a3ef9
-garbage1999-1124d2_04.flac:17398cad1b53552486e65027e2a1e105
-garbage1999-1124d2_05.flac:efe259aad00c4e55e0457fbeb0df5599
-garbage1999-1124d2_06.flac:614eab10767cb1ef51be56432eeff78b
-garbage1999-1124d2_07.flac:88797e141a6896a3fd7bf41ed5104605
-garbage1999-1124d2_08.flac:bb56e9c2171bd7a4207f619e513c2d8c
-garbage1999-1124d2_09.flac:f1f86136079f3ffea31e10d40abf45cc
-garbage1999-1124d2_10.flac:185758a5a49c59741b7daee2934095dc
+Garbage
+24-Nov-1999 
+Bren Center UC Irvine
+Irvine, CA
+
+cd1:
+
+01. intro > #1 Crush 
+02. Supervixen
+03. I Think I'm Paranoid
+04. Temptation Waits
+05. Special
+06. Silence Is Golden
+07. Hammering In My Head
+08. Medication
+09. Stupid Girl
+10. Vow
+11. Shirley banter
+12. Milk
+
+cd2:
+
+01. Push It
+02. When I Grow Up
+03. interlude with Lit
+04. You Look So Fine
+ (encore break)
+05. Trip My Wire
+06. The World Is Not Enough
+07. Thirteen
+08. Supernatural
+09. Not My Idea
+10. Only Happy When It Rains
+
+Neumann KM140s > Aerco MP1 > Sony Sbm1 > Sony D8
+DAT Master > HHb CDR830 > EAC/wavlab > FLAC
+
+Another Wilson66 Master...

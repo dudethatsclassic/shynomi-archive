@@ -1392,7 +1392,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-06-22 - Mountain View, CA - Shoreline Amphitheatre (Patched show) (neekrive freakout tht) [MIX].txt"
+      "textFile": "1993-06-22 - Mountain View, CA - Shoreline Amphitheatre [AUD].txt"
     },
     {
       "year": 1993,
@@ -1406,7 +1406,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "1993-06-22 - Mountain View, CA - Shoreline Amphitheatre [AUD].txt"
+      "textFile": "1993-06-22 - Mountain View, CA - Shoreline Amphitheatre (Patched show) (neekrive freakout tht) [MIX].txt"
     },
     {
       "year": 1993,
@@ -1965,7 +1965,7 @@ const ARTIST_DATA = {
       "notes": "WHFSTival \u00b7 w/ interviews \u00b7 M \u00b7 billydee",
       "version": "FM (48k)",
       "format": "FLAC",
-      "textFile": "1995-06-03 - Washington, D.C. - RFK Stadium (with Interviews) [FM].txt"
+      "textFile": "1995-06-03 - Washington, D.C. - RFK Stadium [FM].txt"
     },
     {
       "year": 1995,
@@ -1979,7 +1979,7 @@ const ARTIST_DATA = {
       "notes": "WHFSTival",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1995-06-03 - Washington, D.C. - RFK Stadium [FM].txt"
+      "textFile": "1995-06-03 - Washington, D.C. - RFK Stadium (with Interviews) [FM].txt"
     },
     {
       "year": 1995,
@@ -2077,7 +2077,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 Sony bullet \u00b7 floridian",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-08-12 - West Palm Beach, FL - Auditorium [AUD].txt"
+      "textFile": "1995-08-12 - West Palm Beach, FL - Auditorium (Chuck Dagen [AUD].txt"
     },
     {
       "year": 1995,
@@ -2870,7 +2870,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1997-08-02 - East Troy, WI - Alpine Valley Music Theatre (Morphine set with Les) [AUD].txt"
+      "textFile": "1997-08-02 - East Troy, WI - Alpine Valley Music Theatre [SBD2].txt"
     },
     {
       "year": 1997,
@@ -2884,7 +2884,7 @@ const ARTIST_DATA = {
       "notes": "Morphine/Les Claypool",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-08-02 - East Troy, WI - Alpine Valley Music Theatre [SBD2].txt"
+      "textFile": "1997-08-02 - East Troy, WI - Alpine Valley Music Theatre (Morphine set with Les) [AUD].txt"
     },
     {
       "year": 1997,
@@ -4373,7 +4373,7 @@ const ARTIST_DATA = {
       "notes": "PrimusLive",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2003-10-21 - Denver, CO - The Fillmore [AUD2].txt"
+      "textFile": "2003-10-21 - Denver, CO - The Fillmore [AUD].txt"
     },
     {
       "year": 2003,
@@ -4387,7 +4387,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4 \u00b7 bill tatina",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-10-21 - Denver, CO - The Fillmore [AUD].txt"
+      "textFile": "2003-10-21 - Denver, CO - The Fillmore [AUD2].txt"
     },
     {
       "year": 2003,
@@ -4601,7 +4601,7 @@ const ARTIST_DATA = {
       "notes": "PrimusLive",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2003-11-08 - Milwaukee, WI - Eagles Ballroom [AUD2].txt"
+      "textFile": "2003-11-08 - Milwaukee, WI - Eagles Ballroom [AUD].txt"
     },
     {
       "year": 2003,
@@ -4615,7 +4615,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK41 \u00b7 jered haddad",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "2003-11-08 - Milwaukee, WI - Eagles Ballroom [AUD].txt"
+      "textFile": "2003-11-08 - Milwaukee, WI - Eagles Ballroom [AUD2].txt"
     },
     {
       "year": 2003,
@@ -10830,7 +10830,7 @@ const ARTIST_DATA = {
       "notes": "Sennheiser MKE2 \u00b7 beatkilla",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-08-09 - Buffalo, NY - Terminal B at Outer Harbor (Tascam DR-2d) (ghostwheel) [AUD24].txt"
+      "textFile": "2024-08-09 - Buffalo, NY - Terminal B at the Outer Harbor (Sennheiser MKE2) (beatkilla) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -10844,7 +10844,7 @@ const ARTIST_DATA = {
       "notes": "Tascam DR-2d \u00b7 ghostwheel",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-08-09 - Buffalo, NY - Terminal B at the Outer Harbor (Sennheiser MKE2) (beatkilla) [AUD24].txt"
+      "textFile": "2024-08-09 - Buffalo, NY - Terminal B at Outer Harbor (Tascam DR-2d) (ghostwheel) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -10914,7 +10914,7 @@ const ARTIST_DATA = {
       "notes": "Sennheiser Ambeo \u00b7 grizzly adams",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2024-08-23 - Dillon, CO - Dillon Amphitheater (SP-BMC-12) (royboy) [AUD24].txt"
+      "textFile": "2024-08-23 - Dillon, CO - Dillon Amphitheater (Sennheiser Ambeo) (grizzly adams) [AUD].txt"
     },
     {
       "year": 2024,
@@ -10928,7 +10928,7 @@ const ARTIST_DATA = {
       "notes": "SP-BMC-12 \u00b7 royboy",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-08-23 - Dillon, CO - Dillon Amphitheater (Sennheiser Ambeo) (grizzly adams) [AUD].txt"
+      "textFile": "2024-08-23 - Dillon, CO - Dillon Amphitheater (SP-BMC-12) (royboy) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -11026,7 +11026,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4 \u00b7 beatkilla",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-07-18 - LaFayette, NY - Beak & Skiff Apple Orchards (Tascam DR-2d) (ghostwheel) [AUD24].txt"
+      "textFile": "2025-07-18 - Lafayette, NY - Beak & Skiff Apple Orchards (Schoeps MK4) (beatkilla) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -11040,7 +11040,7 @@ const ARTIST_DATA = {
       "notes": "Tascam DR-2d \u00b7 ghostwheel",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-07-18 - Lafayette, NY - Beak & Skiff Apple Orchards (Schoeps MK4) (beatkilla) [AUD24].txt"
+      "textFile": "2025-07-18 - LaFayette, NY - Beak & Skiff Apple Orchards (Tascam DR-2d) (ghostwheel) [AUD24].txt"
     },
     {
       "year": 2025,

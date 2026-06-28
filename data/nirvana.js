@@ -205,7 +205,7 @@ const ARTIST_DATA = {
       "notes": "REEL(M) \u00b7 master upgrade",
       "version": "SBD #1b",
       "format": "FLAC",
-      "textFile": "1987-05-06 KAOS Radio (MW Remaster v3.0) [Elmo + FM-ANA(3)].txt"
+      "textFile": "1987-05-06 - Olympia, WA - KAOS Olympia Community Radio.txt"
     },
     {
       "year": 1987,
@@ -219,7 +219,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1987-05-06 - Olympia, WA - KAOS Olympia Community Radio.txt"
+      "textFile": "1987-05-06 KAOS Radio (MW Remaster v3.0) [Elmo + FM-ANA(3)].txt"
     },
     {
       "year": 1988,
@@ -274,7 +274,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD #1",
       "format": "FLAC",
-      "textFile": "1988-01-23 - SBD #2f - ANA(2)-CDR(1)-FLAC [Kurdt's Kassette].txt"
+      "textFile": "1988-01-23 Community World Theater, Tacoma, WA, US (SBD).txt"
     },
     {
       "year": 1988,
@@ -344,7 +344,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x)",
       "version": "SBD #2e",
       "format": "FLAC",
-      "textFile": "1988-01-23 - SBD #2g - ANA(2)-DAT(1)-FLAC - 44.1kHz [Master Reel Compilation].txt"
+      "textFile": "1988-01-23 - Seattle, WA - Reciprocal Recording.txt"
     },
     {
       "year": 1988,
@@ -358,7 +358,7 @@ const ARTIST_DATA = {
       "notes": "mw remaster",
       "version": "SBD #2e",
       "format": "FLAC",
-      "textFile": "1988-01-23 - SBD #2h - ANA(2)-DAT(1)-FLAC - 44.1kHz [7 Songs Edit].txt"
+      "textFile": "1988-01-23 - Seattle, WA - Reciprocal Recording.txt"
     },
     {
       "year": 1988,
@@ -372,7 +372,7 @@ const ARTIST_DATA = {
       "notes": "ANA(2) \u00b7 mz",
       "version": "SBD #2f",
       "format": "FLAC",
-      "textFile": "1988-01-23 - SBD #3a - ANA(2)-CDR(1)-FLAC [Kurdt's Tape, Side A].txt"
+      "textFile": "1988-01-23 - SBD #2f - ANA(2)-CDR(1)-FLAC [Kurdt's Kassette].txt"
     },
     {
       "year": 1988,
@@ -386,7 +386,7 @@ const ARTIST_DATA = {
       "notes": "ANA(2) \u00b7 mz",
       "version": "SBD #2g",
       "format": "FLAC",
-      "textFile": "1988-01-23 Community World Theater, Tacoma, WA, US (SBD).txt"
+      "textFile": "1988-01-23 - SBD #2g - ANA(2)-DAT(1)-FLAC - 44.1kHz [Master Reel Compilation].txt"
     },
     {
       "year": 1988,
@@ -400,7 +400,7 @@ const ARTIST_DATA = {
       "notes": "ANA(2) \u00b7 mz",
       "version": "SBD #2h",
       "format": "FLAC",
-      "textFile": "1988-01-23 - Seattle, WA - Reciprocal Recording.txt"
+      "textFile": "1988-01-23 - SBD #2h - ANA(2)-DAT(1)-FLAC - 44.1kHz [7 Songs Edit].txt"
     },
     {
       "year": 1988,
@@ -428,7 +428,7 @@ const ARTIST_DATA = {
       "notes": "ANA(2) \u00b7 bs",
       "version": "SBD #3a",
       "format": "FLAC",
-      "textFile": "1988-01-23 - Seattle, WA - Reciprocal Recording.txt"
+      "textFile": "1988-01-23 - SBD #3a - ANA(2)-CDR(1)-FLAC [Kurdt's Tape, Side A].txt"
     },
     {
       "year": 1988,
@@ -1067,7 +1067,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 mz",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1989-07-13 - Video8 x264 AAC FLAC [AMT #1 Upgrade].txt"
+      "textFile": "1989-07-13 - Hoboken, NJ - Maxwell's.txt"
     },
     {
       "year": 1989,
@@ -1081,7 +1081,7 @@ const ARTIST_DATA = {
       "notes": "VID8(M) \u00b7 upgrade",
       "version": "AMT #1",
       "format": "FLAC",
-      "textFile": "1989-07-13 - Hoboken, NJ - Maxwell's.txt"
+      "textFile": "1989-07-13 - Video8 x264 AAC FLAC [AMT #1 Upgrade].txt"
     },
     {
       "year": 1989,
@@ -1667,7 +1667,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AMT + PRO",
       "format": "DVD",
-      "textFile": "1989-11-02 - AMT #1a - VHS(1)-AUD-MDV(1)-DVDR(0) [AM].txt"
+      "textFile": "1989-11-02 - Groningen, The Netherlands - Vera.txt"
     },
     {
       "year": 1989,
@@ -1681,7 +1681,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1)",
       "version": "AMT #1",
       "format": "FLAC",
-      "textFile": "1989-11-02 - Groningen, The Netherlands - Vera.txt"
+      "textFile": "1989-11-02 - AMT #1a - VHS(1)-AUD-MDV(1)-DVDR(0) [AM].txt"
     },
     {
       "year": 1989,
@@ -2059,7 +2059,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 fb",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1989-11-20 - AMT #1 - VHS(1)-DVDR(1) (reauthor) [CE].txt"
+      "textFile": "1989-11-20 - AMT #1 - VHS(1)-DVDR(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1989,
@@ -2073,7 +2073,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 re-author \u00b7 ce",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1989-11-20 - AMT #1 - VHS(1)-DVDR(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1989-11-20 - AMT #1 - VHS(1)-DVDR(1) (reauthor) [CE].txt"
     },
     {
       "year": 1989,
@@ -2087,7 +2087,7 @@ const ARTIST_DATA = {
       "notes": "VHS(M) \u00b7 fb",
       "version": "AMT #2 (44.1k)",
       "format": "FLAC",
-      "textFile": "1989-11-20 - AMT #2 - VHS(M)-DVDR(1) [AF].txt"
+      "textFile": "1989-11-20 - AMT #2 - VHS(M)-DVDR(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1989,
@@ -2101,7 +2101,7 @@ const ARTIST_DATA = {
       "notes": "VHS(M) \u00b7 a.f.",
       "version": "AMT #2",
       "format": "DVD",
-      "textFile": "1989-11-20 - AMT #2 - VHS(M)-DVDR(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1989-11-20 - AMT #2 - VHS(M)-DVDR(1) [AF].txt"
     },
     {
       "year": 1989,
@@ -2115,7 +2115,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 db",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1989-11-22 - SBD #1a - FM-CDR(3)-FLAC - 44.1kHz (Stefan S., 2001).txt"
+      "textFile": "1989-11-22 - SBD_1b - CD-FLAC [Smells Like Nirvana].txt"
     },
     {
       "year": 1989,
@@ -2129,7 +2129,7 @@ const ARTIST_DATA = {
       "notes": "FM-CDR(3)",
       "version": "SBD #1a",
       "format": "FLAC",
-      "textFile": "1989-11-22 - SBD #1a - FM-FLAC (Richard Richard Strin, 2004).txt"
+      "textFile": "1989-11-22 - SBD #1a - FM-CDR(3)-FLAC - 44.1kHz (Stefan S., 2001).txt"
     },
     {
       "year": 1989,
@@ -2143,7 +2143,7 @@ const ARTIST_DATA = {
       "notes": "ANA(Cable) \u00b7 richard strin",
       "version": "SBD #1a",
       "format": "FLAC",
-      "textFile": "1989-11-22 - SBD_1b - CD-FLAC [Smells Like Nirvana].txt"
+      "textFile": "1989-11-22 - SBD #1a - FM-FLAC (Richard Richard Strin, 2004).txt"
     },
     {
       "year": 1989,
@@ -2199,7 +2199,7 @@ const ARTIST_DATA = {
       "notes": "8MM(M)",
       "version": "AMT #1a",
       "format": "FLAC",
-      "textFile": "1989-11-26 - AMT #1 - VHS(1)-DVDR(0) [PL].txt"
+      "textFile": "1989-11-26_AUD_1.txt"
     },
     {
       "year": 1989,
@@ -2213,7 +2213,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 pl",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1989-11-26_AUD_1.txt"
+      "textFile": "1989-11-26 - AMT #1 - VHS(1)-DVDR(0) [PL].txt"
     },
     {
       "year": 1989,
@@ -2558,7 +2558,7 @@ const ARTIST_DATA = {
       "notes": "ANA(3) \u00b7 mz",
       "version": "SBD #1a",
       "format": "FLAC",
-      "textFile": "1990-01-06 - SBD #1b ANA(x)-FLAC- 44.1kHz.txt"
+      "textFile": "1990-01-06 - Seattle, WA (SBD #1a).txt"
     },
     {
       "year": 1990,
@@ -2572,7 +2572,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 gh",
       "version": "SBD #1b",
       "format": "FLAC",
-      "textFile": "1990-01-06 - Seattle, WA (SBD #1a).txt"
+      "textFile": "1990-01-06 - SBD #1b ANA(x)-FLAC- 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -2642,7 +2642,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1990-01-20 - AMT #1 - VHS(1)-DVDR(0) [KS].txt"
+      "textFile": "1990-01-20 - AUD #1 - ANA(M)-CDR(1)-FLAC.txt"
     },
     {
       "year": 1990,
@@ -2656,7 +2656,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 members of LN",
       "version": "AUD #1b",
       "format": "FLAC 24",
-      "textFile": "1990-01-20 - AUD #1 - ANA(M)-CDR(1)-FLAC.txt"
+      "textFile": "1990-01-20 AUD#1b ANA(M).txt"
     },
     {
       "year": 1990,
@@ -2684,7 +2684,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 ks",
       "version": "AMT #1",
       "format": "FLAC",
-      "textFile": "1990-01-20 - AMT #1 - VHS(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-01-20 - AMT #1 - VHS(1)-DVDR(0) [KS].txt"
     },
     {
       "year": 1990,
@@ -2698,7 +2698,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 ks",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1990-01-20 AUD#1b ANA(M).txt"
+      "textFile": "1990-01-20 - AMT #1 - VHS(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -2838,7 +2838,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1990-02-12 - AMT #1 - 8MM(M)-MDV(2)-DVDR(1) [JH].txt"
+      "textFile": "1990-02-12_AMT2_VHSM-DVDR1.txt"
     },
     {
       "year": 1990,
@@ -2852,7 +2852,7 @@ const ARTIST_DATA = {
       "notes": "8MM(M) \u00b7 fb",
       "version": "AMT #1",
       "format": "FLAC",
-      "textFile": "1990-02-12_AMT2_VHSM-DVDR1.txt"
+      "textFile": "1990-02-12 - AMT #1 - 8MM(M)-MDV(2)-DVDR(1) [JH].txt"
     },
     {
       "year": 1990,
@@ -2908,7 +2908,7 @@ const ARTIST_DATA = {
       "notes": "Late \u00b7 2 \u00b7 mz",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1990-02-14 (Late) - AMT #1a - VHS(3)-DVDR(0) [MZ].txt"
+      "textFile": "1990-02-14 - AUD #1.txt"
     },
     {
       "year": 1990,
@@ -2922,7 +2922,7 @@ const ARTIST_DATA = {
       "notes": "Late \u00b7 M \u00b7 mz",
       "version": "AUD #2",
       "format": "FLAC",
-      "textFile": "1990-02-14 (Late) - AMT #1b - VHS(2)-DAT(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-02-14 (Late) - AUD #2 - ANA(M)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -2936,7 +2936,7 @@ const ARTIST_DATA = {
       "notes": "ANA(2)",
       "version": "SBD #1",
       "format": "FLAC",
-      "textFile": "1990-02-14 (Late) - AUD #2 - ANA(M)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-02-14 - Kennel Club, San Francisco, CA, US AMT_1a MZ TRANSFER.txt"
     },
     {
       "year": 1990,
@@ -2950,7 +2950,7 @@ const ARTIST_DATA = {
       "notes": "VHS(3) \u00b7 mz transfer",
       "version": "AMT #1a",
       "format": "FLAC",
-      "textFile": "1990-02-14 - AUD #1.txt"
+      "textFile": "1990-02-14 (Late) - AMT #1a - VHS(3)-DVDR(0) [MZ].txt"
     },
     {
       "year": 1990,
@@ -2964,7 +2964,7 @@ const ARTIST_DATA = {
       "notes": "Late \u00b7 3 \u00b7 mz",
       "version": "AMT #1a",
       "format": "DVD",
-      "textFile": "1990-02-14 - Kennel Club, San Francisco, CA, US AMT_1a MZ TRANSFER.txt"
+      "textFile": "1990-02-14 ANA(2) ~ DAT(2) ~ CDR(1) ~ WAV ~ FLAC.txt"
     },
     {
       "year": 1990,
@@ -2978,7 +2978,7 @@ const ARTIST_DATA = {
       "notes": "Late \u00b7 2 \u00b7 mz",
       "version": "AMT #1b",
       "format": "FLAC",
-      "textFile": "1990-02-14 ANA(2) ~ DAT(2) ~ CDR(1) ~ WAV ~ FLAC.txt"
+      "textFile": "1990-02-14 (Late) - AMT #1b - VHS(2)-DAT(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -3520,7 +3520,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 dl",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1990-04-17 - PRO #1 - BETA(M)-VHS(2)-DVDR(0) [CH].txt"
+      "textFile": "1990-04-17 - PRO #1 - BETA(M)-VHS(2)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -3562,7 +3562,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 ch",
       "version": "PRO #1",
       "format": "DVD",
-      "textFile": "1990-04-17 - PRO #1 - BETA(M)-VHS(2)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-04-17 - PRO #1 - BETA(M)-VHS(2)-DVDR(0) [CH].txt"
     },
     {
       "year": 1990,
@@ -3855,7 +3855,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 mz",
       "version": "SBD #1",
       "format": "FLAC",
-      "textFile": "1990-05-06 - AMT #1 - VHS(x)-DVDR(0) [KS].txt"
+      "textFile": "1990-05-06 - SBD #1 - ANA(1)-DAT(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -3883,7 +3883,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 ks",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1990-05-06 - AMT #2 - VHS(1)-DVDR(0) [KS].txt"
+      "textFile": "1990-05-06 - AMT #1 - VHS(x)-DVDR(0) [KS].txt"
     },
     {
       "year": 1990,
@@ -3911,7 +3911,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 ks",
       "version": "AMT #2",
       "format": "DVD",
-      "textFile": "1990-05-06 - SBD #1 - ANA(1)-DAT(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-05-06 - AMT #2 - VHS(1)-DVDR(0) [KS].txt"
     },
     {
       "year": 1990,
@@ -4603,7 +4603,7 @@ const ARTIST_DATA = {
       "notes": "ANA(2) \u00b7 mz",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1990-10-25 - AMT #1 - Hi8(M)-CDR(2)-FLAC.txt"
+      "textFile": "1990-10-25 - Video8 AAC FLAC1.0 x264.txt"
     },
     {
       "year": 1990,
@@ -4617,7 +4617,7 @@ const ARTIST_DATA = {
       "notes": "Hi8(M) \u00b7 rf",
       "version": "AMT #1",
       "format": "FLAC",
-      "textFile": "1990-10-25 - Video8 AAC FLAC1.0 x264.txt"
+      "textFile": "1990-10-25 - AMT #1 - Hi8(M)-CDR(2)-FLAC.txt"
     },
     {
       "year": 1990,
@@ -5546,7 +5546,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 hecquet gregory",
       "version": "PRO #1a (44.1k)",
       "format": "FLAC",
-      "textFile": "1991-08-23 - PRO #1b - BETA(M)-ANA(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-08-23 - Richfield Avenue @ Reading Festival ~ United Kingdom [DVD] AMT#2.txt"
     },
     {
       "year": 1991,
@@ -5560,7 +5560,7 @@ const ARTIST_DATA = {
       "notes": "BETA(M) \u00b7 mz",
       "version": "PRO #1b",
       "format": "FLAC",
-      "textFile": "1991-08-23 - Richfield Avenue @ Reading Festival ~ United Kingdom [DVD] AMT#2.txt"
+      "textFile": "1991-08-23 - PRO #1b - BETA(M)-ANA(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -5602,7 +5602,7 @@ const ARTIST_DATA = {
       "notes": "DAT(1) \u00b7 ks",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1991-08-24 - AMT #1 - Hi8(M)-DVDR(2)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-08-24 - AUD #1 - DAT(1)-CDR(1)-FLAC.txt"
     },
     {
       "year": 1991,
@@ -5616,7 +5616,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 mz",
       "version": "AUD #2",
       "format": "FLAC",
-      "textFile": "1991-08-24 - AUD #1 - DAT(1)-CDR(1)-FLAC.txt"
+      "textFile": "1991-08-24 - AUD #2 - ANA(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -5630,7 +5630,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 mz",
       "version": "AUD #3",
       "format": "FLAC",
-      "textFile": "1991-08-24 - AUD #2 - ANA(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-08-24 - AUD #3 - ANA(x)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -5644,7 +5644,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 david willhauk transfer",
       "version": "AUD #3",
       "format": "FLAC",
-      "textFile": "1991-08-24 - AUD #3 - ANA(x)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-08-24 - AUD #3 - ANA(x)-FLAC [DW].txt"
     },
     {
       "year": 1991,
@@ -5658,7 +5658,7 @@ const ARTIST_DATA = {
       "notes": "Hi8(M) \u00b7 ks",
       "version": "AMT #1",
       "format": "FLAC",
-      "textFile": "1991-08-24 - AUD #3 - ANA(x)-FLAC [DW].txt"
+      "textFile": "1991-08-24 - AMT #1 - Hi8(M)-DVDR(2)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -5798,21 +5798,7 @@ const ARTIST_DATA = {
       "notes": "speed corrected",
       "version": "AUD #2a",
       "format": "FLAC",
-      "textFile": "1991-09-01 - AMT #1 - VHS(1)-DVDR(0) [MZ].txt"
-    },
-    {
-      "year": 1991,
-      "month": 9,
-      "day": 1,
-      "dateStr": "9-1-1991",
-      "city": "Rotterdam",
-      "state": "The Netherlands",
-      "location": "Rotterdam, The Netherlands",
-      "venue": "De Doelen (Ein Abend In Wien)",
-      "notes": "ANA(2) \u00b7 mz",
-      "version": "AUD #2b",
-      "format": "FLAC",
-      "textFile": "1991-09-01 - AMT #2 - VHS(1)-DVDR(0) [FO].txt"
+      "textFile": "1991-09-01 - Rotterdam, Netherlands - Do Doelen.txt"
     },
     {
       "year": 1991,
@@ -5827,6 +5813,20 @@ const ARTIST_DATA = {
       "version": "AUD #2b",
       "format": "FLAC",
       "textFile": "1991-09-01 - AUD #2b - ANA(2)-FLAC - 44.1kHz.txt"
+    },
+    {
+      "year": 1991,
+      "month": 9,
+      "day": 1,
+      "dateStr": "9-1-1991",
+      "city": "Rotterdam",
+      "state": "The Netherlands",
+      "location": "Rotterdam, The Netherlands",
+      "venue": "De Doelen (Ein Abend In Wien)",
+      "notes": "ANA(2) \u00b7 mz",
+      "version": "AUD #2b",
+      "format": "FLAC",
+      "textFile": "1991-09-01 - Rotterdam, Netherlands - Do Doelen.txt"
     },
     {
       "year": 1991,
@@ -5854,7 +5854,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 mz",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1991-09-01 - AMT #1 - VHS(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-09-01 - AMT #1 - VHS(1)-DVDR(0) [MZ].txt"
     },
     {
       "year": 1991,
@@ -5868,7 +5868,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 mz",
       "version": "AMT #1",
       "format": "FLAC",
-      "textFile": "1991-09-01 - Rotterdam, Netherlands - Do Doelen.txt"
+      "textFile": "1991-09-01 - AMT #1 - VHS(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -5882,7 +5882,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 fo",
       "version": "AMT #2",
       "format": "DVD",
-      "textFile": "1991-09-01 - AMT #2 - VHS(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-09-01 - AMT #2 - VHS(1)-DVDR(0) [FO].txt"
     },
     {
       "year": 1991,
@@ -5896,7 +5896,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 fo",
       "version": "AMT #2",
       "format": "FLAC",
-      "textFile": "1991-09-01 - Rotterdam, Netherlands - Do Doelen.txt"
+      "textFile": "1991-09-01 - AMT #2 - VHS(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -5980,7 +5980,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 ks",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1991-09-20 - AMT #1 - VHS(2)-DVDR(1) [AD].txt"
+      "textFile": "1991-09-20- Ontario, Canada - The Opera House.txt"
     },
     {
       "year": 1991,
@@ -6008,7 +6008,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 mz",
       "version": "AMT #1",
       "format": "FLAC",
-      "textFile": "1991-09-20- Ontario, Canada - The Opera House.txt"
+      "textFile": "1991-09-20 - AMT #1 - VHS(2)-DVDR(1) [AD].txt"
     },
     {
       "year": 1991,
@@ -6204,7 +6204,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 WMD3",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1991-09-28 (Late) - AUD #2 - ANA(M)-CDR(1)-FLAC.txt"
+      "textFile": "1991-09-28b - New York, NY - Marquee Club (Late).txt"
     },
     {
       "year": 1991,
@@ -6218,7 +6218,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #2",
       "format": "FLAC",
-      "textFile": "1991-09-28 (Late) - AUD #3 - ANA(x)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-09-28 (Late) - AUD #2 - ANA(M)-CDR(1)-FLAC.txt"
     },
     {
       "year": 1991,
@@ -6232,7 +6232,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 ks",
       "version": "AUD #3",
       "format": "FLAC",
-      "textFile": "1991-09-28b - New York, NY - Marquee Club (Late).txt"
+      "textFile": "1991-09-28 (Late) - AUD #3 - ANA(x)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -6580,7 +6580,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M)",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1991-10-19 - AMT #1 - SVHS(M)-DAT(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-10-19 - Dallas, TX - Trees Club.txt"
     },
     {
       "year": 1991,
@@ -6594,7 +6594,7 @@ const ARTIST_DATA = {
       "notes": "SVHS(M) \u00b7 mz",
       "version": "AMT #1",
       "format": "FLAC",
-      "textFile": "1991-10-19 - AMT #1 - SVHS(M)-DVDR(0) [JH].txt"
+      "textFile": "1991-10-19 - AMT #1 - SVHS(M)-DAT(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -6608,7 +6608,7 @@ const ARTIST_DATA = {
       "notes": "SVHS(M) \u00b7 jh",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1991-10-19 - Dallas, TX - Trees Club.txt"
+      "textFile": "1991-10-19 - AMT #1 - SVHS(M)-DVDR(0) [JH].txt"
     },
     {
       "year": 1991,
@@ -6678,7 +6678,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1991-10-24 (Early) - AMT #1 - VHS(2)-DVDR(0) [KS].txt"
+      "textFile": "1991-10-24 (Early) - AMT #1 - VHS(2)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -6692,7 +6692,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 ks",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1991-10-24 (Early) - AMT #1 - VHS(2)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-10-24 (Early) - AUD #1 - ANA(M)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -6706,7 +6706,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 ks",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1991-10-24 (Early) - AUD #1 - ANA(M)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-10-24 (Early) - AMT #1 - VHS(2)-DVDR(0) [KS].txt"
     },
     {
       "year": 1991,
@@ -7473,7 +7473,7 @@ const ARTIST_DATA = {
       "notes": "ANA(2) \u00b7 bs",
       "version": "SBD #1a",
       "format": "FLAC",
-      "textFile": "1991-11-19 - PRO #1a - TV-VHS(1)-DVDR(0) [MZ].txt"
+      "textFile": "1991-11-19 - SBD #1a - FM-ANA(2)-CDR(2)-FLAC.txt"
     },
     {
       "year": 1991,
@@ -7487,7 +7487,7 @@ const ARTIST_DATA = {
       "notes": "mz",
       "version": "SBD #1b",
       "format": "FLAC",
-      "textFile": "1991-11-19 - SBD #1a - FM-ANA(2)-CDR(2)-FLAC.txt"
+      "textFile": "1991-11-19 - SBD #1b - CD-FLAC [Seattle Sound Sounds Great].txt"
     },
     {
       "year": 1991,
@@ -7501,7 +7501,7 @@ const ARTIST_DATA = {
       "notes": "DBA \u00b7 ms",
       "version": "SBD #1c",
       "format": "FLAC",
-      "textFile": "1991-11-19 - SBD #1b - CD-FLAC [Seattle Sound Sounds Great].txt"
+      "textFile": "1991-11-19 - SBD #1c - DBS-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -7515,7 +7515,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 pb",
       "version": "SBD #1d",
       "format": "FLAC",
-      "textFile": "1991-11-19 - SBD #1c - DBS-FLAC - 44.1kHz.txt"
+      "textFile": "1991-11-19 Rome, Italy (SBD 1D).txt"
     },
     {
       "year": 1991,
@@ -7543,7 +7543,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 mz",
       "version": "PRO #1a",
       "format": "FLAC",
-      "textFile": "1991-11-19 - PRO #1a - TV-VHS(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-11-19 - PRO #1a - TV-VHS(1)-DVDR(0) [MZ].txt"
     },
     {
       "year": 1991,
@@ -7557,7 +7557,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 mz",
       "version": "PRO #1a",
       "format": "DVD",
-      "textFile": "1991-11-19 Rome, Italy (SBD 1D).txt"
+      "textFile": "1991-11-19 - PRO #1a - TV-VHS(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -7654,7 +7654,7 @@ const ARTIST_DATA = {
       "notes": "Video8(M) \u00b7 willhauk, serra, members of livenirvana",
       "version": "AMT #1",
       "format": "MKV",
-      "textFile": "1991-11-23 - AUD #2 - ANA(M)-CDR(1)-FLAC.txt"
+      "textFile": "1991-11-23 - Ghent, BE - Vooruit.txt"
     },
     {
       "year": 1991,
@@ -7682,7 +7682,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #2",
       "format": "FLAC",
-      "textFile": "1991-11-23 - Ghent, BE - Vooruit.txt"
+      "textFile": "1991-11-23 - AUD #2 - ANA(M)-CDR(1)-FLAC.txt"
     },
     {
       "year": 1991,
@@ -7752,7 +7752,7 @@ const ARTIST_DATA = {
       "notes": "Early \u00b7 RealAudio Master",
       "version": "SBD #1a",
       "format": "FLAC",
-      "textFile": "1991-11-25 (Early) - SBD #1b - ADR-MD(1)-FLAC.txt"
+      "textFile": "1991-11-25 - Paradiso ~ Amsterdam, The Netherlands.txt"
     },
     {
       "year": 1991,
@@ -7766,7 +7766,7 @@ const ARTIST_DATA = {
       "notes": "ADR-MD(1) \u00b7 am",
       "version": "SBD #1b",
       "format": "FLAC",
-      "textFile": "1991-11-25 (Early) - SBD #1c - FM-ANA(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-11-25 (Early) - SBD #1b - ADR-MD(1)-FLAC.txt"
     },
     {
       "year": 1991,
@@ -7780,7 +7780,7 @@ const ARTIST_DATA = {
       "notes": "FM-ANA(1) \u00b7 mz",
       "version": "SBD #1c",
       "format": "FLAC",
-      "textFile": "1991-11-25 - Paradiso ~ Amsterdam, The Netherlands.txt"
+      "textFile": "1991-11-25 (Early) - SBD #1c - FM-ANA(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -8534,7 +8534,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1991-12-31 - AMT #1 - VHS(2)-DVDR(1) [TR].txt"
+      "textFile": "1991-12-31 - AUD #1 - ANA(M)-DAT(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -8562,7 +8562,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 ks",
       "version": "AUD #2",
       "format": "FLAC",
-      "textFile": "1991-12-31 - AUD #1 - ANA(M)-DAT(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-12-31 - San Francisco, CA - Cow Palace.txt"
     },
     {
       "year": 1991,
@@ -8576,7 +8576,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 tr",
       "version": "AMT #1",
       "format": "MPG",
-      "textFile": "1991-12-31 - San Francisco, CA - Cow Palace.txt"
+      "textFile": "1991-12-31 - AMT #1 - VHS(2)-DVDR(1) [TR].txt"
     },
     {
       "year": 1992,
@@ -8780,7 +8780,7 @@ const ARTIST_DATA = {
       "notes": "dw",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1992-01-24 - AUD #2 - DAT(M)-ANA(2)-FLAC - 44.1kHz.txt"
+      "textFile": "1992-01-24_AUD_1.txt"
     },
     {
       "year": 1992,
@@ -8794,7 +8794,7 @@ const ARTIST_DATA = {
       "notes": "dw",
       "version": "AMT #1 (48k)",
       "format": "FLAC",
-      "textFile": "1992-01-24_AUD_1.txt"
+      "textFile": "1992-01-24 - Sydney, Australia - Phoenician Club.txt"
     },
     {
       "year": 1992,
@@ -8807,8 +8807,7 @@ const ARTIST_DATA = {
       "venue": "Phoenician Club",
       "notes": "VID8(M) \u00b7 dw",
       "version": "AMT #1",
-      "format": "MKV",
-      "textFile": "1992-01-24 - Sydney, Australia - Phoenician Club.txt"
+      "format": "MKV"
     },
     {
       "year": 1992,
@@ -8834,7 +8833,8 @@ const ARTIST_DATA = {
       "venue": "Phoenician Club",
       "notes": "DAT(M) \u00b7 mz",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-01-24 - AUD #2 - DAT(M)-ANA(2)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1992,
@@ -8848,7 +8848,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 mz",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1992-01-25 - AMT #1 - VHS(x)-DVDR(1) [FO].txt"
+      "textFile": "1992-01-25 Sydney, Australia (AUD #1).txt"
     },
     {
       "year": 1992,
@@ -8876,7 +8876,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 fo",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1992-01-25 - AMT #1 - VHS(x)-FLAC - 44.1kHz [FO].txt"
+      "textFile": "1992-01-25 - AMT #1 - VHS(x)-DVDR(1) [FO].txt"
     },
     {
       "year": 1992,
@@ -8890,7 +8890,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 fo",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1992-01-25 Sydney, Australia (AUD #1).txt"
+      "textFile": "1992-01-25 - AMT #1 - VHS(x)-FLAC - 44.1kHz [FO].txt"
     },
     {
       "year": 1992,
@@ -9461,7 +9461,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 pl",
       "version": "AUD #4",
       "format": "FLAC",
-      "textFile": "1992-06-24 Paris (MTX).txt"
+      "textFile": "1992-06-24_AUD_4.txt"
     },
     {
       "year": 1992,
@@ -9475,7 +9475,7 @@ const ARTIST_DATA = {
       "notes": "blg mix",
       "version": "MTX",
       "format": "FLAC",
-      "textFile": "1992-06-24_AUD_4.txt"
+      "textFile": "1992-06-24 Paris (MTX).txt"
     },
     {
       "year": 1992,
@@ -9685,7 +9685,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 cm",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1992-06-27 - AMT #1a - VHS(2)-DVDR(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1992-06-27 - Kansanpuisto (Ruisrock) ~ Turku, Finland.txt"
     },
     {
       "year": 1992,
@@ -9699,7 +9699,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 cm",
       "version": "AMT #1 (48k)",
       "format": "FLAC",
-      "textFile": "1992-06-27 - AMT #2 - VHS(1)-CDR(3)-FLAC.txt"
+      "textFile": "1992-06-27 - Turku, Finland - Kansanpuisto (Ruisrock).txt"
     },
     {
       "year": 1992,
@@ -9713,7 +9713,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 pv",
       "version": "AMT #1a",
       "format": "FLAC",
-      "textFile": "1992-06-27 - AUD #1 - ANA(M)-DAT(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1992-06-27 - AMT #1a - VHS(2)-DVDR(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1992,
@@ -9741,7 +9741,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 mz",
       "version": "AMT #1b",
       "format": "DVD",
-      "textFile": "1992-06-27 - Kansanpuisto (Ruisrock) ~ Turku, Finland.txt"
+      "textFile": "1992-06-27 - Turku, Finland - Kansanpuisto (Ruisrock).txt"
     },
     {
       "year": 1992,
@@ -9755,7 +9755,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 rf",
       "version": "AMT #2",
       "format": "FLAC",
-      "textFile": "1992-06-27 - Turku, Finland - Kansanpuisto (Ruisrock).txt"
+      "textFile": "1992-06-27 - AMT #2 - VHS(1)-CDR(3)-FLAC.txt"
     },
     {
       "year": 1992,
@@ -9769,7 +9769,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1992-06-27 - Turku, Finland - Kansanpuisto (Ruisrock).txt"
+      "textFile": "1992-06-27 - AUD #1 - ANA(M)-DAT(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1992,
@@ -10132,7 +10132,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 ns",
       "version": "PRO #1a (44.1k)",
       "format": "FLAC",
-      "textFile": "1992-08-30 - PRO #1a.txt"
+      "textFile": "1992-08-30 - PRO #1bc - TV-VHS(2)-DVDR(1) [BL].txt"
     },
     {
       "year": 1992,
@@ -10146,7 +10146,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 ns",
       "version": "PRO #1a (48k)",
       "format": "FLAC",
-      "textFile": "1992-08-30 - PRO #1bc - TV-VHS(2)-DVDR(1) [BL].txt"
+      "textFile": "1992-08-30 - Reading, England - Reading Festival.txt"
     },
     {
       "year": 1992,
@@ -10160,7 +10160,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 ns",
       "version": "PRO #1a",
       "format": "MKV",
-      "textFile": "1992-08-30 - Reading, England - Reading Festival.txt"
+      "textFile": "1992-08-30 - PRO #1a.txt"
     },
     {
       "year": 1992,
@@ -10410,7 +10410,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1992-09-10 - PRO #1 - VHS(x)-DVDR(0) [CF].txt"
+      "textFile": "1992-09-10_AUD_1.txt"
     },
     {
       "year": 1992,
@@ -10438,7 +10438,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 cf",
       "version": "PRO #1",
       "format": "DVD",
-      "textFile": "1992-09-10_AUD_1.txt"
+      "textFile": "1992-09-10 - PRO #1 - VHS(x)-DVDR(0) [CF].txt"
     },
     {
       "year": 1992,
@@ -10466,7 +10466,7 @@ const ARTIST_DATA = {
       "notes": "WMIC Benefit \u00b7 mz",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1992-09-11 - PRO #1a - VHS(x)-DVDR(0) - PRO #1b - VHS(2)-DVDR(0) [KS].txt"
+      "textFile": "1992-09-11AMT1.txt"
     },
     {
       "year": 1992,
@@ -10480,7 +10480,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 ks",
       "version": "PRO #1a",
       "format": "FLAC",
-      "textFile": "1992-09-11 - PRO #1a - VHS(x)-FLAC - 44.1kHz.txt"
+      "textFile": "1992-09-11 - PRO #1a - VHS(x)-DVDR(0) - PRO #1b - VHS(2)-DVDR(0) [KS].txt"
     },
     {
       "year": 1992,
@@ -10494,7 +10494,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 ks",
       "version": "PRO #1a",
       "format": "DVD",
-      "textFile": "1992-09-11AMT1.txt"
+      "textFile": "1992-09-11 - PRO #1a - VHS(x)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1992,
@@ -10604,7 +10604,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1992-09-26 - AMT #1 - HI8(M)-DVDR(0) [MZ].txt"
+      "textFile": "1992-09-26_AUD1_ANAM.txt"
     },
     {
       "year": 1992,
@@ -10646,7 +10646,7 @@ const ARTIST_DATA = {
       "notes": "M \u00b7 mz",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1992-09-26_AUD1_ANAM.txt"
+      "textFile": "1992-09-26 - AMT #1 - HI8(M)-DVDR(0) [MZ].txt"
     },
     {
       "year": 1992,
@@ -10744,7 +10744,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 pv",
       "version": "PRO #1b",
       "format": "FLAC",
-      "textFile": "1992-10-30 - SBD #1b - FM-ANA(3)-DAT(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1992-10-30 Buenos Aires, Argentina (PRO1b).txt"
     },
     {
       "year": 1992,
@@ -10786,7 +10786,7 @@ const ARTIST_DATA = {
       "notes": "FM-ANA(3) \u00b7 mz",
       "version": "SBD #1b",
       "format": "FLAC",
-      "textFile": "1992-10-30 Buenos Aires, Argentina (PRO1b).txt"
+      "textFile": "1992-10-30 - SBD #1b - FM-ANA(3)-DAT(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1992,
@@ -10883,7 +10883,7 @@ const ARTIST_DATA = {
       "notes": "Master-ASX",
       "version": "PRO #1",
       "format": "FLAC",
-      "textFile": "1993-01-16 - PRO #2 - VHS(1)-DVDR(2)-FLAC - 44.1kHz.txt"
+      "textFile": "1993-01-16 - Sao Paulo, Brazil - Estudio Cicero Pompeu de Toledo.txt"
     },
     {
       "year": 1993,
@@ -10925,7 +10925,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 ss",
       "version": "PRO #2",
       "format": "MKV",
-      "textFile": "1993-01-16 - Sao Paulo, Brazil - Estudio Cicero Pompeu de Toledo.txt"
+      "textFile": "1993-01-16 - PRO #2 - VHS(1)-DVDR(2)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1993,
@@ -12139,6 +12139,20 @@ const ARTIST_DATA = {
       "notes": "8MM(M) \u00b7 jh",
       "version": "AMT #1",
       "format": "DVD",
+      "textFile": "1993-11-09 - Bethlehem, PA - Stabler Arena, Lehigh University .txt"
+    },
+    {
+      "year": 1993,
+      "month": 11,
+      "day": 9,
+      "dateStr": "11-9-1993",
+      "city": "Bethlehem",
+      "state": "PA",
+      "location": "Bethlehem, PA",
+      "venue": "Stabler Arena, Lehigh University",
+      "notes": "8MM(M) \u00b7 bm",
+      "version": "AMT #2",
+      "format": "FLAC",
       "textFile": "1993-11-09 - AMT #2 - 8MM(M)-MDV(2)-DVDR(1) [BM].txt"
     },
     {
@@ -12152,22 +12166,8 @@ const ARTIST_DATA = {
       "venue": "Stabler Arena, Lehigh University",
       "notes": "8MM(M) \u00b7 bm",
       "version": "AMT #2",
-      "format": "FLAC",
-      "textFile": "1993-11-09 - AMT #3 - 8MM(M)-DVDR(0) [MZ].txt"
-    },
-    {
-      "year": 1993,
-      "month": 11,
-      "day": 9,
-      "dateStr": "11-9-1993",
-      "city": "Bethlehem",
-      "state": "PA",
-      "location": "Bethlehem, PA",
-      "venue": "Stabler Arena, Lehigh University",
-      "notes": "8MM(M) \u00b7 bm",
-      "version": "AMT #2",
       "format": "DVD",
-      "textFile": "1993-11-09 - AUD #2 - Unoff. CD-FLAC [Legacy Of Noise] (speed-corrected PL).txt"
+      "textFile": "1993-11-09 - Bethlehem, PA - Stabler Arena, Lehigh University .txt"
     },
     {
       "year": 1993,
@@ -12181,7 +12181,7 @@ const ARTIST_DATA = {
       "notes": "8MM(M) \u00b7 mz",
       "version": "AMT #3",
       "format": "FLAC",
-      "textFile": "1993-11-09 - Bethlehem, PA - Stabler Arena, Lehigh University .txt"
+      "textFile": "1993-11-09 - AMT #3 - 8MM(M)-DVDR(0) [MZ].txt"
     },
     {
       "year": 1993,
@@ -12237,7 +12237,7 @@ const ARTIST_DATA = {
       "notes": "speed corrected \u00b7 pl",
       "version": "AUD #2",
       "format": "FLAC",
-      "textFile": "1993-11-09 - Bethlehem, PA - Stabler Arena, Lehigh University .txt"
+      "textFile": "1993-11-09 - AUD #2 - Unoff. CD-FLAC [Legacy Of Noise] (speed-corrected PL).txt"
     },
     {
       "year": 1993,
@@ -12893,7 +12893,7 @@ const ARTIST_DATA = {
       "notes": "Late \u00b7 1 \u00b7 jh",
       "version": "PRO #1a",
       "format": "FLAC",
-      "textFile": "1993-12-13 (Late) - AMT #1 - VHS(1)-MDV(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1993-12-13 (Late) - PRO #1a - TV-SVHS(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1993,
@@ -12907,7 +12907,7 @@ const ARTIST_DATA = {
       "notes": "Late \u00b7 1 \u00b7 mz",
       "version": "PRO #1b",
       "format": "FLAC",
-      "textFile": "1993-12-13 (Late) - AUD #1 - DAT(M)-FLAC - 44.1kHz.txt"
+      "textFile": "1993-12-13 (Late) - PRO #1b - TV-VHS(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1993,
@@ -12921,7 +12921,7 @@ const ARTIST_DATA = {
       "notes": "Late",
       "version": "PRO #2b",
       "format": "FLAC",
-      "textFile": "1993-12-13 (Late) - PRO #1a - TV-SVHS(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1993-12-13 (Late) - PRO #2b - DBS-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1993,
@@ -12935,7 +12935,7 @@ const ARTIST_DATA = {
       "notes": "Late",
       "version": "PRO #3b (48k)",
       "format": "FLAC 24",
-      "textFile": "1993-12-13 (Late) - PRO #1b - TV-VHS(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1993-12-13 (Late) - PRO #3b - FLAC [In Utero Super Deluxe] - 48kHz 24-bit.txt"
     },
     {
       "year": 1993,
@@ -12949,7 +12949,7 @@ const ARTIST_DATA = {
       "notes": "Late \u00b7 pl",
       "version": "SBD #1",
       "format": "FLAC",
-      "textFile": "1993-12-13 (Late) - PRO #2b - DBS-FLAC - 44.1kHz.txt"
+      "textFile": "1993-12-13 (Late) - SBD #1 - CD-FLAC [FTMBOTW].txt"
     },
     {
       "year": 1993,
@@ -12963,7 +12963,7 @@ const ARTIST_DATA = {
       "notes": "DAT(x) \u00b7 unk",
       "version": "SBD #2",
       "format": "FLAC",
-      "textFile": "1993-12-13 (Late) - PRO #3b - FLAC [In Utero Super Deluxe] - 48kHz 24-bit.txt"
+      "textFile": "1993-12-13 - DG+KN -Interview (VHS1).txt"
     },
     {
       "year": 1993,
@@ -12977,7 +12977,7 @@ const ARTIST_DATA = {
       "notes": "Late \u00b7 1 \u00b7 tf",
       "version": "AMT #1",
       "format": "FLAC",
-      "textFile": "1993-12-13 (Late) - SBD #1 - CD-FLAC [FTMBOTW].txt"
+      "textFile": "1993-12-13 (Late) - AMT #1 - VHS(1)-MDV(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1993,
@@ -12991,7 +12991,7 @@ const ARTIST_DATA = {
       "notes": "Late \u00b7 M \u00b7 jems",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1993-12-13 - DG+KN -Interview (VHS1).txt"
+      "textFile": "1993-12-13 (Late) - AUD #1 - DAT(M)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1993,
@@ -13896,7 +13896,7 @@ const ARTIST_DATA = {
       "notes": "8MM(M)",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1994-02-22 - AUD #1 - ANA(M)-DAT(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1994-02-22 - Palaghiaccio - Marino, Italy (AMT#1).txt"
     },
     {
       "year": 1994,
@@ -13910,7 +13910,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 travisbickle1963 transfer",
       "version": "AMT #2 (48k)",
       "format": "FLAC",
-      "textFile": "1994-02-22 - Marino FM.txt"
+      "textFile": "1994-02-22 - Rome, Italy - Palaghiaccio.txt"
     },
     {
       "year": 1994,
@@ -13924,7 +13924,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 travisbickle1963 transfer",
       "version": "AMT #2",
       "format": "MKV",
-      "textFile": "1994-02-22 - Palaghiaccio - Marino, Italy (AMT#1).txt"
+      "textFile": "1994-02-22 - Rome, Italy - Palaghiaccio.txt"
     },
     {
       "year": 1994,
@@ -13938,7 +13938,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1994-02-22 - Rome, Italy - Palaghiaccio.txt"
+      "textFile": "1994-02-22 - AUD #1 - ANA(M)-DAT(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1994,
@@ -13966,7 +13966,7 @@ const ARTIST_DATA = {
       "notes": "ldb master",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1994-02-22 - Rome, Italy - Palaghiaccio.txt"
+      "textFile": "1994-02-22 - Marino FM.txt"
     },
     {
       "year": 1994,
@@ -14244,7 +14244,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2)",
       "version": "PRO #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1994-02-27 - PRO #1 - TV-VHS(2)-CDR(1)-FLAC.txt"
+      "textFile": "1994-02-27 - PRO #1 - TV-VHS(2)-DVDR(0) [CH].txt"
     },
     {
       "year": 1994,
@@ -14258,7 +14258,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2)",
       "version": "PRO #1",
       "format": "DVD",
-      "textFile": "1994-02-27 - PRO #1 - TV-VHS(2)-DVDR(0) [CH].txt"
+      "textFile": "1994-02-27 - PRO #1 - TV-VHS(2)-CDR(1)-FLAC.txt"
     },
     {
       "year": 1994,

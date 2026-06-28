@@ -1,25 +1,59 @@
-radiohead2006-06-08_t01.flac:766152e94152c4d98baadab87a1f2fe2
-radiohead2006-06-08_t02.flac:f6be5ac990fb27d8ca569c8c0eb176fa
-radiohead2006-06-08_t03.flac:f361da34a1dcc7416e6efebfce5aa708
-radiohead2006-06-08_t04.flac:15aafec69a974dacb66d2dc8663e677f
-radiohead2006-06-08_t05.flac:2790af3e3855cafafabb843fde4d503c
-radiohead2006-06-08_t06.flac:10ddb983cecd7f7e80e70f6a8a530160
-radiohead2006-06-08_t07.flac:9eb773a3aa8d7f0f1ef6dd49f0d4cbc7
-radiohead2006-06-08_t08.flac:7361298cd796fe775db47ced41a3fb5f
-radiohead2006-06-08_t09.flac:d4c2ff27d558f9a9454ed07db8bd0e61
-radiohead2006-06-08_t10.flac:ba72729f4397612f6999ad6143ed8a73
-radiohead2006-06-08_t11.flac:a17680ce5b0b9d5ba78e1c9686e0a2f5
-radiohead2006-06-08_t12.flac:e6c3769157b73e1a2c9a1de1f8d0d830
-radiohead2006-06-08_t13.flac:0962412251e7fb995a38bba567d28b47
-radiohead2006-06-08_t14.flac:e8aeb372675d5310515861dacce6a10c
-radiohead2006-06-08_t15.flac:615adb436ee045fd120da47b865a3adb
-radiohead2006-06-08_t16.flac:28e056f087341b54ab360cfa32f89b22
-radiohead2006-06-08_t17.flac:f42bc8662e94b01d36305de2a3e7d69f
-radiohead2006-06-08_t18.flac:918d248aec414c8be3bce4951d8667a4
-radiohead2006-06-08_t19.flac:bcbf62c4987f15ae2a255ab32741227e
-radiohead2006-06-08_t20.flac:042a049a0f413ec8fc98f3a7af9ec756
-radiohead2006-06-08_t21.flac:fb31bb88da083f45cd99ff007aa3fc27
-radiohead2006-06-08_t22.flac:0133b2ecb70305ae7aecc0d0a8b0aa6d
-radiohead2006-06-08_t23.flac:56ef66b750c409ad010b6cb849aefa45
-radiohead2006-06-08_t24.flac:b74ed0f9b3dab645ad6065c8e8faa37e
-radiohead2006-06-08_t25.flac:cfdebe514a1b170a812356ac03ee2dd4
+Radiohead
+June 8, 2006
+Hummmingbird Centre for the Performing Arts
+Toronto, ON
+
+SOURCE:
+SP-CMC-8 > SP-SPSB-8 (Bass rolloff @95Hz) > JB3 Line-In
+
+TRANSFER:
+JB3 > Firewire > Seagate Serial-ATA HDD > WAV [48kHz]
+
+LINEAGE:
+JB3 > WAV [48kHz] > T-Racks 24 v2.04 > Adobe Audition v1.5 > CD Wave Editor v1.94.4 > FLAC [Level 8] > You (Your copy will be CDR(1) if burnt)
+
+GENERATION:
+WAV [48kHz] > WAV [44.1kHz] > FLAC
+
+LENGTH: 108:16
+
+TRACKS:
+01 Intro
+02 The Gloaming
+03 Bangers 'n Mash
+04 15 Step
+05 2+2=5
+06 Kid A
+07 Fake Plastic Trees
+08 Videotape
+09 Arpeggi
+10 Idioteque
+11 Climbing Up The Walls
+12 Down Is The New Up
+13 Karma Police
+14 Nude
+15 House Of Cards
+16 Myxomatosis
+17 Spooks
+18 Paranoid Android
+19 <crowd noise>
+
+ENCORE 1:
+20 You And Whose Army?
+21 Bodysnatchers
+22 Just
+23 Let Down
+24 <crowd noise>
+
+ENCORE 2:
+25 There, There
+
+NOTES:
+-T-Racks 24 was used for EQing and fade-in and out.
+-Adobe Audition was used to downsample the WAV.
+-Recorded 15 rows back, dead centre.
+
+RECORDED BY:
+Dave Caley - dcaleyATtorontotapers.org (2006.06.08)
+
+PLEASE DO NOT SELL OR CONVERT TO MP3

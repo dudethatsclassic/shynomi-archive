@@ -1,24 +1,42 @@
-rh2006-06-10d1t01.flac:74321c4bf000039105f41b3afb99576b
-rh2006-06-10d1t02.flac:b4585adc0adc2b34e2a8246b3ecfe08d
-rh2006-06-10d1t03.flac:775a3bad8f399001a22f1762a53807a8
-rh2006-06-10d1t04.flac:98e1972ca4f54a9defc56e834e196714
-rh2006-06-10d1t05.flac:ed5af67af5625891d9289d5c12d3e2ed
-rh2006-06-10d1t06.flac:0b417cb047106eee33be5d8a9ed7c582
-rh2006-06-10d1t07.flac:38bd9986c163cfbf43ed987d6ba4ccb8
-rh2006-06-10d1t08.flac:c1ecc2254aea27ba60a527fd86bcad89
-rh2006-06-10d1t09.flac:6f4128be1dc93bf2e1870d0518f32dec
-rh2006-06-10d1t10.flac:62f43d5ca1451b92cd21874020089417
-rh2006-06-10d1t11.flac:011fc7ba4923d82ab944126f59e33a4f
-rh2006-06-10d1t12.flac:10ed85973ead4972590cdc3fc7d30428
-rh2006-06-10d1t13.flac:f50bc6c950dec69f796ea53e4eb7e3bb
-rh2006-06-10d1t14.flac:1ff53332f8927c7fab2d7d78072c23f3
-rh2006-06-10d1t15.flac:6ce23e1ce59960d73de0afcd3b1cae59
-rh2006-06-10d1t16.flac:66c0f4f57e20abe6a30f4e3f69988a15
-rh2006-06-10d1t17.flac:0c057095633aaf411ffc556b767b5112
-rh2006-06-10d2t01.flac:5de1ee1e8c86fe7b1b19a41d35832ba5
-rh2006-06-10d2t02.flac:af16f767283bd4467263fcd7b7d255bb
-rh2006-06-10d2t03.flac:5675d80161b43a239b3284b86bc84820
-rh2006-06-10d2t04.flac:c2bfe3b41cea35a7da5ac65c36500448
-rh2006-06-10d2t05.flac:c0a6d7a8a62eafb06c6c00cb541813a1
-rh2006-06-10d2t06.flac:cc5d6f34d9aab77a901d443ccc4a1ed2
-rh2006-06-10d2t07.flac:b8d34b39a6892083efba9be07a3e1c48
+Radiohead
+Salle Wilfred-Pelletier at Place des Arts - Montreal, QC
+6/10/06
+
+Location: level Corbeille, row A, seat 24 (first balcony, first row)
+Source: Neumann AK40/LC3/KM100's > Sound Devices 722 (24/96)
+Transfered: SD (firewire) > ecasound > shntool > flac
+
+Disc 1:
+
+01. The Gloaming
+02. National Anthem
+03. 2+2=5
+04. 15 Step
+05. Morning Bell
+06. Nude
+07. Videotape
+08. Kid A
+09. Dollars & Cents
+10. Arpeggi
+11. Street Spirit (fade out)
+12. Climbing Up The Walls
+13. House of Cards
+14. Pyramid Song
+15. Idioteque
+16. Bangers 'n' Mash
+17. There There
+
+Disc 2:
+
+Encore 1:
+
+01. How To Disappear Completely
+02. Down Is The New Up
+03. My Iron Lung
+04. Lucky
+
+Encore 2:
+
+05. 4 Minute Warning
+06. Everything In Its Right Place
+

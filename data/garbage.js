@@ -154,7 +154,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Unknown",
-      "textFile": "1995-11-27 - Hamburg, Germany - Grosse Freiheit (unk) [AUD].txt"
+      "textFile": "1995-11-27 - Hamburg, Germany - Grosse Freigheit (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -196,7 +196,7 @@ const ARTIST_DATA = {
       "version": "Silver CD",
       "format": "FLAC",
       "notes": "",
-      "textFile": "1995-12-06 - New Britain, CT - The Sting - WMRQs Jingle Bell Jam - In the Can [Silver].txt"
+      "textFile": "1995-12-06 - New Britain, CT - The Sting - WMRQ Holiday Show [FM].txt"
     },
     {
       "year": 1995,
@@ -308,7 +308,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "DVD",
       "notes": "Unknown",
-      "textFile": "1996-02-27 - Houston, TX - Numbers (unk) [DVD].txt"
+      "textFile": "1996-02-27 - Houston, TX - Numbers (unk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -4487,7 +4487,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "Ca-14s \u00b7 Doublec",
-      "textFile": "2012-07-11 - Vigevano, Italy - Castello Sforzesco (CA-14s) (doublec) [AUD].txt"
+      "textFile": "2012-07-11 - Vigevano, Italy - Castello Sforzesco (CA-14s) (doublec) [AUD24].txt"
     },
     {
       "year": 2012,
@@ -4571,7 +4571,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Schoeps CCM4s \u00b7 Not Me",
-      "textFile": "2012-10-01 - San Francisco, CA - The Warfield (Neumann KM140s) (wilson66) [AUD24].txt"
+      "textFile": "2012-10-01 - San Francisco, CA - The Warfield - DAT(M) (Schoeps CCM4s) (not me) [AUD].txt"
     },
     {
       "year": 2012,
@@ -4585,7 +4585,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "Neumann Km140s \u00b7 Wilson66",
-      "textFile": "2012-10-01 - San Francisco, CA - The Warfield - DAT(M) (Schoeps CCM4s) (not me) [AUD].txt"
+      "textFile": "2012-10-01 - San Francisco, CA - The Warfield (Neumann KM140s) (wilson66) [AUD24].txt"
     },
     {
       "year": 2012,
@@ -4781,7 +4781,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "MK4 \u00b7 Pjp",
-      "textFile": "2013-04-05 - Minneapolis, MN - Mill City Nights (Schoeps MK4 + SBD) (pjp) [MIX24].txt"
+      "textFile": "2013-04-05 - Minneapolis, MN - Mill City Nights - AUD(M) (MK4) (pjp) [AUD24].txt"
     },
     {
       "year": 2013,
@@ -4795,7 +4795,7 @@ const ARTIST_DATA = {
       "version": "MIX",
       "format": "FLAC 24",
       "notes": "Schoeps MK4 + SBD \u00b7 Pjp",
-      "textFile": "2013-04-05 - Minneapolis, MN - Mill City Nights - AUD(M) (MK4) (pjp) [AUD24].txt"
+      "textFile": "2013-04-05 - Minneapolis, MN - Mill City Nights (Schoeps MK4 + SBD) (pjp) [MIX24].txt"
     },
     {
       "year": 2015,
@@ -5509,7 +5509,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "SP-CMC-8 \u00b7 Unknown \u00b7 Inc",
-      "textFile": "2018-10-06 - San Bernardino, CA - Glen Helen Amphitheater - Cal Jam Festival (SP-CMC-8) (unk) [AUD].txt"
+      "textFile": "2018-10-06 - San Bernardino, CA - Cal Jam Festival (SP-CMC-8) (unk) [AUD24].txt"
     },
     {
       "year": 2018,
@@ -6180,7 +6180,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "DPA4061s \u00b7 Wilson66 + Billy Sunday",
-      "textFile": "2025-10-24 - San Francisco, CA - The Warfield (SP-CMC-4U) (vibrioidxire) [AUD24].txt"
+      "textFile": "2025-10-24 - San Francisco, Warfield (DPA4061s) (wilson66 + billy sunday) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -6194,7 +6194,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "SP-CMC-4U \u00b7 Vibrioidxire",
-      "textFile": "2025-10-24 - San Francisco, Warfield (DPA4061s) (wilson66 + billy sunday) [AUD24].txt"
+      "textFile": "2025-10-24 - San Francisco, CA - The Warfield (SP-CMC-4U) (vibrioidxire) [AUD24].txt"
     },
     {
       "year": 2025,

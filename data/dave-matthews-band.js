@@ -474,7 +474,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "SHN",
-      "textFile": "1992-09-15 - Charlottesville, VA - Trax [SBD].flac.txt"
+      "textFile": "1992-09-15 - Charlottesville, VA - Trax [SBD].txt"
     },
     {
       "year": 1992,

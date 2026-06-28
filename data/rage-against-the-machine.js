@@ -159,8 +159,7 @@ const ARTIST_DATA = {
       "venue": "Wetlands *Save the Planet",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1993-01-20 - New York, NY - Wetlands (Save The Planet) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -897,7 +896,7 @@ const ARTIST_DATA = {
       "notes": "Glastonbury \u00b7 FMCD 006",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "1994-06-24 - Pilton, England - Worthy Farm (Glastonbury Festival) [FM].txt"
+      "textFile": "1994-06-24 - Pilton, England - Worthy Farm (Glastonbury Festival) [Silver].txt"
     },
     {
       "year": 1994,
@@ -911,7 +910,7 @@ const ARTIST_DATA = {
       "notes": "Glastonbury \u00b7 BBC Radio 1",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1994-06-24 - Pilton, England - Worthy Farm (Glastonbury Festival) [Silver].txt"
+      "textFile": "1994-06-24 - Pilton, England - Worthy Farm (Glastonbury Festival) [FM].txt"
     },
     {
       "year": 1994,
@@ -1260,7 +1259,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 SS \u00b7 jlizard",
       "version": "AUD (48k)",
       "format": "FLAC",
-      "textFile": "1996-08-13 - Philadelphia, PA - Electric Factory - DAT(M) (SS) 48k (jlizard) [AUD].txt"
+      "textFile": "1996-08-13 - Philadelphia, PA - Electric Factory [AUD].txt"
     },
     {
       "year": 1996,
@@ -1274,7 +1273,7 @@ const ARTIST_DATA = {
       "notes": "8MM(M) \u00b7 king_ganesha",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-08-13 - Philadelphia, PA - Electric Factory [AUD].txt"
+      "textFile": "1996-08-13 - Philadelphia, PA - Electric Factory - DAT(M) (SS) 48k (jlizard) [AUD].txt"
     },
     {
       "year": 1996,
@@ -1735,7 +1734,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1997-07-26 - Nigata, Japan - Naeba Ski Resort - Fuji Rock Festival  (Pro-shot) [DVD].txt"
+      "textFile": "1997-07-26 - Yamanashi, Japan - Fuji Rock Festival [TV].txt"
     },
     {
       "year": 1997,
@@ -1749,7 +1748,7 @@ const ARTIST_DATA = {
       "notes": "Fuji",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "1997-07-26 - Yamanashi, Japan - Fuji Rock Festival [TV].txt"
+      "textFile": "1997-07-26 - Nigata, Japan - Naeba Ski Resort - Fuji Rock Festival  (Pro-shot) [DVD].txt"
     },
     {
       "year": 1997,
@@ -2546,7 +2545,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2007-04-29 - Indio, CA - Empire Polo Grounds (Coachella Festival) (1).txt"
+      "textFile": "2007-04-29 - Indio, CA - Empire Polo Grounds (Coachella Festival) (2).txt"
     },
     {
       "year": 2007,
@@ -2560,7 +2559,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2007-04-29 - Indio, CA - Empire Polo Grounds (Coachella Festival) (1).txt"
+      "textFile": "2007-04-29 - Indio, CA - Empire Polo Grounds (Coachella Festival) (3).txt"
     },
     {
       "year": 2007,
@@ -2574,7 +2573,7 @@ const ARTIST_DATA = {
       "notes": "Coachella \u00b7 CSB \u00b7 zepdog5",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2007-04-29 - Indio, CA - Empire Polo Grounds (Coachella Festival) (2).txt"
+      "textFile": "2007-04-29 - Indio, CA - Empire Polo Grounds (Coachella Festival) (4).txt"
     },
     {
       "year": 2007,
@@ -3062,8 +3061,7 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley Music Theatre",
       "notes": "DPA 4080 \u00b7 tb",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2022-07-09 - East Troy, WI - Alpine Valley Music Theatre (AT831s) (tapeworm48) [AUD24].txt"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -3076,7 +3074,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley Music Theatre",
       "notes": "AT831s \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-07-09 - East Troy, WI - Alpine Valley Music Theatre (AT831s) (tapeworm48) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -3090,7 +3089,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4s \u00b7 tj",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-07-11 - Chicago, IL - United Center (AT831s) (tapeworm48) [AUD24].txt"
+      "textFile": "2022-07-11 - Chicago, IL - United Center (Schoeps MK4s) (tj) [AUD].txt"
     },
     {
       "year": 2022,
@@ -3118,7 +3117,7 @@ const ARTIST_DATA = {
       "notes": "iPhone 11 \u00b7 sam",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-07-11 - Chicago, IL - United Center (Schoeps MK4s) (tj) [AUD].txt"
+      "textFile": "2022-07-11 - Chicago, IL - United Center (iPhone 11) (sam) [AUD].txt"
     },
     {
       "year": 2022,
@@ -3132,7 +3131,7 @@ const ARTIST_DATA = {
       "notes": "AT831s \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-07-11 - Chicago, IL - United Center (iPhone 11) (sam) [AUD].txt"
+      "textFile": "2022-07-11 - Chicago, IL - United Center (AT831s) (tapeworm48) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -3174,7 +3173,7 @@ const ARTIST_DATA = {
       "notes": "Zoom H1N \u00b7 blackpoodle",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-07-21 - Toronto, ON - Scotiabank Arena (Zoom H1N) (unk) [AUD].txt"
+      "textFile": "2022-07-21 - Toronto, ON - Scotiabank Arena (Zoom H1N) (blackpoodle) [AUD].txt"
     },
     {
       "year": 2022,
@@ -3188,7 +3187,7 @@ const ARTIST_DATA = {
       "notes": "Zoom H1N \u00b7 blackpoodle",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-07-23 - Toronto, ON - Scotiabank Arena (Zoom H1N) (unk) [AUD].txt"
+      "textFile": "2022-07-23 - Toronto, ON - Scotiabank Arena (Zoom H1N) (blackpoodle) [AUD].txt"
     },
     {
       "year": 2022,
@@ -3244,7 +3243,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4s \u00b7 tj",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-07-31 - Raleigh, NC - PNC Arena (Schoeps MK4s + Babynbox + Maratz PMD-620) (ryanj + anonymous) [MIX24].txt"
+      "textFile": "2022-07-31 - Raleigh, NC - PNC Arena (Schoeps MK4s) (tj) [AUD].txt"
     },
     {
       "year": 2022,
@@ -3258,7 +3257,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4s + Babynbox + Maratz PMD-620 \u00b7 ryanj + anonymous",
       "version": "MIX",
       "format": "FLAC 24",
-      "textFile": "2022-07-31 - Raleigh, NC - PNC Arena (Schoeps MK4s) (tj) [AUD].txt"
+      "textFile": "2022-07-31 - Raleigh, NC - PNC Arena (Schoeps MK4s + Babynbox + Maratz PMD-620) (ryanj + anonymous) [MIX24].txt"
     },
     {
       "year": 2022,
@@ -3356,7 +3355,7 @@ const ARTIST_DATA = {
       "notes": "MK4s \u00b7 tj",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-08-14 - New York, NY - Madison Square Garden (MK41s) (jb) [AUD24].txt"
+      "textFile": "2022-08-14 - New York, NY - Madison Square Garden (MK4s) (tj) [AUD].txt"
     },
     {
       "year": 2022,
@@ -3370,7 +3369,7 @@ const ARTIST_DATA = {
       "notes": "MK41s \u00b7 jb",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-08-14 - New York, NY - Madison Square Garden (MK4s) (tj) [AUD].txt"
+      "textFile": "2022-08-14 - New York, NY - Madison Square Garden (MK41s) (jb) [AUD24].txt"
     }
   ],
   "misc": [

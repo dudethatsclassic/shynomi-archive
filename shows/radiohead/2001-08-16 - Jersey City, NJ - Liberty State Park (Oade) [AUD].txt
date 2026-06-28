@@ -1,24 +1,46 @@
-rh2001-08-16d1t02.flac:8dec54d293ea8abe49a4b71747fca315
-rh2001-08-16d1t03.flac:fad2e1d86c43447ef588a6a720319f60
-rh2001-08-16d1t04.flac:9f592f6539313abea12184f0343d68e1
-rh2001-08-16d1t05.flac:a5fdb34e004ba03d0e8dc7ede215b8e8
-rh2001-08-16d1t06.flac:510902cbdc59d1b1b1b70f5bdb0c19a1
-rh2001-08-16d1t07.flac:754e5a7298466bd8bab8df904e954406
-rh2001-08-16d1t08.flac:582ab36808b312fc810b3df03bf3b287
-rh2001-08-16d1t09.flac:6de1f8a089e5f8f2b19a90d4067092a5
-rh2001-08-16d1t10.flac:c97b5a5113230509b9c118726da8a4d5
-rh2001-08-16d1t11.flac:fab631584d69a81170b69071f4a51952
-rh2001-08-16d1t12.flac:8c65a378a08c3a745fa18f061e98c17c
-rh2001-08-16d1t13.flac:56327b7f389496bf2e123056447454e3
-rh2001-08-16d1t14.flac:0e15cbf034f5e44c93147e693df2d473
-rh2001-08-16d1t15.flac:f1a822c872cc182a534eb0355143af95
-rh2001-08-16d2t01.flac:fb37b4c84b8fe53e624df2f297e55225
-rh2001-08-16d2t02.flac:a364b44a99543e1ff5a35c0cff615e7e
-rh2001-08-16d2t03.flac:069c59cea404267929c058f61e980d34
-rh2001-08-16d2t04.flac:a4d7522f52781f7fdcb3ec7bb6ca7156
-rh2001-08-16d2t05.flac:dca970ad884c83b1472a3b0384b4b222
-rh2001-08-16d2t06.flac:2281fac402b7a404b4dae794f6fbf4f7
-rh2001-08-16d2t07.flac:6a7fa1e3f98ff956ec0159b08b3ce76d
-rh2001-08-16d2t08.flac:f7e9c6b62b3b271f0d544d5417cdeb1a
-rh2001-08-16d2t09.flac:79354bdf587b769a47fda4c176401d10
-rh2001-08-16d1t01.flac:0ec3460fc82b473982abdd33f601b48c
+Radiohead
+August 16, 2001
+Liberty State Park
+Jersey City, NJ
+
+
+Source: oade mics -> Sony TCD-D8 -> DAT-M -> CDR(2) -> EAC -> FLAC
+	[The Tourist is from DPA4061->M1]
+
+
+Disc I
+01 The National Anthem
+02 Morning Bell
+03 Airbag
+04 Karma Police
+05 Knives Out
+06 Packt Like Sardines In a Crushd Tin Box
+07 Exit Music
+08 My Iron Lung
+09 No Surprises
+10 Dollars and Cents
+11 Street Spirit
+12 I Might Be Wrong
+13 Pyramid Song
+14 Paranoid Android
+15 Idioteque
+
+Disc II
+01 Everything In Its Right Place
+02 Like Spinning Plates
+03 Lucky (false start)
+04 Lucky
+05 You and Whose Army?
+06 How to Disappear Completely
+07 True Love Waits
+08 The Bends
+09 The Tourist
+
+
+Notes: I've had this source on CDR for several years and it was either missing The Tourist, or it had issues with wind noise and/or flaws.  
+
+
+
+.txt compiled on 11/03/07 by BLG
+
+

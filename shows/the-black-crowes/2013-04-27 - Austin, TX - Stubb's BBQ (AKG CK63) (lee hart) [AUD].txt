@@ -1,19 +1,38 @@
-BlackCrowes2013-04-27t01.flac:ba63fe78a6dbf15be5863c687fd78eb9
-BlackCrowes2013-04-27t02.flac:62d0f8cf6139facbc810293aab4403e1
-BlackCrowes2013-04-27t03.flac:d5381b3d48ebcbf4cc0cf57030add990
-BlackCrowes2013-04-27t04.flac:077a6f5154617215eaf0d28e144b2ceb
-BlackCrowes2013-04-27t05.flac:23d8a32bf7681284520c6dd8fe49cf72
-BlackCrowes2013-04-27t06.flac:e2915e36bce21adf132bb6ff0cfd56f8
-BlackCrowes2013-04-27t07.flac:6268a51ae4513be2494033323cfc2cfc
-BlackCrowes2013-04-27t08.flac:78a3a05c0864b40d602f8aea811b2a6e
-BlackCrowes2013-04-27t09.flac:b247b03db28d9acd8d64416cc7ffd85d
-BlackCrowes2013-04-27t10.flac:4a356cdaa55bf9b9adabbc0198a71f98
-BlackCrowes2013-04-27t11.flac:582207d1cf01b40e2834a49d5df7c1c7
-BlackCrowes2013-04-27t12.flac:4b97945e361277157a86b2cb11926ad7
-BlackCrowes2013-04-27t13.flac:9cb9f2cc6c42088392dbf3d5e80e5cc6
-BlackCrowes2013-04-27t14.flac:458e7b73ead0be539e41d31ed0865a5e
-BlackCrowes2013-04-27t15.flac:fd2043fc3379f38d4da7a1bc6580a59d
-BlackCrowes2013-04-27t16.flac:5b49b8550d25d13d6a17f5934ee25bdd
-BlackCrowes2013-04-27t17.flac:9c4be3696be7044768bd2dce5c99187d
-BlackCrowes2013-04-27t18.flac:a62530ba8eca6310128fee2621a1ba59
-BlackCrowes2013-04-27t19.flac:ba2087487c9fd7b11ab563f88270706f
+The Black Crowes
+2013-04-27
+Stubb's BBQ
+Austin, TX
+
+Taped and transferred by Lee Hart
+leehookem at texastapers dot org
+
+Source: AKG ck63 > NBob Actives > Naiant PFA > Oade ACM Mod Marantz PMD-671
+Location: DFC, DINa @ 10'
+Transfer:  PMD-671 > Soundforge 10.0 (fades, MBIT+ Dither, iZotope 64-Bit SRC resample) > 
+           CDWave > Flac level 8 > Live Show Tagger
+
+One Set: 
+
+01 intro 
+02 My Morning Side >
+03 Stare It Cold >
+04 My Morning Side
+05 Feelin' Alright
+06 Seeing Things
+07 Space Captain
+08 High Head Blues
+09 By Your Side
+10 Wiser Time
+11 She Talks To Angels
+12 Shine Along
+13 Thorn In My Pride
+14 Soul Singing
+15 Remedy
+16 Hard to Handle > Hush > Hard to Handle
+17 encore
+18 Descending
+19 Jumping Jack Flash
+
+Notes:  Started to rain during Wiser Time and didn't let up until the show was over.  
+You can hear it in some of the softer passages. 
+ 

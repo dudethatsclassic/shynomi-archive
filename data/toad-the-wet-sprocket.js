@@ -1451,7 +1451,7 @@ const ARTIST_DATA = {
       "notes": "Columbia",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1995-05-04 - New York, NY - Sony Studios - Columbia Records Radio Hour [FM].flac.txt"
+      "textFile": "1995-05-04 - New York, NY - Sony Studios - Columbia Records Radio Hour [FM2].txt"
     },
     {
       "year": 1995,
@@ -2330,7 +2330,7 @@ const ARTIST_DATA = {
       "notes": "AKG 391 \u00b7 dolphinsmile",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-08-24 - West Palm Beach, FL - Coral Sky Amphitheatre (AKG391) (dolphinsmile) [AUD24].txt"
+      "textFile": "1997-08-24 - West Palm Beach, FL - Coral Sky Amphitheater (AKG 391) (dolphinsmile) [AUD].txt"
     },
     {
       "year": 1997,

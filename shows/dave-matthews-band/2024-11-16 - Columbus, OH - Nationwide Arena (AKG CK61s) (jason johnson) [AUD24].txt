@@ -1,23 +1,44 @@
-dmb2024-11-16.ck61.mp6ii.t01.flac:9a88206d6f8ece80b7035d187ce825bf
-dmb2024-11-16.ck61.mp6ii.t02.flac:abb707a4fae3c78d8140ca58739dc8ab
-dmb2024-11-16.ck61.mp6ii.t03.flac:5b70956c07b80428a728129659012dfd
-dmb2024-11-16.ck61.mp6ii.t04.flac:fc26d19d046450c33fabaa47c217ca10
-dmb2024-11-16.ck61.mp6ii.t05.flac:e663833e3033d2a25c9eed62e56b48ff
-dmb2024-11-16.ck61.mp6ii.t06.flac:11ade24224af355b11b0508ff21c7718
-dmb2024-11-16.ck61.mp6ii.t07.flac:cd41b64a60b3c576df83cde5c097f071
-dmb2024-11-16.ck61.mp6ii.t08.flac:900404201181a6ae8f203145c9c1aef3
-dmb2024-11-16.ck61.mp6ii.t09.flac:000db8c2fd6f80943fb33b621ba10b37
-dmb2024-11-16.ck61.mp6ii.t10.flac:7e7ba3d29a0cc9cf77e4b34bbe971cc0
-dmb2024-11-16.ck61.mp6ii.t11.flac:90958be7d2705a7ae9ad453e653ef05f
-dmb2024-11-16.ck61.mp6ii.t12.flac:2688cb2178971acf74b60830bdf814fb
-dmb2024-11-16.ck61.mp6ii.t13.flac:88fb4c384ed194885905618b6a229581
-dmb2024-11-16.ck61.mp6ii.t14.flac:b6d7d8895ce23da6200af9fb597c962b
-dmb2024-11-16.ck61.mp6ii.t15.flac:07ddbf5888344e9552c755046b2e20ea
-dmb2024-11-16.ck61.mp6ii.t16.flac:e48899e93ce74d9604c470982b46cefd
-dmb2024-11-16.ck61.mp6ii.t17.flac:a2e063d7e6ee4c51a22bea39baf658c4
-dmb2024-11-16.ck61.mp6ii.t18.flac:ebd24746f78d8fe086e58b6b22ac62d0
-dmb2024-11-16.ck61.mp6ii.t19.flac:e4bfc8d4aea596b9bdee46d609e444a3
-dmb2024-11-16.ck61.mp6ii.t20.flac:536f1c673601fed04bfb35240d657dec
-dmb2024-11-16.ck61.mp6ii.t21.flac:4e9a1987552f68b4b6701c6881308723
-dmb2024-11-16.ck61.mp6ii.t22.flac:645ac41dd5d1c7107c1d4792787a981b
-dmb2024-11-16.ck61.mp6ii.t23.flac:1d2f0cd7a2cea320a33521fbb5868018
+Dave Matthews Band
+Nationwide Arena
+Columbus, OH
+November 16, 2024
+
+Taper: Jason Johnson (taperjason@gmail.com)
+Location: Pit Stage Right, DIN @ 15'
+Source: akg ck61s > nbob actives > SD MixPre-6ii (32/48)
+Conversion: MixPre-6ii > Adobe Audition (hi-pass filter, stereo expander, dither) > Trader's Little Helper > Foobar2000
+
+01: Intro > Carter Solo >
+02: Ants Marching
+03: The Maker
+04: Idea of You
+05: Walk Around the Moon
+06: Funny the Way It Is
+07: Looking for a Vein
+08: Busted Stuff
+09: Fool in the Rain
+10: Grace Is Gone
+11: So Damn Lucky
+12: Stolen Away on 55th & 3rd
+13: Stay or Leave
+14: Typical Situation
+15: Intro to...>
+16: Don't Drink the Water
+17: I'll Back You Up
+18: Old Dirt Hill (Bring That Beat Back)
+19: Jimi Thing > Brick House
+20: Encore Break
+21: Oh*
+22: Intro to...>
+23: All Along the Watchtower
+
+Notes:
+* Dave solo
+
+Thanks to Kelley and Greg for all the help.
+Thanks to Aaron for the venue assist.
+
+16/44.1 version also exists.
+
+Compiled by Jason Johnson on November 17, 2024.
+www.greppson.net

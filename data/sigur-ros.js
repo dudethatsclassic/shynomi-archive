@@ -311,7 +311,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "2 sources",
-      "textFile": "2001-04-05 - Montpellier, France - Salla la Victoire II [SBD].txt"
+      "textFile": "2001-04-05 - Montpellier, France - Salla la Victoire II [SBD Remaster].txt"
     },
     {
       "year": 2001,
@@ -409,7 +409,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2001-04-23 - Leeds, UK - City Varieties [AUD].txt"
+      "textFile": "2001-04-23 - Leeds, UK - City Varieties (Remaster v.2) [AUD].txt"
     },
     {
       "year": 2001,
@@ -605,7 +605,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2001-10-04 - San Francisco, CA - The Warfield (Schoeps) [AUD].txt"
+      "textFile": "2001-10-04 - San Francisco, CA - The Warfield (DPA4061) [AUD].txt"
     },
     {
       "year": 2001,
@@ -812,7 +812,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "SBD",
-      "textFile": "2002-10-16 - Vienna, Austria - Spark 7 Hall [FM].txt"
+      "textFile": "2002-10-16 - Spark7 Hall, Vienna, Austria (SBD).txt"
     },
     {
       "year": 2002,
@@ -1006,7 +1006,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "SBD",
-      "textFile": "2002-11-14 - St. Louis, MO - The Pageant [SBD].txt"
+      "textFile": "2002-11-14 - St. Louis, MO - The Pageant [AUD].txt"
     },
     {
       "year": 2002,
@@ -1159,7 +1159,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2003-02-24 - Lyon, France - Auditorium [AUD].txt"
+      "textFile": "2003-02-24 - Lyon, France - Auditorium Maurice-Ravel (DAT PCM-1) [AUD].txt"
     },
     {
       "year": 2003,
@@ -1201,7 +1201,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2003-03-21 - New York, NY - Radio City Music Hall [AUD].txt"
+      "textFile": "2003-03-21 - New York City, NY - Radio City Music Hall (CSB) [AUD].txt"
     },
     {
       "year": 2003,
@@ -1270,7 +1270,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2003-04-14 - Tokyo, Japan - International Forum Hall (PRO TV Special) (t.h.) [DVD].txt"
+      "textFile": "2003-04-14 - Tokyo, Japan - International Forum Hall [AUD].txt"
     },
     {
       "year": 2003,
@@ -1284,7 +1284,7 @@ const ARTIST_DATA = {
       "notes": "PRO TV Special \u00b7 t.h.",
       "version": "PRO",
       "format": "",
-      "textFile": "2003-04-14 - Tokyo, Japan - International Forum Hall [AUD].txt"
+      "textFile": "2003-04-14 - Tokyo, Japan - International Forum Hall (PRO TV Special) (t.h.) [DVD].txt"
     },
     {
       "year": 2003,
@@ -1423,7 +1423,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2005-07-16 - Copenhagen, Denmark - Vega [AUD].txt"
+      "textFile": "2005-07-16 - Copenhagen, Denmark - Vega [AUD].rtf"
     },
     {
       "year": 2005,
@@ -1493,7 +1493,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2005-08-04 - Sydney, Australia - Enmore Theatre [AUD].txt"
+      "textFile": "2005-08-04 - Sydney, Australia - Enmore Theatre [AUD].rtf"
     },
     {
       "year": 2005,
@@ -1605,7 +1605,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2005-09-18 - Ottawa, Ontario - Bronson Centre [AUD].txt"
+      "textFile": "2005-09-18 - Ottawa, Ontario - Bronson Centre (CSB) [AUD].txt"
     },
     {
       "year": 2005,
@@ -1647,7 +1647,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2005-09-21 - Chicago, IL - Chicago Theatre [AUD].txt"
+      "textFile": "2005-09-21 - Chicago, IL - Chicago Theatre (DPA 4061) [AUD].txt"
     },
     {
       "year": 2005,
@@ -1661,7 +1661,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2005-09-23 - Madison, WI - Orpheum Theatre [AUD].txt"
+      "textFile": "2005-09-23 - Madison, WI - Orpheum Theatre [AUD].rtf"
     },
     {
       "year": 2005,
@@ -1731,7 +1731,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2005-11-01 - Stockholm, Sweden - Cirkus [AUD].txt"
+      "textFile": "2005-11-01 - Stockholm, Sweden - Cirkus [AUD].rtf"
     },
     {
       "year": 2005,
@@ -1773,7 +1773,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2005-11-16 - Paris, France - Elysee Montmartre [AUD].txt"
+      "textFile": "2005-11-16 - Paris, France - Elysee Montmartre [AUD].rtf"
     },
     {
       "year": 2005,
@@ -1927,7 +1927,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2006-04-12 - Sydney, Australia - Enmore Theatre [AUD].txt"
+      "textFile": "2006-04-12 - Sydney, Australia - Enmore Theatre (Sony D8) [AUD].txt"
     },
     {
       "year": 2006,
@@ -2010,7 +2010,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2006-06-25 - Essen, Germany - Lichtburg [AUD].txt"
+      "textFile": "2006-06-25 - Essen, Germany - Lichtburg Essen (MD) [AUD].txt"
     },
     {
       "year": 2006,
@@ -2108,7 +2108,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2006-07-16 - Lisbon, Portugal - Pavilhao Atlantico (Remaster) [AUD].txt"
+      "textFile": "2006-07-16 - Lisbon, Portugal - Pavilhao Atlantic (AT943) [AUD].txt"
     },
     {
       "year": 2006,
@@ -2177,7 +2177,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2007-10-06 - New York, NY - Florence Gould Hall - Midnight Show [AUD].txt"
+      "textFile": "2007-10-06 - New York City, NY - Florence Gould Hall at FIAF (DPA 4021) [AUD].txt"
     },
     {
       "year": 2007,
@@ -2274,7 +2274,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "2 sources",
-      "textFile": "2008-06-20 - Neuhausen ob Eck, Germany - Southside Festival [FM].txt"
+      "textFile": "2008-06-20 - Neuhausen ob Eck, Germany - Flugplatz - Southside Festival (SBE Fixed) [FM].txt"
     },
     {
       "year": 2008,
@@ -2316,7 +2316,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2008-07-05 - Werchter, Belgium - Rock Werchter (SP-CMC-8) [AUD].txt"
+      "textFile": "2008-07-05 - Werchter, Belgium - Rock Werchter (AT943-r09) [AUD].txt"
     },
     {
       "year": 2008,
@@ -2749,7 +2749,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Matrix",
       "format": "2 sources",
-      "textFile": "2008-11-23 - Reykjavik, Iceland - Laugardalsholl [MTX].txt"
+      "textFile": "2008-11-23 - Reykjavik, Iceland - Laugardalsholl [FM].txt"
     },
     {
       "year": 2012,
@@ -2777,7 +2777,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2012-07-30 - Philadelphia, PA - Mann Music Center (CA-14) [AUD24].txt"
+      "textFile": "2012-07-30 - Philadelphia, PA - Mann Music Center (AT831) [AUD].txt"
     },
     {
       "year": 2012,
@@ -2860,7 +2860,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2012-08-28 - Amsterdam, The Netherlands - Paradiso (Schoeps CCM 41V) [AUD].txt"
+      "textFile": "2012-08-28 - Amsterdam, The Netherlands - Paradiso (AT943) [AUD24].txt"
     },
     {
       "year": 2012,
@@ -2874,7 +2874,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2012-08-29 - Amsterdam, The Netherlands - Paradiso (Schoeps CCM 41V) [AUD].txt"
+      "textFile": "2012-08-29 - Amsterdam, The Netherlands - Paradiso (AT943) [AUD].txt"
     },
     {
       "year": 2012,
@@ -2888,7 +2888,7 @@ const ARTIST_DATA = {
       "notes": "A",
       "version": "FM",
       "format": "2 sources",
-      "textFile": "2012-09-02 - Villafranca di Verona, Italy - Castell Scaligero - A Perfect Day Festival [FM].txt"
+      "textFile": "2012-09-02 - Villafranca di Verona, Italy - Castell Scaligero - A Perfect Day Festival [FM Edited].txt"
     },
     {
       "year": 2012,
@@ -2944,7 +2944,7 @@ const ARTIST_DATA = {
       "notes": "Sacrum",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2012-09-17 - Krakow, Poland - Hala Ocynowni ArcelorMittal - Sacrum Profanum Festival [AUD].txt"
+      "textFile": "2012-09-17 - Krakow, Poland - Hala Ocynowni ArcelorMittal - Sacrum Profanum Festival [AUD2].txt"
     },
     {
       "year": 2012,
@@ -3014,7 +3014,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2013-02-21 - Amsterdam, The Netherlands - Heineken Music Hall (Schoeps CCM 41V) [AUD].txt"
+      "textFile": "2013-02-21 - Amsterdam, The Netherlands - Heineken Music Hall (CA-14) [AUD].txt"
     },
     {
       "year": 2013,
@@ -3070,7 +3070,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2013-02-26 - Brussels, Belgium - Vorst National [AUD].txt"
+      "textFile": "2013-02-26 - Brussels, Belgium - Vorst Nationaal (Schoeps CCM 41V) [AUD].txt"
     },
     {
       "year": 2013,
@@ -3084,7 +3084,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2013-02-28 - Lille, France - Zenith Arena [AUD].txt"
+      "textFile": "2013-02-28 - Lille, France - Zenith Arena [AUD2].txt"
     },
     {
       "year": 2013,
@@ -3154,7 +3154,7 @@ const ARTIST_DATA = {
       "notes": "Patriot",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2013-03-24 - Fairfax, VA - George Mason University - Patriot Center (CA-14) [AUD2].txt"
+      "textFile": "2013-03-24 - Fairfax, VA - George Mason University - Patriot Center (CA-14) [AUD1].txt"
     },
     {
       "year": 2013,
@@ -3321,7 +3321,7 @@ const ARTIST_DATA = {
       "notes": "Junge",
       "version": "WEB",
       "format": "",
-      "textFile": "2013-06-19 - Dresden, Germany - Junge Garde [WEB].txt"
+      "textFile": "2013-06-19 - Dresden, Germany - Freilichtbu\u0308hne Gro\u00dfer Garten - Junge Garde [WEB].txt"
     },
     {
       "year": 2013,
@@ -3363,7 +3363,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "2 sources",
-      "textFile": "2013-07-06 - Roskilde, Denmark - Roskilde Festival - Festivalpladsen [WEB].txt"
+      "textFile": "2013-07-06 - Roskilde, Denmark - Festivalpladsen [FM].txt"
     },
     {
       "year": 2013,
@@ -3391,7 +3391,7 @@ const ARTIST_DATA = {
       "notes": "Summer",
       "version": "Matrix",
       "format": "FM",
-      "textFile": "2013-07-27 - Tuscany, Italy - Lucca - Summer Festival [MTX].txt"
+      "textFile": "2013-07-27 - Tuscany, Italy - Lucca - Summer Festival [AUD].txt"
     },
     {
       "year": 2013,
@@ -3489,7 +3489,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2013-09-30 - Chicago, IL - Auditorium Theatre [AUD].txt"
+      "textFile": "2013-09-30 - Chicago, IL - Auditorium Theatre (JBs) [AUD24].txt"
     },
     {
       "year": 2013,
@@ -3531,7 +3531,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2013-11-25 - Du\u0308sseldorf, Germany - Mitsubishi Electric Halle (AT943) [AUD].txt"
+      "textFile": "2013-11-25 - Dusseldorf, Germany - Mitsubishi Electric Hall [AUD].txt"
     },
     {
       "year": 2013,
@@ -3587,7 +3587,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2016-07-17 - London, UK - Citadel Festival (DPA 4060) [AUD].txt"
+      "textFile": "2016-07-17 - London, UK - Citadel Festival (AT831) [AUD].txt"
     },
     {
       "year": 2016,
@@ -3754,7 +3754,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2017-10-02 - Sigur Ros - Afas Live - Amsterdam - at943 - R09 - 2448 - bnz.txt"
+      "textFile": "2017-10-02 - Amsterdam, Holland - Afas Live Hall (AT943) [AUD].txt"
     },
     {
       "year": 2017,
@@ -3796,7 +3796,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2017-10-09 - Berlin, Germany - Tempodrom [AUD].txt"
+      "textFile": "2017-10-09 - Berlin, Germany - Tempodrom (OKMII) [AUD].txt"
     },
     {
       "year": 2017,
@@ -3824,7 +3824,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2017-10-14 - Frankfurt, Germany - Jahrhunderthalle (Schoeps MK6) [AUD].txt"
+      "textFile": "2017-10-14 - Frankfurt, Germany - Jahrhunderthalle (DPA 4018) [AUD].txt"
     },
     {
       "year": 2017,
@@ -4229,7 +4229,7 @@ const ARTIST_DATA = {
       "notes": "Zoom H1n \u00b7 claire laura fredriksson",
       "version": "AUD",
       "format": "",
-      "textFile": "2025-05-19 - Melbourne, AUS - Hamer Theatre (SP-CMC-4U) (pyometronguts) [AUD24].txt"
+      "textFile": "2025-05-19 - Melbourne, Australia - Hamer Hall (Zoom H1n) (claire laura fredriksson) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -4243,7 +4243,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4U \u00b7 pyometronguts",
       "version": "AUD",
       "format": "",
-      "textFile": "2025-05-19 - Melbourne, Australia - Hamer Hall (Zoom H1n) (claire laura fredriksson) [AUD24].txt"
+      "textFile": "2025-05-19 - Melbourne, AUS - Hamer Theatre (SP-CMC-4U) (pyometronguts) [AUD24].txt"
     },
     {
       "year": 2025,

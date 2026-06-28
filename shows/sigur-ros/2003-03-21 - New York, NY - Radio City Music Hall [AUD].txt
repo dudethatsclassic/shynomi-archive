@@ -1,11 +1,12 @@
-sr03-03-21d1t1.flac:c65c3efaa1bfddde81f0aa0da7157172
-sr03-03-21d1t2.flac:888b80cf9fbe5dab3d22ff66bcfa5756
-sr03-03-21d1t3.flac:da896bb1469fc82c104b8d960b7053a7
-sr03-03-21d1t4.flac:0bccf95a542c5818f385ac192ede6b49
-sr03-03-21d1t5.flac:13c937a7460c3b5b292d98ed5286ffc7
-sr03-03-21d1t6.flac:f57e8205704a1f1eac294fe799bf6352
-sr03-03-21d2t1.flac:592414410a3938ec2ca7fd3685632e24
-sr03-03-21d2t2.flac:d0e51a94e4ef54f9c128e3f5931bed09
-sr03-03-21d2t3.flac:dd142e3034bd57a0059f9f27ff454b04
-sr03-03-21d2t4.flac:b1d9696fda793c658d4b2246dcae8dad
-sr03-03-21d2t5.flac:ef15e6a59a7d5f935cff138c21ab2961
+Sigur Ros
+3.21.03
+Radio City Music Hall
+
+3rd row, right of center
+ccm4's(ORTF, handheld)>V3>D10ProII
+
+I missed the first tune with the mics., 
+so I patched in an ALD source to make the show complete.
+
+Setlist on db.etree.org
+

@@ -608,8 +608,7 @@ const ARTIST_DATA = {
       "venue": "Tweeter Center for the Performing Arts",
       "notes": "",
       "version": "SBD",
-      "format": "SHN",
-      "textFile": "2003-07-27 - Camden, NJ - Tweeter Center (PRO) [DVD].txt"
+      "format": "SHN"
     },
     {
       "year": 2003,
@@ -622,7 +621,8 @@ const ARTIST_DATA = {
       "venue": "Tweeter Center for the Performing Arts",
       "notes": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2003-07-27 - Camden, NJ - Tweeter Center (PRO) [DVD].txt"
     },
     {
       "year": 2003,

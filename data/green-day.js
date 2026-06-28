@@ -131,8 +131,7 @@ const ARTIST_DATA = {
       "venue": "Pinole Valley High School",
       "notes": "",
       "version": "AUD",
-      "format": "MP3",
-      "textFile": "1990-05-10 - Pinole, CA - Pinole Valley High School - AMT#1.txt"
+      "format": "MP3"
     },
     {
       "year": 1990,
@@ -145,7 +144,8 @@ const ARTIST_DATA = {
       "venue": "Pinole Valley High School",
       "notes": "",
       "version": "AMT#1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1990-05-10 - Pinole, CA - Pinole Valley High School - AMT#1.txt"
     },
     {
       "year": 1990,
@@ -2192,7 +2192,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1)",
       "version": "PRO #1",
       "format": "DVD",
-      "textFile": "1994-11-18 - Chicago, IL - Aragon Ballroom (PRO #2a) [DVD].txt"
+      "textFile": "1994-11-18 - Chicago, IL - Aragon Ballroom - VHS(1) (PRO #1) [DVD].txt"
     },
     {
       "year": 1994,
@@ -2206,7 +2206,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO #2a",
       "format": "DVD",
-      "textFile": "1994-11-18 - Chicago, IL - Aragon Ballroom (PRO #3) [MP4].txt"
+      "textFile": "1994-11-18 - Chicago, IL - Aragon Ballroom (PRO #2a) [DVD].txt"
     },
     {
       "year": 1994,
@@ -2220,7 +2220,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO #3",
       "format": "MP4",
-      "textFile": "1994-11-18 - Chicago, IL - Aragon Ballroom - VHS(1) (PRO #1) [DVD].txt"
+      "textFile": "1994-11-18 - Chicago, IL - Aragon Ballroom (PRO #3) [MP4].txt"
     },
     {
       "year": 1994,
@@ -2274,8 +2274,7 @@ const ARTIST_DATA = {
       "venue": "Nassau Coliseum",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1994-12-02 - Uniondale, NY - Nassau Veterans Memorial Coliseum (AMT #1) [DVD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -2288,7 +2287,8 @@ const ARTIST_DATA = {
       "venue": "Nassau Coliseum",
       "notes": "",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1994-12-02 - Uniondale, NY - Nassau Veterans Memorial Coliseum (AMT #1) [DVD].txt"
     },
     {
       "year": 1994,
@@ -4537,7 +4537,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4U",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2021-09-03 - Los Angeles, CA - Dodger Stadium (MV88s) [AUD24].txt"
+      "textFile": "2021-09-03 - Los Angeles, CA - Dodger Stadium (SP-CMC-4U) [AUD].txt"
     },
     {
       "year": 2021,
@@ -4551,7 +4551,7 @@ const ARTIST_DATA = {
       "notes": "MV88s",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2021-09-03 - Los Angeles, CA - Dodger Stadium (SP-CMC-4U) [AUD].txt"
+      "textFile": "2021-09-03 - Los Angeles, CA - Dodger Stadium (MV88s) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -4802,8 +4802,7 @@ const ARTIST_DATA = {
       "venue": "SoFi Stadium",
       "notes": "unk",
       "version": "AUD #1",
-      "format": "FLAC",
-      "textFile": "2024-09-14 - Inglewood, CA - SoFi Stadium (DPA 4081) (faninor) [AUD24].txt"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -4816,7 +4815,8 @@ const ARTIST_DATA = {
       "venue": "SoFi Stadium",
       "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-09-14 - Inglewood, CA - SoFi Stadium (DPA 4081) (faninor) [AUD24].txt"
     },
     {
       "year": 2024,

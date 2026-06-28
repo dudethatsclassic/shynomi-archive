@@ -727,7 +727,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "SS mics \u00b7 rk",
-      "textFile": "1996-08-29 - New Haven, CT - Toad's Place - DAT(c) (SS mics) (rk) [AUD].txt"
+      "textFile": "1996-08-29 - New Haven, CT - Toad's Place (Sonic Studios) (rk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -741,7 +741,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "c \u00b7 Unknown",
-      "textFile": "1996-08-30 - Washington DC - 930 Club - DAT(c) (unk) [AUD].txt"
+      "textFile": "1996-08-30 - Washington DC - 930 Club (unk) [AUD].txt"
     },
     {
       "year": 1996,

@@ -375,7 +375,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Broadcast",
       "format": "MP2",
-      "textFile": "1996-01-04 - Byron Bay, Australia - Homebake Festival [TV].txt"
+      "textFile": "1996-01-04 - Byron Bay, Australia - Homebake Festival [TV2].txt"
     },
     {
       "year": 1996,

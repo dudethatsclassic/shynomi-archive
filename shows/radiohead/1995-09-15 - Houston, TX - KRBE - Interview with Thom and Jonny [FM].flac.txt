@@ -1,8 +1,18 @@
-rh1995-09-15-int-t01.flac:d397adf70540c57d2624a2ee50613a43
-rh1995-09-15-int-t02.flac:4dd98a54707f43f4ed348561f2c3edef
-rh1995-09-15-int-t03.flac:ca0adfbfce1f0fbea30f3c1c5ea74d41
-rh1995-09-15-int-t04.flac:005067227deef67c28547479ef4bec0b
-rh1995-09-15-int-t01.flac:d397adf70540c57d2624a2ee50613a43
-rh1995-09-15-int-t02.flac:4dd98a54707f43f4ed348561f2c3edef
-rh1995-09-15-int-t03.flac:ca0adfbfce1f0fbea30f3c1c5ea74d41
-rh1995-09-15-int-t04.flac:005067227deef67c28547479ef4bec0b
+Radiohead
+1995-09-15
+Houston
+KRBE
+
+Thom & Jonny talk to Ryan Chase
+
+FM>?>TDK D90 C90>Sansui D-99MW>GoldWave 5.10>FLAC frontend 1.7.1 Etree edition
+
+1 Interview: Cricket In The Afternoon
+2 Interview: Not Much Jazz
+3 Interview: Comic Vignettes
+4 Scott Sparks and a little information about the show tonight
+
+seeded by Keir 2005-11-16
+
+share the flacs freely and never accept money for them
+convert to mp3 for personal use if you must, never share them

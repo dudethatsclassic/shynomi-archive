@@ -1,24 +1,39 @@
-rh2003-08-15_ss_d02_t11.flac:c8168cc6655496f217a6576d196518af
-rh2003-08-15_ss_d01_t01.flac:bfe0af35fc5b871cd5e07e4c40ab3f23
-rh2003-08-15_ss_d01_t02.flac:c16b1bbeb560a09e47ca013e2448c285
-rh2003-08-15_ss_d01_t03.flac:5b38d042e4b07591985f076fdc8e94c3
-rh2003-08-15_ss_d01_t04.flac:cf8738e73c16d2af7026f6e70962a93b
-rh2003-08-15_ss_d01_t05.flac:626acca5c2c3b20f880f475d97f815ae
-rh2003-08-15_ss_d01_t06.flac:b28335086642fa71bc4da88e3d51c204
-rh2003-08-15_ss_d01_t07.flac:87cc1749d0b8d079c7645a0dd5232efd
-rh2003-08-15_ss_d01_t08.flac:7e180625eafd120cf74962eadd38d4c1
-rh2003-08-15_ss_d01_t09.flac:c838ed8c29d098d3c36335f8baf0b411
-rh2003-08-15_ss_d01_t10.flac:96a2681c1489d45709e4676f0fb07213
-rh2003-08-15_ss_d01_t11.flac:971a89a91cd6cfcd803de70e1f4f36db
-rh2003-08-15_ss_d01_t12.flac:41bf9cdbb78e994402392304d76ea6bc
-rh2003-08-15_ss_d01_t13.flac:1be6b4e06b4dd264f97833a32dfc86b7
-rh2003-08-15_ss_d02_t01.flac:c88e70eba3295400953e48d17a3cfc24
-rh2003-08-15_ss_d02_t02.flac:acc2d73e9be16b314475ae5fdc4f3ef2
-rh2003-08-15_ss_d02_t03.flac:d3b5625b46a54aa99ee24c3911ec752f
-rh2003-08-15_ss_d02_t04.flac:9763c87019190f5a36f0baa376b72ade
-rh2003-08-15_ss_d02_t05.flac:5f586908b962eec6d3af14eb75234f4d
-rh2003-08-15_ss_d02_t06.flac:20d93f87595a9a191d35143b7d21150e
-rh2003-08-15_ss_d02_t07.flac:4e7eec415e06225bd1bfd638c1c8d72c
-rh2003-08-15_ss_d02_t08.flac:ba11852e7c88cdbff314a44da4cc311b
-rh2003-08-15_ss_d02_t09.flac:9b14a39c088578fe755cf91705e6e4aa
-rh2003-08-15_ss_d02_t10.flac:78158752940b3a988e1468328a20077f
+radiohead
+2003-08-15
+parc jean drapeau; montreal quebec
+
+ss dsm6s/l -> pa6lc -> m1
+15-20ft behind the sbd, nearly center.
+
+d01:
+t01: 2+2=5
+t02: sit down, stand up
+t03: where i end and you begin
+t04: kid a
+t05: backdrifts
+t06: lucky
+t07: paranoid android
+t08: sail to the moon
+t09: punch up at a wedding
+t10: i might be wrong
+t11: just
+t12: scatterbrain
+t13: go to sleep
+
+d02:
+t01: pyramid song
+t02: idioteque
+t03: the gloaming
+t04: there there
+ e1:
+t05: you and whose army?
+t06: national anthem
+t07: big ideas
+t08: wolf at the door
+t09: street spirit
+ e2:
+t10: karma police
+t11: everything in its right place
+
+
+taper= Distance

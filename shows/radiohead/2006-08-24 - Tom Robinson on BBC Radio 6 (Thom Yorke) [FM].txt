@@ -1,5 +1,13 @@
-ty2006-08-24t05.flac:1171f8ad68a637e128067c4899c5ef84
-ty2006-08-24t01.flac:8614f724ce1d53a257031a6113e122d2
-ty2006-08-24t02.flac:084fe021cd2df199e792f05c3be7895d
-ty2006-08-24t03.flac:3e4867ac1a0d5ddbffb088ef529fa2e0
-ty2006-08-24t04.flac:53ae46545524ddc5dbbb587c6c57cf28
+Thom Yorke 
+2006-08-24
+Tom Robinson on BBC Radio 6
+
+source: BBC 6 Digital broadcast at 160 kbps MP2>Philips Freeview Digibox> Pioneer PDR609>EAC>CDWAVE>FLAC
+
+1.interview part 1
+2.the clock
+3.interview part 2
+4. cymbal rush
+5.interview part 3
+
+enjoy!

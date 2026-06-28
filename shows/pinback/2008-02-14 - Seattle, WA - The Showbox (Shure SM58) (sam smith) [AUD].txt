@@ -1,21 +1,39 @@
-Pinback_2008-02-14_01_Bouquet.flac:fd7ec392613bf218d1c28edcde948752
-Pinback_2008-02-14_02_Torch.flac:c3ed80c34bdb09d5e78159bb249a5eea
-Pinback_2008-02-14_03_Non-Photo_Blue.flac:594ed869a170590c3e79d0f5340231a3
-Pinback_2008-02-14_04_Penelope.flac:e9c0141fdff955f18889c4d1e542beea
-Pinback_2008-02-14_05_Good_To_Sea.flac:c8b16c24169732c5de6166fdb6dc1534
-Pinback_2008-02-14_06_How_We_Breathe.flac:017dceb8caddc2240409643d6168cdd9
-Pinback_2008-02-14_07_Bloods_On_Fire.flac:67cba394ebc71cf03e9306e274d376c3
-Pinback_2008-02-14_08_Walters.flac:ff6e0d3db884993a9b1fac6079ab1bc1
-Pinback_2008-02-14_09_Devil_You_Know.flac:eadec100e7d42691161d7187a35a0b9c
-Pinback_2008-02-14_10_Syracuse.flac:f000cf6cc972bce4b826e880cb6e4157
-Pinback_2008-02-14_11_Microtonic_Wave.flac:14673b4c13cbf0e33d5e5cbe72a39b3d
-Pinback_2008-02-14_12_Barnes.flac:547cb6889edebed11a260e4040912944
-Pinback_2008-02-14_13_Off_By_50.flac:dec3746ec73fc7dc3c4d2b382a2b3fde
-Pinback_2008-02-14_14_B.flac:19475c221b8cc96572042762940cba2b
-Pinback_2008-02-14_15_From_Nothing_To_Nowhere.flac:c3c539da83755d8282e513941b25aa3d
-Pinback_2008-02-14_16_encore.flac:a83ae475ecc6251d0cc59f097f2ee024
-Pinback_2008-02-14_17_Autumn_Of_The_Seraphs.flac:7871860fa09674c4982dcd7edf589766
-Pinback_2008-02-14_18_Rousseau.flac:810135dc0a53f8685f4e6d755a3f405b
-Pinback_2008-02-14_19_Loro.flac:7b98861b482a0bfc2d57fd6dab5b8f84
-Pinback_2008-02-14_20_Fortress.flac:6a89c1ae53d2014fad28eab70813c80a
-Pinback_2008-02-14_21_AFK.flac:3063ba559467b5fa4086925f8a82c0ef
+Pinback
+The Showbox, Seattle, Washington
+02-14-2008
+
+Source: Shure SM58 > Panasonic AG-HVX 200
+Transfer: USB > Cool Edit Pro 2.1 > CD Wave > FLAC Frontend
+Audio: Shure SM58 microphones @ 48 kHz 16 bit, edited with Cool Edit Pro 2.1
+
+Disc One: 79:06
+01. Bouquet				5:01
+02. Torch				4:23
+03. Non-Photo Blue		3:02
+04. Penelope			4:40
+05. Good To Sea			2:55
+06. How We Breathe		4:14
+07. Bloods On Fire		4:22
+08. Walters				3:54
+09. Devil You Know		4:07
+10. Syracuse			4:01
+11. Microtonic Wave		3:43
+12. Barnes				4:18
+13. Off By 50			3:13
+14. B					4:33
+15. From Nothing To Nowhere	3:29
+16. (encore)			3:26
+17. Autumn Of The Seraphs	4:16
+18. Rousseau			4:36
+19. Loro				3:19
+20. Fortress			3:24
+Disc Two: 5:09
+21. AFK				5:09
+
+Band Sites:
+Pinback.com
+myspace.com/Pinback
+
+Taped by:
+Sam Smith
+PDXTaper.blogspot.com archive.org

@@ -1,28 +1,50 @@
-garbage_121127_berlin_16_tr01.flac:23c8fdc872236a002aade1ab84089688
-garbage_121127_berlin_16_tr02.flac:8ad6abed2898c52a44d0029ed781372a
-garbage_121127_berlin_16_tr03.flac:dbb2784ba9255b381438c945850e63f6
-garbage_121127_berlin_16_tr04.flac:6b7ca1c5fc592b44447dca647f9a7db3
-garbage_121127_berlin_16_tr05.flac:be1970eeb685e998a252bae6939f1238
-garbage_121127_berlin_16_tr06.flac:5451e13464d149bfcd60b3d26f260b57
-garbage_121127_berlin_16_tr07.flac:1d3f9a966e2f001ea88f5379e0655c82
-garbage_121127_berlin_16_tr08.flac:dc6f621e64039cf1decd25f79377d3b6
-garbage_121127_berlin_16_tr09.flac:f53ab519846eb595f9e07a3b68f9eea0
-garbage_121127_berlin_16_tr10.flac:5e958142b348fe6271a1ae5cb11a7743
-garbage_121127_berlin_16_tr11.flac:e77d6d6d11d3585864a38112e1581fb8
-garbage_121127_berlin_16_tr12.flac:bcdba442f66de761214d1c2ea455cac6
-garbage_121127_berlin_16_tr13.flac:3361cb173dcf4d727c9313b78c700f03
-garbage_121127_berlin_16_tr14.flac:0fadecf005699a9e44f03a5e0da519a7
-garbage_121127_berlin_16_tr15.flac:73332a66d278be792626d8f7078fa2c2
-garbage_121127_berlin_16_tr16.flac:90e1806e27084c203a9a7d0725326d5a
-garbage_121127_berlin_16_tr17.flac:36812c22194bab0373e2dc62019aa989
-garbage_121127_berlin_16_tr18.flac:1ae89c270cbda6dc2f5e6412f26f5079
-garbage_121127_berlin_16_tr19.flac:61160fa16e262e8e5e62932fbc58f7e2
-garbage_121127_berlin_16_tr20.flac:5f7786f1d76c779f3869998770fdcf9c
-garbage_121127_berlin_16_tr21.flac:13fbb07611536ec2c29eaaedcd85f99f
-garbage_121127_berlin_16_tr22.flac:7511c03d9a5866fe37f635658167d581
-garbage_121127_berlin_16_tr23.flac:79a636d06b7ebfc96944af6b55221ea9
-garbage_121127_berlin_16_tr24.flac:a07171d051aa001da028862b0e473cb8
-garbage_121127_berlin_16_tr25.flac:3a4dcfc21a67725c241ef6e9002dcb1c
-garbage_121127_berlin_16_tr26.flac:e3a534c6efb916f43cedd27b62bf7efb
-garbage_121127_berlin_16_tr27.flac:af68ff12b8b277db6b239fe4cb919f1b
-garbage_121127_berlin_16_tr28.flac:69e6c9cd339fdddfd662e1605d31acb5
+
+GARBAGE
+Huxley's Neue Welt, Berlin, GER   27. Nov. 2012
+
+Disc 1:
+01.  Control
+02.  I Think I'm Paranoid
+03.  Shut Your Mouth
+04.  Shirley rants about the previous night in Cologne
+05.  Why Do You Love Me
+06.  Hammering In My Head
+07.  Queer
+08.  Stupid Girl
+09.  Automatic Systematic Habit
+10.  I Would Die For You
+11.  Supervixen
+12.  Special
+13.  I Go To Sleep (snippet)
+14.  Blood For Poppies
+15.  band introduction
+
+Disc 2:
+16.  Cherry Lips (Go Baby Go)
+17.  The Battle In Me
+18.  Milk
+19.  Push It
+20.  Vow
+21.  You Look So Fine
+encore:
+22.  When I Grow Up
+23.  Cup Of Coffee
+24.  I Hate Love
+25.  Shirley talks about her goddaughter Ruby
+26.  Not Your Kind Of People  w/ Ruby Winslow Marker
+27.  Only Happy When It Rains
+28.  Thanks A Million Honeybun (Duke Solo Song)
+
+approx. 132 mins
+
+Recording Info:
+recorded by Vortex242
+OKM IIr (hat mounted) > A3 > EDIROL R-09HR (48/24) >
+USB > WAV > Adobe Audition 3 (EQing, 44.1/16) > CDwave 
+(tracking) > flac via TLH 2.7.0. (level 6, verify, with align 
+on sector boundaries) > Tracker
+
+Feel free to spread this on other trackers
+but don't forget to support the artist by buying the 
+official releases and going to their shows!
+I'd like to get feedback from you, so please comment!!

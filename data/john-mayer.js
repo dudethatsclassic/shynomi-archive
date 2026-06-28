@@ -1505,8 +1505,7 @@ const ARTIST_DATA = {
       "venue": "Hotel Cafe",
       "notes": "DPA 4061 \u00b7 catapergirl",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2006-04-10 - Hollywood, CA - Hotel Cafe (DPA 4061) (catapergirl) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -4262,7 +4261,7 @@ const ARTIST_DATA = {
       "notes": "Sennheiser MKE 40-EW \u00b7 halwo",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2019-04-10 - Tokyo, Japan - Budokan (Sennheiser MKE 40-EW) (halwo) [AUD].txt"
+      "textFile": "2019-04-10 - Tokyo, Japan - Budokan (MKE 40-EW) (halwo) [AUD].txt"
     },
     {
       "year": 2019,
@@ -4276,7 +4275,7 @@ const ARTIST_DATA = {
       "notes": "Sennheiser MKE 40-EW \u00b7 halwo",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2019-04-11 - Tokyo, Japan - Budokan (Sennheiser MKE 40-EW) (halwo) [AUD].txt"
+      "textFile": "2019-04-11 - Tokyo, Japan - Budokan (MKE 40-EW) (halwo) [AUD].txt"
     },
     {
       "year": 2019,
@@ -4441,7 +4440,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps CCM41 \u00b7 christopher jones",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2019-08-02 - Detroit, MI - Little Caesars Arena (Schoeps CCM41 + DPA 4011) (5.1 mix) (christopher jones) [MIX24].txt"
+      "textFile": "2019-08-02 - Detroit, MI - Little Caesars Arena (Schoeps CCM41) (christopher jones) [AUD24].txt"
     },
     {
       "year": 2019,
@@ -4455,7 +4454,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps CCM41 + DPA 4011 \u00b7 5.1 mix \u00b7 christopher jones",
       "version": "MIX",
       "format": "FLAC 24",
-      "textFile": "2019-08-02 - Detroit, MI - Little Caesars Arena (Schoeps CCM41) (christopher jones) [AUD24].txt"
+      "textFile": "2019-08-02 - Detroit, MI - Little Caesars Arena (Schoeps CCM41 + DPA 4011) (5.1 mix) (christopher jones) [MIX24].txt"
     },
     {
       "year": 2019,
@@ -4658,8 +4657,7 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "Tascam DR-05 \u00b7 joel shover",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2022-02-21 - New York, NY - Madison Square Garden (DPA 4061) (5.1)(christopher jones) [AUD24].txt"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -4672,7 +4670,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "DPA 4061 \u00b7 5.1 \u00b7 christopher jones",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-02-21 - New York, NY - Madison Square Garden (DPA 4061) (5.1)(christopher jones) [AUD24].txt"
     },
     {
       "year": 2022,

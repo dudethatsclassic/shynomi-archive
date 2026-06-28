@@ -1,25 +1,50 @@
-TP 920309 d1tr01.flac:8d60f93c102d375b4fbc1a0db68a9c0f
-TP 920309 d1tr02.flac:dc99dde5f525f409b4ddf8f4cab98a8e
-TP 920309 d1tr03.flac:0c8089959aa56ce4b7d8f6969d9fca5b
-TP 920309 d1tr04.flac:c65773093883429202ef43926e5cbe40
-TP 920309 d1tr05.flac:8667fe61404c8e071125cb1d6dd93647
-TP 920309 d1tr06.flac:08553b3141d4a067fb3f1cfbc14c9224
-TP 920309 d1tr07.flac:363f63e3d1fb34b728cbdefbfa447b0f
-TP 920309 d1tr08.flac:0814be18b6244fac951f4116fa0e5bdb
-TP 920309 d1tr09.flac:4f3ab7f9c339f43ab3011f6f0365759f
-TP 920309 d1tr10.flac:331111321090252897defeb9a646731b
-TP 920309 d1tr11.flac:fa8cf670362c5e3c92fd079fca4d1396
-TP 920309 d1tr12.flac:97129f6e069b712bed9f7c2b881bdfc9
-TP 920309 d1tr13.flac:0e9abc94bf329c46146482ca556d6de8
-TP 920309 d2tr01.flac:471965006db8b9cf9ab703d8b431f078
-TP 920309 d2tr02.flac:5a8290ae21c8a3608213f6c133962714
-TP 920309 d2tr03.flac:8e303a7a75003c69a29aa0f627a4251e
-TP 920309 d2tr04.flac:89ffc7172acb1c6cf065f33f68a70195
-TP 920309 d2tr05.flac:5663a29ebd69ffc031d7957cd205204e
-TP 920309 d2tr06.flac:85c6e3aa5b027762452c0028b24f26cc
-TP 920309 d2tr07.flac:cf8d7772cc016b39da827e4359853f24
-TP 920309 d2tr08.flac:9143e5716a4676fee3c58eeba34a4ee2
-TP 920309 d2tr09.flac:4fb76068c2676b91ae32d91d98fca1d5
-TP 920309 d2tr10.flac:6b4ae6994531ce8783f04842867eb8c4
-TP 920309 d2tr11.flac:c8c02c12df7662e6e050a4a472b4523a
-TP 920309 d2tr12.flac:8cb44be9edbfd8467b9029cbbc4c30e4
+
+TOM PETTY & THE HEARTBREAKERS
+Alsterdorfer Sporthalle, Hamburg, GER  9. Mar. 1992
+
+Disc 1:
+01.  King's Highway
+02.  Too Good To Be True
+03.  I Won't Back Down
+04.  Free Fallin'
+05.  Out In The Cold
+06.  Psychotic Reaction
+07.  Ben's Boogie
+08.  Dragon's Guitar (Mike Campbell solo)
+09.  Don't Come Around Here No More
+10.  You Get Me High
+11.  American Girl
+12.  I'm Tired Joey Boy
+13.  Face In The Crowd
+
+Disc 2:
+01.  Bright Lights Big City
+02.  It'll All Work Out
+03.  Into The Great White Open
+04.  Yer So Bad
+05.  Down In Georgia
+06.  Love Is A Long Road
+07.  Refugee
+08.  Running Down A Dream
+encores:
+09.  Learning To Fly
+10.  Makin' Some Noise
+11.  Come On Down To My Home
+12.  Long Time Gone
+
+approx. 118 mins
+
+Recording Info:
+recorded by Vortex242
+AIWA CM30 >SONY WM-D6 >MaC > playback on TASCAM130 > 
+TASCAM CD-RW700 standalone CDburner >CD >EAC (secure mode) >Adobe Audition
+(EQing and Normalization) >CDwave (tracking) >Flac frontend
+(level 6, verify, with align on sector boundaries) >Tracker
+
+Feel free to spread this on other trackers
+but don't forget to support the artist by buying the official releases 
+and going to their shows!
+I'd like to get feedback from you, so please comment!!
+
+
+

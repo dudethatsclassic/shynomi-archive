@@ -3391,7 +3391,7 @@ const ARTIST_DATA = {
       "notes": "w/ David Bowie \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "nin1995-10-18.pro.davidwilliams.0.mp4424p.txt"
+      "textFile": "nin1995-10-18.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3405,7 +3405,7 @@ const ARTIST_DATA = {
       "notes": "w/ David Bowie \u00b7 david williams",
       "version": "PRO",
       "format": "MP4",
-      "textFile": "nin1995-10-18.unknown.unknown.unknown.flac1644.txt"
+      "textFile": "nin1995-10-18.pro.davidwilliams.0.mp4424p.txt"
     },
     {
       "year": 1995,
@@ -5317,7 +5317,7 @@ const ARTIST_DATA = {
       "notes": "TSE-CD-2002-1",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "nin2000-07-08.dfm.fm.0.flac1644.txt"
+      "textFile": "nin2000-07-08.silver.fragiliglade.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -5331,7 +5331,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M)",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "nin2000-07-08.prefm.unknown.unknown.flac1644.txt"
+      "textFile": "nin2000-07-08.dfm.fm.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -5345,7 +5345,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "preFM",
       "format": "FLAC",
-      "textFile": "nin2000-07-08.silver.fragiliglade.0.flac1644.txt"
+      "textFile": "nin2000-07-08.prefm.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -8273,7 +8273,7 @@ const ARTIST_DATA = {
       "notes": "PRO",
       "version": "SBD",
       "format": "MP3",
-      "textFile": "trentreznor2006-06-13.pro.nin.0.mov300p.txt"
+      "textFile": "trentreznor2006-06-13.sbd.nin.0.mp3320.txt"
     },
     {
       "year": 2006,
@@ -8287,7 +8287,7 @@ const ARTIST_DATA = {
       "notes": "DC101 Radio Show \u00b7 Trent Reznor",
       "version": "PRO",
       "format": "MOV",
-      "textFile": "trentreznor2006-06-13.sbd.nin.0.mp3320.txt"
+      "textFile": "trentreznor2006-06-13.pro.nin.0.mov300p.txt"
     },
     {
       "year": 2006,

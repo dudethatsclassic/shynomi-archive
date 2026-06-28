@@ -1,19 +1,39 @@
-b392999e75c5f063d854199b44b35239 *audioslave2003-03-15t01.flac
-fa64c225c8e18129f5380a6b5fcc634d *audioslave2003-03-15t02.flac
-46316a4c455eb89d2248c4456e7fd209 *audioslave2003-03-15t03.flac
-4fb5679e4ed813899aac9f58c36f4ad3 *audioslave2003-03-15t04.flac
-bbdfdbb5387a962142a98d1fbe3653b3 *audioslave2003-03-15t05.flac
-5d567c7a6c6da943b59ed6593f210fda *audioslave2003-03-15t06.flac
-2007ef796d52258281813141e0e9e988 *audioslave2003-03-15t07.flac
-d3c57bfdab079d25ebfd79b374557388 *audioslave2003-03-15t08.flac
-4df78943bab0efa001248ca4f9e80dd8 *audioslave2003-03-15t09.flac
-5d3293446e399b1ec2f65155e8eb7788 *audioslave2003-03-15t10.flac
-310b5a2261f0563a776ac6029b9794eb *audioslave2003-03-15t11.flac
-b9805e0e072998a8a788f027b417ac98 *audioslave2003-03-15t12.flac
-a9db0e3d258f801af52b77ab73bbb5d4 *audioslave2003-03-15t13.flac
-71da5ed73e9f278e287f0ab81f441f1a *audioslave2003-03-15t14.flac
-fc17e18457af8f6679ba9d5933924b92 *audioslave2003-03-15t15.flac
-d3c5e23595e0748219cc20b3163b4a5c *audioslave2003-03-15t16.flac
-b3a55fd36a6eec8505f26d32132085a7 *audioslave2003-03-15t17.flac
+Audioslave
+March 15, 2003
+The Joint at Hard Rock Hotel
+Las Vegas, NV
 
-No errors occured.
+Source: DPA 4061’s > CSBox > Sony PCM-M1
+Lineage: DAT Master 16/48 > FLAC
+Transfer (BLG): DA-20 > coax > Marantz PMD-670 > usb reader > Adobe Audition (edits) > iZotope Ozone 5 (EQ,Exciter,Imaging,Dynamics) > WavePad (tracking) > xACT (tags) > FLAC
+Taper: Ed Davis 
+
+Setlist:
+
+Set It Off
+Light My Way
+Gasoline
+Like a Stone
+Super Stupid
+Hypnotize
+What You Are
+(What’s So Funny ‘bout) Peace, Love and Understanding
+Exploder
+Techno Ted
+The Last Remaining Light
+Show Me How to Live
+Shadow on the Sun
+-encore break-
+I Am the Highway
+Working Man
+Cochise
+
+Total Time: 80:12
+
+Notes: Another nice recording by Ed.  Even though I have always been a big fan of both Soundgarden and RATM, I never cared much for Audioslave, and I totally forgot how terrible Chris Cornell’s voice was during this time period. 
+
+This might be another uncirculated recording as I cannot find any mention of this show in the etree database.
+
+.txt compiled on 12/13/2014 by BLG
+
+Enjoy!

@@ -1,32 +1,60 @@
-toadbusman.dnuggsd1tr01.flac:11e2b882d7eccf1b4f89c20d1dea7c5d
-toadbusman.dnuggsd1tr02.flac:a6442bbdec4df926906927d12a087bdf
-toadbusman.dnuggsd1tr03.flac:5e03d15780e560189338156fbf270c92
-toadbusman.dnuggsd1tr04.flac:da267e009ae12d065e4ec44569c8a68d
-toadbusman.dnuggsd1tr05.flac:6f354bf74221f524b9056ed8ca8dffee
-toadbusman.dnuggsd1tr06.flac:cfe187e0df562ebed81304131e8d98dd
-toadbusman.dnuggsd1tr07.flac:e3f7bc293f0ccb66bde944cde74984da
-toadbusman.dnuggsd1tr08.flac:4299f6c48ed1050de49a73e2c224ab98
-toadbusman.dnuggsd1tr09.flac:dfa01f0d327a5d43175eebe41335b079
-toadbusman.dnuggsd1tr10.flac:27cf3516a4fa0c306a8416121628fade
-toadbusman.dnuggsd1tr11.flac:c0bee94471db75ca9ea2c8c9ec5e527f
-toadbusman.dnuggsd1tr12.flac:72e793523d4f722be45f380d6ba65ce8
-toadbusman.dnuggsd1tr13.flac:e3e540092de4b4a599775c9fe4ae150a
-toadbusman.dnuggsd1tr14.flac:c8ae19fe4a453b3890e81387fa7e4fac
-toadbusman.dnuggsd2tr01.flac:667b269db9defef703591cd42582b065
-toadbusman.dnuggsd2tr02.flac:acd9d6b4ce66174ae36107862f4d1bca
-toadbusman.dnuggsd2tr03.flac:29597eeddd60d8a70b50470b2d5a3d49
-toadbusman.dnuggsd2tr04.flac:6e3c2e172d9ea1a741cee1a29f9da5b4
-toadbusman.dnuggsd2tr05.flac:24da3d613d98d796f63d68b986a3e90f
-toadbusman.dnuggsd2tr06.flac:f963891e6171a7ef23e8037eb14dc33d
-toadbusman.dnuggsd2tr07.flac:67ef7d7f8215589ce230d371b353d41d
-toadbusman.dnuggsd2tr08.flac:dba59323137301d40477329bf99329a8
-toadbusman.dnuggsd2tr09.flac:f8851e094b847c37bacf8a6d6f8b33d4
-toadbusman.dnuggsd2tr10.flac:789582493165c94548a7a8bfb3017c7c
-toadbusman.dnuggsd2tr11.flac:235218d0e173d5dc597b71c26bfb47bb
-toadbusman.dnuggsd2tr12.flac:2945fb292f293977e87cbfd29477da60
-toadbusman.dnuggsd2tr13.flac:99e3ee3b71b688b97960cc1f237f2eb8
-toadbusman.dnuggsd2tr14.flac:faa559097a8d6b4c16275206e615140a
+Toad the Wet Sprocket
+04-29-2011
+House of Blues
+Lake Buena Vista/Orlando,FL
 
-Checksum file saved to disk.
 
-No errors occured.
+Source: Busman BSC1 K3 (Hypers) >Starquad Cables >Fostex FR-2LE (24/96) >CF Card 
+Transfer: Audacity (24 to 16bit/Normalized and Resampled) >CD Wave >TLH >Flac (Level 8)
+Location: DFC/BSBD(Behind SBD)
+
+Recorded & Transferred by Dnuggs(dryan006@tampabay.rr.com)
+
+
+Disc 1
+1.Something's Always Wrong
+2.Whatever I Fear *
+3.Woodburning 
+4.Banter
+5.Crowing 
+6.Good Intentions 
+7.Crazy Train (Ozzy Osbourne cover tease/ Banter)
+8.Way Away
+9.Inside 
+10.Torn 
+11.Windmills 
+12.Is It For Me
+13.Banter
+14.The Moment
+
+Disc 2 
+1.Friendly Fire 
+2.Come Back Down 
+3.Nightingale Song 
+4.Dam Would Break 
+5.Banter
+6.Finally Fading (Glen Phillips cover) 
+7.Banter
+8.Crazy Life 
+9.All I Want 
+10.Brother 
+11.Fall Down 
+Encore:
+12.Jesus Is Just Alright (The Doobie Brothers cover tease: Dean started playing … morebass line, Dean and Glen started singing) 
+13.Come Down 
+14.Walk on the Ocean 
+
+
+
+Notes:
+
+*Soundboard technical difficulty @ 6:08 on d1tr02
+
+This set is tracked seamlessly; you can burn however you like
+
+-Graham Colton opened w Acoustic Set
+
+Thanks to Toad for allowing Taping and Trading of their Live Shows!
+Please support artists and venues that allow taping by buying merchandise & attending shows.
+
+Hope you enjoy =)

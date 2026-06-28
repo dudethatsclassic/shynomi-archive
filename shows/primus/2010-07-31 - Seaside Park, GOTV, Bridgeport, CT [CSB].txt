@@ -1,18 +1,44 @@
-d1t01-IntroMusic.flac:2d868fb498031834daa5ab5313812e80
-d1t02-ToDefyTheLawsOfTradition.flac:bf746da593605a9f2140b39473c6e3b6
-d1t03-InTheFlesh.flac:8287d5d57267b732552818cb842e33e7
-d1t04-HereComeTheBastards.flac:688273b6916d830c0a0cf76086809ca5
-d1t05-AmericanLife.flac:dca34388d5133665bf484ff980de6e93
-d1t06-DuchessAndTheProverbialMindSpread.flac:3b3b5a82e7f20e4834df52c05943b48e
-d1t07-CoattailsOfADeadman.flac:2855e0aae44046f23def1ce19d7761db
-d1t08-Bob.flac:12e595e279e4ff616980432dbd065476
-d1t09-JerryWasARaceCarDriver.flac:9e291c37655ee3b0e66c1ea345dca3f9
-d1t10-OverTheElectricGrapevine.flac:3eb0a04180d17af10799ef8485ecf536
-d2t01-BehindMyCamel-Groundhog'sDay.flac:74fd9778c38c5adf158d23dd3e6dbe09
-d2t02-Drums&whamolaJam.flac:0188fb9d029d24644d1d74441e5eec64
-d2t03-Eleven.flac:7715ac92b18a7c6df4459d139b8f2629
-d2t04-FrizzleFry.flac:c8a1e284390b609d9bcbc62ebf8dbdff
-d2t05-HaroldOfTheRocks.flac:036cfaaf6e87e166d13acc01643fe83d
-d2t06-Crowd.flac:3f8463f8848bc53aac57bf7c70f7f580
-d2t07-OverTheFalls.flac:b8161d2dd9bcf4601849c8d5d9162246
-d2t08-ThoseDamnBlueCollarTweekers.flac:01687bbb2d23014a7f1b4248b11dd00d
+Primus
+
+2010/07/31
+
+Seaside Park - Gathering Of The Vibes
+
+Bridgeport, CT, US
+
+Source: CSB>BatBoxW/FilterON>MT@16/48>.wav>AdobeAuditio2.0>.wav>FFE>.flac
+
+Recorded & Transferred by sanpablobay
+
+Setlist:
+
+CD1:
+
+01.Intro Music
+02.To Defy The Laws Of Tradition
+03.In The Flesh
+04.Here Come The Bastards
+05.American Life
+06.Duchess And The Proverbial Mind Spread
+07.Coattails Of A Deadman
+08.Bob
+09.Jerry Was A Race Car Driver
+10.Over The Electric Grapevine
+
+CD2:
+
+01:Behind My Camel>Groundhog's Day
+02.Drums w/Whamola Jam
+03.Eleven
+04.Frizzle Fry
+05.Harold Of The Rocks
+06.-Crowd-
+
+Encore:
+
+07.Over The Falls
+08.Those Damn Blue Collar Tweekers
+
+*Do Not Sell*
+*Do Not Remaster*
+*Do Not Distribute In Lossy Formats*

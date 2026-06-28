@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Coastal Credit Union Music Park",
-      "notes": "iPhone 13 Pro · shynomi",
+      "notes": "iPhone 13 Pro \u00b7 shynomi",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-04-27 - Raleigh, NC - Coastal Credit Union Music Park (iPhone 13 Pro) (shynomi) [AUD24].txt"
@@ -32,7 +32,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Miller High Life Theatre",
-      "notes": "Zoom iQ7 · poul0004",
+      "notes": "Zoom iQ7 \u00b7 poul0004",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-05-06 - Milwaukee, WI - Miller High Life Theatre (Zoom iQ7) (poul0004) [AUD24].txt"

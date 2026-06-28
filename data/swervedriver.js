@@ -343,7 +343,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sony WM-D3 Master \u00b7 loughney transfer",
-      "textFile": "1992-06-27 - Herk-de-Stad, Belgium - Olmenhof (Sont WM-D3) (loughney transfer) [AUD].txt"
+      "textFile": "1992-06-27 - Herk de Stad, Belgium - Olmenhof (Sony WM-D3 Master) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1992,

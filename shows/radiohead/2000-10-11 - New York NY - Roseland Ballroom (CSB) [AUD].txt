@@ -1,22 +1,39 @@
-rh2000-10-11d1t01.flac:2ccccfa6d1ea18a0bc8bda2770763b9f
-rh2000-10-11d1t02.flac:9062cf548a2830952f8aff8c39afd45a
-rh2000-10-11d1t03.flac:a1c29d69b4a96e92334f26ef649cc662
-rh2000-10-11d1t04.flac:41b3e223b6c224ddcd5a4ff22b854219
-rh2000-10-11d1t05.flac:0531e6c5072929d1667c2feb756ff1c5
-rh2000-10-11d1t06.flac:739b1ef438b645ac3f46d4c42e1607ef
-rh2000-10-11d1t07.flac:6bbbe1c4e81749b8ebea8de0a5d077e3
-rh2000-10-11d1t08.flac:aad369fb65c8f307c5fe3c1d29ca91c7
-rh2000-10-11d1t09.flac:8c174d913e341f9b534470b283f20253
-rh2000-10-11d1t10.flac:e5468bdb0e33fccec7155dba60313165
-rh2000-10-11d1t11.flac:ac286e6c81aada7d13e20e3fa820fb7a
-rh2000-10-11d1t12.flac:0536d63d30f07f9103684ba29676a762
-rh2000-10-11d1t13.flac:3d6151ade760573d9af1bb2858941123
-rh2000-10-11d1t14.flac:13d9ee8bbfd149ec37e98dbdcee69fc9
-rh2000-10-11d2t01.flac:23861598e6df277e864d688be4cc2e1c
-rh2000-10-11d2t02.flac:c6f799af71329bfd72b028227cc01b7d
-rh2000-10-11d2t03.flac:2b3213d49f628766c4a9c840a9e9d69c
-rh2000-10-11d2t04.flac:1ed92140d2b8c1a609724ce79e0ce2fd
-rh2000-10-11d2t05.flac:7bbc679e152cd0eb1e6e015669bb5a4a
-rh2000-10-11d2t06.flac:3893f6a7b25451cd1b1073d019cc3360
-rh2000-10-11d2t07.flac:b955907c2d9b72c51beb46d1799722c2
-rh2000-10-11d2t08.flac:4cfd11c7bec7b0df246912bb0d146fc1
+Radiohead
+October 11, 2000
+Roseland Ballroom
+New York, NY
+
+Source: CSB(mod) -> Sony TCD-D7
+Lineage: DATc -> CDR -> EAC -> FLAC
+
+Disc I
+01 National Anthem
+02 Morning Bell
+03 Airbag
+04 In Limbo
+05 Optimistic
+06 Lucky
+07 My Iron Lung
+08 Permanent Daylight
+09 You and Whose Army?
+10 No Surprises
+11 Dollars and Cents
+12 Talk Show Host
+13 How To Disappear Completely
+14 Paranoid Android
+
+Disc II
+01 Idioteque
+02 Just
+03 Everything In Its Right Place
+04 I Might Be Wrong
+05 Karma Police
+06 The Bends
+07 Pyramid Song
+08 Motion Picture Soundtrack
+
+
+CDR>FLAC by BLG
+compiled on 12/19/2009
+
+

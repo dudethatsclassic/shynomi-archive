@@ -1,18 +1,28 @@
-garbage2005-0501_01.flac:db7465a8fa7245ff93f92940288b7e93
-garbage2005-0501_02.flac:a78d5dd6b80971ec10f2e8eeb274c8aa
-garbage2005-0501_03.flac:117d6801362c8a9e42a23c084db75462
-garbage2005-0501_04.flac:6d08081b08d030ca2f073e2cced84938
-garbage2005-0501_05.flac:7c16423a6adfc4497ec10e579cbda29b
-garbage2005-0501_06.flac:b95df078151322df2c6c95b518ecd6bc
-garbage2005-0501_07.flac:d6d4d215932d9577940225bc5737faff
-garbage2005-0501_08.flac:77221a537037647d037a5ce40359256b
-garbage2005-0501_09.flac:662b72d496e5c67afb60f09038703f4d
-garbage2005-0501_10.flac:bca38e59c19ce5dd9d4684465ff3f465
-garbage2005-0501_11.flac:a78e193cad3a47b52ad67614a02df6bd
-garbage2005-0501_12.flac:b2a2479037344e1621083e0d3e7f95e0
-garbage2005-0501_13.flac:39fb392a24aba0b895ae60cfd40c7b8c
-garbage2005-0501_14.flac:da06daa7e6237d2613ea621d7a087b01
-garbage2005-0501_15.flac:d6f33411de5d1d568c6b75855cb4afe4
-garbage2005-0501_16.flac:6d69c5f7008b82ecd4188dc1f5046dc1
-garbage2005-0501_17.flac:035460e122498115e02709b23cf3e7a9
-garbage2005-0501_18.flac:ff7dbdb3b0ff405a0af00cde2f8d466e
+Garbage
+Sunday, May 1st, 2005
+Orpheum Theatre 
+Madison WI
+
+1. intro
+2. Queer
+3. Bad Boyfriend
+4. Supervixen
+5. Stupid Girl
+6. Sex is Not the Enemy
+7. Hammering in my Head
+8. When I Grow Up
+9. Vow
+10. Bleed Like Me
+11. I Think I'm Paranoid
+12. Push It
+13. Only Happy When it Rains
+14. Happy Birthday
+15. Why Do You Love Me
+---
+16. Metal Heart
+17. Cherry Lips
+18. Right Between the Eyes
+
+Note: about 1 minute of applause edited out between set and encore
+Source: Neumann KM140s > Sound Devices MP2 > Sony SBM1 > Sony D8
+Transfer: DAT master > HHb CDR830 > EAC/PC > mkw/SHN
