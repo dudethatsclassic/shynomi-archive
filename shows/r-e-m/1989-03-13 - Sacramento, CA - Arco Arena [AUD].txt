@@ -1,34 +1,67 @@
-01 - Intro.flac:b3dcdf1e29b0eabec2650939100774b5
-02 - Pop Song 89.flac:dc960b8d76396493aa4a43f4f0a69b9d
-03 - Exhuming McCarthy.flac:b99ff6efc010331e55097aa58b22bdbd
-04 - Welcome To The Occupation.flac:f57aee32da0ff40abb023dad6ac0122b
-05 - Pilgrimage.flac:e3962c762181377defe0ab3f6d5100cd
-06 - Turn You Inside-Out.flac:4fd2f33f0ca5a456821e7d636b5743ac
-07 - Orange Crush.flac:36d48231ff667c211cb4cf2b72ebed7d
-08 - Cuyahoga.flac:d54ed0e9867e4367a3dcf77f8ae4d9da
-09 - Feeling Gravity's Pull.flac:d4c197671564c76f4a10c77f23f5d7b6
-10 - Perfect Circle.flac:ea422dd36870d5a6c20f01e968df73a1
-11 - World Leader Pretend.flac:8d3094af9d8b74f02b2589d527c81e59
-12 - Audience.flac:7fd6fba84ab6f8cfbc353c2f402503bf
-13 - Begin The Begin.flac:49f269063316eb9e316f27f5e5d9fd83
-14 - Disturbance At The Heron House.flac:ba20834aacd2604800ee2aa387600f05
-15 - Tired Of Singing Trouble.flac:f545268297b051d9980c9983dbda085a
-16 - I Believe.flac:7efacb96b45b211285a2250fb1a6b949
-17 - Pretty Persuasion.flac:4025c29148ff347508f7f0d7f00190bb
-18 - Get Up.flac:acd5207c92751a27b179f6937073db92
-19 - Auctioneer (Another Engine).flac:c339b1a41649c280a1db1306166ec8f1
-20 - It's The End Of The World As We Know It (And I Feel Fine).flac:9fad0db7b267118d83363f5235196904
-21 - Audience.flac:6379ac187d033208a954a896cf0668e0
-22 - Stand.flac:466ba24ece19eabc62be9b856aa03b18
-23 - These Days.flac:77a7429eb83005b842189864f86af09b
-24 - You Are The Everything.flac:7027504894813dcb468ace3d3a0b160a
-25 - Audience.flac:72240af98ff22d1a424809021856dbfe
-26 - Finest Worksong.flac:ff355ef91a53055628a05da6bdde2346
-27 - King Of Birds.flac:38284678b114a509089ee640c5985f0d
-28 - Crazy.flac:90f44bfb2733909578553d71b31ae300
-29 - Audience.flac:d81ef1e89354df942ed08c19a5584537
-30 - Harpers.flac:d3eb827a2d772df21f77d5696a0d6210
-31 - Strange.flac:1905d5f232b819b6b96994ce703d189b
-32 - Summertime.flac:addb72ef73dcbe36d768ac5df60043b8
-33 - Driver 8.flac:42dd2af9787ebb50ac6901e2203829fd
-34 - So. Central Rain.flac:0f10cb1c351c63e12ba0fccfc813bd14
+Artist: R.E.M. 
+Date: 1989-03-13
+Location: Sacramento, CA 
+Venue: Arco Arena
+Source: Audience 
+Lineage: ANA(M)>WAV [96kHz/24bit]>WAV [44.1kHz/16bit]>FLAC [Level 8] 
+Transfer: Nakamichi CR-7A>PreSonus FireStudio Project>Adobe Audition 3.0>Cdwave editor>FLAC frontend 1.7.1 
+Taping Gear: Sony ECM-939>Sony WM-D6C  
+Taped By: JEMS 
+Transferred By: Mike Ziegler 
+
+Band Members:
+Michael Stipe - vocals, harmonica, megaphone 
+Peter Buck - guitars 
+Mike Mills - bass, vocals 
+Bill Berry - drums, percussion
+
+Setlist:
+01. Intro
+02. Pop Song 89
+03. Exhuming McCarthy
+04. Welcome To The Occupation
+05. Pilgrimage
+06. Turn You Inside-Out
+07. Orange Crush
+08. Cuyahoga
+09. Feeling Gravity's Pull
+10. Perfect Circle
+11. World Leader Pretend
+12. Audience
+13. Begin The Begin
+14. Disturbance At The Heron House
+15. Tired Of Singing Trouble
+16. I Believe
+17. Pretty Persuasion
+18. Get Up
+19. Auctioneer (Another Engine)
+20. It's The End Of The World As We Know It (And I Feel Fine)
+Encores 1
+21. Audience
+22. Stand
+23. These Days
+24. You Are The Everything
+Encores 2
+25. Audience
+26. Finest Worksong
+27. King Of Birds
+28. Crazy
+Encores 3
+29. Audience
+30. Harpers
+31. Strange
+32. Summertime
+33. Driver 8
+34. So. Central Rain
+
+Length: 115:22
+
+Notes: 
+JEMS master recording. Good sounding recording.
+
+"First of five straight shows JEMS covered on the first leg of the 'Green World Tour with Robyn Hitchcock as the opener. Fairly straightforward set for era, as would be the next three nights leading up to Tempe. The '89 tour marked the welcome addition of  "Perfect Circle" to the set, which had been unplayed by the band to date. A bit of Peter Gabriel's "Red Rain" is amended to the end of the show-closing "South Central Rain.""
+
+butterking for JEMS
+
+(remtorrent)
+

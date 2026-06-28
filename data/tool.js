@@ -63,7 +63,7 @@ const ARTIST_DATA = {
       "notes": "Aiwa HS-M2 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-04-23 - Boston, MA - Axis (unk) (reel_to_reel remaster) [AUD24].txt"
+      "textFile": "1992-04-23 - Boston, MA - The Rat [AUD].txt"
     },
     {
       "year": 1992,
@@ -77,7 +77,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 reel_to_reel remaster",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1992-04-23 - Boston, MA - The Rat [AUD].txt"
+      "textFile": "1992-04-23 - Boston, MA - Axis (unk) (reel_to_reel remaster) [AUD24].txt"
     },
     {
       "year": 1992,
@@ -11311,7 +11311,8 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 OKM-II \u00b7 datmaster",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-06-06 - Hamburg, Germany - Alsterdorfer Sporthalle (666) [MTX].txt"
+      "textFile": "2006-06-06 - Hamburg, Germany - Sporthalle.txt",
+      "recordingVersion": 1
     },
     {
       "year": 2006,
@@ -11326,7 +11327,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-06-06 - Hamburg, Germany - Sporthalle.txt",
-      "recordingVersion": 1
+      "recordingVersion": 2
     },
     {
       "year": 2006,
@@ -11340,8 +11341,7 @@ const ARTIST_DATA = {
       "notes": "panelis79",
       "version": "MTX",
       "format": "FLAC",
-      "textFile": "2006-06-06 - Hamburg, Germany - Sporthalle.txt",
-      "recordingVersion": 2
+      "textFile": "2006-06-06 - Hamburg, Germany - Alsterdorfer Sporthalle (666) [MTX].txt"
     },
     {
       "year": 2006,
@@ -14217,7 +14217,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 \u00b7 4intool",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2007-06-20 - Peoria, IL - Peoria Civic Center (DPA 4061) (ryan a) [AUD24].txt"
+      "textFile": "2007-06-20 - Peoria, IL - Peoria Civic Center [AUD].txt"
     },
     {
       "year": 2007,
@@ -14231,7 +14231,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061 \u00b7 ryan a",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2007-06-20 - Peoria, IL - Peoria Civic Center [AUD].txt"
+      "textFile": "2007-06-20 - Peoria, IL - Peoria Civic Center (DPA 4061) (ryan a) [AUD24].txt"
     },
     {
       "year": 2007,
@@ -16893,7 +16893,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK5 \u00b7 anonymous",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2014-03-12 - San Francisco, CA - Bill Graham Civic Auditorium (Sony PCM-M10) (armogi) [AUD24].txt"
+      "textFile": "2014-03-12 - San Francisco, CA - Bill Graham Civic Center [AUD].txt"
     },
     {
       "year": 2014,
@@ -16907,7 +16907,7 @@ const ARTIST_DATA = {
       "notes": "Sony PCM-M10 \u00b7 armogi",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2014-03-12 - San Francisco, CA - Bill Graham Civic Center [AUD].txt"
+      "textFile": "2014-03-12 - San Francisco, CA - Bill Graham Civic Auditorium (Sony PCM-M10) (armogi) [AUD24].txt"
     },
     {
       "year": 2014,
@@ -17182,7 +17182,8 @@ const ARTIST_DATA = {
       "notes": "DPA 4061s \u00b7 geordy",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2016-01-23 - Nashville, TN - Bridgestone Arena (SP-BMC-3) (green1039) [AUD24].txt"
+      "textFile": "2016-01-23 - Nashville, TN - Bridgestone Arena [AUD].txt",
+      "recordingVersion": 1
     },
     {
       "year": 2016,
@@ -17196,8 +17197,7 @@ const ARTIST_DATA = {
       "notes": "SP-BMC-3 \u00b7 green1039",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2016-01-23 - Nashville, TN - Bridgestone Arena [AUD].txt",
-      "recordingVersion": 1
+      "textFile": "2016-01-23 - Nashville, TN - Bridgestone Arena (SP-BMC-3) (green1039) [AUD24].txt"
     },
     {
       "year": 2016,
@@ -18654,7 +18654,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps CCM4 \u00b7 unk",
       "version": "AUD (48k)",
       "format": "FLAC",
-      "textFile": "2022-01-15 - Sacramento CA - Golden 1 Center (Schoeps CCM4) (unk) [AUD].txt"
+      "textFile": "2022-01-15 - Sacramento, CA - Golden 1 (Schoeps MK4s) (tj) [AUD].txt"
     },
     {
       "year": 2022,
@@ -18668,7 +18668,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-01-15 - Sacramento, CA - Golden 1 (Schoeps MK4s) (tj) [AUD].txt"
+      "textFile": "2022-01-15 - Sacramento CA - Golden 1 Center (Schoeps CCM4) (unk) [AUD].txt"
     },
     {
       "year": 2022,
@@ -18836,7 +18836,7 @@ const ARTIST_DATA = {
       "notes": "Shure MV88 \u00b7 coleson dilbeck",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-01-30 - Oklahoma City, OK - BOK Center (John Ramsey Stealth Binaurals) (vincent6) [AUD24].txt"
+      "textFile": "2022-01-30 - Oklahoma City, OK - BOK Center (Shure MV88) (coleson dilbeck) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -18850,7 +18850,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4080s \u00b7 tb",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-01-30 - Oklahoma City, OK - BOK Center (Shure MV88) (coleson dilbeck) [AUD24].txt"
+      "textFile": "2022-01-30 - Tulsa, OK - BOK Center (DPA 4080s) (tb) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -18864,7 +18864,7 @@ const ARTIST_DATA = {
       "notes": "John Ramsey Stealth Binaurals \u00b7 vincent6",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-01-30 - Tulsa, OK - BOK Center (DPA 4080s) (tb) [AUD24].txt"
+      "textFile": "2022-01-30 - Oklahoma City, OK - BOK Center (John Ramsey Stealth Binaurals) (vincent6) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -18906,7 +18906,7 @@ const ARTIST_DATA = {
       "notes": "Sony unknown \u00b7 zeegrizzle",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-02-05 - New Orleans, LA - Smoothie King Center (Olympus LS-11) (rxz796) [AUD24].txt"
+      "textFile": "2022-02-05 - New Orleans, LA - Smoothie King Center (Sony PCM-A10) (zeegrizzle) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -18920,7 +18920,7 @@ const ARTIST_DATA = {
       "notes": "Olympus LS-11 \u00b7 rxz796",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-02-05 - New Orleans, LA - Smoothie King Center (Sony PCM-A10) (zeegrizzle) [AUD24].txt"
+      "textFile": "2022-02-05 - New Orleans, LA - Smoothie King Center (Olympus LS-11) (rxz796) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -18934,7 +18934,7 @@ const ARTIST_DATA = {
       "notes": "SP-MS-TFB-2 \u00b7 a wave upon the cosmic dew",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-02-08 - Orlando, FL - Amway Center (Olympus LS-11) (rxz796) [AUD24].txt"
+      "textFile": "2022-02-08 - Orlando, FL - Amway Center (SP-MS-TFB-2) (a wave upon the cosmic dew) [AUD].txt"
     },
     {
       "year": 2022,
@@ -18948,7 +18948,7 @@ const ARTIST_DATA = {
       "notes": "Olympus LS-11 \u00b7 rxz796",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-02-08 - Orlando, FL - Amway Center (SP-MS-TFB-2) (a wave upon the cosmic dew) [AUD].txt"
+      "textFile": "2022-02-08 - Orlando, FL - Amway Center (Olympus LS-11) (rxz796) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -19228,7 +19228,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4080 \u00b7 tb",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-03-12 - Omaha, NE - CHI Center (DPA 4061s) (dave adair) [AUD24].txt"
+      "textFile": "2022-03-12 - Omaha, NE - CHI Health Center (DPA 4080) (tb) [AUD].txt"
     },
     {
       "year": 2022,
@@ -19242,7 +19242,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061s \u00b7 dave adair",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-03-12 - Omaha, NE - CHI Health Center (DPA 4080) (tb) [AUD].txt"
+      "textFile": "2022-03-12 - Omaha, NE - CHI Center (DPA 4061s) (dave adair) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -19284,7 +19284,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4080 \u00b7 tb",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-03-18 - St. Louis, MO - Enterprise Center (DPA 4061s) (geordy) [AUD24].txt"
+      "textFile": "2022-03-18 - St. Louis, MO - Enterprise Center (DPA 4080) (tb) [AUD].txt"
     },
     {
       "year": 2022,
@@ -19298,7 +19298,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061s \u00b7 geordy",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-03-18 - St. Louis, MO - Enterprise Center (DPA 4080) (tb) [AUD].txt"
+      "textFile": "2022-03-18 - St. Louis, MO - Enterprise Center (DPA 4061s) (geordy) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -19522,7 +19522,7 @@ const ARTIST_DATA = {
       "notes": "Power \u00b7 SP-CMC-8s \u00b7 rjl",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2023-10-08 - Indio, CA - Empire Polo Grounds - Power Trip Festival (AT853s) (zeegrizzle) [AUD24].txt"
+      "textFile": "2023-10-08 - Indio, CA - Empire Polo Grounds - Power Trip Festival (SP-CMC-8s) (rjl) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -19536,7 +19536,7 @@ const ARTIST_DATA = {
       "notes": "Power \u00b7 AT853s \u00b7 zeegrizzle",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2023-10-08 - Indio, CA - Empire Polo Grounds - Power Trip Festival (SP-CMC-8s) (rjl) [AUD24].txt"
+      "textFile": "2023-10-08 - Indio, CA - Empire Polo Grounds - Power Trip Festival (AT853s) (zeegrizzle) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -19732,7 +19732,7 @@ const ARTIST_DATA = {
       "notes": "iPhone 14 Max \u00b7 robert",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-11-13 - Manchester, NH - SNHU Arena (R9 mics) (ec666) [AUD24].txt"
+      "textFile": "2023-11-13 - Manchseter, NH - SNHU Arena (iPhone 14 Max) (robert) [AUD].txt"
     },
     {
       "year": 2023,
@@ -19746,7 +19746,7 @@ const ARTIST_DATA = {
       "notes": "R9 mics \u00b7 ec666",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2023-11-13 - Manchseter, NH - SNHU Arena (iPhone 14 Max) (robert) [AUD].txt"
+      "textFile": "2023-11-13 - Manchester, NH - SNHU Arena (R9 mics) (ec666) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -19886,7 +19886,7 @@ const ARTIST_DATA = {
       "notes": "iPhone 13 Pro \u00b7 shynomi",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-01-21 - Charlotte, NC - Spectrum Center (Zoom H1N) (unclet1974) [AUD24].txt"
+      "textFile": "2024-01-21 - Charlotte, NC - Spectrum Center (iPhone 13 Pro) (shynomi) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -19900,7 +19900,7 @@ const ARTIST_DATA = {
       "notes": "Zoom H1N \u00b7 unclet1974",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-01-21 - Charlotte, NC - Spectrum Center (iPhone 13 Pro) (shynomi) [AUD24].txt"
+      "textFile": "2024-01-21 - Charlotte, NC - Spectrum Center (Zoom H1N) (unclet1974) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -19914,7 +19914,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4s \u00b7 tj",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-01-23 - Nashville, TN - Bridgestone Arena (DPA 4061) (geordy) [AUD24].txt"
+      "textFile": "2024-01-23 - Nashville, TN - Bridgestone Arena (Schoeps MK4s) (tj) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -19928,7 +19928,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061 \u00b7 geordy",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-01-23 - Nashville, TN - Bridgestone Arena (Schoeps MK4s) (tj) [AUD24].txt"
+      "textFile": "2024-01-23 - Nashville, TN - Bridgestone Arena (DPA 4061) (geordy) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -19956,7 +19956,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4s \u00b7 tj",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-01-24 - Atlanta, GA - State Farm Arena (DPA 4061) (geordy) [AUD24].txt"
+      "textFile": "2024-01-24 - Atlanta, GA - State Farm Arena (Schoeps MK4s) (tj) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -19970,7 +19970,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061 \u00b7 geordy",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-01-24 - Atlanta, GA - State Farm Arena (Schoeps MK4s) (tj) [AUD24].txt"
+      "textFile": "2024-01-24 - Atlanta, GA - State Farm Arena (DPA 4061) (geordy) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -19997,7 +19997,7 @@ const ARTIST_DATA = {
       "notes": "Shure MV88 \u00b7 coleson dilbeck \u00b7 inc",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-02-03 - Oklahoma City, OK - Paycom Center (MBHO KA200s) (specialk) [AUD24].txt"
+      "textFile": "2024-02-03 - Oklahoma, OK - Paycom (Shure MV88) (coleson dilbeck) (inc) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -20011,7 +20011,7 @@ const ARTIST_DATA = {
       "notes": "MBHO KA200s \u00b7 specialk",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-02-03 - Oklahoma, OK - Paycom (Shure MV88) (coleson dilbeck) (inc) [AUD24].txt"
+      "textFile": "2024-02-03 - Oklahoma City, OK - Paycom Center (MBHO KA200s) (specialk) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -20081,7 +20081,7 @@ const ARTIST_DATA = {
       "notes": "iPhone 12 \u00b7 ohautoparts",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2024-02-09 - Phoenix, AZ - Footprint Center (DPA SMK4061) (j.mart) [AUD24].txt"
+      "textFile": "2024-02-09 - Phoenix, AZ - Footprint Center (M) (GSAL) (the collective) [AUD].txt"
     },
     {
       "year": 2024,
@@ -20109,7 +20109,7 @@ const ARTIST_DATA = {
       "notes": "DPA SMK4061 \u00b7 j.mart",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-02-09 - Phoenix, AZ - Footprint Center (M) (GSAL) (the collective) [AUD].txt"
+      "textFile": "2024-02-09 - Phoenix, AZ - Footprint Center (DPA SMK4061) (j.mart) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -20291,7 +20291,7 @@ const ARTIST_DATA = {
       "notes": "Lollapalooza",
       "version": "AUD",
       "format": "MP3",
-      "textFile": "2025-03-22 - Buenos Aires, ARG - Hipodromo de San Isidro - Lollapalooza [WEB-LOSSY].txt"
+      "textFile": "2025-03-22 - Buenos Aires, ARG - Hipodromo de San Isidro - Lollapalooza [WEB].txt"
     },
     {
       "year": 2025,
@@ -20305,7 +20305,7 @@ const ARTIST_DATA = {
       "notes": "Lollapalooza",
       "version": "WEB",
       "format": "MKV",
-      "textFile": "2025-03-22 - Buenos Aires, ARG - Hipodromo de San Isidro - Lollapalooza [WEB].txt"
+      "textFile": "2025-03-22 - Buenos Aires, ARG - Hipodromo de San Isidro - Lollapalooza [WEB-LOSSY].txt"
     },
     {
       "year": 2025,

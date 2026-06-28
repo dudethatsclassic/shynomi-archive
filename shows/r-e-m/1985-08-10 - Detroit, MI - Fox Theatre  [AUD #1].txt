@@ -1,24 +1,52 @@
-01 - Intro.flac:40ed9de667c75a499e102ef35b836edb
-02 - Feeling Gravity's Pull.flac:2b66bd7e9d5e8780a7cace5f7c09081e
-03 - Harborcoat.flac:81cdbc03180eba9ce8749b5c6c99ae1d
-04 - Green Grow The Rushes.flac:e2d237f39f8c0c0dbe96ad66c023db80
-05 - Hyena.flac:0fcbcdcbef0e3ff482ce32d23c26c458
-06 - Maps And Legends.flac:a7f27a54d25b08896d614e9b81609500
-07 - Driver 8.flac:dc91786dbcc9351c13f920ac384d641b
-08 - Good Advices.flac:3f8751f6bbd8783a6a7723e1b85fb972
-09 - So. Central Rain.flac:1e802b66a4a9588fe02717ede629da14
-10 - Have You Ever Seen The Rain.flac:f9fb0da46b5112999a11e5a886363e3e
-11 - Seven Chinese Brothers.flac:5a95857ef36c08dfa0d9e96658ca0c59
-12 - Can't Get There From Here.flac:5e34c60f71f4ad370bd227117a630147
-13 - Sitting Still.flac:2b9e7b6980128433c936f84f08d36540
-14 - Old Man Kensey.flac:a98f9a48f608411933eda1ac7ce0b3f5
-15 - Pretty Persuasion.flac:c06ac8cba245d5b3001e260b21c798bb
-16 - Little America.flac:0616157689d92dcc592f607685af5994
-17 - Life And How To Live It.flac:3af4bbb07efc89855944593e7f08fabb
-18 - Second Guessing.flac:7e8b0a30decf4c9690ff711ef457ad65
-19 - Gardening At Night.flac:e827be40d09699c8d45941d58fcfe310
-20 - Theme From Two Steps Onward.flac:44a15e694d22066b15dd2e26ccafdc8f
-21 - Radio Free Europe.flac:947f21807a7e0ee1595cb5aaf66cb748
-22 - Wild Thing.flac:ec5825c0083c88cd6d2feb36d3dd400b
-23 - Louie Louie.flac:2b1fe56b2e859615c9a846464a0c59f6
-24 - Wild Thing (reprise).flac:d0ac85c9c69046d35af26ea84828332c
+Artist: R.E.M. 
+Date: 1985-08-10
+Location: Detroit, MI 
+Venue: Fox Theatre 
+Source: Audience 
+Lineage: ANA(M)>WAV [96kHz/24bit]>WAV [44.1kHz/16bit]>FLAC [Level 8] 
+Transfer: Nakamichi CR-7A>PreSonus FireStudio Project>Adobe Audition 3.0>Cdwave editor>FLAC frontend 1.7.1 
+Taping Gear: Sony ECM-939>Sony WM-D6C  
+Taped By: JEMS 
+Transferred By: Mike Ziegler 
+
+Band Members:
+Michael Stipe - vocals 
+Peter Buck - guitars 
+Mike Mills - bass, vocals 
+Bill Berry - drums, percussion
+
+Setlist:
+01. Intro
+02. Feel Gravity's Pull
+03. Harborcoat
+04. Green Grow The Rushes
+05. Hyena
+06. Maps And Legends
+07. Driver 8
+08. Good Advices
+09. So. Central Rain
+10. Have You Ever Seen The Rain?
+11. Seven Chinese Brothers
+12. Can't Get There From Here
+13. Sitting Still
+14. Old Man Kensey
+15. Pretty Persuasion
+16. Little America
+17. Life And How To Live It
+18. Second Guessing
+19. Gardening At Night
+Encores 1
+20. Theme From Two Steps Onward
+21. Radio Free Europe
+Encores 2
+22. Wild Thing ->
+23. Louie Louie ->
+24. Wild Thing (reprise)
+
+Length: 88:46
+
+Notes:
+JEMS master recording. Very good sounding recording but it is hard to make out Michael's vocals in spots. This a great early show and only the 3rd time JEMS had taped REM. This should be the 1st time(DEC. 2010) that this recording is making it's debut on the collecting circuit. 
+
+(remtorrent)
+

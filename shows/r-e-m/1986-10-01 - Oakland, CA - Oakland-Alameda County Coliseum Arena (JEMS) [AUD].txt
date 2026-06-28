@@ -1,32 +1,63 @@
-01 - Intro.flac:fbe67219321d25f08e3d14ea6c94805c
-02 - Have You Ever Seen The Rain.flac:4f6561ebf0d189afda3acc22bb5df2d1
-03 - These Days.flac:2b5da0aad0952fffcd7d3113878e7940
-04 - Moral Kiosk.flac:beb480add4239a74f8b9381683fd3392
-05 - Cuyahoga.flac:b5b0f81b05636f6868a4445ac35d4c02
-06 - Gardening At Night.flac:7243b18eb829c6884498def8b1366bc2
-07 - Maps And Legends.flac:0afd1dd9f3ad72e5265ce31ec62d8466
-08 - The One I Love.flac:6f42a7b73ea71daed51d507f5fb49b39
-09 - Sitting Still.flac:bbd34d95a2818e686734f7f00670aeab
-10 - Driver 8.flac:5ad6d51baee44b55a88f2080d7b2df6e
-11 - The Flowers Of Guatemala.flac:03ee2b1f8e03fd85c21dc590a2c24d34
-12 - Shaking Through.flac:d39ca57b27ba08d43dd5edcff5e3c067
-13 - White Tornado.flac:edb3c2c795f8cfb123e4e11187d6abc9
-14 - Stipe Talking.flac:1484190f30051a8bb62cc277c4a9a5c2
-15 - I Believe.flac:fda377f1490569b6b7825fe5f4bc8db9
-16 - Swan Swan H.flac:963b268bdc59afed4be5776300e1abfd
-17 - Superman.flac:8ac3cb9b42135137b6eb215c78e529d5
-18 - Can't Get There From Here.flac:2d4e41fb3eb3b3cba7dc30a1247c7fc0
-19 - Pretty Persuasion.flac:83116cc3fb03458864394734ba40b0bc
-20 - Little America.flac:443a97fa4f773953c43c6bec613f2681
-21 - Audience.flac:4210a0651740d48513bc9f1d89108934
-22 - Fall On Me.flac:493001302057db89124cfb6d39af5d36
-23 - Auctioneer (Another Engine).flac:17489524dc410ec6e814e3326e78710c
-24 - Life And How To Live It.flac:e4636a3029aa9e02e91ffcca445bd484
-25 - Audience.flac:7b6183a3a9fb0d2f4ddc75086d964b3a
-26 - Rotary Ten.flac:05db15501a0828a58bc18d43be4f7212
-27 - Strange.flac:d6ca2bde44d2a05760adddd8e204a8d8
-28 - Fever.flac:9acf4284df24a4039efebac03619d71a
-29 - Funtime.flac:e4f347681161371877198017175c97cd
-30 - Just A Touch.flac:2fe9aad48735ad0f4dcf211c0208d5c5
-31 - Audience.flac:f625cb35b9d2da9589524a3fb78dcf9b
-32 - So. Central Rain.flac:9cc74c71d68977c0c2cf6375b11504fd
+Artist: R.E.M. 
+Date: 1986-10-01
+Location: Oakland, CA 
+Venue: Oakland-Alameda County Coliseum Arena
+Source: Audience 
+Lineage: ANA(M)>WAV [96kHz/24bit]>WAV [44.1kHz/16bit]>FLAC [Level 8] 
+Transfer: Nakamichi CR-7A>PreSonus FireStudio Project>Adobe Audition 3.0>Cdwave editor>FLAC frontend 1.7.1 
+Taping Gear: Sony ECM-939>Sony WM-D6C  
+Taped By: JEMS 
+Transferred By: Mike Ziegler 
+
+Band Members:
+Michael Stipe - vocals, harmonica 
+Peter Buck - guitars 
+Mike Mills - bass, vocals 
+Bill Berry - drums, percussion
+
+Setlist:
+01. Intro
+02. Have You Ever Seen The Rain?
+03. These Days
+04. Moral Kiosk
+05. Cuyahoga
+06. Gardening At Night
+07. Maps And Legends
+08. The One I Love
+09. Sitting Still
+10. Driver 8
+11. The Flowers Of Guatemala
+12. Shaking Through
+13. White Tornado
+14. Stipe Talking
+15. I Believe
+16. Swan Swan H
+17. Superman
+18. Can't Get There From Here
+19. Pretty Persuasion
+20. Little America
+Encores 1
+21. Audience
+22. Fall On Me
+23. Auctioneer (Another Engine)
+24. Life And How You Live It
+Encores 2
+25. Audience
+26. Rotary Ten
+27. Strange
+28. Fever
+29. Funtime
+30. Just A Touch
+31. Audience
+32. So. Central Rain
+
+Length: 94:37
+
+Notes:
+JEMS master recording. Very good sounding recording but the deck/mics have some issues during the beginning of the final encore So. Central Rain and in small spots throughout the show.  
+
+"Make-up show for the band's rescheduled date at the Greek, this was R.E.M.'s first west coast arena date and the venue was a little more than half full. Given the cause of the initial Berkeley cancellation, the band opens appropriately with a cover of Creedence's "Have You Ever Seen the Rain?""
+butterking for JEMS
+
+(remtorrent)
+

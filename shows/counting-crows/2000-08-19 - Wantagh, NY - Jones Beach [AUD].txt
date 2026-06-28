@@ -1,12 +1,21 @@
-01 round here.flac:36dc169ec377644fe21bb435183bd40f
-02 angels of the silences.flac:033c6856a9f9d52b04ec6f721bfdb85a
-03 i wish i was a girl.flac:14446b1081358ffb92b156544bcb7b9a
-04 mr. jones.flac:7af8946c48396f38445df79bc41ae2a4
-05 recovering the satellites.flac:27cab189521e322d1a377c6f51c11c4e
-06 speedway.flac:de140582bbd1b4635ac5b2922092a876
-07 omaha.flac:3513b2d950d97c118208848d8d59185e
-08 st robinson.flac:7c69cdcec7b6c211401a73a02ecda85a
-09 rain king (thunder road).flac:c5273c0f17f45c9441ba66f88c28a5af
-10 hangin' around.flac:e4e14167d1c0f85814a2eb50000d26ed
-11 sullivan street.flac:0bec33104e6e9f5cb9af5723d286ebc3
-12 a long december.flac:90d1ad6ef40e345e4aa66f1dcc505a68
+Counting Crows
+Aug 19, 2000
+Jones Beach Theater, Wantagh, NY
+
+CDR > EAC > WAV > FLAC
+Fair Audience Recording
+
+ 1 Round Here
+ 2 Angels Of The Silences
+ 3 I Wish I Was A Girl
+ 4 Mr. Jones
+ 5 Recovering The Satellites
+ 6 Speedway
+ 7 Omaha
+ 8 St. Robinson
+ 9 Rain King (Thunder Road)
+10 Hangin' Around
+11 Sullivan Street -- has some skips, that's how i got it.
+12 A Long December
+13 A Murder Of One -- not on the disc i have, but was played
+

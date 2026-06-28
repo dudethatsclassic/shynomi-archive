@@ -768,7 +768,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "1995-02-15 - Paris, France - Arte TV Studios - Black Session-Velver Jungle Session [Silver].txt"
+      "textFile": "1995-02-15 - Paris, France - Arte TV Top Live (2024 Goody) [FM].txt"
     },
     {
       "year": 1995,
@@ -782,7 +782,7 @@ const ARTIST_DATA = {
       "notes": "2024 Goody",
       "version": "TV",
       "format": "FLAC",
-      "textFile": "1995-02-15 - Paris, France - Arte TV Top Live (2024 Goody) [FM].txt"
+      "textFile": "1995-02-15 - Paris, France - Arte TV Studios - Black Session-Velver Jungle Session [Silver].txt"
     },
     {
       "year": 1995,

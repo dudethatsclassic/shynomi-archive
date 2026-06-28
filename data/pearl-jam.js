@@ -413,7 +413,7 @@ const ARTIST_DATA = {
       "notes": "jwb",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "pj1991-10-06.fm.flac.txt"
+      "textFile": "pj1991-10-06.pre-fm.flac.txt"
     },
     {
       "year": 1991,
@@ -427,7 +427,7 @@ const ARTIST_DATA = {
       "notes": "CD(M)",
       "version": "Silver CD",
       "format": "",
-      "textFile": "pj1991-10-06.pre-fm.flac.txt"
+      "textFile": "pj1991-10-06.sbd.remaster.flac.txt"
     },
     {
       "year": 1991,
@@ -441,7 +441,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "preFM",
       "format": "FLAC",
-      "textFile": "pj1991-10-06.sbd.remaster.flac.txt"
+      "textFile": "pj1991-10-06.ww1.flac.txt"
     },
     {
       "year": 1991,
@@ -455,7 +455,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "pj1991-10-06.ww1.flac.txt"
+      "textFile": "pj1991-10-06.fm.flac.txt"
     },
     {
       "year": 1991,
@@ -1278,7 +1278,7 @@ const ARTIST_DATA = {
       "notes": "VHS(M) \u00b7 inc",
       "version": "TV",
       "format": "FLAC",
-      "textFile": "pj1992-02-15 - Madrid, Spain - Revolver (PRO) - VHS(M) [DVD].txt"
+      "textFile": "pj1992-02-15.tv.flac.txt"
     },
     {
       "year": 1992,
@@ -1292,7 +1292,7 @@ const ARTIST_DATA = {
       "notes": "VHS(M)",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "pj1992-02-15.tv.flac.txt"
+      "textFile": "pj1992-02-15 - Madrid, Spain - Revolver (PRO) - VHS(M) [DVD].txt"
     },
     {
       "year": 1992,
@@ -1530,7 +1530,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "preFM",
       "format": "FLAC",
-      "textFile": "pj1992-03-04 - Ultrecht, The Netherlands - Tivoli (Soundcheck) (PRO) [DVD].txt"
+      "textFile": "pj1992-03-04 - Utrecht, The Netherlands (DVD).txt"
     },
     {
       "year": 1992,
@@ -1544,7 +1544,7 @@ const ARTIST_DATA = {
       "notes": "jwb remaster \u00b7 SBD Remaster Series 2012",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "pj1992-03-04 - Utrecht, The Netherlands (DVD).txt"
+      "textFile": "pj1992-03-04.prefm.flac.txt"
     },
     {
       "year": 1992,
@@ -1558,7 +1558,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 20th Anniversary Edition",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "pj1992-03-04.prefm.flac.txt"
+      "textFile": "pj1992-03-04.sbd.remaster.flac.txt"
     },
     {
       "year": 1992,
@@ -1572,7 +1572,7 @@ const ARTIST_DATA = {
       "notes": "Soundcheck",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "pj1992-03-04.sbd.remaster.flac.txt"
+      "textFile": "pj1992-03-04 - Ultrecht, The Netherlands - Tivoli (Soundcheck) (PRO) [DVD].txt"
     },
     {
       "year": 1992,
@@ -1711,7 +1711,7 @@ const ARTIST_DATA = {
       "notes": "MTV \u00b7 dgr remaster",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "pj1992-03-16 - Queens, NY - Kaufman Astoria Studios - MTV Unplugged (PRO) - VHS(1) [DVD].txt"
+      "textFile": "pj1992-03-16.dsbd.deq.txt"
     },
     {
       "year": 1992,
@@ -1725,7 +1725,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "TV",
       "format": "DVD",
-      "textFile": "pj1992-03-16.dsbd.deq.txt"
+      "textFile": "pj1992-03-16 - Queens, NY - Kaufman Astoria Studios - MTV Unplugged (PRO) - VHS(1) [DVD].txt"
     },
     {
       "year": 1992,
@@ -1808,7 +1808,7 @@ const ARTIST_DATA = {
       "notes": "FM/CDR) \u00b7 rob sierzega transfer",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "pj1992-03-28 - Chicago, IL - Cabaret Metro (AUD) [DVD].txt"
+      "textFile": "pj1992-03-28.fm.flac.txt"
     },
     {
       "year": 1992,
@@ -1822,7 +1822,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "pj1992-03-28.fm.flac.txt"
+      "textFile": "pj1992-03-28 - Chicago, IL - Cabaret Metro (AUD) [DVD].txt"
     },
     {
       "year": 1992,
@@ -3523,7 +3523,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 metallican",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "pj1993-06-28 - Stockholm, Sweden - Sjo\u0308historiska Museet - VHS(1) (travisbickle1963 2022 transfer) (AMT #1) [MKV].txt"
+      "textFile": "pj1993-06-28.marantz.flac.txt"
     },
     {
       "year": 1993,
@@ -3537,7 +3537,7 @@ const ARTIST_DATA = {
       "notes": "1G \u00b7 per-erik",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "pj1993-06-28.marantz.flac.txt"
+      "textFile": "pj1993-06-28.vhs1.travisbickle63.upgrade.dvd.txt"
     },
     {
       "year": 1993,
@@ -3551,7 +3551,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 travisbickle1963 2022 transfer",
       "version": "AMT #1",
       "format": "MKV",
-      "textFile": "pj1993-06-28.vhs1.travisbickle63.upgrade.dvd.txt"
+      "textFile": "pj1993-06-28 - Stockholm, Sweden - Sjo\u0308historiska Museet - VHS(1) (travisbickle1963 2022 transfer) (AMT #1) [MKV].txt"
     },
     {
       "year": 1993,
@@ -3845,7 +3845,7 @@ const ARTIST_DATA = {
       "notes": "KTS-221",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "pj1993-07-16&17.fm.deq.swap.flac.txt"
+      "textFile": "pj1993-07-16-17.sbd.remaster.flac.txt"
     },
     {
       "year": 1993,
@@ -3859,7 +3859,7 @@ const ARTIST_DATA = {
       "notes": "Villa \u00b7 magnix",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "pj1993-07-16-17.sbd.remaster.flac.txt"
+      "textFile": "pj1993-07-16&17.fm.deq.swap.flac.txt"
     },
     {
       "year": 1993,
@@ -5173,7 +5173,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "preFM",
       "format": "FLAC",
-      "textFile": "pj1994-04-03.dsbd.flac.txt"
+      "textFile": "pj1994-04-03.sv016.flac.txt"
     },
     {
       "year": 1994,
@@ -5201,7 +5201,7 @@ const ARTIST_DATA = {
       "notes": "jwb remaster \u00b7 SBD Remaster Series 2012",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "pj1994-04-03.sbd.remaster.flac.txt"
+      "textFile": "pj1994-04-03.dsbd.flac.txt"
     },
     {
       "year": 1994,
@@ -5215,7 +5215,7 @@ const ARTIST_DATA = {
       "notes": "SV016",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "pj1994-04-03.sv016.flac.txt"
+      "textFile": "pj1994-04-03.sbd.remaster.flac.txt"
     },
     {
       "year": 1994,
@@ -5411,7 +5411,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "pj1994-04-16 - New York, NY - SNL (PRO) [DVD].txt"
+      "textFile": "pj1994-04-16.bootcd.flac.txt"
     },
     {
       "year": 1994,
@@ -5425,7 +5425,7 @@ const ARTIST_DATA = {
       "notes": "jason a",
       "version": "TV",
       "format": "FLAC",
-      "textFile": "pj1994-04-16.bootcd.flac.txt"
+      "textFile": "pj1994-04-16.tv.flac.txt"
     },
     {
       "year": 1994,
@@ -5439,7 +5439,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "pj1994-04-16.tv.flac.txt"
+      "textFile": "pj1994-04-16 - New York, NY - SNL (PRO) [DVD].txt"
     },
     {
       "year": 1994,
@@ -5509,7 +5509,7 @@ const ARTIST_DATA = {
       "notes": "Bridge",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "pj1994-10-02 - Mountain View, CA - Shoreline Amphitheatre - Bridge School Benefit [PRO].txt"
+      "textFile": "pj1994-10-02.sbd.flac.txt"
     },
     {
       "year": 1994,
@@ -5523,7 +5523,7 @@ const ARTIST_DATA = {
       "notes": "Bridge",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "pj1994-10-02.sbd.flac.txt"
+      "textFile": "pj1994-10-02 - Mountain View, CA - Shoreline Amphitheatre - Bridge School Benefit [PRO].txt"
     },
     {
       "year": 1995,
@@ -5537,7 +5537,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "preFM",
       "format": "FLAC",
-      "textFile": "pj1995-01-08 - Seattle, WA - Self Pollution Radio (Webrip) [DVD].txt"
+      "textFile": "pj1995-01-08.pre-fm.flac.txt"
     },
     {
       "year": 1995,
@@ -5551,7 +5551,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "WEB",
       "format": "DVD",
-      "textFile": "pj1995-01-08.pre-fm.flac.txt"
+      "textFile": "pj1995-01-08 - Seattle, WA - Self Pollution Radio (Webrip) [DVD].txt"
     },
     {
       "year": 1995,
@@ -6111,7 +6111,7 @@ const ARTIST_DATA = {
       "notes": "Marcsounds (fge",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "pj1995-06-16 - Casper, WI - Casper Events Center (PRO) - Hi8(M) [DVD].txt"
+      "textFile": "pj1995-06-16.mix.flac.txt"
     },
     {
       "year": 1995,
@@ -6125,7 +6125,7 @@ const ARTIST_DATA = {
       "notes": "Hi8(M) \u00b7 2 cam mix",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "pj1995-06-16.mix.flac.txt"
+      "textFile": "pj1995-06-16 - Casper, WI - Casper Events Center (PRO) - Hi8(M) [DVD].txt"
     },
     {
       "year": 1995,
@@ -6139,7 +6139,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 SS \u00b7 cps",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "pj1995-06-19 - Morrison, CO - Red Rocks Amphitheatre (PRO) - Hi8(M) [DVD].txt"
+      "textFile": "pj1995-06-19.dsm6.flac.txt"
     },
     {
       "year": 1995,
@@ -6153,7 +6153,7 @@ const ARTIST_DATA = {
       "notes": "Hi8(M)",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "pj1995-06-19.dsm6.flac.txt"
+      "textFile": "pj1995-06-19 - Morrison, CO - Red Rocks Amphitheatre (PRO) - Hi8(M) [DVD].txt"
     },
     {
       "year": 1995,
@@ -6167,7 +6167,7 @@ const ARTIST_DATA = {
       "notes": "SV014 \u00b7 3 source mix \u00b7 fred evans remaster",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "pj1995-06-20 - Morrison, CO - Red Rocks Amphitheatre - Hi8(M) (PRO) [DVD].txt"
+      "textFile": "pj1995-06-20.marcsounds.flac16.txt"
     },
     {
       "year": 1995,
@@ -6181,7 +6181,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 MarcSounds \u00b7 mr",
       "version": "AUD (48k)",
       "format": "FLAC",
-      "textFile": "pj1995-06-20.marcsounds.flac16.txt"
+      "textFile": "pj1995-06-20.sv014.flac.txt"
     },
     {
       "year": 1995,
@@ -6195,7 +6195,7 @@ const ARTIST_DATA = {
       "notes": "Hi8(M)",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "pj1995-06-20.sv014.flac.txt"
+      "textFile": "pj1995-06-20 - Morrison, CO - Red Rocks Amphitheatre - Hi8(M) (PRO) [DVD].txt"
     },
     {
       "year": 1995,
@@ -6639,7 +6639,7 @@ const ARTIST_DATA = {
       "notes": "SV055",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "pj1995-11-06 - San Diego, CA - Sports Arena - DAT(M) [AUD].txt"
+      "textFile": "pj1995-11-06 - San Diego, CA - Sports Arena [DVD].txt"
     },
     {
       "year": 1995,
@@ -6653,7 +6653,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 third eye",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "pj1995-11-06 - San Diego, CA - Sports Arena [DVD].txt"
+      "textFile": "pj1995-11-06 - San Diego, CA - Sports Arena - DAT(M) [AUD].txt"
     },
     {
       "year": 1995,
@@ -7141,7 +7141,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps/Pro Video mix",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "pj1996-10-19 - Mountain View, CA - Shoreline Amphitheatre (PRO) [DVD].txt"
+      "textFile": "pj1996-10-19.mix.flac.txt"
     },
     {
       "year": 1996,
@@ -7155,7 +7155,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "pj1996-10-19.mix.flac.txt"
+      "textFile": "pj1996-10-19.sbd.flac.txt"
     },
     {
       "year": 1996,
@@ -7169,7 +7169,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "pj1996-10-19.sbd.flac.txt"
+      "textFile": "pj1996-10-19 - Mountain View, CA - Shoreline Amphitheatre (PRO) [DVD].txt"
     },
     {
       "year": 1996,
@@ -7225,7 +7225,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 Schoeps MK4 \u00b7 ted mattes",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "pj1996-10-20.nighttwo.proshot.txt"
+      "textFile": "pj1996-10-20.unk.flac.txt"
     },
     {
       "year": 1996,
@@ -7238,8 +7238,7 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "pj1996-10-20.unk.flac.txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -7252,7 +7251,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "Night Two",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "pj1996-10-20.nighttwo.proshot.txt"
     },
     {
       "year": 1996,
@@ -7854,7 +7854,7 @@ const ARTIST_DATA = {
       "notes": "SS-DSM6P",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "pj1997-11-15 - Oakland, CA - Oakland Stadium (Inc. Pro) [DVD].txt"
+      "textFile": "pj1997-11-15.dsm-6p.flac.txt"
     },
     {
       "year": 1997,
@@ -7868,7 +7868,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "pj1997-11-15.dsm-6p.flac.txt"
+      "textFile": "pj1997-11-15.schoeps.flac.rtf"
     },
     {
       "year": 1997,
@@ -7882,7 +7882,7 @@ const ARTIST_DATA = {
       "notes": "inc",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "pj1997-11-15.schoeps.flac.rtf"
+      "textFile": "pj1997-11-15 - Oakland, CA - Oakland Stadium (Inc. Pro) [DVD].txt"
     },
     {
       "year": 1997,
@@ -8916,8 +8916,7 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "notes": "Vault #6",
       "version": "SBD",
-      "format": "FLAC HD",
-      "textFile": "pj1998-07-13.mix.flac.txt"
+      "format": "FLAC HD"
     },
     {
       "year": 1998,
@@ -8930,7 +8929,8 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "notes": "ALD + AKG \u00b7 blg mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-13.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -10456,7 +10456,7 @@ const ARTIST_DATA = {
       "notes": "SV040 \u00b7 2 source mix",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "pj2000-06-22 - Milan, Italy - Fila Forum Arena (DCR-TR7000) - AUD(M) [DVD].txt"
+      "textFile": "pj2000-06-22.sv040.flac.txt"
     },
     {
       "year": 2000,
@@ -10470,7 +10470,7 @@ const ARTIST_DATA = {
       "notes": "AUD(M) \u00b7 DCR-TR7000",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "pj2000-06-22.sv040.flac.txt"
+      "textFile": "pj2000-06-22 - Milan, Italy - Fila Forum Arena (DCR-TR7000) - AUD(M) [DVD].txt"
     },
     {
       "year": 2000,
@@ -11542,8 +11542,7 @@ const ARTIST_DATA = {
       "venue": "Groundwork 2001 Benefit *Groundwork",
       "notes": "SV048",
       "version": "WEB",
-      "format": "FLAC",
-      "textFile": "pj2001-10-22 - Seattle, WA - Key Arena - Groundworks Benefit - AUD(M) [DVD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -11556,7 +11555,8 @@ const ARTIST_DATA = {
       "venue": "Groundwork 2001 Benefit",
       "notes": "AUD(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2001-10-22 - Seattle, WA - Key Arena - Groundworks Benefit - AUD(M) [DVD].txt"
     },
     {
       "year": 2001,
@@ -11694,7 +11694,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps + Sony DCR-TR7000",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "pj2002-12-09 - Seattle, WA - Key Arena - AUD(M) (leehro) [DVD].txt"
+      "textFile": "pj2002-12-09.mix.flac.txt"
     },
     {
       "year": 2002,
@@ -11708,7 +11708,7 @@ const ARTIST_DATA = {
       "notes": "AUD(M) \u00b7 leehro",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "pj2002-12-09.mix.flac.txt"
+      "textFile": "pj2002-12-09 - Seattle, WA - Key Arena - AUD(M) (leehro) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11899,7 +11899,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "pj2003-02-20 - Melbourne, Australia - Rod Laver Arena - AUD(M) [DVD].txt"
+      "textFile": "pj2003-02-20.fm.cassette.flac.txt"
     },
     {
       "year": 2003,
@@ -11913,7 +11913,7 @@ const ARTIST_DATA = {
       "notes": "AUD(M)",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "pj2003-02-20.fm.cassette.flac.txt"
+      "textFile": "pj2003-02-20 - Melbourne, Australia - Rod Laver Arena - AUD(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -12163,8 +12163,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "pj2003-04-12 - Lake Buena Vista, FL - House of Blues (PRO) [DVD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -12191,7 +12190,8 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2003-04-12 - Lake Buena Vista, FL - House of Blues (PRO) [DVD].txt"
     },
     {
       "year": 2003,
@@ -13584,7 +13584,7 @@ const ARTIST_DATA = {
       "notes": "SV076 \u00b7 blg + leehro",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "pj2004-10-11 - Washington, DC - MCI Center - TV(M) (PRO #1) [DVD].txt"
+      "textFile": "pj2004-10-11.sv076.flac.txt"
     },
     {
       "year": 2004,
@@ -13598,7 +13598,7 @@ const ARTIST_DATA = {
       "notes": "TV(M)",
       "version": "PRO #1",
       "format": "DVD",
-      "textFile": "pj2004-10-11.sv076.flac.txt"
+      "textFile": "pj2004-10-11 - Washington, DC - MCI Center - TV(M) (PRO #1) [DVD].txt"
     },
     {
       "year": 2005,
@@ -14119,7 +14119,7 @@ const ARTIST_DATA = {
       "notes": "AUD(M)",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "pj2005-11-22 - Santiago, Chile (1st night) Pro-Shot DVD.txt"
+      "textFile": "pj2005-11-22 - Santiago, Chile - San Carlos De Apoguindo Stadium - AUD(M) [DVD].txt"
     },
     {
       "year": 2005,
@@ -14133,7 +14133,7 @@ const ARTIST_DATA = {
       "notes": "Master",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "pj2005-11-22 - Santiago, Chile - San Carlos De Apoguindo Stadium - AUD(M) [DVD].txt"
+      "textFile": "pj2005-11-22 - Santiago, Chile (1st night) Pro-Shot DVD.txt"
     },
     {
       "year": 2005,
@@ -14335,8 +14335,7 @@ const ARTIST_DATA = {
       "venue": "Pacaembu",
       "notes": "",
       "version": "TV",
-      "format": "DVD",
-      "textFile": "pj2005-12-03 - Sao Paulo, Brazil - Pacaembu Stadium - AUD(M) [DVD].txt"
+      "format": "DVD"
     },
     {
       "year": 2005,
@@ -14349,7 +14348,8 @@ const ARTIST_DATA = {
       "venue": "Pacaembu",
       "notes": "AUD(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2005-12-03 - Sao Paulo, Brazil - Pacaembu Stadium - AUD(M) [DVD].txt"
     },
     {
       "year": 2005,
@@ -14451,7 +14451,7 @@ const ARTIST_DATA = {
       "notes": "Studio X \u00b7 mam1680",
       "version": "WEB",
       "format": "FLAC",
-      "textFile": "pj2006-02-27 - AOL Sessions (PRO) [DVD].txt"
+      "textFile": "pj2006-02-27.web.flac.txt"
     },
     {
       "year": 2006,
@@ -14465,7 +14465,7 @@ const ARTIST_DATA = {
       "notes": "Studio X",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "pj2006-02-27.web.flac.txt"
+      "textFile": "pj2006-02-27 - AOL Sessions (PRO) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14479,7 +14479,7 @@ const ARTIST_DATA = {
       "notes": "Late \u00b7 leehro",
       "version": "TV",
       "format": "FLAC",
-      "textFile": "pj2006-04-05 - New York , NY - Ed Sullivan Theater (PRO) [DVD].txt"
+      "textFile": "pj2006-04-05.tv.flac.txt"
     },
     {
       "year": 2006,
@@ -14493,7 +14493,7 @@ const ARTIST_DATA = {
       "notes": "Late",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "pj2006-04-05.tv.flac.txt"
+      "textFile": "pj2006-04-05 - New York , NY - Ed Sullivan Theater (PRO) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14507,7 +14507,7 @@ const ARTIST_DATA = {
       "notes": "2 channel",
       "version": "TV",
       "format": "FLAC",
-      "textFile": "pj2006-04-15 - New York, NY - SNL (PRO) [DVD].txt"
+      "textFile": "pj2006-04-15.tv.2ch.flac.txt"
     },
     {
       "year": 2006,
@@ -14521,7 +14521,7 @@ const ARTIST_DATA = {
       "notes": "6 channel",
       "version": "TV",
       "format": "FLAC",
-      "textFile": "pj2006-04-15.tv.2ch.flac.txt"
+      "textFile": "pj2006-04-15.tv.6ch.flac.txt"
     },
     {
       "year": 2006,
@@ -14535,7 +14535,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "pj2006-04-15.tv.6ch.flac.txt"
+      "textFile": "pj2006-04-15 - New York, NY - SNL (PRO) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14591,7 +14591,7 @@ const ARTIST_DATA = {
       "notes": "Sony D8 DAT Walkman + CSB",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "pj2006-05-05 - London, UK - Later With Jools Holland (PRO) [DVD].txt"
+      "textFile": "pj2006-05-05.csb.flac.txt"
     },
     {
       "year": 2006,
@@ -14604,8 +14604,7 @@ const ARTIST_DATA = {
       "venue": "Irving Plaza",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "pj2006-05-05.csb.flac.txt"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -14618,7 +14617,8 @@ const ARTIST_DATA = {
       "venue": "Irving Plaza",
       "notes": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2006-05-05 - London, UK - Later With Jools Holland (PRO) [DVD].txt"
     },
     {
       "year": 2006,
@@ -15347,8 +15347,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2006-07-16 - San Francisco, CA - Bill Graham Civic Auditorium.txt",
-      "official": true
+      "textFile": "pj2006-07-16 - San Francisco, CA - Bill Graham Civic Auditorium - DV(M) [DVD].txt"
     },
     {
       "year": 2006,
@@ -15362,7 +15361,8 @@ const ARTIST_DATA = {
       "notes": "DV(M)",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "pj2006-07-16 - San Francisco, CA - Bill Graham Civic Auditorium - DV(M) [DVD].txt"
+      "textFile": "2006-07-16 - San Francisco, CA - Bill Graham Civic Auditorium.txt",
+      "official": true
     },
     {
       "year": 2006,
@@ -15376,8 +15376,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2006-07-18 - San Francisco, CA - Bill Graham Civic Auditorium.txt",
-      "official": true
+      "textFile": "pj2006-07-18 - San Francisco, CA - BG Civic Auditorium - AUD(M) (release coalition) [DVD].txt"
     },
     {
       "year": 2006,
@@ -15391,7 +15390,8 @@ const ARTIST_DATA = {
       "notes": "AUD(M) \u00b7 release coalition",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "pj2006-07-18 - San Francisco, CA - BG Civic Auditorium - AUD(M) (release coalition) [DVD].txt"
+      "textFile": "2006-07-18 - San Francisco, CA - Bill Graham Civic Auditorium.txt",
+      "official": true
     },
     {
       "year": 2006,
@@ -16394,7 +16394,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "pj2007-06-08 - Lisbon, Portugal - Alive Festival (PRO) [DVD].txt"
+      "textFile": "pj2007-06-08.unk.flac.txt"
     },
     {
       "year": 2007,
@@ -16407,8 +16407,7 @@ const ARTIST_DATA = {
       "venue": "Passeio Maritimo Alges",
       "notes": "",
       "version": "TV",
-      "format": "AVI",
-      "textFile": "pj2007-06-08.unk.flac.txt"
+      "format": "AVI"
     },
     {
       "year": 2007,
@@ -16421,7 +16420,8 @@ const ARTIST_DATA = {
       "venue": "Passeio Maritimo Alges",
       "notes": "Alive",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2007-06-08 - Lisbon, Portugal - Alive Festival (PRO) [DVD].txt"
     },
     {
       "year": 2007,
@@ -16617,7 +16617,7 @@ const ARTIST_DATA = {
       "notes": "Radio Bremen 4",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "pj2007-06-24 - Scheessel, Germany - Hurricane Festival (PRO) [DVD].txt"
+      "textFile": "pj2007-06-24.fm.flac.txt"
     },
     {
       "year": 2007,
@@ -16631,7 +16631,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 5 cam mix",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "pj2007-06-24.fm.flac.txt"
+      "textFile": "pj2007-06-24.mix.flac.txt"
     },
     {
       "year": 2007,
@@ -16645,7 +16645,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "pj2007-06-24.mix.flac.txt"
+      "textFile": "pj2007-06-24 - Scheessel, Germany - Hurricane Festival (PRO) [DVD].txt"
     },
     {
       "year": 2007,
@@ -17833,7 +17833,7 @@ const ARTIST_DATA = {
       "notes": "2ch \u00b7 unk",
       "version": "TV",
       "format": "FLAC",
-      "textFile": "pj2010-03-13 - New York, NY - Saturday Night Live (PRO) [DVD].txt"
+      "textFile": "pj2010-03-13.tv.2ch.flac.txt"
     },
     {
       "year": 2010,
@@ -17847,7 +17847,7 @@ const ARTIST_DATA = {
       "notes": "6ch \u00b7 unk",
       "version": "TV",
       "format": "FLAC",
-      "textFile": "pj2010-03-13.tv.2ch.flac.txt"
+      "textFile": "pj2010-03-13.tv.6ch.flac.txt"
     },
     {
       "year": 2010,
@@ -17861,7 +17861,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "pj2010-03-13.tv.6ch.flac.txt"
+      "textFile": "pj2010-03-13 - New York, NY - Saturday Night Live (PRO) [DVD].txt"
     },
     {
       "year": 2010,
@@ -18695,7 +18695,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "pj2011-09-07 - Montreal, Quebec - Bell Centre (AUD) [DVD].txt"
+      "textFile": "pj2011-09-07.ecm-ds70.pbelle.flac16.txt"
     },
     {
       "year": 2011,
@@ -18709,7 +18709,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "pj2011-09-07.ecm-ds70.pbelle.flac16.txt"
+      "textFile": "pj2011-09-07 - Montreal, Quebec - Bell Centre (AUD) [DVD].txt"
     },
     {
       "year": 2011,
@@ -22176,8 +22176,7 @@ const ARTIST_DATA = {
       "venue": "Safeco Field",
       "notes": "nugs.tv rip",
       "version": "PRO",
-      "format": "MP4",
-      "textFile": "pj2018-08-08 - Seattle, WA - Safeco Field (Sennheiser AMBEO) (bfoq) [AUD24].txt"
+      "format": "MP4"
     },
     {
       "year": 2018,
@@ -22190,7 +22189,8 @@ const ARTIST_DATA = {
       "venue": "Safeco Field",
       "notes": "Sennheiser AMBEO \u00b7 bfoq",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "pj2018-08-08 - Seattle, WA - Safeco Field (Sennheiser AMBEO) (bfoq) [AUD24].txt"
     },
     {
       "year": 2018,

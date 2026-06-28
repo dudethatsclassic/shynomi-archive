@@ -350,7 +350,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1981-11-24 - Madison, WI - Merlyns [AUD].txt"
+      "textFile": "1981-11-24 - Madison, WI - Merlyns [AUD #2].txt"
     },
     {
       "year": 1981,
@@ -364,7 +364,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #2",
       "format": "",
-      "textFile": "1981-11-24 - Madison, WI - Merlyns [AUD #2].txt"
+      "textFile": "1981-11-24 - Madison, WI - Merlyns [AUD].txt"
     },
     {
       "year": 1981,
@@ -532,7 +532,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Silver CD",
       "format": "2 sources",
-      "textFile": "1982-07-02 - Marietta, GA - The Strand Cabaret - Do the Strand [Silver].txt"
+      "textFile": "1982-07-02 - Marietta, GA - Strand Cabaret [AUD].txt"
     },
     {
       "year": 1982,
@@ -657,7 +657,7 @@ const ARTIST_DATA = {
       "notes": "Radio \u00b7 speed corrected",
       "version": "FM",
       "format": "2 sources",
-      "textFile": "1982-10-02 - Trenton, NJ - City Gardens - Radio Broadcast (Incomplete) [FM].txt"
+      "textFile": "1982-10-02 - Trenton, NJ - City Gardens (Speed Corrected) [FM].txt"
     },
     {
       "year": 1982,
@@ -685,7 +685,7 @@ const ARTIST_DATA = {
       "notes": "The",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "1982-10-10 - Raleigh, NC - The Pier [DVD].txt"
+      "textFile": "1982-10-10 - Raleigh, NC - Rave On - The Pier [AUD].txt"
     },
     {
       "year": 1982,
@@ -853,7 +853,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "",
-      "textFile": "1983-03-12 - Washington, D.C. - Nightclub 930 - The Sound and The Fury) [SBD].txt"
+      "textFile": "1983-03-12 - Washington, D.C. - 930 Club - The Sound and the Fury [Silver].txt"
     },
     {
       "year": 1983,
@@ -908,7 +908,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "Remaster",
-      "textFile": "1983-04-26 - Farmingdale, NY - Spize Club [AUD].txt"
+      "textFile": "1983-04-26 - Farmingdale, NY - Spize (Reworked) [AUD].txt"
     },
     {
       "year": 1983,
@@ -1104,7 +1104,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Silver CD",
       "format": "3 sources",
-      "textFile": "1983-07-09 - Toronto, Canada - Larry's Hideaway [Silver].txt"
+      "textFile": "1983-07-09 - Toronto, Canada - Larry's Hideaway (Remastered) [Silver].txt"
     },
     {
       "year": 1983,
@@ -1314,7 +1314,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "3 sources",
-      "textFile": "1983-10-15 - Waterville, ME - Wadsworth Gymnasium Colby College [AUD].txt"
+      "textFile": "1983-10-15 - Waterville, ME - Wadsworth Gymnasium Colby College (Psycherelics) [AUD24].txt"
     },
     {
       "year": 1983,
@@ -1369,7 +1369,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "1983-10-31 - New York, NY - Peppermint Lounge [AUD].txt"
+      "textFile": "1983-10-31 - New York, NY - Peppermint Lounge (Version 3) [AUD].txt"
     },
     {
       "year": 1983,
@@ -1579,7 +1579,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "2 sources",
-      "textFile": "1984-06-09 - Passaic, NJ - Capitol Theater (analogloyalist) [SBD] .txt"
+      "textFile": "1984-06-09 - Passaic, NJ - Capital Theater [AUD].txt"
     },
     {
       "year": 1984,
@@ -1677,7 +1677,7 @@ const ARTIST_DATA = {
       "notes": "REM-16",
       "version": "SBD",
       "format": "",
-      "textFile": "1984-06-27 - Seattle, WA - Music Hall - The Source WLUP FM 10.5 (krw_co transfer) [FM24].txt"
+      "textFile": "1984-06-27 - Seattle, WA - Music Hall [SBD].txt"
     },
     {
       "year": 1984,
@@ -1691,7 +1691,7 @@ const ARTIST_DATA = {
       "notes": "The \u00b7 krw_co transfer",
       "version": "FM",
       "format": "",
-      "textFile": "1984-06-27 - Seattle, WA - Music Hall [SBD].txt"
+      "textFile": "1984-06-27 - Seattle, WA - Music Hall - The Source WLUP FM 10.5 (krw_co transfer) [FM24].txt"
     },
     {
       "year": 1984,
@@ -1885,7 +1885,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1984-07-22 - New York, NY - Beacon Theatre [AUD].txt"
+      "textFile": "1984-07-22 - New York, NY - Beacon Theater[AUD2].txt"
     },
     {
       "year": 1984,
@@ -2066,7 +2066,7 @@ const ARTIST_DATA = {
       "notes": "Duke",
       "version": "SBD",
       "format": "2 sources",
-      "textFile": "1984-09-25 - Durham, NC - Page Auditorium [AUD].txt"
+      "textFile": "1984-09-25 - Durham, NC - Page Auditorium - Duke University [SBD].txt"
     },
     {
       "year": 1984,
@@ -2149,7 +2149,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "2 sources",
-      "textFile": "1984-09-29 - Boca Raton, FL - Florida Atlantic University [SBD].txt"
+      "textFile": "1984-09-29 - Boca Raton, FL - Auditorium - University Center - Florida Atlantic University [SBD].txt"
     },
     {
       "year": 1984,
@@ -2247,7 +2247,7 @@ const ARTIST_DATA = {
       "notes": "remaster",
       "version": "AUD",
       "format": "",
-      "textFile": "1984-11-10 - Yokohama, Japan - Yokohama Kokuritsu Daigaku [AUD].txt"
+      "textFile": "1984-11-10 - Yokohama, Japan - Yokohama Kokuritsu Daigaku (Dream Remaster) [AUD].txt"
     },
     {
       "year": 1984,
@@ -2774,7 +2774,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1-2",
       "format": "3 sources",
-      "textFile": "1985-07-20 - Berkeley, CA - Greek Theater (AKG C-33e) (unk) (slipkid68) [AUD24].txt"
+      "textFile": "1985-07-20 - Berkeley, CA - Greek Theatre (2020 Transfer) [AUD].txt"
     },
     {
       "year": 1985,
@@ -2788,7 +2788,7 @@ const ARTIST_DATA = {
       "notes": "AKG C-33e \u00b7 unk \u00b7 slipkid68",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-07-20 - Berkeley, CA - Greek Theatre (2020 Transfer) [AUD].txt"
+      "textFile": "1985-07-20 - Berkeley, CA - Greek Theater (AKG C-33e) (unk) (slipkid68) [AUD24].txt"
     },
     {
       "year": 1985,
@@ -2885,7 +2885,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "",
-      "textFile": "1985-08-10 - Detroit, MI - Fox Theatre  [AUD #1].txt"
+      "textFile": "1985-08-10 - Detroit, MI - Fox Theater [AUD #2].txt"
     },
     {
       "year": 1985,
@@ -2940,7 +2940,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-08-16 - Toronto, Ontario - The Concert Hall  (2021 SBD Edition) [SBD].txt"
+      "textFile": "1985-08-16 - Toronto, Ontario - Toronto Concert Hall [AUD].txt"
     },
     {
       "year": 1985,
@@ -2954,7 +2954,7 @@ const ARTIST_DATA = {
       "notes": "2021 eckythump edition",
       "version": "SBD",
       "format": "",
-      "textFile": "1985-08-16 - Toronto, Ontario - Toronto Concert Hall [AUD].txt"
+      "textFile": "1985-08-16 - Toronto, Ontario - The Concert Hall  (2021 SBD Edition) [SBD].txt"
     },
     {
       "year": 1985,
@@ -3178,7 +3178,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "2 sources",
-      "textFile": "1985-10-01 - Amsterdam, Netherlands - Paradiso [FM Composite].txt"
+      "textFile": "1985-10-01 - Amsterdam, Netherlands - Paradiso (Partial) [FM].txt"
     },
     {
       "year": 1985,
@@ -3234,7 +3234,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "",
-      "textFile": "1985-10-06 - Frankfurt, Germany - Batschkapp (unk) (harwilmer) [AUD].txt"
+      "textFile": "1985-10-06 - Frankfurt, Germany - Batschkapp [AUD #1].txt"
     },
     {
       "year": 1985,
@@ -3248,7 +3248,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-10-06 - Frankfurt, Germany - Batschkapp [AUD #1].txt"
+      "textFile": "1985-10-06 - Frankfurt, Germany - Batschkapp (unk) (harwilmer) [AUD].txt"
     },
     {
       "year": 1985,
@@ -3290,7 +3290,7 @@ const ARTIST_DATA = {
       "notes": "Saarland",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-10-13 - Saarbruecken, W. Germany - Aula der Universitat - ANA(M) (Sony TCS-430) (hanwaker transfer) [AUD24].txt"
+      "textFile": "1985-10-13 - Saarbru\u0308cken, West Germany - Aula - Saarland University [AUD].txt"
     },
     {
       "year": 1985,
@@ -3304,7 +3304,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 Sony TCS-430 \u00b7 hanwaker transfer",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-10-13 - Saarbru\u0308cken, West Germany - Aula - Saarland University [AUD].txt"
+      "textFile": "1985-10-13 - Saarbruecken, W. Germany - Aula der Universitat - ANA(M) (Sony TCS-430) (hanwaker transfer) [AUD24].txt"
     },
     {
       "year": 1985,
@@ -3332,7 +3332,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "3 sources",
-      "textFile": "1985-10-18 - Mannheim, Germany - Alte Feuerwache [MTX].txt"
+      "textFile": "1985-10-18 - Mannheim, Germany - Alte Feuerwache (Stuart Percy) [AUD #1].txt"
     },
     {
       "year": 1985,
@@ -3388,7 +3388,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "1985-10-27 - Birmingham, UK - The Powerhouse (Analog Master Clone via JEMS Archive) [AUD].txt"
+      "textFile": "1985-10-27 - Birmingham, UK - Powerhouse [AUD].txt"
     },
     {
       "year": 1985,
@@ -3430,7 +3430,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "2 sources",
-      "textFile": "1985-10-29 - London, UK - Hammersmith Palais [AUD].txt"
+      "textFile": "1985-10-29 - London , UK - Hammersmith Palais Ballrooom [SBD].txt"
     },
     {
       "year": 1985,
@@ -3863,7 +3863,7 @@ const ARTIST_DATA = {
       "notes": "War",
       "version": "AUD",
       "format": "",
-      "textFile": "1986-10-05 - Vancouver, Canada - War Memorial Gym (JEMS) [AUD].txt"
+      "textFile": "1986-10-05 - Vancouver, BC - University of British Columbia - War Memorial Gymnasium [AUD].txt"
     },
     {
       "year": 1986,
@@ -4087,7 +4087,7 @@ const ARTIST_DATA = {
       "notes": "Roy \u00b7 JEMS transfer",
       "version": "AUD",
       "format": "",
-      "textFile": "1986-10-31 - Burlington, VT - Roy L. Patrick Memorial Gym (JEMS transfer) [AUD].txt"
+      "textFile": "1986-10-31 - Burlington, VT - Patrick Gymnasium [AUD #2].txt"
     },
     {
       "year": 1986,
@@ -4101,7 +4101,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #2",
       "format": "",
-      "textFile": "1986-10-31 - Burlington, VT - Patrick Gymnasium [AUD #2].txt"
+      "textFile": "1986-10-31 - Burlington, VT - Roy L. Patrick Memorial Gym (JEMS transfer) [AUD].txt"
     },
     {
       "year": 1986,
@@ -4157,7 +4157,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1986-11-06 - New York, NY - The Felt Forum [AUD].txt"
+      "textFile": "1986-11-06 - New York, NY - Felt Forum [AUD #2].txt"
     },
     {
       "year": 1986,
@@ -4171,7 +4171,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #2",
       "format": "",
-      "textFile": "1986-11-06 - New York, NY - Felt Forum [AUD #2].txt"
+      "textFile": "1986-11-06 - New York, NY - The Felt Forum [AUD].txt"
     },
     {
       "year": 1986,
@@ -4729,7 +4729,7 @@ const ARTIST_DATA = {
       "notes": "University",
       "version": "AUD",
       "format": "",
-      "textFile": "1987-11-14 - Irvine, CA - Bren Events Center - University Of California [AUD].txt"
+      "textFile": "1987-11-14 - Irvine, CA - Bren Events Center - University Of California [AUD #2].txt"
     },
     {
       "year": 1987,
@@ -4743,7 +4743,7 @@ const ARTIST_DATA = {
       "notes": "University",
       "version": "AUD #2",
       "format": "",
-      "textFile": "1987-11-14 - Irvine, CA - Bren Events Center - University Of California [AUD #2].txt"
+      "textFile": "1987-11-14 - Irvine, CA - Bren Events Center - University Of California [AUD].txt"
     },
     {
       "year": 1987,
@@ -4937,7 +4937,7 @@ const ARTIST_DATA = {
       "notes": "Soundcheck & Show",
       "version": "AUD",
       "format": "",
-      "textFile": "1989-02-12 - Melbourne, Australia - Festival Hall [AUD].txt"
+      "textFile": "1989-02-12 - Melbourne, Australia - Festival Hall - Soundcheck [AUD].txt"
     },
     {
       "year": 1989,
@@ -5174,7 +5174,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1989-04-20 - Philadelphia, PA - The Spectrum [AUD].txt"
+      "textFile": "1989-04-20 - Philadelphia, PA - Spectrum [AUD #2].txt"
     },
     {
       "year": 1989,
@@ -5188,7 +5188,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #2",
       "format": "",
-      "textFile": "1989-04-20 - Philadelphia, PA - Spectrum [AUD #2].txt"
+      "textFile": "1989-04-20 - Philadelphia, PA - The Spectrum [AUD].txt"
     },
     {
       "year": 1989,
@@ -5728,7 +5728,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1989-10-11 - Seattle, WA - Seattle Center Coliseum [AUD].txt"
+      "textFile": "1989-10-11 - Seattle, WA  - Seattle Center Coliseum [AUD].txt"
     },
     {
       "year": 1989,
@@ -5756,7 +5756,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "1989-10-14 - Vancouver, Canada - Pacific Coliseum [AUD].txt"
+      "textFile": "1989-10-14 - Vancouver, BC - Pacific Coliseum (Source 2) [AUD].txt"
     },
     {
       "year": 2989,
@@ -5783,7 +5783,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "2 sources",
-      "textFile": "1989-10-21 - Mountain View, CA - Shoreline Amphitheatre [SBD].txt"
+      "textFile": "1989-10-21 - Mountain View, CA - Shoreline Amphitheatre [AUD].txt"
     },
     {
       "year": 1989,
@@ -5852,7 +5852,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "2 sources",
-      "textFile": "1991-03-12 - Nederhorst den Berg, Holland - Bullet Sound Studios - 2 Meter Sessies [FM].txt"
+      "textFile": "1991-03-12 - Nederhorst den Berg, Holland - 2 Meter Sessies [FM].txt"
     },
     {
       "year": 1991,
@@ -5908,7 +5908,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "1991-03-22 - Milano, Italy - Shocking Club [AUD].txt"
+      "textFile": "1991-03-22 - Milan, Italy - Shocking Club [DVD].txt"
     },
     {
       "year": 1991,
@@ -6104,7 +6104,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Silver CD",
       "format": "2 sources",
-      "textFile": "1992-11-19 - Athens, GA - 40 Watt Club - The Trouble With Michael [AUD].txt"
+      "textFile": "1992-11-19  - Athens, GA - 40 Watt Club - Automatically Live [Silver].txt"
     },
     {
       "year": 1993,
@@ -6200,7 +6200,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1995-01-19 - Sydney, NSW - Entertainment Centre (slipkid68 master transfer) [AUD].txt"
+      "textFile": "1995-01-19 - Sydney, Australia - Entertainment Centre [AUD].txt"
     },
     {
       "year": 1995,
@@ -6911,7 +6911,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1995-07-22 - Slane, Ireland - Slane Castle (AMT VHSC Master) (2020 Transfer) [DVD].txt"
+      "textFile": "1995-07-22 - Slane, Ireland - Slane Castle [AUD].txt"
     },
     {
       "year": 1995,
@@ -6925,7 +6925,7 @@ const ARTIST_DATA = {
       "notes": "derek carroll 2020 master transfer",
       "version": "AMT",
       "format": "",
-      "textFile": "1995-07-22 - Slane, Ireland - Slane Castle [AUD].txt"
+      "textFile": "1995-07-22 - Slane, Ireland - Slane Castle (AMT VHSC Master) (2020 Transfer) [DVD].txt"
     },
     {
       "year": 1995,
@@ -6967,7 +6967,7 @@ const ARTIST_DATA = {
       "notes": "SS-DSM6 \u00b7 soledriver",
       "version": "AUD",
       "format": "",
-      "textFile": "1995-07-26 - Huddersfield, UK - McAlpine Stadium (SS-DSM6) (soledriver) [AUD].txt"
+      "textFile": "1995-07-26 - Huddersfield, UK - Alfred McAlpine Stadium [AUD].txt"
     },
     {
       "year": 1995,
@@ -7260,7 +7260,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "1995-10-13 - Philadelphia, PA - CoreStates Spectrum [AUD].txt"
+      "textFile": "1995-10-13 - Philadelphia, PA - CoreStates Spectrum (Night 2) [DVD].txt"
     },
     {
       "year": 1995,
@@ -7498,7 +7498,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "2 sources",
-      "textFile": "1995-11-18 - Atlanta, GA - The Omni [SBD].txt"
+      "textFile": "1995-11-18 - Atlanta, GA - Omni [AUD].txt"
     },
     {
       "year": 1995,
@@ -7568,7 +7568,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "2 sources",
-      "textFile": "1998-10-21 - New York City, NY - Bowery Ballroom [SBD].txt"
+      "textFile": "1998-10-21  - New York, NY - Bowery Ballroom [DVD].txt"
     },
     {
       "year": 1998,
@@ -7958,7 +7958,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "Remaster",
-      "textFile": "1999-08-11 - Irvine, CA- Irvine Meadows (MK4 Remaster) [AUD].txt"
+      "textFile": "1999-08-11 - Irvine, CA - Irvine Meadows (drumsboy remaster 2020) [AUD].txt"
     },
     {
       "year": 1999,
@@ -7972,7 +7972,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "1999-08-13 - Mountain View, CA - Shoreline Amphitheatre [AUD].txt"
+      "textFile": "1999-08-13 - Mountain View, CA - Shoreline Amphitheatre (mk5) [AUD].txt"
     },
     {
       "year": 1999,
@@ -8069,7 +8069,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "3 sources",
-      "textFile": "1999-09-05 - Camden, NJ - Music Entertainment Center [SBD].txt"
+      "textFile": "1999-09-05 - Camden, NJ - Blockbuster Sony Music Center (drumsboy remaster 2020) [AUD].txt"
     },
     {
       "year": 1999,
@@ -8111,7 +8111,7 @@ const ARTIST_DATA = {
       "notes": "Rock",
       "version": "SBD",
       "format": "3 sources",
-      "textFile": "2001-01-13 - Rio De Janeiro, Brazil - Rock City - Rock in Rio [DVD].txt"
+      "textFile": "2001-01-13 - Rio De Janeiro, Brazil - Rock City - Rock In Rio (REM In Rio) [SBD].txt"
     },
     {
       "year": 2001,
@@ -8886,7 +8886,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2003-09-21 - Austin, TX - Zilker Park [AUD].txt"
+      "textFile": "2003-09-21 - Austin, TX - Austin City Limits Music Festival - Zilker Park [AUD #2].txt"
     },
     {
       "year": 2003,
@@ -8900,7 +8900,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #2",
       "format": "",
-      "textFile": "2003-09-21 - Austin, TX - Austin City Limits Music Festival - Zilker Park [AUD #2].txt"
+      "textFile": "2003-09-21 - Austin, TX - Zilker Park [AUD].txt"
     },
     {
       "year": 2003,
@@ -9301,7 +9301,7 @@ const ARTIST_DATA = {
       "notes": "Vote",
       "version": "MTX",
       "format": "2 sources",
-      "textFile": "2004-10-02 - Cleveland, OH - Gund Arena - Vote for Change [AUD].txt"
+      "textFile": "2004-10-02 - Cleveland, OH - Gund Arena (Laying The Sidewalks) [MTX].txt"
     },
     {
       "year": 2004,
@@ -9900,7 +9900,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2005-02-19 - London, UK - Hammersmith Apollo [AUD].txt"
+      "textFile": "2005-02-19 - London, England - Carling Apollo Hammersmith (Mark B) [AUD].txt"
     },
     {
       "year": 2005,
@@ -10121,7 +10121,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "3 sources",
-      "textFile": "2005-04-03 - Melbourne, Australia - Rod Laver Arena (MD) [AUD].txt"
+      "textFile": "2005-04-03 - Melbourne, Australia - Rod Laver Arena (Amy) [AUD].txt"
     },
     {
       "year": 2005,
@@ -10428,7 +10428,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "MTX",
       "format": "FM",
-      "textFile": "2005-07-16 - London, UK - Hyde Park [MTX].txt"
+      "textFile": "2005-07-16 - London, UK - Hyde Park [AUD].txt"
     },
     {
       "year": 2005,
@@ -10442,7 +10442,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "2 sources",
-      "textFile": "2005-10-08 - Athens, GA - Kingpins [DVD].txt"
+      "textFile": "2005-10-08 - Athens, GA - Kingpin Bowling Alley [SBD].txt"
     },
     {
       "year": 2006,
@@ -10554,7 +10554,7 @@ const ARTIST_DATA = {
       "notes": "SXSW",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2008-03-12 - Austin, TX - Stubbs Barbecue [AUD].txt"
+      "textFile": "2008-03-12 - Austin, TX - Stubbs Barbecue (SXSW) [AUD].txt"
     },
     {
       "year": 2008,
@@ -10708,7 +10708,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2008-05-31 - Berkeley, CA - The Greek Theatre - University Of California at Berkeley [AUD].txt"
+      "textFile": "2008-05-31 - Berkeley, CA - Greek Theatre (CCM4s) [AUD].txt"
     },
     {
       "year": 2008,
@@ -10917,7 +10917,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "WEB",
       "format": "2 sources",
-      "textFile": "2008-07-15 - Dresden, Germany - Elbufer [WEB].txt"
+      "textFile": "2008-07-15 - Dresden, Germany - Elbufer (Incomplete) [WEB].txt"
     },
     {
       "year": 2008,
@@ -10931,7 +10931,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "2 sources",
-      "textFile": "2008-07-16 - Berlin, Germany - Waldbu\u0308hne (DigiSat broadcast) [FM].txt"
+      "textFile": "2008-07-16 - Berlin, Germany - Waldbuhne [AUD].txt"
     },
     {
       "year": 2008,
@@ -11099,7 +11099,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "AUD #2",
-      "textFile": "2008-08-24 - Manchester, UK - Lancashire County Cricket Club [AUD #1].txt"
+      "textFile": "2008-08-24 - Manchester, UK - Lancashire County Cricket Club (ECM-719) [AUD #2].txt"
     },
     {
       "year": 2008,
@@ -11407,7 +11407,7 @@ const ARTIST_DATA = {
       "notes": "Night 1",
       "version": "AUD",
       "format": "PRO",
-      "textFile": "2008-11-03 - Santiago, Chile - Movistar Arena (Night 1) [AUD].txt"
+      "textFile": "2008-11-03 - Santiago, Chile - Arena Santiago [PRO].txt"
     },
     {
       "year": 2008,

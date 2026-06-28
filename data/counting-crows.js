@@ -8343,7 +8343,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2003-11-13 - Chicago, IL - Soundstage (TV) [DVD].txt"
+      "textFile": "2003-11-13 - Chicago, IL - WTTW Studios Soundstage [SBD].txt"
     },
     {
       "year": 2003,
@@ -8357,7 +8357,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "TV",
       "format": "DVD",
-      "textFile": "2003-11-13 - Chicago, IL - WTTW Studios Soundstage [SBD].txt"
+      "textFile": "2003-11-13 - Chicago, IL - Soundstage (TV) [DVD].txt"
     },
     {
       "year": 2003,
@@ -9952,7 +9952,7 @@ const ARTIST_DATA = {
       "notes": "Nissan",
       "version": "WEB",
       "format": "MP3",
-      "textFile": "2008-03-31 - Los Angeles, CA - Fox Studios - Nissan Live Sets (PRO) [DVD].txt"
+      "textFile": "2008-03-31 - Los Angeles, CA - Fox Studios [WEB].txt"
     },
     {
       "year": 2008,
@@ -9966,7 +9966,7 @@ const ARTIST_DATA = {
       "notes": "Nissan",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "2008-03-31 - Los Angeles, CA - Fox Studios [WEB].txt"
+      "textFile": "2008-03-31 - Los Angeles, CA - Fox Studios - Nissan Live Sets (PRO) [DVD].txt"
     },
     {
       "year": 2008,
@@ -13277,8 +13277,7 @@ const ARTIST_DATA = {
       "venue": "Alcatraz",
       "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2014-11-23 - Milano, Italy - Alcatraz (M) (Edirol R09-HR) (lc) [AUD24].txt"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -13292,7 +13291,7 @@ const ARTIST_DATA = {
       "notes": "M \u00b7 Edirol R09-HR \u00b7 lc",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2014-11-23 - Milano, Italy - Alcatraz [AUD].txt"
+      "textFile": "2014-11-23 - Milano, Italy - Alcatraz (M) (Edirol R09-HR) (lc) [AUD24].txt"
     },
     {
       "year": 2014,
@@ -13305,7 +13304,8 @@ const ARTIST_DATA = {
       "venue": "Alcatraz",
       "notes": "Edirol R-09HR \u00b7 zuma66",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-11-23 - Milano, Italy - Alcatraz [AUD].txt"
     },
     {
       "year": 2014,
@@ -13788,8 +13788,7 @@ const ARTIST_DATA = {
       "venue": "Pinkpop Festival",
       "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2015-06-14 - Landgraaf, Netherlands - Pinkpop Festival [FM-LOSSY].txt"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -13802,7 +13801,8 @@ const ARTIST_DATA = {
       "venue": "Pinkpop Festival",
       "notes": "",
       "version": "FM",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2015-06-14 - Landgraaf, Netherlands - Pinkpop Festival [FM-LOSSY].txt"
     },
     {
       "year": 2015,
@@ -13895,8 +13895,7 @@ const ARTIST_DATA = {
       "venue": "Kilmainham Royal Hospital",
       "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2015-06-24 - Macken House, Dublin, IE - FM104 Strawberry Sessions [WEB-LOSSY].txt"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -13909,7 +13908,8 @@ const ARTIST_DATA = {
       "venue": "FM104 Strawberry Sessions",
       "notes": "Macken",
       "version": "WEB",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2015-06-24 - Macken House, Dublin, IE - FM104 Strawberry Sessions [WEB-LOSSY].txt"
     },
     {
       "year": 2015,
@@ -14211,8 +14211,7 @@ const ARTIST_DATA = {
       "venue": "Wolf Trap For The Performing Arts",
       "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2015-08-13 - Vienna, VA - Filene Center at Wolftrap [AUD24].txt"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -14225,7 +14224,8 @@ const ARTIST_DATA = {
       "venue": "Filene Center at Wolftrap",
       "notes": "BSC1-K2s \u00b7 travelinbeat",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2015-08-13 - Vienna, VA - Filene Center at Wolftrap [AUD24].txt"
     },
     {
       "year": 2015,
@@ -14369,8 +14369,7 @@ const ARTIST_DATA = {
       "venue": "Artpark",
       "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2015-09-02 - Lewiston, NY - Artpark [AUD24].txt"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -14383,7 +14382,8 @@ const ARTIST_DATA = {
       "venue": "Artpark",
       "notes": "AT831s \u00b7 binko",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2015-09-02 - Lewiston, NY - Artpark [AUD24].txt"
     },
     {
       "year": 2015,
@@ -15650,8 +15650,7 @@ const ARTIST_DATA = {
       "venue": "Darien Lake Amphitheater",
       "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2017-09-11 - Darien Lake, NY - Darien Lake Performing Arts Center [AUD24].txt"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -15664,7 +15663,8 @@ const ARTIST_DATA = {
       "venue": "Darien Lake Performing Arts Center",
       "notes": "AT831s \u00b7 binko",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2017-09-11 - Darien Lake, NY - Darien Lake Performing Arts Center [AUD24].txt"
     },
     {
       "year": 2017,
@@ -16017,8 +16017,7 @@ const ARTIST_DATA = {
       "venue": "Cynthia Woods Mitchell Pavilion",
       "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2018-07-22 - Houston, TX - Cynthia Woods Mitchell Pavilion [AUD24].txt"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -16031,7 +16030,8 @@ const ARTIST_DATA = {
       "venue": "Cynthia Woods Mitchell Pavilion",
       "notes": "Beyerdynamic MCE72 \u00b7 cmstewart",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-07-22 - Houston, TX - Cynthia Woods Mitchell Pavilion [AUD24].txt"
     },
     {
       "year": 2018,
@@ -16267,8 +16267,7 @@ const ARTIST_DATA = {
       "venue": "New York State Fair",
       "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2018-08-25 - Syracuse, NY - NY State Fair - Chevy Court [AUD24].txt"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -16281,7 +16280,8 @@ const ARTIST_DATA = {
       "venue": "Chevy Court",
       "notes": "NYS \u00b7 Schoeps MK41s \u00b7 duncan oldham",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-08-25 - Syracuse, NY - NY State Fair - Chevy Court [AUD24].txt"
     },
     {
       "year": 2018,
@@ -17120,8 +17120,7 @@ const ARTIST_DATA = {
       "venue": "Hard Rock Live at Seminole Hard Rock Hotel & Casino",
       "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2023-08-05 -  Hollywood, FL - Hard Rock Live (Sonic Studios DSM-6SL) (chris gratz) [AUD24].txt"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -17134,7 +17133,8 @@ const ARTIST_DATA = {
       "venue": "Hard Rock Live",
       "notes": "Sonic Studios DSM-6SL \u00b7 chris gratz",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-08-05 -  Hollywood, FL - Hard Rock Live (Sonic Studios DSM-6SL) (chris gratz) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -17264,8 +17264,7 @@ const ARTIST_DATA = {
       "venue": "The Greek Theatre",
       "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2023-09-10 - Berkeley, CA - William Randolph Hearst Greek Theatre (DPA 4011) (ryan hoyt) [AUD24].txt"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -17278,7 +17277,8 @@ const ARTIST_DATA = {
       "venue": "William Randolph Hearst Greek Theatre",
       "notes": "DPA 4011 \u00b7 ryan hoyt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-09-10 - Berkeley, CA - William Randolph Hearst Greek Theatre (DPA 4011) (ryan hoyt) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -17733,8 +17733,7 @@ const ARTIST_DATA = {
       "venue": "The Pinnacle",
       "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2025-06-10 - Nashville, TN - The Pinnacle (SP-CMC-8) (mr. sifter) [AUD24].txt"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -17747,7 +17746,8 @@ const ARTIST_DATA = {
       "venue": "The Pinnacle",
       "notes": "SP-CMC-8 \u00b7 mr. sifter",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-06-10 - Nashville, TN - The Pinnacle (SP-CMC-8) (mr. sifter) [AUD24].txt"
     },
     {
       "year": 2025,

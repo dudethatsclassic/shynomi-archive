@@ -1,36 +1,71 @@
-01 - Intro.flac:e1f209321a7e84ab5973b093c8e23a39
-02 - Pop Song 89.flac:dc179d5e0395e9413b334abc9d546430
-03 - Exhuming McCarthy.flac:ee04d9280f591e28b62386ec9a249d1d
-04 - Welcome To The Occupation.flac:6165b75ec2cb7c326dcce407f315d68d
-05 - Turn You Inside-Out.flac:91bd26f7f03baef833533089121006d4
-06 - The One I Love.flac:adbe208c8a2f062df373663071d216ea
-07 - Orange Crush.flac:45cf3228e77944c998b95773a4661315
-08 - Sitting Still.flac:9bd63a611b5409606ad45a99af0ff41d
-09 - Feeling Gravity's Pull.flac:184b8878f65d5d49f14405b50c7dea6b
-10 - Cuyahoga.flac:e56ed95c29f6f3a700ca55ca63dfce96
-11 - Begin The Begin.flac:663423147a894e490e515eaac76993e9
-12 - We Live As We Dream Alone.flac:81097dd1791566d722f6da3833072a42
-13 - World Leader Pretend.flac:4a028bfb2124217716ccd0f88d1839ad
-14 - Tired Of Singing Trouble.flac:fb88e08abd436dcbf9b3dfedd6524cb0
-15 - I Believe.flac:1e1d11c00099428727574f32d9ac24fa
-16 - Pretty Persuasion.flac:d89d9cfa3dca071db77707e30e5b804d
-17 - These Days.flac:d0727319d1104e3c6e26563af2ebc7ee
-18 - Get Up.flac:59b11271d04cf8a88566dc218ecd9121
-19 - Auctioneer (Another Engine).flac:5bfd399d607c20e7b177ccb0e28357d7
-20 - It's The End Of The World As We Know It (And I Feel Fine).flac:7bf6e91a1d146988d509f85fcb608b72
-21 - Audience.flac:250a3b3d927ca0d34b82cf25e20649b3
-22 - Stand.flac:7ef8e8abda22695b3c34ff3cc2738234
-23 - Driver 8.flac:4e8de5be7e595e27af3438063fac6379
-24 - Fall On Me.flac:8df033898249e391d4dc7839d9797cb4
-25 - You  Are The Everything.flac:da1ee930542a068d3cf2e9e2af7aed0f
-26 - Audience.flac:1b1d5cc4c9431ea7a634a8176a4b78a4
-27 - Finest Worksong.flac:f2edc50f4c0af283ccf98346cdbc458e
-28 - King Of Birds.flac:b41d7aa0a11f9069a5fca3f5b2f6c534
-29 - Dark Globe.flac:e985b675a5623cc4db8178a189e77276
-30 - Swan Swan H.flac:4a4e5eb51a16931c39f77039549df57a
-31 - See No Evil.flac:5f240659a50305aa1095df5dab6e9d40
-32 - Audience.flac:67a1045f104f0ae54d06301d202a0c57
-33 - Harpers.flac:e89beb17b91611342503830b668b026f
-34 - Crazy.flac:2fa267272b1c9013dc9b06a87ca7b174
-35 - Perfect Circle.flac:16ecfac5502e48a0210890e97790850e
-36 - After Hours.flac:a8ce4f79654b54a1fcd7c3ac84b6bf64
+Artist: R.E.M. 
+Date: 1989-03-16
+Location: San Diego, CA 
+Venue: San Diego Sports Arena
+Source: Audience 
+Lineage: ANA(M)>WAV [96kHz/24bit]>WAV [44.1kHz/16bit]>FLAC [Level 8] 
+Transfer: Nakamichi CR-7A>PreSonus FireStudio Project>Adobe Audition 3.0>Cdwave editor>FLAC frontend 1.7.1 
+Taping Gear: Sony ECM-939>Sony WM-D6C  
+Taped By: JEMS 
+Transferred By: Mike Ziegler 
+
+Band Members:
+Michael Stipe - vocals, harmonica, megaphone 
+Peter Buck - guitars 
+Mike Mills - bass, vocals 
+Bill Berry - drums, percussion
+
+Touring Musicians:
+Peter Holsapple - guitar, keyboards
+
+Setlist:
+01. Intro
+02. Pop Song 89
+03. Exhuming McCarthy
+04. Welcome To The Occupation
+05. Turn You Inside-Out
+06. The One I Love
+07. Orange Crush
+08. Sitting Still 
+09. Feeling Gravity's Pull
+10. Cuyahoga
+11. Begin The Begin
+12. We Live As We Dream Alone
+13. World Leaders Pretend
+14. Tired Of Singing Trouble
+15. I Believe
+16. Pretty Persuasion
+17. These Days
+18. Get Up
+19. Auctioneer (Another Engine)
+20. It's The End Of The World As We Know It (And I Feel Fine)
+Encores 1
+21. Audience
+22. Stand
+23. Driver 8
+24. Fall On Me
+25. You Are The Everything
+Encores 2
+26. Audience
+27. Finest Worksong
+28. King Of Birds
+29. Dark Globe
+30. Swan Swan H
+31. See No Evil
+Encores 3
+32. Audience
+33. Harpers
+34. Crazy
+35. Perfect Circle
+36. After Hours
+
+Length: 113:38
+
+Notes:
+JEMS master recording. Very good sounding recording. This was the last night of a 4 night run in CA of which JEMS taped all 4 shows. This show was the best of the run and also features Morris Winsdor of The Egyptians(Robyn Hitchcock's band and opening act) playing percusion on King Of Birds. 
+
+"By the time R.E.M. reached San Diego, they seemed to be exuding a distaste for the Golden State, and the versions of "I Remember California" were growing darker and darker. The set list finally changed up dramatically in Tempe, two nights later."
+butterking for JEMS
+
+(remtorrent)
+

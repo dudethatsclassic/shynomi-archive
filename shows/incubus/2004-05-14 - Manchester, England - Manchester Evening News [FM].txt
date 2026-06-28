@@ -1,122 +1,122 @@
-Track01.flac:3900298284b5dff6d40fea6d15137cac
-Track02.flac:c0563ac8a4aa77c5a85942cb2fb98e6c
-Track03.flac:66be0d20e47ccabee34f2680394c0010
-Track04.flac:70bd327d08d734ec7c09766120b26950
-Track05.flac:eec3a075f11d8b67751d7a8b2e470451
-Track06.flac:10b1cdf487aadaa1c109b9c8d5cd73c5
-Track07.flac:692794f126b21e81d615f9bf7ffc9618
-Track08.flac:925832efdf3335efdfc4ae249cf4b58e
-Track09.flac:5bcf5ff60abfbb2a3d2a92a8f2d43114
-Track10.flac:4cd1be3305d089307c655c86f5666172
-Track11.flac:c785efc3a43dd4794228b5dd3bf8b186
-Track12.flac:47ffddcae149efa104afa080fdac1142
-Track13.flac:221f6ec5cc3e218766ef3221619da9f6
+INCUBUS-5-14-04-MEN Arena-WW1(04-46) PreFM(complete)-Flac
+==================================================================================================
+
+Artist=INCUBUS
+Date=actual=5-14-04   air date=11-13-04
+Venue=Manchester Evening News Arena=MEN Arena 
+Location=Manchester, England
+Title=WESTWOOD ONE-ABSOLUTELY LIVE IN CONCERT-COMPLETE-#04-46
+Show=incomplete
+Media=1cd
+Format=Flac
+Wav size=617mb
+FLAC size=347mb
+Files=22,01 folders,347 MB (364,647,163 bytes)
+Artwork=generic
+Quality=A+(a little light in the mix IMO)
+Source=Pre FM SBD
+Lineage= PHILIPS DVD+-RW DVD8631-> Westwood One original cd#04-41-> EAC(secure)Wav-> FLAC(level8-verify-align on sector boundaries)-> You
+(fingerprints,MD5 & EAC log incl.)
+==================================================================================================
+SEG1-TRACK1=11:04
+Billboards
+
+A Crow Left Of The Murder, 
+Warning,
+
+Com....:30
+          :30
+          :30
+outcue...
+
+SEG2-TRACK2=14:36
+Priceless, 
+Wish You Were Here, 
+Here In My Room, 
+
+Promo:NFL
+Com....:30
+          :30
+          :30
+outcue...
+
+SEG3-TRACK3=11:45
+Drive, 
+Talk Shows On Mute, 
+
+Com....:30
+          :30
+          :30
+outcue....
+
+SEG4-TRACK4=18:39
+Sick Sad Little World, 
+Are You In.
+
+Billboard...
+Com....:30
+          :30
+          :30
+outcue....
+
+-----------------------------
+-----------------------------
+SONGS:  included
+A Crow Left Of The Murder, 
+Warning, 
+Priceless, 
+Wish You Were Here, 
+Here In My Room, 
+Drive, 
+Talk Shows On Mute, 
+Sick Sad Little World, 
+Are You In.
+
+====================
+
+SONGS: played
+Complete Set: 
+Megalomaniac
+A Crow Left Of The Murder
+Idiot Box
+Warning!
+Just A Phase
+Priceless
+Nowhere Fast
+Wish You Were Here
+Pantomime
+Here In My Room
+Drive
+Pistola
+Vitamin
+Beware! Criminal
+The Warmth
+Talk Shows On Mute
+A Certain Shade Of Green
+Sick Sad Little World*
+Are You In?
+
+Notes: with Brand New*
+-------------------------------------
+http://www.incubusonline.com/
+Show info>
+During Nowhere Fast the band stopped playing after the bridge, for about ten seconds, 
+then Brandon picked up a Chuck mask from the floor and sang the last chorus while wearing it. 
+After the Vitamin drum solo, Jose fell off his seat but was caught by ben; 
+they then continued to play 'everything is dead' (Part of "The Odyssey").  
+During Vitamin, Jose played a huge drum solo which ended up with him throwing 6 or 7 sticks at his drum tech. 
+Also during A Certain Shade... Kilmore scratched his way through Led Zep's A Whole Lotta Love.
 
 
+=================================
+From my own personal Disc.
+Complete WW1 show.
+If you must edit-Edit responsibly.
+(Please keep lineage intact,some people do care)
+Free trade only.
+If you must MP3--MP3 responsibly.
 
-*TEST*
-flac 1.1.2, Copyright (C) 2000,2001,2002,2003,2004,2005  Josh Coalson
-flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
-welcome to redistribute it under certain conditions.  Type `flac' for details.
 
-Track01.flac: ok
-
--------------------------------------------------------------------------------
-
-flac 1.1.2, Copyright (C) 2000,2001,2002,2003,2004,2005  Josh Coalson
-flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
-welcome to redistribute it under certain conditions.  Type `flac' for details.
-
-Track02.flac: ok
-
--------------------------------------------------------------------------------
-
-flac 1.1.2, Copyright (C) 2000,2001,2002,2003,2004,2005  Josh Coalson
-flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
-welcome to redistribute it under certain conditions.  Type `flac' for details.
-
-Track03.flac: ok
-
--------------------------------------------------------------------------------
-
-flac 1.1.2, Copyright (C) 2000,2001,2002,2003,2004,2005  Josh Coalson
-flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
-welcome to redistribute it under certain conditions.  Type `flac' for details.
-
-Track04.flac: ok
-
--------------------------------------------------------------------------------
-
-flac 1.1.2, Copyright (C) 2000,2001,2002,2003,2004,2005  Josh Coalson
-flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
-welcome to redistribute it under certain conditions.  Type `flac' for details.
-
-Track05.flac: ok
-
--------------------------------------------------------------------------------
-
-flac 1.1.2, Copyright (C) 2000,2001,2002,2003,2004,2005  Josh Coalson
-flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
-welcome to redistribute it under certain conditions.  Type `flac' for details.
-
-Track06.flac: ok
-
--------------------------------------------------------------------------------
-
-flac 1.1.2, Copyright (C) 2000,2001,2002,2003,2004,2005  Josh Coalson
-flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
-welcome to redistribute it under certain conditions.  Type `flac' for details.
-
-Track07.flac: ok
-
--------------------------------------------------------------------------------
-
-flac 1.1.2, Copyright (C) 2000,2001,2002,2003,2004,2005  Josh Coalson
-flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
-welcome to redistribute it under certain conditions.  Type `flac' for details.
-
-Track08.flac: ok
-
--------------------------------------------------------------------------------
-
-flac 1.1.2, Copyright (C) 2000,2001,2002,2003,2004,2005  Josh Coalson
-flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
-welcome to redistribute it under certain conditions.  Type `flac' for details.
-
-Track09.flac: ok
-
--------------------------------------------------------------------------------
-
-flac 1.1.2, Copyright (C) 2000,2001,2002,2003,2004,2005  Josh Coalson
-flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
-welcome to redistribute it under certain conditions.  Type `flac' for details.
-
-Track10.flac: ok
-
--------------------------------------------------------------------------------
-
-flac 1.1.2, Copyright (C) 2000,2001,2002,2003,2004,2005  Josh Coalson
-flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
-welcome to redistribute it under certain conditions.  Type `flac' for details.
-
-Track11.flac: ok
-
--------------------------------------------------------------------------------
-
-flac 1.1.2, Copyright (C) 2000,2001,2002,2003,2004,2005  Josh Coalson
-flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
-welcome to redistribute it under certain conditions.  Type `flac' for details.
-
-Track12.flac: ok
-
--------------------------------------------------------------------------------
-
-flac 1.1.2, Copyright (C) 2000,2001,2002,2003,2004,2005  Josh Coalson
-flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
-welcome to redistribute it under certain conditions.  Type `flac' for details.
-
-Track13.flac: ok
-
--------------------------------------------------------------------------------
-
-Press any key to continue . . .
+Liberated by
+   S I D
+=================================

@@ -502,7 +502,7 @@ const ARTIST_DATA = {
       "notes": "Skin Graft Records",
       "version": "Vinyl",
       "format": "FLAC",
-      "textFile": "1993-06-04 - Hollywood, CA - Raji's - Balming Run (7') [AUD].txt"
+      "textFile": "1993-06-04 - Los Angeles, CA - Raji's (Source 2) [AUD].txt"
     },
     {
       "year": 1993,
@@ -530,7 +530,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 unk \u00b7 Source 3",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-06-04 - Los Angeles, CA - Raji's (Source 2) [AUD].txt"
+      "textFile": "1993-06-04 - Hollywood, CA - Raji's - Balming Run (7') [AUD].txt"
     },
     {
       "year": 1993,
@@ -780,7 +780,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-11-17 - Cambridge, MA - Newbury Comics (Sony WM-D6) (manofstealth) [AUD24].txt"
+      "textFile": "1994-11-17 - Cambridge, MA - Newbury Comics [AUD].txt"
     },
     {
       "year": 1994,
@@ -794,7 +794,7 @@ const ARTIST_DATA = {
       "notes": "Sony WM-D6 \u00b7 manofstealth",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1994-11-17 - Cambridge, MA - Newbury Comics [AUD].txt"
+      "textFile": "1994-11-17 - Cambridge, MA - Newbury Comics (Sony WM-D6) (manofstealth) [AUD24].txt"
     },
     {
       "year": 1995,

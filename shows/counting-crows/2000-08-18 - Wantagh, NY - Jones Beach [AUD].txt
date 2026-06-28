@@ -1,13 +1,21 @@
-01 colorblind.flac:70acfc3a9f032a6e9721c68399f5934d
-02 catapult.flac:7708e3a263433395543a12a483f95a1d
-03 perfect blue buildings.flac:8f38adabcfd2794ffa1d76d5032a5393
-04 anna begins.flac:cab30ec178db90b27bf974aa3f7f39fc
-05 i wish i was a girl.flac:896f44a09e06056cbceacc25d5eb8ac7
-06 st. robinson.flac:461c31a65e186e6d1a6df2ecb7d964f3
-07 mr. jones.flac:b0a2aa77514c864340fefd9c488053de
-08 all my friends.flac:662f65289e9b09eb891ac96eabcd59f0
-09 a murder of one.flac:f5138790f16968646825464f277824a4
-10 angels of the silences.flac:2d90147a822bf5f5c8b13d9a391100be
-11 hangin' around.flac:ae0222a968b4b7e4e0e07292c5cdeadd
-12 raining in baltimore.flac:09d07a1aa2e3555fe2c6a63ecd703036
-13 a long december.flac:7a72a8cf31face49a9fddb463e8955ed
+Counting Crows
+Aug 18, 2000
+Jones Beach Theater, Wantagh, NY
+
+CDR > EAC > WAV > FLAC
+Fair Audience Recording
+
+ 1 Colorblind
+ 2 Catapult
+ 3 Perfect Blue Buildings
+ 4 Anna Begins
+ 5 I Wish I Was A Girl
+ 6 St. Robinson
+ 7 Mr. Jones
+ 8 All My Friends
+ 9 A Murder Of One
+10 Angels of the Silences
+11 Hangin' Around
+12 Raining In Baltimore
+13 A Long December
+

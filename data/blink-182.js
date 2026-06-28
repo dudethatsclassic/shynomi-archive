@@ -354,7 +354,7 @@ const ARTIST_DATA = {
       "notes": "Webcast",
       "version": "Webcast",
       "format": "TS",
-      "textFile": "2023-04-23 - Indio, CA - Coachella (Weekend 2) (SP-CMC-8) (fried_morals) [AUD24].txt"
+      "textFile": "2023-04-23 - Indio, CA - Coachella Festival, Empire Polo Grounds (Webcast) [TS].txt"
     },
     {
       "year": 2023,
@@ -368,7 +368,7 @@ const ARTIST_DATA = {
       "notes": "Weekend 2 \u00b7 SP-CMC-8 \u00b7 fried_morals",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2023-04-23 - Indio, CA - Coachella Festival, Empire Polo Grounds (Webcast) [TS].txt"
+      "textFile": "2023-04-23 - Indio, CA - Coachella (Weekend 2) (SP-CMC-8) (fried_morals) [AUD24].txt"
     },
     {
       "year": 2023,

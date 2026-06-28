@@ -1,22 +1,44 @@
-rem2003-07-01-t01.flac:0c46f518351a0f26ddb133765b245b36
-rem2003-07-01-t02.flac:377a96a1854ad945e19bddad73f16635
-rem2003-07-01-t03.flac:cf4a55d193d2393f02da31814be80ffc
-rem2003-07-01-t04.flac:0ea164365a4f5de0cfde6e94abed1eb4
-rem2003-07-01-t05.flac:99e3ff517b578670806021090443f5fe
-rem2003-07-01-t06.flac:46a52d2ef30556e79c39a58ee0ae96cf
-rem2003-07-01-t07.flac:45f8323a32b3ca424218ca292e9c0a5b
-rem2003-07-01-t08.flac:009d3dc0f5a1e06d85d449166a1eed45
-rem2003-07-01-t09.flac:c63d324d8d7e6d7fd84ef4e3be010bb2
-rem2003-07-01-t10.flac:418e26555eb810f7f2ea400975b89db2
-rem2003-07-01-t11.flac:e578625a03a1b9e59cd11f4059715b61
-rem2003-07-01-t12.flac:f0266219a8b2a53591fab2075753b763
-rem2003-07-01-t13.flac:6e3cb97eca8df3231c088e55271ac8be
-rem2003-07-01-t14.flac:62240387f4f2ff721369521fbc3d9f7e
-rem2003-07-01-t15.flac:eece3a6693382dfa685cde4093ecaa7b
-rem2003-07-01-t16.flac:eaaf05ce908619316650ed219de2dc0b
-rem2003-07-01-t17.flac:cddf4f3846db1e07476ba06d7c80e704
-rem2003-07-01-t18.flac:fe907db0f58fd9a7a0bf678a1abf8759
-rem2003-07-01-t19.flac:4363d6f8b39f70e204c917e33c6d1450
-rem2003-07-01-t20.flac:d5e162b6a81caceaa19ad1bd070a2491
-rem2003-07-01-t21.flac:658392e621f03a2824800ce812c4dcec
-rem2003-07-01-t22.flac:2655cc096e1c2f2fc0e29cb5a1bd4f13
+R.E.M.
+Volkspark, Hamburg, Germany
+July 1, 2003
+
+Source: Sony ECM-DS70P --> Sony MZ-N1 MD (mono setting) 
+        --> Analog transfer --> WAV --> FLAC 
+
+Taped & Edited by raya
+
+
+The set:
+
+01: Finest Worksong
+02: Imitation of Life
+03: Maps and Legends
+04: Drive - Have You Ever Seen The Rain [brief]
+05: Animal - [short improv due to technical problems]
+06: The Great Beyond
+07: Wolves, Lower
+08: Bad Day - Leave [a couple of lines, Stipe solo]
+09: The One I Love
+10: Daysleeper
+11: Feeling Gravitys Pull
+12: So Fast So Numb
+13: Losing My Religion - [band introductions]
+14: At My Most Beautiful
+15: Life and How to Live It
+16: She Just Wants To Be
+17: Walk Unafraid
+18: Man on the Moon
+
+Encore:
+
+19: Everybody Hurts - [mattress advices]
+20: Welcome to the Occupation
+21: Electrolite
+22: It's The End Of The World As We Know It (And I Feel Fine)
+
+
+notes: Life And How To Live It and She Just Wants To Be were 
+dedicated to Katherine Hepburn, who passed away the day before.
+
+Thanks to Robert (halfaworldaway) for the battery.
+ 

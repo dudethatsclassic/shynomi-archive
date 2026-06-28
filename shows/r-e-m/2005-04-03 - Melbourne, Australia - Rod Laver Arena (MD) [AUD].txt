@@ -1,44 +1,51 @@
-rem2005-04-03-d1t01.flac:44b933697d425a27d42e911b83fd27b4
-rem2005-04-03-d1t02.flac:8cc3aa5748e7b0ff9f878f59b23b5f10
-rem2005-04-03-d1t03.flac:1b7167f62ea53e3da270fc07cacc9890
-rem2005-04-03-d1t04.flac:97248687f1919b84fb279e203a3354aa
-rem2005-04-03-d1t05.flac:440d12a68d98bc1e373bef5b49093b97
-rem2005-04-03-d1t06.flac:74e5d6827a739af8623363cef59c3621
-rem2005-04-03-d1t07.flac:c2e99b22ca94f006477237e903f193a5
-rem2005-04-03-d1t08.flac:7794810f91cfcea4ad1245aaab9c7ea4
-rem2005-04-03-d1t09.flac:53e2fa92848f11a7b68bb61a6c94d325
-rem2005-04-03-d1t10.flac:9caef37231d656b58d52459df07598fe
-rem2005-04-03-d1t11.flac:e93b3f5469f49aa8ec4216cada8c21ba
-rem2005-04-03-d1t12.flac:e370d006614d94d6f751a9308e99bf38
-rem2005-04-03-d1t13.flac:574aad26a6818165d254e97ba114c104
-rem2005-04-03-d1t14.flac:ddbc92d31bee7285f5efc9031f7d3362
-rem2005-04-03-d1t15.flac:f3dbba0b398b682db928a21fa6991c4a
-rem2005-04-03-d2t01.flac:b3100f9b4ba0df105ee79d749aac4d4b
-rem2005-04-03-d2t02.flac:fff1e3c2214f221ffcc8f65084c5384b
-rem2005-04-03-d2t03.flac:98df39d1c9da37db618b4b14c4da6264
-rem2005-04-03-d2t04.flac:7564a92a0e4a1101ce65b1eb695ae87c
-rem2005-04-03-d2t05.flac:2bd79b2a9701c03c517707cfa553f900
-rem2005-04-03-d2t06.flac:dad5f9690d7812a5eef36129099147c1
-rem2005-04-03-d2t07.flac:996bad8053e3cee367a5639be1c9384c
-rem2005-04-03-d1t10.flac:9caef37231d656b58d52459df07598fe
-rem2005-04-03-d1t11.flac:5bf571c43cafd00fdb51f3718a2583a5
-rem2005-04-03-d1t12.flac:9eb25631adcdca495a1442f5fa83fb5e
-rem2005-04-03-d1t13.flac:574aad26a6818165d254e97ba114c104
-rem2005-04-03-d1t14.flac:ddbc92d31bee7285f5efc9031f7d3362
-rem2005-04-03-d1t15.flac:f3dbba0b398b682db928a21fa6991c4a
-rem2005-04-03-d2t01.flac:b3100f9b4ba0df105ee79d749aac4d4b
-rem2005-04-03-d2t02.flac:fff1e3c2214f221ffcc8f65084c5384b
-rem2005-04-03-d2t03.flac:98df39d1c9da37db618b4b14c4da6264
-rem2005-04-03-d2t04.flac:7564a92a0e4a1101ce65b1eb695ae87c
-rem2005-04-03-d2t05.flac:2bd79b2a9701c03c517707cfa553f900
-rem2005-04-03-d2t06.flac:dad5f9690d7812a5eef36129099147c1
-rem2005-04-03-d2t07.flac:996bad8053e3cee367a5639be1c9384c
-rem2005-04-03-d1t01.flac:44b933697d425a27d42e911b83fd27b4
-rem2005-04-03-d1t02.flac:8cc3aa5748e7b0ff9f878f59b23b5f10
-rem2005-04-03-d1t03.flac:1b7167f62ea53e3da270fc07cacc9890
-rem2005-04-03-d1t04.flac:97248687f1919b84fb279e203a3354aa
-rem2005-04-03-d1t05.flac:440d12a68d98bc1e373bef5b49093b97
-rem2005-04-03-d1t06.flac:74e5d6827a739af8623363cef59c3621
-rem2005-04-03-d1t07.flac:c2e99b22ca94f006477237e903f193a5
-rem2005-04-03-d1t08.flac:7794810f91cfcea4ad1245aaab9c7ea4
-rem2005-04-03-d1t09.flac:53e2fa92848f11a7b68bb61a6c94d325
+R.E.M.
+Rod Laver Arena
+Melbourne, Australia
+
+3rd April 2005
+
+Taper: Lukin_oz		
+Source: Sony Mini Disc Recorder with Sony Stereo mic > MAC Sound Studio
+
+Edited: Sibko		
+Conversion: CDEX > Sound Forge v7.0 > CD Wav > WAV > FLAC
+
+Cover by: Sibko
+www.remcoverstudio.com
+
+
+Not Recorded
+01 I Took Your Name
+02 Bad Day
+03 Animal
+
+Disc One
+01 The Outsiders			04.48
+02 Pilgrimage				04.30
+03 So Fast So Numb			04.53
+04 Electron Blue			04.28
+05 Electrolite				04.34
+06 Turn You Inside Out			04.53
+07 At My Most Beautiful			04.30	
+08 Leaving New York			04.58
+09 Orange Crush				04.42
+10 Wanted To Be Wrong			05.09
+11 Final Straw				04.51
+12 Imitation Of Life			03.55
+13 The One I Love			03.25
+14 Walk Unafraid			05.12
+15 Losing My Religion 			07.34
+
+-Encore-
+
+Disc Two	
+01 What's The Frequency Kenneth?	04.11
+02 Everybody Hurts			06.40
+03 Drive				06.23
+04 Country Feedback			07.07
+05 Happy Birthday / Band Intros		06.05
+06 I'm Gonna DJ				02.24
+07 Man On The Moon			06.51
+
+
+Notes: Small Ammount of Mic noise, which alot of chatter by girl next to mic.
