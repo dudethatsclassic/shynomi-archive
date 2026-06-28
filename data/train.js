@@ -35,7 +35,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
-      "notes": "CSC \u00b7 shane e. calhoon",
+      "notes": "CSC · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-07-08 - St. Louis, MO - The Pageant Theatre (CSC) (shane e. calhoon) [AUD].txt"
@@ -49,7 +49,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Murat Egyptian Room",
-      "notes": "CSC \u00b7 shane e. calhoon",
+      "notes": "CSC · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-07-15 - Indianapolis, IN - Murat Egyptian Room (CSC) (shane e. calhoon) [AUD].txt"
@@ -77,7 +77,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Lake Tahoe, NV",
       "venue": "Harvey's,",
-      "notes": "Zoom H1 \u00b7 whiskeyrecordings",
+      "notes": "Zoom H1 · whiskeyrecordings",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-07-25 - Lake Tahoe, NV - Harvey's,  (Zoom H1) (whiskeyrecordings) [AUD].txt"
@@ -91,7 +91,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "100 Club",
-      "notes": "Olympus LS-10 \u00b7 unk",
+      "notes": "Olympus LS-10 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-08-14 - London, England - 100 Club (Olympus LS-10) (unk) [AUD].txt"
@@ -105,7 +105,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Nob Hill Masonic Auditorium",
-      "notes": "Neumann KMF 4i \u00b7 unk",
+      "notes": "Neumann KMF 4i · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-09-21 - San Francisco, CA - Nob Hill Masonic Auditorium (Neumann KMF 4i) (unk) [AUD].txt"
@@ -119,7 +119,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "Hollywood Casino Amphitheatre",
-      "notes": "Tascam DR-07 \u00b7 shane e. calhoon",
+      "notes": "Tascam DR-07 · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2017-07-01 - Maryland Heights, MO - Hollywood Casino Amphitheatre (Tascam DR-07) (shane e. calhoon) [AUD].txt"
