@@ -15507,12 +15507,11 @@ const ARTIST_DATA = {
       "dateStr": "9-11-2006",
       "city": "Paris",
       "state": "France",
-      "location": "Paris, France, Bercy",
-      "venue": "",
+      "location": "Paris, France",
+      "venue": "Bercy",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2006-09-11 - Paris, France - Bercy.txt"
+      "format": "FLAC"
     },
     {
       "year": 2006,
