@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "live-archive",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "/Users/natescottsmith/Desktop/Claude Code/Shynomi Live Archive/live-archive"],
+      "port": 8765
+    }
+  ]
+}
