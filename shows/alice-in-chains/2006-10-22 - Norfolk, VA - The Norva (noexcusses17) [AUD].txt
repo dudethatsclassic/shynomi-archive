@@ -1,25 +1,40 @@
-01 Intro.flac:27342b348b0b4044732920733340b54c
-02 Again.flac:6db1cd28526d496b3321845004ca2876
-03 Bleed the Freak.flac:e6a38431dc950a2c5ebfc267a825ed46
-04 Grind.flac:679274e1a3eb87bd97c5e510eeeff4ee
-05 It Ain't Like That.flac:386f5f36ac613641d5a6cca88ec835e1
-06 Junkhead.flac:938a367962d3da8883c2d5f0efcfeb85
-07 Nutshell.flac:84592789429aba6e357f7288579e771a
-08 Them Bones.flac:df084a27745ba52ad14663253fdf1438
-09 Dam That River.flac:5ddcfcad9b76405eac7c46be3bf74f9b
-10 Rain When I Die.flac:fae6a7f03af235d13cfabe86bea8598e
-11 Layne Staley Video Tribute.flac:e6a64b7b613c28bc3872c244116bcca3
-12 Don't Follow.flac:4ad9aaffd052b3cb0027f13b0a794db6
-13 Brother.flac:2c07e6723d5873e099523e43b63662fd
-14 Killer is Me.flac:bb3ad59c140d7bb76d953497c78c0596
-15 No Excuses.flac:7ea78968996bbbf478f5818cb3b4f346
-16 Got Me Wrong.flac:bb10ac8023fa3cf437c4e54423357a6e
-17 Down in a Hole.flac:5516436074a7d7bd9f689feaac0d3e0d
-18 Sludge Factory.flac:99051af7b92de80bec183fad260a6d81
-19 We Die Young.flac:947cf340ef9d13480376887882dbc034
-20 Heaven Beside You.flac:f8c9345f22c80e56049dd1def51a58e3
-21 Angry Chair.flac:7789828a6c2f7d14d2847c4f755372b8
-22 Man in the Box.flac:2e23099f5be275ff94d1edab80ee223c
-23 Encore Break.flac:4cc05e30cd4c5e9e8512f4038d286cde
-24 Rooster.flac:202f48654543611a502be1a302b531a6
-25 Would.flac:782b118fa22adc61ead0fedb0ff4dafa
+Alice in Chains
+October 22, 2006
+The Norva
+Norfolk, VA
+
+Source: SP-CMC4's > SPSB-6 (@95 hz) > Edirol R1
+Location: Left side balcony, 35 ft back from left stack
+Conversion: R1 > USB > HD > Audacity (Track Splits, EQ and slight volume boost) >
+WAV > FLAC (Level 6) > You
+
+Taper: noexcusses17
+
+01. Intro (Whale and Wasp)
+02. Again
+03. Bleed the Freak
+04. Grind
+05. It Ain't Like That
+06. Junkhead
+07. Nutshell
+08. Them Bones
+09. Dam That River
+10. Rain When I Die
+11. Layne Staley Video Tribute
+
+Acoustic Set
+12. Don't Follow
+13. Brother
+14. Killer is Me
+15. No Excuses
+16. Got Me Wrong
+17. Down in a Hole
+
+18. Sludge Factory
+19. We Die Young
+20. Heaven Beside You
+21. Angry Chair
+22. Man in the Box
+23. Encore Break
+24. Rooster
+25. Would?

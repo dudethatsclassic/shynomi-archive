@@ -191,7 +191,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1995-04-15 - Denver, CO - Mercury Cafe [AUD#1].txt"
+      "textFile": "1995-04-15 - Denver, CO - Mercury Cafe [AUD].txt"
     },
     {
       "year": 1995,
@@ -205,7 +205,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-04-15 - Denver, CO - Mercury Cafe [AUD].txt"
+      "textFile": "1995-04-15 - Denver, CO - Mercury Cafe [AUD#1].txt"
     },
     {
       "year": 1995,
@@ -345,7 +345,7 @@ const ARTIST_DATA = {
       "notes": "lantz b.",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1995-04-24 - Carrboro, NC - Cat's Cradle [AUD24].txt"
+      "textFile": "1995-04-24 - Carrboro, NC - Cat's Cradle [AUD #1].txt"
     },
     {
       "year": 1995,
@@ -359,7 +359,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1995-04-24 - Carrboro, NC - Cat's Cradle [AUD #1].txt"
+      "textFile": "1995-04-24 - Carrboro, NC - Cat's Cradle [AUD24].txt"
     },
     {
       "year": 1995,
@@ -429,7 +429,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-04-26 - Philadelphia, PA, Trocadero Theater [AUD].txt"
+      "textFile": "1995-04-26 - Philadelphia, PA, Trocadero Theater [AUD #1].txt"
     },
     {
       "year": 1995,
@@ -443,7 +443,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1995-04-26 - Philadelphia, PA, Trocadero Theater [AUD #1].txt"
+      "textFile": "1995-04-26 - Philadelphia, PA, Trocadero Theater [AUD].txt"
     },
     {
       "year": 1995,
@@ -1169,7 +1169,8 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-07-26 - San Francisco, CA - The Fillmore [AUD #2].txt"
     },
     {
       "year": 1995,
@@ -1182,8 +1183,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "notes": "CSB",
       "version": "AUD #2",
-      "format": "FLAC",
-      "textFile": "1995-07-26 - San Francisco, CA - The Fillmore [AUD #2].txt"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -1659,7 +1659,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1995-08-26 - Reading, UK - Reading Festival (Sessions Tent) [SBD #3].txt"
+      "textFile": "1995-08-26 - Reading, UK - Richfield Ave [AUD #1].txt"
     },
     {
       "year": 1995,
@@ -1673,7 +1673,7 @@ const ARTIST_DATA = {
       "notes": "Reading Festival, Sessions Ten \u00b7 Sony",
       "version": "AUD #2",
       "format": "FLAC",
-      "textFile": "1995-08-26 - Reading, UK - Richfield Ave [AUD #1].txt"
+      "textFile": "1995-08-26 - Reading, UK - Richfield Ave [AUD #2].txt"
     },
     {
       "year": 1995,
@@ -1743,7 +1743,7 @@ const ARTIST_DATA = {
       "notes": "Reading Festival, Sessions Ten \u00b7 brad collins",
       "version": "SBD #3",
       "format": "FLAC",
-      "textFile": "1995-08-26 - Reading, UK - Richfield Ave [AUD #2].txt"
+      "textFile": "1995-08-26 - Reading, UK - Reading Festival (Sessions Tent) [SBD #3].txt"
     },
     {
       "year": 1995,
@@ -2735,7 +2735,7 @@ const ARTIST_DATA = {
       "notes": "CSB",
       "version": "AUD #3",
       "format": "FLAC",
-      "textFile": "1996-04-05 - Worcester, MA - Worcester Auditorium.txt"
+      "textFile": "1996-04-05 - Worcester, MA - Worcester Auditorium - DAT(M) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1996,
@@ -2749,7 +2749,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 loughney transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-04-05 - Worcester, MA - Worcester Auditorium - DAT(M) (loughney transfer) [AUD].txt"
+      "textFile": "1996-04-05 - Worcester, MA - Worcester Auditorium.txt"
     },
     {
       "year": 1996,
@@ -2763,7 +2763,7 @@ const ARTIST_DATA = {
       "notes": "CSB",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-04-06 - New York, NY - Roseland Ballroom [AUD].txt"
+      "textFile": "1996-04-06 - New York, NY - Roseland Ballroom [AUD #3].txt"
     },
     {
       "year": 1996,
@@ -2777,7 +2777,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #3",
       "format": "FLAC",
-      "textFile": "1996-04-06 - New York, NY - Roseland Ballroom [AUD #3].txt"
+      "textFile": "1996-04-06 - New York, NY - Roseland Ballroom [AUD].txt"
     },
     {
       "year": 1996,
@@ -3839,7 +3839,7 @@ const ARTIST_DATA = {
       "notes": "MD",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-06-07 - Randalls Island, NY - Downing Stadium [AUD].txt"
+      "textFile": "1997-06-07 - New York, NY - Downing Stadium - DAT(M) [AUD #3].txt"
     },
     {
       "year": 1997,
@@ -3853,7 +3853,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M)",
       "version": "AUD #3",
       "format": "FLAC",
-      "textFile": "1997-06-07 - New York, NY - Downing Stadium - DAT(M) [AUD #3].txt"
+      "textFile": "1997-06-07 - Randalls Island, NY - Downing Stadium [AUD].txt"
     },
     {
       "year": 1997,
@@ -4147,7 +4147,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M)",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1997-07-12 - Cincinnati, OH - Garage at Caddy's (CSB) [AUD].txt"
+      "textFile": "1997-07-12 - Cincinnati, OH - The Garage - DAT(M) [AUD #1].txt"
     },
     {
       "year": 1997,
@@ -4161,7 +4161,7 @@ const ARTIST_DATA = {
       "notes": "jlizard",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-07-12 - Cincinnati, OH - The Garage - DAT(M) [AUD #1].txt"
+      "textFile": "1997-07-12 - Cincinnati, OH - Garage at Caddy's (CSB) [AUD].txt"
     },
     {
       "year": 1997,
@@ -4581,7 +4581,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 CSB",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1997-09-21 - Phoenix, AZ - Mesa Amphitheatre - DAT(M) [AUD #1].txt"
+      "textFile": "1997-09-21 - Mesa, AZ - Mesa Amphitheatre [AUD #1].txt"
     },
     {
       "year": 1997,
@@ -4847,7 +4847,7 @@ const ARTIST_DATA = {
       "notes": "david p",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1997-10-11 - Mississauga, Ontario - Arrow Hall (MKE2002) [AUD].txt"
+      "textFile": "1997-10-11 - Toronto, Ontario - Arrow Hall [AUD #1].txt"
     },
     {
       "year": 1997,
@@ -4861,7 +4861,7 @@ const ARTIST_DATA = {
       "notes": "ms",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-10-11 - Toronto, Ontario - Arrow Hall [AUD #1].txt"
+      "textFile": "1997-10-11 - Mississauga, Ontario - Arrow Hall (MKE2002) [AUD].txt"
     },
     {
       "year": 1997,
@@ -6023,7 +6023,7 @@ const ARTIST_DATA = {
       "notes": "stonecutter",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1999-11-01a - New York, NY - Howard Stern Show WXRX [FM].txt"
+      "textFile": "1999-11-01 - New York, NY - Howard Stern Show WXRX [FM].txt"
     },
     {
       "year": 1999,
@@ -6581,8 +6581,7 @@ const ARTIST_DATA = {
       "venue": "Best Buy",
       "notes": "",
       "version": "AUD #1",
-      "format": "FLAC",
-      "textFile": "2000-03-23 - Richfield, MN - Best Buy [AUD #1].txt"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -6805,7 +6804,7 @@ const ARTIST_DATA = {
       "notes": "stefano",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2000-05-13a - North Attleboro, MA - Newbury Comics - In-store Set [AUD].txt"
+      "textFile": "2000-05-13 - Providence, RI - Civic Center [AUD #1].txt"
     },
     {
       "year": 2000,
@@ -6819,7 +6818,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2000-05-13 - Providence, RI - Civic Center [AUD #1].txt"
+      "textFile": "2000-05-13a - North Attleboro, MA - Newbury Comics - In-store Set [AUD].txt"
     },
     {
       "year": 2000,
@@ -8254,7 +8253,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "2002-12-03 - Stockholm, Sweden - Hovet [AUD].txt"
+      "textFile": "2002-12-03 - Stockholm, Sweden - Hovet [AUD #1].txt"
     },
     {
       "year": 2002,
@@ -8268,7 +8267,7 @@ const ARTIST_DATA = {
       "notes": "MD(M) \u00b7 Sony ECM-DS70P",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2002-12-03 - Stockholm, Sweden - Hovet [AUD #1].txt"
+      "textFile": "2002-12-03 - Stockholm, Sweden - Hovet [AUD].txt"
     },
     {
       "year": 2002,
@@ -8588,7 +8587,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 Sanken COS-11sBP",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2003-04-17 - Universal City, CA - Universal Amphitheatre - MiniDV(M) (unk) (AMT #1) [DVD].txt"
+      "textFile": "2003-04-17 - Universal City, CA - Universal Ampitheatre [AUD #1].txt"
     },
     {
       "year": 2003,
@@ -8602,7 +8601,7 @@ const ARTIST_DATA = {
       "notes": "MiniDV(M) \u00b7 unk",
       "version": "AMT #1",
       "format": "MKV",
-      "textFile": "2003-04-17 - Universal City, CA - Universal Ampitheatre [AUD #1].txt"
+      "textFile": "2003-04-17 - Universal City, CA - Universal Amphitheatre - MiniDV(M) (unk) (AMT #1) [DVD].txt"
     },
     {
       "year": 2003,
@@ -9425,8 +9424,7 @@ const ARTIST_DATA = {
       "venue": "de Warande",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2005-06-10 - Turnhout, Belgium - de Warande (unk) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -9986,7 +9984,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 ECM-MS907 \u00b7 unk \u00b7 2022 transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-01-28 - Paris, France - Zenith - DAT(M) (ECM-MS907) (unk) (2022 transfer) [AUD].txt"
+      "textFile": "2006-01-28 - Paris, France - Le Zenith [AUD #2].txt"
     },
     {
       "year": 2006,
@@ -10000,7 +9998,7 @@ const ARTIST_DATA = {
       "notes": "xwayne",
       "version": "AUD #2",
       "format": "FLAC",
-      "textFile": "2006-01-28 - Paris, France - Le Zenith [AUD #2].txt"
+      "textFile": "2006-01-28 - Paris, France - Zenith - DAT(M) (ECM-MS907) (unk) (2022 transfer) [AUD].txt"
     },
     {
       "year": 2006,
@@ -10014,7 +10012,7 @@ const ARTIST_DATA = {
       "notes": "Seaclose",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "2006-06-10 - Isle of Wight, UK - Isle of Wight Festival - Seaclose Park [PRO].txt"
+      "textFile": "2006-06-10 - Isle of Wight, UK - Isle of Wight Festival - Seaclose Park [PRO #2].txt"
     },
     {
       "year": 2006,
@@ -10028,7 +10026,7 @@ const ARTIST_DATA = {
       "notes": "Seaclose \u00b7 Sky HD Box",
       "version": "PRO #2",
       "format": "MKV",
-      "textFile": "2006-06-10 - Isle of Wight, UK - Isle of Wight Festival - Seaclose Park [PRO #2].txt"
+      "textFile": "2006-06-10 - Isle of Wight, UK - Isle of Wight Festival - Seaclose Park [PRO].txt"
     },
     {
       "year": 2006,
@@ -10740,7 +10738,7 @@ const ARTIST_DATA = {
       "notes": "SS DSM 6S \u00b7 chris milazzo",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2008-01-23 - Dallas, TX - American Airlines Center [AUD].txt"
+      "textFile": "2008-01-23 - Dallas, TX - American Airlines Center (DSM-6S) (chris milazzo) [AUD #1].txt"
     },
     {
       "year": 2008,
@@ -12550,7 +12548,7 @@ const ARTIST_DATA = {
       "notes": "CBS-HD",
       "version": "TV",
       "format": "TS",
-      "textFile": "2014-10-17 - Chicago, IL - The Cubby Bear [WEBCAST Audio].txt"
+      "textFile": "2014-10-17 - New York, NY - Late Show with David Letterman [TV].txt"
     },
     {
       "year": 2014,
@@ -12564,7 +12562,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Webcast",
       "format": "MKV",
-      "textFile": "2014-10-17 - Chicago, IL - The Cubby Bear [WEBCAST].txt"
+      "textFile": "2014-10-17 - Chicago, IL - The Cubby Bear [WEBCAST Audio].txt"
     },
     {
       "year": 2014,
@@ -12578,7 +12576,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "WEB",
       "format": "FLAC",
-      "textFile": "2014-10-17 - New York, NY - Late Show with David Letterman [TV].txt"
+      "textFile": "2014-10-17 - Chicago, IL - The Cubby Bear [WEBCAST].txt"
     },
     {
       "year": 2014,
@@ -14241,7 +14239,7 @@ const ARTIST_DATA = {
       "notes": "JamPad \u00b7 Dave Grohl \u00b7 PCM-A10",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2021-09-05 - Napa, CA - Bottlerock Festival (Dave Grohl) (SP-CMC-8) [AUD24].txt"
+      "textFile": "2021-09-05 - Napa, CA - Bottlerock Festival - JamPad Acoustic Stage (Dave Grohl) (PCM-A10) [AUD].txt"
     },
     {
       "year": 2021,
@@ -14255,7 +14253,7 @@ const ARTIST_DATA = {
       "notes": "Dave Grohl \u00b7 SP-CMC-8",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2021-09-05 - Napa, CA - Bottlerock Festival - JamPad Acoustic Stage (Dave Grohl) (PCM-A10) [AUD].txt"
+      "textFile": "2021-09-05 - Napa, CA - Bottlerock Festival (Dave Grohl) (SP-CMC-8) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -14842,7 +14840,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2024-08-11 - Los Angeles, CA - BMO Stadium (DPA 4081) (faninor) [AUD24].txt"
+      "textFile": "2024-08-11 - Los Angeles, CA - BMO Stadium (SP-CMC-4U) (ijwthstd) [AUD].txt"
     },
     {
       "year": 2024,
@@ -14856,7 +14854,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-08-11 - Los Angeles, CA - BMO Stadium (SP-CMC-4U) (ijwthstd) [AUD].txt"
+      "textFile": "2024-08-11 - Los Angeles, CA - BMO Stadium (DPA 4081) (faninor) [AUD24].txt"
     },
     {
       "year": 2024,

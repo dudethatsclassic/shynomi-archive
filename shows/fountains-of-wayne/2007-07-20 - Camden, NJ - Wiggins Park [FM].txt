@@ -1,15 +1,43 @@
-fow2007-07-20t15.flac:587b6a52e6a2f1c368d8398b02de0c89
-fow2007-07-20t01.flac:8981f65e24c9e0c3431c97ec32079348
-fow2007-07-20t02.flac:8ef8019e2ab269b9f424945f9b7c2498
-fow2007-07-20t03.flac:cf86585c462ed007bf21d79b92c457c6
-fow2007-07-20t04.flac:0da80b881bee028bf15cee47af898662
-fow2007-07-20t05.flac:d9f9577827d9b8fccc27348090ad2b8f
-fow2007-07-20t06.flac:19a7596374087fbd0bc40482330b80c6
-fow2007-07-20t07.flac:a8d264f2fe2317f620a42524bbc94d5c
-fow2007-07-20t08.flac:b6899c01c0dd9ebc2f54c5ec5d8d58d8
-fow2007-07-20t09.flac:f1471a2e1f47f73d0d5425a2dec6df7b
-fow2007-07-20t10.flac:34406dea0965e336446ff5bc4ac3cc29
-fow2007-07-20t11.flac:265427ecb712a0907e2c31757da5c497
-fow2007-07-20t12.flac:8e89b9719c27f5b190b40c460558b485
-fow2007-07-20t13.flac:34cfd7f0e229485e635d31091170316d
-fow2007-07-20t14.flac:68bb44734d18f07abeef560adcf6dfe4
+Fountains of Wayne
+Wiggins Park
+Camden, NJ
+July 20, 2007
+
+WXPN's "XPoNential Music Festival"
+
+
+FM-> Harmon/Kardon 3380 Receiver-> M Audio Microtrack 24/96 -> WAV-> CD Wave Editor-> FLAC Frontend-> FLAC 
+
+
+Setlist (51:15):
+
+01. Introduction
+02. I've Got A Flair
+03. No Better Place
+04. Denise
+05. Someone To Love
+06. Fire In The Canyon
+07. Hackensack
+08. Hey Julie
+09. Strapped For Cash
+10. Yolanda Hayes
+11. Mexican Wine
+12. It Must Be Summer
+13. Stacy's Mom
+14. Radiation Vibe
+15. Survival Car
+
+
+http://www.fountainsofwayne.com/
+
+http://www.myspace.com/fountainsofwayne
+
+
+
+
+Intitially seeded July 22, 2007 on http://www.dimeadozen.org
+
+
+
+
+

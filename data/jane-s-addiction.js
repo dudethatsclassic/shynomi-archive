@@ -3019,7 +3019,7 @@ const ARTIST_DATA = {
       "notes": "krewe chief / silverjetz",
       "version": "MTX",
       "format": "FLAC",
-      "textFile": "2009-06-02 - Toronto, Ontario - Molson Amphitheatre [AUD1].txt"
+      "textFile": "2009-06-02 - Toronto, Ontario - Molson Amphitheatre [AUD2].txt"
     },
     {
       "year": 2009,
@@ -3033,7 +3033,7 @@ const ARTIST_DATA = {
       "notes": "CA-14 \u00b7 krewe chief",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-06-02 - Toronto, Ontario - Molson Amphitheatre [AUD2].txt"
+      "textFile": "2009-06-02 - Toronto, Ontario - Molson Amphitheatre [AUD1].txt"
     },
     {
       "year": 2009,
@@ -3172,8 +3172,7 @@ const ARTIST_DATA = {
       "venue": "Manchester Evening News",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-07-14 - Manchester, UK - Manchester Evening News [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2009,

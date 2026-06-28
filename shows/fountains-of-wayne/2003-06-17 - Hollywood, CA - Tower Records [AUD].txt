@@ -1,7 +1,17 @@
-01 -intro-.flac:45039a8c020529ff39a475c7130c6522
-02 Red Dragon Tattoo.flac:49e2ed275761f3bd5a3dbed12bc21f79
-03 She's Got A Problem.flac:4c356266cff1c93edeaf25bd1edfb6d9
-04 Hackensack.flac:d0bc5e646db2522bca55b5d7ccb439f4
-05 Valley Winter Song.flac:28410314a569675af64eccf4e58e4a97
-06 Stacy's Mom.flac:c0e11be90577ac6502e25cc19539b916
-07 Survival Car.flac:7ea87c24ad9b6364631cb3cb5afdd95c
+FOUNTAINS OF WAYNE
+WEST HOLLYWOOD,CA:TOWER RECORDS
+6/17/03
+
+
+DSM6 -> PACLC -> M1 
+DA20 -> CDRW700 -> EAC -> FLAC Frontend Level 8 
+
+01. -intro-
+02. Red Dragon Tattoo 
+03. She's Got A Problem 
+04. Hackensack 
+05. Valley Winter Song 
+06. Stacy's Mom 
+07. Survival Car 
+  
+

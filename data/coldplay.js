@@ -253,8 +253,7 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "textFile": "2000-07-05 - XFM Radio Acoustic Session with Tim Lovejoy [XFM].flac.txt"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -870,7 +869,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "SHN",
-      "textFile": "2000-12-15 - Santa Monica, CA - KCRW Morning Becomes Eclectic [FM].txt"
+      "textFile": "2000-12-15 - Los Angeles, CA - 89.9 KCRW's Morning Becomes Eclectic [preFM].txt"
     },
     {
       "year": 2000,
@@ -884,7 +883,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "preFM",
       "format": "SHN",
-      "textFile": "2000-12-15 - Los Angeles, CA - 89.9 KCRW's Morning Becomes Eclectic [preFM].txt"
+      "textFile": "2000-12-15 - Santa Monica, CA - KCRW Morning Becomes Eclectic [FM].txt"
     },
     {
       "year": 2000,
@@ -2883,7 +2882,7 @@ const ARTIST_DATA = {
       "notes": "DSM-6S",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2002-12-06 - Tokyo, Japan - Liquid Room (DSM6S) [AUD].txt"
+      "textFile": "2002-12-06 - London, England - Later with Jools Holland, BBC Studios [TV].txt"
     },
     {
       "year": 2002,
@@ -2994,7 +2993,7 @@ const ARTIST_DATA = {
       "notes": "doulas",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2003-01-28 - Houston, TX - Verizon Wireless Theater (Sonic Studios) [AUD].txt"
+      "textFile": "2003-01-28 - Houston, TX - Verizon Wireless Theater [FM].txt"
     },
     {
       "year": 2003,
@@ -3008,7 +3007,7 @@ const ARTIST_DATA = {
       "notes": "SS-DSM6",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-01-28 - Houston, TX - Verizon Wireless Theater [FM].txt"
+      "textFile": "2003-01-28 - Houston, TX - Verizon Wireless Theater (Sonic Studios) [AUD].txt"
     },
     {
       "year": 2003,
@@ -4112,7 +4111,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2003-07-13 - Balado, Scotland - T in The Park Festival (Unknown AUD, 18 Tracks) [AUD].txt"
+      "textFile": "2003-07-13 - Kinross, Scotland - T in the Park [FM].txt"
     },
     {
       "year": 2003,
@@ -4126,7 +4125,7 @@ const ARTIST_DATA = {
       "notes": "johnky",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-07-13 - Kinross, Scotland - T in the Park [FM].txt"
+      "textFile": "2003-07-13 - Balado, Scotland - T in The Park Festival (Unknown AUD, 18 Tracks) [AUD].txt"
     },
     {
       "year": 2003,
@@ -7242,7 +7241,7 @@ const ARTIST_DATA = {
       "notes": "Bridge \u00b7 ridemyllama",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-10-24.25 - Mountain View, CA - Bridge School Benefit (Chris Martin Solo) (Schoeps) [AUD].txt"
+      "textFile": "2009-10-24 - Mountain View, CA - Shoreline Amphitheatre - Bridge School Benefit (Schoeps) [AUD].txt"
     },
     {
       "year": 2010,

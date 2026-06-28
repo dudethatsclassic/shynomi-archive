@@ -102,7 +102,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 unk \u00b7 matt hunter",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-08-12 - New Orleans, LA - Tipitina's - ANA(x) (unk) (matt) [AUD].txt"
+      "textFile": "1994-08-12 - New Orleans, LA - Tipitina's (unk) (matt hunter) [AUD].txt"
     },
     {
       "year": 1994,
@@ -1005,7 +1005,7 @@ const ARTIST_DATA = {
       "notes": "inc \u00b7 unk",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "2000-07-22 - Portland, OR - Aladdin Theatre (Incomplete) [AUD].txt"
+      "textFile": "2000-07-22 - Portland, OR - Aladdin Theatre (CSBmod) (unk) [AUD].txt"
     },
     {
       "year": 2000,

@@ -1070,7 +1070,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M)",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1995-03-19 - Denver, CO - Mammoth Events Center - Rock Star [AUD-LOSSY].txt"
+      "textFile": "1995-03-19 - AUD #1 - DAT(M)-CDR-EAC-FLAC.txt"
     },
     {
       "year": 1995,

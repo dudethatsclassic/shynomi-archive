@@ -1,21 +1,41 @@
-gus2000-03-26d1t01.flac:16743c64c2defe676eba500711b8c608
-gus2000-03-26d1t02.flac:1782cf2e5e9869a5fbc6186b922601bd
-gus2000-03-26d1t03.flac:afac324c72f98d1177615e77c3d57530
-gus2000-03-26d1t04.flac:451c754e145a60b4fa81ddd0dc652068
-gus2000-03-26d1t05.flac:de732e09b8736e12f15bde19a7b45246
-gus2000-03-26d1t06.flac:ad1c476306a211f1dd3c2c9d5a377862
-gus2000-03-26d1t07.flac:7d08be39ca2fcf6271a92e6dbfe25a25
-gus2000-03-26d1t08.flac:f67cced6f90cbb34c2a077416a207618
-gus2000-03-26d1t09.flac:912b703154482c29993f295e944c44d6
-gus2000-03-26d1t10.flac:848a8b90bc55b1ee4b76700c5a6ea48e
-gus2000-03-26d2t01.flac:aad9a875a784e05a3f024de4db31e2d0
-gus2000-03-26d2t02.flac:352ec39a1e383e747dcba23cdf40b893
-gus2000-03-26d2t03.flac:dd0caa7469a7077a1221ed53d1bcfa26
-gus2000-03-26d2t04.flac:7e914b4eb59a6c7545a8cefbb5a6769c
-gus2000-03-26d2t05.flac:5cfca29ee6185f676c10c53ff8c24683
-gus2000-03-26d2t06.flac:535b91038ddcd26599c7bdf449e6a316
-gus2000-03-26d2t07.flac:cd8ce69425cfbf0320cbfba2cdd493dc
-gus2000-03-26d2t08.flac:e93f1d70bb38ea90a3139ade4cdf2458
-gus2000-03-26d2t09.flac:37ac36e3714d081ef4d1a27fd55c9adb
-gus2000-03-26d2t10.flac:0c1f82241b9e42a5730ea1ac55775847
-gus2000-03-26d2t11.flac:990e5a3f6f1e1acb8656d6ec09b2a75f
+guster
+3/26/00
+Bradley University - Peoria, IL
+
+source:  sbd+shure vp88>mackie 1202 vlz>tce finalizer plus>dap1>m1
+
+conversion:  allan chen
+sony r300>sek'd prodif plus>samplitude (48>44.1)>cdwav
+
+cd1
+-------------
+Intro
+Happier
+Great Escape
+California Dreamin'
+Airport Song
+All The Way Up To Heaven
+Goddamn Setlists>Bouncing Round the Room>Waterfalls>Rio>Center of Attention tease
+What You Wish For
+Either Way
+Medicine
+
+cd2
+------------
+Parachute
+I Spy -> Numbers
+Bury Me
+"The Story of Guster and Their Reps"
+Demons*
+Jazz Intro>
+Barrel Of A Gun
+"Wind Beneath My Wings" tease
+Fa Fa
+E: Two Points For Honesty
+E: Mona Lisa** 
+
+            * with the Joe and Jerry Campbell (father and son) on mandolin
+            ** with Brian singing most 
+
+compiled by allan chen
+4/18/00

@@ -527,7 +527,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-10-07 - Mountain View, CA - Shoreline Amphitheatre [AUD].txt"
+      "textFile": "1995-10-07 - Mountain View, CA - Shoreline Amphitheater [AUD].txt"
     },
     {
       "year": 1995,

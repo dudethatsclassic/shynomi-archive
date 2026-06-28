@@ -842,7 +842,7 @@ const ARTIST_DATA = {
       "notes": "M \u00b7 AT-943 \u00b7 trekytt",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2015-08-10 - Stockholm, Sweden - Grona Lund Amusement Park [AUD].txt"
+      "textFile": "2015-08-10 - Stockholm, Sweden - Grona Lund (M) (AT943) (trekytt) [AUD24].txt"
     },
     {
       "year": 2016,
@@ -1303,7 +1303,7 @@ const ARTIST_DATA = {
       "notes": "Bottlerock \u00b7 SP-CMC-8 \u00b7 fried_morals",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-05-26 - Napa Valley, CA - Napa Valley Expo (Schoeps MK4s) (tj) [AUD24].txt"
+      "textFile": "2024-05-26 - Napa Valley, CA - Napa Valley Expo - Bottlerock (SP-CMC-8) (fried_morals) [AUD].txt"
     },
     {
       "year": 2024,
@@ -1317,7 +1317,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4s \u00b7 tj",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-05-26 - Napa Valley, CA - Napa Valley Expo - Bottlerock (SP-CMC-8) (fried_morals) [AUD].txt"
+      "textFile": "2024-05-26 - Napa Valley, CA - Napa Valley Expo (Schoeps MK4s) (tj) [AUD24].txt"
     },
     {
       "year": 2024,

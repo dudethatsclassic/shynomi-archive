@@ -1,12 +1,18 @@
-guster2006-09-15t01.flac:68f5bf7afb7be51cc3123671202970c9
-guster2006-09-15t02.flac:4d767883aac6884672eaff2a5bd1c50e
-guster2006-09-15t03.flac:a129a6c724c448d814a7e6f17c2e01ac
-guster2006-09-15t04.flac:b87d4385993bbf6c73cf72249791037c
-guster2006-09-15t05.flac:3c86addab2bc9280d749220151712f14
-guster2006-09-15t06.flac:35796a98cd3825d6fa6cc2d4155dd009
-guster2006-09-15t07.flac:2cb40dba4364c56881b9098c154746a5
-guster2006-09-15t08.flac:c631927f049218f6967856a3a5cf72cd
-guster2006-09-15t09.flac:d5c5ce7c32e93cb7d5608feb159098e5
-guster2006-09-15t10.flac:61ffbd8aa6235b194a7a63344c84dee4
-guster2006-09-15t11.flac:a4dd20a84ee8a4aaef2918497809a64b
-guster2006-09-15t12.flac:b26968e91e0627c8697ad49e4c75b21b
+Guster
+September 15, 2006
+Austin City Limits Festival: AMD Stage, Austin, Texas
+
+Source: Schoeps MK4 > Sonosax > iRiver 
+
+01. I Spy
+02. The Captain
+03. One Man Wrecking Machine
+04. Barrel of a Gun
+05. Ruby Falls
+06. C'Mon
+07. Airport Song
+08. Manifest Destiny
+09. Satellite
+10. Amsterdam
+11. Demons
+12. Come Downstairs and Say Hello

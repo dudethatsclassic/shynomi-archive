@@ -1,20 +1,32 @@
-Seaweed - Cheyenne WY 1992-05-09 - 01 - - warm up -.flac:fd198a82cf7dd565fd0d2f0494a978d7
-Seaweed - Cheyenne WY 1992-05-09 - 02 - Taxing.flac:47f31f1c8c7066b278943eb66664560d
-Seaweed - Cheyenne WY 1992-05-09 - 03 - One Out Of Four.flac:8b39ff4f7d8d65b0536e5d512186a184
-Seaweed - Cheyenne WY 1992-05-09 - 04 - Sit In Glass.flac:bb429bef898ac9131f8487dbe3490f5b
-Seaweed - Cheyenne WY 1992-05-09 - 05 - The Way It Ends.flac:4e2b7a405724dda70d644cc7ae97b673
-Seaweed - Cheyenne WY 1992-05-09 - 06 - Baggage.flac:13030cff5b26cec1ae92bfd85fecd5eb
-Seaweed - Cheyenne WY 1992-05-09 - 07 - Selfish.flac:9230839dbb4b0f1b036f783b2707a70a
-Seaweed - Cheyenne WY 1992-05-09 - 08 - - Cronos for President -.flac:20e7427059713ec086cf5d4917a43de3
-Seaweed - Cheyenne WY 1992-05-09 - 09 - Patchwork.flac:dc535a55108b07f92d116792adeb030a
-Seaweed - Cheyenne WY 1992-05-09 - 10 - Squint.flac:e195c443ff6b43666aa055432328ae25
-Seaweed - Cheyenne WY 1992-05-09 - 11 - Stagger.flac:c3b348a25a70cf82c5227ca44fbb9e39
-Seaweed - Cheyenne WY 1992-05-09 - 12 - Stale.flac:319185b2e34a0e15a5d9159accb38a45
-Seaweed - Cheyenne WY 1992-05-09 - 13 - Recall.flac:3b2cca87479c2c510506b5a4f96ffe48
-Seaweed - Cheyenne WY 1992-05-09 - 14 - Just A Smirk.flac:88177d642558e765ac902967ffcbe908
-Seaweed - Cheyenne WY 1992-05-09 - 15 - Clean Slate.flac:9d6b52f75d37cbcb17f6e3d5aa2187e6
-Seaweed - Cheyenne WY 1992-05-09 - 16 - go see Tree People in Denver -.flac:5519a270369cbeb9f5610d2c67c1032c
-Seaweed - Cheyenne WY 1992-05-09 - 17 - Installing.flac:47009d1b6811ad09e62bf269b74e97a5
-Seaweed - Cheyenne WY 1992-05-09 - 18 - Lovegut.flac:51a34caa64beef4e89b2c59529524113
-Seaweed - Cheyenne WY 1992-05-09 - 19 - - encore -.flac:67de0e4f77e8639e2575edb1424c7b57
-Seaweed - Cheyenne WY 1992-05-09 - 20 - Bill.flac:a2d0bd64d20520367b7965f89cf3a5d8
+Seaweed
+
+Lion's Park Community House
+Cheyenne WY (USA)
+1992-05-09
+
+Recorded: Lantz Barbour
+Transfered and Presented: SxPxDxCx
+Source: Realistic SCP-29 > cassette 
+Transfer: cassette > line-in > Adobe Audition > CDWave > FLAC 
+Time: (49:27.36)
+
+01 - warm up -
+02 Taxing
+03 One Out Of Four 
+04 Sit In Glass
+05 The Way It Ends
+06 Baggage
+07 Selfish
+08 - Cronos for President -
+09 Patchwork
+10 Squint
+11 Stagger
+12 Stale
+13 Recall
+14 Just A Smirk
+15 Clean Slate
+16 - go see Tree People in Denver -
+17 Installing
+18 Lovegut
+19 - encore -
+20 Bill

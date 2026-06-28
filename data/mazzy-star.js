@@ -82,8 +82,7 @@ const ARTIST_DATA = {
       "venue": "The Mint - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Unknown",
-      "textFile": "1993-07-15 - Los Angeles, CA - The Mint - ANA(M) (unk) [AUD].txt"
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 1993,
@@ -263,8 +262,7 @@ const ARTIST_DATA = {
       "venue": "Mercury Lounge",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM 929LT \u00b7 sebbydee",
-      "textFile": "1994-05-21 - New York, NY - Mercury Lounge (ECM 929LT) (sebbydee) [AUD].txt"
+      "notes": "ECM 929LT \u00b7 sebbydee"
     },
     {
       "year": 1994,
@@ -501,7 +499,8 @@ const ARTIST_DATA = {
       "venue": "Slim's",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "jason brodsky"
+      "notes": "jason brodsky",
+      "textFile": "1996-12-21 - San Francisco, CA - Slim's (jason brodsky) [SBD24].txt"
     },
     {
       "year": 2012,
@@ -514,7 +513,8 @@ const ARTIST_DATA = {
       "venue": "Amager Bio",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CA-11 \u00b7 Unknown"
+      "notes": "CA-11 \u00b7 Unknown",
+      "textFile": "2012-08-06 - Copenhaguen, Denmark - Amager Bio (CA-11) (unk) [AUD].txt"
     },
     {
       "year": 2013,
@@ -527,7 +527,8 @@ const ARTIST_DATA = {
       "venue": "Vic Theatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "HEB 4060 \u00b7 jb"
+      "notes": "HEB 4060 \u00b7 jb",
+      "textFile": "2013-11-13 - Chicago, IL - Vic Theatre (HEB 4060) (jb) [AUD24].txt"
     },
     {
       "year": 2019,

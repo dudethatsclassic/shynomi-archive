@@ -1,43 +1,76 @@
-sssc_20090602_t09-fixed.flac:52fe8e598b56fd3023eeafffa2312423
-ja_20090602_d1t01-fixed.flac:95f04f9b712e21b16eefcb060b0779ec
-ja_20090602_d1t02-fixed.flac:3eea4389ceb75253e9925e095edff458
-ja_20090602_d1t03-fixed.flac:c322b08b3f226c5b9c852cdd18ab4d65
-ja_20090602_d1t04-fixed.flac:f271029372f57eb2eb6365e1141fb763
-ja_20090602_d1t05-fixed.flac:217f85a82de8dbd1c3be8a05dbf3d05a
-ja_20090602_d1t06-fixed.flac:d80c3bc4b214b4a98a91e0ef9b0736c3
-ja_20090602_d1t07-fixed.flac:1c502e946eb1e1f2c026485039586b5e
-ja_20090602_d1t08-fixed.flac:fbc42e88a7e57baa4a7a5ac541c5f61a
-ja_20090602_d2t01-fixed.flac:0ad79b28f48107e3730d2ef0830f6c4a
-ja_20090602_d2t02-fixed.flac:02a10901d90419f69ac604e451ad5078
-ja_20090602_d2t03-fixed.flac:07737a319604aed10f8e9f75580d5127
-ja_20090602_d2t04-fixed.flac:8a304aeee3470d71a585556679e7ae4b
-ja_20090602_d2t05-fixed.flac:58481004947a07713c032c4439655124
-ja_20090602_d2t06-fixed.flac:1ed052a535fe6c19e3c694ab7af289bc
-ja_20090602_d2t07-fixed.flac:6ef924c66cbc70773610b4997f4e0aa8
-nin_20090602_d1t01-fixed.flac:3526d368fc3a3df96940950fd95d6276
-nin_20090602_d1t02-fixed.flac:4764737f9ec739e0cfa368dc06d689fc
-nin_20090602_d1t03-fixed.flac:22e734258e6ab9eeb5a59c35bc78eb70
-nin_20090602_d1t04-fixed.flac:3449223f34a78e3fc97a4958b859d112
-nin_20090602_d1t05-fixed.flac:a0ac9bf6864c8ea9dd320144bafb69aa
-nin_20090602_d1t06-fixed.flac:1f7b34084972ff395e43d3babfaf9c26
-nin_20090602_d1t07-fixed.flac:0c095274649de4a8784530af1d0d4421
-nin_20090602_d1t08-fixed.flac:1cfd051747dceaf0de4e0241664e1566
-nin_20090602_d1t09-fixed.flac:416612398d3d067fe2dddad26b351161
-nin_20090602_d1t10-fixed.flac:75bb466026de0934b5d4160d8f2a4e02
-nin_20090602_d1t11-fixed.flac:3b9120555a3f331de601d1588bc5f872
-nin_20090602_d2t01-fixed.flac:a78359dcc74355127080d948918de43a
-nin_20090602_d2t02-fixed.flac:c1225ab37743dc1c49a602f9cd19aa09
-nin_20090602_d2t03-fixed.flac:87a82e7f92d6121119a5c1817baebd2b
-nin_20090602_d2t04-fixed.flac:cd97f253780160a3735907be22ea07d8
-nin_20090602_d2t05-fixed.flac:f33f3cfa18d4ea8827d43a58a4cb263e
-nin_20090602_d2t06-fixed.flac:bebaad370eb8b2bcdc0184990c5f5d1d
-nin_20090602_d2t07-fixed.flac:f08de63b13d7b0436af1a7b03971b52f
-nin_20090602_d2t08-fixed.flac:a53c1c16e3178931d2b3491485720a93
-sssc_20090602_t01-fixed.flac:94b214e518cf25d4516bc7c40bffd515
-sssc_20090602_t02-fixed.flac:be7f447d6cd5eb1b986728c7249f6e42
-sssc_20090602_t03-fixed.flac:322c83f2f957fa570b9842c64f962d72
-sssc_20090602_t04-fixed.flac:95d18d596f502e02b7d906198acc888d
-sssc_20090602_t05-fixed.flac:acc3437d790f79796fc1a80bf2b033de
-sssc_20090602_t06-fixed.flac:7e3966619cb269a648a9e730065c60be
-sssc_20090602_t07-fixed.flac:0575350cd0cf9783c1d64f55646ecffc
-sssc_20090602_t08-fixed.flac:0917240ae183d8827c6cf96967c7844c
+NINJA Tour 2009
+Molson Amphitheatre
+Toronto ON
+2009-06-02
+
+source: Church Audio (CA-11)Cardioids>CA STC-9000 Pre-Amp >Edirol R-09 at 16bit >USB >Sonic Foundry > FlacFrontend
+recorded by krewe chief
+
+
+
+Street Sweeper Social Club
+
+01 	Intro
+02 	Fight! Smash! Win! 
+03 	Somewhere In The World It's Midnight 
+04 	Paper Planes# 
+05 	The Oath 
+06 	100 Little Curses 
+07 	Promenade 
+08 	Tom Morello talks
+09 	Nobody Moves (Til We Say Go) 
+
+
+NIN
+
+Disc 1
+
+01	Now I'm Nothing (Lollapalooza '91 Intro)
+02	Terrible Lie (Pretty Hate Machine)
+03	1,000,000 (The Slip)
+04	Heresy (The Downward Spiral)
+05	March of the Pigs (The Downward Spiral)
+06	Metal (Gary Numan cover) 
+07	The Becoming (The Downward Spiral)
+08	I'm Afraid Of Americans (David Bowie cover)
+09	Burn (Natural Born Killers Soundtrack)
+10	Gave Up (Broken)
+11	I Do Not Want This (The Downward Spiral)
+
+Disc 2
+
+01	The Fragile (The Fragile)
+02	The Way Out Is Through (The Fragile)
+03	Wish (Broken)
+04	Survivalism (Year Zero)
+05	Mr. Self Destruct (The Downward Spiral)
+06	The Hand That Feeds (With Teeth)
+07	Head Like A Hole (Pretty Hate Machine)
+Encore:
+08	Hurt 
+
+Jane's Addiction 
+
+Disc 1
+
+01	Intro
+02	Three Days (Ritual De Lo Habitual)
+03	Whores (Jane's Addiction)
+04	Ain't No Right (Ritual De Lo Habitual)
+05	Pigs in Zen (Jane's Addiction)
+06	Then She Did (Ritual De Lo Habitual)
+07	Up the Beach (Nothing's Shocking)
+08	Mountain Song (Nothing's Shocking) 
+Disc 2  
+
+01	 Been Caught Stealing (Ritual De Lo Habitual)
+02	 Had a Dad (Nothing's Shocking)
+03	 Ted, Just Admit It  (Nothing's Shocking)
+04	 Ocean Size (Nothing's Shocking)
+------------
+05	 Summertime Rolls (Nothing's Shocking)
+06	 Stop!  (Ritual De Lo Habitual)
+07	 Jane Says (Jane's Addiction)
+	 
+	  
+

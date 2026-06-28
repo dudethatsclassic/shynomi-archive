@@ -1,15 +1,26 @@
-Coldplay 2003-02-12d1t01 Politik.flac:f0c5c3534a2e8ab91f318fcfb1124d8e
-Coldplay 2003-02-12d1t02 God Put A Smile Upon Your Face.flac:5063e91006509dce1f6dc8325faaa34a
-Coldplay 2003-02-12d1t03 Spies.flac:0e4fd646f85f109342702c11fea04c66
-Coldplay 2003-02-12d1t04 Daylight.flac:bd57fca5066916d3076ec697d477fec9
-Coldplay 2003-02-12d1t05 Trouble.flac:973e6b9bfaa196032834fd22b73c9a87
-Coldplay 2003-02-12d1t06 One I Love.flac:738545fe08f7d6d2d3fa22ce83047814
-Coldplay 2003-02-12d1t07 A Rush Of Blood To The Head.flac:53f47909ca62fe69cc0138cea21dc585
-Coldplay 2003-02-12d1t08 Don't Panic.flac:23a5621e2fce0f20f49b2f3db0c34ab2
-Coldplay 2003-02-12d1t09 Everything's Not Lost.flac:e996099abb48092129e02979a9a4809f
-Coldplay 2003-02-12d1t10 Poor Me.flac:e71cfbb127fe5eef5bc1375479f0897c
-Coldplay 2003-03-12d2t01 Yellow.flac:c863f17810dae79366b6c29aed5f9057
-Coldplay 2003-03-12d2t02 The Scientist.flac:599623644ceebedfd748cec173854914
-Coldplay 2003-03-12d2t03 Clocks.flac:12519b5608f71e05a8836d136084b670
-Coldplay 2003-03-12d2t04 In My Place.flac:e7ff0cb4ccb99d822987000022fe00c8
-Coldplay 2003-03-12d2t05 Ladder To The Sun.flac:2117cfde4be52de249388e76bf6abced
+Coldplay
+Milwaukee, Wi
+The Eagles Ballroom
+2003-03-12
+
+Source: CoreSounds Cardiods (with bass filter) > D100 > CDR
+
+01. Politik
+02. God Put A Smile Upon Your Face
+03. Spies
+04. Daylight
+05. Trouble 
+06. One I Love
+07. A Rush Of Blood To The Head
+08. Don't Panic
+09. Everything's Not Lost
+10. Poor Me
+11. Yellow
+12. The Scientist
+E1:
+13. Clocks
+14. In My Place
+E2:
+15. Ladder To The Sun
+
+Note: Aud, Rating is a 7 out of 7. Sounds really good

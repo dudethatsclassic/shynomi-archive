@@ -1,10 +1,23 @@
-20080619coldplay0001.flac:8776f201cbecd2b1e6126951eab5f1bb
-20080619coldplay0002.flac:67e60e74a44f7834fbed66a801188bda
-20080619coldplay0003.flac:6d36e3dc7fe7ffb48ccb2349cf3b406c
-20080619coldplay0004.flac:ce9ddb46a41d2628b58b214fdaebec81
-20080619coldplay0005.flac:65cefbba0ed7b309524b126cfae75951
-20080619coldplay0006.flac:524684a72776a60ea6ca2b26cc84d3e7
-20080619coldplay0007.flac:dd655e766b209be3a43df8a8b61a3e71
-20080619coldplay0008.flac:afcdb19d58d3ed01839506f4132fc8bc
-20080619coldplay0009.flac:de133fcb6803d3a47d193df27be08cd7
-20080619coldplay0010.flac:17519b639d9adbde2f035e3cdd5e805b
+COLDPLAY
+2008-06-19, Docks
+Saint Denis, France
+
+"Concert Privé" W9 French TV Broadcast
+
+Lineage: Satellite> Audition 3> WAV> FLAC
+
+Setlist
+
+01 - Intro
+02 - Violet Hill
+03 - Clocks
+04 - Viva La Vida
+05 - 42
+06 - Q&A
+07 - Fix you
+08 - Lovers In Japan
+09 - Outro
+10 - Interview
+
+
+Notes: Version with interviews.

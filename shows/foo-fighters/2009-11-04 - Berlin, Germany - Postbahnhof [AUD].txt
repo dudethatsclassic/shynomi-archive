@@ -1,26 +1,42 @@
-ff 091104 tr02.flac:5fecde19162d148b5c39dec21517924b
-ff 091104 tr03.flac:d01a200d1b2e57016f2ab901b0b56f1e
-ff 091104 tr04.flac:7deaed00c5b4902465840c79c99cb352
-ff 091104 tr05.flac:e9a5faf9e1b99e99d138f66dc1307dd9
-ff 091104 tr06.flac:e4d9b6b7a1bb24ac564afdf22026b5c9
-ff 091104 tr07.flac:4348f2cd1e4139640d596e29068e4854
-ff 091104 tr08.flac:daa63a3b74e3a756b1dcaa19f845e4b7
-ff 091104 tr09.flac:59fe99e152ea7a382928f08e17190a85
-ff 091104 tr10.flac:978d3e2509fea42ea61371e5c34ca354
-ff 091104 tr11.flac:f429b68ff2c7088dd077640ce96d0cd7
-ff 091104 tr12.flac:ddc5605fd5aa0c3f0c30ee7a53591175
-ff 091104 tr13.flac:c9dd0471d8ab52590431205998698aac
-ff 091104 tr14.flac:7945be93207f364d0579491d0ee69749
-ff 091104 tr15.flac:b178199198ec74d272d59b2d59e61cd8
-ff 091104 tr16.flac:f7dab934c6b216f312d4d1c44a6c17ee
-ff 091104 tr17.flac:aef045071bde85f512b9830b69db3bbd
-ff 091104 tr18.flac:f0c0a70fa8e80a2058c2995c33961cbb
-ff 091104 tr19.flac:a44b7e31c03d9fbf045657f1f6fb47a1
-ff 091104 tr20.flac:e8c15acffa7c48a9f1e49355b1e592ea
-ff 091104 tr21.flac:b3f2127e2100c2768f76fd2b76cf2929
-ff 091104 tr22.flac:bf8b57f3ae44952c2bd23c10c6caa22c
-ff 091104 tr23.flac:ab14489174225534e5ee98235dcd6820
-ff 091104 tr24.flac:263a7055fbd6a57c9d41a4f999f92607
-ff 091104 tr25.flac:e570508ab641f6fb41848434514e186c
-ff 091104 tr26.flac:d3c3e4a5a68a25d68e2c06f767626ca1
-ff 091104 tr27.flac:2720d98b94189f6fb8477be74904a207
+
+FOO FIGHTERS
+Postbahnhof, Berlin, GER   4. Nov. 2009
+
+Disc 1:
+01.  = missing =
+02.  Hero
+03.  
+04.  Times Like These
+05.  
+06.  Young Man Blues
+07.  
+08.  
+09.  All My Life
+10.  
+11.  band introduction
+12.  Cold Day In The Sun
+13.  
+14.  
+15.  
+16.  
+17.  intro to...
+18.  Word Forward
+19.  
+20.  
+21.  
+22.  
+23.  
+24.  Skin And Bones
+25.  
+26.  
+encore:
+27.  Everlong
+
+
+approx.  126 mins
+
+Recording Info:
+recorded by Vortex242
+OKM IIr > A3 > EDIROL R-09HR (44.1/16) >
+USB > WAV > Adobe Audition (EQing) > CDwave (tracking)
+> FLAC frontend (level 6, verify, with align on sector boundaries)

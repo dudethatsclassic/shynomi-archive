@@ -1,21 +1,38 @@
-guster2006-04-15t01.flac:c49e948dbd58a61a5f795ba43c49c8cc
-guster2006-04-15t02.flac:3c182f5b0f6cf3e47b514affc3ace68c
-guster2006-04-15t03.flac:2420d522adf0166ce516bab0982269c1
-guster2006-04-15t04.flac:b5f58d5ec1df1ef8f182535bec192b09
-guster2006-04-15t05.flac:899731e513ff6263cf199b615caaeba2
-guster2006-04-15t06.flac:1c204e8166705eb40f8d7950d862dbca
-guster2006-04-15t07.flac:5da24a8bcef3884937a4efc2c21235bb
-guster2006-04-15t08.flac:4e0fcfff3ad45fe2a5f3deb02ef01ced
-guster2006-04-15t09.flac:aef203b99701e8ceccec33fb04d407e7
-guster2006-04-15t10.flac:b11863d1ff420d91579ad490d310914b
-guster2006-04-15t11.flac:28f688276fc23e45b9a64f6e17a7ed4d
-guster2006-04-15t12.flac:fc62a9ca8cf1597e8eef5306f58f9926
-guster2006-04-15t13.flac:bd5451af5cdf09de6e13e0b8edec314c
-guster2006-04-15t14.flac:100918223a20b5269c93145e117e1d6f
-guster2006-04-15t15.flac:d8953f6df25998beb740c18a68d83c64
-guster2006-04-15t16.flac:412a2702b78dbc9cee9b8857cea2738b
-guster2006-04-15t17.flac:0b83bd491cfece8f2352d56eb07bb674
-guster2006-04-15t18.flac:2c0f9ef738b2b5aedcf08cf979e17051
-guster2006-04-15t19.flac:50a3343e331158b24d23acf2cb51caa5
-guster2006-04-15t20.flac:b0549e6e9c4a4ff5cb209c4a3dc6c49e
-guster2006-04-15t21.flac:659ca16071ca9630a2204b52eb07bb0d
+Guster
+April 15th, 2006
+Merritt Athletic Center
+SUNY-Geneseo
+Geneseo, NY
+
+Source: Schoeps MK4(ORTF)->KCY->VMS 02 IB -> R1 (24/41)  ** 24 Bit **
+Transfer: Adobe Audition 1.5 (fade in/out)->cd wave->flac
+Taped by: Daniel Godwin (daniel@upstatetapers.org)
+Transferred by: Daniel Godwin (daniel@upstatetapers.org)
+Size: 942 MB (Flac) 
+
+Setlist:
+
+01. Barrel of a Gun
+02. The Captain
+03. Keep It Together
+04. I Spy
+05. Manifest Destiny
+06. I wanna Play Some Bocce improv
+07. Amsterdam
+08. Ramona
+09. Two Points for Honesty
+10. Airport Song
+11. One Man Wrecking Machine
+12. Careful
+13. Either Way
+14. wave/Wipeout improv
+15. The New Underground
+16. Happier
+17. Come Downstairs and Say Hello
+anti-encore:
+18. anti-encore silence
+19. Hang On
+20. The Great Escape
+21. Demons
+
+Notes:  24 bit version.  Do not convert to 16 bit or mp3's.  If you need 16 bit, download the 16 bit version, which is also available.  Questions, email me:  daniel@upstatetapers.org

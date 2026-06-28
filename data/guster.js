@@ -7449,7 +7449,7 @@ const ARTIST_DATA = {
       "notes": "Zoom H1 \u00b7 acady",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-04-05 - Chicago, IL - Vic Theatre (CA-14s) (brian emerick) [AUD24].txt"
+      "textFile": "2012-04-05 - Chicago, IL - Vic Theatre (Zoom H1) (acady) [AUD].txt"
     },
     {
       "year": 2012,
@@ -7463,7 +7463,7 @@ const ARTIST_DATA = {
       "notes": "WXRT \u00b7 beth prins",
       "version": "WEB",
       "format": "FLAC",
-      "textFile": "2012-04-05 - Chicago, IL - Vic Theatre (Zoom H1) (acady) [AUD].txt"
+      "textFile": "2012-04-05 - Chicago, IL - Yak-Zies Bar & Grill (Wrigleyville) - WXRT Webstream (beth prins) [WEB].txt"
     },
     {
       "year": 2012,
@@ -7477,7 +7477,7 @@ const ARTIST_DATA = {
       "notes": "CA-14s \u00b7 brian emerick",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2012-04-05 - Chicago, IL - Yak-Zies Bar & Grill (Wrigleyville) - WXRT Webstream (beth prins) [WEB].txt"
+      "textFile": "2012-04-05 - Chicago, IL - Vic Theatre (CA-14s) (brian emerick) [AUD24].txt"
     },
     {
       "year": 2012,
@@ -7519,7 +7519,7 @@ const ARTIST_DATA = {
       "notes": "Zoom H2 \u00b7 ken parry",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-04-19 - Tarrytown, NY - Tarrytown Music Hall (DPA 4021s) (eric vandercar) [AUD24].txt"
+      "textFile": "2012-04-19 - Tarrytown, NY - Tarrytown Music Hall (Zoom H2) (ken parry) [AUD].txt"
     },
     {
       "year": 2012,
@@ -7533,7 +7533,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4021s \u00b7 eric vandercar",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2012-04-19 - Tarrytown, NY - Tarrytown Music Hall (Zoom H2) (ken parry) [AUD].txt"
+      "textFile": "2012-04-19 - Tarrytown, NY - Tarrytown Music Hall (DPA 4021s) (eric vandercar) [AUD24].txt"
     },
     {
       "year": 2012,
@@ -8149,7 +8149,7 @@ const ARTIST_DATA = {
       "notes": "The \u00b7 Busman BSC-1 \u00b7 cam keough",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-07-18 - Boston, MA - Boston Commons (KM201s) (dave mallick) [AUD24].txt"
+      "textFile": "2015-07-18 - Boston, MA - Boston Commons - The Box Earth Fest (Busman BSC-1) (cam keough) [AUD].txt"
     },
     {
       "year": 2015,
@@ -8163,7 +8163,7 @@ const ARTIST_DATA = {
       "notes": "KM201s \u00b7 dave mallick",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2015-07-18 - Boston, MA - Boston Commons - The Box Earth Fest (Busman BSC-1) (cam keough) [AUD].txt"
+      "textFile": "2015-07-18 - Boston, MA - Boston Commons (KM201s) (dave mallick) [AUD24].txt"
     },
     {
       "year": 2015,
@@ -8443,7 +8443,7 @@ const ARTIST_DATA = {
       "notes": "Night \u00b7 ECM-719 \u00b7 brian",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2016-01-16 - Boston, MA - House of Blues (KM201s) (dave mallick) [AUD24].txt"
+      "textFile": "2016-01-16 - Boston, MA - House of Blues - Night 2 (ECM-719) (brian) [AUD].txt"
     },
     {
       "year": 2016,
@@ -8457,7 +8457,7 @@ const ARTIST_DATA = {
       "notes": "KM201s \u00b7 dave mallick",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2016-01-16 - Boston, MA - House of Blues - Night 2 (ECM-719) (brian) [AUD].txt"
+      "textFile": "2016-01-16 - Boston, MA - House of Blues (KM201s) (dave mallick) [AUD24].txt"
     },
     {
       "year": 2016,
@@ -8513,7 +8513,7 @@ const ARTIST_DATA = {
       "notes": "Soundcheck \u00b7 SP-CMC-2 \u00b7 kingjeff",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2016-06-11 - Lowell, MA - Boarding House Park (KM201s) (dave mallick) [AUD24].txt"
+      "textFile": "2016-06-11 - Lowell, MA - Boarding House Park - Soundcheck (SP-CMC-2) (kingjeff) [AUD].txt"
     },
     {
       "year": 2016,
@@ -8527,7 +8527,7 @@ const ARTIST_DATA = {
       "notes": "KM201s \u00b7 dave mallick",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2016-06-11 - Lowell, MA - Boarding House Park - Soundcheck (SP-CMC-2) (kingjeff) [AUD].txt"
+      "textFile": "2016-06-11 - Lowell, MA - Boarding House Park (KM201s) (dave mallick) [AUD24].txt"
     },
     {
       "year": 2016,
@@ -8779,7 +8779,7 @@ const ARTIST_DATA = {
       "notes": "Zoom H1 \u00b7 acady",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2017-01-13 - Boston, MA - Newsfeed Cafe - Boston Public Library (Early) (KM201s) (dave mallick) [AUD24].txt"
+      "textFile": "2017-01-13 - Boston, MA - Paradise Rock Club (Zoom H1) (acady) [AUD].txt"
     },
     {
       "year": 2017,
@@ -8793,7 +8793,7 @@ const ARTIST_DATA = {
       "notes": "Late show \u00b7 KM201s \u00b7 dave mallick",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2017-01-13 - Boston, MA - Paradise Rock Club (Late show) (KM201s) (dave mallick) [AUD24].txt"
+      "textFile": "2017-01-13 - Boston, MA - Newsfeed Cafe - Boston Public Library (Early) (KM201s) (dave mallick) [AUD24].txt"
     },
     {
       "year": 2017,
@@ -8807,7 +8807,7 @@ const ARTIST_DATA = {
       "notes": "Boston \u00b7 Early \u00b7 KM201s \u00b7 dave mallick",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2017-01-13 - Boston, MA - Paradise Rock Club (Zoom H1) (acady) [AUD].txt"
+      "textFile": "2017-01-13 - Boston, MA - Paradise Rock Club (Late show) (KM201s) (dave mallick) [AUD24].txt"
     },
     {
       "year": 2017,
@@ -8821,7 +8821,7 @@ const ARTIST_DATA = {
       "notes": "Zoom H1 \u00b7 acady",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2017-01-14 - Boston, MA - Paradise Rock Club (KM201s) (dave mallick) [AUD24].txt"
+      "textFile": "2017-01-14 - Boston, MA - Paradise Rock Club (Zoom H1) (acady) [AUD].txt"
     },
     {
       "year": 2017,
@@ -8835,7 +8835,7 @@ const ARTIST_DATA = {
       "notes": "KM201s \u00b7 dave mallick",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2017-01-14 - Boston, MA - Paradise Rock Club (Zoom H1) (acady) [AUD].txt"
+      "textFile": "2017-01-14 - Boston, MA - Paradise Rock Club (KM201s) (dave mallick) [AUD24].txt"
     },
     {
       "year": 2017,
@@ -9589,7 +9589,7 @@ const ARTIST_DATA = {
       "notes": "KM201s \u00b7 dave mallick",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2019-03-23 - Philadelphia, PA - The Fillmore (Gefell M300) (unk) [AUD24].txt"
+      "textFile": "2019-03-23 - Philadelphia, PA - The Fillmore (KM201s) (dave mallick) [AUD24].txt"
     },
     {
       "year": 2019,
@@ -9617,7 +9617,7 @@ const ARTIST_DATA = {
       "notes": "Gefell M300 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2019-03-23 - Philadelphia, PA - The Fillmore (KM201s) (dave mallick) [AUD24].txt"
+      "textFile": "2019-03-23 - Philadelphia, PA - The Fillmore (Gefell M300) (unk) [AUD24].txt"
     },
     {
       "year": 2019,
@@ -9827,7 +9827,7 @@ const ARTIST_DATA = {
       "notes": "Zoom H1 \u00b7 acady",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2019-08-09 - Portland, ME - First Parish Church (KM201s) (dave mallick) [AUD24].txt"
+      "textFile": "2019-08-09 - Portland, ME - First Parish Church (Zoom H1) (acady) [AUD].txt"
     },
     {
       "year": 2019,
@@ -9841,7 +9841,7 @@ const ARTIST_DATA = {
       "notes": "KM201s \u00b7 dave mallick",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2019-08-09 - Portland, ME - First Parish Church (Zoom H1) (acady) [AUD].txt"
+      "textFile": "2019-08-09 - Portland, ME - First Parish Church (KM201s) (dave mallick) [AUD24].txt"
     },
     {
       "year": 2019,
@@ -10065,7 +10065,7 @@ const ARTIST_DATA = {
       "notes": "Zoom H1 \u00b7 acady",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2020-03-07 - Iowa City, IA - Englert Auditorium (KM201s) (dave mallick) [AUD24].txt"
+      "textFile": "2020-03-07 - Iowa City, IA - Englert Theater (Zoom H1) (acady) [AUD].txt"
     },
     {
       "year": 2020,
@@ -10079,7 +10079,7 @@ const ARTIST_DATA = {
       "notes": "KM201s \u00b7 dave mallick",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2020-03-07 - Iowa City, IA - Englert Theater (Zoom H1) (acady) [AUD].txt"
+      "textFile": "2020-03-07 - Iowa City, IA - Englert Auditorium (KM201s) (dave mallick) [AUD24].txt"
     },
     {
       "year": 2020,
@@ -10149,7 +10149,7 @@ const ARTIST_DATA = {
       "notes": "Cheshire \u00b7 Early \u00b7 KM201s \u00b7 dave mallick",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2020-08-15 - Swanzey, NH - Cheshire Fair Grounds (CA-14) (kevin nastasia) [AUD24].txt"
+      "textFile": "2020-08-15 - Swanzey, NH - Drive-in Live - Cheshire Faigrounds (Early) (KM201s) (dave mallick) [AUD].txt"
     },
     {
       "year": 2020,
@@ -10163,7 +10163,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2020-08-15 - Swanzey, NH - Drive-in Live - Cheshire Faigrounds (Early) (KM201s) (dave mallick) [AUD].txt"
+      "textFile": "2020-08-15 - Swanzey, NH - Drive-in Live - Cheshire Fairgrounds (Late) (ECM-719) (brian) [AUD].txt"
     },
     {
       "year": 2020,
@@ -10177,7 +10177,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2020-08-15 - Swanzey, NH - Drive-in Live - Cheshire Fairgrounds (Late) (ECM-719) (brian) [AUD].txt"
+      "textFile": "2020-08-15 - Swanzey, NH - Drive-in Live - Cheshire Fairgrounds (Late) (KM201s) (dave mallick) [AUD].txt"
     },
     {
       "year": 2020,
@@ -10191,7 +10191,7 @@ const ARTIST_DATA = {
       "notes": "CA-14 \u00b7 kevin nastasia",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2020-08-15 - Swanzey, NH - Drive-in Live - Cheshire Fairgrounds (Late) (KM201s) (dave mallick) [AUD].txt"
+      "textFile": "2020-08-15 - Swanzey, NH - Cheshire Fair Grounds (CA-14) (kevin nastasia) [AUD24].txt"
     },
     {
       "year": 2020,
@@ -10871,7 +10871,7 @@ const ARTIST_DATA = {
       "notes": "On \u00b7 AKG C414 XLII \u00b7 zachary semcken",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2023-08-13 - Portland, ME - Thompson's Point (Elation KM201s) (dave mallick) [AUD24].txt"
+      "textFile": "2023-08-13 - Portland, ME - Thompson's Point - On the Ocean (AKG C414 XLII) (zachary semcken) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -10885,7 +10885,7 @@ const ARTIST_DATA = {
       "notes": "Elation KM201s \u00b7 dave mallick",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2023-08-13 - Portland, ME - Thompson's Point (Zoom H1n) (acady) [AUD24].txt"
+      "textFile": "2023-08-13 - Portland, ME - Thompson's Point (Elation KM201s) (dave mallick) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -10899,7 +10899,7 @@ const ARTIST_DATA = {
       "notes": "Zoom H1n \u00b7 acady",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2023-08-13 - Portland, ME - Thompson's Point - On the Ocean (AKG C414 XLII) (zachary semcken) [AUD24].txt"
+      "textFile": "2023-08-13 - Portland, ME - Thompson's Point (Zoom H1n) (acady) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -11569,7 +11569,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 cameron frye",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-03-28 - Washington, DC - Kennedy Center Concert Hall (Deity PR2) (pippi longstocking) [AUD24].txt"
+      "textFile": "2025-03-28 - Washington, DC - Kennedy Center Concert Hall (unk) (cameron frye) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -11583,7 +11583,7 @@ const ARTIST_DATA = {
       "notes": "Deity PR2 \u00b7 pippi longstocking",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-03-28 - Washington, DC - Kennedy Center Concert Hall (unk) (cameron frye) [AUD24].txt"
+      "textFile": "2025-03-28 - Washington, DC - Kennedy Center Concert Hall (Deity PR2) (pippi longstocking) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -11611,7 +11611,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 cameron frye",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-03-29 - Washington, DC - Kennedy Center Concert Hall (Deity PR2) (zack morris) [AUD24].txt"
+      "textFile": "2025-03-29 - Washington, DC - Kennedy Center Concert Hall (unk) (cameron frye) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -11625,7 +11625,7 @@ const ARTIST_DATA = {
       "notes": "Deity PR2 \u00b7 zack morris",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-03-29 - Washington, DC - Kennedy Center Concert Hall (unk) (cameron frye) [AUD24].txt"
+      "textFile": "2025-03-29 - Washington, DC - Kennedy Center Concert Hall (Deity PR2) (zack morris) [AUD24].txt"
     },
     {
       "year": 2025,

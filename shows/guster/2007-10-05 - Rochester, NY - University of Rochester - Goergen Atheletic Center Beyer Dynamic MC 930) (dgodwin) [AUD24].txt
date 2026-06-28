@@ -1,21 +1,37 @@
-guster2007-10-05t01.flac:e3337feb925b6cba04916c9f894517e6
-guster2007-10-05t02.flac:62d91b397ca0f039f67ec5831a0fde52
-guster2007-10-05t03.flac:0ebcf2e1ad80365fdcf02a3363cf5bb3
-guster2007-10-05t04.flac:6fc7cbfc5f9c028c5d8457cde9c6e4c2
-guster2007-10-05t05.flac:cbfbad832a49f04062a6e46ebec3c337
-guster2007-10-05t06.flac:a5d9519fe0c8b19c95989eb3683d4d7d
-guster2007-10-05t07.flac:57f9c8916ca3ff6f2d9cdec0fcfaed1d
-guster2007-10-05t08.flac:fdb29768d1f091b0a828addeec9e8a2f
-guster2007-10-05t09.flac:8d1bb6af8fbf40be494d027413702337
-guster2007-10-05t10.flac:497eba67e45e38b0b115cf2410120bff
-guster2007-10-05t11.flac:666f1a7affc22556f279851c420a777a
-guster2007-10-05t12.flac:603a1940df4f5d95bfe00f27f58821d2
-guster2007-10-05t13.flac:2f5f6107d4c0c902f360abd74e4f22bd
-guster2007-10-05t14.flac:218bae81231c4d4f684250c62f1fcde3
-guster2007-10-05t15.flac:78223bf18d62f9e83ce92c1e4832971f
-guster2007-10-05t16.flac:459bfc3794bd52b8425cc889c9e98839
-guster2007-10-05t17.flac:6b3c38198587af2739b474c1cf7e33ac
-guster2007-10-05t18.flac:91661a0d1f80539602d05956f4b5da59
-guster2007-10-05t19.flac:3ae1cb21fbb0dbb228e0651812790f92
-guster2007-10-05t20.flac:d21f611bb03248d2b2bb9243bd1ac9cf
-guster2007-10-05t21.flac:aa31567dfdae235d4639130df910f8c9
+Guster
+October 5th, 2007
+Goergen Athletic Center The Palestra
+University of Rochester
+Rochester, NY
+
+Source:  Beyer Dynamic MC 930 -> R4 (24/48)
+Transfer: R4 -> Audition (fades) -> CDwav -> flac  **24 bit**
+Taped by: DGodwin (daniel@upstatetapers.org)
+Transferred by: DGodwin (daniel@upstatetapers.org)
+Size: 1.07 GB (flac)
+
+Setlist:
+01. What You Wish For
+02. The Captain
+03. Keep It Together
+04. The New Underground
+05. Demons
+06. Center of Attention
+07. One Man Wrecking Machine
+08. wind power jam
+09. Red Oyster Cult
+10. Manifest Destiny
+11. Airport Song
+12. Ruby Falls
+13. G Major
+14. The Great Escape
+15. Lightning Rod
+16. Satellite
+17. Amsterdam
+18. Fa Fa
+encore:
+19. Mona Lisa
+20. Come Downstairs And Say Hello
+21. Happier
+
+Notes:  Some clipping due to aggressive recordign levels.  Room acoustics were not the best, due to being in a gym/field house.  Questions, email me:  daniel@upstatetapers.org

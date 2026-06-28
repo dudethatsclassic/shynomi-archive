@@ -1,19 +1,32 @@
-guster2009-07-25t01.flac:6b4f2b1406f7036628727406c41e8a06
-guster2009-07-25t02.flac:25d6e329f937f10e051d7f49a734d16a
-guster2009-07-25t03.flac:8efa2eed7b0b369988eb9a8f2e317fd6
-guster2009-07-25t04.flac:3cf2a4189ee1e138d57bd028cb9fdf43
-guster2009-07-25t05.flac:cbf47135e6697d2db6fb999947e01fb4
-guster2009-07-25t06.flac:904c7e7b65c0a590a624ef046ab0e25f
-guster2009-07-25t07.flac:9a07cd65af3b110a293d5e29ce0d9e77
-guster2009-07-25t08.flac:f0c0bb6e7d96dee69ed043cf15e55753
-guster2009-07-25t09.flac:f56d7f738c6d4f9bad2411ad3413a140
-guster2009-07-25t10.flac:9e4825cc12babdb5d4353d1e938214ee
-guster2009-07-25t11.flac:0356fcaa8593a9ac3ded482b09526f18
-guster2009-07-25t12.flac:0db43a144fb2d5e1464c7918c09fffe0
-guster2009-07-25t13.flac:5399f845b7e1b11c9c0c7a1decedbcf4
-guster2009-07-25t14.flac:0da763420ee58d992861c9e7519bdeb1
-guster2009-07-25t15.flac:dca99d90676abae98185c793d25a4029
-guster2009-07-25t16.flac:f7812bc87861a857e61a43259c772f41
-guster2009-07-25t17.flac:8d969bfa2671015dc221fa473dc4f210
-guster2009-07-25t18.flac:e421c52ca6a1df6830e74d2a48d5f51f
-guster2009-07-25t19.flac:907c65742c182857e3d8d5254ce93425
+Guster
+Gathering Of The Vibes
+Seaside Park
+Bridgeport, CT
+July 25, 2009
+
+
+Source: Neumann TLM-170R (hyper) > Lunatec V3 > SD788T-SSD
+Conversion:  SD788T-SSD > Adobe Audition 3.0 (Fades, Sample Conversion) > CDWav > FLAC
+Taper:  R. McKinney
+
+
+Tracklist:
+1. The Captain
+2. One Man Wrecking Machine
+3. Red Oyster Cult>
+4. Don't Fear The Reaper
+5. Manifest Destiny
+6. Backyard
+7. Satellite
+8. Barrel Of A Gun
+9. On My Own
+10. G Major
+11. Airport Song
+12. Jonah
+13. Hang On
+14. Come Downstairs & Say Hello
+15. Demons
+16. Center Of Attention
+17. Ruby Falls
+18. C'mon
+19. Fa Fa

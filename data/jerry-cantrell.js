@@ -211,7 +211,7 @@ const ARTIST_DATA = {
       "notes": "AT933 \u00b7 sxpxdxcx",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-03-27 - Denver, CO - Ogden Theatre (AT933) (sxpxdxcx) [AUD].txt"
+      "textFile": "2023-03-27 - Denver, CO - Ogden Theater (Olympus LS-12) (bluejane99) [AUD].txt"
     },
     {
       "year": 2024,

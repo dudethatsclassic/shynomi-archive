@@ -26,7 +26,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Red Eye Theater",
-      "notes": "ANA(1) · Radio Shack PZMs · j. free",
+      "notes": "ANA(1) \u00b7 Radio Shack PZMs \u00b7 j. free",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1993-09-30 - Minneapolis, MN - Red Eye Theater - ANA(1) (Radio Shack PZMs) (j. free) [AUD24].txt"
@@ -40,7 +40,7 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Lawrence, KS",
       "venue": "KJHK-FM",
-      "notes": "ANA(1) · unk",
+      "notes": "ANA(1) \u00b7 unk",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1994-05-02 - Lawrence, KS - KJHK-FM - ANA(1) (unk) [FM].shn.txt"
@@ -54,7 +54,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Seventh Street Entry",
-      "notes": "Radioshack PZMs · j. free",
+      "notes": "Radioshack PZMs \u00b7 j. free",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1994-07-16 - Minneapolis, MN - Seventh Street Entry (Radioshack PZMs) (j. free) [AUD24].txt"
@@ -68,7 +68,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theatre",
-      "notes": "DAT(M) · MarcR Binaurals · marcr",
+      "notes": "DAT(M) \u00b7 MarcR Binaurals \u00b7 marcr",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1995-09-26 - Denver, CO - Ogden Theatre - DAT(M) (MarcR Binaurals) (marcr) [AUD24].txt"
@@ -82,7 +82,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
-      "notes": "unk · aadam jacobs",
+      "notes": "unk \u00b7 aadam jacobs",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-04-26 - Chicago, IL - Lounge Ax (unk) (aadam jacobs) [AUD].txt"
@@ -96,7 +96,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Fahrenheit Gallery",
-      "notes": "MD-M · SP-CMC-8 · sonictooth",
+      "notes": "MD-M \u00b7 SP-CMC-8 \u00b7 sonictooth",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-02-28 - Kansas City, MO - Fahrenheit Gallery (MD-M) (SP-CMC-8) (sonictooth) [AUD].txt"
@@ -110,7 +110,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "notes": "iRiver h120 · chris bellew",
+      "notes": "iRiver h120 \u00b7 chris bellew",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -123,7 +123,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "East Brunswick Club",
-      "notes": "DPA 4061s · unk",
+      "notes": "DPA 4061s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-01-12 - Melbourne, Australia - East Brunswick Club (DPA 4061s) (unk) [AUD].txt"
@@ -137,7 +137,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "notes": "Edirol R-09 · alien rendel",
+      "notes": "Edirol R-09 \u00b7 alien rendel",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-10-30 - Chicago, IL - Vic Theatre (Edirol R-09) (alien rendel) [AUD].txt"
@@ -151,7 +151,7 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Kilkenny, Ireland",
       "venue": "Set Theatre",
-      "notes": "CA-14s · _tunic_",
+      "notes": "CA-14s \u00b7 _tunic_",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2016-12-14 - Kilkenny, Ireland - Set Theatre (CA-14s) (_tunic_) [AUD24].txt"

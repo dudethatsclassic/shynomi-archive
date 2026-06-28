@@ -444,7 +444,7 @@ const ARTIST_DATA = {
       "notes": "fixed",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1991-05-17 - Lubbock, TX - Unknown Venue [AUD].txt"
+      "textFile": "1991-05-17 - Lubbock, TX - Unknown Venue (fixed) [AUD].txt"
     },
     {
       "year": 1991,
@@ -1199,7 +1199,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Silver CD",
       "format": "SHN",
-      "textFile": "1993-02-02 - Frankfurt, Germany - Music Hall (r kohler) [AUD].txt"
+      "textFile": "1993-02-02 - Frankfurt, Germany - Them Bones [Silver].txt"
     },
     {
       "year": 1993,
@@ -1213,7 +1213,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-02-02 - Frankfurt, Germany - Them Bones [Silver].txt"
+      "textFile": "1993-02-02 - Frankfurt, Germany - Music Hall (r kohler) [AUD].txt"
     },
     {
       "year": 1993,
@@ -1269,7 +1269,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-02-07 - Lund, SWE - Mejeriet (Marantz EM-8) (crazy tapes) [AUD24].txt"
+      "textFile": "1993-02-07 - Lund, Sweden - Mejeriet [AUD].txt"
     },
     {
       "year": 1993,
@@ -1283,7 +1283,7 @@ const ARTIST_DATA = {
       "notes": "Marantz EM-8 \u00b7 crazy tapes",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1993-02-07 - Lund, Sweden - Mejeriet [AUD].txt"
+      "textFile": "1993-02-07 - Lund, SWE - Mejeriet (Marantz EM-8) (crazy tapes) [AUD24].txt"
     },
     {
       "year": 1993,
@@ -1717,7 +1717,7 @@ const ARTIST_DATA = {
       "notes": "Lollapalooza III \u00b7 Sony D3 w/ stock mic \u00b7 koondog",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1993-07-12 - Stanhope, NJ - Waterloo Village (Lollapalooza III) [AUD].txt"
+      "textFile": "1993-07-12 - Stanhope, NJ - Waterloo Village (koondog) [AUD #1].txt"
     },
     {
       "year": 1993,
@@ -1731,7 +1731,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 Schoeps CMC4/MK41 \u00b7 billydee",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-07-12 - Stanhope, NJ - Waterloo Village (koondog) [AUD #1].txt"
+      "textFile": "1993-07-12 - Stanhope, NJ - Waterloo Village (Lollapalooza III) [AUD].txt"
     },
     {
       "year": 1993,

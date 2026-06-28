@@ -103,7 +103,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "UCLA Quad",
-      "notes": "ANA(M) · ijwthstd",
+      "notes": "ANA(M) \u00b7 ijwthstd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-07-23 - Los Angeles, CA - UCLA Quad - ANA(M) (ijwthstd) [AUD].txt"
@@ -215,7 +215,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Miami Arena",
-      "notes": "VHS(3) · unk",
+      "notes": "VHS(3) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-07-30 - Miami, FL - Miami Arena - VHS(3) (unk) [AUD].txt"
@@ -312,7 +312,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Atlanta Motor Speedway",
-      "notes": "FM(M) · WW1 Broadcast",
+      "notes": "FM(M) \u00b7 WW1 Broadcast",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1999-06-05 - Atlanta, GA - Atlanta Motor Speedway - FM(M) (WW1 Broadcast) [FM].txt"
@@ -340,7 +340,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Normal, IL",
       "venue": "Braden Auditorium",
-      "notes": "Illinois · CSB · unk",
+      "notes": "Illinois \u00b7 CSB \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-11-08 - Normal, IL - Braden Auditorium - Illinois State University (CSB) (unk) [AUD].txt"
@@ -354,7 +354,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Reno, NV",
       "venue": "Reno Hilton Outdoor Amphitheater",
-      "notes": "MS-907 · kingrue transfer",
+      "notes": "MS-907 \u00b7 kingrue transfer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2000-09-19 - Reno, NV - Reno Hilton Outdoor Amphitheater (MS-907) (kingrue transfer) [AUD].txt"
@@ -368,7 +368,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "West Palm Beach, FL",
       "venue": "Mars Music Amphitheatre",
-      "notes": "SS-DSM-6SL · chris gratz",
+      "notes": "SS-DSM-6SL \u00b7 chris gratz",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2000-10-21 - West Palm Beach, FL - Mars Music Amphitheatre (SS-DSM-6SL) (chris gratz) [AUD].txt"
@@ -382,7 +382,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Auburn Hills, MI",
       "venue": "The Palace of Auburn Hills",
-      "notes": "MD(M) · Sony MZ-R700 · mitaper78",
+      "notes": "MD(M) \u00b7 Sony MZ-R700 \u00b7 mitaper78",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-10-21 - Auburn Hills, MI - The Palace of Auburn Hills - MD(M) (Sony MZ-R700) (mitaper78) [AUD].txt"
@@ -424,7 +424,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Massey Hall",
-      "notes": "CSC · burnboy",
+      "notes": "CSC \u00b7 burnboy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-07-19 - Toronto, ON - Massey Hall (CSC) (burnboy) [AUD].txt"
@@ -452,7 +452,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Soiled Dove Underground",
-      "notes": "Ed Kowalczyk · DPA 4060 · brianblank",
+      "notes": "Ed Kowalczyk \u00b7 DPA 4060 \u00b7 brianblank",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-08-07 - Denver, CO - Soiled Dove Underground (Ed Kowalczyk) (DPA 4060) (brianblank) [AUD].txt"
@@ -466,7 +466,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Atlantic City, NJ",
       "venue": "Hard Rock Hotel & Casino",
-      "notes": "AT943 · joe burns",
+      "notes": "AT943 \u00b7 joe burns",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-08-23 - Atlantic City, NJ - Hard Rock Hotel & Casino (AT943) (joe burns) [AUD].txt"
@@ -480,7 +480,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Atlantic City, NJ",
       "venue": "Hard Rock Hotel & Casino",
-      "notes": "Schoeps MK41 · joe burns",
+      "notes": "Schoeps MK41 \u00b7 joe burns",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-06-07 - Atlantic City, NJ - Hard Rock Hotel & Casino (Schoeps MK41) (joe burns) [AUD].txt"
@@ -494,7 +494,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Appleton, WI",
       "venue": "Timber Rattler Stadium",
-      "notes": "Church Audio CA0 · flysquirrel",
+      "notes": "Church Audio CA0 \u00b7 flysquirrel",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-07-26 - Appleton, WI - Timber Rattler Stadium (Church Audio CA0) (flysquirrel) [AUD].txt"
@@ -508,7 +508,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Ft. Lauderdale, FL",
       "venue": "The Parker Playhouse",
-      "notes": "DSM-6SL · unk",
+      "notes": "DSM-6SL \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-04-07 - Fort Lauderdale, FL - The Parker Playhouse (SS-DSM-6SL) (unk) [AUD24].txt"
@@ -522,7 +522,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Bethlehem, PA",
       "venue": "SteelStacks",
-      "notes": "CA-14s · live2cd",
+      "notes": "CA-14s \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-06-01 - Bethlehem, PA - SteelStacks (CA-14s) (live2cd) [AUD].txt"
@@ -536,7 +536,7 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Utrecht, The Netherlands",
       "venue": "TivoliVredenbufg Ronda",
-      "notes": "Countryman B3 · one8ung",
+      "notes": "Countryman B3 \u00b7 one8ung",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-07-10 - Utrecht, The Netherlands - TivoliVredenbufg Ronda (Countryman B3) (one8ung) [AUD].txt"
@@ -550,7 +550,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "New Buffalo, MI",
       "venue": "Silver Creek Event Center at Four Winds Casino",
-      "notes": "Zoom iQ7 · josh lichtenfeld",
+      "notes": "Zoom iQ7 \u00b7 josh lichtenfeld",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-07-21 - New Buffalo, MI - Silver Creek Event Center at Four Winds Casino (Zoom iQ7) (josh lichtenfeld) [AUD].txt"
@@ -564,7 +564,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Atlantic City, NJ",
       "venue": "Ovation Hall",
-      "notes": "Schoeps MK41s · joe burns",
+      "notes": "Schoeps MK41s \u00b7 joe burns",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-10-21 - Atlantic City, NJ - Ovation Hall (Schoeps MK41s) (joe burns) [AUD].txt"
@@ -578,7 +578,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Hart Theater",
-      "notes": "Zoom H1 · swansong",
+      "notes": "Zoom H1 \u00b7 swansong",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-02-27- Albany, NY - Hart Theater (Zoom H1) (swansong) [AUD].txt"
@@ -592,7 +592,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Ithaca, NY",
       "venue": "State Theatre",
-      "notes": "Schoeps MK41 · beatkilla",
+      "notes": "Schoeps MK41 \u00b7 beatkilla",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-03-01 - Ithaca, NY - State Theatre (Schoeps MK41) (beatkilla) [AUD24].txt"
@@ -606,7 +606,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cuyahoga Falls, OH",
       "venue": "Blossom Music Center",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-09-10 - Cuyahoga Falls, OH - Blossom Music Center (SP-CMC-8) (live2cd) [AUD].txt"
@@ -620,7 +620,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Wheatland, CA",
       "venue": "Toyota Amphitheatre",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-07-11 - Wheatland, CA - Toyota Amphitheatre (DPA 4081) (faninor) [AUD24].txt"
@@ -634,7 +634,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Suburban Park Stage",
-      "notes": "NYS · Schoeps MK4 · beatkilla",
+      "notes": "NYS \u00b7 Schoeps MK4 \u00b7 beatkilla",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-09-01 - Syracuse, NY - Suburban Park Stage - NYS Fair (Schoeps MK4) (beatkilla) [AUD24].txt"
