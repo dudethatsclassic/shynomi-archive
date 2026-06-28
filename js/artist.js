@@ -61,6 +61,15 @@ function renderMiscRow(item) {
 function render() {
   const d = ARTIST_DATA;
 
+  // Merge official dates from separate file (survives Apps Script re-exports)
+  if (typeof ARTIST_OFFICIAL_DATES !== 'undefined' && ARTIST_OFFICIAL_DATES) {
+    const officialSet = new Set(ARTIST_OFFICIAL_DATES);
+    d.shows.forEach(s => {
+      const key = s.year + '-' + String(s.month).padStart(2,'0') + '-' + String(s.day).padStart(2,'0');
+      if (officialSet.has(key)) s.official = true;
+    });
+  }
+
   document.title = d.name + ' – Live Archive';
 
   // Group shows by year
