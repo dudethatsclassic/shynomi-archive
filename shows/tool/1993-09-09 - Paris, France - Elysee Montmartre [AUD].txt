@@ -1,7 +1,19 @@
-Tool1993_09_09Tr01.flac:ecbe8cbdc54f786abb005fdf3c0e66f8
-Tool1993_09_09Tr02.flac:f7b109d556e31393a5a9e0a5f04cc803
-Tool1993_09_09Tr03.flac:428e95499f41de323d747b58618b41c5
-Tool1993_09_09Tr04.flac:6520856eb851de2b1d1759a56ea316f4
-Tool1993_09_09Tr05.flac:1a4e7dd76863f4609988946c2ed23fe1
-Tool1993_09_09Tr06.flac:2bb105aee343a5785360d9ba4cdec948
-Tool1993_09_09Tr07.flac:f698d21379099a016a6ef5b5075ba659
+Tool
+1993-09-09
+Paris, France
+Elysée Montmartre
+
+Taper: S.D.
+Source: Aiwa CM-30 > Denon DTR-80P
+Transfer: DAT-1 > Sony PCM-M1 > coaxial 7pin > MOTU 2408mkII > BIAS Peak > CDWave (tracking) > .WAV > .FLAC
+Generation: 1st
+Notes: *Spoken word by Zach de la Rocha of RATM.
+
+Setlist:
+Cold & Ugly
+Intolerance
+Sober
+Prison Sex
+Sweat
+Undertow
+Bottom*

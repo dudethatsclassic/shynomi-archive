@@ -1,15 +1,11 @@
-Tool2007_01_25Tr01.flac:43b1d06a22f8e68b191f3e922350ed79
-Tool2007_01_25Tr02.flac:9c208b4c5f7f234a9bfa37789a781279
-file 'Tool2007_01_25Tr02.wav' skipped (file does not appear to be a flac file).
-Tool2007_01_25Tr03.flac:9930fcedf624eee768783dc5b24c3c0a
-Tool2007_01_25Tr04.flac:2ad80df86e9745f1facafb57db221f98
-Tool2007_01_25Tr05.flac:30ea82bdc3c407f56f4f80dca8a31ea8
-Tool2007_01_25Tr06.flac:d4d1ca559749d4a204a20ef63505359c
-Tool2007_01_25Tr07.flac:4a8a17679588f13a01f9960d15ce4000
-Tool2007_01_25Tr08.flac:12e79cd587b05e171f5e8d810e76d446
-Tool2007_01_25Tr09.flac:f9fbc3815e5f4a073361e6bcf5d66b96
-Tool2007_01_25Tr10.flac:b2876aaf04e812e94a48359aa1a1236a
-Tool2007_01_25Tr11.flac:77915ae81c68ea678ade85c08d46cab2
-Tool2007_01_25Tr12.flac:7a31dab629c7577353fb111c874fce64
-Tool2007_01_25Tr13.flac:611f6024b8836b7161bed1183757ccf1
-Tool2007_01_25Tr14.flac:9fdc09e4f34759d911a7de341e9e2318
+Tool - 2007.01.25
+Olympic Park Showgrounds - Sydney, Australia
+version 3
+
+media type: FLAC
+source: Sony ECM-MS907 > Sony MZ-NHF800 > 1st Gen CDR > FLAC
+trade status: can trade
+
+disc 1 - 14 tracks - 79:28
+
+notes: Ripped from 1st gen CDR from taper.  

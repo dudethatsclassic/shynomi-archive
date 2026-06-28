@@ -1,15 +1,36 @@
-Tool2001-10-15d1t10.flac:e792e489f834b8f99ab1a51482f4d553
-Tool2001-10-15d1t01.flac:f60a1d333c3eda0d4d35d4e9ec224653
-Tool2001-10-15d1t02.flac:cb7111bf5a9857edfebb68875b4e2ad2
-Tool2001-10-15d1t03.flac:4c08cff46a1a589b5192c0450e6298f5
-Tool2001-10-15d1t04.flac:8639cbbccadf1c6a415b610bf2227ab0
-Tool2001-10-15d1t05.flac:a1bbe1d132b742f8193728e9bb4cdb6e
-Tool2001-10-15d1t06.flac:6c61b53f370fbbb53ee55217500b5e63
-Tool2001-10-15d1t07.flac:be188f414c010bbd1feb13147db6d10b
-Tool2001-10-15d1t08.flac:a1709f769ea4c156d5271287599e1f21
-Tool2001-10-15d1t09.flac:62d58f8e67e1586484d0f2d026af86b5
-Tool2001-10-15d2t05.flac:e23f5b5a6ac12fadec3c36cb4c95f4a4
-Tool2001-10-15d2t01.flac:733cf502b9a77e1d2d81deb301d79035
-Tool2001-10-15d2t02.flac:74c3d43e105def1473c33066bc11530a
-Tool2001-10-15d2t03.flac:1effeaeb72beeffc1147d1d0029ddee9
-Tool2001-10-15d2t04.flac:87fc8af02eed1dbe7617314c01b69b39
+Tool
+10/15/2001
+Mid South Coliseum
+Memphis, TN  
+
+
+Source:  Schoeps mk41 > kc5 > cmc6 > Lunatec V2 > Sony SBM-1 > D8
+Transfer: Master DAT>MIT s/pdif>MAudio Delta dio 2496>Samplitude 2496 v5.55>CDWav>FLAC
+
+Recorded & Seeded by:  funkyoctopus@shns.net
+
+Joing the brigade at WWW.SHNS.NET
+
+
+Disc One
+1. bootie chatter	
+2. intro music		
+3. The Grudge		
+ (-) Ions
+ Stinkfist
+ Forty Six & 2
+ Parabol
+Parabola
+Pushit
+8. Schism
+9. Disposition
+10. Reflection
+
+Disc Two
+1. Triad
+2. Eon Blue Apocalypse
+3. The Patient
+4. Opiate
+5. Lateralus
+
+*please email tracking corrections to funkyoctopus@shns.net - THANKS!

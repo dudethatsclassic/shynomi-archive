@@ -1,12 +1,24 @@
-Tool1998_03_28D1Tr01.flac:bf6bd5224700723a023f3c83b70d27c7
-Tool1998_03_28D1Tr02.flac:d513ce996ff3f759b7cc5c726d6af0f8
-Tool1998_03_28D1Tr03.flac:8ec2ecc49ef6b081ff97bf8033002789
-Tool1998_03_28D1Tr04.flac:b88638ce41e7f399dcceb8c1961826c4
-Tool1998_03_28D1Tr05.flac:1aa6211a1d7ea4b7befbc567a60bfd94
-Tool1998_03_28D1Tr06.flac:59d746e16cdb9cdbda6d7ce42697d5d4
-Tool1998_03_28D1Tr07.flac:c7d8b143aebcb733a391f141df3b2bd9
-Tool1998_03_28D2Tr01.flac:48e82525328639031ff77fe882371b98
-Tool1998_03_28D2Tr02.flac:45c14d0621cf033786dcaf07b1d3b018
-Tool1998_03_28D2Tr03.flac:f903390003c7af73b9d5ac8d3291d814
-Tool1998_03_28D2Tr04.flac:0d532cbedc579d1d93a1a85e8552eb24
-Tool1998_03_28D2Tr05.flac:e950aba8d4afcc129d7697189c6c9483
+Tool
+1998-03-28
+Phoenix, AZ
+Phoenix Civic Plaza
+
+Taper: Duncan
+Source: Sony TCS-580V w/ built-in mic
+Transfer: Master .WAV > CD Wave (Tracking) > .WAV > .FLAC (Level 8)
+Generation: 0
+Notes: Tracked and FLACed on 3-25-2006 by Distortion. Third night of the 98 mini-tour.
+
+Setlist:
+Forty-Six & 2
+Cold & Ugly
+Swamp Song
+Eulogy
+Sober
+Stinkfist (with Buzz from The Melvins)
+You Lied (with Buzz from The Melvins)
+Pushit slow
+Third Eye
+Ænema
+Jerkoff
+Hooker With A Penis lounge version (house music)

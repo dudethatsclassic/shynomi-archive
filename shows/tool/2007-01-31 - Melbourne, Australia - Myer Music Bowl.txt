@@ -1,18 +1,16 @@
-file 'disc 1\Tool2007_01_31D1.LOG' skipped (file does not appear to be a flac file).
-disc 1\Tool2007_01_31D1Tr01.flac:3193f8bc79fa956fec084217ef67de52
-disc 1\Tool2007_01_31D1Tr02.flac:a3649d671cb6488e70df567004a94658
-disc 1\Tool2007_01_31D1Tr03.flac:aff20eef6274f370d2b0351bbc48eb9d
-disc 1\Tool2007_01_31D1Tr04.flac:86f0573bdd6b97a01ce9d5004d1c44a1
-disc 1\Tool2007_01_31D1Tr05.flac:20b474390659e45f607f9741e09e8664
-disc 1\Tool2007_01_31D1Tr06.flac:5c6d1c0fca25bca48f46489847c0b854
-disc 1\Tool2007_01_31D1Tr07.flac:76964672e57e9b16e01a3b89404d2ab9
-disc 1\Tool2007_01_31D1Tr08.flac:87abf95caed1f5b096ee00de0ec50d25
-disc 1\Tool2007_01_31D1Tr09.flac:430d26e2dfdf51fa81a7608da09abd48
-disc 1\Tool2007_01_31D1Tr10.flac:852dca71d07fbe0fcf534e207ec19c67
-file 'disc 2\Tool2007_01_31D2.LOG' skipped (file does not appear to be a flac file).
-disc 2\Tool2007_01_31D2Tr01.flac:d0bd69cf026a04ef463f8e6f89171531
-disc 2\Tool2007_01_31D2Tr02.flac:03430c66e096a122cd9989eacaf47b16
-disc 2\Tool2007_01_31D2Tr03.flac:88db646436c8934159be5d2a188c2038
-disc 2\Tool2007_01_31D2Tr04.flac:d123b33b12ed11fa8e5cb6849d4b1f0f
-disc 2\Tool2007_01_31D2Tr05.flac:de86183fb4667b2dfb7004aa7c32c599
-disc 2\Tool2007_01_31D2Tr06.flac:714b7a46d0825770763cec9e31c4ac57
+Tool - 2007.01.31
+Sidney Myer Music Bowl - Melbourne, Australia
+Version 2
+
+media type: FLAC
+source: Sony ECM-MS907 > Sony MZ-NHF800 > CDR(1) > FLAC
+taper: Phil
+trade status: can trade
+
+disc 1 - 9 tracks - 50:24
+disc 2 - 6 tracks - 49:34
+
+notes: Ripped from 1st gen CDR from taper.  
+
+
+

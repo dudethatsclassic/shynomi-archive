@@ -1,13 +1,24 @@
-Tool1996-10-28t01.flac:3db7479ee31d26cc8eebb849dbf2d24d
-Tool1996-10-28t02.flac:ce525f8b0f47a9ef60fd4eadec0855cf
-Tool1996-10-28t03.flac:ea1183083374fd4c01ca45315ecbb22b
-Tool1996-10-28t04.flac:ce7fe8f9843d1dd51d78619f6a95bb80
-Tool1996-10-28t05.flac:718ea72e4581dfef66fe19616320da45
-Tool1996-10-28t06.flac:6b235b74c67d7decf4f9e4fdb5ecc66b
-Tool1996-10-28t07.flac:dfce1d0490258db778b775175559339c
-Tool1996-10-28t08.flac:a0fad1021e58be9f6b0795b3d8a0beac
-Tool1996-10-28t09.flac:f0639794efeaa4b87b75703059861d12
-Tool1996-10-28t10.flac:d400eb918239761eefd345635b64231a
-Tool1996-10-28t11.flac:bbe4e777237c23a0ff3b90dad5e51dc1
-Tool1996-10-28t12.flac:3c33e37c33e2d20793618da5083d0cd9
-Tool1996-10-28t13.flac:8c318d4a91e8e3b284b366af13a7e2be
+Tool
+1996-10-28
+San Francisco, CA
+The Warfield
+
+Taper: Bill Shaw
+Source: Sonic Studios DSM-6 > Sony TCD-D7 (FOB)
+Transfer: 2G-DAT > Sony PCM-M1 > coaxial 7pin > MOTU 2408mkII > BIAS Peak > Sound Forge 7.0 (fades, resampling to 44.1) > CDWave (tracking) > .WAV > .FLAC
+Generation: 2nd
+
+Setlist:
+Third Eye
+Forty Six & 2
+Swamp Song
+Eulogy
+H.
+Sweat
+Hooker With A Penis
+Jimmy
+Merkaba
+Sober
+Opiate
+Ænema
+Stinkfist

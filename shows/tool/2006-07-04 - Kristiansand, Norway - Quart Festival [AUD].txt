@@ -1,11 +1,23 @@
-Tool2006_07_04Tr01.flac:a0738fcb5ceb30fe6a2315bf1e8d9ceb
-Tool2006_07_04Tr02.flac:2a4922a2277b6eb2589431c3dc5db147
-Tool2006_07_04Tr03.flac:4fd26d61311f6fedf75977479b045c95
-Tool2006_07_04Tr04.flac:dee094994cb6ed32953a716f671822e9
-Tool2006_07_04Tr05.flac:d667020cd659d08aa7730dc830e9c04d
-Tool2006_07_04Tr06.flac:e4b8dbf0079cd7d56426c143d3f8e358
-Tool2006_07_04Tr07.flac:ac8edcd3b8cc62cf8c12d8ff44671e40
-Tool2006_07_04Tr08.flac:6080656589c441c0c5f554b5f05f0c49
-Tool2006_07_04Tr09.flac:ec60dc5894dd2ad09d11f7013533b0a2
-Tool2006_07_04Tr10.flac:6b680fb271c541652b1283bf3780188e
-Tool2006_07_04Tr11.flac:d68ca93ac255f0c5b51770bd550a9075
+Tool
+JUL-04-2006
+Kristiansand, Norway
+@ Quart Festival
+Stage: Bendiksbukta
+Source: DPA4061 > MPS6030 > Sony TCD-D100 (Oade mod) / 48kHz
+Position: Center, approximately 6-7 metre in front of sbd
+Transfer: DAT-M > Tascam DA-20 > coax > Waveterminal U24 > Wavelab 5.0 > .wav 48kHz > S.F. 8.0 > .wav 44kHz > CDWave (tracksplits) > .flac
+Equalizing: Slight bass cut and volume increase (about 2-3 dB)
+Time (approx): 78:26
+
+set:
+intro
+stinkfist
+the pot
+Fourty six & 2
+jambi
+schism
+sober
+lateralus
+opiate
+vicarious
+Ænema

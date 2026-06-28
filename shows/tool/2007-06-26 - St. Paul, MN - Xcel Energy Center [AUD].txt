@@ -1,15 +1,16 @@
-Tool2007_06_26Tr01.flac:b178f9fa92536b2d5dbda2dd74d473b2
-Tool2007_06_26Tr02.flac:4ac2cd7f71a9e95a2c42d75d5b9dc17b
-Tool2007_06_26Tr03.flac:259ee6d3f898e100e2ca009056253bc6
-Tool2007_06_26Tr04.flac:56f2cb56582799d3ba8bd23efffe8bd0
-Tool2007_06_26Tr05.flac:3facf4f872adc2dd2441e2dfdee2fe0b
-Tool2007_06_26Tr06.flac:79abe7c514e30931ba72d05d008a22d9
-Tool2007_06_26Tr07.flac:9e405fce1ac18fc8f2d1362f14e911b7
-Tool2007_06_26Tr08.flac:4bc717073792610af4795904078eec59
-Tool2007_06_26Tr09.flac:b1b198668bb9aa73015a5188e8c6bc32
-Tool2007_06_26Tr10.flac:97077ab209f5efd34f033f96286b7c97
-Tool2007_06_26Tr11.flac:92272fbb302c894939120643267d35ac
-Tool2007_06_26Tr12.flac:cbf77b64f0733858c50cae53a2452659
-Tool2007_06_26Tr13.flac:ff2f7bbb4870dbc4d75a715825031a03
-Tool2007_06_26Tr14.flac:56ba3fa017640c6ec4b39701bcf26c60
-Tool2007_06_26Tr15.flac:7aada4f091283b7b53f201071960028d
+Tool - 2007.06.26
+Xcel Energy Center - St. Paul, MN
+
+media type: FLAC
+source: Audio Techinca AT853's > Deneke ps-2 (1/8" plug mod) > Microtrack24/96 (@24/48 via line in using two 1/4" mono phono jacks converted from 1/8" ps-2 stereo plug) > USB > WAV > Wavelab > FLAC
+location: floor - 25 feet from stacks, straight out from danny (5 feet stage-left of center)
+taper: crazyafroman
+trade status: can trade
+
+disc 1 - 15 tracks - 115:34
+
+notes: last 15 seconds of Vicarious is cut due to the MT maxing out its 1 file time limit. 
+Thanks to Bob for help getting the gear in.
+Dave, motha-fuckin flood....motha-fuckin flood....what up!
+Maria, somehow always finding her at shows with dust in her mouth...
+Craig, for gettin his ass all the way up to the rail for this one.
