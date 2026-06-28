@@ -26,7 +26,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Palace",
-      "notes": "ANA(M) \u00b7 Sony Cassette Recorder \u00b7 unk",
+      "notes": "ANA(M) · Sony Cassette Recorder · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-11-21 - Hollywood, CA - Palace - ANA(M) (Sony Cassette Recorder) (unk) [AUD].txt"
@@ -68,7 +68,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Cohoes, NY",
       "venue": "Saratoga Winners",
-      "notes": "DAT(M) \u00b7 smores",
+      "notes": "DAT(M) · smores",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-06-04 - Cohoes, NY - Saratoga Winners - DAT(M) (smores) [AUD].txt"
@@ -82,7 +82,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "Live \u00b7 unk \u00b7 neekrive",
+      "notes": "Live · unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -151,7 +151,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Greensboro, NC",
       "venue": "Fun Fourth Festival",
-      "notes": "Downtown \u00b7 M \u00b7 Realistic \u00b7 shynomi",
+      "notes": "Downtown · M · Realistic · shynomi",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-07-04 - Greensboro, NC - Fun 4th Festival (Shynomi Master) [AUD].txt"
@@ -290,7 +290,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Don Hill's",
-      "notes": "VHS(x) \u00b7 unk",
+      "notes": "VHS(x) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-06-05 - New York, NY - Don Hill's - VHS(x) (unk) [AUD].txt"
@@ -332,7 +332,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Delmar Hall",
-      "notes": "Sony PCM-A10 \u00b7 shane e. calhoon",
+      "notes": "Sony PCM-A10 · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-12-01 - St. Louis, MO - Delmar Hall (Sony PCM-A10) (shane e. calhoon) [AUD24].txt"
