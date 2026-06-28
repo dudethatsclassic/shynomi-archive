@@ -7896,7 +7896,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps CCM4 \u00b7 rick bendes transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "pj1997-11-18.schoeps.ccm4.flac.txt"
+      "textFile": "pj1997-11-18-19] - Oakland, CA - Alameda County Stadium VHS(1) (global voodoo productions) [DVD].txt"
     },
     {
       "year": 1997,
@@ -10222,7 +10222,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "pj2000-06-09&11 - Nurnberg, Germany - Rock IM Park - Rock Am Ring (PRO) [DVD].txt",
+      "textFile": "2000-06-09 - Nurburg, Germany - Rock am Ring.txt",
       "official": true
     },
     {
@@ -11205,7 +11205,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "pj2000-10-14 - Houston, TX - Cynthia Woods Mitchell Pavilion - AUD(M) [DVD].txt",
+      "textFile": "2000-10-14 - The Woodlands, TX - Cynthia Woods Mitchell Pavilion.txt",
       "official": true
     },
     {
@@ -13234,7 +13234,7 @@ const ARTIST_DATA = {
       "notes": "AUD(M) \u00b7 team dz",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "pj2003-10-22.schoeps.flac.txt"
+      "textFile": "pj2003-10-22 - Seattle, WA - Benaroya Hall - AUD(M) (team dz) [DVD].txt"
     },
     {
       "year": 2003,
@@ -13248,7 +13248,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "pj2003-10-25.schoeps.flac.txt"
+      "textFile": "pj2003-10-25+26a - Mountain View, CA - Shoreline Amphitheatre - Bridge School - DV(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -14807,7 +14807,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "pj2006-05-20+30 - Cleveland, OH - Quicken Loans Arena + Washington DC (inc) - AUD(M) [DVD].txt",
+      "textFile": "2006-05-20 - Cleveland, OH - Quicken Loans Arena.txt",
       "official": true
     },
     {
@@ -16003,7 +16003,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "pj2006-09-26 - Zagreb, Croatia - Dom Sportova [DVD].txt",
+      "textFile": "2006-09-26 - Zagreb, Croatia - Dom Sportova.txt",
       "official": true
     },
     {
@@ -17510,7 +17510,7 @@ const ARTIST_DATA = {
       "notes": "jahrastafari",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "pj2009-10-04.tv.flac.txt",
+      "textFile": "2009-10-04 - Austin, TX - Austin City Limits Music Festival.txt",
       "official": true
     },
     {
