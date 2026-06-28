@@ -11805,14 +11805,13 @@ const ARTIST_DATA = {
       "month": 2,
       "day": 20,
       "dateStr": "2-20-2003",
-      "city": "The J Files on Triple J Radio (Interviews and Live Recordings) (hs)",
-      "state": "",
-      "location": "The J Files on Triple J Radio (Interviews and Live Recordings) (hs)",
-      "venue": "",
-      "notes": "",
+      "city": "Melbourne",
+      "state": "Australia",
+      "location": "Melbourne, Australia",
+      "venue": "The J Files on Triple J Radio",
+      "notes": "Interviews and Live Recordings · hs",
       "version": "FM",
-      "format": "FLAC",
-      "textFile": "2003-02-20 - Melbourne, Australia - Rod Laver Arena.txt"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -13092,13 +13091,12 @@ const ARTIST_DATA = {
       "day": 22,
       "dateStr": "10-22-2003",
       "city": "Seattle",
-      "state": "WA - Benaroya Hall - AUD(M) (team dz)",
-      "location": "Seattle, WA - Benaroya Hall - AUD(M) (team dz)",
-      "venue": "",
-      "notes": "",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "Benaroya Hall",
+      "notes": "AUD(M) · team dz",
       "version": "AUD",
-      "format": "DVD",
-      "textFile": "pj2003-10-22.schoeps.flac.txt"
+      "format": "DVD"
     },
     {
       "year": 2003,
