@@ -628,7 +628,7 @@ const ARTIST_DATA = {
       "notes": "Aiwa Mic \u00b7 phideaux3 \u00b7 Goody Remaster",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1994-12-16 - Greenwich Village, NY - Tower Records (Goody Remaster) (Aiwa Mic) (phideaux3) [AUD24].txt"
+      "textFile": "1994-12-16 - Greenwich Village, NY - Tower Records (Aiwa Mic) (phideaux3) [AUD].txt"
     },
     {
       "year": 1994,

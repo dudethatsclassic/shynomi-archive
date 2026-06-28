@@ -1,35 +1,45 @@
-Downsampled from 24-96 to 16-48 with SoX 14-4-2
+foobar2000 1.6.5 / Dynamic Range Meter 1.1.1
+log date: 2022-06-01 03:13:13
 
-Glendale
-Monday, May 09, 2022
-Location
-Glendale, AZ
-Gila River Arena
-Main Set
+--------------------------------------------------------------------------------
+Analyzed: Pearl Jam / 2022/05/09 Gila River Arena, Glendale, Arizona
+--------------------------------------------------------------------------------
 
-Wash
-Given To Fly
-Elderly Woman Behind The Counter In A Small Town
-Corduroy
-Quick Escape
-Why Go
-Superblood Wolfmoon
-Alright
-Even Flow
-Dance Of The Clairvoyants
-Black
-I Got Id
-Red Mosquito
-Sleeping By Myself
-Daughter
-Porch
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR7       -0.63 dB    -9.66 dB      4:16 01-Wash
+DR7       -0.63 dB   -10.35 dB      6:16 02-Given to Fly
+DR7       -0.63 dB    -9.66 dB      4:16 03-Elderly Woman Behind the Counter in a Small Town
+DR6       -0.63 dB    -8.01 dB      7:48 04-Corduroy
+DR7       -0.63 dB    -7.95 dB      5:00 05-Quick Escape
+DR7       -0.63 dB    -8.67 dB      4:03 06-Why Go
+DR7       -0.63 dB    -9.13 dB      4:58 07-Superblood Wolfmoon
+DR7       -0.63 dB   -11.15 dB      4:58 08-Alright
+DR6       -0.63 dB    -8.81 dB     10:00 09-Even Flow
+DR7       -0.63 dB    -9.05 dB      7:00 10-Dance of the Clairvoyants
+DR7       -0.63 dB    -8.87 dB      8:45 11-Black
+DR6       -0.63 dB    -8.66 dB      4:32 01-I Got Id
+DR7       -0.63 dB    -9.91 dB      6:44 02-Red Mosquito
+DR7       -0.63 dB   -11.25 dB      6:11 03-Sleeping by Myself
+DR7       -0.63 dB    -8.29 dB      5:37 04-Daughter
+DR6       -0.63 dB    -7.83 dB      7:59 05-Porch
+DR14      -0.63 dB   -18.78 dB      5:46 06-Encore Break
+DR7       -0.63 dB   -10.57 dB      5:10 07-Smile
+DR9       -0.63 dB   -10.83 dB      1:32 08-Eruption
+DR7       -0.63 dB    -9.48 dB      5:39 09-Do the Evolution
+DR6       -0.63 dB    -9.39 dB      9:14 10-Better Man
+DR6       -0.63 dB    -8.00 dB      2:55 11-Leaving Here
+DR6       -0.63 dB    -8.50 dB      9:55 12-Alive
+DR7       -0.63 dB   -10.62 dB      6:07 13-Yellow Ledbetter
+--------------------------------------------------------------------------------
 
-Encore
+Number of tracks:  24
+Official DR value: DR7
 
-Smile
-Eruption
-Do The Evolution
-Better Man
-Save It For Later Leaving Here
-Alive
-Yellow Ledbetter
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           2966 kbps
+Codec:             FLAC
+================================================================================
+

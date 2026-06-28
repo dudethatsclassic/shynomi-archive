@@ -4737,7 +4737,7 @@ const ARTIST_DATA = {
       "notes": "MD(M) \u00b7 Sony ECM-717 \u00b7 zenlord911 v.avery",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2001-06-29 - Werchter, Belgium - Werchter Festival [AUD].txt"
+      "textFile": "2001-06-29 - Wercheter, Belgium - Werchter Festival - MD(M) (Sony ECM-717) (zenlord911 v.avery) [AUD].txt"
     },
     {
       "year": 2001,
@@ -15632,7 +15632,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061s \u00b7 geordy",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-06-19 - New Orleans, LA - UNO Lakefront Arena (Sony HDR-XR150) (unk) [DVD].txt",
+      "textFile": "2010-06-19 - New Orleans, LA - UNO Arena [AUD].txt",
       "recordingVersion": 1
     },
     {

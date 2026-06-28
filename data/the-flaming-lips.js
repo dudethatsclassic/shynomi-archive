@@ -72,7 +72,7 @@ const ARTIST_DATA = {
       "notes": "loughney remaster",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1984-04-20 - Dallas, TX - Theatre Gallery [AUD].txt"
+      "textFile": "1984-04-20 - Dallas, TX - Theatre Gallery (loughney remaster) [AUD].txt"
     },
     {
       "year": 1985,
@@ -1113,7 +1113,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1996-05-15a - Santa Monica, CA - KCRW Radio Session - Brave New World [FM].txt"
+      "textFile": "1996-05-15 - San Francisco, CA - Slim's [SBD].txt"
     },
     {
       "year": 1996,
