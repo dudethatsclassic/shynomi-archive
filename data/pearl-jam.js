@@ -4080,10 +4080,10 @@ const ARTIST_DATA = {
       "month": 10,
       "day": null,
       "dateStr": "10-XX-1993",
-      "city": "On the Edge Interview",
+      "city": "Unknown Location",
       "state": "",
-      "location": "On the Edge Interview",
-      "venue": "",
+      "location": "Unknown Location",
+      "venue": "On the Edge Interview",
       "notes": "",
       "version": "FM",
       "format": "FLAC"
