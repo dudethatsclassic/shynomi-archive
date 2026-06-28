@@ -11513,14 +11513,13 @@ const ARTIST_DATA = {
       "month": 9,
       "day": 18,
       "dateStr": "9-18-2002",
-      "city": "KROQ Studios",
-      "state": "",
-      "location": "KROQ Studios",
-      "venue": "",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "KROQ Studios",
       "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "textFile": "pj2002-09-18.fm.flac.txt"
+      "format": "FLAC"
     },
     {
       "year": 2002,
