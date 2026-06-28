@@ -90,6 +90,7 @@ function render() {
         + '<td class="col-location">' + esc(s.location) + '</td>'
         + '<td class="col-badges"><div class="badge-group">'
           + versionBadge(s.version) + formatBadge(s.format)
+          + (s.recordingVersion != null ? '<span class="badge badge-recver">v' + s.recordingVersion + '</span>' : '')
           + '</div></td>'
         + '</tr>';
     }).join('');
