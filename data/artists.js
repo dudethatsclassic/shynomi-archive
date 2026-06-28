@@ -2018,7 +2018,7 @@ const ARTISTS = [
   {
     "id": "pearl-jam",
     "name": "Pearl Jam",
-    "showCount": 1696,
+    "showCount": 1695,
     "firstYear": 1990,
     "lastYear": 2025
   },
