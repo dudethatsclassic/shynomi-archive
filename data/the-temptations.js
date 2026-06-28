@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Owings Mills, MD",
       "venue": "Painters Mill Music Fair",
-      "notes": "master \u00b7 rs archives",
+      "notes": "master · rs archives",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1982-07-10 - Owings Mills, MD - Painters Mill Music Fair (Master) [SBD].txt"
