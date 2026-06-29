@@ -1,0 +1,191 @@
+EAC extraction logfile from 6. August 2004, 15:27 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : HL-DT-STCD-RW GCE-8160B   Adapter: 1  ID: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track01.wav
+
+     Peak level 94.6 %
+     Track quality 99.9 %
+     Copy CRC 57194345
+     Copy OK
+
+Track  2
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track02.wav
+
+     Peak level 96.4 %
+     Track quality 100.0 %
+     Copy CRC 10EFF269
+     Copy OK
+
+Track  3
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track03.wav
+
+     Peak level 99.9 %
+     Track quality 100.0 %
+     Copy CRC 109A7F17
+     Copy OK
+
+Track  4
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track04.wav
+
+     Peak level 93.3 %
+     Track quality 100.0 %
+     Copy CRC 65931BCF
+     Copy OK
+
+Track  5
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track05.wav
+
+     Peak level 93.2 %
+     Track quality 100.0 %
+     Copy CRC 03855259
+     Copy OK
+
+Track  6
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track06.wav
+
+     Peak level 93.1 %
+     Track quality 100.0 %
+     Copy CRC 40026953
+     Copy OK
+
+Track  7
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track07.wav
+
+     Peak level 93.9 %
+     Track quality 100.0 %
+     Copy CRC 67EA9792
+     Copy OK
+
+Track  8
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track08.wav
+
+     Peak level 89.1 %
+     Track quality 100.0 %
+     Copy CRC E356F954
+     Copy OK
+
+Track  9
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track09.wav
+
+     Peak level 89.5 %
+     Track quality 100.0 %
+     Copy CRC C95BF6A1
+     Copy OK
+
+Track 10
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track10.wav
+
+     Peak level 96.9 %
+     Track quality 100.0 %
+     Copy CRC 246B4FD4
+     Copy OK
+
+Track 11
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track11.wav
+
+     Peak level 76.1 %
+     Track quality 98.9 %
+     Copy CRC 37040A1C
+     Copy OK
+
+Track 12
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track12.wav
+
+     Peak level 78.6 %
+     Track quality 100.0 %
+     Copy CRC FB74D294
+     Copy OK
+
+Track 13
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track13.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 5B670FA0
+     Copy OK
+
+Track 14
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track14.wav
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Copy CRC 016D5FE6
+     Copy OK
+
+Track 15
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track15.wav
+
+     Peak level 83.9 %
+     Track quality 100.0 %
+     Copy CRC 59F4BEB3
+     Copy OK
+
+Track 16
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track16.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 77FB5A0C
+     Copy OK
+
+Track 17
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track17.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 267EEB0F
+     Copy OK
+
+Track 18
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track18.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 632A514C
+     Copy OK
+
+Track 19
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track19.wav
+
+     Peak level 100.0 %
+     Track quality 99.8 %
+     Copy CRC 55444BA8
+     Copy OK
+
+Track 20
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track20.wav
+
+     Peak level 96.6 %
+     Track quality 100.0 %
+     Copy CRC 8526FA82
+     Copy OK
+
+Track 21
+     Filename C:\Documents and Settings\Mary ann Johnson\My Documents\Alice IN Chains Is Layne Still In Rehab\Track21.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 8AB59E2F
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+

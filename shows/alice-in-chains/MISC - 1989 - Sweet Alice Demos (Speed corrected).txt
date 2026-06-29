@@ -1,0 +1,28 @@
+Alice in Chains : Publisher Demos, April-June 1989, Seattle, WA
+
+Source: Original "Sweet Alice" bootleg > EAC > Wavelab 4.0c [timestretch] > SHN
+
+01.Suffragette City
+02.Bleed the Freak
+03.Social Parasite
+04.We Die Young
+05.Chemical Addiction
+06.Sunshine
+07.King of the Kats
+08.The Real Thing
+09.Killing Yourself
+10.Sea of Sorrow
+11.I Can't Remember
+12.Queen of the Rodeo
+
+Each track on the original bootleg CD was recorded at too fast of a speed.
+To correct this, I compared the version of Social Parasite from this compilation
+against the one released in the Music Bank set since they both are from the same 
+source.  By time-stretching the version from "Sweet Alice" by a factor of 1.0511, 
+I was able to match the timing of the Music Bank version. I then applied this 
+time-stretching factor to all other tracks ... they sound much better.
+Enjoy!
+
+
+
+

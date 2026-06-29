@@ -33,23 +33,28 @@ function esc(s) {
     .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
+const INFO_ICON = '<span class="show-info-icon" title="View info"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><line x1="10" y1="9" x2="8" y2="9"/></svg></span>';
+
 function renderMiscRow(item) {
+  const hasInfo   = !!item.textFile;
+  const clickAttr = hasInfo ? ' data-txt="' + esc(item.textFile) + '"' : '';
+  const infoIcon  = hasInfo ? INFO_ICON : '';
   if (item.type === 'show') {
     const month    = item.month != null ? String(item.month).padStart(2,'0') : '??';
     const day      = item.day   != null ? String(item.day).padStart(2,'0')   : '??';
     const dateDisp = item.year  ? (item.year + '-' + month + '-' + day) : '';
     const notesHtml = item.notes ? '<div class="show-notes">' + esc(item.notes) + '</div>' : '';
-    return '<tr class="show-row">'
+    return '<tr class="show-row' + (hasInfo ? ' has-info' : '') + '"' + clickAttr + '>'
       + '<td class="col-date">' + esc(dateDisp) + '</td>'
-      + '<td class="col-venue"><div>' + esc(item.venue || '') + '</div>' + notesHtml + '</td>'
+      + '<td class="col-venue"><div>' + esc(item.venue || '') + infoIcon + '</div>' + notesHtml + '</td>'
       + '<td class="col-location">' + esc(item.location || '') + '</td>'
       + '<td class="col-badges"><div class="badge-group">' + versionBadge(item.version) + formatBadge(item.format) + '</div></td>'
       + '</tr>';
   } else {
-    return '<tr class="show-row">'
-      + '<td class="col-date"></td>'
-      + '<td class="col-venue"><div>' + esc(item.label || '') + '</div></td>'
-      + '<td class="col-location"></td>'
+    return '<tr class="show-row' + (hasInfo ? ' has-info' : '') + '"' + clickAttr + '>'
+      + '<td class="col-date">' + (item.year ? esc(String(item.year)) : '') + '</td>'
+      + '<td class="col-venue"><div>' + esc(item.label || '') + infoIcon + '</div></td>'
+      + '<td class="col-location">' + (item.category ? esc(item.category) : '') + '</td>'
       + '<td class="col-badges"><div class="badge-group">'
         + (item.version ? versionBadge(item.version) : '')
         + formatBadge(item.format)
