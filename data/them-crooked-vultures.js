@@ -19,7 +19,7 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "St. Cloud, FR",
       "venue": "Scene de la Cascade",
-      "notes": "Rock \u00b7 M \u00b7 Giant Squid Omnis \u00b7 pierre leroy \u00b7 Source 1",
+      "notes": "Rock · M · Giant Squid Omnis · pierre leroy · Source 1",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-08-30 - St. Cloud, FR - Scene de la Cascade - Rock en Scene - DAT(M) (Giant Squid Omnis) (pierre leroy) (Source 1) [AUD].txt"
@@ -33,7 +33,7 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "St Cloud, FR",
       "venue": "Domaine National de Saint-Cloud",
-      "notes": "Edirol \u00b7 nono \u00b7 Source 2",
+      "notes": "Edirol · nono · Source 2",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-08-30 - St Cloud, FR - Domaine National de Saint-Cloud (Edirol) (nono) (Source 2) [AUD].txt"
@@ -47,10 +47,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues",
-      "notes": "Edirol R09HR \u00b7 bcledfoot \u00b7 krw_co transfer",
+      "notes": "Edirol R09HR · bcledfoot · krw_co transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-10-11 - Boston, MA - House of Blues (Edirol R09HR) (bcledfoot) (krw_co transfer) [AUD].txt"
+      "textFile": "2009-10-11 - Boston, MA - House of Blues (Edirol R09HR) (bcledfoot) (cq remaster) [AUD].txt"
     },
     {
       "year": 2009,
@@ -61,7 +61,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues",
-      "notes": "Edirol R09HR \u00b7 bcledfoot \u00b7 cq remaster",
+      "notes": "Edirol R09HR · bcledfoot · cq remaster",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-10-11 - Boston, MA - House of Blues (Edirol R09HR) (bcledfoot) (cq remaster) [AUD].txt"
@@ -89,10 +89,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "Panasonic WM-61 \u00b7 weedwacker",
+      "notes": "Panasonic WM-61 · weedwacker",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-10-15 - New York, NY - Roseland Ballroom (Panasonic WM-61) (weedwacker) [AUD].txt"
+      "textFile": "2009-10-15 - New York, NY - Roseland Ballroom (CA-11) (johnny fried chicken boy) [AUD].txt"
     },
     {
       "year": 2009,
@@ -103,7 +103,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "CA-11 \u00b7 johnny fried chicken boy",
+      "notes": "CA-11 · johnny fried chicken boy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-10-15 - New York, NY - Roseland Ballroom (CA-11) (johnny fried chicken boy) [AUD].txt"
@@ -117,7 +117,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theater",
-      "notes": "MK4 \u00b7 daspyknows",
+      "notes": "MK4 · daspyknows",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-11-19 - Oakland, CA - Fox Theater (MK4) (daspyknows) [AUD].txt"
@@ -145,7 +145,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Joint",
-      "notes": "CK91 \u00b7 cps",
+      "notes": "CK91 · cps",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-04-17 - Las Vegas, NV - Joint (CK91) (cps) [AUD].txt"
@@ -159,10 +159,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "AT-899 \u00b7 jonohull \u00b7 Source 1",
+      "notes": "AT-899 · jonohull · Source 1",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-05-18 - Chicago, IL - Aragon Ballroom (AT-899) (unk) (Source 1) [AUD].txt"
+      "textFile": "2010-05-18 - Chicago, IL - Aragon Ballroom (AT831) (jonohull) Source 1 [AUD].txt"
     },
     {
       "year": 2010,
@@ -173,7 +173,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "AT-899 \u00b7 Source 2",
+      "notes": "AT-899 · Source 2",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-05-18 - Chicago, IL - Aragon Ballroom (AT831) (jonohull) Source 1 [AUD].txt"
@@ -187,10 +187,10 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "Paris, FR",
       "venue": "Le Zenith",
-      "notes": "MM-MCSM-5 \u00b7 Source 1",
+      "notes": "MM-MCSM-5 · Source 1",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-06-08 - Paris, FR - Zenith (MM-MCSM-5) (Source 1) [AUD].txt"
+      "textFile": "2010-06-08 - Paris, FR - Le Zenith (Source 2) (Sony ECM-MS 907) [AUD].txt"
     },
     {
       "year": 2010,
@@ -201,7 +201,7 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "Paris, FR",
       "venue": "Le Zenith",
-      "notes": "Sony ECM-MS 907 \u00b7 Source 2",
+      "notes": "Sony ECM-MS 907 · Source 2",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-06-08 - Paris, FR - Le Zenith (Source 2) (Sony ECM-MS 907) [AUD].txt"
@@ -215,7 +215,7 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "Amsterdam, NL",
       "venue": "Heineken Music Hall",
-      "notes": "AT831 \u00b7 edgar",
+      "notes": "AT831 · edgar",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-06-10 - Amsterdam, NL - Heineken Music Hall (AT831) (edgar) [AUD].txt"
