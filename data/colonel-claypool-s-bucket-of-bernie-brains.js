@@ -139,7 +139,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "Schoeps MK4 \u00b7 team no drama",
+      "notes": "Schoeps MK4 · team no drama",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-10-05 - Asheville, NC - The Orange Peel (Schoeps MK4) (team no drama) [AUD].txt"
@@ -288,7 +288,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Roseland Theater",
-      "notes": "DAT(M) \u00b7 Nakamichi CM-300s \u00b7 chris mcgrath",
+      "notes": "DAT(M) · Nakamichi CM-300s · chris mcgrath",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2004-11-06 - Portland, OR - Roseland Theater - DAT(M) (Nakamichi CM-300s) (chris mcgrath) [AUD24].txt"
