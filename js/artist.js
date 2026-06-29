@@ -35,32 +35,84 @@ function esc(s) {
 
 const INFO_ICON = '<span class="show-info-icon" title="View info"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><line x1="10" y1="9" x2="8" y2="9"/></svg></span>';
 
-function renderMiscRow(item) {
-  const hasInfo   = !!item.textFile;
-  const clickAttr = hasInfo ? ' data-txt="' + esc(item.textFile) + '"' : '';
-  const infoIcon  = hasInfo ? INFO_ICON : '';
-  if (item.type === 'show') {
-    const month    = item.month != null ? String(item.month).padStart(2,'0') : '??';
-    const day      = item.day   != null ? String(item.day).padStart(2,'0')   : '??';
-    const dateDisp = item.year  ? (item.year + '-' + month + '-' + day) : '';
-    const notesHtml = item.notes ? '<div class="show-notes">' + esc(item.notes) + '</div>' : '';
-    return '<tr class="show-row' + (hasInfo ? ' has-info' : '') + '"' + clickAttr + '>'
-      + '<td class="col-date">' + esc(dateDisp) + '</td>'
-      + '<td class="col-venue"><div>' + esc(item.venue || '') + infoIcon + '</div>' + notesHtml + '</td>'
-      + '<td class="col-location">' + esc(item.location || '') + '</td>'
-      + '<td class="col-badges"><div class="badge-group">' + versionBadge(item.version) + formatBadge(item.format) + '</div></td>'
-      + '</tr>';
-  } else {
-    return '<tr class="show-row' + (hasInfo ? ' has-info' : '') + '"' + clickAttr + '>'
-      + '<td class="col-date">' + (item.year ? esc(String(item.year)) : '') + '</td>'
-      + '<td class="col-venue"><div>' + esc(item.label || '') + infoIcon + '</div></td>'
-      + '<td class="col-location">' + (item.category ? esc(item.category) : '') + '</td>'
-      + '<td class="col-badges"><div class="badge-group">'
-        + (item.version ? versionBadge(item.version) : '')
-        + formatBadge(item.format)
-        + '</div></td>'
-      + '</tr>';
+function renderMiscSection(miscItems) {
+  if (!miscItems || !miscItems.length) return '';
+
+  // Separate partial-date shows from releases/labels
+  const shows    = miscItems.filter(i => i.type === 'show');
+  const releases = miscItems.filter(i => i.type !== 'show');
+
+  // Group releases by category; items without a category go under 'OTHER'
+  const CAT_ORDER = ['OTHER', 'SILVERS', 'OFFICIAL RELEASES', 'SINGLES'];
+  const groups = {};
+  releases.forEach(item => {
+    const cat = item.category || 'OTHER';
+    if (!groups[cat]) groups[cat] = [];
+    groups[cat].push(item);
+  });
+
+  const CAT_LABELS = {
+    'OTHER':            'Demos & Compilations',
+    'SILVERS':          'Silver CDs',
+    'OFFICIAL RELEASES':'Official Releases',
+    'SINGLES':          'Singles',
+  };
+
+  // Render a release item as a compact list row
+  function renderReleaseItem(item) {
+    const hasInfo   = !!item.textFile;
+    const clickAttr = hasInfo ? ' data-txt="' + esc(item.textFile) + '"' : '';
+    const infoIcon  = hasInfo ? INFO_ICON : '';
+    const badges    = '<div class="badge-group">'
+      + (item.version ? versionBadge(item.version) : '')
+      + (item.format  ? formatBadge(item.format)   : '')
+      + '</div>';
+    const year = item.year ? '<span class="misc-item-year">' + item.year + '</span>' : '';
+    return '<div class="misc-item' + (hasInfo ? ' has-info' : '') + '"' + clickAttr + '>'
+      + year
+      + '<span class="misc-item-label">' + esc(item.label || '') + infoIcon + '</span>'
+      + badges
+      + '</div>';
   }
+
+  // Render partial-date shows as a table (same as regular shows)
+  let showsHtml = '';
+  if (shows.length) {
+    const rows = shows.map(s => {
+      const hasInfo    = !!s.textFile;
+      const clickAttr  = hasInfo ? ' data-txt="' + esc(s.textFile) + '"' : '';
+      const infoIcon   = hasInfo ? INFO_ICON : '';
+      const month      = s.month != null ? String(s.month).padStart(2,'0') : '??';
+      const day        = s.day   != null ? String(s.day).padStart(2,'0')   : '??';
+      const dateDisp   = s.year  ? (s.year + '-' + month + '-' + day) : '';
+      const notesHtml  = s.notes ? '<div class="show-notes">' + esc(s.notes) + '</div>' : '';
+      return '<tr class="show-row' + (hasInfo ? ' has-info' : '') + '"' + clickAttr + '>'
+        + '<td class="col-date">' + esc(dateDisp) + '</td>'
+        + '<td class="col-venue"><div>' + esc(s.venue || '') + infoIcon + '</div>' + notesHtml + '</td>'
+        + '<td class="col-location">' + esc(s.location || '') + '</td>'
+        + '<td class="col-badges"><div class="badge-group">' + versionBadge(s.version) + formatBadge(s.format) + '</div></td>'
+        + '</tr>';
+    }).join('');
+    showsHtml = '<table class="show-table"><tbody>' + rows + '</tbody></table>';
+  }
+
+  // Render grouped release sections
+  const groupsHtml = CAT_ORDER
+    .filter(cat => groups[cat] && groups[cat].length)
+    .map(cat => {
+      const label = CAT_LABELS[cat] || cat;
+      const items = groups[cat].map(renderReleaseItem).join('');
+      return '<div class="misc-group">'
+        + '<h3 class="misc-group-label">' + label + '</h3>'
+        + '<div class="misc-item-list">' + items + '</div>'
+        + '</div>';
+    }).join('');
+
+  return '<div class="year-block" id="year-misc">'
+    + '<h2 class="year-label">MISC</h2>'
+    + showsHtml
+    + groupsHtml
+    + '</div>';
 }
 
 function render() {
@@ -116,13 +168,7 @@ function render() {
   }).join('');
 
   // Misc section
-  const miscHtml = (d.misc && d.misc.length)
-    ? '<div class="year-block" id="year-misc">'
-        + '<h2 class="year-label">MISC</h2>'
-        + '<table class="show-table"><tbody>'
-        + d.misc.map(renderMiscRow).join('')
-        + '</tbody></table></div>'
-    : '';
+  const miscHtml = renderMiscSection(d.misc);
 
   const photoSrc = '../../images/' + d.id + '/band.jpg';
   const logoHtml = '<a class="site-logo" href="../../"><img class="site-logo-img" src="../../favicon.png" alt=""><span class="site-logo-text">Shynomi\'s Live<span>Archive</span></span></a>';
