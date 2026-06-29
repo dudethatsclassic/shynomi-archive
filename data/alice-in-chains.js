@@ -3882,7 +3882,8 @@ const ARTIST_DATA = {
       "type": "release",
       "label": "Heaven Beside You {Columbia 662916 2} (Australia CD2)",
       "year": 1996,
-      "category": "SINGLES"
+      "category": "SINGLES",
+      "format": "FLAC"
     },
     {
       "type": "release",
@@ -3902,7 +3903,8 @@ const ARTIST_DATA = {
       "type": "release",
       "label": "Heaven Beside You {Columbia 662768 2} (Australia CD1)",
       "year": 1996,
-      "category": "SINGLES"
+      "category": "SINGLES",
+      "format": "FLAC"
     },
     {
       "type": "release",
