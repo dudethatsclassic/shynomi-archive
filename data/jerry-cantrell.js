@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "jerry-cantrell",
   "name": "Jerry Cantrell",
   "drive": "C",
-  "showCount": 18,
+  "showCount": 19,
   "firstYear": 1998,
   "lastYear": 2025,
   "years": [
@@ -212,6 +212,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-03-27 - Denver, CO - Ogden Theater (Olympus LS-12) (bluejane99) [AUD].txt"
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 27,
+      "dateStr": "3-27-2023",
+      "city": "Denver",
+      "state": "CO",
+      "location": "Denver, CO",
+      "venue": "Ogden Theater",
+      "notes": "Olympus LS-12 · bluejane99",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2024,
