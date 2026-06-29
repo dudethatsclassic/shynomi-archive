@@ -19,7 +19,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sebastopol, CA",
       "venue": "HopMonk Tavern",
-      "notes": "CA-11 \u00b7 leifh",
+      "notes": "CA-11 · leifh",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-11-23 - Sebastopol, CA - HopMonk Tavern (CA-11) (leifh) [AUD].txt"
@@ -33,7 +33,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sebastopol, CA",
       "venue": "Hopmonk",
-      "notes": "16th \u00b7 Sennheiser + Pixel \u00b7 leifh",
+      "notes": "16th · Sennheiser + Pixel · leifh",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-11-22 - Sebastopol, CA - Hopmonk (Sennheiser + Pixel) (leifh) [MIX24].txt"
