@@ -48,7 +48,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "Moe's Alley",
-      "notes": "WAV(M) \u00b7 Sony PCM-A10 \u00b7 anonymous",
+      "notes": "WAV(M) · Sony PCM-A10 · anonymous",
       "version": "AUD #1",
       "format": "FLAC",
       "textFile": "2022-12-14 - Santa Cruz, CA - Moe's Alley - WAV(M) (Sony PCM-A10) (anonymous) [AUD #1].txt"
