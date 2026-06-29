@@ -19,7 +19,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theatre",
-      "notes": "DPA 4011 \u00b7 unk",
+      "notes": "DPA 4011 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-07-07 - Boulder, CO - Fox Theatre (DPA 4011) (unk) [AUD].txt"
@@ -33,7 +33,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theatre",
-      "notes": "Schopes MK4 \u00b7 unk",
+      "notes": "Schopes MK4 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-07-08 - Boulder, CO - Fox Theatre (Schopes MK4) (unk) [AUD].txt"
@@ -47,7 +47,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Roxy",
-      "notes": "CSB \u00b7 ghostwheel",
+      "notes": "CSB · ghostwheel",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-06-01 - Boston, MA - The Roxy (CSB) (ghostwheel) [AUD].txt"
@@ -61,7 +61,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Electric Factory",
-      "notes": "CSB \u00b7 ghostwheel",
+      "notes": "CSB · ghostwheel",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-06-03 - Philadelphia, PA - The Electric Factory (CSB) (ghostwheel) [AUD].txt"
