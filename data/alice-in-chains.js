@@ -3686,7 +3686,7 @@ const ARTIST_DATA = {
     },
     {
       "type": "release",
-      "label": "Alice in Chains - Live (2000)",
+      "label": "Alice in Chains - Live {CK 85274} (2000)",
       "year": 2000,
       "format": "FLAC",
       "category": "OFFICIAL RELEASES"
@@ -3859,7 +3859,7 @@ const ARTIST_DATA = {
     },
     {
       "type": "release",
-      "label": "Them Bones (Limited Edition) Columbia 659090 2}",
+      "label": "Them Bones (Limited Edition) {Columbia 659090 2}",
       "year": 1993,
       "format": "FLAC",
       "category": "SINGLES"
@@ -3880,7 +3880,7 @@ const ARTIST_DATA = {
     },
     {
       "type": "release",
-      "label": "Heaven Beside You (Columbia 662916 2} (Australia CD2)",
+      "label": "Heaven Beside You {Columbia 662916 2} (Australia CD2)",
       "year": 1996,
       "category": "SINGLES"
     },
@@ -3900,7 +3900,7 @@ const ARTIST_DATA = {
     },
     {
       "type": "release",
-      "label": "Heaven Beside You (Australia CD1)",
+      "label": "Heaven Beside You {Columbia 662768 2} (Australia CD1)",
       "year": 1996,
       "category": "SINGLES"
     },
