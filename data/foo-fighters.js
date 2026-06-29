@@ -14493,13 +14493,12 @@ const ARTIST_DATA = {
       "day": 27,
       "dateStr": "9-27-2022",
       "city": "Inglewood",
-      "state": "CA - Kia Forum - WAV(M) (SP-CMC-4U) (vibrioidxire)",
-      "location": "Inglewood, CA - Kia Forum - WAV(M) (SP-CMC-4U) (vibrioidxire)",
-      "venue": "",
-      "notes": "",
+      "state": "CA",
+      "location": "Inglewood, CA",
+      "venue": "Kia Forum",
+      "notes": "WAV(M) · SP-CMC-4U · vibrioidxire",
       "version": "AUD #3",
-      "format": "FLAC",
-      "textFile": "2022-09-27 - Inglewood, CA - Kia Forum - Taylor Hawkins Tribute (All Artists) (SP-CMC-4U) (loughney) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2023,
