@@ -58,7 +58,7 @@ const ARTISTS = [
   {
     "id": "alice-in-chains",
     "name": "Alice In Chains",
-    "showCount": 252,
+    "showCount": 253,
     "firstYear": 1986,
     "lastYear": 2024
   },
