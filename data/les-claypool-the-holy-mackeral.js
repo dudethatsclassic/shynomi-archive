@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -87,7 +87,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "La Luna",
-      "notes": "AKG C-522 \u00b7 mark burgin",
+      "notes": "AKG C-522 · mark burgin",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-10-20 - Portland, OR - La Luna [AUD].txt"
