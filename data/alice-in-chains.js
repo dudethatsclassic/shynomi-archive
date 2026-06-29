@@ -3646,43 +3646,50 @@ const ARTIST_DATA = {
       "type": "release",
       "label": "Alice In Chains - Facelift (CBS Records, CK 46075, U.S.A.)",
       "year": 1990,
-      "category": "OFFICIAL RELEASES"
+      "category": "OFFICIAL RELEASES",
+      "format": "FLAC"
     },
     {
       "type": "release",
       "label": "Alice In Chains - Dirt (Sony Music, 472330 2, Austria)",
       "year": 1992,
-      "category": "OFFICIAL RELEASES"
+      "category": "OFFICIAL RELEASES",
+      "format": "FLAC"
     },
     {
       "type": "release",
       "label": "Alice In Chains - Sap ('2011 Original Album Classics, Sony Music, 88697944482CD2, E.U.)",
       "year": 1992,
-      "category": "OFFICIAL RELEASES"
+      "category": "OFFICIAL RELEASES",
+      "format": "FLAC"
     },
     {
       "type": "release",
       "label": "Alice In Chains - Jar Of Flies ('2011 Original Album Classics, Sony Music, 88697944482CD1, E.U.)",
       "year": 1993,
-      "category": "OFFICIAL RELEASES"
+      "category": "OFFICIAL RELEASES",
+      "format": "FLAC"
     },
     {
       "type": "release",
       "label": "Alice In Chains - Alice In Chains (Sony Music, CK 67248, U.S.A.)",
       "year": 1995,
-      "category": "OFFICIAL RELEASES"
+      "category": "OFFICIAL RELEASES",
+      "format": "FLAC"
     },
     {
       "type": "release",
       "label": "Alice In Chains - Alice In Chains (Sony Records, SRCS 8192, Japan)",
       "year": 1995,
-      "category": "OFFICIAL RELEASES"
+      "category": "OFFICIAL RELEASES",
+      "format": "FLAC"
     },
     {
       "type": "release",
       "label": "Alice In Chains - MTV Unplugged ('2011 Original Album Classics, Sony Music, 88697944482CD3, E.U.)",
       "year": 1996,
-      "category": "OFFICIAL RELEASES"
+      "category": "OFFICIAL RELEASES",
+      "format": "FLAC"
     },
     {
       "type": "release",
@@ -3695,7 +3702,8 @@ const ARTIST_DATA = {
       "type": "release",
       "label": "Alice In Chains - Black Gives Way to Blue (Virgin 509999 67159 25)",
       "year": 2009,
-      "category": "OFFICIAL RELEASES"
+      "category": "OFFICIAL RELEASES",
+      "format": "FLAC"
     },
     {
       "type": "release",
