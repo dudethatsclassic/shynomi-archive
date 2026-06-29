@@ -1,0 +1,62 @@
+Foo Fighters - Mine is Yours and Yours is Mine
+Tracks 01-13:  07/09/05 - T In The Park Festival, Kinross, SC
+Tracks 14-16:  08/23/05 - BBC Maida Vale Studios, London, UK
+Track 17: 07/08/2005 - BBC Radio
+
+SETLIST (01:08:06)
+-----------------
+01) In Your Honor
+02) All My Life
+03) Times Like These
+04) My Hero
+05) Best of You
+06) Last Song
+07) The One
+08) Dave Grohl Speech
+09) This is a Call
+10) Everlong
+11) Monkey Wrench
+12) Cold Day In the Sun
+13) Breakout
+14) D.O.A.
+15) This is a Call
+16) Lyla
+17) Skin and Bones
+
+
+
+Label
+-----------------
+Gerogama Bin Bush
+
+Source
+-----------------
+SBD A-
+
+GENERATION
+-----------------
+silver disc -> EAC -> WAV -> FLAC [Level 8]
+
+Notes
+-----------------
+
+
+ffp FINGERPRINTS
+-----------------
+01 In Your Honor.flac:167828c75d644318612bf9df8e6b6514
+02 All My Life.flac:cbaebb25ff5bdc0945b636cfa46c1a63
+03 Times Like These.flac:2a9192b07834a147fcb7c3d7155fe2c4
+04 My Hero.flac:b63a20377be29fb31ef042e79469d303
+05 Best of You.flac:133ce55a63b131ef614865be3ff6519f
+06 Last Song.flac:ae9258f1e2138bf49b0e865735542bb2
+07 The One.flac:47776a42c2199f461be9603c7f91140a
+08 Dave Grohl Speech.flac:745a0c485426d6e6f5bfc99a162666f7
+09 This is a Call.flac:98e48294b5c233870da611a1356b781a
+10 Everlong.flac:f99307520f1cce2c65be1f7ed320af24
+11 Monkey Wrench.flac:be8f789b5f1a38f63554f344cab22e97
+12 Cold Day In the Sun.flac:7844747f44e24d8aceb75d68e2cd73e1
+13 Breakout.flac:50f4bd7d24f57a11c1fe636bcd4cf1bb
+14 D.O.A..flac:b67f8d2efad08c2e064c582dd409f394
+15 This is a Call.flac:94ab860c519980752e91fd149587a117
+16 Lyla.flac:78cf8a08b95728e6421519424d57c07b
+17 Skin and Bones.flac:4e3af8cd2ec2da872013281d4f6b353d

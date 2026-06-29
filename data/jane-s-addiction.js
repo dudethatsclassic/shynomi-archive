@@ -1384,7 +1384,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-11-20 - New York, NY - The Ritz [AUD].txt"
+      "textFile": "1990-11-20 - New York, NY - The Ritz (unk) [AUD].txt"
     },
     {
       "year": 1990,
@@ -1398,7 +1398,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-11-20 - New York, NY - The Ritz (unk) [AUD].txt"
+      "textFile": "1990-11-20 - New York, NY - The Ritz [AUD].txt"
     },
     {
       "year": 1990,
@@ -1412,7 +1412,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-11-21 - New York, NY - The Ritz [AUD].txt"
+      "textFile": "1990-11-21 - New York, NY - The Ritz (unk) [AUD].txt"
     },
     {
       "year": 1990,
@@ -1426,7 +1426,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-11-21 - New York, NY - The Ritz (unk) [AUD].txt"
+      "textFile": "1990-11-21 - New York, NY - The Ritz [AUD].txt"
     },
     {
       "year": 1990,
@@ -2041,7 +2041,7 @@ const ARTIST_DATA = {
       "notes": "persic",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1991-07-26 - Mountain View, CA - Shoreline Amphitheatre [AUD].txt"
+      "textFile": "1991-07-26 - Mountain View, CA - Shoreline Amphitheater (CM300) (markp) [AUD].txt"
     },
     {
       "year": 1991,
@@ -2055,7 +2055,7 @@ const ARTIST_DATA = {
       "notes": "CM300 \u00b7 markp",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1991-07-26 - Mountain View, CA - Shoreline Amphitheater (CM300) (markp) [AUD].txt"
+      "textFile": "1991-07-26 - Mountain View, CA - Shoreline Amphitheatre [AUD].txt"
     },
     {
       "year": 1991,
@@ -2473,7 +2473,7 @@ const ARTIST_DATA = {
       "notes": "CSB \u00b7 unk",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "2001-10-21 - Rosemont, IL - AllState Arena (CSB) (unk) [AUD].txt"
+      "textFile": "2001-10-21 - Auburn Hills, MI - Palace of Auburn Hills - MD(M) (Sony MZ-R700) (mitaper78) [AUD].txt"
     },
     {
       "year": 2001,
@@ -2487,7 +2487,7 @@ const ARTIST_DATA = {
       "notes": "MD(M) \u00b7 Sony MZ-R700 \u00b7 mitaper78",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2001-10-21 - Auburn Hills, MI - Palace of Auburn Hills - MD(M) (Sony MZ-R700) (mitaper78) [AUD].txt"
+      "textFile": "2001-10-21 - Rosemont, IL - AllState Arena (CSB) (unk) [AUD].txt"
     },
     {
       "year": 2002,
@@ -3894,7 +3894,15 @@ const ARTIST_DATA = {
       "type": "release",
       "label": "Jane's Addiction - Skin And Bones (YTH-081)",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - Jane's Addiction - Skin And Bones (YTH-081) [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Jane's Addiction - Nothing's Shocking (1988) (24:192)",
+      "year": 1988,
+      "format": "FLAC HD",
+      "category": "OFFICIAL RELEASES"
     }
   ]
 };

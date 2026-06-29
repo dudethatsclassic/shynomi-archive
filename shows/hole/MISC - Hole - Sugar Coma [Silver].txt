@@ -1,0 +1,55 @@
+HOLE
+Sugar Coma CD, 
+Various Dates
+
+Generation = CD(M) -> CD-R(2) -> WAV -> FLAC
+
+Setlist:
+
+01. Plump 
+02. Miss world 
+03. Asking for it 
+04. He hit me (and it felt like a kiss)/Doll parts 
+05. Violet 
+06. Miss world 
+07. Best sunday dress 
+08. Softer, softest 
+09. Drown soda 
+10. He hit me (and it felt like a kiss) 
+11. Asking for it 
+12. You've got no right 
+13. Old age 
+14. Hungry like the wolf 
+15. Doll parts 
+16. Sugar coma 
+17. Doll parts 
+
+Tracks 01 - 05
+12/11/94 - Universal Amphitheatre, Los Angeles, CA, US 
+
+Tracks 06-16
+02/14/95 - MTV Unplugged, New York, NY, US
+
+Track 17
+12/17/94 - Saturday Night Live Studios, NY, US
+
+MD5 Checksums:
+14280141f8cf510b7e037adc96c73f8d *Track01.flac
+08a909c8fe279a6ba6c2d58603930bdb *Track02.flac
+8a8bf7d7175e6bc45ab7b7684f02759a *Track03.flac
+1b988cd8662e8a74c5bf2e77e77d85fe *Track04.flac
+dd34d568fb8c76083595c78b171ee252 *Track05.flac
+a721ab9c53d4ebb4f3e49b69439a752e *Track06.flac
+d7a858e2dcd79972684acaafef1f842b *Track07.flac
+4a47be8fcc0f7d10124367ffac7d0e4f *Track08.flac
+6421bfb199232ceb435d7635e2d897fe *Track09.flac
+a98c76bad231ce8381e2eaea83d52da7 *Track10.flac
+83e5d22a5bfd07bda9fada1e27084da8 *Track11.flac
+10bfbf2c752cfca75167d84ce4008af9 *Track12.flac
+45868d50ae678a6969793bd42fd364d5 *Track13.flac
+86e0df351f1f56ed5705a091f2e56c30 *Track14.flac
+fa97fbc959b141291cdaf96c498037ff *Track15.flac
+f306e8ffafdac32f9b281af12027096c *Track16.flac
+10bd1dfc3cfa305520eedf5faeb3f795 *Track17.flac
+
+Torrented by: Victor B-D

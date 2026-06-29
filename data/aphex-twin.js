@@ -258,7 +258,8 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "Analogue Bubblebath 2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - 1995-XX-XX - Analogue Bubblebath 5.txt"
     },
     {
       "type": "label",
@@ -267,7 +268,8 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "Melodies From Mars (Unreleased Album - 1995)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - 1995-XX-XX - Melodies from Mars.txt"
     },
     {
       "type": "label",
@@ -282,7 +284,8 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "Peel Sessions",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - Aphex Twin - Peel Sessions [FM].txt"
     },
     {
       "type": "label",

@@ -785,7 +785,8 @@ const ARTIST_DATA = {
       "type": "release",
       "label": "No Strings Attached (1995-12-17)",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - 1995-12-17 - No Strings Attached [Silver].txt"
     },
     {
       "type": "label",
@@ -796,7 +797,8 @@ const ARTIST_DATA = {
       "type": "release",
       "label": "Froggystyle EP",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - PUSA - Froggystyle (EP).txt"
     }
   ]
 };

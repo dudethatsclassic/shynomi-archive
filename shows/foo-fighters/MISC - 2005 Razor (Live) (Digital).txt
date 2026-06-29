@@ -1,0 +1,10 @@
+Started at: понедельник, 23. 11. 2015. - 15:54.22
+1 file found
+
+1 -===- E:\Foo Fighters Digital\2005 Razor (Live) (WEB)\01 - Razor (Acoustic recorded live on Edge 102.1, Toronto on June 16, 2005).flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 43%
+  Tempfile successfully deleted.
+
+
+Finished at: понедельник, 23. 11. 2015. - 15:55.07 (operation time: 0:00.44)

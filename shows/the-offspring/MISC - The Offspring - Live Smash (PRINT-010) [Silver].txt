@@ -1,0 +1,24 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:55.02       41458748 B   ---   --   ---xx   flac  0.6274  01 The Offspring - Bad Habit.flac
+     3:26.23       36392540 B   ---   --   ---xx   flac  0.6323  02 The Offspring - Power.flac
+     3:32.50       37514444 B   ---   --   ---xx   flac  0.6286  03 The Offspring - Genocide.flac
+     3:44.02       39518348 B   ---   --   ---xx   flac  0.6153  04 The Offspring - Gotta Get Away.flac
+     3:28.00       36691244 B   ---   --   ---xx   flac  0.6228  05 The Offspring - Something To Believe In.flac
+     3:05.38       32723420 B   ---   --   ---xx   flac  0.6078  06 The Offspring - It'll Be A Long Time.flac
+     5:38.45       59729084 B   ---   --   ---xx   flac  0.5847  07 The Offspring - Come Out And Play.flac
+     4:42.57       49878908 B   ---   --   ---xx   flac  0.5956  08 The Offspring - Self Esteem.flac
+     3:19.38       35193020 B   ---   --   ---xx   flac  0.5905  09 The Offspring - Bad Habit.flac
+     3:42.15       39196124 B   ---   --   ---xx   flac  0.6116  10 The Offspring - No Way Out.flac
+     1:21.50       14406044 B   ---   --   ---xx   flac  0.6193  11 The Offspring - So Alone.flac
+     3:59.17       42199628 B   ---   --   ---xx   flac  0.5936  12 The Offspring - Power.flac
+     3:47.63       40191020 B   ---   --   ---xx   flac  0.6118  13 The Offspring - Genocide.flac
+     3:38.70       38619884 B   ---   --   ---xx   flac  0.6057  14 The Offspring - Gotta Get Away.flac
+     3:10.02       33520748 B   ---   --   ---xx   flac  0.6083  15 The Offspring - Lapd.flac
+     3:14.40       34315724 B   ---   --   ---xx   flac  0.6180  16 The Offspring - It'll Be A Long Time.flac
+     4:07.65       43723724 B   ---   --   ---xx   flac  0.6119  17 The Offspring - Come Out And Play.flac
+     2:50.73       30159740 B   ---   --   ---xx   flac  0.6005  18 The Offspring - What Happened To You.flac
+     3:13.17       34085228 B   ---   --   ---xx   flac  0.6195  19 The Offspring - Smash.flac
+     2:30.10       26483564 B   ---   --   ---xx   flac  0.6174  20 The Offspring - Nitro.flac
+     3:08.13       33193820 B   ---   --   ---xx   flac  0.6109  21 The Offspring - Something To Believe In.flac
+     4:30.57       47762108 B   ---   --   ---xx   flac  0.6077  22 The Offspring - Self Esteem.flac
+    78:07.72      826957112 B                            0.6097  (22 files)

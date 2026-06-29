@@ -1,0 +1,43 @@
+Foo Fighters - Low Like These
+Recorded 2002-08-30 ULU London, England
+
+
+SETLIST (1:11:12)
+-----------------
+01) Times Like These
+02) All My Life
+03) Generator
+04) My Hero
+05) This Is A Call
+06) For All The Cows
+07) Stacked Actors
+08) Learn To Fly
+09) Disenchanted Lullaby
+10) Hey Johnny Park
+11) Everlong
+12) Breakout
+13) Low
+14) Monkey Wrench
+15) Tired
+
+GENERATION
+-----------------
+silver disc -> EAC -> WAV -> FLAC [Level 8]
+
+MD5 FINGERPRINTS
+-----------------
+01 Times Like These.flac:5b5d7e486c77c22fbe56e22fdd17994a
+02 All My Life.flac:d31e28ee6da56c3e0383662694a63624
+03 Generator.flac:7ef06716eb3b544cdb6a4b334e84c3fc
+04 My Hero.flac:26619d0bbedb3327bb074ef3e4db7a82
+05 This Is A Call.flac:1210e95b2f67a455169fd64ab7b274cb
+06 For All The Cows.flac:41c67a531b0347cf295caa9e6487eb2a
+07 Stacked Actors.flac:37f7a75f4dbea86310462fbfd1704ec7
+08 Learn To Fly.flac:541ab0780ea5768be088e80cbf873b3b
+09 Disenchanted Lullaby.flac:2a50b700b7143559c661694bfc6374c8
+10 Hey Johnny Park.flac:4dc37d540488c36eddc99d67e9d00431
+11 Everlong.flac:be477e9dd191de6682ba29c5c6ff8458
+12 Breakout.flac:275c7799ac204296ca4dc3dfbe68045f
+13 Low.flac:fc714bb30b4332cb01f4b44aa334a603
+14 Monkey Wrench.flac:7b95d89c0df07a6e1e5a6dc307a45f6b
+15 Tired.flac:4d691a8a804cdb2678e71263055c76fa

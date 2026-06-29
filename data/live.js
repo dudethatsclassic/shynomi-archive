@@ -50,7 +50,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1993-02-27 - Kingston, RI - University of RI [SBD].txt"
+      "textFile": "1993-02-27 - Kingston, RI - University of RI (+ Bonus) [SBD].txt"
     },
     {
       "year": 1993,
@@ -64,7 +64,7 @@ const ARTIST_DATA = {
       "notes": "+ Bonus",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1993-02-27 - Kingston, RI - University of RI (+ Bonus) [SBD].txt"
+      "textFile": "1993-02-27 - Kingston, RI - University of RI [SBD].txt"
     },
     {
       "year": 1994,
@@ -644,7 +644,8 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "Live - The Complete B-Sides & Rarities Collection (10 CD)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - Live - The Complete B-Sides & Rarities Collection (10 CD).txt"
     },
     {
       "type": "show",
@@ -664,30 +665,35 @@ const ARTIST_DATA = {
       "type": "release",
       "label": "Live - 1992-XX-XX - Playin' Back 'ome",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - Live - 1992-XX-XX - Playin' Back 'ome [Silver].txt"
     },
     {
       "type": "release",
       "label": "Live - The Slacker Generation - Live in USA (1994) (RPCD 1192)",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - Live - The Slacker Generation - Live in USA (1994) (RPCD 1192) [Silver].txt"
     },
     {
       "type": "label",
       "label": "Live - 1998-07-15 - New Stuff (Studio Demos)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - Live - 1998-07-15 - New Stuff (Studio Demos).txt"
     },
     {
       "type": "release",
       "label": "Live - 2000-04-XX - The Acoustic Sessions - Jack Flash Records (JFR 006) (inc)",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - Live - 2000-04-XX - The Acoustic Sessions - Jack Flash Records JFR 006) (inc) [FM].txt"
     },
     {
       "type": "release",
       "label": "Live - Yorksters In Boston {HR-6035-8} (1995)",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - Live - Yorksters In Boston {HR-6035-8} (1995) [Silver].txt"
     },
     {
       "type": "release",
@@ -699,18 +705,26 @@ const ARTIST_DATA = {
       "type": "release",
       "label": "Live - The Distance To Den Haag 1999 (1999)",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - Live - The Distance To Den Haag 1999 (1999) [Silver].txt"
     },
     {
       "type": "release",
       "label": "Live - Dance With Pink Pop {LLP 2000} (2000)",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - Live - Dance With Pink Pop {LLP 2000} (2000) [Silver].txt"
     },
     {
       "type": "label",
       "label": "Live - Radiant Sea (2007)",
       "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "XX-XX - Columbia, PA - Throwing Copper Churchbox Demo",
+      "year": 1993,
+      "textFile": "MISC - 1993-XX-XX - Columbia, PA - Throwing Copper Churchbox Demo.txt"
     }
   ]
 };

@@ -171,7 +171,7 @@ function render() {
   const miscHtml = renderMiscSection(d.misc);
 
   const photoSrc = '../../images/' + d.id + '/band.jpg';
-  const logoHtml = '<a class="site-logo" href="../../"><img class="site-logo-img" src="../../favicon.png" alt=""><span class="site-logo-text">Shynomi\'s Live<span>Archive</span></span></a>';
+  const logoHtml = '<a class="site-logo" href="../../"><img class="site-logo-img" src="../../favicon.png" alt=""><span class="site-logo-text">Shynomi\'s <span class="site-logo-live">Live</span><span>Archive</span></span></a>';
 
   document.getElementById('app').innerHTML = `
     <header class="site-header">
@@ -258,7 +258,7 @@ document.addEventListener('keydown', e => {
 
 function setupNav() {
   document.querySelector('.shows-body').addEventListener('click', e => {
-    const row = e.target.closest('tr[data-txt]');
+    const row = e.target.closest('[data-txt]');
     if (row) openShowInfo(row.dataset.txt);
   });
 

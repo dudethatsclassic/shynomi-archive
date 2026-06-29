@@ -109,7 +109,7 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "FLAC",
       "notes": "",
-      "textFile": "1993-10-05 - Santa Monica, CA - KCRW Studios [FM].txt"
+      "textFile": "1993-10-05 - Santa Monica, CA - KCRW Radio - Morning Becomes Eclectic (FM2 Tape) [FM].txt"
     },
     {
       "year": 1993,
@@ -123,7 +123,7 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "FLAC",
       "notes": "FM2 Tape",
-      "textFile": "1993-10-05 - Santa Monica, CA - KCRW Radio - Morning Becomes Eclectic (FM2 Tape) [FM].txt"
+      "textFile": "1993-10-05 - Santa Monica, CA - KCRW Studios [FM].txt"
     },
     {
       "year": 1993,
@@ -444,7 +444,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "master",
-      "textFile": "1996-12-01 - New York, NY - Supper Club [AUD].txt"
+      "textFile": "1996-12-01 - New York, NY - Supper Club (Neumann 184) [AUD].txt"
     },
     {
       "year": 1996,
@@ -458,7 +458,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Neumann 184",
-      "textFile": "1996-12-01 - New York, NY - Supper Club (Neumann 184) [AUD].txt"
+      "textFile": "1996-12-01 - New York, NY - Supper Club [AUD].txt"
     },
     {
       "year": 1996,
@@ -544,5 +544,6 @@ const ARTIST_DATA = {
       "notes": "Schoepls CCM4s \u00b7 blg mastering",
       "textFile": "2019-02-24 - Oakland, CA - Fox Theatre (Schoepls CCM4s) (blg mastering) [AUD].txt"
     }
-  ]
+  ],
+  "misc": []
 };

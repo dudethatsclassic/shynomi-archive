@@ -1,0 +1,84 @@
+FOO FIGHTERS
+Odds And Ends 3
+
+GENERAL INFORMATION:
+Generation: TV > VARIOUS > DVDR(0) [NTSC]
+Source:Various - See Below 
+Running Time: 70:27 minutes
+
+TECHNICAL INFORMATION: 
+Transferred By: FooFightersLive.com
+Video Information: 5.4 Mbps VBR / 720x480i / 29.97 fps 
+Audio Information: Linear PCM
+Transfer:unknown > DVD Decrypter 3.5.4.0 > Adobe Encore CS6
+
+TRACKLISTING:
+You Don't Know How It Feels (Nov 19th 1994 - Saturday Night Live w/ Tom Petty) [PRO #1]
+Honey Bee (Nov 19th 1994 - Saturday Night Live w/ Tom Petty) [PRO #1]
+I'll Stick Around (Dec 2nd 1995 - Saturday Night Live) [PRO #1]
+For All The Cows (Dec 2nd 1995 - Saturday Night Live) [PRO #1]
+Hallo Spaceboy (Jan 9th 1997 - Madison Square Garden w/ David Bowie) [PRO #1]
+Seven Years In Tibet (Jan 9th 1997 - Madison Square Garden w/ David Bowie) [PRO #1]
+Monkey Wrench (May 15th 1997 - The Late Show) [PRO #1tbc]
+Monkey Wrench (Jun 13th 1997 - The Tonight Show) [PRO #1]
+Everlong (Aug 7th - Keenen Ivory Wayans Show) [PRO #1b]
+Everlong (Oct 8th 1997 - The Late Show) [PRO #1]
+Dave Grohl Interview (Oct 1997 - Late Night With Conan O' Brien) [N/A]
+Everlong (Acoustic) (Mar 18th 1998 - The Howard Stern Show) [PRO #1]
+Everlong (Jun 26th 1998 - Glastonbury Festival) [PRO #1b]
+Enough Space (Jun 26th 1998 - Glastonbury Festival) [PRO #1b]
+Big Me (Jun 26th 1998 - Glastonbury Festival) [PRO #1b]
+
+MD5 FINGERPRINTS:
+449820528a7c3ebdcd089468d5fe3817 *VIDEO_TS\VIDEO_TS.BUP
+449820528a7c3ebdcd089468d5fe3817 *VIDEO_TS\VIDEO_TS.IFO
+c27fd02800c1a22261692bae9eb61f75 *VIDEO_TS\VIDEO_TS.VOB
+e0377eac446ed433475bfcf75a315355 *VIDEO_TS\VTS_01_0.BUP
+e0377eac446ed433475bfcf75a315355 *VIDEO_TS\VTS_01_0.IFO
+1c4f2a11da7cb906477022685cb0ca1c *VIDEO_TS\VTS_01_0.VOB
+5e73b85cbcf4de3e46b9f031b5f38772 *VIDEO_TS\VTS_01_1.VOB
+fd969ebf3009db8729e85e2094a34e2a *VIDEO_TS\VTS_02_0.BUP
+fd969ebf3009db8729e85e2094a34e2a *VIDEO_TS\VTS_02_0.IFO
+c27fd02800c1a22261692bae9eb61f75 *VIDEO_TS\VTS_02_0.VOB
+bf71467b6325e272423ce08855aa2bde *VIDEO_TS\VTS_02_1.VOB
+ae28565f6b7f08b0792e33444adcb60c *VIDEO_TS\VTS_03_0.BUP
+ae28565f6b7f08b0792e33444adcb60c *VIDEO_TS\VTS_03_0.IFO
+c27fd02800c1a22261692bae9eb61f75 *VIDEO_TS\VTS_03_0.VOB
+36e37ff6d0997ec3b010a1804870f0e9 *VIDEO_TS\VTS_03_1.VOB
+3effbbe3237bb05f045785deb7522843 *VIDEO_TS\VTS_04_0.BUP
+3effbbe3237bb05f045785deb7522843 *VIDEO_TS\VTS_04_0.IFO
+c27fd02800c1a22261692bae9eb61f75 *VIDEO_TS\VTS_04_0.VOB
+ebf3b2633f4c69a1af6175b8535c0c43 *VIDEO_TS\VTS_04_1.VOB
+83bbfa887d6e9c3817549587f0016578 *VIDEO_TS\VTS_05_0.BUP
+83bbfa887d6e9c3817549587f0016578 *VIDEO_TS\VTS_05_0.IFO
+c27fd02800c1a22261692bae9eb61f75 *VIDEO_TS\VTS_05_0.VOB
+92107223a43654afa4488e3a73a25463 *VIDEO_TS\VTS_05_1.VOB
+6f21bd92abc7a74013ab345285aef19c *VIDEO_TS\VTS_06_0.BUP
+6f21bd92abc7a74013ab345285aef19c *VIDEO_TS\VTS_06_0.IFO
+c27fd02800c1a22261692bae9eb61f75 *VIDEO_TS\VTS_06_0.VOB
+2f4118d91c5a4912bd08ff74283c3654 *VIDEO_TS\VTS_06_1.VOB
+7d488ac1c4fef8924fbe685749524a17 *VIDEO_TS\VTS_07_0.BUP
+7d488ac1c4fef8924fbe685749524a17 *VIDEO_TS\VTS_07_0.IFO
+c27fd02800c1a22261692bae9eb61f75 *VIDEO_TS\VTS_07_0.VOB
+62681d74c09747117374c2f2b76db432 *VIDEO_TS\VTS_07_1.VOB
+c25208a006bb40bb534507ab574f54fb *VIDEO_TS\VTS_08_0.BUP
+c25208a006bb40bb534507ab574f54fb *VIDEO_TS\VTS_08_0.IFO
+c27fd02800c1a22261692bae9eb61f75 *VIDEO_TS\VTS_08_0.VOB
+2f1241f6c7c6dd5b3d6a526f9f7d25e4 *VIDEO_TS\VTS_08_1.VOB
+c0f808bc6c35e2039d9b04f69af5c0c2 *VIDEO_TS\VTS_09_0.BUP
+c0f808bc6c35e2039d9b04f69af5c0c2 *VIDEO_TS\VTS_09_0.IFO
+c27fd02800c1a22261692bae9eb61f75 *VIDEO_TS\VTS_09_0.VOB
+7c874cb8efb0d74aa691808699eff1e6 *VIDEO_TS\VTS_09_1.VOB
+c7a885980355e1909250393ba88145e1 *VIDEO_TS\VTS_10_0.BUP
+c7a885980355e1909250393ba88145e1 *VIDEO_TS\VTS_10_0.IFO
+c27fd02800c1a22261692bae9eb61f75 *VIDEO_TS\VTS_10_0.VOB
+d0a9cb5b59a35294d52cd0c0e2d3cfcf *VIDEO_TS\VTS_10_1.VOB 
+
+REVIEW:
+This is a compilation disc featuring mostly US Television performances by the band. The first two tracks on the DVD are a related performance, Dave Grohl performing with Tom Petty & The Heartbreakers in 1994 on Saturday Night Live. Video and audio quality are both relatively good. Next up is Foo Fighters first appearance on SNL themselves and the two songs are in very good quality although the ending credits section is not present. The third video on the disc is another related performence, this time the two songs which the band joined David Bowie for his 50th Birthday concert in 1997. The source for these songs is a promo VHS, and quality is good. 
+
+Next up are two television show performances of 'Monkey Wrench', first on The Late Show and then on The Tonight Show. Quality on both is average, the former being somewhat generated and the latter having pretty significant interference in the analog picture. Audio quality is good, however. The next two traks are performances of the song 'Everlong', firstly on the Keenen Ivory Wayans show. The video and audio quality on this is slightly inferior to the absolute best copy but the song does not cut in on this version. The second 'Everlong' performance is from The Late Show and has fairly good video and audio quality although there is again some analog interference.
+
+Following that is an interview with Dave Grohl on Late Night With Conan. The quality is again good, although the picture is a little soft. The penultimate performance on the DVD is again 'Everlong', but this time acoustic on The Howard Stern show. Video and audio quality are both good. The final performance on the disc comes from the bands Glastonbury Festival appearance in 1998. The songs were broadcast on US television and quality here is ok, a little generated and washed out. 
+
+The DVD features a menu with chapter points for each song. There are no extras on the DVD.

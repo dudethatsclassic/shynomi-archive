@@ -1,0 +1,67 @@
+Foo Fighters - We Will Rock You
+Tracks 01-17:  11/23/1997 - Brixton Academy, London, England 
+Tracks 18-20:  05/25/1997 - Manchester Apollo - Manchester, United Kingdom
+
+
+SETLIST (01:11:58)
+-----------------
+01 Intro
+02 This Is A Call
+03 Hey, Johnny, Park!
+04 Alone + Easy Target
+05 Monkey Wrench
+06 Doll
+07 See You
+08 My Poor Brain
+09 Enough Space
+10 Big Me
+11 The Colour And The Shape
+12 For All The Cows
+13 Gas Chamber
+14 Up In Arms
+15 Weenie Beenie
+16 Everlong
+17 New Way Home
+18 Wattershed
+19 Febuary Stars
+20 I'll Stick Around
+
+
+Label
+-----------------
+ATL
+
+Source
+-----------------
+SBD A+
+
+GENERATION
+-----------------
+silver disc -> EAC -> WAV -> FLAC [Level 8]
+
+Notes
+-----------------
+
+
+ffp FINGERPRINTS
+-----------------
+01 Intro.flac:e806ae18d0ba88f07263e0de96dd2545
+02 This Is A Call.flac:c98cda5eae45543d46bafbd858411cbd
+03 Hey, Johnny, Park!.flac:bbf555121f361e7a98eeb137ffde500c
+04 Alone + Easy Target.flac:345de821650cae45612f67169ddaebf3
+05 Monkey Wrench.flac:ef3151e74ad5cc791fbd72d7d53e8d61
+06 Doll.flac:4db15f384db4ba141aa477a5a6563494
+07 See You.flac:3321f687912c10b4f276f41801bc71f9
+08 My Poor Brain.flac:82ce3a77c185cc7b89cc80b3b82ba0fc
+09 Enough Space.flac:14a9dbde7f7f797ec214b3ddc3f2da84
+10 Big Me.flac:91a2228f1a4f899d01c505b6f78e082c
+11 The Colour And The Shape.flac:62f6769c26113856b76e3f5e0bb1ed3e
+12 For All The Cows.flac:b70239b60c2a62c6718da5db66fc8421
+13 Gas Chamber.flac:6ee938a178efe6d257c2eb9feb7c816a
+14 Up In Arms.flac:1db48860c8a4293ac76f10ffaa4b6670
+15 Weenie Beenie.flac:ac73de1bb006110a4a2b052fa8732282
+16 Everlong.flac:ca4cc89e0b23d431a0c6c833e5d9767a
+17 New Way Home.flac:35011f8425ae31093024333f918da119
+18 Wattershed.flac:ff9bd037bc86ce4611bfd3777e65ca90
+19 Febuary Stars.flac:6123a3f9adfc07710ce5d654114c5d40
+20 I'll Stick Around.flac:3e2b76c267ab0908e4e28e29ea353401

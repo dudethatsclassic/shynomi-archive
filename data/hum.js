@@ -678,7 +678,8 @@ const ARTIST_DATA = {
       "venue": "The Regent",
       "notes": "",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2015-09-17 - Los Angeles, CA - Regent Theatre (DPA4061s) (unk) [AUD #2].txt"
     },
     {
       "year": 2015,
@@ -691,8 +692,7 @@ const ARTIST_DATA = {
       "venue": "Regent Theatre",
       "notes": "DPA4061s \u00b7 unk",
       "version": "AUD #2",
-      "format": "FLAC",
-      "textFile": "2015-09-17 - Los Angeles, CA - Regent Theatre (DPA4061s) (unk) [AUD #2].txt"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -719,7 +719,8 @@ const ARTIST_DATA = {
       "venue": "Slim's",
       "notes": "unk \u00b7 bayareapunkshows",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-09-18 - San Francisco, CA - Slim's - WAV(M) (Sony M10) (armogi) [AUD24].txt"
     },
     {
       "year": 2015,
@@ -732,8 +733,7 @@ const ARTIST_DATA = {
       "venue": "Slim's",
       "notes": "WAV(M) \u00b7 Sony M10 \u00b7 armogi",
       "version": "AUD",
-      "format": "FLAC 24",
-      "textFile": "2015-09-18 - San Francisco, CA - Slim's - WAV(M) (Sony M10) (armogi) [AUD24].txt"
+      "format": "FLAC 24"
     },
     {
       "year": 2015,

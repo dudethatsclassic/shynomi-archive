@@ -1,0 +1,34 @@
+foobar2000 1.3.16 / Dynamic Range Meter 1.1.1
+log date: 2019-04-29 13:11:23
+
+--------------------------------------------------------------------------------
+Analyzed: Alanis Morissette / Jagged Little Pill (Acoustic)
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR13      -0.10 dB   -14.19 dB      5:25 01-All I Really Want
+DR13      -0.10 dB   -15.76 dB      4:58 02-You Oughta Know
+DR15      -0.10 dB   -16.80 dB      3:26 03-Perfect
+DR15      -0.24 dB   -17.07 dB      4:31 04-Hand in My Pocket
+DR12      -0.10 dB   -14.96 dB      3:39 05-Right Through You
+DR12      -0.09 dB   -13.53 dB      4:43 06-Forgiven
+DR13      -0.10 dB   -14.64 dB      4:09 07-You Learn
+DR13      -0.10 dB   -14.97 dB      4:16 08-Head over Feet
+DR12      -0.45 dB   -16.54 dB      5:07 09-Mary Jane
+DR13      -0.10 dB   -15.72 dB      3:56 10-Ironic
+DR13      -0.10 dB   -14.88 dB      4:25 11-Not the Doctor
+DR12      -0.12 dB   -14.34 dB      5:20 12-Wake Up
+DR13      -1.35 dB   -17.14 dB      3:38 13-Your House
+--------------------------------------------------------------------------------
+
+Number of tracks:  13
+Official DR value: DR13
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           2808 kbps
+Codec:             FLAC
+================================================================================
+

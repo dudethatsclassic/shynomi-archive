@@ -1,0 +1,32 @@
+================================================================================
+AFX (aka Aphex Twin)
+Analogue Bubblebath 5
+Rephlex CAT034EP (Vinyl Test Pressing Only)
+1995
+UK
+
+A1  untitled (9:20)
+A2  untitled (5:57)
+A3  untitled (0:32)
+A4  untitled (4:25)
+A5  untitled (6:43)
+B1  untitled (6:10)
+B2  untitled (4:47)
+B3  untitled (6:46)
+B4  untitled (5:59) 
+
+Very limited test pressing (never fully released) of unknown quantities, probably 100 or less.
+================================================================================
+Rega P5 w/ Exact cartridge > TDL 407 preamp > Mia 24/96 soundcard > Cool Edit Pro @ 32-bit
+
+Upgrade over older version: vinyl test pressing > CDR(1) > EAC > WAV > FLAC 1.1.0 (level 8)), originally seeded by Duble0Syx, reseeded by excowboy (www.dimeadozen.org, torrent id 107741, 2006-08-15)
+
+Seeded on oink.me.uk by MrGerbik:
+"Let me start by saying that the quality of this recording is vastly superior to any batch currently floating around.  I was lucky enough to be given a mint/unplayed AB5 test pressing by Grant at Rephlex a number of years ago; this recording was made by myself on its very first spin." 
+
+Reseed on www.dimeadozen.org by rappard (rappard [at] gmail [dot] com):
+- Checked for sector boundary errors with Trader's Little Helper 1.1.1.90
+- Re-encoded by to flac 1.1.4 (level 8) through FLAC Frontend 1.7.1 (verify, align on sector boundaries)
+- Renamed and tagged in Mp3tag v2.37a
+- Added md5 file
+================================================================================

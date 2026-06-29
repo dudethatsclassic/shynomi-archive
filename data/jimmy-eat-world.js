@@ -406,6 +406,12 @@ const ARTIST_DATA = {
       "label": "Believe In What You Want (DVD)",
       "version": "Official",
       "format": "DVD"
+    },
+    {
+      "type": "release",
+      "label": "Jimmy Eat World - One, Two, Three, Four (24-44.1)",
+      "format": "FLAC24",
+      "textFile": "MISC - Jimmy Eat World - One, Two, Three, Four (24-44.1) [FLAC24].txt"
     }
   ]
 };

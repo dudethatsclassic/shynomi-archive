@@ -1,0 +1,46 @@
+Foo Fighters - Brain Damage
+Tracks 1-9 Recorded 8-28-2000 Temple Newsam Park, Leeds
+Tracks 10-16 Recorded 11-23-1999 Barrowlands, Glasgow
+Both Concerts are Stereo Soundboard Recordings
+
+SETLIST (1:11:12)
+-----------------
+01) My Hero
+02) For All The Cows
+03) I'll Stick Around
+04) Big Me
+05) Stacked Actors
+06) This Is A Call
+07) Next Year
+08) Monkey Wrench
+09) Everlong
+10) Learn To Fly
+11) Up In Arms
+12) Aint It The Life
+13) Monkey Wrench
+14) Hey Johnny Park
+15) Alone And Easy Target
+16) Everlong
+
+GENERATION
+-----------------
+silver disc -> EAC -> WAV -> FLAC [Level 8]
+
+MD5 FINGERPRINTS
+-----------------
+01 My Hero.flac:5a368819a72af5fe002f037c9c6df90c
+02 For all the cows.flac:425cd3fe1ab70c26c4add731e8f16a33
+03 I'll stick around.flac:76d806ae7c7b3729d11f6e7386308536
+04 Big Me.flac:8dcbb4c9fda24f4050942ff9714cb929
+05 Stacked actors.flac:9a6d58e9762bc0e1d5c04781335c478d
+06 This is a call.flac:b5348f0c4f0dee87514f7057960ca900
+07 Next year.flac:c27293e25cbd604d483fca09cc45be35
+08 Monkey wrench.flac:1c4a4fa1ee1839653ff78b6f037094fe
+09 Everlong.flac:e99485ee7ec6f09e65d30c8be425b6c9
+10 Learn to fly.flac:274e768c58325a7ebfff68386f9a3594
+11 Up in arms.flac:f97d9410507245814e0647244171565c
+12 Ain't it the life.flac:1ded92c2dd23ca91e8dd34d8dc19b1b4
+13 Monkey wrench.flac:5a2a99c11ad3ac1f88b51eec81ef73f3
+14 Hey Johnny Park.flac:9e15cb404a8895aa6678262f6cd829d5
+15 Alone and Easy Target.flac:8d93bfd2b671c8c12e26f87ad19f0a19
+16 Everlong.flac:8dd4d8fd29e262a4a8cb04152971fad2

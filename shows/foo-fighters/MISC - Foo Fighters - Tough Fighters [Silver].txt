@@ -1,0 +1,61 @@
+Foo Fighters - Tough Fighters
+Tracks 01-14:  08/11/95 - Avalon, Boston, MA, United States - AUD
+Tracks 15-19:  04/30/95 - Avalon, Boston, MA, United States - SBD
+
+
+Setlist: (01:06:30)
+-----------------
+01) Winnebago
+02) I'll Stick Around
+03) Butterflies
+04) Wattershed
+05) Big Me
+06) This is a Call
+07) Weenie Beenie
+08) For All the Cows
+09) Oh, George
+10) Podunk
+11) Alone and Easy Target
+12) X-Static
+13) My Hero
+14) Down in the Park
+15) Butterflies
+16) Floaty
+17) For All the Cows
+18) Winnebago
+
+Label
+-----------------
+???
+
+Source
+-----------------
+AUD A-
+
+GENERATION
+-----------------
+silver disc -> EAC -> WAV -> FLAC [Level 8]
+
+Notes
+-----------------
+
+ffp FINGERPRINTS
+-----------------
+01 Winnebago.flac:67a3a53c1fcbf1db2c0f69cc82d683f2
+02 I'll Stick Around.flac:2f6d88260b6de58eb4c576b9ce4f674e
+03 Butterflies.flac:fb9e0b296af9fd3315984c961e20f22d
+04 Wattershed.flac:76a3fd2b117f4d28b96a7586ce615a3c
+05 Big Me.flac:fea107ac7953fb671a5f927785e90e4b
+06 This is a Call.flac:e312163d365604f18c8b85775608aa32
+07 Weenie Beenie.flac:6d7933e771631e4eb5822a4c5cc99539
+08 For All the Cows.flac:87b968ee6ff948b15bad54a931c4364b
+09 Oh, George.flac:de2b5871255ad6f6ad7949578804c714
+10 Podunk.flac:f25879546d3e730d4d4ed334e6de4b91
+11 Alone and Easy Target.flac:a6a14c4b0fe4c5b7ddacc57ba82598b4
+12 X-Static.flac:6d47d909cbc774d04da820e774a46e4a
+13 My Hero.flac:f999279a2d3c80e60e23fffb1811561d
+14 Down in the Park.flac:2e5fd3984f8c7bb2cfb4976783d3c6e6
+15 Butterflies.flac:00cc4723026f6050d0bed7a0b53c32b7
+16 Floaty.flac:294e1347c39b99f6dcc8847cf1428866
+17 For All the Cows.flac:a5685d6477c387ce9624a012b93c3692
+18 Winnebago.flac:6ff5530e58301a7b816574d313628d06

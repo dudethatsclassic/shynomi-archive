@@ -1,0 +1,15 @@
+Courtney Love - Behind the Music
+2010-06-xx
+
+Digital Cable->DVD(1)->DVD Decrypter->VOB
+
+R: VH1-HD->Digital Cable DVR
+T: DVR->Panasonic DMR-EH75V (SP)
+
+NTSC 720x480
+87 minutes
+
+A behind the scenes look at Courtney with interviews from friends and bandmates, along with some live footage.
+
+
+-notes: broadcast as 4x3 on VH1-HD, so the aspect ratio is correct. And no, I didn't choose the thumbnail, the DVD recorder did it automatically.

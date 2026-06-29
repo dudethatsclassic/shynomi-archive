@@ -1,0 +1,108 @@
+Aphex Twin - Peel Sessions
+
+6. Italic Eyeball
+7. Blue Calx
+8. Quixote
+9. Cunt
+10. untitled
+11. Radiator
+12. untitled
+13. Pancake Lizard
+
+6-9	1992-12-05, Peel Session, A, BRC, 19 minutes, track 6 cuts in on broadcast; repeated 1993-03-13
+10-13	1995-10-14, Peel Session, A, BRC, 21 minutes
+================================================================================
+EAC extraction logfile from 2. January 2005, 22:02 for CD
+Aphex Twin / Peel Sessions
+
+Used drive  : HL-DT-STDVDRAM GSA-5120D   Adapter: 2  ID: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  6
+     Filename C:\temp\Aphex Twin Peel Sessions 06.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 4F39541A
+     Copy OK
+
+Track  7
+     Filename C:\temp\Aphex Twin Peel Sessions 07.wav
+
+     Peak level 30.5 %
+     Track quality 100.0 %
+     Copy CRC 3F4891E2
+     Copy OK
+
+Track  8
+     Filename C:\temp\Aphex Twin Peel Sessions 08.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 58D40B55
+     Copy OK
+
+Track  9
+     Filename C:\temp\Aphex Twin Peel Sessions 09.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 03983EE6
+     Copy OK
+
+Track 10
+     Filename C:\temp\Aphex Twin Peel Sessions 10.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC C97041A1
+     Copy OK
+
+Track 11
+     Filename C:\temp\Aphex Twin Peel Sessions 11.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 165A4CE6
+     Copy OK
+
+Track 12
+     Filename C:\temp\Aphex Twin Peel Sessions 12.wav
+
+     Peak level 99.7 %
+     Track quality 99.8 %
+     Copy CRC 7FD11636
+     Copy OK
+
+Track 13
+     Filename C:\temp\Aphex Twin Peel Sessions 13.wav
+
+     Peak level 100.0 %
+     Track quality 99.6 %
+     Copy CRC CE35E2D8
+     Copy OK
+
+No errors occured
+
+
+End of status report
+================================================================================
+Aphex Twin Peel Sessions 06.flac:13f4b6c70f6440dcd80782717b620501
+Aphex Twin Peel Sessions 07.flac:b73d437ffd68e029d0d481df64a27691
+Aphex Twin Peel Sessions 08.flac:18c334843051b27cd873ba033eaf808d
+Aphex Twin Peel Sessions 09.flac:d85b0c06a6c4a8ddc8bd975d7352a4d2
+Aphex Twin Peel Sessions 10.flac:03f03622dda3b559c69068f0decfd927
+Aphex Twin Peel Sessions 11.flac:f589aa53f1dffdb7dc2f6e600f635a4d
+Aphex Twin Peel Sessions 12.flac:c4e57f0e1ebb3309b5af28312eefc3d8
+Aphex Twin Peel Sessions 13.flac:6ebfe295aa7237d21d0c8f16fd656df9

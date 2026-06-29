@@ -684,7 +684,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4022 \u00b7 george wang",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2002-04-27 - Charlotte, NC - WEND Cityfest Live [AUD].txt"
+      "textFile": "2002-04-27 - Charlotte, NC - Cityfest Live (DPA 4022s) (unk) [AUD].txt"
     },
     {
       "year": 2002,
@@ -698,7 +698,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4022 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2002-04-27 - Charlotte, NC - Cityfest Live (DPA 4022s) (unk) [AUD].txt"
+      "textFile": "2002-04-27 - Charlotte, NC - WEND Cityfest Live [AUD].txt"
     },
     {
       "year": 2002,
@@ -1368,7 +1368,8 @@ const ARTIST_DATA = {
       "type": "release",
       "label": "Stone Temple Pilots - Brand New Live {VR 50011} (1993)",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - Stone Temple Pilots - Alive in the Windy City (24-48) [FLAC HD].txt"
     },
     {
       "type": "release",
@@ -1395,6 +1396,44 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "Stone Temple Pilots - As The Dawn Fades (Live 1994) (2020)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Stone Temple Pilots - Plush {7567-85751-2} (1993)",
+      "year": 1993,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Stone Temple Pilots - Brand New Live {VR 50011} (1993)",
+      "year": 1993,
+      "version": "Silver CD"
+    },
+    {
+      "type": "release",
+      "label": "Stone Temple Pilots - The Centrum Worcester 1994 (Live) {8717662592683} (1994)",
+      "year": 1994,
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Stone Temple Pilots - Unplugged (1994)",
+      "year": 1994,
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Stone Temple Pilots - The Centrum Worcester 1994 (Live) {8717662592683} (1994)",
+      "year": 1994,
+      "format": "FLAC",
+      "textFile": "MISC - Stone Temple Pilots - Unplugged & More (1995) [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Stone Temple Pilots - Unplugged (1994)",
+      "year": 1994,
       "format": "FLAC"
     }
   ]

@@ -1,0 +1,61 @@
+FOO FIGHTERS
+January - March 2005
+Studio 606 West 
+Northridge, CA
+
+SOURCE (SBD #1f):
+soundboard > unknown
+
+EXTRACTION:
+Exact Audio Copy v0.99 prebeta 4 > Traders Little Helper 2.4.1
+
+GENERATION:
+CD(M) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+76:16
+
+NOTES:
+- All tracks are instrumental versions of those found on the regular album.
+
+TRACKS:
+01. In Your Honor
+02. No Way Back
+03. Best Of You
+04. DOA
+05. Hell
+06. The Last Song
+07. Free Me
+08. Resolve
+09. The Deepest Blues Are Black
+10. End Over End
+11. Still
+12. What If I Do?
+13. Miracle
+14. Another Round
+15. Over And Out
+16. On The Mend
+17. Virginia Moon
+18. Cold Day In The Sun
+
+MD5 FINGERPRINTS:
+f04ce9b348a3dc9c730d73ed1d634e44 *01. In Your Honor.flac
+b05cc207eb792addc3a4377d3dcb4bd2 *02. No Way Back.flac
+7d245259eb0d3af81a9e08a38fbb497d *03. Best Of You.flac
+c16fb14956763d24108017a469e046e2 *04. DOA.flac
+b246f0fa2f6100d2bb439023c3992d13 *05. Hell.flac
+873f068c78cf18cb9f214887156b36eb *06. The Last Song.flac
+f2a6f73f41daae875749dde6af2248b2 *07. Free Me.flac
+fc4ea485bcb8f3200a22206a395139be *08. Resolve.flac
+fed5f177f7b12463559738c51b7419e9 *09. The Deepest Blues Are Black.flac
+ae2a22922637169357f7589afb77373a *10. End Over End.flac
+e00155e8705a3669832d63420dc19063 *11. Still.flac
+7bc6b2457ceab700e2886a6901357ee7 *12. What If I Do.flac
+ca3bb56bbee005149f714e582344322c *13. Miracle.flac
+d0fd6ade57305e99b87044383d9d7bb9 *14. Another Round.flac
+e80a53dea14e55de4fd982cf41cde9cf *15. Over And Out.flac
+10a08eb558665e5c56a4e66ad49af164 *16. On The Mend.flac
+ce8af58aefb7e5e0bcd145a4816bc531 *17. Virginia Moon.flac
+4a05afb413572bc67641f04b27e6a62b *18. Cold Day In The Sun.flac
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

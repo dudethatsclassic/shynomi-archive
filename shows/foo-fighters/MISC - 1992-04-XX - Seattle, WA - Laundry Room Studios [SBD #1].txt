@@ -1,0 +1,32 @@
+ALLISTER LOB (Dave Grohl, Mikey Dees, Lisa Grohl)
+April, 1992
+Laundry Room Studios
+Seattle, WA
+
+SETLIST (21:35)
+-----------------
+01) Podunk (instrumental) 
+02) Make A Bet (instrumental) 
+03) unknown (instrumental) 
+04) How I Miss You (instrumental) 
+05) unknown (instrumental) 
+
+GENERATION
+-----------------
+ANA(1) -> WAV [48kHz/24bit] -> WAV [44.1kHz/16bit] -> FLAC [Level 8]
+
+TRANSFER
+-----------------
+Nakamichi CR-7A -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+0d79ca072edbd92f7076a3b3672007b7 *allisterlob1992-04-00t01.flac
+4ea57e08986ffa8540992883dd65b4c2 *allisterlob1992-04-00t02.flac
+113906dff9642bd14a0ddf75cb0c40c6 *allisterlob1992-04-00t03.flac
+7e56f21614f6e68aa32e6ccfe904501e *allisterlob1992-04-00t04.flac
+153a988dcd648cd494ad23291b981c52 *allisterlob1992-04-00t05.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

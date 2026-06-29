@@ -1,0 +1,47 @@
+Foo Fighters
+Various
+Nulle Part Ailleurs Compilation
+France
+
+SOURCE:
+sounboard > unknown
+
+EXTRACTION:
+DVD Decrypter 3.5.4.0 > DVD Lab PRO 2
+
+GENERATION:
+Tracks 01, 02, 03, 05 and 06: TV > VHS(1) > DVDR(1) > VOB [PAL]
+Track 04: DVB-T > VOB [PAL]
+Tracks 07 to 13: Promo DVD(M) > DVDR(1) > VOB [PAL]
+
+NOTES:
+- Track 04, Big Me, has digital errors at the end and cuts out.
+
+TRACKS:
+01. This Is A Call (August 28th, 1995) (PRO #1)
+02. I'll Stick Around (November 6th, 1995) (PRO #1a) 
+03. Big Me (November 6th, 1995) (PRO #1a)
+04. Big Me (November 6th, 1995) (PRO #1b)
+05. Monkey Wrench (May 9th, 1997) (PRO #1)
+06. Learn To Fly (November 15th, 1999) (PRO #1)
+07. The Last Song
+08. No Way Back
+09. Best Of You
+10. The Deepest Blues Are Black
+11. End Over End
+12. Times Like These
+13. DOA (cuts out)
+
+MD5 FINGERPRINTS:
+4aeac10b062fee3f42f2b5bab9ea1180 *VIDEO_TS\VIDEO_TS.BUP
+4aeac10b062fee3f42f2b5bab9ea1180 *VIDEO_TS\VIDEO_TS.IFO
+774703b2abe6f493cce1fe86ab9555c3 *VIDEO_TS\VIDEO_TS.VOB
+e64e37b77c3ba52c7acec6efca6f8de7 *VIDEO_TS\VTS_01_0.BUP
+e64e37b77c3ba52c7acec6efca6f8de7 *VIDEO_TS\VTS_01_0.IFO
+0238dee559be2308c42a36cea6e6a8c8 *VIDEO_TS\VTS_01_0.VOB
+327ad97e0704bb553c818cc5d483706f *VIDEO_TS\VTS_01_1.VOB
+6c85870059c0711d67056f5b84f9950b *VIDEO_TS\VTS_01_2.VOB
+007ee30af7f7a8b7da6922dda61c1c2d *VIDEO_TS\VTS_01_3.VOB
+b63a8a3080d8174dd43ee6267ab1381c *VIDEO_TS\VTS_01_4.VOB
+
+**PLEASE DO NOT SELL OR ENCODE TO LOSSY FORMATS!**

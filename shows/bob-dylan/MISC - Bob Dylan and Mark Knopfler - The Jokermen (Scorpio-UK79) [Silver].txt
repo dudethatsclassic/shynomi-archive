@@ -1,0 +1,59 @@
+5e19b46333ca000a810feafb56536c0c *info.txt
+548232cebc3b1bb40cd19f6383849c3b *artwork\IMG_20170316_0001.jpg
+b4507c04e35a4806589f8334b6e0798e *artwork\IMG_20170316_0002.jpg
+53bb8ef43cee059f9853d68f6bddd5c4 *artwork\IMG_20170316_0003.jpg
+8b54ceb32e06cc2b6488b9bb14da5f91 *artwork\IMG_20170316_0004.jpg
+6e3e8800df6c02a8fa6c8f7fbc9db311 *artwork\IMG_20170316_0005.jpg
+1ba93c1bc05a3df9f328b54c80c8dfd2 *artwork\IMG_20170316_0006.jpg
+5ae945b38762c03b66dbc920b5cce69a *artwork\IMG_20170316_0007.jpg
+3705919cbe639445a6e9781ac1893fb4 *artwork\IMG_20170316_0008.jpg
+2c010b1e29b1593b8f8297d23c956869 *artwork\IMG_20170316_0009.jpg
+cb0e18735465f604122872715622693e *artwork\IMG_20170316_0010.jpg
+51c191938f4e70dcfe9ca09f265570a3 *artwork\IMG_20170316_0011.jpg
+b8f775d67154ed60ad718f389275d85c *cd-1\01 Trouble in Mind.flac
+4529c2af9f02471a6d0b7f8d626ce145 *cd-1\02 Ye Shall Be Changed.flac
+bf199eaade6a75c2727c547a125f4371 *cd-1\03 Blind Willie McTell (acoustic version).flac
+e6a2a0697fc9c072d9789c4807053b61 *cd-1\04 Someone's Got a Hold of My Heart.flac
+cd83e9833494e9a67e0950798e66222e *cd-1\05 Tell Me.flac
+884cc9ea2e87bfcc72c7f6a83562971c *cd-1\06 Lord Protect My Child.flac
+133dc4d80f900563d525493690482d9a *cd-1\07 Foot of Pride.flac
+3a0133e9fe5ec74df9812038979c19d9 *cd-1\08 Death Is Not the End.flac
+764375a2705b3f576a0efa52f693a883 *cd-1\09 Julius and Ethel.flac
+d92374e1c83a18e6b8b607700b803eb6 *cd-1\10 This Was My Love.flac
+9d048a96aece64a9dab54c848901810a *cd-1\11 Blind Willie McTell (electric version).flac
+cfe849105b53f3fd563e48259e59ae65 *cd-1\12 Angel Flying Too Close.flac
+b6398b0b9c5d4dd75c725811a46891f7 *cd-1\13 Straight A's in Love.flac
+f38cd36dd835934f49a0e0f1616ae99c *cd-1\14 Clean Cut Kid.flac
+8143ba5d6dd95597773fb19cb7d8ed23 *cd-1\15 Don't Fly Unless It's Safe.flac
+b6e75606f9ffc8574fd20173953a306f *cd-1\16 Dark Groove.flac
+72eb3c084c834ff21e11eb0103221c81 *cd-1\17 Trouble in Mind.flac
+257036eef4d814959a64c2ff318f5016 *cd-1\Bob Dylan & Mark Knopfler - The Jokermen cd-1.log
+5607593abb27d7df6682d8a511c195a8 *cd-2\01 Jokerman.flac
+5e4366e311bc739d6b9955cdbd2fed9b *cd-2\02 Sweetheart Like You.flac
+45f9bfc28b277ae473d4845d4410ce3d *cd-2\03 Neighbourhood Bully.flac
+8f413bc6cb5d19b3af8ca65d420de0f3 *cd-2\04 License To Kill.flac
+5eed9aaaaeab1359ab457f82ea1bb192 *cd-2\05 Man Of Peace.flac
+86cda8cb72b980614c3d4101ebf9826a *cd-2\06 Union Sundown.flac
+c707badebfe5ad8a8d0d5ea94fcb563d *cd-2\07 I and I.flac
+c1e6cbc03a060ddd20e357c19cba4482 *cd-2\08 Don't Fall Apart On Me Tonight.flac
+62656a46a0ef24909564c7a1a0bafa64 *cd-2\09 Foot Of Pride (version #2).flac
+738ba16c9c3ffd98385528bb5354260b *cd-2\10 Someone's Gotta Hold of My Heart (version #2).flac
+08199d59fb5e9448b3e7afda22209b50 *cd-2\11 Tell Me (version #2).flac
+2c74c30c5093f6a4c884242ea1ef37d9 *cd-2\12 Lord Protect My child (version #2).flac
+1e14e26d9db7fb4ac1c4ef557bbd9480 *cd-2\13 Death Is Not The End (version #2).flac
+28ca27bbda1c81cbaae9a4db2ba08fc0 *cd-2\14 Angel Flying Too Close (version #2).flac
+d13d5e9359d1f3897e83032dea4987cb *cd-2\15 This Was My Love (version #2).flac
+0335457931e5be1f74b90d147fa51519 *cd-2\16 Julius and Ethel.flac
+ddfde09493f35e683023aff957db1135 *cd-2\Bob Dylan & Mark Knopfler - The Jokermen cd-2.log
+ecef6244ea3245e1cadb518d4077814c *cd-3\01 I and I (version #2).flac
+1b688af1abf537471c658cda8136e263 *cd-3\02 Sweetheart Like You (version #2).flac
+0e77fc2f7cd8c98f7f30c713099d55f8 *cd-3\03 Union Sundown (version #2).flac
+537b16a6bbf2c2401a01fe15d99fe187 *cd-3\04 Sweetheart rehearsals.flac
+432fe1c18494fb51b18c7356e9672943 *cd-3\05 Blowin' In the Wind.flac
+ac6e6aa1aa9b45ec0f76d9d4e28cb7e3 *cd-3\06 Rock 'Em Dead.flac
+d124a49ed6b3e39e6212714d16dc7f80 *cd-3\07 Knocking On Heaven's Door.flac
+4a1d5019d09cb83077e2b8c52561d845 *cd-3\08 All Along The Watchtower.flac
+558425b3253c0ea5624970d863fd4f5f *cd-3\09 Leopardskin Pillbox Hat.flac
+84f14431ea02764307de3c27adfec2ac *cd-3\10 License To Kill.flac
+e349bb5aa7f96d4c415420124e4935c8 *cd-3\11 Knocking On Heaven's Door.flac
+e52897884536b2f1e73a8be1db40f10a *cd-3\Bob Dylan & Mark Knopfler - The Jokermen cd-3.log

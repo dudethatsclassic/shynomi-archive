@@ -1,0 +1,25 @@
+Started at: понедельник, 23. 11. 2015. - 16:04.45
+4 files found
+
+1 -===- E:\Foo Fighters Digital\2015a Songs from the Laundry Room\01 - Foo Fighters - Alone and Easy Target.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+2 -===- E:\Foo Fighters Digital\2015a Songs from the Laundry Room\02 - Foo Fighters - Big Me.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+3 -===- E:\Foo Fighters Digital\2015a Songs from the Laundry Room\03 - Foo Fighters - Kids in America.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+4 -===- E:\Foo Fighters Digital\2015a Songs from the Laundry Room\04 - Foo Fighters - Empty Handed.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+
+Finished at: понедельник, 23. 11. 2015. - 16:06.18 (operation time: 0:01.33)

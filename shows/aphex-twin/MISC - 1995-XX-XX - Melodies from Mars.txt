@@ -1,0 +1,42 @@
+﻿================================================================================
+Aphex Twin
+Melodies From Mars (unreleased album)
+C-90 cassette (no catalogue number or label)
+1995
+UK
+
+01. untitled [3:16]
+02. Fingerbib (demo/early version) [4:14]
+03. untitled [2:16]
+04. untitled [4:12]
+05. untitled [5:12]
+06. untitled [3:50]
+07. untitled [4:02]
+08. Logon Rock Witch (demo/early version) [4:21]
+09. untitled [4:30]
+10. untitled [5:10]
+11. untitled [2:54]
+12. untitled [1:28] 
+
+- Hand-dubbed (onto store-bought 90-minute tapes) in an extremely small quantity > given to employees of Rephlex and Warp Records, as well as close friends > ? > .flac
+- 2 and 8: alternate longer versions of tracks 4 and 10 on Richard D. James Album (1996), 12 features the same samples of plucked strings as track 9 on Richard D. James Album
+- Filesize 219 MB, length 45:30
+- Originally seeded on OiNK (id = 1263276) by robodub, 2007-05-04
+- Losslessness verified with Trader's Little Helper 1.1.1.90 and EAC v0.95b4
+- Sector boundary errors (tracks 10-12) fixed with Trader's Little Helper 1.1.1.90
+- Original flac files re-encoded to flac 1.1.4 (level 8) using FLAC Frontend 1.7.1
+- Renamed and tags added with Mp3tag v2.37a
+================================================================================
+aphex1995mfm01.flac:6a0b617a20cdc429938f94eb3cdeb7b2
+aphex1995mfm02.flac:62d3307fb5b359c4c6da5dc37b3bc9a6
+aphex1995mfm03.flac:302eecc135f548896567e9185bed2f46
+aphex1995mfm04.flac:31717f51fd7dae6dae3607eda54b093a
+aphex1995mfm05.flac:1013e9619b520b84e6dd9e27c1f792e3
+aphex1995mfm06.flac:4bd09befdfb6afc961761176cc8daf83
+aphex1995mfm07.flac:4549b86b9d613b89489dda43e69ad45b
+aphex1995mfm08.flac:b0db5e8ffd0f4a2e9545a591fb930c99
+aphex1995mfm09.flac:0c26ac372f76f0a324e00d354c474f4d
+aphex1995mfm10.flac:7e9a4b602fd673e4448bcd32cd636078
+aphex1995mfm11.flac:41bfd69fc3287d73dcf198c81de774ba
+aphex1995mfm12.flac:167f9ee4120aca5ebc70ffe3ace44c78
+================================================================================

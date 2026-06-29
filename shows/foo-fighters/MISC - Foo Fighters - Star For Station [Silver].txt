@@ -1,0 +1,62 @@
+Foo Fighters - Star For Station
+Tracks 01-08:  02/01/00 - The Chapel, Melbourne, Australia
+Tracks 09-18:  01/26/00 - Sydney RAS Showgrounds (Big Day Out), Sydney, Australia
+
+SETLIST (01:14:42)
+-----------------
+01 Stacked Actors
+02 Learn to Fly
+03 My Hero
+04 Monkey Wrench
+05 Generator
+06 This is a Call
+07 Next Year
+08 Everlong
+09 Breakout
+10 For All the Cows
+11 Stacked Actors
+12 Up in Arms
+13 Radar
+14 I'll Stick Around
+15 Big Me
+16 Generator
+17 Aurora
+18 This is a Call
+
+
+Label
+-----------------
+Mercury Coal
+
+Source
+-----------------
+SBD A+
+
+GENERATION
+-----------------
+silver disc -> EAC -> WAV -> FLAC [Level 8]
+
+Notes
+-----------------
+
+
+ffp FINGERPRINTS
+-----------------
+01 Stacked Actors.flac:678aff64d7108c9148c65beeb1b751fd
+02 Learn to Fly.flac:11dec7e977113b6ee4246309c22a47d5
+03 My Hero.flac:a3d9de15ddb8b8ddff8b668260153150
+04 Monkey Wrench.flac:85964b67224bb3ab3ffdbe2e09db3259
+05 Generator.flac:cacb2e5d11b5728ad7b6fcccd29f1b6c
+06 This is a Call.flac:cd3297c09f0c1e8c4fc62e25b63a1f60
+07 Next Year.flac:9427870a26333084f561268cd03bfe55
+08 Everlong.flac:641c81283aa58f882f459f07b207a3e2
+09 Breakout.flac:1bde03e32c4559acf75cbf717a86d985
+10 For All the Cows.flac:22fbe76b973fd80d4e73fd11ce786219
+11 Stacked Actors.flac:1dd02f5914a3e96c9b0a637d0b0bf2e4
+12 Up in Arms.flac:b3d606145b3259a9e1011ff8fdc2bf45
+13 Radar.flac:a211993477880cfd24fa9458cc339ca2
+14 I'll Stick Around.flac:67e245fb5c4948848ff451b8fe883c3a
+15 Big Me.flac:2330d3fb7a08123486883c05252636b5
+16 Generator.flac:de88aa1403f0902339a9cf302fe76370
+17 Aurora.flac:8a45fe934b3de88c2e40cc498c7ff35c
+18 This is a Call.flac:006ecbd831eaabc378f79fddf9d426f1

@@ -1,0 +1,15 @@
+Started at: понедельник, 23. 11. 2015. - 15:58.57
+2 files found
+
+1 -===- E:\Foo Fighters Digital\2008 Cheer Up, Boys (Your Make Up Is Running) (WEB)\01 - Cheer Up, Boys (Your Make Up Is Running).flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+2 -===- E:\Foo Fighters Digital\2008 Cheer Up, Boys (Your Make Up Is Running) (WEB)\02 - Band On The Run.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+
+Finished at: понедельник, 23. 11. 2015. - 16:00.03 (operation time: 0:01.05)

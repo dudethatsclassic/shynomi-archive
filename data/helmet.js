@@ -194,7 +194,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 Schoeps MK4 \u00b7 robert d",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2004-10-22 - Portland, OR - Doug Fir Lounge - DAT(M) (Schoeps MK4) (robert d) [AUD].txt"
+      "textFile": "2004-10-22 - Portland, OR - Doug Fir Lounge - DAT(M) (DSM-6) (unk) [AUD].txt"
     },
     {
       "year": 2004,
@@ -208,7 +208,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 DSM-6 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2004-10-22 - Portland, OR - Doug Fir Lounge - DAT(M) (DSM-6) (unk) [AUD].txt"
+      "textFile": "2004-10-22 - Portland, OR - Doug Fir Lounge - DAT(M) (Schoeps MK4) (robert d) [AUD].txt"
     },
     {
       "year": 2006,

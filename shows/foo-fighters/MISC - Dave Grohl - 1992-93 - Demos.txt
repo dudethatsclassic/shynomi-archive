@@ -1,0 +1,53 @@
+DAVE GROHL / FOO FIGHTERS DEMOS
+
+SETLIST (63:06)
+-----------------
+01) Mountain Of You (1992-1993 Laundry Room, Seattle, WA)
+02) Big Me (1992-1993 Laundry Room, Seattle, WA)
+03) Alone + Easy Target (1992-1993 Laundry Room, Seattle, WA)
+04) Exhausted (1992-1993 Laundry Room, Seattle, WA)
+05) Good Grief (1992-1993 Laundry Room, Seattle, WA)
+06) Weenie Beenie (1992-1993 Laundry Room, Seattle, WA)
+07) Floaty (no chorus vocals just a harmony) (1992-1993 Laundry Room, Seattle, WA)
+08) How I Miss You (incomplete) (1992, Allister Lob, Laundry Room, Seattle, WA)
+09) Hell's Garden (07/27/91, WGNS Studios, Washington, DC)
+10) Winnebago (07/27/91, WGNS Studios, Washington, DC)
+11) Milk (07/27/91, WGNS Studios, Washington, DC)
+12) Petrol CB (12/23/90, Laundry Room, Arlington, VA)
+13) Throwing Needles (12/23/90, Laundry Room, Arlington, VA)
+14) Just Another Story About Skeeter Thompson (12/23/90, Laundry Room, Arlington, VA)
+15) Podunk (1994, Robert Lang Studio, Seattle, WA)
+16) Butterflies (1994, Robert Lang Studio, Seattle, WA)
+17) Winnebago (1994, Robert Lang Studio, Seattle, WA)
+
+GENERATION
+-----------------
+ANA(x) > WAV [48kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+TRANSFER
+-----------------
+Nakamichi CR-7A > LynxONE > Adobe Audition 3.0 > CD Wave 1.96.1 > FLAC frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+6e018b1d73d49ed2946051bfaa2dd9c6 *davegrohl_demos_t01.flac
+8492b7a2aec33d5c21f80e1b0351cf25 *davegrohl_demos_t02.flac
+845bf5a6fa08aef557406a832a745628 *davegrohl_demos_t03.flac
+c2a20e3c03aaea75b708bd51456f9ebb *davegrohl_demos_t04.flac
+14ff7832a22d8c7b9c41d375e11755dd *davegrohl_demos_t05.flac
+a9e83b7dc19372ada9823366c15277d0 *davegrohl_demos_t06.flac
+d9ed84c1240fbedd9ffb54fc323b2f1a *davegrohl_demos_t07.flac
+5a73d60284c63b70a15ff4495fb6baf1 *davegrohl_demos_t08.flac
+ba86effeef64b22cb3715f0f38386187 *davegrohl_demos_t09.flac
+cd568ad1e7e0c2bd6b38664f10ef8c25 *davegrohl_demos_t10.flac
+9a1171a2e811f04ef21a442795addedf *davegrohl_demos_t11.flac
+60ddc81f8f0f8a0c138b6db8b6ebb255 *davegrohl_demos_t12.flac
+4f4445cda503a6867ffb68ad91fa6208 *davegrohl_demos_t13.flac
+4a5fa88c7511743648e264d5e8930d99 *davegrohl_demos_t14.flac
+c675d8e82443e2d869adb5e540e17499 *davegrohl_demos_t15.flac
+fa85f87c82181a7f5963db7c2aa334cc *davegrohl_demos_t16.flac
+64381b3433b4eae6de98bce2b61ca3a7 *davegrohl_demos_t17.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

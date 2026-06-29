@@ -598,7 +598,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) · belexes · luciferburns transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1991-08-31 - Milwaukee, WI - Marcus Amphitheater - ANA(M) (luciferburns transfer) [AUD].txt"
+      "textFile": "1991-08-31 - Milwaukee, WI - Marcus Amphitheater [AUD].txt"
     },
     {
       "year": 1991,
@@ -1087,7 +1087,7 @@ const ARTIST_DATA = {
       "notes": "pitch corrected",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1992-12-20 - Seattle, WA - Seattle Center (pitch corrected) [SBD].txt"
+      "textFile": "1992-12-20 - Seattle, WA - Seattle Center [SBD].txt"
     },
     {
       "year": 1993,
@@ -1199,7 +1199,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Silver CD",
       "format": "SHN",
-      "textFile": "1993-02-02 - Frankfurt, Germany - Them Bones [Silver].txt"
+      "textFile": "1993-02-02 - Frankfurt, Germany - Musikhalle [DVD].txt"
     },
     {
       "year": 1993,
@@ -1227,7 +1227,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "1993-02-02 - Frankfurt, Germany - Musikhalle [DVD].txt"
+      "textFile": "1993-02-02 - Frankfurt, Germany - Music Halle (unk) (koondog) [AUD].txt"
     },
     {
       "year": 1993,
@@ -1241,7 +1241,7 @@ const ARTIST_DATA = {
       "notes": "unk · koondog",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-02-02 - Frankfurt, Germany - Music Halle (unk) (koondog) [AUD].txt"
+      "textFile": "1993-02-02 - Frankfurt, Germany - Them Bones [Silver].txt"
     },
     {
       "year": 1993,
@@ -1283,7 +1283,7 @@ const ARTIST_DATA = {
       "notes": "Marantz EM-8 · crazy tapes",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1993-02-07 - Lund, SWE - Mejeriet (Marantz EM-8) (crazy tapes) [AUD24].txt"
+      "textFile": "1993-02-07 - Lund, Sweden - Mejeriet [AUD].txt"
     },
     {
       "year": 1993,
@@ -1997,7 +1997,7 @@ const ARTIST_DATA = {
       "notes": "speed corrected",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-11-02 - Melbourne, Australia - The Palace (Speed Corrected) [AUD].txt"
+      "textFile": "1993-11-02 - Melbourne, Australia - The Palace [AUD].txt"
     },
     {
       "year": 1994,
@@ -3593,7 +3593,8 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "Alice In Chains - Facelift DVD (1991)",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "MISC - Alice In Chains - Live Facelift (1991) [DVD].txt"
     },
     {
       "type": "label",
@@ -3648,6 +3649,285 @@ const ARTIST_DATA = {
       "label": "Alice In Chains - Westwood One Absolutely Live In Concert #01-36",
       "version": "preFM",
       "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Dirt (Sony Music, 472330 2, Austria)",
+      "year": 1992,
+      "category": "OFFICIAL RELEASES",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Sap ('2011 Original Album Classics, Sony Music, 88697944482CD2, E.U.)",
+      "year": 1992,
+      "category": "OFFICIAL RELEASES",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Jar Of Flies ('2011 Original Album Classics, Sony Music, 88697944482CD1, E.U.)",
+      "year": 1993,
+      "category": "OFFICIAL RELEASES",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Alice In Chains (Sony Music, CK 67248, U.S.A.)",
+      "year": 1995,
+      "category": "OFFICIAL RELEASES",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Alice In Chains (Sony Records, SRCS 8192, Japan)",
+      "year": 1995,
+      "category": "OFFICIAL RELEASES",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - MTV Unplugged ('2011 Original Album Classics, Sony Music, 88697944482CD3, E.U.)",
+      "year": 1996,
+      "category": "OFFICIAL RELEASES",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice in Chains - Live {CK 85274} (2000)",
+      "year": 2000,
+      "format": "FLAC",
+      "category": "OFFICIAL RELEASES"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Black Gives Way to Blue (Virgin 509999 67159 25)",
+      "year": 2009,
+      "category": "OFFICIAL RELEASES",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice in Chains - The Devil Put Dinosaurs Here (2013) (24:96)",
+      "year": 2013,
+      "format": "FLAC HD",
+      "category": "OFFICIAL RELEASES"
+    },
+    {
+      "type": "release",
+      "label": "XX-XX -  Is Layne Still In Rehab - Studio - Seattle, WA",
+      "year": 1989,
+      "version": "Silver CD",
+      "category": "SILVERS",
+      "textFile": "MISC - 1989-XX-XX -  Is Layne Still In Rehab - Studio - Seattle, WA [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - 1993-02-19 - Paris, France Come And Save Me (1995)",
+      "year": 1995,
+      "version": "Silver CD",
+      "category": "SILVERS"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Bad Dream (1993)",
+      "year": 1993,
+      "version": "Silver CD",
+      "category": "SILVERS"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Desert (1993)",
+      "year": 1993,
+      "version": "Silver CD",
+      "category": "SILVERS",
+      "textFile": "MISC - Alice In Chains - Desert {LLRCD-216} (1993) [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Dirty Toy Town (1993)",
+      "year": 1993,
+      "version": "Silver CD",
+      "category": "SILVERS",
+      "textFile": "MISC - Alice In Chains - Dirty Toy Town {CM-014} (1993) [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Little Red Rooster (CRC Mismatch)",
+      "year": 1994,
+      "version": "Silver CD",
+      "format": "ONCD-2290} (1994) [",
+      "category": "SILVERS",
+      "textFile": "MISC - Alice In Chains - Little Red Rooster (CRC Mismatch) [ONCD-2290} (1994) [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Live & Unchained (Repress) (1993)",
+      "year": 1993,
+      "version": "Silver CD",
+      "category": "SILVERS",
+      "textFile": "MISC - Alice In Chains - Live & Unchained (Repress) {KTS 172} (1993) [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Live & Unchained (1993)",
+      "year": 1993,
+      "version": "Silver CD",
+      "category": "SILVERS",
+      "textFile": "MISC - Alice In Chains - Live & Unchained {KTS 172} (1993) [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Nightland (1994)",
+      "year": 1994,
+      "version": "Silver CD",
+      "category": "SILVERS"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Rooster (1993)",
+      "year": 1993,
+      "version": "Silver CD",
+      "category": "SILVERS",
+      "textFile": "MISC - Alice In Chains - Rooster {SE 329} (1993) [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Savage Messiah (1993)",
+      "year": 1993,
+      "version": "Silver CD",
+      "category": "SILVERS",
+      "textFile": "MISC - Alice In Chains - Savage Messiah {RT 001} (1993) [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Sunshine (1992)",
+      "year": 1992,
+      "version": "Silver CD",
+      "category": "SILVERS",
+      "textFile": "MISC - Alice In Chains - Sunshine {CD-EYE-01} (1992) [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Them Bones (1993)",
+      "year": 1993,
+      "version": "Silver CD",
+      "category": "SILVERS",
+      "textFile": "MISC - Alice In Chains - Them Bones {P 910070} (1993) [SIlver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Unleashed (1993)",
+      "year": 1993,
+      "version": "Silver CD",
+      "category": "SILVERS",
+      "textFile": "MISC - Alice In Chains - Unleashed {SPACE 003} (1993) [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Welcome To My Nightmare (1993)",
+      "year": 1993,
+      "version": "Silver CD",
+      "category": "SILVERS",
+      "textFile": "MISC - Alice In Chains - Welcome To My Nightmare {IBR-2205} (1993) [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Working Class Heroes (1996)",
+      "year": 1996,
+      "version": "Silver CD",
+      "category": "SILVERS"
+    },
+    {
+      "type": "release",
+      "label": "Alice in Chains - Life in Chains (1993)",
+      "year": 1993,
+      "version": "Silver CD",
+      "category": "SILVERS"
+    },
+    {
+      "type": "release",
+      "label": "Would {Columbia 658888 2}",
+      "year": 1992,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Angry Chair (Limited Edition) {Columbia 659365 2}",
+      "year": 1993,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Down In A Hole {Columbia 659751 2}",
+      "year": 1993,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Them Bones (Limited Edition) {Columbia 659090 2}",
+      "year": 1993,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "No Excuses {Columbia 660097 1}",
+      "year": 1994,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Grind {UK 662623 2}",
+      "year": 1995,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Heaven Beside You {Columbia 662916 2} (Australia CD2)",
+      "year": 1996,
+      "category": "SINGLES",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Heaven Beside You {662893 2} (UK CD1)",
+      "year": 1996,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Heaven Beside You {662893 5} (UK CD2)",
+      "year": 1996,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Heaven Beside You {Columbia 662768 2} (Australia CD1)",
+      "year": 1996,
+      "category": "SINGLES",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice in Chains - 1990-1992",
+      "version": "preFM",
+      "format": "preFM",
+      "textFile": "MISC - Alice in Chains - 1990-1992 [preFM COMP].txt"
+    },
+    {
+      "type": "release",
+      "label": "Get Born Again {667514 2}",
+      "year": 1999,
+      "format": "FLAC",
+      "category": "SINGLES"
     }
   ]
 };

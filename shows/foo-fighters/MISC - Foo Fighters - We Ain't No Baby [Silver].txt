@@ -1,0 +1,65 @@
+Information ripping to Wave, 'Track 1' to 'C:\We Ain't No Baby\01 Track 1.wav'
+   Track 1:  Ripped LBA 0 to 15500 (3:26) in 2:31. Filename: C:\We Ain't No Baby\01 Track 1.wav
+     Secure  [Pass 1 & 2, Ultra 1 to 1]
+     CRC32: 994DEFE3
+   
+Information ripping to Wave, 'Track 2' to 'C:\We Ain't No Baby\02 Track 2.wav'
+   Track 2:  Ripped LBA 15500 to 27817 (2:44) in 1:50. Filename: C:\We Ain't No Baby\02 Track 2.wav
+     Secure  [Pass 1 & 2, Ultra 1 to 1]
+     CRC32: 9DC16730
+   
+Information ripping to Wave, 'Track 3' to 'C:\We Ain't No Baby\03 Track 3.wav'
+   Track 3:  Ripped LBA 27817 to 38537 (2:22) in 1:30. Filename: C:\We Ain't No Baby\03 Track 3.wav
+     Secure  [Pass 1 & 2, Ultra 1 to 1]
+     CRC32: C60ADA4C
+   
+Information ripping to Wave, 'Track 4' to 'C:\We Ain't No Baby\04 Track 4.wav'
+   Track 4:  Ripped LBA 38537 to 60005 (4:46) in 2:47. Filename: C:\We Ain't No Baby\04 Track 4.wav
+     Secure  [Pass 1 & 2, Ultra 1 to 1]
+     CRC32: 7C1C992D
+   
+Information ripping to Wave, 'Track 5' to 'C:\We Ain't No Baby\05 Track 5.wav'
+   Track 5:  Ripped LBA 60005 to 76347 (3:37) in 1:58. Filename: C:\We Ain't No Baby\05 Track 5.wav
+     Secure  [Pass 1 & 2, Ultra 1 to 1]
+     CRC32: C095D7E6
+   
+Information ripping to Wave, 'Track 6' to 'C:\We Ain't No Baby\06 Track 6.wav'
+   Track 6:  Ripped LBA 76347 to 94390 (4:00) in 2:03. Filename: C:\We Ain't No Baby\06 Track 6.wav
+     Secure  [Pass 1 & 2, Ultra 1 to 1]
+     CRC32: 8A6D26F0
+   
+Information ripping to Wave, 'Track 7' to 'C:\We Ain't No Baby\07 Track 7.wav'
+   Track 7:  Ripped LBA 94390 to 121875 (6:06) in 2:55. Filename: C:\We Ain't No Baby\07 Track 7.wav
+     Secure  [Pass 1 & 2, Ultra 1 to 1]
+     CRC32: 3F83ACC3
+   
+Information ripping to Wave, 'Track 8' to 'C:\We Ain't No Baby\08 Track 8.wav'
+   Track 8:  Ripped LBA 121875 to 135170 (2:57) in 1:20. Filename: C:\We Ain't No Baby\08 Track 8.wav
+     Secure  [Pass 1 & 2, Ultra 1 to 1]
+     CRC32: 715FB254
+   
+Information ripping to Wave, 'Track 9' to 'C:\We Ain't No Baby\09 Track 9.wav'
+   Track 9:  Ripped LBA 135170 to 150530 (3:24) in 1:29. Filename: C:\We Ain't No Baby\09 Track 9.wav
+     Secure  [Pass 1 & 2, Ultra 1 to 1]
+     CRC32: 00AC9763
+   
+Information ripping to Wave, 'Track 10' to 'C:\We Ain't No Baby\10 Track 10.wav'
+   Track 10:  Ripped LBA 150530 to 170817 (4:30) in 1:53. Filename: C:\We Ain't No Baby\10 Track 10.wav
+     Secure  [Pass 1 & 2, Ultra 1 to 1]
+     CRC32: D192EAB8
+   
+Information ripping to Wave, 'Track 11' to 'C:\We Ain't No Baby\11 Track 11.wav'
+   Track 11:  Ripped LBA 170817 to 228465 (12:48) in 4:58. Filename: C:\We Ain't No Baby\11 Track 11.wav
+     Secure  [Pass 1 & 2, Ultra 1 to 1]
+     CRC32: 58FAD1AF
+   
+Information ripping to Wave, 'Track 12' to 'C:\We Ain't No Baby\12 Track 12.wav'
+   Track 12:  Ripped LBA 228465 to 253730 (5:36) in 2:01. Filename: C:\We Ain't No Baby\12 Track 12.wav
+     Secure  [Pass 1 & 2, Ultra 1 to 1]
+     CRC32: FF65B10C
+   
+Information ripping to Wave, 'Track 13' to 'C:\We Ain't No Baby\13 Track 13.wav'
+   Track 13:  Ripped LBA 253730 to 272287 (4:07) in 1:26. Filename: C:\We Ain't No Baby\13 Track 13.wav
+     Secure  [Pass 1 & 2, Ultra 1 to 1]
+     CRC32: 747F3F96
+   

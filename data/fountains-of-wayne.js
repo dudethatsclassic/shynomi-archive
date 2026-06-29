@@ -476,7 +476,7 @@ const ARTIST_DATA = {
       "notes": "Towers \u00b7 DPA 4023 \u00b7 jean lerond",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-10-02 - San Francisco, CA - HSB10 Towers of Gold Stage [AUD].txt"
+      "textFile": "2010-10-02 - San Francisco, CA - HSB10 Towers of Gold Stage (MK4) (daspyknows) [AUD].txt"
     },
     {
       "year": 2010,
@@ -490,7 +490,7 @@ const ARTIST_DATA = {
       "notes": "Towers \u00b7 MK4 \u00b7 daspyknows",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-10-02 - San Francisco, CA - HSB10 Towers of Gold Stage (MK4) (daspyknows) [AUD].txt"
+      "textFile": "2010-10-02 - San Francisco, CA - HSB10 Towers of Gold Stage [AUD].txt"
     },
     {
       "year": 2011,
@@ -551,6 +551,131 @@ const ARTIST_DATA = {
       "label": "Fountains of Wayne - No Better Place - Live in Chicago DVD (2009)",
       "version": "Official Release",
       "format": "MP3"
+    },
+    {
+      "type": "release",
+      "label": "Fountains Of Wayne - Out-Of-State Plates {Virgin 0946 3 30196 2 1} (2005)",
+      "year": 2005,
+      "format": "FLAC",
+      "category": "OFFICIAL RELEASES"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Fountains of Wayne {Europe 7567-92725-2} (1996)",
+      "year": 1996,
+      "format": "FLAC",
+      "category": "OFFICIAL RELEASES"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Sky Full Of Holes {YEP 2247} (2011)",
+      "year": 2011,
+      "format": "FLAC",
+      "category": "OFFICIAL RELEASES"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Traffic and Weather (Japan Tour Edition)  {Virgin TOCP-66712} (2007)",
+      "year": 2007,
+      "format": "FLAC",
+      "category": "OFFICIAL RELEASES"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Traffic and Weather {Japan Virgin TOCP-66656} (2007)",
+      "year": 2007,
+      "format": "FLAC",
+      "category": "OFFICIAL RELEASES"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Welcome Interstate Managers {7243 5 90875 2 8} (2003)",
+      "year": 2003,
+      "format": "FLAC",
+      "category": "OFFICIAL RELEASES"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Welcome Interstate Managers {Japan VJCP-68513} (2003)",
+      "year": 2003,
+      "format": "FLAC",
+      "category": "OFFICIAL RELEASES"
+    },
+    {
+      "type": "release",
+      "label": "Fountains Of Wayne - Stacy's Mom {UK 0724354754425} (2004)",
+      "year": 2004,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Barbara H. {AT0016CD} (1997)",
+      "year": 1997,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Radiation Vibe {7567-95626-2} (1997)",
+      "year": 1997,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Sink to the Bottom (CDS) {7567-95612-2} (1996)",
+      "year": 1996,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Troubled Times (AT0074CD} (1999)",
+      "year": 1999,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Fountains Of Wayne - iTunes Live from SoHo - EP (2007)",
+      "year": 2007,
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Welcome Interstate Managers {Japan VJCP-68513} (2003)",
+      "year": 2003,
+      "format": "FLAC",
+      "category": "OFFICIAL RELEASES"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Barbara H. {AT0016CD} (1997)",
+      "year": 1997,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Radiation Vibe {7567-95626-2} (1997)",
+      "year": 1997,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Troubled Times (AT0074CD} (1999)",
+      "year": 1999,
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Fountains Of Wayne - iTunes Live from SoHo - EP (2007)",
+      "year": 2007,
+      "format": "FLAC",
+      "textFile": "MISC - Fountains of Wayne - Pinwheel Sessions and Loftypops Demos.txt"
     }
   ]
 };

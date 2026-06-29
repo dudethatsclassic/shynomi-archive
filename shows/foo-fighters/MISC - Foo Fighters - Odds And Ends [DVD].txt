@@ -1,0 +1,89 @@
+FOO FIGHTERS
+Live Odds And Ends
+
+SOURCE (PRO):
+soundboard > unknown
+
+TRANSFER:
+unknown > HL-DT-ST DVDRAM GSA-4120B > DVD Decrypter 3.5.4.0 > Adobe Encore CS3
+
+GENERATION:
+Tracks 1 to 8: TV > VHS(x) > DVDR(2) > REAUTHOR > VOB [PAL]
+Tracks 9 to 24: TV > VHS(1) > DVDR(2) > REAUTHOR > VOB [PAL]
+Tracks 25 to 29: TV > VHS(x) > DVDR(2) > REAUTHOR > VOB [PAL]
+Track 30: DVB > DVDR(2) > REAUTHOR > VOB [PAL]
+
+TRACKS:
+01. This Is A CAll (August 14th 1995, David Letterman)
+02. This Is A Call (June 15th 1996, Tibetan Freedom Festival)
+03. For All The Cows (June 15th 1996, Tibetan Freedom Festival)
+04. Wattershed (June 15th 1996, Tibetan Freedom Festival)
+05. Big Me (June 15th 1996, Tibetan Freedom Festival)
+06. I'll Stick Around (June 15th 1996, Tibetan Freedom Festival)
+07. Alone + Easy Target (June 15th 1996, Tibetan Freedom Festival)
+08. Exhausted (June 15th 1996, Tibetan Freedom Festival)
+09. Up In Arms (May 13th 1997, MTV Studios)
+10. Monkey Wrench (May 15th 1997, David Letterman)
+11. Wind Up (July 26th, 1997, Fuji Rock Festival)
+12. Wattershed (July 26th, 1997, Fuji Rock Festival)
+13. Hey, Johnny Park (July 26th, 1997, Fuji Rock Festival)
+14. Monkey Wrench (July 26th, 1997, Fuji Rock Festival)
+15. Doll (July 26th, 1997, Fuji Rock Festival)
+16. See You (July 26th, 1997, Fuji Rock Festival)
+17. My Poor Brain (July 26th, 1997, Fuji Rock Festival)
+18. Enough Space (July 26th, 1997, Fuji Rock Festival)
+19. Big Me (July 26th, 1997, Fuji Rock Festival)
+20. Up In Arms (July 26th, 1997, Fuji Rock Festival)
+21. Weenie Beenie (July 26th, 1997, Fuji Rock Festival)
+22. Everlong (July 26th, 1997, Fuji Rock Festival)
+23. This Is A Call (July 26th, 1997, Fuji Rock Festival)
+24. I'll Stick Around (July 26th, 1997, Fuji Rock Festival)
+25. Monkey Wrench (September 4th, 1997, Radio City Music Hall)
+26. Everlong (September 4th, 1997, Radio City Music Hall)
+27. interview (January 31st, 1998, Liquid Room Tokyo)
+28. Monkey Wrench (January 31st, 1998, Liquid Room Tokyo)
+29. Hey, Johnny Park (January 31st, 1998, Liquid Room Tokyo)
+30. Planet Rock Profiles : Foo Fighters (2002, interviews)
+
+MD5 FINGERPRINTS:
+c0818fa28583186113d5ffbd2f9ede15 *VIDEO_TS\VIDEO_TS.BUP
+c0818fa28583186113d5ffbd2f9ede15 *VIDEO_TS\VIDEO_TS.IFO
+abcb4e90035778d2eece6c7ff65e5c82 *VIDEO_TS\VIDEO_TS.VOB
+9bc9418c872b03366a0d272d89fa67d3 *VIDEO_TS\VTS_01_0.BUP
+9bc9418c872b03366a0d272d89fa67d3 *VIDEO_TS\VTS_01_0.IFO
+36231cca50ce987f6a3586477d449d20 *VIDEO_TS\VTS_01_0.VOB
+ad960cd5305eb91b402ca68dcb88a05e *VIDEO_TS\VTS_01_1.VOB
+a025709bfba1e5036f3bb15b99f74728 *VIDEO_TS\VTS_02_0.BUP
+a025709bfba1e5036f3bb15b99f74728 *VIDEO_TS\VTS_02_0.IFO
+abcb4e90035778d2eece6c7ff65e5c82 *VIDEO_TS\VTS_02_0.VOB
+a75a70c163789ce02e7c59409cca51c7 *VIDEO_TS\VTS_02_1.VOB
+77c66d0f1ba56e2483854e1d12f279a5 *VIDEO_TS\VTS_03_0.BUP
+77c66d0f1ba56e2483854e1d12f279a5 *VIDEO_TS\VTS_03_0.IFO
+abcb4e90035778d2eece6c7ff65e5c82 *VIDEO_TS\VTS_03_0.VOB
+eda0d3648f122e9e10dfb9c222884d80 *VIDEO_TS\VTS_03_1.VOB
+1d159a4d33783c128a852cb8e995ceab *VIDEO_TS\VTS_04_0.BUP
+1d159a4d33783c128a852cb8e995ceab *VIDEO_TS\VTS_04_0.IFO
+abcb4e90035778d2eece6c7ff65e5c82 *VIDEO_TS\VTS_04_0.VOB
+f134228bc27437d5a9094d53c752de62 *VIDEO_TS\VTS_04_1.VOB
+0031f03398426d5b1ab70454af2ca208 *VIDEO_TS\VTS_05_0.BUP
+0031f03398426d5b1ab70454af2ca208 *VIDEO_TS\VTS_05_0.IFO
+abcb4e90035778d2eece6c7ff65e5c82 *VIDEO_TS\VTS_05_0.VOB
+913bdaebc8fca317a88b7f18fef078aa *VIDEO_TS\VTS_05_1.VOB
+4aed03fdac13687ae5690e607d719eeb *VIDEO_TS\VTS_05_2.VOB
+d36e3721c0c047326951484b1a5815cf *VIDEO_TS\VTS_06_0.BUP
+d36e3721c0c047326951484b1a5815cf *VIDEO_TS\VTS_06_0.IFO
+abcb4e90035778d2eece6c7ff65e5c82 *VIDEO_TS\VTS_06_0.VOB
+47bd13b6b6c0b8775f2b74b287584a9b *VIDEO_TS\VTS_06_1.VOB
+ad506fda26c732118ec255aeb0da0d25 *VIDEO_TS\VTS_07_0.BUP
+ad506fda26c732118ec255aeb0da0d25 *VIDEO_TS\VTS_07_0.IFO
+abcb4e90035778d2eece6c7ff65e5c82 *VIDEO_TS\VTS_07_0.VOB
+203e7c59d378c0bd0d1f90ff38259d24 *VIDEO_TS\VTS_07_1.VOB
+f6fd8f001f3a7ca32777f4b7836afdbe *VIDEO_TS\VTS_08_0.BUP
+f6fd8f001f3a7ca32777f4b7836afdbe *VIDEO_TS\VTS_08_0.IFO
+abcb4e90035778d2eece6c7ff65e5c82 *VIDEO_TS\VTS_08_0.VOB
+c938987bd7becc6c013fe9cab71a05ce *VIDEO_TS\VTS_08_1.VOB
+
+Extracted and Reauthored by:
+Simon Kilmore
+
+DO NOT ENCODE TO LOSSY FORMATS, SELL, OR POST ON YOUTUBE!!

@@ -1,0 +1,39 @@
+FOO FIGHTERS
+Odds And Ends Volume 2
+
+SOURCE (PRO):
+soundboard unknown
+
+EXTRACTION:
+Pioneer DVR-115D > DVD Decrypter > DVD Lab Pro 2
+
+GENERATION:
+Track 01 & 02: TV > VHS(1) > DVDR(2) > VOB [PAL]
+Tracks 03 to 09: DVB > DVDR(2) > VOB [PAL]
+
+LENGTH:
+21:30
+
+TRACKS:
+01. For All The Cows (Phoneix Festival, 19th July 1996) [PRO #1c]
+02. Best Of You (Rove, May 31st 2005)
+03. Backstage interview (MTV EMAs, November 3rd 2005)
+04. Best Of You + Interview (Traffic.Musique May 04th 2005)
+05. MTV News Interview (2005)
+06. Best Of You (MTV Movie Awards, June 3rd 2005)
+07. All My Life, My Hero clips + Interview (Hamburg, February 2nd 2006) 
+08. Times Like These (Highfield Festival, August 20th 2005) [PRO #1]
+09. Interview and alt pro clips (Highfield Festival, August 20th 2005)
+
+MD5 FINGERPRINTS:
+4e495bc3eb5dcfa403b542a23780c035 *VIDEO_TS\VIDEO_TS.BUP
+4e495bc3eb5dcfa403b542a23780c035 *VIDEO_TS\VIDEO_TS.IFO
+774703b2abe6f493cce1fe86ab9555c3 *VIDEO_TS\VIDEO_TS.VOB
+481eb7432f8c2c1da74e0e46c05f360f *VIDEO_TS\VTS_01_0.BUP
+481eb7432f8c2c1da74e0e46c05f360f *VIDEO_TS\VTS_01_0.IFO
+275ac0026acc9a6e5d811d4ed6253390 *VIDEO_TS\VTS_01_0.VOB
+c7d6e64d3bcf2e7791631aa7b3a970e4 *VIDEO_TS\VTS_01_1.VOB
+6fae23c759be293dd9cfc686ecfb3418 *VIDEO_TS\VTS_01_2.VOB
+0d36f0fe61f84c0bd1005520e20926f3 *VIDEO_TS\VTS_01_3.VOB
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,64 @@
+Johnny Cash
+TV Footage from West German (D) and East German (DDR) TV 1972-'92 DVD video
+varying sources, varying quality, compiled/authored by fredgermany (fred_at_work@yahoo.de)
+(all extremely "watchable"/"listenable"):
+
+Codefree NTSC DVD from bootleg DVD (as far as I know this content has not traded online in PAL format)
+Video MPEG-2 6 Mbps VBR constant quality
+Audio MPEG 2.0 192 Kbps Stereo
+total time - approx. 58 minutes
+
+Segment #1:
+1972 "Musikladen" (Radio Bremen/N3, D):
+
+01 San Quentin
+02 I Walk The Line (cuts with intro of June Carter Cash) time - 4 minutes
+
+Lineage: unknown date PAL N3 broadcast > unknown lineage > bootleg DVD "The Ultimate TV Rarities Collection Vol. 1": (codefree NTSC) > DVD Decrypter > NeroVision
+
+Notes: with Carl Perkins, lead guitar
+According to Peter Lewry, I've Been Everywhere -- A Johnny Cash Chronicle, London, 2001, these were (most likely) recorded on Sep 21, 1972 (or during Johnny Cash's previous European dates, late February 1972, prior to his appearance at the Edison Award Gala, Amsterdam, NL, on Feb 26, 1972).
+
+Segment #2:
+1985-04-12 Berlin, Germany:
+"Country Music Festival" (1985)(SFB/HR3, D):
+
+Lineage: SFB Production / unknown date PAL HR3 broadcast (1985/'86) via antenna (less than perfect reception) > VHS (non-HIFI) > Pinnacle Movie USB/Studio 9 > TMPGEnc3XP > NeroVision 
+
+01 I Walk The Line
+02 Big River
+03 Any Old Wind That Blows
+04 Here Comes That Rainbow Again
+05 The Wall > Long Black Veil
+06 Ghost Riders In The Sky 
+time - 19:02
+
+Notes: with Marty Stuart, lead guitar
+
+Segment #3:
+1987-08-22 Sopot Festival, Poland (near Gdansk) [Polish TV - "Zwischenlandung"] (DDR2, DDR):
+
+Lineage: GDR or Polish Television production / unknown date SECAM DDR2 broadcast > unknown lineage > bootleg DVD "The Ultimate TV Rarities Collection Vol. 1" (codefree NTSC) > DVD Decrypter > NeroVision
+
+01 Ring Of Fire
+02 (There'll Be) Peace In The Valley
+03 Get Rhythm
+04 City Of New Orleans
+05 Sixteen Tons
+06 Ghost Riders In The Sky
+07 Casey Jones>Orange Blossom Special
+08 I Walk The Line
+time - 27:20
+
+Segment #4:
+1992-12-08 & 11992-12-09 Austrian TV - "Peter Alexander Show", Vienna, Austria (ZDF, D):
+
+Lineage: ORF/ZDF production/unknown date PAL ZDF broadcast (1992) via antenna (less than perfect reception) > VHS (HIFI) > Pinnacle Movie USB / Studio 9 > TMPGEnc3XP > NeroVision
+
+01 Ring Of Fire
+02 There Ain't No Good Chain Gang (Duet with Peter Alexander) >
+03 Medley of Viennese songs (duet with Peter Alexander)
+04 Jung san ma fesch san ma (We're Young, We're Cute) (duet with Peter Alexander) 
+time - 7:44
+
+DVD total time - approximately 58 minutes

@@ -461,7 +461,7 @@ const ARTIST_DATA = {
       "notes": "Day \u00b7 AT853s \u00b7 mark terrell",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-05-22 - Daytona Beach, FL - Welcome to Rockville - Day 4 Space Zebra Stage (AT853s) (mark terrell) [AUD24].txt"
+      "textFile": "2022-05-22 - Daytona Beach, FL - Daytona International Speedway (Schoeps MK4s) (anonymous) [AUD].txt"
     },
     {
       "year": 2022,
@@ -475,7 +475,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4s \u00b7 anonymous",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-05-22 - Daytona Beach, FL - Daytona International Speedway (Schoeps MK4s) (anonymous) [AUD].txt"
+      "textFile": "2022-05-22 - Daytona Beach, FL - Welcome to Rockville - Day 4 Space Zebra Stage (AT853s) (mark terrell) [AUD24].txt"
     },
     {
       "year": 2022,

@@ -693,7 +693,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-11-02 - San Francisco, CA - The Fillmore [AUD].txt"
+      "textFile": "1996-11-02 - San Francisco, CA - The Fillmore - ANA(x) (unk) [AUD #1].txt"
     },
     {
       "year": 1996,
@@ -707,7 +707,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 unk",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1996-11-02 - San Francisco, CA - The Fillmore - ANA(x) (unk) [AUD #1].txt"
+      "textFile": "1996-11-02 - San Francisco, CA - The Fillmore [AUD].txt"
     },
     {
       "year": 1996,
@@ -1776,7 +1776,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2002-07-07 - Morrison, CO - Red Rocks Amphitheater [AUD].txt"
+      "textFile": "2002-07-07 - Morrison, CO - Red Rocks Amphitheater (M300s) (tom chaffin) [AUD] .txt"
     },
     {
       "year": 2002,
@@ -1790,7 +1790,7 @@ const ARTIST_DATA = {
       "notes": "M300s \u00b7 tom chaffin",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2002-07-07 - Morrison, CO - Red Rocks Amphitheater (M300s) (tom chaffin) [AUD] .txt"
+      "textFile": "2002-07-07 - Morrison, CO - Red Rocks Amphitheater [AUD].txt"
     },
     {
       "year": 2002,
@@ -1884,7 +1884,8 @@ const ARTIST_DATA = {
       "venue": "Empire Polo Club",
       "notes": "Coachella",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2005-04-30 - Indio, CA - Coachella Music & Arts Festival - Empire Polo Grounds - DAT(M) (DPA 6040s) [AUD].txt"
     },
     {
       "year": 2005,
@@ -1897,8 +1898,7 @@ const ARTIST_DATA = {
       "venue": "Coachella Music & Arts Festival",
       "notes": "Empire \u00b7 M \u00b7 DPA 6040s",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2005-04-30 - Indio, CA - Coachella Music & Arts Festival - Empire Polo Grounds - DAT(M) (DPA 6040s) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -3849,7 +3849,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2024-09-07 - Columbus, OH - Nationwide Arena (SP-CMC-8) (live2cd) [AUD].txt"
+      "textFile": "2024-09-07 - Columbus, OH - Nationwide Arena (DPA4061) (mitaper78) [AUD].txt"
     },
     {
       "year": 2024,
@@ -3863,7 +3863,7 @@ const ARTIST_DATA = {
       "notes": "DPA4061 \u00b7 mitaper78",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2024-09-07 - Columbus, OH - Nationwide Arena (DPA4061) (mitaper78) [AUD].txt"
+      "textFile": "2024-09-07 - Columbus, OH - Nationwide Arena (SP-CMC-8) (live2cd) [AUD].txt"
     },
     {
       "year": 2024,
@@ -4024,18 +4024,21 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "B-sides & Rarities",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - Weezer - B-Sides And Rarities.txt"
     },
     {
       "type": "label",
       "label": "Songs from the Black Hole",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - Weezer - Songs From the Black Hole.txt"
     },
     {
       "type": "release",
       "label": "Reading and Lowlands Festival *Festivals 1996",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - Weezer - Reading and Lowlands Festivals - 1996 [FM].txt"
     },
     {
       "type": "label",
@@ -4062,7 +4065,8 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "Weezer - Alive Quantum (W.B. 052/053) (2002)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "MISC - Weezer - Alive Quantum (Wonderboy Records) (2002) [FLAC].txt"
     },
     {
       "type": "release",
@@ -4095,15 +4099,18 @@ const ARTIST_DATA = {
     },
     {
       "type": "label",
-      "label": "Weezer - B-sides and Rarities (Unofficial Compilation)"
+      "label": "Weezer - B-sides and Rarities (Unofficial Compilation)",
+      "textFile": "MISC - Weezer - B-sides and Rarities (Unofficial Compilation) [FLAC].txt"
     },
     {
       "type": "label",
-      "label": "Weezer - Green (Unofficial B-side Compilation)"
+      "label": "Weezer - Green (Unofficial B-side Compilation)",
+      "textFile": "MISC - Weezer - Green (Unofficial B-side Compilation) [FLAC].txt"
     },
     {
       "type": "label",
-      "label": "Weezer - Red (Unofficial B-side Compilation)"
+      "label": "Weezer - Red (Unofficial B-side Compilation)",
+      "textFile": "MISC - Weezer - Red (Unofficial B-side Compilation) [FLAC].txt"
     },
     {
       "type": "label",
@@ -4228,7 +4235,8 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "Weezer - BBC Evening Sessions (2001.06.13)",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "MISC - Weezer - Studio Jam June 2001 {LOOSE-052} [Silver].txt"
     },
     {
       "type": "label",
@@ -4563,7 +4571,565 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "Weezer - The Sylvain Tapes (Volume 010) Live Paris 1995",
-      "format": "FM"
+      "format": "FM",
+      "textFile": "MISC - Weezer - The Sylvain Tapes (Volume 010) Live Paris 1995 [FM].txt"
+    },
+    {
+      "type": "release",
+      "label": "Richard!",
+      "format": "FLAC",
+      "category": "ARTISTS COVERING WEEZER"
+    },
+    {
+      "type": "release",
+      "label": "The 8-bit Album (2016)",
+      "year": 2016,
+      "format": "MP3",
+      "category": "ARTISTS COVERING WEEZER"
+    },
+    {
+      "type": "release",
+      "label": "VA - Rock Music - A Tribute To Weezer",
+      "format": "2002 - D&D006",
+      "category": "ARTISTS COVERING WEEZER"
+    },
+    {
+      "type": "release",
+      "label": "Various Artists - across the sea a tribute to weezer",
+      "format": "FLAC",
+      "category": "ARTISTS COVERING WEEZER"
+    },
+    {
+      "type": "release",
+      "label": "Vitamin String Quartet - Come on and Kick Me! the String Tribute to Weezer",
+      "format": "FLAC",
+      "category": "ARTISTS COVERING WEEZER"
+    },
+    {
+      "type": "release",
+      "label": "++HD ALBUMS",
+      "format": "FLAC",
+      "category": "OFFICIAL RELEASES"
+    },
+    {
+      "type": "release",
+      "label": "04 Weezer - Maladroit (2002)",
+      "year": 2002,
+      "format": "FLAC",
+      "category": "OFFICIAL RELEASES"
+    },
+    {
+      "type": "release",
+      "label": "04a Weezer - The Lion and the Witch EP",
+      "format": "FLAC",
+      "category": "OFFICIAL RELEASES"
+    },
+    {
+      "type": "release",
+      "label": "08a Weezer - Happy Record Store Day! (2010)",
+      "year": 2010,
+      "format": "FLAC",
+      "category": "OFFICIAL RELEASES"
+    },
+    {
+      "type": "release",
+      "label": "09 Weezer - Hurley (2010)",
+      "year": 2010,
+      "format": "FLAC",
+      "category": "OFFICIAL RELEASES"
+    },
+    {
+      "type": "release",
+      "label": "16 Weezer - Van Weezer (2021)",
+      "year": 2021,
+      "format": "FLAC",
+      "category": "OFFICIAL RELEASES"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - American Holiday",
+      "version": "Silver CD",
+      "format": "FLAC",
+      "category": "SILVERS",
+      "textFile": "MISC - Weezer - American Holiday [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Back In The Garage {Y2K Entertainment} (1999)",
+      "year": 1999,
+      "version": "Silver CD",
+      "format": "FLAC",
+      "category": "SILVERS"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Flip Sides & Acoustic Cuts {FDR 006} (2000)",
+      "year": 2000,
+      "version": "Silver CD",
+      "format": "FLAC",
+      "category": "SILVERS"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - My Name is Weezer {EXP-015}",
+      "version": "Silver CD",
+      "format": "FLAC",
+      "category": "SILVERS",
+      "textFile": "MISC - Weezer - My Name is Weezer {EXP-015} [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Beverly Hills {Geffen 0602498817919}",
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Buddy Holly {UK Geffen GFSTD 88}",
+      "format": "FLAC",
+      "category": "SINGLES",
+      "textFile": "MISC - Buddy Holly {UK Geffen GFSTD 88}.txt"
+    },
+    {
+      "type": "release",
+      "label": "El Scorcho {Geffen GEFDM 22167}",
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Feels Like Summer",
+      "format": "WEB FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Hash Pipe {UK Geffen 497 564-2}",
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Island In The Sun",
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Island In The Sun {Australia 497 635-2}",
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Keep Fishin' {Europe Geffen 497 771-2}",
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Mexican Fender",
+      "format": "WEB FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Pink Triangle (Promo Single) {DGC PRO-CD-1102}",
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Pork and Beans Digital EP",
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "Say It Ain't So {Geffen GFSTD 95}",
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "The End of the Game (2019) {Crush Music - Atlantic}",
+      "year": 2019,
+      "format": "WEB FLAC 24-44.1",
+      "category": "SINGLES",
+      "textFile": "MISC - The End of the Game (2019) {Crush Music - Atlantic} [WEB FLAC 24-44.1].txt"
+    },
+    {
+      "type": "release",
+      "label": "Undone \u2013 The Sweater Song {Geffen GFSTD 85}",
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "We Are All On Drugs {Geffen 0602498834954}",
+      "format": "FLAC",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "(2001) Hash Pipe Enhanced CD Bonus Content",
+      "year": 2001,
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "(2005) Make Believe Enhanced CD Bonus Content",
+      "year": 2005,
+      "format": "Requires Quicktime",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "(2008) Music Video Promo PAL DVD",
+      "year": 2008,
+      "format": "DVD",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "RAC ft. Rivers Cuomo - I Still Wanna Know",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "Rivers Cuomo - My Brain is Working Overtime",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - (If You're Wondering If I Want You To) I Want You To",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Everybody Get Dangerous",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - King of the World",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Let It All Hang Out",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Love Is The Answer",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - My Name Is Jonas",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Perfect Situation",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - The Greatest Man That Ever Lived",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Troublemaker",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Why Bother",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "CyanFire Archive",
+      "category": "VIDEOS"
+    },
+    {
+      "type": "release",
+      "label": "Extra",
+      "category": "VIDEOS"
+    },
+    {
+      "type": "release",
+      "label": "Music Videos",
+      "category": "VIDEOS"
+    },
+    {
+      "type": "release",
+      "label": "Just What I Needed",
+      "category": "WEEZER COVERING OTHERS"
+    },
+    {
+      "type": "release",
+      "label": "Worry Rock",
+      "category": "WEEZER COVERING OTHERS"
+    },
+    {
+      "type": "release",
+      "label": "Oddities",
+      "year": 2021
+    },
+    {
+      "type": "release",
+      "label": "Africa"
+    },
+    {
+      "type": "release",
+      "label": "Back To The Shack (2014)",
+      "year": 2014
+    },
+    {
+      "type": "release",
+      "label": "Christmas CD {Geffen INTR-10267-2} (2000)",
+      "year": 2000
+    },
+    {
+      "type": "release",
+      "label": "Everything Will Be Alright In The End {Rough Mix - Set 2} (2014)",
+      "year": 2014
+    },
+    {
+      "type": "release",
+      "label": "Hash Pipe (The Remixes) (2001)",
+      "year": 2001
+    },
+    {
+      "type": "release",
+      "label": "Keep Fishin (German Promo CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "OK Human Photoshoot (2021)",
+      "year": 2021
+    },
+    {
+      "type": "release",
+      "label": "Pacific Daydream Fan Remaster (2017)",
+      "year": 2017
+    },
+    {
+      "type": "release",
+      "label": "Photograph (Promo Mix) (2001)",
+      "year": 2001
+    },
+    {
+      "type": "release",
+      "label": "Pork and Beans EP (2008)",
+      "year": 2008
+    },
+    {
+      "type": "release",
+      "label": "Rosanna"
+    },
+    {
+      "type": "release",
+      "label": "Thank God For Girls Live Debut (2016)",
+      "year": 2016
+    },
+    {
+      "type": "release",
+      "label": "The Death To False Metal & Pinkerton Deluxe Sampler (2010)",
+      "year": 2010
+    },
+    {
+      "type": "release",
+      "label": "The Last Days of Summer Vinyl (2016)",
+      "year": 2016
+    },
+    {
+      "type": "release",
+      "label": "Untitled French Promo (3 Titres Ine\u0301dits)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Washington DC Monster Island Studio Demos (2001.05.27)",
+      "format": "MP3",
+      "textFile": "MISC - Weezer - Studio Jams 2001.txt"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - 1994-1995 - TV Appearances",
+      "format": "DVD"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - AOL Sessions",
+      "format": "MP3"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Alive Quantum {W.B. 052-053}",
+      "version": "Silver CD",
+      "textFile": "MISC - Weezer - Alive Quantum {W.B. 052-053} [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Glenn Sound 107.7 Sessions (2001.11.14)"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Green Album (German Sampler)",
+      "format": "MP3"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Songs From the Black Hole",
+      "textFile": "MISC - Weezer - Songs From The Black Hole (2013) [FLAC].txt"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Superfriend (VCD Clip) (1996)",
+      "year": 1996,
+      "format": "LOSSY"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - The Black Cat - Washington, DC"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - The Good Live (EXP-002) (1997)",
+      "year": 1997,
+      "version": "Silver CD",
+      "textFile": "MISC - Weezer - My Name is Weezer (1997) [Silver].txt"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Undone (The Sweater Song) Edits (1994)",
+      "year": 1994
+    },
+    {
+      "type": "release",
+      "label": "Weezer x Wavves - Split EP (2016)",
+      "year": 2016
+    },
+    {
+      "type": "release",
+      "label": "iTunes Pass The Weezer Raditude Club"
+    },
+    {
+      "type": "release",
+      "label": "The Second 8-bit Album (2016)",
+      "year": 2016,
+      "format": "FLAC",
+      "category": "ARTISTS COVERING WEEZER"
+    },
+    {
+      "type": "release",
+      "label": "Vitamin String Quartet - Vitamin String Quartet Performs Weezer's Pinkerton",
+      "format": "FLAC",
+      "category": "ARTISTS COVERING WEEZER"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - London Underworld {Trade Mark Of Quality} (1999)",
+      "year": 1999,
+      "version": "Silver CD",
+      "format": "FLAC",
+      "category": "SILVERS"
+    },
+    {
+      "type": "release",
+      "label": "Island In The Sun",
+      "format": "UK CD2 497 616-2",
+      "category": "SINGLES"
+    },
+    {
+      "type": "release",
+      "label": "(2005) Make Believe Enhanced CD Bonus Content",
+      "year": 2005,
+      "format": "Requires Quicktime",
+      "category": "STEMS",
+      "textFile": "MISC - (2005) Make Believe Enhanced CD Bonus Content [Requires Quicktime].txt"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Beverly Hills",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Buddy Holly",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - El Scorcho",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Island in the Sun",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Say It Ain't So",
+      "category": "STEMS"
+    },
+    {
+      "type": "release",
+      "label": "Hash Pipe (The Remixes) (2001)",
+      "year": 2001
+    },
+    {
+      "type": "release",
+      "label": "I Want You To (Remixes)",
+      "format": "MP3"
+    },
+    {
+      "type": "release",
+      "label": "Keep Fishin (German Promo CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pork and Beans EP (2008)",
+      "year": 2008
+    },
+    {
+      "type": "release",
+      "label": "Rivers Cuomo & The Cathy Santonies (2010)",
+      "year": 2010
+    },
+    {
+      "type": "release",
+      "label": "Weezer - 1994-1995 - TV Appearances",
+      "format": "DVD"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Green Album (German Sampler)",
+      "format": "MP3"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Summer Songs 2000",
+      "format": "SBD-LOSSY"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - The Good Live (EXP-002) (1997)",
+      "year": 1997,
+      "version": "Silver CD"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Undone (The Sweater Song) Edits (1994)",
+      "year": 1994
     }
   ]
 };

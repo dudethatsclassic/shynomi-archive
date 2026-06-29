@@ -1,0 +1,25 @@
+Started at: понедельник, 23. 11. 2015. - 16:01.40
+4 files found
+
+1 -===- E:\Foo Fighters Digital\2008 Let It Die EP (WEB)\01 - Let It Die.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 99%
+  Tempfile successfully deleted.
+
+2 -===- E:\Foo Fighters Digital\2008 Let It Die EP (WEB)\02 - Keep The Car Running (BBC Radio 1's Six Weeks Of Summer).flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+3 -===- E:\Foo Fighters Digital\2008 Let It Die EP (WEB)\03 - If Ever.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 99%
+  Tempfile successfully deleted.
+
+4 -===- E:\Foo Fighters Digital\2008 Let It Die EP (WEB)\04 - Come Alive (Demo Version).flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+
+Finished at: понедельник, 23. 11. 2015. - 16:03.49 (operation time: 0:02.08)

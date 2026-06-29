@@ -1,0 +1,30 @@
+Started at: понедельник, 23. 11. 2015. - 16:14.37
+5 files found
+
+1 -===- E:\Foo Fighters Digital\2015b Saint Cecilia EP [FLAC 16-48]\01 - Saint Cecilia.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+2 -===- E:\Foo Fighters Digital\2015b Saint Cecilia EP [FLAC 16-48]\02 - Sean.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+3 -===- E:\Foo Fighters Digital\2015b Saint Cecilia EP [FLAC 16-48]\03 - Savior Breath.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+4 -===- E:\Foo Fighters Digital\2015b Saint Cecilia EP [FLAC 16-48]\04 - Iron Rooster.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+5 -===- E:\Foo Fighters Digital\2015b Saint Cecilia EP [FLAC 16-48]\05 - The Neverending Sigh.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+
+Finished at: понедельник, 23. 11. 2015. - 16:16.04 (operation time: 0:01.27)
