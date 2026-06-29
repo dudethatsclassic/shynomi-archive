@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "alice-in-chains",
   "name": "Alice In Chains",
   "drive": "C",
-  "showCount": 252,
+  "showCount": 253,
   "firstYear": 1986,
   "lastYear": 2024,
   "years": [
@@ -2516,6 +2516,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-09-21 - Minneapolis, MN - First Avenue - Hit That Shit [AUD].txt"
+    },
+    {
+      "year": 2009,
+      "month": 9,
+      "day": 29,
+      "dateStr": "9-29-2009",
+      "city": "Hollywood",
+      "state": "CA",
+      "location": "Hollywood, CA",
+      "venue": "Jimmy Kimmel Live",
+      "notes": "",
+      "version": "TV",
+      "format": "M2TS"
     },
     {
       "year": 2009,
