@@ -36,7 +36,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Warfield Theatre",
-      "notes": "KM140s \u00b7 unk",
+      "notes": "KM140s · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-03-03 - San Francisco, CA - Warfield Theatre (KM140s) (unk) [AUD].txt"
@@ -50,7 +50,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
-      "notes": "Gefell M210s \u00b7 jon pasternak",
+      "notes": "Gefell M210s · jon pasternak",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-07-06 - Morrison, CO - Red Rocks Amphitheatre (Gefell M210s) (jon pasternak) [AUD].txt"
@@ -64,7 +64,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theatre",
-      "notes": "AKG 391 \u00b7 zach andersson",
+      "notes": "AKG 391 · zach andersson",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-07-08 - Boulder, CO - Fox Theatre (AKG 391) (zach andersson) [AUD].txt"
@@ -78,7 +78,7 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupos Heartbreak Hotel",
-      "notes": "Neumann SKM-184 \u00b7 david keller",
+      "notes": "Neumann SKM-184 · david keller",
       "version": "AUD (48k)",
       "format": "FLAC",
       "textFile": "2001-07-30 - Providence, RI - Lupos Heartbreak Hotel (Neumann SKM-184) (david keller) [AUD].txt"
@@ -92,7 +92,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "The Vogue",
-      "notes": "Neumann TLM170 \u00b7 matt lazor",
+      "notes": "Neumann TLM170 · matt lazor",
       "version": "AUD (48k)",
       "format": "FLAC",
       "textFile": "2002-06-25 - Indianapolis, IN - The Vogue (Neumann TLM170) (matt lazor) [AUD].txt"
@@ -106,7 +106,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Tower City Amphitheater",
-      "notes": "AKG 481s \u00b7 michael schaefer",
+      "notes": "AKG 481s · michael schaefer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-07-04 - Cleveland, OH - Tower City Amphitheater (AKG 481s) (michael schaefer) [AUD].txt"
@@ -120,7 +120,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "PromoWest Pavilion",
-      "notes": "AKG 481 \u00b7 michael schaefer",
+      "notes": "AKG 481 · michael schaefer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-07-10 - Columbus, OH - PromoWest Pavilion (AKG 481) (michael schaefer) [AUD].txt"
@@ -134,7 +134,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Roseland Theater",
-      "notes": "DAT(M) \u00b7 Nakamichi CM-300s \u00b7 chris mcgrath",
+      "notes": "DAT(M) · Nakamichi CM-300s · chris mcgrath",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2002-10-25 - Portland, OR - Roseland Theater - DAT(M) (Nakamichi CM-300s) (chris mcgrath) [AUD24].txt"
@@ -148,7 +148,7 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's Heartbreak Hotel",
-      "notes": "AKG C1000s \u00b7 george johnson",
+      "notes": "AKG C1000s · george johnson",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-11-03 - Providence, RI - Lupo's Heartbreak Hotel (AKG C1000s) (george johnson) [AUD].txt"
@@ -189,7 +189,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "Headliner's",
-      "notes": "DAT(M) \u00b7 MG 210 \u00b7 unk",
+      "notes": "DAT(M) · MG 210 · unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2003-07-19 - Toledo, OH - Headliner's - DAT(M) (MG 210) (unk) [AUD24].txt"
@@ -203,7 +203,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "Civic Auditorium",
-      "notes": "DPA 4021 \u00b7 eman",
+      "notes": "DPA 4021 · eman",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-05-20 - Santa Cruz, CA - Civic Auditorium (DPA 4021) (eman) [AUD24].txt"
@@ -231,7 +231,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Grinders",
-      "notes": "Internal mics \u00b7 unk",
+      "notes": "Internal mics · unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-05-26 - Kansas City, MO - Grinders (Internal mics) (unk) [AUD24].txt"
@@ -245,7 +245,7 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Iroquois Amphitheater",
-      "notes": "Schoeps MK4v \u00b7 unk",
+      "notes": "Schoeps MK4v · unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-05-28 - Louisville, KY - Iroquois Amphitheater (Schoeps MK4v) (unk) [AUD24].txt"
@@ -259,7 +259,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buffalo NY",
       "venue": "Town Ballroom",
-      "notes": "Sennheiser Ambeo \u00b7 grizzly adams",
+      "notes": "Sennheiser Ambeo · grizzly adams",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-05-30 - Buffalo NY - Town Ballroom (Sennheiser Ambeo) (grizzly adams) [AUD24].txt"
@@ -273,7 +273,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "KEMBA Live!",
-      "notes": "SP-CMC-08 \u00b7 ironchef",
+      "notes": "SP-CMC-08 · ironchef",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-05-31 - Columbus, OH - KEMBA Live (SP-CMC-08) (ironchef) [AUD].txt"
@@ -287,10 +287,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Masonic Temple",
-      "notes": "MBHO KA200N \u00b7 unk",
+      "notes": "MBHO KA200N · unk",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2023-06-02 - Detroit, MI - Masonic Temple (MBHO KA200N) (unk) [AUD24].txt"
+      "textFile": "2023-06-02 - Detroit, MI - Masonic Temple (SP-LAV-1) (unk) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -301,10 +301,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Masonic Temple",
-      "notes": "Sennheiser Ambeo \u00b7 blue tweeker",
+      "notes": "Sennheiser Ambeo · blue tweeker",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-06-02 - Detroit, MI - Masonic Temple (Sennheiser Ambeo) (blue tweeker) [AUD].txt"
+      "textFile": "2023-06-02 - Detroit, MI - Masonic Temple (SP-LAV-1) (unk) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -315,7 +315,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Masonic Temple",
-      "notes": "SP-LAV-1 \u00b7 unk",
+      "notes": "SP-LAV-1 · unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-06-02 - Detroit, MI - Masonic Temple (SP-LAV-1) (unk) [AUD24].txt"
@@ -329,7 +329,7 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "The Saenger Theater",
-      "notes": "MK41v \u00b7 unk",
+      "notes": "MK41v · unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-06-17 - New Orleans, LA - The Saenger Theater (MK41v) (unk) [AUD24].txt"
@@ -343,7 +343,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Westbury, NY",
       "venue": "NYCB Theatre at Westbury",
-      "notes": "AT833 \u00b7 joe d'amico",
+      "notes": "AT833 · joe d'amico",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-06-24 - Westbury, NY - NYCB Theatre at Westbury (AT833) (joe d'amico) [AUD].txt"
@@ -357,7 +357,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Westbury, NY",
       "venue": "Westbury Music Fair",
-      "notes": "DPA 4011Es \u00b7 todd hinden",
+      "notes": "DPA 4011Es · todd hinden",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-06-24 - Westbury, NY - Westbury Music Fair (DPA 4011Es) (todd hinden) [AUD].txt"
@@ -371,7 +371,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "MGM Music Hall at Fenway",
-      "notes": "CA-14 \u00b7 screamingslave",
+      "notes": "CA-14 · screamingslave",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-06-29 - Boston, MA - MGM Music Hall at Fenway (CA-14) (screamingslave) [AUD24].txt"
@@ -385,7 +385,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Scranton, PA",
       "venue": "Montage Mountain",
-      "notes": "Gefell 210 \u00b7 john lynch",
+      "notes": "Gefell 210 · john lynch",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-07-01 - Scranton, PA - Montage Mountain (Gefell 210) (john lynch) [AUD24].txt"
@@ -399,7 +399,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Salt Shed",
-      "notes": "Schoeps MK4v \u00b7 unk",
+      "notes": "Schoeps MK4v · unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-07-02 - Chicago, IL - Salt Shed (Schoeps MK4v) (unk) [AUD24].txt"
@@ -413,7 +413,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Forest Grove, OR",
       "venue": "McMenamins Grand Lodge",
-      "notes": "Sennheiser Ambe0 + CA-11 \u00b7 unk",
+      "notes": "Sennheiser Ambe0 + CA-11 · unk",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2023-07-09 - Forest Grove, OR - McMenamins Grand Lodge (Sennheiser Ambe0 + CA-11) (unk) [MIX].txt"
@@ -427,7 +427,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Wheatland, CA",
       "venue": "Hard Rock Live",
-      "notes": "Sennheiser Ambeo \u00b7 grizzly adams",
+      "notes": "Sennheiser Ambeo · grizzly adams",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-07-11 - Wheatland, CA - Hard Rock Live  (Sennheiser Ambeo) (grizzly adams) [AUD].txt"
@@ -441,7 +441,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Luis Obispo, CA",
       "venue": "Madonna Inn",
-      "notes": "Sennheiser Ambeo \u00b7 grizzly adams",
+      "notes": "Sennheiser Ambeo · grizzly adams",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-07-13 - San Luis Obispo, CA - Madonna Inn (Sennheiser Ambeo) (grizzly adams) [AUD].txt"
@@ -455,7 +455,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Wiltern",
-      "notes": "CA-11 \u00b7 leifh",
+      "notes": "CA-11 · leifh",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-07-14 - Los Angeles, CA - The Wiltern (CA-11) (leifh) [AUD].txt"
@@ -469,7 +469,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "The Van Buren",
-      "notes": "SP-CMC-8 \u00b7 leifh12345",
+      "notes": "SP-CMC-8 · leifh12345",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-07-15 - Phoenix, AZ - The Van Buren (SP-CMC-8) (leifh12345) [AUD].txt"
@@ -483,7 +483,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Wallingford, CT",
       "venue": "Oakdale Theatre",
-      "notes": "AT853s \u00b7 e",
+      "notes": "AT853s · e",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-10-21 - Wallingford, CT - Oakdale Theatre (AT853s) (e) [AUD].txt"
