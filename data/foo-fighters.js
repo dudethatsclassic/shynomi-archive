@@ -6308,13 +6308,12 @@ const ARTIST_DATA = {
       "day": 11,
       "dateStr": "12-11-1999",
       "city": "Los Angeles",
-      "state": "CA - KROQ Almost Acoustic Christmas",
-      "location": "Los Angeles, CA - KROQ Almost Acoustic Christmas",
-      "venue": "",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "KROQ Almost Acoustic Christmas",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1999-12-11 - KROQ Almost Acoustic Christmas [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -7772,13 +7771,12 @@ const ARTIST_DATA = {
       "day": 3,
       "dateStr": "12-3-2001",
       "city": "Stockholm",
-      "state": "Sweden - Johanneshovs Isstadion - Hovet",
-      "location": "Stockholm, Sweden - Johanneshovs Isstadion - Hovet",
-      "venue": "",
-      "notes": "",
+      "state": "Sweden",
+      "location": "Stockholm, Sweden",
+      "venue": "Johanneshovs Isstadion",
+      "notes": "Hovet",
       "version": "SBD #1a",
-      "format": "FLAC",
-      "textFile": "2001-12-03 - Stockholm, Sweden - Johanneshovs Isstadion [FM].txt"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -11344,14 +11342,13 @@ const ARTIST_DATA = {
       "month": 11,
       "day": 27,
       "dateStr": "11-27-2009",
-      "city": "VH1 Storytellers - Master (simon kilmore)",
-      "state": "",
-      "location": "VH1 Storytellers - Master (simon kilmore)",
-      "venue": "",
-      "notes": "",
+      "city": "Culver City",
+      "state": "CA",
+      "location": "Culver City, CA",
+      "venue": "VH1 Storytellers",
+      "notes": "M · simon kilmore",
       "version": "TV",
-      "format": "DVD",
-      "textFile": "2009-11-27 - VH1-Storytellers [DVD].txt"
+      "format": "DVD"
     },
     {
       "year": 2010,
@@ -12054,13 +12051,12 @@ const ARTIST_DATA = {
       "day": 1,
       "dateStr": "4-1-2012",
       "city": "Santiago",
-      "state": "Chile/- Parque O'Higgin - Lollapalooza (unk)",
-      "location": "Santiago, Chile/- Parque O'Higgin - Lollapalooza (unk)",
-      "venue": "",
-      "notes": "",
+      "state": "Chile",
+      "location": "Santiago, Chile",
+      "venue": "Parque O'Higgin",
+      "notes": "Lollapalooza · unk",
       "version": "PRO",
-      "format": "DVD",
-      "textFile": "2012-04-01 - Santiago, Chile - Parque O'Higgins  [DVD].txt"
+      "format": "DVD"
     },
     {
       "year": 2012,
