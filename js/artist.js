@@ -52,7 +52,7 @@ function renderMiscSection(miscItems) {
   });
 
   const CAT_LABELS = {
-    'OTHER':            'Demos & Compilations',
+    'OTHER':            'Other — Demos & Compilations',
     'SILVERS':          'Silver CDs',
     'OFFICIAL RELEASES':'Official Releases',
     'SINGLES':          'Singles',
