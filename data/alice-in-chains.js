@@ -3838,21 +3838,21 @@ const ARTIST_DATA = {
     },
     {
       "type": "release",
-      "label": "Would",
+      "label": "Would {Columbia 658888 2}",
       "year": 1992,
       "format": "FLAC",
       "category": "SINGLES"
     },
     {
       "type": "release",
-      "label": "Angry Chair (Limited Edition)",
+      "label": "Angry Chair (Limited Edition) {Columbia 659365 2}",
       "year": 1993,
       "format": "FLAC",
       "category": "SINGLES"
     },
     {
       "type": "release",
-      "label": "Down In A Hole",
+      "label": "Down In A Hole {Columbia 659751 2}",
       "year": 1993,
       "format": "FLAC",
       "category": "SINGLES"
@@ -3866,14 +3866,14 @@ const ARTIST_DATA = {
     },
     {
       "type": "release",
-      "label": "No Excuses",
+      "label": "No Excuses {Columbia 660097 1}",
       "year": 1994,
       "format": "FLAC",
       "category": "SINGLES"
     },
     {
       "type": "release",
-      "label": "Grind",
+      "label": "Grind {UK 662623 2}",
       "year": 1995,
       "format": "FLAC",
       "category": "SINGLES"
@@ -3886,14 +3886,14 @@ const ARTIST_DATA = {
     },
     {
       "type": "release",
-      "label": "Heaven Beside You (UK CD1)",
+      "label": "Heaven Beside You {662893 2} (UK CD1)",
       "year": 1996,
       "format": "FLAC",
       "category": "SINGLES"
     },
     {
       "type": "release",
-      "label": "Heaven Beside You (UK CD2)",
+      "label": "Heaven Beside You {662893 5} (UK CD2)",
       "year": 1996,
       "format": "FLAC",
       "category": "SINGLES"
