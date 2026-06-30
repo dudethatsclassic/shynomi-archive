@@ -36,7 +36,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "SXSW",
-      "notes": "Electric \u00b7 unk",
+      "notes": "Electric · unk",
       "version": "AUD",
       "format": "",
       "textFile": "1995-03-17 - Austin, TX - SXSW - Electric Lounge (unk) [AUD].txt"
@@ -50,7 +50,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
-      "notes": "WXRT FM \u00b7 stonecutter",
+      "notes": "WXRT FM · stonecutter",
       "version": "FM",
       "format": "",
       "textFile": "1996-02-23 - Chicago, IL - Lounge Ax (WXRT FM) (stonecutter) [FM].txt"
@@ -64,7 +64,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tramps",
-      "notes": "julsay \u00b7 joe noel edit",
+      "notes": "julsay · joe noel edit",
       "version": "SBD",
       "format": "",
       "textFile": "1996-04-13 - New York, NY - Tramps (julsay) (joe noel edit) [SBD].txt"
@@ -78,7 +78,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "888 Seventh Ave.",
-      "notes": "10th \u00b7 stonecutter",
+      "notes": "10th · stonecutter",
       "version": "FM",
       "format": "",
       "textFile": "1996-04-14 - New York, NY - 888 Seventh Ave. - 10th Floor (stonecutter) [FM].txt"
@@ -92,7 +92,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theater of Living Arts",
-      "notes": "DAT(M) \u00b7 Schoeps CMC4-MK41 \u00b7 billydee",
+      "notes": "DAT(M) · Schoeps CMC4-MK41 · billydee",
       "version": "AUD",
       "format": "",
       "textFile": "1996-04-16 - Philadelphia, PA - Theater of Living Arts - DAT(M) (Schoeps CMC4-MK41) (billydee) [AUD].txt"
@@ -106,7 +106,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
-      "notes": "CSB + SBD mix \u00b7 mr. pember",
+      "notes": "CSB + SBD mix · mr. pember",
       "version": "MIX",
       "format": "",
       "textFile": "1996-04-18 - Carrboro, NC - Cat's Cradle (CSB + SBD mix) (mr. pember) [MIX].txt"
@@ -134,7 +134,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
-      "notes": "unk \u00b7 with Soundcheck",
+      "notes": "unk · with Soundcheck",
       "version": "AUD",
       "format": "",
       "textFile": "1996-12-31 - Chicago, IL - Lounge Ax (unk) (with Soundcheck) [AUD].txt"
