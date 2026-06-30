@@ -51,7 +51,7 @@ const ARTISTS = [
   {
     "id": "alanis-morissette",
     "name": "Alanis Morissette",
-    "showCount": 71,
+    "showCount": 69,
     "firstYear": 1995,
     "lastYear": 2025
   },
