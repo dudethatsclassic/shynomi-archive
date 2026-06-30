@@ -204,5 +204,26 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 1995,
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Alanis Morissette - Hand In My Pocket {9362-43596-9} (1995)",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Alanis Morissette - Hand In My Pocket (CD2) {WO312CD2, 9362-43621-2} (1995)",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Alanis Morissette - Head Over Feet {9362437192} (1995)",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SINGLES"
   }
 ];
