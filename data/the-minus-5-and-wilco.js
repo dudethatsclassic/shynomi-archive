@@ -66,7 +66,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "John Anson Ford Theatre",
-      "notes": "DAT(M) \u00b7 anonymous",
+      "notes": "DAT(M) · anonymous",
       "version": "SBD",
       "format": "",
       "textFile": "2002-09-09 - Los Angeles, CA - John Anson Ford Theatre - DAT(M) (anonymous) [SBD].txt"
@@ -108,7 +108,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "Cocoanut Grove Ballroom",
-      "notes": "SP-CMC-25 \u00b7 robert mullen",
+      "notes": "SP-CMC-25 · robert mullen",
       "version": "AUD",
       "format": "",
       "textFile": "2015-03-19 - Santa Cruz, CA - Cocoanut Grove Ballroom (SP-CMC-25) (robert mullen) [AUD].txt"
@@ -136,7 +136,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Doug Fir Lounge",
-      "notes": "Core Sounds Cards \u00b7 rob gronotte",
+      "notes": "Core Sounds Cards · rob gronotte",
       "version": "AUD",
       "format": "",
       "textFile": "2022-08-05 - Portland, OR - Doug Fir Lounge (Core Sounds Cards) (rob gronotte) [AUD].txt"
@@ -150,10 +150,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Hamilton",
-      "notes": "Gefell MV400L-M41 \u00b7 alex leary",
+      "notes": "Gefell MV400L-M41 · alex leary",
       "version": "AUD",
       "format": ""
     }
-  ],
-  "misc": []
+  ]
 };
