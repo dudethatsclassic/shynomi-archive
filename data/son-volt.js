@@ -20,7 +20,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": ""
     },
@@ -52,6 +52,5 @@ const ARTIST_DATA = {
       "format": "",
       "textFile": "2009-09-19 - Northampton, MA - Pearl Street Ballroom (Zoom H2) (bcc32065) (2025 remaster) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
