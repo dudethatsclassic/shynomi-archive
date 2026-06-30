@@ -149,10 +149,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Joe's Field",
-      "notes": "Solid \u00b7 Schoeps MK4V \u00b7 jim kelly",
+      "notes": "Solid · Schoeps MK4V · jim kelly",
       "version": "AUD",
       "format": "",
-      "textFile": "2022-05-29 - North Adams, MA  - Joe's Field - Solid Sound Festival (Schoeps MK4V) (jim kelly) [AUD].txt"
+      "textFile": "2022-05-29 - North Adams, MA - Joe's Field - MASS MoCA (Schoeps MK4V + CA-11) (musicjaime + manofstealth) [MIX].txt"
     },
     {
       "year": 2022,
@@ -163,7 +163,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Joe's Field",
-      "notes": "MASS \u00b7 Schoeps MK4V + CA-11 \u00b7 musicjaime + manofstealth",
+      "notes": "MASS · Schoeps MK4V + CA-11 · musicjaime + manofstealth",
       "version": "AUD",
       "format": "",
       "textFile": "2022-05-29 - North Adams, MA - Joe's Field - MASS MoCA (Schoeps MK4V + CA-11) (musicjaime + manofstealth) [MIX].txt"
@@ -177,11 +177,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Joe's Field MASS MoCA",
-      "notes": "Schoeps MK4V+SP-BMC-12 \u00b7 jim kelly",
+      "notes": "Schoeps MK4V+SP-BMC-12 · jim kelly",
       "version": "MIX",
       "format": "",
       "textFile": "2024-06-30 - North Adams, MA - Joe's Field MASS MoCA (Schoeps MK4V+SP-BMC-12) (jim kelly) [MIX24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
