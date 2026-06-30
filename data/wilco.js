@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "wilco",
   "name": "Wilco",
   "drive": "E",
-  "showCount": 1127,
+  "showCount": 1128,
   "firstYear": 1994,
   "lastYear": 2026,
   "years": [
@@ -15676,6 +15676,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "",
       "textFile": "2026-06-16 - LaFayette, NY - Beak & Skiff Orchards (SP-CMC-25) (robertmullen) [AUD].txt"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 27,
+      "dateStr": "6-27-2026",
+      "city": "North Adams",
+      "state": "MA",
+      "location": "North Adams, MA",
+      "venue": "Solid Sound Festival",
+      "notes": "MASS · AKG CK-63 · km",
+      "version": "AUD",
+      "format": ""
     }
   ]
 };
