@@ -65,6 +65,13 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
+    "label": "Alanis Morissette - Under Rug Swept {Maverick WPCR-11110 Japan} (2002)",
+    "format": "FLAC",
+    "year": 2002,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
     "label": "Alanis Morissette - So-Called Chaos (2004, Maverick, 9362-48555, EU) (2004)",
     "format": "FLAC",
     "year": 2004,
