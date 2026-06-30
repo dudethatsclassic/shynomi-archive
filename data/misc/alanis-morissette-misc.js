@@ -1,6 +1,14 @@
 const ARTIST_MISC_DATA = [
   {
     "type": "release",
+    "label": "Alanis Morissette - Spotify Singles (2020)",
+    "version": "WEB",
+    "format": "FLAC",
+    "year": 2020,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
     "label": "Alanis Morissette - Alanis {742916 T} (1991)",
     "format": "FLAC",
     "year": 1991,
@@ -171,10 +179,9 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Alanis Morissette - XTESTX {p.rec 03} (2002)",
-    "version": "Silver CD",
+    "label": "Alanis Morissette - You Oughta Know {Maverick W0307CD} (1995)",
     "format": "FLAC",
-    "year": 2002,
-    "category": "SILVERS"
+    "year": 1995,
+    "category": "SINGLES"
   }
 ];
