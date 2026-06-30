@@ -79,9 +79,23 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
+    "label": "Alanis Morissette - So‐Called Chaos {WPCR-11790 Japan} (2004)",
+    "format": "FLAC",
+    "year": 2004,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
     "label": "Alanis Morissette - Flavors Of Entanglement (2008) {269308-2 US}",
     "format": "FLAC",
     "year": 2008,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Alanis Morissette - Live at Montreux 2012 {EAGCD499} (2013)",
+    "format": "FLAC",
+    "year": 2012,
     "category": "OFFICIAL RELEASES"
   },
   {
