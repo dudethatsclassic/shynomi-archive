@@ -86,13 +86,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Alanis Morissette - Live at Montreux 2012 (2013) (24/96)",
-    "format": "FLAC HD",
-    "year": 2012,
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
     "label": "Alanis Morissette - Jagged Little Pill - 1995 (2015) Collector's Edition",
     "format": "FLAC HD",
     "year": 1995,
@@ -221,7 +214,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Alanis Morissette - Head Over Feet {9362437192} (1995)",
+    "label": "Alanis Morissette - Head Over Feet {9362437192 Australia} (1995)",
     "format": "FLAC",
     "year": 1995,
     "category": "SINGLES"
