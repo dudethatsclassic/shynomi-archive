@@ -388,7 +388,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 koondog",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1991-03-16 - Saarbruken, Germany - Sporthalle [AUD].txt"
+      "textFile": "1991-03-16 - Saarbrucken, Germany - Saarlandhalle (2nd Gen) [AUD].txt"
     },
     {
       "year": 1991,
@@ -584,7 +584,7 @@ const ARTIST_DATA = {
       "notes": "Shure Sm98 \u00b7 carl s.",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1991-08-31 - Milwaukee, WI - Marcus Amphitheater [AUD].txt"
+      "textFile": "1991-08-31 - Milwaukee, WI - Marcus Amphitheater - ANA(M) (luciferburns transfer) [AUD].txt"
     },
     {
       "year": 1991,
@@ -654,7 +654,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1991-10-06 - Hollywood, CA - The Palladium [SBD].txt"
+      "textFile": "1991-10-06 - Hollywood, CA - The Palladium (exene remaster) [preFM].txt"
     },
     {
       "year": 1991,
@@ -808,7 +808,7 @@ const ARTIST_DATA = {
       "notes": "Aiwa TPS30 \u00b7 scott heller",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-10-08 - Oakland, California - Oakland-Alameda County Coliseum Arena [DVD].txt"
+      "textFile": "1992-10-08 - Oakland, CA - Oakland Coliseum [AUD].txt"
     },
     {
       "year": 1992,
@@ -836,7 +836,7 @@ const ARTIST_DATA = {
       "notes": "8MM(M) \u00b7 Sony TRV-740 \u00b7 unk",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "1992-10-15 - Paris, France - Elysee Montmartre [AUD].txt"
+      "textFile": "1992-10-15 - Hollywood, CA - Hollywood Palladium - 8MM(M) [DVD].txt"
     },
     {
       "year": 1992,
@@ -905,7 +905,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-11-20 - Charlotte, NC - 13.13 Club [AUD].txt"
+      "textFile": "1992-11-20 - Charlotte, NC - 13.13 Club (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1073,7 +1073,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "SHN",
-      "textFile": "1992-12-20 - Seattle, WA - Seattle Center [SBD].txt"
+      "textFile": "1992-12-20 - Seattle, WA - Seattle Center (pitch corrected) [SBD].txt"
     },
     {
       "year": 1992,
@@ -1269,7 +1269,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-02-07 - Lund, Sweden - Mejeriet [AUD].txt"
+      "textFile": "1993-02-07 - Lund, SWE - Mejeriet (Marantz EM-8) (crazy tapes) [AUD24].txt"
     },
     {
       "year": 1993,
@@ -1311,7 +1311,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 andy a.",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "1993-02-17 - Milan, Italy - Rolling Stone [DVD].txt"
+      "textFile": "1993-02-17 - Milan, Italy - Rolling Stone [AUD].txt"
     },
     {
       "year": 1993,
@@ -1493,7 +1493,7 @@ const ARTIST_DATA = {
       "notes": "Aiwa CM-30 \u00b7 stephane",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-03-08 - Paris, France - Elyse\u0301e Montmartre (Aiwa CM-30) (stephane) [AUD].txt"
+      "textFile": "1993-03-08 - Paris, France - Elyse\u0301e Montmartre [AUD].txt"
     },
     {
       "year": 1993,
@@ -1619,7 +1619,7 @@ const ARTIST_DATA = {
       "notes": "Sony ECM 909",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "1993-06-22 - Mountain View, CA - Shoreline Amphitheatre - ANA(M) (unk) [AUD].txt"
+      "textFile": "1993-06-22 - Mountain View, CA - Shoreline Amphitheatre (ECM-909) [AUD].txt"
     },
     {
       "year": 1993,
@@ -1745,7 +1745,7 @@ const ARTIST_DATA = {
       "notes": "Lollapalooza III \u00b7 Sony D3 \u00b7 koondog",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-07-13 - Stanhope, NJ - Waterloo Village [AUD].txt"
+      "textFile": "1993-07-13 - Stanhope, NJ - Waterloo Village (Lollapalooza III) [AUD].txt"
     },
     {
       "year": 1993,
@@ -1857,7 +1857,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-10-13 - Neu Isenberg, Germany - Hugenottenhalle (steve hagar) [AUD].txt"
+      "textFile": "1993-10-13 - Neo-Isenburg, Germany - Hugottenhalle [AUD].txt"
     },
     {
       "year": 1993,
@@ -1954,8 +1954,7 @@ const ARTIST_DATA = {
       "venue": "IMP Hall *Swarm",
       "notes": "steve hagar remaster",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1993-10-23 - Osaka, Japan - Castle Hall (remastered) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -1983,7 +1982,7 @@ const ARTIST_DATA = {
       "notes": "drainman transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-11-02 - Melbourne, Australia - The Palace [AUD].txt"
+      "textFile": "1993-11-02 - Melbourne, Australia - The Palace (Speed Corrected) [AUD].txt"
     },
     {
       "year": 1993,
@@ -2123,7 +2122,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-07-03 - Kansas City, MO - Kemper Arena (Supersonic Video) [DVD].txt"
+      "textFile": "1996-07-03 - Kansas CIty, MO - Kemper Arena (Last Layne Show) [AUD].txt"
     },
     {
       "year": 1996,
@@ -2375,7 +2374,7 @@ const ARTIST_DATA = {
       "notes": "Oade Binaurals \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-11-26 - San Francisco, CA - Warfield (bh) [AUD].txt"
+      "textFile": "2006-11-26 - San Francisco, CA - The Warfield - DAT(M) (Oade Binaurals) (unk) [AUD].txt"
     },
     {
       "year": 2006,
@@ -2528,7 +2527,8 @@ const ARTIST_DATA = {
       "venue": "Jimmy Kimmel Live",
       "notes": "",
       "version": "TV",
-      "format": "M2TS"
+      "format": "M2TS",
+      "textFile": "2009-09-29-30 - Hollywood, CA - Jimmy Kimmel Live [TV].txt"
     },
     {
       "year": 2009,
@@ -2709,7 +2709,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps CCM4s \u00b7 jon",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-03-13 - Upper Darby, PA - Tower Theater (pineaway) [AUD].txt"
+      "textFile": "2010-03-13 - Upper Darby, PA - Tower Theater (jon) [AUD].txt"
     },
     {
       "year": 2010,
@@ -3058,7 +3058,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK41s \u00b7 darktrain",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2013-05-15 - Milwaukee, WI - Eagles Ballroom (Source 2) [AUD].txt"
+      "textFile": "2013-05-15 - Milwaukee, WI - Eagles Ballroom (1 - darktrain Master) [AUD].txt"
     },
     {
       "year": 2013,

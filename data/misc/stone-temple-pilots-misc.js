@@ -3,8 +3,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Stone Temple Pilots - Brand New Live {VR 50011} (1993)",
     "version": "Silver CD",
-    "format": "FLAC",
-    "textFile": "MISC - Stone Temple Pilots - Alive in the Windy City (24-48) [FLAC HD].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
@@ -62,7 +61,37 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Stone Temple Pilots - The Centrum Worcester 1994 (Live) {8717662592683} (1994)",
     "year": 1994,
-    "format": "FLAC",
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Stone Temple Pilots - Unplugged (1994)",
+    "year": 1994,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Stone Temple Pilots - Unplugged (1994)",
+    "year": 1994,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Stone Temple Pilots - Unplugged & More (1995)",
+    "year": 1995,
+    "version": "Silver CD"
+  },
+  {
+    "type": "release",
+    "label": "Stone Temple Pilots - Unplugged (1994)",
+    "year": 1994,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Stone Temple Pilots - Unplugged & More (1995)",
+    "year": 1995,
+    "version": "Silver CD",
     "textFile": "MISC - Stone Temple Pilots - Unplugged & More (1995) [Silver].txt"
   },
   {

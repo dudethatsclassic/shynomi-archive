@@ -7,8 +7,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "2001-2003 - Hollywood Free Shows - Virgin Megastore",
-    "format": "FLAC",
-    "textFile": "MISC - 2001-2003 - Hollywood Free Shows - Virgin Megastore.txt"
+    "format": "FLAC"
   },
   {
     "type": "label",
@@ -23,14 +22,12 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "How You See The World (No. 2 - Prev Unreleased)",
-    "format": "FLAC",
-    "textFile": "MISC - Coldplay - How You See The World No.2 (Previously Unreleased).txt"
+    "format": "FLAC"
   },
   {
     "type": "label",
     "label": "Spies (Demo Version)",
-    "format": "FLAC",
-    "textFile": "MISC - Coldplay - Spies (Demo Version) Industry Only.txt"
+    "format": "FLAC"
   },
   {
     "type": "label",
@@ -45,8 +42,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Viva La Vida (Rare 30 sec Demo 2007)",
-    "format": "FLAC",
-    "textFile": "MISC - Coldplay - Viva La Vida (Demos and Outtakes).txt"
+    "format": "FLAC"
   },
   {
     "type": "label",
@@ -56,14 +52,12 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "When We Were Young (The Early Days Compilation)",
-    "format": "FLAC",
-    "textFile": "MISC - When We Were Young - The Early Days Compilation.txt"
+    "format": "FLAC"
   },
   {
     "type": "label",
     "label": "Yellow (Acoustic) - From Starbucks, Every Mother Counts CD",
-    "format": "FLAC",
-    "textFile": "MISC - Yellow (Acoustic) (from Starbucks, Every Mother Counts CD).txt"
+    "format": "FLAC"
   },
   {
     "type": "label",
@@ -80,14 +74,12 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Coldplay - Early Days 2000 Compilation",
-    "format": "FLAC",
-    "textFile": "MISC - Coldplay - Early Days 2000 [COMPILATION].txt"
+    "format": "FLAC"
   },
   {
     "type": "label",
     "label": "Coldplay - Rarities (Box-set Collection)",
-    "format": "FLAC",
-    "textFile": "MISC - Coldplay - Rarities (Box-set Collection) [COMP].txt"
+    "format": "FLAC"
   },
   {
     "type": "label",
@@ -102,8 +94,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Coldplay - Twisted Logic In Copenhagen [Silver]",
-    "format": "FLAC",
-    "textFile": "MISC - Coldplay - Twisted Logic In Copenhagen [Silver].txt"
+    "format": "FLAC"
   },
   {
     "type": "label",
@@ -168,8 +159,7 @@ const ARTIST_MISC_DATA = [
     "label": "Coldplay - A Rush of Blood to the Head (7243 5 40504 2 8)",
     "year": 2002,
     "format": "FLAC",
-    "category": "OFFICIAL RELEASES",
-    "textFile": "MISC - 2002 Coldplay - A Rush of Blood to the Head (7243 5 40504 2 8) [FLAC].txt"
+    "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
@@ -456,8 +446,7 @@ const ARTIST_MISC_DATA = [
     "label": "The Chainsmokers & Coldplay - Something Just Like This",
     "year": 2017,
     "format": "FLAC",
-    "category": "SINGLES",
-    "textFile": "MISC - 2017 - The Chainsmokers & Coldplay - Something Just Like This (Remix Pack) [FLAC].txt"
+    "category": "SINGLES"
   },
   {
     "type": "release",
@@ -613,5 +602,179 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Viva La Vida (Rare 30 sec Demo 2007)"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Everyday Life (Japan Edition) (WPCR 18287)",
+    "year": 2019,
+    "format": "FLAC",
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "A L I E N S",
+    "year": 2017,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Higher Power (ZHU Remix) (24:44.1)",
+    "year": 2021,
+    "format": "FLAC HD",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Harmless"
+  },
+  {
+    "type": "release",
+    "label": "2003 - Hollywood Free Shows - Virgin Megastore",
+    "year": 2001
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - 2000 Miles"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Early Days 2000",
+    "format": "COMPILATION"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Harmless"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Have Yourself A Merry Little Christmas"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - How You See The World No.2 (Previously Unreleased)"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Paradise (Fedde Le Grand Remix)",
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Progressive Rock Impressions"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Put A Smile On Your Face",
+    "version": "Silver CD"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Rarities (Box-set Collection)",
+    "version": "COMP"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Spies (Demo Version) Industry Only"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Talk (Francois Kevorkian Dub)"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Twisted Logic In Copenhagen",
+    "version": "Silver CD"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Viva La Vida (Demos and Outtakes)"
+  },
+  {
+    "type": "release",
+    "label": "When We Were Young - The Early Days Compilation"
+  },
+  {
+    "type": "release",
+    "label": "Yellow (Acoustic) (from Starbucks, Every Mother Counts CD)"
+  },
+  {
+    "type": "release",
+    "label": "2003 - Hollywood Free Shows - Virgin Megastore",
+    "year": 2001,
+    "textFile": "MISC - 2001-2003 - Hollywood Free Shows - Virgin Megastore.txt"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - 2000 Miles"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Early Days 2000",
+    "format": "COMPILATION",
+    "textFile": "MISC - Coldplay - Early Days 2000 [COMPILATION].txt"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Harmless"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Have Yourself A Merry Little Christmas"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - How You See The World No.2 (Previously Unreleased)",
+    "textFile": "MISC - Coldplay - How You See The World No.2 (Previously Unreleased).txt"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Paradise (Fedde Le Grand Remix)",
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Progressive Rock Impressions"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Put A Smile On Your Face",
+    "version": "Silver CD"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Rarities (Box-set Collection)",
+    "version": "COMP",
+    "textFile": "MISC - Coldplay - Rarities (Box-set Collection) [COMP].txt"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Spies (Demo Version) Industry Only",
+    "textFile": "MISC - Coldplay - Spies (Demo Version) Industry Only.txt"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Talk (Francois Kevorkian Dub)"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Twisted Logic In Copenhagen",
+    "version": "Silver CD",
+    "textFile": "MISC - Coldplay - Twisted Logic In Copenhagen [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Viva La Vida (Demos and Outtakes)",
+    "textFile": "MISC - Coldplay - Viva La Vida (Demos and Outtakes).txt"
+  },
+  {
+    "type": "release",
+    "label": "When We Were Young - The Early Days Compilation",
+    "textFile": "MISC - When We Were Young - The Early Days Compilation.txt"
+  },
+  {
+    "type": "release",
+    "label": "Yellow (Acoustic) (from Starbucks, Every Mother Counts CD)",
+    "textFile": "MISC - Yellow (Acoustic) (from Starbucks, Every Mother Counts CD).txt"
   }
 ];

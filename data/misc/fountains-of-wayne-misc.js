@@ -137,7 +137,56 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Fountains Of Wayne - iTunes Live from SoHo - EP (2007)",
     "year": 2007,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Fountains of Wayne - Troubled Times (AT0074CD} (1999)",
+    "year": 1999,
     "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Fountains Of Wayne - iTunes Live from SoHo - EP (2007)",
+    "year": 2007,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Fountains of Wayne - Pinwheel Sessions and Loftypops Demos"
+  },
+  {
+    "type": "release",
+    "label": "Fountains Of Wayne - iTunes Live from SoHo - EP (2007)",
+    "year": 2007,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Fountains of Wayne - No Better Place - Live in Chicago DVD (2009)",
+    "year": 2009,
+    "format": "MP3"
+  },
+  {
+    "type": "release",
+    "label": "Fountains of Wayne - Pinwheel Sessions and Loftypops Demos"
+  },
+  {
+    "type": "release",
+    "label": "Fountains Of Wayne - iTunes Live from SoHo - EP (2007)",
+    "year": 2007,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Fountains of Wayne - No Better Place - Live in Chicago DVD (2009)",
+    "year": 2009,
+    "format": "MP3"
+  },
+  {
+    "type": "release",
+    "label": "Fountains of Wayne - Pinwheel Sessions and Loftypops Demos",
     "textFile": "MISC - Fountains of Wayne - Pinwheel Sessions and Loftypops Demos.txt"
   }
 ];

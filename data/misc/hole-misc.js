@@ -3,19 +3,16 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Hole - Cover Me (1995) (loughney transfer)",
     "version": "7\" Vinyl",
-    "format": "FLAC",
-    "textFile": "MISC - Hole - Reading 1995 {3D-HO-035} (1995) [Silver].txt"
+    "format": "FLAC"
   },
   {
     "type": "label",
-    "label": "6-XX-2010 / Courtney Love - Behind the Music",
-    "textFile": "MISC - 2010-06-XX - Courtney Love - Behind the Music [DVD].txt"
+    "label": "6-XX-2010 / Courtney Love - Behind the Music"
   },
   {
     "type": "label",
     "label": "Hole - Argentina Demos Tape",
-    "format": "FLAC",
-    "textFile": "MISC - Hole - Argentina Demos Tape.txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
@@ -71,8 +68,7 @@ const ARTIST_MISC_DATA = [
     "year": 1995,
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "SILVERS",
-    "textFile": "MISC - Hole - Doll Parts {VR 50033} (1995) [Silver].txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -118,8 +114,7 @@ const ARTIST_MISC_DATA = [
     "label": "Hole - Sugar Coma",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "SILVERS",
-    "textFile": "MISC - Hole - Sugar Coma [Silver].txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -159,7 +154,8 @@ const ARTIST_MISC_DATA = [
     "label": "Hole - Unplugged & Reading (SY10170)",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Hole - Unplugged & Reading (SY10170) [Silver].txt"
   },
   {
     "type": "release",
@@ -178,8 +174,7 @@ const ARTIST_MISC_DATA = [
     "label": "Hole - Unplugged & Reading (SY10170)",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "SILVERS",
-    "textFile": "MISC - Hole - Unplugged & Unloved (SPOT 002) [Silver].txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -192,7 +187,55 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Hole - Cover Me (1995)",
+    "year": 1995
+  },
+  {
+    "type": "release",
+    "label": "Hole - Unplugged & Unloved (SPOT 002)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "category": "SILVERS",
+    "textFile": "MISC - Hole - Unplugged & Unloved (SPOT 002) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "06-XX - Courtney Love - Behind the Music",
+    "year": 2010,
+    "format": "DVD"
+  },
+  {
+    "type": "release",
+    "label": "Hole - Argentina Demos Tape"
+  },
+  {
+    "type": "release",
+    "label": "Hole - Cover Me (1995)",
+    "year": 1995
+  },
+  {
+    "type": "release",
+    "label": "PICTURES - LIVE, ART, MAGAZINE, BOOKS etc"
+  },
+  {
+    "type": "release",
+    "label": "06-XX - Courtney Love - Behind the Music",
+    "year": 2010,
+    "format": "DVD",
+    "textFile": "MISC - 2010-06-XX - Courtney Love - Behind the Music [DVD].txt"
+  },
+  {
+    "type": "release",
+    "label": "Hole - Argentina Demos Tape",
+    "textFile": "MISC - Hole - Argentina Demos Tape.txt"
+  },
+  {
+    "type": "release",
+    "label": "Hole - Cover Me (1995)",
     "year": 1995,
     "textFile": "MISC - Hole - Cover Me (1995).txt"
+  },
+  {
+    "type": "release",
+    "label": "PICTURES - LIVE, ART, MAGAZINE, BOOKS etc"
   }
 ];

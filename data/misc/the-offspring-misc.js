@@ -15,8 +15,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "The Offspring - 1986-87 Songs (Demo Cassette) (24-96)",
-    "format": "FLAC",
-    "textFile": "MISC - The Offspring - 1986-7 Songs (Demo Cassette) (24-96) [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
@@ -398,5 +397,42 @@ const ARTIST_MISC_DATA = [
     "year": 2015,
     "format": "FLAC",
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Original Prankster (ESCA 8241) Japan",
+    "year": 2000,
+    "format": "FLAC",
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Can't Get My Head Around You",
+    "year": 2004,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Offspring - 1986-7 Songs (Demo Cassette) (24-96)",
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "The Offspring - Baghdad EP (1991)",
+    "year": 1991,
+    "format": "Vinyl"
+  },
+  {
+    "type": "release",
+    "label": "The Offspring - 1986-7 Songs (Demo Cassette) (24-96)",
+    "format": "FLAC",
+    "textFile": "MISC - The Offspring - 1986-7 Songs (Demo Cassette) (24-96) [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Offspring - Baghdad EP (1991)",
+    "year": 1991,
+    "format": "Vinyl"
   }
 ];
