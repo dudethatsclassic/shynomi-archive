@@ -168,5 +168,13 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2002,
     "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Alanis Morissette - XTESTX {p.rec 03} (2002)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 2002,
+    "category": "SILVERS"
   }
 ];
