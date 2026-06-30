@@ -169,17 +169,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2023-12-01 - Austin, TX - Moody Theater (SP-CMC-8s) (rjl) [AUD24].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "Liz Phair - '96 Shelved Demos",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Liz Phair - '96-'97 WCSE Sessions",
-      "format": "FLAC"
-    }
   ]
 };

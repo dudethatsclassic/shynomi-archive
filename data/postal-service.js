@@ -221,17 +221,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2024-05-06 - Milwaukee, WI - Miller High Life Theatre (Zoom iQ7) (poul0004) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "The Postal Service - Give Up (10th Anniversary Deluxe Edition) (2013) (24bit)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "The Postal Service - Everything Will Change (2020) (24bit)",
-      "format": "FLAC HD"
-    }
   ]
 };

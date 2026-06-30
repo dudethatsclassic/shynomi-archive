@@ -51,7 +51,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Seattle Center Coliseum",
-      "notes": "Sony ECM-22P · jems",
+      "notes": "Sony ECM-22P \u00b7 jems",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1974-10-13 - Seattle, WA - Seattle Center Coliseum (Sony ECM-22P) (jems) [AUD].txt"
@@ -110,19 +110,6 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1980-10-21 - Seattle, WA - Seattle Center Coliseum [AUD].txt"
-    }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Elton John - Tumbleweed Collection 1970-1971",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Elton John - Piano Demos 1968-1971",
-      "format": "FLAC"
     }
   ]
 };

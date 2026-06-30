@@ -841,22 +841,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2026-04-02 - Detroit, MI - The Fillmore Detroit (SP-CMC-8) (live2cd) [AUD24].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "Our Lady Peace - Live 1995 (Promo) {CDNEK 001122} (1995)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Our Lady Peace - Labatt Blue Music {CDNEK 1712} (2004)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Our Lady Peace - Spiritual Machines (Acoustic Live) {181792001533} (2021)",
-      "format": "FLAC"
-    }
   ]
 };

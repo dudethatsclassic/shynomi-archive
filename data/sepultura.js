@@ -62,7 +62,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Starplex Amph",
-      "notes": "Sony ECM-155 · smores",
+      "notes": "Sony ECM-155 \u00b7 smores",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-07-29 - Dallas, TX - Starplex Amph (Sony ECM-155) (smores) [AUD24].txt"
@@ -79,20 +79,6 @@ const ARTIST_DATA = {
       "notes": "Donington",
       "version": "AUD",
       "format": "FLAC"
-    }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Sepultura - Pain & Hate (1996) (Cobra Records)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Sepultura - Sony Music TV (1994)",
-      "version": "TV",
-      "format": "MPG"
     }
   ]
 };

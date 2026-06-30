@@ -296,18 +296,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1996-04-28  - Albany, NY - Lincoln Park (SS DSM6) (unk) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "Transmission Impossible (3CD)",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Judy's in the Basement - The 914 Sessions",
-      "version": "Vinyl",
-      "format": "FLAC 24"
-    }
   ]
 };

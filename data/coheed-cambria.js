@@ -240,13 +240,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2024-08-19 - Washington, DC - The Anthem (Tascam DR-07Z) (bucketpool) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Live at the Starland Ballroom (DVD)",
-      "version": "Official",
-      "format": "DVD"
-    }
   ]
 };

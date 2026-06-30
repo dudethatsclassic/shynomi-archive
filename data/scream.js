@@ -6,13 +6,5 @@ const ARTIST_DATA = {
   "firstYear": null,
   "lastYear": null,
   "years": [],
-  "shows": [],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Scream - Still Screaming (LP, Dischord, Dischord 9, US) (1983)",
-      "version": "Vinyl",
-      "format": "FLAC"
-    }
-  ]
+  "shows": []
 };

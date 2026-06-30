@@ -495,22 +495,5 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4 \u00b7 loughney",
       "textFile": "2023-01-04 - San Francisco, CA - Fillmore (Schoeps MK4) (loughney) [AUD24].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "Ride - 1990 Demos (Corrected)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Ride - Demos",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Ride - Peel Sessions",
-      "format": "FLAC"
-    }
   ]
 };

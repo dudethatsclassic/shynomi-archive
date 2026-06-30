@@ -399,19 +399,5 @@ const ARTIST_DATA = {
       "format": "TS",
       "textFile": "2025-06-20 - Schee\u00dfel, Eichenring - Hurricane Festival (magentamusik.de) (1080) [TS].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Believe In What You Want (DVD)",
-      "version": "Official",
-      "format": "DVD"
-    },
-    {
-      "type": "release",
-      "label": "Jimmy Eat World - One, Two, Three, Four (24-44.1)",
-      "format": "FLAC24",
-      "textFile": "MISC - Jimmy Eat World - One, Two, Three, Four (24-44.1) [FLAC24].txt"
-    }
   ]
 };

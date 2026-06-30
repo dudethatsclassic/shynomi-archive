@@ -840,11 +840,5 @@ const ARTIST_DATA = {
       "notes": "AT831s \u00b7 Unknown",
       "textFile": "2016-09-25 - Los Angeles, CA - Fonda Theatre (AT831s) (unk) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "3-XX-1988 / Demo (loughney transfer)"
-    }
   ]
 };

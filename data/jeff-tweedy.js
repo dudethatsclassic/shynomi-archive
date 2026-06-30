@@ -3217,11 +3217,5 @@ const ARTIST_DATA = {
       "format": "",
       "textFile": "2026-05-30 - Chicago, IL - The Vic (CA-14) (km) [AUD24].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "1997-2003 - The Collected Jeff Tweedy (Compilation)"
-    }
   ]
 };

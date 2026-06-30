@@ -6224,23 +6224,5 @@ const ARTIST_DATA = {
       "notes": "AT853 \u00b7 Unknown",
       "textFile": "2025-12-03 - Auckland, New Zealand - Town Hall (AT853) (unk) [AUD24].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "Garbage - Hollywood Is Garbage (Slavesound Omnis) (mixter_)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Garbage - SiriusXM Thanksgiving Garbage Takeover (2015)",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Garbage - Live Trash {KTS 541} (1996)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    }
   ]
 };

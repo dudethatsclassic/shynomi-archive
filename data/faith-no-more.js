@@ -2583,24 +2583,5 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC"
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "MTV - Source Tape - Making of Angel Dust",
-      "format": "DVD"
-    },
-    {
-      "type": "release",
-      "label": "Faith No More - Lovers of the Insane (KTS112)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Faith No More - Bizarre Festival 97 {04970} (1997)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    }
   ]
 };

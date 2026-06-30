@@ -346,12 +346,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1993-10-23 - Milwaukee, WI - Riverside Theater (SS-DSM6s) (jot) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "Jellyfish - Three Live Concert Broadcasts 1991-1992 (AT-174) [FM]",
-      "format": "FLAC"
-    }
   ]
 };

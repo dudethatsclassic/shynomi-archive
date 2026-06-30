@@ -53,13 +53,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1996-03-27 - Asbury Park, NJ - Stone Pony (Sony D-6C) (unk) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Rancid - Turning Rebellion Into Money {RNCD01} (1998)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    }
   ]
 };

@@ -23,18 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2017-07-29 - Woonsocket, RI - Stadium Theater Performing Arts Center (IPG-320) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Alice's Restaurant 1966-67",
-      "version": "FM",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Alice's Restaurant  (10 Versions)",
-      "format": "FLAC"
-    }
   ]
 };

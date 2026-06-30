@@ -24,7 +24,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Mercury Cafe",
-      "notes": "Binaural mics · marcr",
+      "notes": "Binaural mics \u00b7 marcr",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-10-06 - Denver, CO - Mercury Cafe (Binaural mics) (marcr) [AUD24].txt"
@@ -94,7 +94,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Saratoga NY",
       "venue": "Saratoga Performing Arts Center",
-      "notes": "Horde · Sony D7 · beerengineer",
+      "notes": "Horde \u00b7 Sony D7 \u00b7 beerengineer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-08-10 - Saratoga NY - Saratoga Performing Arts Center - Horde Fest (Sony D7) (beerengineer) [AUD].txt"
@@ -122,7 +122,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
-      "notes": "DAT(M) · Gefell + M20 · unk",
+      "notes": "DAT(M) \u00b7 Gefell + M20 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-11-09 - Philadelphia, PA - Electric Factory (Nak 300s) (lee schusterman + joey mutis) [AUD].txt"
@@ -136,7 +136,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
-      "notes": "Nak 300s · lee schusterman + joey mutis",
+      "notes": "Nak 300s \u00b7 lee schusterman + joey mutis",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-11-09 - Philadelphia, PA - Electric Factory (Nak 300s) (lee schusterman + joey mutis) [AUD].txt"
@@ -192,7 +192,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "House of Blues",
-      "notes": "DAT(M) · ECM-12 · luke freteluco",
+      "notes": "DAT(M) \u00b7 ECM-12 \u00b7 luke freteluco",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-06-11 - Las Vegas, NV - House of Blues - DAT(M) (ECM-12) (luke freteluco) [AUD].txt"
@@ -263,41 +263,6 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-09-17 - Nashville, TN - Ryman Auditorium (Edirol R09) [AUD].txt"
-    }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Ben Folds Five - Complete Sessions at West 54th - 2001",
-      "version": "Official",
-      "format": "MKV"
-    },
-    {
-      "type": "release",
-      "label": "Ben Folds Five - Playlist - The Very Best Of Ben Folds Five",
-      "version": "Official",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Ben Folds Five - Rare",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Ben Folds Five - Rare 2 + EXTRA",
-      "format": "FLAC + MP4"
-    },
-    {
-      "type": "label",
-      "label": "Ben Folds Five - Beginnings",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Ben Folds Five - Uncut (VH1)",
-      "version": "TV",
-      "format": "DVD"
     }
   ]
 };

@@ -396,13 +396,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2024-12-07 - Vancouver, BC - BC Place (DPA 4061) (opsopcopolis) [AUD24].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Taylor Swift- Today Show 2010 [TV]",
-      "version": "TV",
-      "format": "TS"
-    }
   ]
 };

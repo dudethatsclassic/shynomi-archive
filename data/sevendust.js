@@ -77,7 +77,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Winston-Salem, NC",
       "venue": "Ziggy's",
-      "notes": "ANA(M) · Realistic · shynomi",
+      "notes": "ANA(M) \u00b7 Realistic \u00b7 shynomi",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-09-13 - Winston-Salem, NC - Ziggy's - ANA(M) (Realistic) (shynomi) [AUD].txt"
@@ -175,7 +175,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
-      "notes": "SBS · dunebug 81",
+      "notes": "SBS \u00b7 dunebug 81",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-12-29 - Orlando, FL - House of Blues (SBS) (dunebug 81) [AUD].txt"
@@ -189,7 +189,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -216,7 +216,7 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Manchester, NH",
       "venue": "Singer Family Park",
-      "notes": "DAT(M) · unk",
+      "notes": "DAT(M) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-07-13 - Manchester, NH - Singer Family Park - DAT(M) (unk) [AUD].txt"
@@ -230,7 +230,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Commodore Ballroom",
-      "notes": "DAT(M) · SS-DSM6s · unk",
+      "notes": "DAT(M) \u00b7 SS-DSM6s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-10-15 - Vancouver, BC - Commodore Ballroom - DAT(M) (SS-DSM6s) (unk) [AUD].txt"
@@ -244,7 +244,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Showplace Theatre",
-      "notes": "CSB · h.d.",
+      "notes": "CSB \u00b7 h.d.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-11-21 - Buffalo, NY - Showplace Theatre (CSB) (h.d.) [AUD].txt"
@@ -258,7 +258,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
-      "notes": "MD(M) · CSB · dunebug81",
+      "notes": "MD(M) \u00b7 CSB \u00b7 dunebug81",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-11-30 - Orlando, FL - House of Blues - MD(M) (CSB) (dunebug81) [AUD].txt"
@@ -272,7 +272,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "Hard Rock Live",
-      "notes": "MD(M) · CSB · dunebug 81",
+      "notes": "MD(M) \u00b7 CSB \u00b7 dunebug 81",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-12-31 - Orlando, FL - Hard Rock Live - MD(M) (CSB) (dunebug 81) [AUD].txt"
@@ -286,7 +286,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues",
-      "notes": "Sony MZ-N1 · unk",
+      "notes": "Sony MZ-N1 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-09-03 - Chicago, IL - House of Blues (Sony MZ-N1) (unk) [AUD].txt"
@@ -314,7 +314,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
-      "notes": "MD(M) · CSB · kevdogg",
+      "notes": "MD(M) \u00b7 CSB \u00b7 kevdogg",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-12-31 - Orlando, FL - House of Blues - MD(M) (CSB) (kevdogg) [AUD].txt"
@@ -328,7 +328,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Sayreville, NJ",
       "venue": "Starland Ballroom",
-      "notes": "Oade Minimic · unk",
+      "notes": "Oade Minimic \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-04-09 - Sayreville, NJ - Starland Ballroom (Oade Minimic) (unk) [AUD].txt"
@@ -356,7 +356,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "The Masquerade",
-      "notes": "Sony ECM-717 · kevdogg",
+      "notes": "Sony ECM-717 \u00b7 kevdogg",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-12-15 - Tampa, FL - The Masquerade (Sony ECM-717) (kevdogg) [AUD].txt"
@@ -384,7 +384,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Blue Cats",
-      "notes": "CSB · geordy",
+      "notes": "CSB \u00b7 geordy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-05-23 - Knoxville, TN - Blue Cats (CSB) (geordy) [AUD].txt"
@@ -398,7 +398,7 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Myrtle Beach, SC",
       "venue": "House of Blues",
-      "notes": "DPA 4061s · dunebug81",
+      "notes": "DPA 4061s \u00b7 dunebug81",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-12-28 - Myrtle Beach, SC - House of Blues (DPA 4061s) (dunebug81) [AUD].txt"
@@ -412,7 +412,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Ft. Lauderdale, FL",
       "venue": "Revolution Live",
-      "notes": "MD(M) · dunebug81",
+      "notes": "MD(M) \u00b7 dunebug81",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-12-30 - Ft. Lauderdale, FL - Revolution Live - MD(M) DPA 4061s) (dunebug81) [AUD].txt"
@@ -426,7 +426,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Blue Cats",
-      "notes": "DPA 4061s · geordy",
+      "notes": "DPA 4061s \u00b7 geordy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-07-15 - Knoxville, TN - Blue Cats (DPA 4061s) (geordy) [AUD].txt"
@@ -440,7 +440,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues",
-      "notes": "Sony ECM-DS70P · metallicasmc",
+      "notes": "Sony ECM-DS70P \u00b7 metallicasmc",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-10-28 - Chicago, IL - House of Blues (Sony ECM-DS70P) (metallicasmc) [AUD].txt"
@@ -454,7 +454,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
-      "notes": "DPA 4061 · dunebug81",
+      "notes": "DPA 4061 \u00b7 dunebug81",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-12-31 - Orlando, FL - House of Blues (DPA 4061) (dunebug81) [AUD].txt"
@@ -468,7 +468,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Panama City Beach, FL",
       "venue": "Club La Vela",
-      "notes": "Edirol R-09 · kevdogg",
+      "notes": "Edirol R-09 \u00b7 kevdogg",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-04-12 - Panama City Beach, FL - Club La Vela (Edirol R-09) (kevdogg) [AUD].txt"
@@ -482,7 +482,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
-      "notes": "Zoom H2 · warciple",
+      "notes": "Zoom H2 \u00b7 warciple",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-10-02 - Cleveland, OH - House of Blues (Zoom H2) (warciple) [AUD].txt"
@@ -496,7 +496,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Lancaster, PA",
       "venue": "Chameleon Club",
-      "notes": "Microtrack 2 · madmanpsu",
+      "notes": "Microtrack 2 \u00b7 madmanpsu",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-10-05 - Lancaster, PA - Chameleon Club (Microtrack 2) (madmanpsu) [AUD].txt"
@@ -510,7 +510,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Jacksonville, FL",
       "venue": "Freebird Live",
-      "notes": "Sony ECM-717 · kevdogg",
+      "notes": "Sony ECM-717 \u00b7 kevdogg",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-10-17 - Jacksonville, FL - Freebird Live (Sony ECM-717) (kevdogg) [AUD].txt"
@@ -524,7 +524,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Scranton, PA",
       "venue": "Scranton Cultural Center",
-      "notes": "Edirol R-09 · tikimaize",
+      "notes": "Edirol R-09 \u00b7 tikimaize",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-02-28 - Scranton, PA - Scranton Cultural Center (Edirol R-09) (tikimaize) [AUD].txt"
@@ -538,7 +538,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Maplewood, MN",
       "venue": "Myth Nightclub",
-      "notes": "WM-61s · kingjman",
+      "notes": "WM-61s \u00b7 kingjman",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-03-22 - Maplewood, MN - Myth Nightclub (WM-61s) (kingjman) [AUD].txt"
@@ -552,7 +552,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Masquerade",
-      "notes": "MD(M) · DPA 4061s · dunebug81",
+      "notes": "MD(M) \u00b7 DPA 4061s \u00b7 dunebug81",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-09-19 - Atlanta, GA - The Masquerade - MD(M) (DPA 4061s) (dunebug81) [AUD].txt"
@@ -566,7 +566,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Masquerade",
-      "notes": "MD(M) · DPA 4061s · dunebug81",
+      "notes": "MD(M) \u00b7 DPA 4061s \u00b7 dunebug81",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-09-20 - Atlanta, GA - The Masquerade - MD(M) (DPA 4061s) (dunebug81) [AUD].txt"
@@ -580,7 +580,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Civic Coliseum",
-      "notes": "DPA 4061s · geordy",
+      "notes": "DPA 4061s \u00b7 geordy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-07-23 - Knoxville, TN - Civic Coliseum (DPA 4061s) (geordy) [AUD].txt"
@@ -594,7 +594,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Jacksonville, FL",
       "venue": "Brewster's Megaplex",
-      "notes": "Sony ECM-717 · kevdogg",
+      "notes": "Sony ECM-717 \u00b7 kevdogg",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-11-23 - Jacksonville, FL - Brewster's Megaplex (Sony ECM-717) (kevdogg) [AUD].txt"
@@ -608,7 +608,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "The Cuban Club",
-      "notes": "Sony ECM-717 · kevdogg",
+      "notes": "Sony ECM-717 \u00b7 kevdogg",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-11-24 - Tampa, FL - The Cuban Club (Sony ECM-717) (kevdogg) [AUD].txt"
@@ -622,7 +622,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "CapeCoral, FL",
       "venue": "Dixie Roadhouse",
-      "notes": "Sony ECM-717 · kevdogg",
+      "notes": "Sony ECM-717 \u00b7 kevdogg",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-11-26 - CapeCoral, FL - Dixie Roadhouse (Sony ECM-717) (kevdogg) [AUD].txt"
@@ -636,7 +636,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Fillmore",
-      "notes": "Shure MV88 · unk",
+      "notes": "Shure MV88 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-10-17 - Detroit, MI - The Fillmore (Shure MV88) (unk) [AUD24].txt"
@@ -650,7 +650,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Las Vegas Fairgrounds",
-      "notes": "iPhone · anonymous",
+      "notes": "iPhone \u00b7 anonymous",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-04-27 - Las Vegas, NV - Las Vegas Fairgrounds (iPhone) (anonymous) [AUD24].txt"
@@ -664,7 +664,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Sonic Temple Festival",
-      "notes": "Temple · Schoeps MK4 · jesse mc",
+      "notes": "Temple \u00b7 Schoeps MK4 \u00b7 jesse mc",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-05-08 - Columbus, OH - Sonic Temple Festival - Temple Stage (Schoeps MK4) (jesse mc) [AUD24].txt"
@@ -678,24 +678,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "AO Arena",
-      "notes": "Zoom H2n · allanm",
+      "notes": "Zoom H2n \u00b7 allanm",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-02-26 - Manchester, UK - AO Arena (Zoom H2n) (allanm) [AUD].txt"
-    }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Sevendust - Southside Double-Wide Acoustic Live {CD, TV-6050-2} (2004)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "2005-05-04 - Southside Double-Wide - Acoustic Live (2004) [DVD]",
-      "version": "Official Release",
-      "format": "DVD"
     }
   ]
 };

@@ -779,26 +779,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2014-02-16 - Seattle, WA - Triple Door (PUSAFest 2014) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "No Strings Attached (1995-12-17)",
-      "version": "Silver CD",
-      "format": "FLAC",
-      "textFile": "MISC - 1995-12-17 - No Strings Attached [Silver].txt"
-    },
-    {
-      "type": "label",
-      "label": "Various Demos, Etc.",
-      "format": "MP3"
-    },
-    {
-      "type": "release",
-      "label": "Froggystyle EP",
-      "version": "SBD",
-      "format": "FLAC",
-      "textFile": "MISC - PUSA - Froggystyle (EP).txt"
-    }
   ]
 };

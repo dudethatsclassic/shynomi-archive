@@ -1258,17 +1258,5 @@ const ARTIST_DATA = {
       "format": "MP4",
       "textFile": "2026-06-07 - Nu\u0308rburg, Germany - Rock Am Ring - Mandora Stage (magentamusik) (Livestream) [MP4].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "6-XX-1994 / Demos"
-    },
-    {
-      "type": "release",
-      "label": "Social Distortion - Modern Rock Live 1992",
-      "version": "FM",
-      "format": "MP3"
-    }
   ]
 };

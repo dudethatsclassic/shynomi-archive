@@ -73,7 +73,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "JC Dobbs",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -180,14 +180,6 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "WEB",
       "format": "M4A"
-    }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "1988 Shine On Demos",
-      "version": "Silver CD",
-      "format": "FLAC"
     }
   ]
 };

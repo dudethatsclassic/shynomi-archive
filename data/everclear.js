@@ -396,19 +396,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2025-10-27 - Cleveland, OH - House of Blues (SP-CMC-8) (live2cd) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Everclear - 3-9-2003 - Loveline",
-      "version": "FM",
-      "format": "MP3"
-    },
-    {
-      "type": "release",
-      "label": "Everclear - 7-16-2000 - Loveline",
-      "version": "FM",
-      "format": "MP3"
-    }
   ]
 };

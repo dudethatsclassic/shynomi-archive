@@ -66,7 +66,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Palace",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-01-21 - Hollywood, CA - The Palace (1st gen) (j. koehler) [AUD].txt"
@@ -94,7 +94,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York,  NY",
       "venue": "Roseland Ballroom",
-      "notes": "Olympus ME-1S · smores",
+      "notes": "Olympus ME-1S \u00b7 smores",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-08-11 - New York,  NY - Roseland Ballroom (Olympus ME-1S) (smores) [AUD].txt"
@@ -108,7 +108,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Fort Worth, TX",
       "venue": "Amon G. Carter Jr. Exhibits Hall",
-      "notes": "Sony ECM-155 · smores",
+      "notes": "Sony ECM-155 \u00b7 smores",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1994-02-23 - Fort Worth, TX - Amon G. Carter Jr. Exhibits Hall (Sony ECM-155) (smores) [AUD24].txt"
@@ -168,26 +168,6 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-07-23 - Sacramento, CA - Arco Arena (DJ MSTR) [AUD].txt"
-    }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "White Zombie - Astro-Junkies (1992-1995)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "White Zombie - Resurrection Day (Live 1992-1993)  (KTS 217)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "White Zombie - Kicking In Heaven's Door {KTS-516} (1996)",
-      "version": "Silver CD",
-      "format": "FLAC"
     }
   ]
 };

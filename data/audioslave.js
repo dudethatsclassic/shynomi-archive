@@ -1128,13 +1128,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2019-01-16 - Inglewood, CA - The Forum (AT831s) (tapeworm48) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Rage Against the Machine feat Chris Cornell \u2013 Civilian (The Demos) [Silver]",
-      "version": "Silver CD",
-      "format": "FLAC"
-    }
   ]
 };

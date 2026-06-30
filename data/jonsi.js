@@ -322,11 +322,5 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": ""
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "Compilations from May 2010"
-    }
   ]
 };

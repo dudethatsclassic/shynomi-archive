@@ -683,13 +683,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2025-12-14 - Uncasville, CT - Mohegan Sun Arena (SP-CMC-8c) (farve4) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Soul Asylum - The Lost Album (MO10004) (1993)",
-      "version": "Silver CD",
-      "format": "APE"
-    }
   ]
 };

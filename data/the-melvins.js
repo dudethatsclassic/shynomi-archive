@@ -32,7 +32,7 @@ const ARTIST_DATA = {
       "state": "Manitoba",
       "location": "Winnipeg, Manitoba, CA",
       "venue": "Wellington's",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -58,7 +58,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Olympia, WA",
       "venue": "G.E.S.C.C.O.",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -97,7 +97,7 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Foufounes Electriques",
-      "notes": "ANA(M) · Sony WM-D6 · unk",
+      "notes": "ANA(M) \u00b7 Sony WM-D6 \u00b7 unk",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -188,7 +188,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Vintage Vinyl",
-      "notes": "DAT(M) · CSB · jlizard",
+      "notes": "DAT(M) \u00b7 CSB \u00b7 jlizard",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -201,7 +201,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
-      "notes": "DAT(M) · CSB · jlizard",
+      "notes": "DAT(M) \u00b7 CSB \u00b7 jlizard",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -227,7 +227,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Showbox",
-      "notes": "DAT(M) · cps transfer",
+      "notes": "DAT(M) \u00b7 cps transfer",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -279,7 +279,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Ana, CA",
       "venue": "The Observatory",
-      "notes": "DSCM6 · unk",
+      "notes": "DSCM6 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -292,16 +292,8 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Westcott Theater",
-      "notes": "AKG CK63 · beatkilla",
+      "notes": "AKG CK63 \u00b7 beatkilla",
       "version": "AUD",
-      "format": "FLAC"
-    }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Melvins - Leech (1996) (EGG ONE)",
-      "version": "Silver CD",
       "format": "FLAC"
     }
   ]

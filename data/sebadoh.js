@@ -706,13 +706,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2014-09-22 - Kansas City, MO - Record Bar (SP-CMC-8) (sonictooth) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Sebadoh - BBC Sessions 1992-1995",
-      "version": "FM",
-      "format": "FLAC"
-    }
   ]
 };

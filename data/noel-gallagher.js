@@ -181,13 +181,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2023-06-03 - Ridgefield, WA - RV Inn Style Resorts Amphitheater (SP-CMC-9) (robgronotte) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Noel Gallagher - Another Supporting Nights (1998) White Label",
-      "version": "Silver CD",
-      "format": "FLAC"
-    }
   ]
 };

@@ -537,12 +537,5 @@ const ARTIST_DATA = {
       "format": "MIX 24",
       "textFile": "2025-11-22 - Tarrytown, NY - Tarrytown Music Hall (Instamic Pro Plus C) (km) [MIX24].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "The Jayhawks - Hollywood Town Hall Demos (1981-2024) (Remaster)",
-      "format": "FLAC"
-    }
   ]
 };

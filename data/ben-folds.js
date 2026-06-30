@@ -39,7 +39,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "MD",
-      "notes": "M · Sony ECM-717 · franger",
+      "notes": "M \u00b7 Sony ECM-717 \u00b7 franger",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-04-07 - Melbourne, Australia - MD(M) (Sony ECM-717) (franger) [AUD].txt"
@@ -67,7 +67,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
-      "notes": "Sony ECM-909 · unk",
+      "notes": "Sony ECM-909 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-11-13 - Nashville, TN - Ryman Auditorium (Sony ECM-909) (unk) [AUD].txt"
@@ -81,7 +81,7 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Pelham, AL",
       "venue": "Verizon Wireless Amphitheater",
-      "notes": "MC 930 · jeff hatcher & dennis tyler",
+      "notes": "MC 930 \u00b7 jeff hatcher & dennis tyler",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-08-04 - Pelham, AL - Verizon Wireless Amphitheater (MC 930) (jeff hatcher & dennis tyler) [AUD].txt"
@@ -109,7 +109,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Plenary Hall",
-      "notes": "Nokia Lumia 30 · eckythump",
+      "notes": "Nokia Lumia 30 \u00b7 eckythump",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-01-31 - Melbourne, Australia - Plenary Hall (Nokia Lumia 30) (eckythump) [AUD].txt"
@@ -137,7 +137,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Troy, NY",
       "venue": "Troy Savings Bank Music Hall",
-      "notes": "SP-CMC-8 · smores",
+      "notes": "SP-CMC-8 \u00b7 smores",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2021-10-17 - Troy, NY - Troy Savings Bank Music Hall (SP-CMC-8) (smores) [AUD24].txt"
@@ -151,7 +151,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Troy, NY",
       "venue": "Troy Savings Bank Music Hall",
-      "notes": "SP-CMC-8 · smores",
+      "notes": "SP-CMC-8 \u00b7 smores",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-09-30 - Troy, NY - Troy Savings Bank Music Hall (SP-CMC-8) (smores) [AUD24].txt"
@@ -165,7 +165,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Great Barrington, MA",
       "venue": "Mahaiwe PAC",
-      "notes": "SP-CMC-8 · smores",
+      "notes": "SP-CMC-8 \u00b7 smores",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-06-22 - Great Barrington, MA - Mahaiwe PAC (SP-CMC-8) (smores) [AUD24].txt"
@@ -179,7 +179,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "University at Buffalo Center for the Arts",
-      "notes": "iPhone 16 Pro · powerage5",
+      "notes": "iPhone 16 Pro \u00b7 powerage5",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-11-07 - Buffalo, NY - University at Buffalo Center for the Arts (iPhone 16 Pro) (powerage5) [AUD].txt"
@@ -193,7 +193,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga Springs, NY",
       "venue": "City Center",
-      "notes": "SP-CMC-8 · smores",
+      "notes": "SP-CMC-8 \u00b7 smores",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-12-31 - Saratoga Springs, NY - City Center (SP-CMC-8) (smores) [AUD24].txt"
@@ -207,7 +207,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Rochester, MN",
       "venue": "Mayo Civic Center",
-      "notes": "iPhone · unk",
+      "notes": "iPhone \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-05-07 - Rochester, MN - Mayo Civic Center (iPhone) (unk) [AUD24].txt"
@@ -221,68 +221,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga Springs, NY",
       "venue": "UPH",
-      "notes": "SP-CMC-8 · smores",
+      "notes": "SP-CMC-8 \u00b7 smores",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-12-20 - Saratoga Springs, NY- UPH (SP-CMC-8) (smores) [AUD24].txt"
-    }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "Ben Folds - 1990 Demos",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Ben Folds - 1990 Demos (Goody Remaster, v.2)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Ben Folds - Itunes Sessions",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Ben Folds - Rare",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Ben Folds - Vault 1",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Ben Folds - Vault 2 + Extra",
-      "format": "FLAC + MP4"
-    },
-    {
-      "type": "label",
-      "label": "Ben Folds - The Bens + Majosha '89",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Ben Folds - Way To Normal (Fake Leaked Version) + I Made It Up On Stage",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Ben Folds - So There",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Ben Folds - Sunny 16, Speed Graphic + Super D EPs",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Ben Folds - Live In Perth (2017)",
-      "version": "Official Release",
-      "format": "FLAC"
     }
   ]
 };

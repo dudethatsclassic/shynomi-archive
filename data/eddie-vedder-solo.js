@@ -70,7 +70,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Power Plant",
-      "notes": "Rehearsals · w The Doors",
+      "notes": "Rehearsals \u00b7 w The Doors",
       "version": "Silver CD",
       "format": "FLAC"
     },
@@ -83,7 +83,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Century Plaza Hotel",
-      "notes": "Rock-n-Roll · w The Doors",
+      "notes": "Rock-n-Roll \u00b7 w The Doors",
       "version": "Silver CD",
       "format": "FLAC"
     },
@@ -109,7 +109,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Carnegie Hall",
-      "notes": "DAT(M) · Sony ECM-929 · anonymous",
+      "notes": "DAT(M) \u00b7 Sony ECM-929 \u00b7 anonymous",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -122,7 +122,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Carnegie Hall",
-      "notes": "MD · squeeze box",
+      "notes": "MD \u00b7 squeeze box",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -161,7 +161,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Alpine Valley",
       "venue": "East Troy, WI",
-      "notes": "Tibetan · and C Average · 1 · Shure SM98 · unk",
+      "notes": "Tibetan \u00b7 and C Average \u00b7 1 \u00b7 Shure SM98 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -187,7 +187,7 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Naval Museum (Soundcheck and pre-show)",
-      "notes": "DAT(M) · Schoeps MK5 · blg transfer",
+      "notes": "DAT(M) \u00b7 Schoeps MK5 \u00b7 blg transfer",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -239,7 +239,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Wiltern Theatre",
-      "notes": "Concert · Sanken COS-11sBP",
+      "notes": "Concert \u00b7 Sanken COS-11sBP",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -252,7 +252,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Royce Hall",
-      "notes": "UCLA · Schoeps",
+      "notes": "UCLA \u00b7 Schoeps",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -304,7 +304,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox",
-      "notes": "DAT(M) · CSB",
+      "notes": "DAT(M) \u00b7 CSB",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -330,7 +330,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Wiltern Theatre",
-      "notes": "Tsunami · Sony ECM-907 · twreck",
+      "notes": "Tsunami \u00b7 Sony ECM-907 \u00b7 twreck",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -343,7 +343,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Jonesy's Jukebox",
-      "notes": "KDLE · Liquid Compass Webstream · nmc",
+      "notes": "KDLE \u00b7 Liquid Compass Webstream \u00b7 nmc",
       "version": "WEB",
       "format": "FLAC"
     },
@@ -356,7 +356,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Neumo's",
-      "notes": "Sharp MD-7222 · brian smith",
+      "notes": "Sharp MD-7222 \u00b7 brian smith",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -369,7 +369,7 @@ const ARTIST_DATA = {
       "state": "HI",
       "location": "Wai Ki Ki, HI",
       "venue": "Sirius Satellite Radio",
-      "notes": "DAT(M) · mam1680",
+      "notes": "DAT(M) \u00b7 mam1680",
       "version": "FM",
       "format": "FLAC"
     },
@@ -395,7 +395,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Fonda Theater",
-      "notes": "Hullabaloo Benefit Concert · unk",
+      "notes": "Hullabaloo Benefit Concert \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -408,7 +408,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Fonda Theater",
-      "notes": "Hullabaloo Benefit Concert · Webcast",
+      "notes": "Hullabaloo Benefit Concert \u00b7 Webcast",
       "version": "PRO",
       "format": "DVD"
     },
@@ -460,7 +460,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Zellerbach Auditorium",
-      "notes": "Schoeps CCm4 · calrust",
+      "notes": "Schoeps CCm4 \u00b7 calrust",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -681,7 +681,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theatre",
-      "notes": "AT853s · sullen",
+      "notes": "AT853s \u00b7 sullen",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -707,7 +707,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theater",
-      "notes": "AUD(M) · SP-EMC-1 · binny kane",
+      "notes": "AUD(M) \u00b7 SP-EMC-1 \u00b7 binny kane",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -720,7 +720,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Lyric Opera House",
-      "notes": "AUD(M) · B&K4022 · craig davis",
+      "notes": "AUD(M) \u00b7 B&K4022 \u00b7 craig davis",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -746,7 +746,7 @@ const ARTIST_DATA = {
       "state": "HI",
       "location": "Honolulu, HI",
       "venue": "Hawaii Theatre",
-      "notes": "DAT(M) · Schoeps CCM4 · anonymous",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4 \u00b7 anonymous",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -759,7 +759,7 @@ const ARTIST_DATA = {
       "state": "HI",
       "location": "Honolulu, HI",
       "venue": "Hawaii Theatre",
-      "notes": "DAT(M) · Schoeps CCM4 · anonymous",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4 \u00b7 anonymous",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -902,7 +902,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Adelaide, Australia",
       "venue": "Thebarton Theatre",
-      "notes": "unk · Mono",
+      "notes": "unk \u00b7 Mono",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -915,7 +915,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Adelaide, Australia",
       "venue": "Thebarton Theatre",
-      "notes": "unk · Mono",
+      "notes": "unk \u00b7 Mono",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -954,7 +954,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Bushnell Memorial",
-      "notes": "Mortensen · CA-11 · sean moran",
+      "notes": "Mortensen \u00b7 CA-11 \u00b7 sean moran",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -980,7 +980,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Fox Theatre",
-      "notes": "AT853s · richard simms",
+      "notes": "AT853s \u00b7 richard simms",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -993,7 +993,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theatre",
-      "notes": "DPA 4023 · bluntforcetrauma",
+      "notes": "DPA 4023 \u00b7 bluntforcetrauma",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1019,7 +1019,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Copley Symphony Hall",
-      "notes": "Schoeps CCM4s · unk",
+      "notes": "Schoeps CCM4s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1032,7 +1032,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Long Beach, CA",
       "venue": "Terrace Theatre",
-      "notes": "Schoeps CCM4s · unk",
+      "notes": "Schoeps CCM4s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1045,7 +1045,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Wiltern",
-      "notes": "Schoeps CCM4s · unk",
+      "notes": "Schoeps CCM4s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1058,7 +1058,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Barbara, CA",
       "venue": "Santa Barbara Bowl",
-      "notes": "Schoeps CCM4s · unk",
+      "notes": "Schoeps CCM4s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1084,7 +1084,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Paramount Theatre",
-      "notes": "Schoeps CCM4s · unk",
+      "notes": "Schoeps CCM4s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1097,7 +1097,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Paramount Theatre",
-      "notes": "Schoeps CCM4s · unk",
+      "notes": "Schoeps CCM4s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1123,7 +1123,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Arlene Schnitzer Concert Hall",
-      "notes": "Schoeps CCM4s · unk",
+      "notes": "Schoeps CCM4s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1136,7 +1136,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Benaroya Hall",
-      "notes": "Schoeps CCM4s · unk",
+      "notes": "Schoeps CCM4s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1149,7 +1149,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Benaroya Hall",
-      "notes": "Schoeps CCM4s · unk",
+      "notes": "Schoeps CCM4s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1162,7 +1162,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "Bridge · unk",
+      "notes": "Bridge \u00b7 unk",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -1175,7 +1175,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "Bridge · MK4 · daspyknows",
+      "notes": "Bridge \u00b7 MK4 \u00b7 daspyknows",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1188,7 +1188,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "Bridge · PRO",
+      "notes": "Bridge \u00b7 PRO",
       "version": "Webcast",
       "format": "DVD"
     },
@@ -1201,7 +1201,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "Bridge · Sony ECM-121",
+      "notes": "Bridge \u00b7 Sony ECM-121",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1227,7 +1227,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "The Pearl Theater",
-      "notes": "DAT(M) · Schoeps CCM4s",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4s",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1240,7 +1240,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "The Pearl Theater",
-      "notes": "DAT(M) · Schoeps CCM4s",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4s",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1266,7 +1266,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Comerica Theatre",
-      "notes": "DAT(M) · Schoeps CCM4s",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4s",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1279,7 +1279,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Bass Concert Hall",
-      "notes": "DAT(M) · Schoeps CCM4s",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4s",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1292,7 +1292,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Bass Concert Hall",
-      "notes": "DAT(M) · Schoeps CCM4s",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4s",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1305,7 +1305,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Jones Hall",
-      "notes": "DAT(M) · Schoeps CCM4s",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4s",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1318,7 +1318,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Jones Hall",
-      "notes": "DAT(M) · Schoeps CCM4s",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4s",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1435,7 +1435,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Ft. Lauderdale, FL",
       "venue": "Broward Performing Arts Center",
-      "notes": "DAT(M) · Schoeps CCM4s",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4s",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1448,7 +1448,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Ft. Lauderdale, FL",
       "venue": "Broward Performing Arts Center",
-      "notes": "DAT(M) · Schoeps CCM4s",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4s",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1461,7 +1461,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Clearwater, FL",
       "venue": "Ruth Eckerd Hall",
-      "notes": "DAT(M) · Schoeps CCM4s",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4s",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1474,7 +1474,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Clearwater, FL",
       "venue": "Ruth Eckerd Hall",
-      "notes": "DAT(M) · Schoeps CCM4s",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4s",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1539,7 +1539,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Manhattan, NY",
       "venue": "Ed Sullivan Theater",
-      "notes": "Late · 2ch",
+      "notes": "Late \u00b7 2ch",
       "version": "TV",
       "format": "FLAC"
     },
@@ -1552,7 +1552,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Manhattan, NY",
       "venue": "Ed Sullivan Theater",
-      "notes": "Late · 6ch",
+      "notes": "Late \u00b7 6ch",
       "version": "TV",
       "format": "FLAC"
     },
@@ -1565,7 +1565,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
-      "notes": "Schoeps MK4s · tapeworm48",
+      "notes": "Schoeps MK4s \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1643,7 +1643,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Dana Point, CA",
       "venue": "Doheny State Beach",
-      "notes": "Ohana · iPhone 6 · v.u.",
+      "notes": "Ohana \u00b7 iPhone 6 \u00b7 v.u.",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1864,7 +1864,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "notes": "iPhone 13 Pro · unk · inc · Source 1",
+      "notes": "iPhone 13 Pro \u00b7 unk \u00b7 inc \u00b7 Source 1",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1877,7 +1877,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "notes": "iPhone 13 Pro · unk · inc · Source 2",
+      "notes": "iPhone 13 Pro \u00b7 unk \u00b7 inc \u00b7 Source 2",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1890,7 +1890,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theater",
-      "notes": "iPhone 13 Pro · unk",
+      "notes": "iPhone 13 Pro \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1916,7 +1916,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Newark, NJ",
       "venue": "NJ Performing Arts Center",
-      "notes": "Sony ECM-719 · unk",
+      "notes": "Sony ECM-719 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -2007,7 +2007,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Dolby Live at the Park MFM",
-      "notes": "CA-11 · opsopcopolis",
+      "notes": "CA-11 \u00b7 opsopcopolis",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -2020,7 +2020,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Dana Point, CA",
       "venue": "Doheny St. Park",
-      "notes": "Ohana · Roland R07 · unk",
+      "notes": "Ohana \u00b7 Roland R07 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -2046,69 +2046,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Dana Point, CA",
       "venue": "Ohana Festival",
-      "notes": "AT-CMC-2 · unk",
+      "notes": "AT-CMC-2 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
-    }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "1992-2006 - Innocent Bystander - STU (Anthology) 3CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Eddie Vedder - On KROQ! - Early 1994 (schizo)",
-      "version": "FM",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Eddie Vedder - Innocent Bystander",
-      "format": "DVD"
-    },
-    {
-      "type": "label",
-      "label": "Eddie Vedder - Music Videos (2001-2011)",
-      "format": "VOB"
-    },
-    {
-      "type": "label",
-      "label": "Eddie Vedder - Australia 2011 (4CD)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Eddie Vedder - B-Sides & Rarities (7CD)",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Eddie Vedder - Dreams In Color - The San Diego Years (1986-1990) V1.1",
-      "version": "Compilation",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Eddie Vedder - Water On the Road (2011)",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Eddie Vedder - Earthling Expansion - The Rock Cuts (2022)",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Eddie Vedder - The Lockdown Sessions (2023)",
-      "version": "Compilation",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Matter Of Time - Documentary (2025)",
-      "format": "MKV"
     }
   ]
 };

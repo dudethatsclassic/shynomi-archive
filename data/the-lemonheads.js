@@ -765,13 +765,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2025-09-04 - Copenhagen, Denmark - Loppen (DPA 4061) (tw) [AUD24].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "The Lemonheads - Sony Music TV Special - VHS(2) (1994)",
-      "version": "TV",
-      "format": "MPG"
-    }
   ]
 };

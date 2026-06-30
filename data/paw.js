@@ -51,12 +51,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1995-11-25 - Brisbane, Australia - Livid Festival (Triple J Live at the Wireless Broadcast) [FM].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "Paw - Death To Traitors Demos (1994)",
-      "format": "FLAC"
-    }
   ]
 };

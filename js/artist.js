@@ -118,6 +118,11 @@ function renderMiscSection(miscItems) {
 function render() {
   const d = ARTIST_DATA;
 
+  // Merge misc data from separate file (survives Apps Script re-exports)
+  if (typeof ARTIST_MISC_DATA !== 'undefined' && ARTIST_MISC_DATA) {
+    d.misc = ARTIST_MISC_DATA;
+  }
+
   // Merge official dates from separate file (survives Apps Script re-exports)
   if (typeof ARTIST_OFFICIAL_DATES !== 'undefined' && ARTIST_OFFICIAL_DATES) {
     const officialSet = new Set(ARTIST_OFFICIAL_DATES);

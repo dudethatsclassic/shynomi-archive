@@ -23,13 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1994-06-18 - Chicago, IL - Double Door (NSPAA) - ANA(M) (Realistic) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Starchildren & Catherine - Delusions Of Candor (Flight Of The Eagle) - Chante Des Chansons Sur Les Filles! (Songs About Girls) (Single)",
-      "version": "Official",
-      "format": "FLAC"
-    }
   ]
 };

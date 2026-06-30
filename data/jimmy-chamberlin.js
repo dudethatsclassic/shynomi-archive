@@ -235,22 +235,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2024-03-12 - Los Angeles, CA - El Rey (DPA 4063) (dabbler) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "The Art of Drumming with Jimmy Chamberlin",
-      "format": "FLV"
-    },
-    {
-      "type": "label",
-      "label": "The Last Hard Men (1997) [MP3]",
-      "format": "MP3"
-    },
-    {
-      "type": "label",
-      "label": "The Last Hard Men (2001 Re-issue Pressing)",
-      "format": "WAV"
-    }
   ]
 };

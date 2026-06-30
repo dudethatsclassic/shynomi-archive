@@ -980,13 +980,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2024-10-29 - Melbourne, Australia - Sidney Myer Music Bowl (Zoom H1n) (choc_eclaire) [AUD24].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Eraser DVD",
-      "version": "Compilation",
-      "format": "DVD"
-    }
   ]
 };

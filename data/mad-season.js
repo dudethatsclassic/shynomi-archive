@@ -58,7 +58,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Crocodile Cafe",
-      "notes": "CASS(M) · Aiwa",
+      "notes": "CASS(M) \u00b7 Aiwa",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -100,13 +100,6 @@ const ARTIST_DATA = {
       "notes": "darkgrin master",
       "version": "PRO",
       "format": "DVD"
-    }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "Sonic Evolution with Mad Season - Seattle Symphony",
-      "format": "MP4"
     }
   ]
 };

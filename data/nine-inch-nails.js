@@ -13842,23 +13842,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "nin2025-06-20.mk41v.stl.0.flac2448.txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "1990/1991 - Killer Instinct (Teddy Bear Records)",
-      "version": "Silver CD"
-    },
-    {
-      "type": "label",
-      "label": "Pretty Hate Machine Demos (Remastered)",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "NIN - Live, Beside You In Time (2006)",
-      "version": "DVD",
-      "format": "DVD"
-    }
   ]
 };

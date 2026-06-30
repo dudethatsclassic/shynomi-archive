@@ -6,12 +6,5 @@ const ARTIST_DATA = {
   "firstYear": null,
   "lastYear": null,
   "years": [],
-  "shows": [],
-  "misc": [
-    {
-      "type": "label",
-      "label": "For Squirrels - Milk From A Fountain [Silver]",
-      "format": "FLAC"
-    }
-  ]
+  "shows": []
 };

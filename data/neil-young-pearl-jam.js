@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "The Rock and Roll Hall of Fame",
-      "notes": "MTV Rebroadcast · datfly",
+      "notes": "MTV Rebroadcast \u00b7 datfly",
       "version": "TV",
       "format": "FLAC"
     },
@@ -31,7 +31,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park",
-      "notes": "Polo · 2 source mix",
+      "notes": "Polo \u00b7 2 source mix",
       "version": "MIX",
       "format": "FLAC"
     },
@@ -57,7 +57,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Dyrskuepladesen",
-      "notes": "Heyday · DAT",
+      "notes": "Heyday \u00b7 DAT",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -70,7 +70,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Dyrskuepladesen",
-      "notes": "Heyday · Sony TCD-D7 · hanwaker remaster",
+      "notes": "Heyday \u00b7 Sony TCD-D7 \u00b7 hanwaker remaster",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -83,7 +83,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Waldbuehne",
-      "notes": "DAT(1) · OKM",
+      "notes": "DAT(1) \u00b7 OKM",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -96,7 +96,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Waldbuehne",
-      "notes": "unk · 2nd gen",
+      "notes": "unk \u00b7 2nd gen",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -122,7 +122,7 @@ const ARTIST_DATA = {
       "state": "Czech Republic",
       "location": "Praugue, Czech Republic",
       "venue": "Czechoslavakia Sports Palace",
-      "notes": "ANA(M) · Sony WMD6 · zuma66 · remaster",
+      "notes": "ANA(M) \u00b7 Sony WMD6 \u00b7 zuma66 \u00b7 remaster",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -161,7 +161,7 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Salzburg, Austria",
       "venue": "Residenzplatz",
-      "notes": "DAT(M) · steve hagar",
+      "notes": "DAT(M) \u00b7 steve hagar",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -187,7 +187,7 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Gampel, Switzerland",
       "venue": "Festivalgelande",
-      "notes": "DAT(M) · steve hagar",
+      "notes": "DAT(M) \u00b7 steve hagar",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -213,7 +213,7 @@ const ARTIST_DATA = {
       "state": "Israel",
       "location": "Jerusalem, Israel",
       "venue": "Sultan's Pool",
-      "notes": "DAT(M) · unk",
+      "notes": "DAT(M) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -239,7 +239,7 @@ const ARTIST_DATA = {
       "state": "Israel",
       "location": "Ceasarea, Israel",
       "venue": "The Royal Amphitheatre",
-      "notes": "DAT(M) · steve hagar",
+      "notes": "DAT(M) \u00b7 steve hagar",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -265,7 +265,7 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Hasselt, Belgium",
       "venue": "Pucklepop Festival",
-      "notes": "DAT(M) · unk",
+      "notes": "DAT(M) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -278,7 +278,7 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Hasselt, Belgium",
       "venue": "Pucklepop Festival",
-      "notes": "DAT(M) · steve hagar",
+      "notes": "DAT(M) \u00b7 steve hagar",
       "version": "AUD",
       "format": "DVD"
     },
@@ -319,19 +319,6 @@ const ARTIST_DATA = {
       "venue": "Reading Festival",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
-    }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "The European Concerts (3CD)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Mirror Ball Tour Compilation (a.v.)",
       "format": "FLAC"
     }
   ]

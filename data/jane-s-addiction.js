@@ -3888,21 +3888,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2024-09-03 - Raleigh, NC - Red Hat Amphitheater (Sennheiser EK2000) (inc) [IEM].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Jane's Addiction - Skin And Bones (YTH-081)",
-      "version": "Silver CD",
-      "format": "FLAC",
-      "textFile": "MISC - Jane's Addiction - Skin And Bones (YTH-081) [Silver].txt"
-    },
-    {
-      "type": "release",
-      "label": "Jane's Addiction - Nothing's Shocking (1988) (24:192)",
-      "year": 1988,
-      "format": "FLAC HD",
-      "category": "OFFICIAL RELEASES"
-    }
   ]
 };

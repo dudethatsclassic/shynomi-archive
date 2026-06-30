@@ -52,13 +52,5 @@ const ARTIST_DATA = {
       "format": "M4A",
       "textFile": "1999-08-27 - Caversham, UK - Reading Festival (pawel) [FM].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Elastica - 1994-XX-XX - Angels With Dirty Faces",
-      "version": "Silver CD",
-      "format": "FLAC"
-    }
   ]
 };

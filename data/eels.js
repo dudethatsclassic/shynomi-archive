@@ -768,13 +768,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2023-04-11 - Luxembourg, Luxembourg - Den Atelier (CSB) (unk) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Useless Trinkets - B-sides, Soundtracks, Rarities and Unreleased (1999-2006)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    }
   ]
 };

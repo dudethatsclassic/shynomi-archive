@@ -1322,30 +1322,5 @@ const ARTIST_DATA = {
       "format": "MP4",
       "textFile": "2026-06-05 - Nu\u0308rburg, Germany - Rock Am Ring - Utopia Stage (unk) [MP4].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Bush - Zen and the Art of Noise Maintenance (BSCD-001)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Gavin's Birthday Party",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Bush - Live in Tampa (2020)",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Bush - Westwood One In The Zone Show #00-03",
-      "version": "preFM",
-      "format": "FLAC"
-    }
   ]
 };

@@ -532,13 +532,5 @@ const ARTIST_DATA = {
       "format": "MKV",
       "textFile": "2024-08-25 - Reading, UK - Reading Festival highlights (1080i) [MKV].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Liam Gallagher - Why Ritz Why Not (Golden Eggs 121)",
-      "version": "FM",
-      "format": "Silver CD"
-    }
   ]
 };

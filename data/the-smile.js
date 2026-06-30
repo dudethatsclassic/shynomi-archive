@@ -474,13 +474,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2024-06-23 - Rome, Italy - Auditorium Parco della Musica Ennio Morricone (Shure MV88) (flatline) [AUD24].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "The Smile - Goodie Bag",
-      "version": "JPGS",
-      "format": "MP4"
-    }
   ]
 };

@@ -349,18 +349,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1998-09-12 - Los Angeles, CA - The Roxy - DAT(M) (Sony ECM-737) (tapegeek) [AUD].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "Screaming Trees - 1985-1988 Demos (Cassette)",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Screaming Trees - 10 Tons of Fun (KTS180)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    }
   ]
 };

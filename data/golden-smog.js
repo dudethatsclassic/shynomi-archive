@@ -237,11 +237,5 @@ const ARTIST_DATA = {
       "format": "",
       "textFile": "2006-09-19 - Chicago, IL - Vic Theatre [FM].txt"
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "Golden Smog - 1996-1998 - Various Promotional Appearances [SBD]"
-    }
   ]
 };

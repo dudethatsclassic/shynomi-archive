@@ -256,17 +256,5 @@ const ARTIST_DATA = {
       "format": "MP4",
       "notes": ""
     }
-  ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "Black Sabbath - Dehumanizer Rehearsals 1991-1992",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Black Sabbath - Earth Studio Sessions",
-      "format": "FLAC"
-    }
   ]
 };
