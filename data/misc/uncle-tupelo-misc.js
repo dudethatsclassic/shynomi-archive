@@ -1,11 +1,14 @@
 const ARTIST_MISC_DATA = [
   {
-    "type": "label",
-    "label": "Uncle Tupelo - Rare Essence (Various Dates)"
+    "type": "release",
+    "label": "Uncle Tupelo - Rare Essence (Various Dates)",
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Uncle Tupelo - Cover Story (1989-1993)",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "year": 1989,
+    "category": "OTHER"
   }
 ];
