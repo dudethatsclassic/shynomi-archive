@@ -531,7 +531,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Nachtwork",
-      "notes": "andreas \u00b7 with interview",
+      "notes": "andreas · with interview",
       "version": "FM",
       "format": ""
     },
@@ -544,7 +544,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Nachtwork",
-      "notes": "andreas \u00b7 mr. pember upgrade",
+      "notes": "andreas · mr. pember upgrade",
       "version": "SBD",
       "format": ""
     },
@@ -570,7 +570,7 @@ const ARTIST_DATA = {
       "state": "Holland",
       "location": "Amsterdam, Holland",
       "venue": "Melkweg",
-      "notes": "ANA(1) \u00b7 unk",
+      "notes": "ANA(1) · unk",
       "version": "SBD",
       "format": ""
     },
@@ -713,7 +713,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Kafe Rust",
-      "notes": "Aiwa mics \u00b7 andreas",
+      "notes": "Aiwa mics · andreas",
       "version": "AUD",
       "format": ""
     },
@@ -778,7 +778,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "notes": "ANA(M) \u00b7 ECM-909 \u00b7 tjcruz",
+      "notes": "ANA(M) · ECM-909 · tjcruz",
       "version": "AUD",
       "format": ""
     },
@@ -895,7 +895,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Normal, IL",
       "venue": "The Quad",
-      "notes": "ANA(1) \u00b7 unk",
+      "notes": "ANA(1) · unk",
       "version": "SBD",
       "format": ""
     },
@@ -921,7 +921,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "The Blue Note",
-      "notes": "DAT(M) \u00b7 CSB \u00b7 mrpember \u00b7 remaster",
+      "notes": "DAT(M) · CSB · mrpember · remaster",
       "version": "AUD",
       "format": ""
     },
@@ -986,7 +986,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Night",
-      "notes": "new sbd-aud mix \u00b7 mrpember",
+      "notes": "new sbd-aud mix · mrpember",
       "version": "MTX",
       "format": ""
     },
@@ -1012,7 +1012,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
-      "notes": "new sbd-aud mix \u00b7 mrpember",
+      "notes": "new sbd-aud mix · mrpember",
       "version": "MTX",
       "format": ""
     }
