@@ -58,6 +58,13 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
+    "label": "Alanis Morissette - Under Rug Swept {9 47988-2} (2001)",
+    "format": "FLAC",
+    "year": 2001,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
     "label": "Alanis Morissette - So-Called Chaos (2004, Maverick, 9362-48555, EU) (2004)",
     "format": "FLAC",
     "year": 2004,
