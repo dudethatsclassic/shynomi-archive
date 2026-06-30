@@ -183,5 +183,12 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 1995,
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Alanis Morissette - You Oughta Know {Maverick - 9362435582} (1995)",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SINGLES"
   }
 ];
