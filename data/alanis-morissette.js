@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "alanis-morissette",
   "name": "Alanis Morissette",
   "drive": "C",
-  "showCount": 71,
+  "showCount": 69,
   "firstYear": 1995,
   "lastYear": 2025,
   "years": [
@@ -29,19 +29,6 @@ const ARTIST_DATA = {
     2025
   ],
   "shows": [
-    {
-      "year": 1995,
-      "month": null,
-      "day": null,
-      "dateStr": "XX-XX-1995",
-      "city": "*Hard to Swallow (KTS 515)",
-      "state": "",
-      "location": "*Hard to Swallow (KTS 515)",
-      "venue": "",
-      "notes": "",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
     {
       "year": 1995,
       "month": 7,
@@ -142,19 +129,6 @@ const ARTIST_DATA = {
     },
     {
       "year": 1996,
-      "month": null,
-      "day": null,
-      "dateStr": "XX-XX-1996",
-      "city": "*You Can Kiss It (KTS 591)",
-      "state": "",
-      "location": "*You Can Kiss It (KTS 591)",
-      "venue": "",
-      "notes": "",
-      "version": "Silver CD",
-      "format": "SHN"
-    },
-    {
-      "year": 1996,
       "month": 1,
       "day": 4,
       "dateStr": "1-4-1996",
@@ -204,7 +178,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Troy, NY",
       "venue": "RPI Fieldhouse",
-      "notes": "Aiwa Walkman w/ clip on mic \u00b7 firemt",
+      "notes": "Aiwa Walkman w/ clip on mic · firemt",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-02-13 - Troy, NY - RPI Fieldhouse [AUD].txt"
@@ -287,7 +261,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Vienne, France",
       "venue": "Vienne Antique",
-      "notes": "ANA(M) \u00b7 Sony TCS 430 \u00b7 zuma 66",
+      "notes": "ANA(M) · Sony TCS 430 · zuma 66",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-07-16 - Vienne, France - Vienne Antique - ANA(M) (Sony TCS 430) (zuma 66) [AUD].txt"
@@ -301,7 +275,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Wantagh, NY",
       "venue": "Jones Beach",
-      "notes": "ANA(M) \u00b7 Sony WM-D3 \u00b7 ken g.",
+      "notes": "ANA(M) · Sony WM-D3 · ken g.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-08-17 - Wantagh, NY - Jones Beach - ANA(M) (Sony WM-D3) (ken g.) [AUD].txt"
@@ -315,7 +289,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Meadows Music Center",
-      "notes": "Aiwa Walkman w/ clip on mic \u00b7 firemt",
+      "notes": "Aiwa Walkman w/ clip on mic · firemt",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-08-20 - Hartford, CT - Meadows Music Center [AUD].txt"
@@ -369,7 +343,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Palladium",
-      "notes": "ANA(M) \u00b7 unk",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-10-14 - Hollywood, CA - Hollywood Palladium - CASS(M) [AUD].txt"
@@ -383,7 +357,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Avalon",
-      "notes": "Aiwa Walkman w/ clip on mic \u00b7 unk",
+      "notes": "Aiwa Walkman w/ clip on mic · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-10-21 - Boston, MA - Avalon [AUD].txt"
@@ -535,7 +509,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Belfort, France",
       "venue": "Base du Malsaucy",
-      "notes": "Festival \u00b7 Master Philips DCC \u00b7 jl",
+      "notes": "Festival · Master Philips DCC · jl",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2000-07-07 - Belfort, France - Base du Malsaucy - Festival des Eurockeennes (Master Philips DCC) (jl) [AUD].txt"
@@ -546,9 +520,9 @@ const ARTIST_DATA = {
       "day": 1,
       "dateStr": "6-1-2001",
       "city": "Nurburgring",
-      "state": "Germany - Rock am Ring",
-      "location": "Nurburgring, Germany - Rock am Ring",
-      "venue": "",
+      "state": "Germany",
+      "location": "Nurburgring, Germany",
+      "venue": "Rock am Ring",
       "notes": "",
       "version": "SBD",
       "format": "FLAC"
@@ -562,7 +536,7 @@ const ARTIST_DATA = {
       "state": "Belgique",
       "location": "Ancienne, Belgique",
       "venue": "Bruxelles",
-      "notes": "MD(x) \u00b7 unk",
+      "notes": "MD(x) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-06-06 - Ancienne Belgique - Bruxelles (MD) [AUD].txt"
@@ -604,7 +578,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Magness Arena",
-      "notes": "AT853s \u00b7 ken mininger",
+      "notes": "AT853s · ken mininger",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-05-11 - Denver, CO - Magness Arena [AUD].txt"
@@ -618,7 +592,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Wallingford, CT",
       "venue": "Oakdale Theatre",
-      "notes": "ECM 717 \u00b7 firemt",
+      "notes": "ECM 717 · firemt",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-06-04 - Wallingford, CT - Oakdale Theatre [AUD].txt"
@@ -632,7 +606,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park",
-      "notes": "Speedway \u00b7 Squid Omnis \u00b7 unk",
+      "notes": "Speedway · Squid Omnis · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-04-20 - San Francisco, CA - Golden Gate Park [AUD].txt"
@@ -646,7 +620,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Nice, France",
       "venue": "Palais Nikaia",
-      "notes": "MD(M) \u00b7 Sony MZ-7107 \u00b7 jmc",
+      "notes": "MD(M) · Sony MZ-7107 · jmc",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-06-27 - Nice, France - Palais Nikaia - MD(M) (Sony MZ-7107) (jmc) [AUD].txt"
@@ -660,7 +634,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "MK4s \u00b7 some puerto rican guy",
+      "notes": "MK4s · some puerto rican guy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-07-28 - Mountainview, CA - Shoreline Amphitheater [AUD].txt"
@@ -688,7 +662,7 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Rotterdam, The Netherlands",
       "venue": "Sportpaleis Ahoy",
-      "notes": "SP-CMC-2 \u00b7 unk",
+      "notes": "SP-CMC-2 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-04-19 - Rotterdam, The Netherlands - Sportpaleis Ahoy (SP-CMC-2) (unk) [AUD].txt"
@@ -702,7 +676,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Pepsi Arena",
-      "notes": "DAT(M) \u00b7 Sony D8 \u00b7 bakerstuff \u00b7 krw_co transfer",
+      "notes": "DAT(M) · Sony D8 · bakerstuff · krw_co transfer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-09-17 - Albany, NY - Pepsi Arena [AUD].txt"
@@ -757,7 +731,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Dodge Theater",
-      "notes": "DPA 4061s \u00b7 desertsky",
+      "notes": "DPA 4061s · desertsky",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-11-11 - Phoenix, AZ - Dodge Theater (DPA 4061s) (desertsky) [AUD].txt"
@@ -795,14 +769,14 @@ const ARTIST_DATA = {
       "month": 11,
       "day": 19,
       "dateStr": "11-19-2012",
-      "city": "Du\u0308sseldorf",
+      "city": "Düsseldorf",
       "state": "Germany",
-      "location": "Du\u0308sseldorf, Germany",
+      "location": "Düsseldorf, Germany",
       "venue": "Mitsubishi Electric Halle",
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2012-11-19 - Du\u0308sseldorf, Germany - Mitsubishi Electric Halle [FM].txt"
+      "textFile": "2012-11-19 - Düsseldorf, Germany - Mitsubishi Electric Halle [FM].txt"
     },
     {
       "year": 2012,
@@ -813,7 +787,7 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Tilburg, The Netherlands",
       "venue": "013",
-      "notes": "CA-11 \u00b7 unk",
+      "notes": "CA-11 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-11-21 - Tilburg, The Netherlands - 013 [AUD].txt"
@@ -827,7 +801,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Niagara Falls, NY",
       "venue": "Seneca Niagara Casino",
-      "notes": "Intimate \u00b7 AT831 \u00b7 binko",
+      "notes": "Intimate · AT831 · binko",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-10-04 - Niagara Falls, NY - Seneca Niagara Casino - Intimate and Acoustic [AUD].txt"
@@ -841,7 +815,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Uncasville, CT",
       "venue": "Arena @ Mohegan Sun Casino",
-      "notes": "ME-104s \u00b7 ringfedder",
+      "notes": "ME-104s · ringfedder",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-10-20 - Uncasville, CT - Arena @ Mohegan Sun Casino [AUD].txt"
@@ -855,7 +829,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Mashantucket, CT",
       "venue": "Grand Theater at Foxwoods",
-      "notes": "ME-104s \u00b7 ringfedder",
+      "notes": "ME-104s · ringfedder",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-12-07 - Mashantucket, CT - Grand Theater at Foxwoods [AUD].txt"
@@ -868,11 +842,11 @@ const ARTIST_DATA = {
       "city": "Amsterdam",
       "state": "Netherlands",
       "location": "Amsterdam, Netherlands",
-      "venue": "Koninklijk Theater Carre\u0301",
-      "notes": "CA-14 \u00b7 unk",
+      "venue": "Koninklijk Theater Carré",
+      "notes": "CA-14 · unk",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2020-02-24 - Amsterdam, Netherlands - Koninklijk Theater Carre\u0301 (CA-14) [AUD24].txt"
+      "textFile": "2020-02-24 - Amsterdam, Netherlands - Koninklijk Theater Carré (CA-14) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -883,7 +857,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Xfinity Center",
-      "notes": "SP-CMC-8C \u00b7 farve4 master",
+      "notes": "SP-CMC-8C · farve4 master",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-09-04  - Mansfield, MA - Xfinity Center (SP-CMC-8C) (farve4 master) [AUD].txt"
@@ -897,7 +871,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Riverbend Music Center",
-      "notes": "CA-14 \u00b7 charles dewey cole",
+      "notes": "CA-14 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-09-15 - Cincinnati, OH - Riverbend Music Center (CA-14) (charles dewey cole) [AUD].txt"
@@ -911,7 +885,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "AO Arena",
-      "notes": "Zoom AM7 \u00b7 kieron",
+      "notes": "Zoom AM7 · kieron",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-06-30 - Manchester, UK - AO Arena (Zoom AM7) (kieron) [AUD24].txt"
@@ -925,7 +899,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Ottawa, ON",
       "venue": "RBC Bluesfest",
-      "notes": "iPhone 11 \u00b7 palm0014",
+      "notes": "iPhone 11 · palm0014",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-07-10 - Ottawa, ON - RBC Bluesfest (iPhone 11) (palm0014) [AUD].txt"
@@ -939,7 +913,7 @@ const ARTIST_DATA = {
       "state": "AB",
       "location": "Edmonton, AB",
       "venue": "Rogers Place",
-      "notes": "MS-BMC-3 \u00b7 inu-liger",
+      "notes": "MS-BMC-3 · inu-liger",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-07-28 - Edmonton, AB - Rogers Place (MS-BMC-3) (inu-liger) [AUD].txt"
@@ -953,7 +927,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "SP-CMC-4U \u00b7 loughney",
+      "notes": "SP-CMC-4U · loughney",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-08-06 - Mountain View, CA - Shoreline Amphitheatre (SP-CMC-4U) (loughney) {AUD].txt"
@@ -967,7 +941,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shorline Amphitheater",
-      "notes": "Schoeps MK4 \u00b7 loughney",
+      "notes": "Schoeps MK4 · loughney",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-08-06 - Mountain View, CA - Shorline Amphitheater (Schoeps MK4) (loughney) [AUD24].txt"
@@ -981,7 +955,7 @@ const ARTIST_DATA = {
       "state": "Norway",
       "location": "Bergen, Norway",
       "venue": "Bergenfest",
-      "notes": "Plenen \u00b7 Schoeps MK41 \u00b7 daspyknows",
+      "notes": "Plenen · Schoeps MK41 · daspyknows",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-06-11 - Bergen, Norway - Bergenfest - Plenen Stage (Schoeps MK41) (daspyknows) [AUD].txt"
@@ -995,7 +969,7 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Grona Lund",
-      "notes": "Sony ECM-LV1 \u00b7 qew",
+      "notes": "Sony ECM-LV1 · qew",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-06-15 - Stockholm, Sweden - Grona Lund (Sony ECM-LV1) (qew) [AUD24].txt"
@@ -1015,197 +989,5 @@ const ARTIST_DATA = {
       "textFile": "2025-06-27 - Pilton, UK - Pyramid Stage, Glastonbury Festival (1080p) [MKV].txt"
     }
   ],
-  "misc": [
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Right Through You (1995) (PD124)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - You Can Kiss It (KTS 591)",
-      "version": "Silver CD",
-      "format": "FLAC",
-      "textFile": "MISC - Alanis Morissette - Right Through You (PD124) [Silver].txt"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Live Junkie (1998) (TB 074)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Makes The Point! (1996) (TUCD 015)",
-      "version": "Silver CD",
-      "format": "FLAC",
-      "textFile": "MISC - Alanis Morissette - Makes The Point! (TUCD 015) [Silver].txt"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Going North (1996) (MOONRAKER 041)",
-      "version": "Silver CD",
-      "format": "FLAC",
-      "textFile": "MISC - Alanis Morissette - Going North (1996) (MOONRAKER 041) [Silver].txt"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Thank U Toronto (1999) (TSP-CD 251)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - The Hands Of Love (2002) (p.rec 03)",
-      "version": "Silver CD",
-      "format": "FLAC",
-      "textFile": "MISC - Alanis Morissette - The Hands Of Love (p.rec 03) [Silver].txt"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Who's That Girl (1996) (SP001/2)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Flavors Of Entanglement (2008, Maverick, 269308-2, US)",
-      "format": "FLAC",
-      "category": "OFFICIAL RELEASES",
-      "textFile": "MISC - Alanis Morissette - Flavors Of Entanglement (2008, Maverick, 269308-2, US) [FLAC].txt"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Havoc And Bright Lights (Deluxe Edition) (2012) (24:44.1)",
-      "year": 2012,
-      "format": "FLAC HD",
-      "category": "OFFICIAL RELEASES"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Jagged Little Pill (2015) (24:44.1)",
-      "year": 2015,
-      "format": "FLAC HD",
-      "category": "OFFICIAL RELEASES",
-      "textFile": "MISC - Alanis Morissette - Jagged Little Pill (2015) (24_44.1) [FLAC HD].txt"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Jagged Little Pill (Acoustic) (2015) (24:96)",
-      "year": 2015,
-      "format": "FLAC HD",
-      "category": "OFFICIAL RELEASES"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Jagged Little Pill - 1995 (2015) Collector's Edition",
-      "year": 2015,
-      "format": "FLAC HD",
-      "category": "OFFICIAL RELEASES"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Live at Montreux 2012 (2013) (24:96)",
-      "year": 2013,
-      "format": "FLAC HD",
-      "category": "OFFICIAL RELEASES"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - So-Called Chaos (2004) (2015 HDTracks) (24:96)",
-      "year": 2004,
-      "format": "FLAC HD",
-      "category": "OFFICIAL RELEASES",
-      "textFile": "MISC - Alanis Morissette - Feast On Scraps (2002) (2015 HDTracks) (24_96) [FLAC HD].txt"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Such Pretty Forks In The Road (2020) (24:96)",
-      "year": 2020,
-      "format": "FLAC HD",
-      "category": "OFFICIAL RELEASES"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Supposed Former Infatuation Junkie (1998) 2015 (24:96)",
-      "year": 1998,
-      "format": "FLAC HD",
-      "category": "OFFICIAL RELEASES",
-      "textFile": "MISC - Alanis Morissette - Jagged Little Pill (Acoustic) (2015) (24_96) [FLAC HD].txt"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Under Rug Swept (2011) HDTracks (24:96)",
-      "year": 2011,
-      "format": "FLAC HD",
-      "category": "OFFICIAL RELEASES"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Live Junkie (TB 074)",
-      "version": "Silver CD",
-      "textFile": "MISC - Alanis Morissette - Alanis (742916 T) (1991) [FLAC].txt"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Thank U Toronto (TSP-CD 251)",
-      "version": "Silver CD",
-      "textFile": "MISC - Alanis Morissette - Thank U Toronto (TSP-CD 251) [Silver].txt"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Who's That Girl (SP001-2)",
-      "version": "Silver CD",
-      "textFile": "MISC - Alanis Morissette - Live Junkie (TB 074) [Silver].txt"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - You Can Kiss It (KTS-591)",
-      "version": "Silver CD"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Jagged Little Pill (Original 1995 European Pressing) (24:96)",
-      "format": "FLAC HD",
-      "category": "OFFICIAL RELEASES",
-      "textFile": "MISC - Alanis Morissette - Jagged Little Pill (Original 1995 European Pressing) (24_96) [FLAC HD].txt"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Jagged Little Pill Live {7599-38476-2} (1997)",
-      "year": 1997,
-      "format": "DVD",
-      "category": "OFFICIAL RELEASES"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - So-Called Chaos (2004, Maverick, 9362-48555, EU) (2004)",
-      "year": 2004,
-      "format": "FLAC",
-      "category": "OFFICIAL RELEASES",
-      "textFile": "MISC - Alanis Morissette - So-Called Chaos (2004, Maverick, 9362-48555, EU) (2004) [FLAC].txt"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Supposed Former Infatuation Junkie (1998) 2015 (24:96)",
-      "year": 1998,
-      "format": "FLAC HD",
-      "category": "OFFICIAL RELEASES",
-      "textFile": "MISC - Alanis Morissette - Supposed Former Infatuation Junkie (1998) 2015 (24_96) [FLAC HD].txt"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Under Rug Swept (2011) HDTracks (24:96)",
-      "year": 2011,
-      "format": "FLAC HD",
-      "category": "OFFICIAL RELEASES"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Who's That Girl (SP001-2)",
-      "version": "Silver CD",
-      "textFile": "MISC - Alanis Morissette - Who's That Girl (SP001-2) [Silver].txt"
-    }
-  ]
+  "misc": []
 };
