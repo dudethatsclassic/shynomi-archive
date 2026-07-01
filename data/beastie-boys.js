@@ -2,14 +2,13 @@ const ARTIST_DATA = {
   "id": "beastie-boys",
   "name": "Beastie Boys",
   "drive": "D",
-  "showCount": 68,
+  "showCount": 65,
   "firstYear": 1985,
   "lastYear": 2009,
   "years": [
     1985,
     1986,
     1987,
-    1989,
     1992,
     1994,
     1995,
@@ -54,19 +53,6 @@ const ARTIST_DATA = {
     },
     {
       "year": 1986,
-      "month": null,
-      "day": null,
-      "dateStr": "XX-XX-1986",
-      "city": "I'm Down (previously unreleased track)",
-      "state": "",
-      "location": "I'm Down (previously unreleased track)",
-      "venue": "",
-      "notes": "",
-      "version": "",
-      "format": "FLAC"
-    },
-    {
-      "year": 1986,
       "month": 4,
       "day": 19,
       "dateStr": "4-19-1986",
@@ -106,19 +92,6 @@ const ARTIST_DATA = {
       "version": "TV",
       "format": "FLAC",
       "textFile": "1986-12-31 - New York, NY - The Ritz [TV].txt"
-    },
-    {
-      "year": 1987,
-      "month": null,
-      "day": null,
-      "dateStr": "XX-XX-1987",
-      "city": "Brooklyn Sessions (Demo Tape)",
-      "state": "",
-      "location": "Brooklyn Sessions (Demo Tape)",
-      "venue": "",
-      "notes": "",
-      "version": "",
-      "format": "FLAC"
     },
     {
       "year": 1987,
@@ -315,19 +288,6 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1987-08-20 - New York, NY - Madison Square Garden [AUD].txt"
-    },
-    {
-      "year": 1989,
-      "month": null,
-      "day": null,
-      "dateStr": "XX-XX-1989",
-      "city": "Paul's Boutique Demos",
-      "state": "",
-      "location": "Paul's Boutique Demos",
-      "venue": "",
-      "notes": "",
-      "version": "",
-      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -683,14 +643,13 @@ const ARTIST_DATA = {
       "month": 6,
       "day": 26,
       "dateStr": "6-26-1998",
-      "city": "St. Gallen - Switzerland  *Beastie Beat's Live (CDX 1596425 MPH)",
+      "city": "St. Gallen",
       "state": "",
-      "location": "St. Gallen - Switzerland  *Beastie Beat's Live (CDX 1596425 MPH)",
-      "venue": "",
+      "location": "St. Gallen",
+      "venue": "Switzerland  *Beastie Beat's Live {CDX 1596425 MPH}",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "textFile": "1998-06-26 - St. Gallen - Switzerland - Beastie Beat's Live [Silver].txt"
+      "format": "FLAC"
     },
     {
       "year": 1998,
