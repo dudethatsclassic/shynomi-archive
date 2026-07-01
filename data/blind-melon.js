@@ -121,7 +121,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "AJ Palumbo Center",
-      "notes": "Sony Walkman \u00b7 unk",
+      "notes": "Sony Walkman · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-03-10 - Pittsburgh, PA - AJ Palumbo Center [AUD].txt"
@@ -177,7 +177,7 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Burlington, VT",
       "venue": "Club Metronome",
-      "notes": "unk \u00b7 mike d transfer \u00b7 inc",
+      "notes": "unk · mike d transfer · inc",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -204,7 +204,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "notes": "Nakamichi 700 \u00b7 unk",
+      "notes": "Nakamichi 700 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-08-02 - Minneapolis, MN - First Avenue [AUD].txt"
@@ -218,7 +218,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheater",
-      "notes": "Shure SM98 \u00b7 ko",
+      "notes": "Shure SM98 · ko",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-08-14 - Milwaukee, WI - Marcus Amphitheater (SM98) [AUD].txt"
@@ -232,7 +232,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Clarkston, MI",
       "venue": "Pine Knob Amphitheatre",
-      "notes": "ANA(M) \u00b7 unk",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1993-08-16 - Clarkston, MI - Pine Knob [AUD1].txt"
@@ -246,7 +246,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Cheektowaga, NY",
       "venue": "Blind Mellon's",
-      "notes": "unk \u00b7 bob hamilton",
+      "notes": "unk · bob hamilton",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1993-08-18 - Cheektowaga, NY - Blind Mellon's (unk) (bob hamilton) [AUD24].txt"
@@ -288,7 +288,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Dallas County Convention Center",
-      "notes": "DAT(M) \u00b7 Sony PCM R-300 \u00b7 smores",
+      "notes": "DAT(M) · Sony PCM R-300 · smores",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-10-16 - Dallas, TX - Dallas County Convention Center [AUD].txt"
@@ -316,7 +316,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Huntridge Theater",
-      "notes": "ANA(M) \u00b7 Sony WM-D6 \u00b7 scott tillotson",
+      "notes": "ANA(M) · Sony WM-D6 · scott tillotson",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-10-24 - Las Vegas, NV - Huntridge Theater (Sony) [AUD].txt"
@@ -399,10 +399,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "Sony ECM-909a \u00b7 rob",
+      "notes": "Sony ECM-909a · rob",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-02-17 - New York, NY - Roseland Ballroom (Sony ECM-909a) (rob) [AUD].txt"
+      "textFile": "1994-02-17 - New York, NY - Roseland Ballroom - Hard Road to the Top [AUD].txt"
     },
     {
       "year": 1994,
@@ -427,7 +427,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Britain, CT",
       "venue": "The Sting",
-      "notes": "DAT(M) \u00b7 ted dralle",
+      "notes": "DAT(M) · ted dralle",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -454,7 +454,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saugerties, NY",
       "venue": "Winston Farm",
-      "notes": "Woodstock \u00b7 M \u00b7 SS-DSM-6P \u00b7 dennis orr",
+      "notes": "Woodstock · M · SS-DSM-6P · dennis orr",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-08-13 - Saugerties, NY - Winston Farm - Woodstock 94 [AUD].txt"
@@ -468,7 +468,7 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Ames, IA",
       "venue": "Cyclone Stadium",
-      "notes": "ANA(M) \u00b7 SS-DSM-6P \u00b7 steve hagar",
+      "notes": "ANA(M) · SS-DSM-6P · steve hagar",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-10-01 - Ames, IA - Cyclone Stadium [AUD].txt"
@@ -552,7 +552,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Mancow Radio Show",
-      "notes": "unk \u00b7 311guy",
+      "notes": "unk · 311guy",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2007-10-17 - Chicago, IL - Mancow Radio Show [FM].txt"
@@ -566,7 +566,7 @@ const ARTIST_DATA = {
       "state": "NE",
       "location": "Omaha, NE",
       "venue": "Slowdown",
-      "notes": "Peluso CEMC6 \u00b7 unk",
+      "notes": "Peluso CEMC6 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-03-22 - Omaha, NE - Slowdown (Peluso CEMC6) (unk) [AUD].txt"
@@ -580,7 +580,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Sauget, IL",
       "venue": "POPS",
-      "notes": "unk \u00b7 ryan conway",
+      "notes": "unk · ryan conway",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-03-24 - Sauget, IL - POPS [AUD].txt"
@@ -594,7 +594,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Beaumont Club",
-      "notes": "unk \u00b7 ryan conway",
+      "notes": "unk · ryan conway",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-03-25 - Kansas City, MO - Beaumont Club [AUD].txt"
@@ -608,7 +608,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Meridian Blue Room",
-      "notes": "DPA 4023 \u00b7 prof_peabody",
+      "notes": "DPA 4023 · prof_peabody",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-04-20 - Houston, TX - Meridian Blue Room [AUD].txt"
@@ -622,7 +622,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Zia Records",
-      "notes": "In \u00b7 cps \u00b7 M \u00b7 Akg CK91 \u00b7 cps",
+      "notes": "In · cps · M · Akg CK91 · cps",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-04-30 - Las Vegas, NV - Jillian's - WAV(M) (Studio Projects C4) (cps) [AUD].txt"
@@ -636,7 +636,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Jillian's",
-      "notes": "WAV(M) \u00b7 Studio Projects C4 \u00b7 cps",
+      "notes": "WAV(M) · Studio Projects C4 · cps",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-04-30 - Las Vegas, NV - Zia Records [AUD].txt"
@@ -650,7 +650,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Juan Capistrano, CA",
       "venue": "The Coach House",
-      "notes": "CSB \u00b7 faninor",
+      "notes": "CSB · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2008-05-03 - San Juan Capistrano, CA - The Coach House (CSB) (faninor) [AUD24].txt"
@@ -664,7 +664,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "House Of Blues",
-      "notes": "DPA 4021 \u00b7 ofotd",
+      "notes": "DPA 4021 · ofotd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-08-07 - Dallas, TX - House Of Blues [AUD].txt"
@@ -678,7 +678,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
-      "notes": "DPA 4022 \u00b7 marke",
+      "notes": "DPA 4022 · marke",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-09-04 - Chicago, IL - The Metro [AUD].txt"
@@ -692,7 +692,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Decatur, IL",
       "venue": "Decatur Celebration",
-      "notes": "SP-CMC-8 \u00b7 foosman1",
+      "notes": "SP-CMC-8 · foosman1",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2013-08-04 - Decatur, IL - Decatur Celebration [AUD].txt"
