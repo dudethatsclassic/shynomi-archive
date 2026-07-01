@@ -118,61 +118,28 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
+    "label": "Alice In Chains - Is Layne Still In Rehab? {Not on Label} (1989)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1989,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Sunshine {CD-EYE-01} (1992)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1992,
+    "category": "SILVERS",
+    "textFile": "MISC - Alice In Chains - Sunshine {CD-EYE-01} (1992) [Silver].txt"
+  },
+  {
+    "type": "release",
     "label": "Alice in Chains - Life in Chains {RTW 003} (1993)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
     "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Alice In Chains - Bad Dream {RITUAL 002} (1993)",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "year": 1993,
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Alice In Chains - Nightland {G-53 243} (1994)",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "year": 1994,
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Alice In Chains - Working Class Heroes {DRAG04} (1996)",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "year": 1996,
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Alice In Chains - Seattle, WA / In the Studio / 1987-1989 *Is Layne Still In Rehab?",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "year": 1987,
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Alice In Chains - Welcome To My Nightmare {IBR-2205} (1993)",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "year": 1993,
-    "category": "SILVERS",
-    "textFile": "MISC - Alice In Chains - Welcome To My Nightmare {IBR-2205} (1993) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Alice In Chains - Them Bones {P 910070} (1993)",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "year": 1993,
-    "category": "SILVERS",
-    "textFile": "MISC - Alice In Chains - Them Bones {P 910070} (1993) [SIlver].txt"
   },
   {
     "type": "release",
@@ -185,12 +152,29 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Alice In Chains - Sunshine {CD-EYE-01} (1992)",
+    "label": "Alice In Chains - Bad Dream {RITUAL 002} (1993)",
     "version": "Silver CD",
     "format": "FLAC",
-    "year": 1992,
+    "year": 1993,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Them Bones {P 910070} (1993)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
     "category": "SILVERS",
-    "textFile": "MISC - Alice In Chains - Sunshine {CD-EYE-01} (1992) [Silver].txt"
+    "textFile": "MISC - Alice In Chains - Them Bones {P 910070} (1993) [SIlver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Welcome To My Nightmare {IBR-2205} (1993)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS",
+    "textFile": "MISC - Alice In Chains - Welcome To My Nightmare {IBR-2205} (1993) [Silver].txt"
   },
   {
     "type": "release",
@@ -207,31 +191,6 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Alice In Chains - Live & Unchained {KTS 172} (1993)",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "year": 1993,
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Alice In Chains - Live & Unchained (Repress) {KTS 172} (1993)",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "year": 1993,
-    "category": "SILVERS",
-    "textFile": "MISC - Alice In Chains - Live & Unchained (Repress) {KTS 172} (1993) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Alice In Chains - Little Red Rooster (CRC Mismatch) {ONCD-2290} (1994)",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "year": 1994,
     "category": "SILVERS"
   },
   {
@@ -254,65 +213,113 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "1990 Alice In Chains - Facelift {CBS Records, CK 46075, U.S.A.}",
+    "label": "Alice In Chains - Live & Unchained {KTS 172} (1993)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Live & Unchained (Repress) {KTS 172} (1993)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS",
+    "textFile": "MISC - Alice In Chains - Live & Unchained (Repress) {KTS 172} (1993) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Nightland {G-53 243} (1994)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1994,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Little Red Rooster (CRC Mismatch) {ONCD-2290} (1994)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1994,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Working Class Heroes {DRAG04} (1996)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1996,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Facelift {CBS Records, CK 46075, U.S.A.} (1990)",
     "format": "FLAC",
     "year": 1990,
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "1992 Alice In Chains - Sap {'2011 Original Album Classics, Sony Music, 88697944482CD2, E.U.}",
+    "label": "Alice In Chains - Sap {'2011 Original Album Classics, Sony Music, 88697944482CD2, E.U.} (1992)",
+    "format": "FLAC",
+    "year": 2011,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Dirt {Sony Music, 472330 2, Austria} (1992)",
     "format": "FLAC",
     "year": 1992,
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "1992 Alice In Chains - Dirt {Sony Music, 472330 2, Austria}",
+    "label": "Alice In Chains - Jar Of Flies {'2011 Original Album Classics, Sony Music, 88697944482CD1, E.U.} (1993)",
     "format": "FLAC",
-    "year": 1992,
+    "year": 2011,
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "1993 Alice In Chains - Jar Of Flies {'2011 Original Album Classics, Sony Music, 88697944482CD1, E.U.}",
-    "format": "FLAC",
-    "year": 1993,
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "1995 Alice In Chains - Alice In Chains {Sony Music, CK 67248, U.S.A.}",
+    "label": "Alice In Chains - Alice In Chains {Sony Music, CK 67248, U.S.A.} (1995)",
     "format": "FLAC",
     "year": 1995,
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "1995 Alice In Chains - Alice In Chains {Sony Records, SRCS 8192, Japan}",
+    "label": "Alice In Chains - Alice In Chains {Sony Records, SRCS 8192, Japan} (1995)",
     "format": "FLAC",
     "year": 1995,
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "1996 Alice In Chains - MTV Unplugged {'2011 Original Album Classics, Sony Music, 88697944482CD3, E.U.}",
+    "label": "Alice In Chains - MTV Unplugged {'2011 Original Album Classics, Sony Music, 88697944482CD3, E.U.} (1996)",
     "format": "FLAC",
-    "year": 1996,
+    "year": 2011,
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "2000 Alice in Chains - Live {CK 85274}",
+    "label": "Alice in Chains - Live {CK 85274} (2000)",
     "format": "FLAC",
     "year": 2000,
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "2009 Alice In Chains - Black Gives Way to Blue {Virgin 509999 67159 25}",
+    "label": "Alice In Chains - Black Gives Way to Blue {Virgin 509999 67159 25} (2009)",
     "format": "FLAC",
     "year": 2009,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - The Devil Put Dinosaurs Here {509999 47800 2 4} (2013)",
+    "format": "FLAC",
+    "year": 2013,
     "category": "OFFICIAL RELEASES"
   },
   {
