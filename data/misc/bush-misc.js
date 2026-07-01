@@ -1,25 +1,39 @@
 const ARTIST_MISC_DATA = [
   {
     "type": "release",
-    "label": "Bush - Zen and the Art of Noise Maintenance (BSCD-001)",
+    "label": "Bush - Zen and the Art of Noise Maintenance {BSCD-001}",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Gavin's Birthday Party",
-    "version": "Silver CD",
-    "format": "FLAC"
+    "label": "Bush - Westwood One (In the Zone) (#00-03) (1999)",
+    "version": "FM",
+    "format": "FLAC",
+    "year": 1999,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
+    "label": "Bush - Gavin's Birthday Party",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
     "label": "Bush - Live in Tampa (2020)",
-    "format": "FLAC"
+    "version": "WEB",
+    "format": "FLAC",
+    "year": 2020,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Bush - Westwood One In The Zone Show #00-03",
     "version": "preFM",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   }
 ];
