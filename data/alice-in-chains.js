@@ -2142,11 +2142,10 @@ const ARTIST_DATA = {
       "city": "Seattle",
       "state": "WA",
       "location": "Seattle, WA",
-      "venue": "The Premiere Nightclub / Tsunami Relief Benefit",
-      "notes": "unk",
+      "venue": "The Premiere Nightclub",
+      "notes": "Tsunami · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2005-02-18 - Seattle, WA - Tsunami Relief Benefit - The Premiere Nightclub [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -2322,13 +2321,13 @@ const ARTIST_DATA = {
       "day": 2,
       "dateStr": "11-2-2006",
       "city": "New York",
-      "state": "NY - Nokia Theater (Sony HC21) (team dz)",
-      "location": "New York, NY - Nokia Theater (Sony HC21) (team dz)",
-      "venue": "",
-      "notes": "",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Nokia Theater",
+      "notes": "Sony HC21 · team dz",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "2006-11-02 - New York, NY - Nokia Theater (aud) [DVD].txt"
+      "textFile": "2006-11-02 - New York, NY - Nokia Theater (Sony HC21) (team dz) [DVD].txt"
     },
     {
       "year": 2006,
