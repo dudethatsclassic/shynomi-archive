@@ -1179,13 +1179,12 @@ const ARTIST_DATA = {
       "day": 1,
       "dateStr": "2-1-1993",
       "city": "Bonn",
-      "state": "Germany - Biskuithalle - VHS(x) (unk)",
-      "location": "Bonn, Germany - Biskuithalle - VHS(x) (unk)",
-      "venue": "",
-      "notes": "",
+      "state": "Germany",
+      "location": "Bonn, Germany",
+      "venue": "Biskuithalle",
+      "notes": "VHS(x) · unk",
       "version": "AUD",
-      "format": "DVD",
-      "textFile": "1993-02-01 - Bonn, Germany - Biskuithalle - VHS(x) [DVD].txt"
+      "format": "DVD"
     },
     {
       "year": 1993,
@@ -1207,13 +1206,12 @@ const ARTIST_DATA = {
       "day": 2,
       "dateStr": "2-2-1993",
       "city": "Frankfurt",
-      "state": "Germany - Music Hall - DAT(1) (r kohler)",
-      "location": "Frankfurt, Germany - Music Hall - DAT(1) (r kohler)",
-      "venue": "",
-      "notes": "",
+      "state": "Germany",
+      "location": "Frankfurt, Germany",
+      "venue": "Music Hall",
+      "notes": "DAT(1) · r kohler",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1993-02-02 - Frankfurt, Germany - Music Hall (r kohler) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1993,
