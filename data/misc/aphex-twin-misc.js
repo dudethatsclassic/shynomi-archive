@@ -1,116 +1,44 @@
 const ARTIST_MISC_DATA = [
   {
-    "type": "label",
-    "label": "Analogue Bubblebath 2",
-    "format": "FLAC"
+    "label": "Aphex Twin - Analogue Bubblebath 2",
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
-    "label": "XX-XX-1995 / Analogue Bubblebath 5"
-  },
-  {
-    "type": "label",
-    "label": "Melodies From Mars (Unreleased Album - 1995)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Hangable Auto Bulb",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Hangable Auto Bulb 2",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Peel Sessions",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Unreleased Live Tracks (2016-2019)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Aphex Twin - All User18081971 Soundcloud Tracks",
-    "format": "MP3 + FLAC"
-  },
-  {
-    "type": "release",
-    "label": "XX-XX - Analogue Bubblebath 5",
-    "year": 1995
-  },
-  {
-    "type": "release",
-    "label": "XX-XX - Melodies from Mars",
-    "year": 1995
-  },
-  {
-    "type": "release",
-    "label": "AFX - Analogue Bubblebath 2 (Rare)"
-  },
-  {
-    "type": "release",
-    "label": "AFX - Hangable Auto Bulb"
-  },
-  {
-    "type": "release",
-    "label": "AFX - Hangable Auto Bulb 2"
-  },
-  {
-    "type": "release",
-    "label": "Aphex Twin - All User18081971 Soundcloud Tracks",
-    "format": "MP3"
-  },
-  {
-    "type": "release",
-    "label": "Aphex Twin - Peel Sessions",
-    "format": "FM"
-  },
-  {
-    "type": "release",
-    "label": "Aphex Twin -Unreleased Live Tracks 2016-2019"
-  },
-  {
-    "type": "release",
-    "label": "XX-XX - Analogue Bubblebath 5",
+    "label": "Aphex Twin - Analogue Bubblebath 5 (1995)",
     "year": 1995,
-    "textFile": "MISC - 1995-XX-XX - Analogue Bubblebath 5.txt"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "release",
-    "label": "XX-XX - Melodies from Mars",
+    "label": "Aphex Twin - Melodies From Mars (Unreleased Album) (1995)",
     "year": 1995,
-    "textFile": "MISC - 1995-XX-XX - Melodies from Mars.txt"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "release",
-    "label": "AFX - Analogue Bubblebath 2 (Rare)"
+    "label": "Aphex Twin - Hangable Auto Bulb",
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "release",
-    "label": "AFX - Hangable Auto Bulb"
+    "label": "Aphex Twin - Hangable Auto Bulb 2",
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "release",
-    "label": "AFX - Hangable Auto Bulb 2"
-  },
-  {
-    "type": "release",
-    "label": "Aphex Twin - All User18081971 Soundcloud Tracks",
-    "format": "MP3"
-  },
-  {
-    "type": "release",
     "label": "Aphex Twin - Peel Sessions",
-    "format": "FM",
-    "textFile": "MISC - Aphex Twin - Peel Sessions [FM].txt"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "release",
-    "label": "Aphex Twin -Unreleased Live Tracks 2016-2019"
+    "label": "Aphex Twin - Unreleased Live Tracks (2016-2019)",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "label": "Aphex Twin - All User18081971 Soundcloud Tracks",
+    "format": "MP3 + FLAC",
+    "category": "OTHER"
   }
 ];
