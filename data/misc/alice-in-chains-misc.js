@@ -67,6 +67,14 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
+    "label": "Alice In Chains - 1990-1992 (Compilation)",
+    "version": "preFM",
+    "format": "FLAC",
+    "year": 1990,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
     "label": "Alice In Chains - Alice In Bed (Remastered)",
     "format": "FLAC",
     "category": "OTHER"
@@ -134,26 +142,10 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Alice In Chains - 1993-02-19 - Paris, France Come And Save Me {MECD 1194} (1995)",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "year": 1993,
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
     "label": "Alice In Chains - Working Class Heroes {DRAG04} (1996)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1996,
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Alice In Chains - 1990-1992",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "year": 1990,
     "category": "SILVERS"
   },
   {
