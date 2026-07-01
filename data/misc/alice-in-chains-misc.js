@@ -303,6 +303,13 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
+    "label": "Alice in Chains - Nothing Safe {Columbia CK 63649} (1999)",
+    "format": "FLAC",
+    "year": 1999,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
     "label": "Alice in Chains - Live {CK 85274} (2000)",
     "format": "FLAC",
     "year": 2000,
