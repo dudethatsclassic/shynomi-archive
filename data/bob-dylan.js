@@ -44,14 +44,13 @@ const ARTIST_DATA = {
       "month": 10,
       "day": 26,
       "dateStr": "10-26-1963",
-      "city": "Bob Dylan - Live at Carnegie Hall In Concert (Unreleased CBS Album)",
+      "city": "Bob Dylan",
       "state": "",
-      "location": "Bob Dylan - Live at Carnegie Hall In Concert (Unreleased CBS Album)",
-      "venue": "",
-      "notes": "",
+      "location": "Bob Dylan",
+      "venue": "Live at Carnegie Hall In Concert",
+      "notes": "Unreleased CBS Album",
       "version": "",
-      "format": "FLAC",
-      "textFile": "1963-10-26 - Bob Dylan - Live at Carnegie Hall In Concert (Unreleased CBS Album) [STUDIO].flac.txt"
+      "format": "FLAC"
     },
     {
       "year": 1965,
@@ -140,14 +139,13 @@ const ARTIST_DATA = {
       "month": 8,
       "day": 31,
       "dateStr": "8-31-1969",
-      "city": "Isle of Wight *Mighty Mockingbird",
-      "state": "",
-      "location": "Isle of Wight *Mighty Mockingbird",
-      "venue": "",
+      "city": "Wootton",
+      "state": "England",
+      "location": "Wootton, England",
+      "venue": "Isle of Wight *Mighty Mockingbird",
       "notes": "",
       "version": "",
-      "format": "FLAC",
-      "textFile": "1969-08-31 - Live at the Isle Of Wight - Mighty Mockingbird [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1970,
@@ -268,7 +266,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "Municipal Auditorium",
-      "notes": "inc \u00b7 dolphinsmile",
+      "notes": "inc · dolphinsmile",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1976-05-11 - San Antonio, TX - Municipal Auditorium (inc) (dolphinsmile) [SBD].txt"
@@ -408,7 +406,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Palo Alto, CA",
       "venue": "Stanford University",
-      "notes": "Frost \u00b7 hurricane",
+      "notes": "Frost · hurricane",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-10-14 - Palo Alto, CA - Stanford University - Frost Amphitheatre [AUD].txt"
