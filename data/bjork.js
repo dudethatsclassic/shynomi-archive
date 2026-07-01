@@ -464,14 +464,13 @@ const ARTIST_DATA = {
       "month": 6,
       "day": 11,
       "dateStr": "6-11-2003",
-      "city": "UK Radio 1 Broadcast - Sonar Festival",
+      "city": "UK Radio 1 Broadcast",
       "state": "",
-      "location": "UK Radio 1 Broadcast - Sonar Festival",
-      "venue": "",
+      "location": "UK Radio 1 Broadcast",
+      "venue": "Sonar Festival",
       "notes": "",
       "version": "FM",
-      "format": "SHN",
-      "textFile": "2003-06-11 - UK Radio 1 Broadcast - Sonar Festival [FM].txt"
+      "format": "SHN"
     },
     {
       "year": 2003,
