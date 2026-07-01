@@ -143,20 +143,6 @@ const ARTIST_DATA = {
     },
     {
       "year": 1990,
-      "month": 2,
-      "day": 9,
-      "dateStr": "2-9-1990",
-      "city": "Seattle",
-      "state": "WA - *Motorized",
-      "location": "Seattle, WA - *Motorized",
-      "venue": "",
-      "notes": "",
-      "version": "Silver CD",
-      "format": "FLAC",
-      "textFile": "1990-02-09 - Seattle, WA  - Motorized [AUD].txt"
-    },
-    {
-      "year": 1990,
       "month": 8,
       "day": 21,
       "dateStr": "8-21-1990",
@@ -168,6 +154,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "DVD",
       "textFile": "1990-08-21 - Seattle, WA - Off Ramp [DVD].txt"
+    },
+    {
+      "year": 1990,
+      "month": 9,
+      "day": 2,
+      "dateStr": "9-2-1990",
+      "city": "Seattle",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "Seattle Center",
+      "notes": "Club",
+      "version": "Silver CD",
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -191,11 +190,10 @@ const ARTIST_DATA = {
       "city": "Seattle",
       "state": "WA",
       "location": "Seattle, WA",
-      "venue": "Seattle Center",
-      "notes": "Bumbershoot · x",
+      "venue": "Seattle Center / Bumbershoot Festival",
+      "notes": "VHS(x)",
       "version": "AUD",
-      "format": "DVD",
-      "textFile": "1990-09-02 - Seattle, WA -  Seattle Center - Bumbershoot Festival - VHS(x) [DVD] .txt"
+      "format": "DVD"
     },
     {
       "year": 1990,
