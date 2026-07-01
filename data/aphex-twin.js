@@ -124,7 +124,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Running Springs, CA",
       "venue": "Organic Underworld",
-      "notes": "ANA(M) \u00b7 unk",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-09-20 - Running Springs, CA - Organic Underworld [AUD].txt"
@@ -138,7 +138,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Royce Hall, UCLA",
-      "notes": "Large \u00b7 Sonics D8 + CSB \u00b7 unk",
+      "notes": "Large · Sonics D8 + CSB · unk",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2002-03-16 - Los Angeles, CA - Royce Hall, UCLA - Large Sports Hall [AUD].txt"
@@ -166,7 +166,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival (RDJ",
-      "notes": "CSBs) \u00b7 unk",
+      "notes": "CSBs) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-04-25 - Indio, CA - Coachella Festival (AUD].txt"
@@ -220,7 +220,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival",
-      "notes": "Mojave \u00b7 SP-CMC-8 \u00b7 unk",
+      "notes": "Mojave · SP-CMC-8 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-04-13 - Indio, CA - Coachella [AUD].txt"
@@ -234,7 +234,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival",
-      "notes": "Mojave \u00b7 SP-CMC-8",
+      "notes": "Mojave · SP-CMC-8",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2019-04-20 - Indio, CA - Coachella [AUD24].txt"
