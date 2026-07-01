@@ -373,7 +373,7 @@ const ARTISTS = [
   {
     "id": "bush",
     "name": "Bush",
-    "showCount": 93,
+    "showCount": 92,
     "firstYear": 1995,
     "lastYear": 2026
   },
