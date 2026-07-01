@@ -310,6 +310,13 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
+    "label": "Alice in Chains - Greatest Hits {COL 504123 2} (2001)",
+    "format": "FLAC",
+    "year": 2001,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
     "label": "Alice In Chains - Black Gives Way to Blue {Virgin 509999 67159 25} (2009)",
     "format": "FLAC",
     "year": 2009,
@@ -321,6 +328,13 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2013,
     "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Man In The Box {CSK 2257} (1990)",
+    "format": "FLAC",
+    "year": 1990,
+    "category": "SINGLES"
   },
   {
     "type": "release",
