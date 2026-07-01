@@ -331,6 +331,13 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
+    "label": "Alice in Chains - Rainier Fog {538417082} (2018)",
+    "format": "FLAC",
+    "year": 2018,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
     "label": "Alice In Chains - Man In The Box {CSK 2257} (1990)",
     "format": "FLAC",
     "year": 1990,
