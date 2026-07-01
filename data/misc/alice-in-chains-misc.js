@@ -49,8 +49,9 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Alice In Chains - The Nona Tapes",
+    "label": "Alice In Chains - The Nona Tapes (1995)",
     "format": "DVD",
+    "year": 1995,
     "category": "OTHER"
   },
   {
