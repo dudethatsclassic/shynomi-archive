@@ -205,7 +205,7 @@ const ARTISTS = [
   {
     "id": "beastie-boys",
     "name": "Beastie Boys",
-    "showCount": 68,
+    "showCount": 65,
     "firstYear": 1985,
     "lastYear": 2009
   },
