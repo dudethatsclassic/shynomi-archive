@@ -22,6 +22,5 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24"
     }
-  ],
-  "misc": []
+  ]
 };
