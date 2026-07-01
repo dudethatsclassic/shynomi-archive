@@ -7,6 +7,20 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
+    "label": "Beastie Boys - Brooklyn Sessions (Demo Tape) (1987)",
+    "format": "FLAC",
+    "year": 1987,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Beastie Boys -  Paul's Boutique Demos (1989)",
+    "format": "FLAC",
+    "year": 1989,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
     "label": "Beastie Boys - XX-XX-1988 / Desperado (Unreleased Single) (1988)",
     "format": "FLAC",
     "year": 1988,
@@ -17,6 +31,13 @@ const ARTIST_MISC_DATA = [
     "label": "Beastie Boys - 1994 Demos",
     "format": "FLAC",
     "year": 1994,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Beastie Boys - I'm Down (previously unreleased track) (1986)",
+    "format": "FLAC",
+    "year": 1986,
     "category": "OTHER"
   },
   {
