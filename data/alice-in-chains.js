@@ -871,11 +871,10 @@ const ARTIST_DATA = {
       "city": "Toronto",
       "state": "Ontario",
       "location": "Toronto, Ontario",
-      "venue": "*Desert",
+      "venue": "Skydome *Desert",
       "notes": "",
-      "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1992-11-04 - Toronto, Ontario - Desert [SBD].txt"
+      "version": "Silver CD",
+      "format": "FLAC"
     },
     {
       "year": 1992,
