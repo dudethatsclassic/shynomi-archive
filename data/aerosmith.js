@@ -2,12 +2,13 @@ const ARTIST_DATA = {
   "id": "aerosmith",
   "name": "Aerosmith",
   "drive": "E",
-  "showCount": 17,
+  "showCount": 18,
   "firstYear": 1976,
   "lastYear": 2019,
   "years": [
     1976,
     1983,
+    1984,
     1986,
     1987,
     1990,
@@ -41,10 +42,23 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Spectrum-  ANA",
-      "notes": "M \u00b7 luvsufo \u00b7 krw_co transfer",
+      "notes": "M · luvsufo · krw_co transfer",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1983-02-14 - Philadelphia, PA - The Spectrum-  ANA(M) (luvsufo) (krw_co transfer) [AUD24].txt"
+    },
+    {
+      "year": 1984,
+      "month": 7,
+      "day": 3,
+      "dateStr": "7-3-1984",
+      "city": "Harrisburg",
+      "state": "PA",
+      "location": "Harrisburg, PA",
+      "venue": "City Island",
+      "notes": "ANA(M) · luvsufo",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1986,
@@ -55,7 +69,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Bethlhem, PA",
       "venue": "Stabler Arena",
-      "notes": "ANA(M) \u00b7 luvsufo \u00b7 krw_co transfer",
+      "notes": "ANA(M) · luvsufo · krw_co transfer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1986-04-13 - Bethlhem, PA - Stabler Arena - ANA(M) (luvsufo) (krw_co transfer) [AUD].txt"
@@ -69,7 +83,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Binghamton, NY",
       "venue": "Veterans Memorial",
-      "notes": "ANA(M) \u00b7 luvsufo \u00b7 krw_co transfer",
+      "notes": "ANA(M) · luvsufo · krw_co transfer",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1987-10-16 - Binghamton, NY - Veterans Memorial - ANA(M) (luvsufo) (krw_co transfer) [AUD24].txt"
@@ -83,7 +97,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Maple Leaf Gardens",
-      "notes": "Sony WM-D3 \u00b7 bowlingron",
+      "notes": "Sony WM-D3 · bowlingron",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1987-10-20 - Toronto, ON - Maple Leaf Gardens (Sony WM-D3) (bowlingron) [AUD].txt"
@@ -97,7 +111,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "CNE Stadium, Toronto, ON",
-      "notes": "Sony METAL-SR 90 \u00b7 bowlingron",
+      "notes": "Sony METAL-SR 90 · bowlingron",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-06-29 - Toronto, ON - CNE Stadium, Toronto, ON (Sony METAL-SR 90) (bowlingron) [AUD].txt"
@@ -125,7 +139,7 @@ const ARTIST_DATA = {
       "state": "Netherlands",
       "location": "Rotterdam, Netherlands",
       "venue": "Ahoy",
-      "notes": "ANA(1) \u00b7 r. huizinga \u00b7 mats666 transfer",
+      "notes": "ANA(1) · r. huizinga · mats666 transfer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-11-01 - Rotterdam, Netherlands - Ahoy - ANA(1) (r. huizinga) (mats666 transfer) [AUD].txt"
@@ -139,7 +153,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Oldenburg, Germany",
       "venue": "Weser-Ems Halle",
-      "notes": "ANA(1) \u00b7 r. huizinga \u00b7 mats666 transfer",
+      "notes": "ANA(1) · r. huizinga · mats666 transfer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-11-26 - Oldenburg, Germany - Weser-Ems Halle - ANA(1) (r. huizinga) (mats666 transfer) [AUD].txt"
@@ -152,11 +166,11 @@ const ARTIST_DATA = {
       "city": "Rio de Janeiro",
       "state": "Brazil",
       "location": "Rio de Janeiro, Brazil",
-      "venue": "Prac\u0327a da Apoteose *Struttin' My Stuff",
+      "venue": "Praça da Apoteose *Struttin' My Stuff",
       "notes": "KTS 292-293",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "1994-01-21 - Rio de Janeiro, Brazil - Prac\u0327a da Apoteose - Struttin' My Stuff (KTS 292-293) [Silver].txt"
+      "textFile": "1994-01-21 - Rio de Janeiro, Brazil - Praça da Apoteose - Struttin' My Stuff (KTS 292-293) [Silver].txt"
     },
     {
       "year": 1994,
@@ -167,7 +181,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Devore, CA",
       "venue": "Blockbuster Pavillion",
-      "notes": "Aiwa \u00b7 dennis fuller",
+      "notes": "Aiwa · dennis fuller",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-10-15 - Devore, CA - Blockbuster Pavillion (Aiwa) (dennis fuller) [AUD].txt"
@@ -181,7 +195,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Brendan Byrne Arena",
-      "notes": "Realistic mic \u00b7 koondog",
+      "notes": "Realistic mic · koondog",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-12-16 - East Rutherford, NJ - Brendan Byrne Arena (Realistic mic) (koondog) [AUD].txt"
@@ -209,7 +223,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Pond",
-      "notes": "Sony D7 \u00b7 bouldernbun/highdesert/mike lee",
+      "notes": "Sony D7 · bouldernbun/highdesert/mike lee",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-12-16 - Anaheim, CA - Pond (Sony D7) (bouldernbun:highdesert:mike lee) [AUD].txt"
@@ -223,7 +237,7 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Bristow, VA",
       "venue": "Nissan Pavilion",
-      "notes": "DAT(M) \u00b7 scm \u00b7 krw_co transfer \u00b7 48k",
+      "notes": "DAT(M) · scm · krw_co transfer · 48k",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-09-16 - Bristow, VA - Nissan Pavilion, - DAT(M) (scm) (krw_co transfer) (48k) [AUD].txt"
@@ -237,7 +251,7 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Berlin, DE",
       "venue": "O2-World",
-      "notes": "Soundman OKM IIr \u00b7 wb",
+      "notes": "Soundman OKM IIr · wb",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-06-09 - Berlin, DE - O2-World (Soundman OKM IIr) (wb) [AUD].txt"
@@ -251,11 +265,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Park MGM",
-      "notes": "Park \u00b7 Multiple IEM Source Matrix",
+      "notes": "Park · Multiple IEM Source Matrix",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2019-06-19 - Las Vegas, NV - Park MGM - Park Theater (Multiple IEM Source Matrix) [MIX].txt"
     }
-  ],
-  "misc": []
+  ]
 };
