@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1971-06-25 - Paris, France - Studio 104 de la Maison de la Radio [FM].txt"
     }
-  ],
-  "misc": []
+  ]
 };
