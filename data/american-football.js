@@ -82,6 +82,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2024-10-11 - Las Vegas, NV - Best Friends Forever Festival (Zoom H1n) (unk) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
