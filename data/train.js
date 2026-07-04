@@ -124,6 +124,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2017-07-01 - Maryland Heights, MO - Hollywood Casino Amphitheatre (Tascam DR-07) (shane e. calhoon) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
