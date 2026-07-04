@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1998-12-31 - Chicago, IL - House of Blues (unk) [FM].txt"
     }
-  ],
-  "misc": []
+  ]
 };
