@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1982-11-26 - Montego Bay, Jamaica - Jamaica World Music Festival. - CASS(M) [SBD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
