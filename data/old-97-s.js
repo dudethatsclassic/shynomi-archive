@@ -127,6 +127,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2026-04-04 - Washington, DC - 930 Club (Gefell MV400L) (alex leary) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
