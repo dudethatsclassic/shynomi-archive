@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2025-05-14 - Green Bay, WI - Phoenix Park (Shure MV88, Ambeo, Zoom H2) (unk) [MIX24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
