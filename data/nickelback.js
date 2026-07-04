@@ -182,6 +182,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2024-05-21 - London, UK - O2 Arena (Sony A10) (unk) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
