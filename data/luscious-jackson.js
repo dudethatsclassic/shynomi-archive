@@ -24,7 +24,7 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's Heartbreak Hotel",
-      "notes": "ANA(M) \u00b7 Sony PC-62 \u00b7 phil h.",
+      "notes": "ANA(M) · Sony PC-62 · phil h.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-11-17 - Providence, RI - Lupo's Heartbreak Hotel - ANA(M) (Sony PC-62) (phil h.) [AUD].txt"
@@ -52,7 +52,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Palace",
-      "notes": "ECM737 \u00b7 unk",
+      "notes": "ECM737 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-05-16 - Hollywood, CA - The Palace (ECM737) (unk) [AUD].txt"
@@ -108,7 +108,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Victoria, BC",
       "venue": "The Limit",
-      "notes": "Sony WM-F46 \u00b7 crowflies",
+      "notes": "Sony WM-F46 · crowflies",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-02-08 - Victoria, BC - The Limit (Sony WM-F46) (crowflies) [AUD].txt"
@@ -122,7 +122,7 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "JFK Stadium",
-      "notes": "Tibetan \u00b7 M \u00b7 unk",
+      "notes": "Tibetan · M · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-06-14 - Washington, DC - JFK Stadium - Tibetan Freedom Concert - ANA(M) (unk) [AUD].txt"
@@ -136,7 +136,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Burgettstown, PA",
       "venue": "CCSLA",
-      "notes": "CSB \u00b7 smores",
+      "notes": "CSB · smores",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-08-09 - Burgettstown, PA - CCSLA (CSB) (smores) [AUD].txt"
@@ -155,6 +155,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1999-08-29 - Reading, UK - Reading Festival [preFM].txt"
     }
-  ],
-  "misc": []
+  ]
 };
