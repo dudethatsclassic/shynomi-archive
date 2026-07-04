@@ -81,6 +81,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2025-05-31 - San Mateo, CA - San Mateo County Event Center (Schoeps MK4s) (tj) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
