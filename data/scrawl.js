@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1992-01-25 - New York, NY - Knitting Factory (jason) [SBD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
