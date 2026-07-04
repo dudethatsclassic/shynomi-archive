@@ -107,6 +107,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2022-05-16 - Fresno, CA - Save Mart Center (CA-11s) (tapeworm48) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
