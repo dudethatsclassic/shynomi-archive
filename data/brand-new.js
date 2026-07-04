@@ -79,6 +79,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2025-06-17 - Charlotte, NC - PNC Music Pavilion (Schoeps MK4s + Marantz PMD-620) (ryanj) [MIX24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
