@@ -53,6 +53,5 @@ const ARTIST_DATA = {
       "format": "MP4",
       "textFile": "2025-11-16 - Orlando, FL - Tinker Field - Vans Warped '25 Festival [WEB].txt"
     }
-  ],
-  "misc": []
+  ]
 };
