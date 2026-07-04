@@ -19,7 +19,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB",
-      "notes": "Sony PC62 \u00b7 george n.",
+      "notes": "Sony PC62 · george n.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-07-11 - New York, NY - CBGB (Sony PC62) (george n.) [AUD].txt"
@@ -33,7 +33,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "notes": "ANA(M) \u00b7 ECM-909 \u00b7 tjcruz",
+      "notes": "ANA(M) · ECM-909 · tjcruz",
       "version": "AUD",
       "format": "FLAC"
     },
