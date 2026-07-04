@@ -183,6 +183,5 @@ const ARTIST_DATA = {
       "format": "DVD",
       "textFile": "2024-09-20 - Las Vegas, NV - T-Mobile Arena - iHeart Radio Festival [DVD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
