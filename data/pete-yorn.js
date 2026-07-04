@@ -67,6 +67,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2019-08-13 - Santa Monica, CA - KCRW Morning Becomes Eclectic [FM].txt"
     }
-  ],
-  "misc": []
+  ]
 };
