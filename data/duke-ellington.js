@@ -83,6 +83,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1973-11-02 - Berlin, Germany - Philharmonie Jazztage [FM].txt"
     }
-  ],
-  "misc": []
+  ]
 };
