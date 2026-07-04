@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "311",
   "name": "311",
   "drive": "E",
-  "showCount": 55,
+  "showCount": 56,
   "firstYear": 1991,
   "lastYear": 2026,
   "years": [
@@ -149,7 +149,7 @@ const ARTIST_DATA = {
       "notes": "brad downen transfer",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1994-08-28 - Washington, DC - The Bayou (brad downen transfer) [SBD].txt"
+      "textFile": "1994-08-28 - Washington, DC - The Bayou (vadnais transfer) [SBD].txt"
     },
     {
       "year": 1994,
@@ -243,7 +243,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Costa Mesa, CA",
       "venue": "The Empire Ballroom",
-      "notes": "DSM6m \u00b7 unk",
+      "notes": "DSM6m · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-05-26 - Costa Mesa, CA - The Empire Ballroom (DSM6m) (unk) [AUD].txt"
@@ -257,7 +257,7 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "IMU Main Lounge",
-      "notes": "DAT(M) \u00b7 CSB \u00b7 so",
+      "notes": "DAT(M) · CSB · so",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-09-18 - Iowa City, IA - IMU Main Lounge - DAT(M) (CSB) (so) [AUD].txt"
@@ -330,7 +330,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1996-05-26 - Winston-Salem, NC - Millenium Center [SBD].txt"
+      "textFile": "1996-05-26 - Winston-Salem, NC - Millenium Center (unk) [SBD].txt"
     },
     {
       "year": 1996,
@@ -383,7 +383,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Bonner Springs, CA",
       "venue": "Sandstone Amphitheatre",
-      "notes": "DAT(M) \u00b7 unk",
+      "notes": "DAT(M) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-06-08 - Bonner Springs, CA - Sandstone Amphitheatre - DAT(M) (unk) [AUD].txt"
@@ -425,7 +425,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -455,7 +455,7 @@ const ARTIST_DATA = {
       "notes": "joelmahaffey",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-08-21 - Pittsburgh, PA - Metropol (joelmahaffey) [AUD].txt"
+      "textFile": "1996-08-21 - Pittsburgh, PA - Metropol (unk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -597,6 +597,19 @@ const ARTIST_DATA = {
       "textFile": "2000-02-23 - Lake Buena Vista, FL - House of Blues (unk) [AUD].txt"
     },
     {
+      "year": 2000,
+      "month": 6,
+      "day": 23,
+      "dateStr": "6-23-2000",
+      "city": "Pelham",
+      "state": "AL",
+      "location": "Pelham, AL",
+      "venue": "Oak Mountain Ampitheatre",
+      "notes": "jr",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
       "year": 2001,
       "month": 7,
       "day": 27,
@@ -605,7 +618,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "Central FL Fairgrounds",
-      "notes": "Warped \u00b7 unk",
+      "notes": "Warped · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-07-27 - Orlando, FL - Central FL Fairgrounds - Warped Tour (unk) [AUD].txt"
@@ -619,7 +632,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "Ford Amphitheater",
-      "notes": "Sony ECM-DS70P \u00b7 kevdogg",
+      "notes": "Sony ECM-DS70P · kevdogg",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-08-01 - Tampa, FL - Ford Amphitheater (Sony ECM-DS70P) (kevdogg) [AUD].txt"
@@ -712,7 +725,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Hard Rock Casino",
-      "notes": "unk \u00b7 brad downen",
+      "notes": "unk · brad downen",
       "version": "MIX",
       "format": "FLAC 24"
     },
@@ -725,7 +738,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Salt Shed",
-      "notes": "Schoeps MK22 + SBD \u00b7 brad downed",
+      "notes": "Schoeps MK22 + SBD · brad downed",
       "version": "MIX",
       "format": "FLAC 24",
       "textFile": "2024-07-21 - Chicago, IL - Salt Shed (Schoeps MK22 + SBD) (brad downed) [MIX24].txt"
@@ -739,7 +752,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Salt Shed Fairgrounds",
-      "notes": "AT943 \u00b7 englishskylarking",
+      "notes": "AT943 · englishskylarking",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-07-21 - Chicago, IL - Salt Shed Fairgrounds (AT943) (englishskylarking) [AUD].txt"
@@ -753,7 +766,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Cal Coast Credit Union Open Air Theatre",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-08-25 - San Diego, CA - Cal Coast Credit Union Open Air Theatre (DPA 4081) (faninor) [AUD24].txt"
@@ -767,7 +780,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Channel 24",
-      "notes": "SP-CMC-4U \u00b7 vibrioidxire",
+      "notes": "SP-CMC-4U · vibrioidxire",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-03-01 - Sacramento, CA - Channel 24 (SP-CMC-4U) (vibrioidxire) [AUD24].txt"
@@ -781,11 +794,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Redmond, OR",
       "venue": "Reggae Rise Up Oregon",
-      "notes": "CMC1s \u00b7 climbingbear",
+      "notes": "CMC1s · climbingbear",
       "version": "AUD",
       "format": "FLAC 32",
       "textFile": "2026-06-13 - Redmond, OR - Reggae Rise Up Oregon (CMC1s) (climbingbear) (shutup&DANce transfer) [AUD32].txt"
     }
-  ],
-  "misc": []
+  ]
 };
