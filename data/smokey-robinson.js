@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1977-10-21 - Bremen, Germany - WDR-TV Studios - Musikladen Extra [TV].txt"
     }
-  ],
-  "misc": []
+  ]
 };
