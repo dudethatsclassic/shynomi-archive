@@ -18,11 +18,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Canoga Park, CA",
       "venue": "Club M",
-      "notes": "ANA(M) \u00b7 krw_co",
+      "notes": "ANA(M) · krw_co",
       "version": "SBD",
       "format": "FLAC 24",
       "textFile": "1991-04-04 - Canoga Park, CA - Club M - ANA(M) (krw_co) [SBD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
