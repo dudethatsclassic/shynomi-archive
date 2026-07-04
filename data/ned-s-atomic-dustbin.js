@@ -33,10 +33,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Wolverhampton, UK",
       "venue": "The Halls at the Civic",
-      "notes": "Roland R05 \u00b7 motr1912",
+      "notes": "Roland R05 · motr1912",
       "version": "AUD",
       "format": "FLAC"
     }
-  ],
-  "misc": []
+  ]
 };
