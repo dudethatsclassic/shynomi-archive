@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1995-09-29 - Denver, CO - Seven South (jim hucks) [SBD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
