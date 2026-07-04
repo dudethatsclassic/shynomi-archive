@@ -1,58 +1,71 @@
 const ARTIST_MISC_DATA = [
   {
-    "type": "label",
+    "type": "release",
     "label": "Ben Folds - 1990 Demos",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1990,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Ben Folds - 1990 Demos (Goody Remaster, v.2)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1990,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Ben Folds - Itunes Sessions",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Ben Folds - Rare",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Ben Folds - Vault 1",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Ben Folds - Vault 2 + Extra",
-    "format": "FLAC + MP4"
+    "format": "FLAC + MP4",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Ben Folds - The Bens + Majosha '89",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Ben Folds - Way To Normal (Fake Leaked Version) + I Made It Up On Stage",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Ben Folds - So There",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Ben Folds - Sunny 16, Speed Graphic + Super D EPs",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Ben Folds - Live In Perth (2017)",
-    "version": "Official Release",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 2017,
+    "category": "OTHER"
   }
 ];
