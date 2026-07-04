@@ -37,7 +37,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Modern Rock Live",
-      "notes": "ANA(x) \u00b7 unk",
+      "notes": "ANA(x) · unk",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1997-03-09 - Los Angeles, CA - Modern Rock Live - ANA(x) (unk) [FM].txt"
@@ -79,7 +79,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheater",
-      "notes": "Summerfest \u00b7 unk",
+      "notes": "Summerfest · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-06-26 - Milwaukee, WI - Marcus Amphitheater - Summerfest (unk) [AUD].txt"
@@ -93,7 +93,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
-      "notes": "CSB \u00b7 unk",
+      "notes": "CSB · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-10-08 - St. Louis, MO - Mississippi Nights (CSB) (unk) [AUD].txt"
@@ -135,7 +135,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
-      "notes": "Core Sound Omnis \u00b7 shane e. calhoon",
+      "notes": "Core Sound Omnis · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2000-07-25 - St. Louis, MO - Mississippi Nights (Core Sound Omnis) (shane e. calhoon) [AUD].txt"
@@ -163,7 +163,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Lee's Palace",
-      "notes": "CSB \u00b7 unk",
+      "notes": "CSB · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2000-08-04 - Toronto, ON - Lee's Palace (CSB) (unk) [AUD].txt"
@@ -205,7 +205,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Cityfest Live",
-      "notes": "WB \u00b7 unk",
+      "notes": "WB · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-04-27 - Charlotte, NC - Cityfest Live - WB Stage (unk) [AUD].txt"
@@ -219,7 +219,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Sauget, IL",
       "venue": "Pop's",
-      "notes": "Core Sound Stealthy \u00b7 shane e. calhoon",
+      "notes": "Core Sound Stealthy · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-04-30 - Sauget, IL - Pop's (Core Sound Stealthy) (shane e. calhoon) [AUD].txt"
@@ -261,7 +261,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Antioch, IL",
       "venue": "Blarney Island",
-      "notes": "Sony ECM-DS70P \u00b7 ryan fisher",
+      "notes": "Sony ECM-DS70P · ryan fisher",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-09-13 - Antioch, IL - Blarney Island (Sony ECM-DS70P) (ryan fisher) [AUD].txt"
@@ -278,7 +278,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-05-22 - Kelseyville, CA - Konocti Harbor (unk) [AUD].txt"
+      "textFile": "2009-05-22 - Kelseyville, CA - Konocti Harbor (Sony MS907) (mike markov) [AUD].txt"
     },
     {
       "year": 2009,
@@ -289,7 +289,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Kelseyville, CA",
       "venue": "Konocti Harbor",
-      "notes": "Sony MS907 \u00b7 mike markov",
+      "notes": "Sony MS907 · mike markov",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-05-22 - Kelseyville, CA - Konocti Harbor (Sony MS907) (mike markov) [AUD].txt"
@@ -303,7 +303,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Soldier's Memorial",
-      "notes": "Edirol R-09 \u00b7 shane e. calhoon",
+      "notes": "Edirol R-09 · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-10-03 - St. Louis, MO - Soldier's Memorial (Edirol R-09) (shane e. calhoon) [AUD].txt"
@@ -317,7 +317,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Galveston, TX",
       "venue": "Moody Gardens Amphitheatre",
-      "notes": "SP-BMC-2 \u00b7 mysticalcrow",
+      "notes": "SP-BMC-2 · mysticalcrow",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-05-29 - Galveston, TX - Moody Gardens Amphitheatre (SP-BMC-2) (mysticalcrow) [AUD].txt"
@@ -345,7 +345,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "O'Fallon, MO",
       "venue": "Heritage & Freedom Festival",
-      "notes": "Tascam DR-07 \u00b7 shane e. calhoon",
+      "notes": "Tascam DR-07 · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-07-04 - O'Fallon, MO - Heritage & Freedom Festival (Tascam DR-07) (shane e. calhoon) [AUD].txt"
@@ -359,7 +359,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "Promenade Park",
-      "notes": "Edirol R-09 \u00b7 live2cd",
+      "notes": "Edirol R-09 · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-08-06 - Toledo, OH - Promenade Park (Edirol R-09) (live2cd) [AUD].txt"
@@ -373,7 +373,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Columbus, IN",
       "venue": "Cerland Amphitheater",
-      "notes": "Edirol R-09 \u00b7 live2cd",
+      "notes": "Edirol R-09 · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-08-27 - Columbus, IN - Cerland Amphitheater (Edirol R-09) (live2cd) [AUD].txt"
@@ -401,7 +401,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Columbus Bicentennial Pavilion",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-05-11 - Columbus, OH - Columbus Bicentennial Pavilion (CA-14) (live2cd) [AUD].txt"
@@ -415,7 +415,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Hollywood Casino",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2013-02-01 - Columbus, OH - Hollywood Casino (CA-14) (live2cd) [AUD24].txt"
@@ -443,7 +443,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Agoura Hills, CA",
       "venue": "The Canyon Club",
-      "notes": "AT853 \u00b7 david sell",
+      "notes": "AT853 · david sell",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-03-14 - Agoura Hills, CA - The Canyon Club (AT853) (david sell) [AUD].txt"
@@ -457,7 +457,7 @@ const ARTIST_DATA = {
       "state": "MS",
       "location": "Biloxi, MS",
       "venue": "Golden Nugget",
-      "notes": "Sony ECM-DS70P \u00b7 ryan fisher",
+      "notes": "Sony ECM-DS70P · ryan fisher",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-07-26 - Biloxi, MS - Golden Nugget (Sony ECM-DS70P) (ryan fisher) [AUD].txt"
@@ -471,7 +471,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "O'Fallon, MO",
       "venue": "Heritage & Freedom Fest",
-      "notes": "SP-C4-MKII \u00b7 shane e. calhoon",
+      "notes": "SP-C4-MKII · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2015-07-04 - O'Fallon, MO - Heritage & Freedom Fest (SP-C4-MKII) (shane e. calhoon) [AUD].txt"
@@ -485,7 +485,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Huber Heights, OH",
       "venue": "Rose Music Center",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2017-06-27 - Huber Heights, OH - Rose Music Center (CA-14) (live2cd) [AUD24].txt"
@@ -499,7 +499,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Albright Knox Art Gallery",
-      "notes": "AT831s \u00b7 binko",
+      "notes": "AT831s · binko",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2017-06-29 - Buffalo, NY - Albright Knox Art Gallery (AT831s) (binko) [AUD24].txt"
@@ -527,7 +527,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Huber Heights, OH",
       "venue": "Rose Music Center",
-      "notes": "AT853 \u00b7 live2cd",
+      "notes": "AT853 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2018-06-13 - Huber Heights, OH - Rose Music Center (AT853) (live2cd) [AUD24].txt"
@@ -541,7 +541,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Huntersville, NC",
       "venue": "Historic Rural Hall",
-      "notes": "CA-14 \u00b7 charles dewey cole",
+      "notes": "CA-14 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2019-10-05 - Huntersville, NC - Historic Rural Hall (CA-14) (charles dewey cole) [AUD24].txt"
@@ -555,7 +555,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Huber Heights, OH",
       "venue": "Rose Music Center",
-      "notes": "CA-14 \u00b7 charles dewey cole",
+      "notes": "CA-14 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2021-09-11 - Huber Heights, OH - Rose Music Center (CA-14) (charles dewey cole) [AUD24].txt"
@@ -569,7 +569,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Columbia, IL",
       "venue": "Songs For Soldiers",
-      "notes": "Neumann SKM 184s \u00b7 shane e. calhoon",
+      "notes": "Neumann SKM 184s · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-09-09 - Columbia, IL - Songs For Soldiers (Neumann SKM 184s) (shane e. calhoon) [AUD].txt"
@@ -583,7 +583,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Norwegian Pearl",
       "venue": "Stardust Theater",
-      "notes": "Summer \u00b7 Church Audio Omnis CA9200 \u00b7 unk",
+      "notes": "Summer · Church Audio Omnis CA9200 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-04-20 - Norwegian Pearl - Stardust Theater - Summer of 99 Cruise (Church Audio Omnis CA9200) (unk) [AUD].txt"
@@ -597,7 +597,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Norwegian Jade",
       "venue": "Stardust Theater",
-      "notes": "Summer \u00b7 Edirol R09HR \u00b7 unk",
+      "notes": "Summer · Edirol R09HR · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-04-27 - Norwegian Jade - Stardust Theater - Summer of 99 Cruise (Edirol R09HR) (unk) [AUD].txt"
@@ -611,7 +611,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Norwegian Jade",
       "venue": "Stardust Theater",
-      "notes": "Summer \u00b7 Edirol R09HR \u00b7 unk",
+      "notes": "Summer · Edirol R09HR · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-04-29 - Norwegian Jade - Stardust Theater - Summer of 99 & Beyond (Edirol R09HR) (unk) [AUD].txt"
@@ -625,7 +625,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Columbus Bicentennial Pavilion",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-08-25 - Columbus, OH - Columbus Bicentennial Pavilion (CA-14) (live2cd) [AUD24].txt"
@@ -639,7 +639,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington DC",
       "venue": "Nationals Park",
-      "notes": "LG V60 \u00b7 hemisphire",
+      "notes": "LG V60 · hemisphire",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-09-21 - Washington DC - Nationals Park (LG V60) (hemisphire) [AUD].txt"
@@ -653,7 +653,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Powell, OH",
       "venue": "Village Green Park",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-06-21 - Powell, OH - Village Green Park (CA-14) (live2cd) [AUD24].txt"
@@ -667,11 +667,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Mason, OH",
       "venue": "Mason Municipal Campus",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-07-03 - Mason, OH - Mason Municipal Campus (CA-14) (live2cd) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
