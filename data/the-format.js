@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2025-09-30 - New York, NY - Beacon Theatre (MS-CMC-25) (sedgewick1) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
