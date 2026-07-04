@@ -55,7 +55,7 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Riddarholmen",
-      "notes": "ANA(M) \u00b7 unk \u00b7 qew transfer",
+      "notes": "ANA(M) · unk · qew transfer",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1998-08-14 - Stockholm, Sweden - Riddarholmen - ANA(M) (unk) (qew transfer) [AUD].txt"
@@ -69,7 +69,7 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "Cooper's Field",
-      "notes": "Radio \u00b7 drumsboy transfer",
+      "notes": "Radio · drumsboy transfer",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1998-09-13 - Cardiff, Wales - Cooper's Field - Radio One (drumsboy transfer) [FM].txt"
@@ -97,7 +97,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "The Astoria Theatre",
-      "notes": "DAT(M) \u00b7 Marantz EM8 \u00b7 gary watson",
+      "notes": "DAT(M) · Marantz EM8 · gary watson",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-08-26 - London, England - The Astoria Theatre - DAT(M) (Marantz EM8) (gary watson) [AUD].txt"
@@ -125,7 +125,7 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Zambujeira do Mar, Portugal",
       "venue": "Sudoeste Festival",
-      "notes": "Herdade \u00b7 kreative",
+      "notes": "Herdade · kreative",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "2004-08-07 - Zambujeira do Mar, Portugal - Sudoeste Festival - Herdade da Casa Branca (kreative) [SBD].txt"
@@ -139,7 +139,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Die Roehre",
-      "notes": "MBHO MBP 603A \u00b7 unk",
+      "notes": "MBHO MBP 603A · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-05-02 - Stuttgart, Germany - Die Roehre (MBHO MBP 603A) (unk) [AUD}.txt"
@@ -167,7 +167,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Echo",
-      "notes": "Nakamichi CM100 \u00b7 markp",
+      "notes": "Nakamichi CM100 · markp",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-01-31 - Los Angeles, CA - The Echo (Nakamichi CM100) (markp) [AUD].txt"
@@ -186,6 +186,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2015-06-12 - Manchester, England - Sound Control (Sony ECM-125) (unk) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
