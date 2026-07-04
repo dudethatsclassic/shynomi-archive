@@ -94,6 +94,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2025-06-06 - Ridgefield WA - Cascades Amphitheatre (Sennheiser Ambeo, Pixel) (grizzley adams, esamirp) [MIX].txt"
     }
-  ],
-  "misc": []
+  ]
 };
