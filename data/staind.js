@@ -27,7 +27,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Winston-Salem, NC",
       "venue": "Ziggy's",
-      "notes": "ANA(M) \u00b7 shynomi",
+      "notes": "ANA(M) · shynomi",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-09-13 - Winston-Salem, NC - Ziggy's - ANA(M) (shynomi) [AUD].txt"
@@ -83,7 +83,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheater",
-      "notes": "KROQ \u00b7 Sony ECM-DSP70 \u00b7 the v.u.",
+      "notes": "KROQ · Sony ECM-DSP70 · the v.u.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-12-14 - Universal City, CA - Universal Amphitheater - KROQ Almost Acoustic Christmas (Sony ECM-DSP70) (the v.u.) [AUD].txt"
@@ -111,7 +111,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "HiFi Buys Amphitheater",
-      "notes": "CSB \u00b7 geordy",
+      "notes": "CSB · geordy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-09-30 - Atlanta, GA - HiFi Buys Amphitheater (CSB) (geordy) [AUD].txt"
@@ -125,7 +125,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Binghamton, NY",
       "venue": "Broome County Arena",
-      "notes": "ATu853s \u00b7 dassarri",
+      "notes": "ATu853s · dassarri",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-05-13 - Binghamton, NY - Broome County Arena (ATu853s) (dassarri) [AUD].txt"
@@ -167,7 +167,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "AT853s \u00b7 tj",
+      "notes": "AT853s · tj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-09-11 - Mountain View, CA - Shoreline Amphitheatre (AT853s) (tj) [AUD].txt"
@@ -181,7 +181,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Daytona Beach, FL",
       "venue": "Welcome to Rockville Festival",
-      "notes": "SP-CMC-8 \u00b7 porcelmc",
+      "notes": "SP-CMC-8 · porcelmc",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-11-13 - Daytona Beach, FL - Welcome to Rockville Festival (SP-CMC-8) (porcelmc) [AUD].txt"
@@ -195,7 +195,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "DCU Center",
-      "notes": "Zoom H1n \u00b7 mm",
+      "notes": "Zoom H1n · mm",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-04-27 - Worcester, MA - DCU Center (Zoom H1n) (mm) [AUD24].txt"
@@ -209,7 +209,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-10-13 - Anaheim, CA - Honda Center (DPA 4081) (faninor) [AUD24].txt"
@@ -223,7 +223,7 @@ const ARTIST_DATA = {
       "state": "MS",
       "location": "Biloxi, MS",
       "venue": "Mississippi Coast Coliseum and Convention Center",
-      "notes": "Schoeps MK4 \u00b7 jesse mc",
+      "notes": "Schoeps MK4 · jesse mc",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-05-09 - Biloxi, MS - Mississippi Coast Coliseum and Convention Center (Schoeps MK4) (jesse mc) [AUD24].txt"
