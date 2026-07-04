@@ -35,7 +35,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "notes": "Schoeps MK4s \u00b7 perks",
+      "notes": "Schoeps MK4s · perks",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-10-08 - Minneapolis, MN - First Avenue (Schoeps MK4s) (perks) [AUD].txt"
@@ -49,7 +49,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Mound, MN",
       "venue": "Our Lady Of The Lakes Catholic Church",
-      "notes": "Schoeps MK5s \u00b7 perks",
+      "notes": "Schoeps MK5s · perks",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-05-19 - Mound, MN - Our Lady Of The Lakes Catholic Church (Schoeps MK5s) (perks) [AUD].txt"
@@ -63,7 +63,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Falcon Heights, MN",
       "venue": "Grandstand",
-      "notes": "MN \u00b7 Schoeps MK5s \u00b7 perks",
+      "notes": "MN · Schoeps MK5s · perks",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-08-31 - Falcon Heights, MN - Grandstand - MN State Fairgrounds (Schoeps MK5s) (perks) [AUD].txt"
@@ -77,11 +77,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "notes": "iPhone 13 \u00b7 ngs428",
+      "notes": "iPhone 13 · ngs428",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-01-28 - Minneapolis, MN - First Avenue (iPhone 13) (ngs428) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
