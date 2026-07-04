@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1997-06-03 - San Diego, CA - Sports Arena (Realistic Walkman) (michael cariola) [AUD] .txt"
     }
-  ],
-  "misc": []
+  ]
 };
