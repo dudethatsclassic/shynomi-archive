@@ -48,7 +48,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Casbah",
-      "notes": "ANA(M) \u00b7 unk",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1992-06-13 - San Diego, CA - Casbah - ANA(M) (unk) [AUD].txt"
@@ -76,7 +76,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "The Middle East",
-      "notes": "unk \u00b7 auto_pilot",
+      "notes": "unk · auto_pilot",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-06-11 - Cambridge, MA - The Middle East (unk) (auto_pilot) [AUD].txt"
@@ -104,11 +104,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Showbox",
-      "notes": "DPA 4060 \u00b7 tim kahn",
+      "notes": "DPA 4060 · tim kahn",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2016-08-27 - Seattle, WA - Showbox (DPA 4060) (tim kahn) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
