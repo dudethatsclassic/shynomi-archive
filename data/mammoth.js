@@ -264,6 +264,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2026-04-01 - Cincinnati, OH - Bogart's (SP-CMC-8) (live2cd) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
