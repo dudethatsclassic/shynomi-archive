@@ -126,6 +126,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2009-08-15 - Chicago, IL - Schubas Tavern (Late show) (CA-11) (brian emerick) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
