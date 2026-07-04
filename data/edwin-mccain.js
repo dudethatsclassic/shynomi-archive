@@ -53,6 +53,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2024-06-27 - Bethel, NY - Bethel Woods Center for the Arts (Schoeps MK41vs) (radio_w_b) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
