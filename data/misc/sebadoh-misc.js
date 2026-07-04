@@ -3,6 +3,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Sebadoh - BBC Sessions 1992-1995",
     "version": "FM",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1992,
+    "category": "OTHER"
   }
 ];
