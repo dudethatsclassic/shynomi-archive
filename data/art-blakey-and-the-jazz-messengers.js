@@ -345,6 +345,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1986-10-02 - Philadelphia, PA - Chestnut Cabaret (billydee) [SBD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
