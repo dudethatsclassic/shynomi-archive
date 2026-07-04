@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "avril-lavigne",
   "name": "Avril Lavigne",
   "drive": "G",
-  "showCount": 25,
+  "showCount": 35,
   "firstYear": 2002,
   "lastYear": 2024,
   "years": [
@@ -12,7 +12,9 @@ const ARTIST_DATA = {
     2007,
     2008,
     2011,
+    2012,
     2013,
+    2014,
     2022,
     2024
   ],
@@ -193,6 +195,19 @@ const ARTIST_DATA = {
     },
     {
       "year": 2007,
+      "month": 7,
+      "day": 12,
+      "dateStr": "7-12-2007",
+      "city": "Hamburg",
+      "state": "Germany",
+      "location": "Hamburg, Germany",
+      "venue": "Stadtpark",
+      "notes": "Sharp MT-180 · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2007,
       "month": 8,
       "day": 3,
       "dateStr": "8-3-2007",
@@ -234,6 +249,97 @@ const ARTIST_DATA = {
       "textFile": "2008-03-16 - Saskatoon, SK - Credit Union Centre (Edirol R-09) (auriel) [AUD].txt"
     },
     {
+      "year": 2008,
+      "month": 6,
+      "day": 18,
+      "dateStr": "6-18-2008",
+      "city": "Düsseldorf",
+      "state": "Germany",
+      "location": "Düsseldorf, Germany",
+      "venue": "Phillipshalle",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2008,
+      "month": 7,
+      "day": 7,
+      "dateStr": "7-7-2008",
+      "city": "Budapest",
+      "state": "Hungary",
+      "location": "Budapest, Hungary",
+      "venue": "Petofi Csarnok",
+      "notes": "CA-11 · tomazahlin",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2008,
+      "month": 7,
+      "day": 9,
+      "dateStr": "7-9-2008",
+      "city": "Leoben",
+      "state": "Austria",
+      "location": "Leoben, Austria",
+      "venue": "Hauptplatz",
+      "notes": "CA-11 · tomazahlin",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2008,
+      "month": 9,
+      "day": 20,
+      "dateStr": "9-20-2008",
+      "city": "Osaka",
+      "state": "Japan",
+      "location": "Osaka, Japan",
+      "venue": "Intex Osaka",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2008,
+      "month": 9,
+      "day": 21,
+      "dateStr": "9-21-2008",
+      "city": "Osaka",
+      "state": "Japan",
+      "location": "Osaka, Japan",
+      "venue": "Intex Osaka",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2008,
+      "month": 9,
+      "day": 24,
+      "dateStr": "9-24-2008",
+      "city": "Hiroshima",
+      "state": "Japan",
+      "location": "Hiroshima, Japan",
+      "venue": "Sun Plaza Hall",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2011,
+      "month": 10,
+      "day": 13,
+      "dateStr": "10-13-2011",
+      "city": "Regina",
+      "state": "SK",
+      "location": "Regina, SK",
+      "venue": "Brandt Centre",
+      "notes": "Edirol R-09 · kim",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
       "year": 2011,
       "month": 10,
       "day": 17,
@@ -246,6 +352,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-10-17 - Ottawa, Ontario - Scotiabank Place (Zoom H2) (bootlegottawa) [AUD].txt"
+    },
+    {
+      "year": 2012,
+      "month": 2,
+      "day": 9,
+      "dateStr": "2-9-2012",
+      "city": "Osaka",
+      "state": "Japan",
+      "location": "Osaka, Japan",
+      "venue": "Castle Hall",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2013,
@@ -302,6 +421,19 @@ const ARTIST_DATA = {
       "version": "TV",
       "format": "TS",
       "textFile": "2013-11-12 - Chelsea Lately (Interview) [TS].txt"
+    },
+    {
+      "year": 2014,
+      "month": 2,
+      "day": 8,
+      "dateStr": "2-8-2014",
+      "city": "Osaka",
+      "state": "Japan",
+      "location": "Osaka, Japan",
+      "venue": "Intex Osaka",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2022,
