@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2025-07-27 - Long Beach, CA - Shoreline Waterfront - Warped Tour (DPA 4081) (faninor) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
