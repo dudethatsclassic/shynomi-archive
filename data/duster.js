@@ -18,11 +18,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Las Vegas Fairgrounds",
-      "notes": "Sick \u00b7 Schoeps MK4 \u00b7 loughney",
+      "notes": "Sick · Schoeps MK4 · loughney",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-04-27 - Las Vegas, NV - Las Vegas Fairgrounds - Sick New World (Schoeps MK4) (loughney) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
