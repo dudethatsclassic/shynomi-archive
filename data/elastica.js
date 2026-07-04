@@ -19,7 +19,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Liberty Lunch SXSW Festival",
-      "notes": "MarcSounds \u00b7 markp",
+      "notes": "MarcSounds · markp",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-03-17 - Austin, TX - Liberty Lunch SXSW Festival (MarcSounds) (markp) [AUD].txt"
@@ -33,7 +33,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Glastonbury, UK",
       "venue": "Glastonbury Festival",
-      "notes": "BBC Radio 6 \u00b7 pawel",
+      "notes": "BBC Radio 6 · pawel",
       "version": "FM",
       "format": "M4A",
       "textFile": "1995-06-25 - Glastonbury, UK - Glastonbury Festival (BBC Radio 6) (pawel) [FM].txt"
