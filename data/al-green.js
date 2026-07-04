@@ -38,6 +38,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2002-12-04 - Cleveland, OH - House of Blues [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
