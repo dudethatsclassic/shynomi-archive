@@ -337,6 +337,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2024-12-01 - St. Louis, MO - Delmar Hall (Sony PCM-A10) (shane e. calhoon) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
