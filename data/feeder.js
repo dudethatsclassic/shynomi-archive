@@ -112,6 +112,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2026-05-24 - Margam, Wales - Old Park Farm (Edirol R-07) (welshylad) (petrock remaster) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
