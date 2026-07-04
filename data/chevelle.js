@@ -111,6 +111,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2025-09-16 - Denver, CO - Fillmore Auditorium (M) (DPA 4061) (loudpuppy) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
