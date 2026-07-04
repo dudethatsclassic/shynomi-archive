@@ -1,12 +1,14 @@
 const ARTIST_MISC_DATA = [
   {
-    "type": "label",
+    "type": "release",
     "label": "Liz Phair - '96 Shelved Demos",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Liz Phair - '96-'97 WCSE Sessions",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   }
 ];
