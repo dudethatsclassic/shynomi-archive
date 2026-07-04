@@ -38,7 +38,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theatre",
-      "notes": "MarcR Binaurals \u00b7 marcr",
+      "notes": "MarcR Binaurals · marcr",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1995-04-07 - Denver, CO - Ogden Theatre (MarcR Binaurals) (marcr) [AUD24].txt"
@@ -52,7 +52,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Wiltern Theatre",
-      "notes": "AUD(M) \u00b7 so cal rock shows",
+      "notes": "AUD(M) · so cal rock shows",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-04-11 - Los Angeles, CA - Wiltern Theatre - AUD(M) (so cal rock shows) [AUD].txt"
@@ -66,7 +66,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "The Troubadour",
-      "notes": "Sony WM-D3 \u00b7 manofstealth",
+      "notes": "Sony WM-D3 · manofstealth",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2005-08-10 - West Hollywood, CA - The Troubadour (Sony WM-D3) (manofstealth) [AUD24].txt"
@@ -80,7 +80,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Bass Concert Hall",
-      "notes": "Tascam DR-40 \u00b7 unk",
+      "notes": "Tascam DR-40 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2016-04-19 - Austin, TX - Bass Concert Hall (Tascam DR-40) (unk) [AUD].txt"
@@ -94,7 +94,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "The Sinclair",
-      "notes": "Zoom H2 \u00b7 craig",
+      "notes": "Zoom H2 · craig",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-06-06 - Cambridge, MA - The Sinclair (Zoom H2) (craig) [AUD].txt"
@@ -122,7 +122,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tucson, AZ",
       "venue": "Rialto Theatre",
-      "notes": "SP-CMC-25 \u00b7 unk",
+      "notes": "SP-CMC-25 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-11-08 - Tucson, AZ - Rialto Theatre (SP-CMC-25) (unk) [AUD].txt"
@@ -136,7 +136,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Masonic Auditorium",
-      "notes": "Schoeps MK4 \u00b7 loughney",
+      "notes": "Schoeps MK4 · loughney",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-11-11 - San Francisco, CA - Masonic Auditorium (Schoeps MK4) (loughney) [AUD].txt"
@@ -150,7 +150,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theatre",
-      "notes": "DPA 4060 \u00b7 ademotte",
+      "notes": "DPA 4060 · ademotte",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-11-18 - Chicago, IL - Chicago Theatre (DPA 4060) (ademotte) [AUD24].txt"
@@ -164,7 +164,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Moody Theater",
-      "notes": "SP-CMC-8s \u00b7 rjl",
+      "notes": "SP-CMC-8s · rjl",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-12-01 - Austin, TX - Moody Theater (SP-CMC-8s) (rjl) [AUD24].txt"
