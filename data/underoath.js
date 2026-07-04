@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2025-03-28 - Inglewood, CA - Kia Forum (DPA 4081) (faninor) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
