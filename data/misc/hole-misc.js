@@ -3,16 +3,50 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Hole - Cover Me (1995) (loughney transfer)",
     "version": "7\" Vinyl",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1995,
+    "category": "OTHER"
   },
   {
     "type": "label",
     "label": "6-XX-2010 / Courtney Love - Behind the Music"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Hole - Argentina Demos Tape",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Hole - Live Amsterdam '92 (1993)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Hole - Plugged & Unplugged (1995)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Hole - Rumours, Lies and Media Rape (1993-1995)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Hole - Sugar Coma",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -56,22 +90,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Hole - Live Amsterdam '92 (1993)",
-    "year": 1993,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Hole - Plugged & Unplugged (1995)",
-    "year": 1995,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
     "label": "Hole - Pretty Please (HAWK006)",
     "version": "Silver CD",
     "format": "FLAC",
@@ -96,34 +114,11 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Hole - Rumours, Lies and Media Rape (1993-1995)",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
     "label": "Hole - Something Must Break (Snatch 01)",
     "version": "Silver CD",
     "format": "FLAC",
     "category": "SILVERS",
     "textFile": "MISC - Hole - Something Must Break (Snatch 01) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Hole - Sugar Coma",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Hole - The Girl With The Most Cake {Print 004} (1995)",
-    "year": 1995,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS",
-    "textFile": "MISC - Hole - The Girl With The Most Cake [CRC mismatch] {Print 004} (1995) [Silver].txt"
   },
   {
     "type": "release",
@@ -159,22 +154,11 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Hole - Virgin Megastar (HOLY023) (RELCD05)",
+    "label": "Hole - Unplugged & Unloved (SPOT 002)",
     "version": "Silver CD",
     "format": "FLAC",
     "category": "SILVERS",
-    "textFile": "MISC - Hole - Virgin Megastar (HOLY023) (RELCD05) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "PICTURES - LIVE, ART, MAGAZINE, BOOKS etc"
-  },
-  {
-    "type": "release",
-    "label": "Hole - Unplugged & Reading (SY10170)",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
+    "textFile": "MISC - Hole - Unplugged & Unloved (SPOT 002) [Silver].txt"
   },
   {
     "type": "release",
@@ -186,56 +170,34 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Hole - Cover Me (1995)",
-    "year": 1995
-  },
-  {
-    "type": "release",
-    "label": "Hole - Unplugged & Unloved (SPOT 002)",
+    "label": "Hole - Virgin Megastar (HOLY023) (RELCD05)",
     "version": "Silver CD",
     "format": "FLAC",
     "category": "SILVERS",
-    "textFile": "MISC - Hole - Unplugged & Unloved (SPOT 002) [Silver].txt"
+    "textFile": "MISC - Hole - Virgin Megastar (HOLY023) (RELCD05) [Silver].txt"
   },
   {
     "type": "release",
-    "label": "06-XX - Courtney Love - Behind the Music",
-    "year": 2010,
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Hole - Argentina Demos Tape"
-  },
-  {
-    "type": "release",
-    "label": "Hole - Cover Me (1995)",
-    "year": 1995
-  },
-  {
-    "type": "release",
-    "label": "PICTURES - LIVE, ART, MAGAZINE, BOOKS etc"
-  },
-  {
-    "type": "release",
-    "label": "06-XX - Courtney Love - Behind the Music",
-    "year": 2010,
-    "format": "DVD",
-    "textFile": "MISC - 2010-06-XX - Courtney Love - Behind the Music [DVD].txt"
-  },
-  {
-    "type": "release",
-    "label": "Hole - Argentina Demos Tape",
-    "textFile": "MISC - Hole - Argentina Demos Tape.txt"
-  },
-  {
-    "type": "release",
-    "label": "Hole - Cover Me (1995)",
+    "label": "Hole - Doll Parts {VR 50033} (1995)",
+    "version": "Silver CD",
+    "format": "FLAC",
     "year": 1995,
-    "textFile": "MISC - Hole - Cover Me (1995).txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "PICTURES - LIVE, ART, MAGAZINE, BOOKS etc"
+    "label": "Hole - Reading 1995 {3D-HO-035} (1995)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Hole - The Girl With The Most Cake [CRC mismatch] {Print 004} (1995)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SILVERS"
   }
 ];
