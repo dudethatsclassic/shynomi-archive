@@ -53,6 +53,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2026-03-06 - Stockholm, SWE - Slaktkyrkan (SP-CMC-4U) (qew) [AUD24] .txt"
     }
-  ],
-  "misc": []
+  ]
 };
