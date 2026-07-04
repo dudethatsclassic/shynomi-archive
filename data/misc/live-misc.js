@@ -1,8 +1,9 @@
 const ARTIST_MISC_DATA = [
   {
-    "type": "label",
+    "type": "release",
     "label": "Live - The Complete B-Sides & Rarities Collection (10 CD)",
     "format": "FLAC",
+    "category": "OTHER",
     "textFile": "MISC - Live - The Complete B-Sides & Rarities Collection (10 CD).txt"
   },
   {
@@ -23,184 +24,73 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Live - 1992-XX-XX - Playin' Back 'ome",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1992,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Live - The Slacker Generation - Live in USA (1994) (RPCD 1192)",
     "version": "Silver CD",
     "format": "FLAC",
+    "year": 1994,
+    "category": "OTHER",
     "textFile": "MISC - Live - The Slacker Generation - Live in USA (1994) (RPCD 1192) [Silver].txt"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Live - 1998-07-15 - New Stuff (Studio Demos)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1998,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Live - 2000-04-XX - The Acoustic Sessions - Jack Flash Records (JFR 006) (inc)",
     "version": "FM",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 2000,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Live - Yorksters In Boston {HR-6035-8} (1995)",
     "version": "Silver CD",
     "format": "FLAC",
+    "year": 1995,
+    "category": "OTHER",
     "textFile": "MISC - Live - Yorksters In Boston {HR-6035-8} (1995) [Silver].txt"
   },
   {
     "type": "release",
     "label": "Live - Shit Town {KTS 437} (1995)",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1995,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Live - The Distance To Den Haag 1999 (1999)",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1999,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Live - Dance With Pink Pop {LLP 2000} (2000)",
     "version": "Silver CD",
     "format": "FLAC",
+    "year": 2000,
+    "category": "OTHER",
     "textFile": "MISC - Live - Dance With Pink Pop {LLP 2000} (2000) [Silver].txt"
   },
   {
-    "type": "label",
-    "label": "Live - Radiant Sea (2007)",
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "XX-XX - Columbia, PA - Throwing Copper Churchbox Demo",
-    "year": 1993
-  },
-  {
-    "type": "release",
-    "label": "XX-XX - Columbia, PA - Throwing Copper Churchbox Demo",
-    "year": 1993
-  },
-  {
-    "type": "release",
-    "label": "Live - 1992-XX-XX - Playin' Back 'ome",
-    "version": "Silver CD"
-  },
-  {
-    "type": "release",
-    "label": "Live - 1998-07-15 - New Stuff (Studio Demos)"
-  },
-  {
-    "type": "release",
-    "label": "Live - 2000-04-XX - The Acoustic Sessions - Jack Flash Records JFR 006) (inc)",
-    "format": "FM"
-  },
-  {
     "type": "release",
     "label": "Live - Radiant Sea (2007)",
+    "format": "FLAC",
     "year": 2007,
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Live - The Distance To Den Haag 1999 (1999)",
-    "year": 1999,
-    "version": "Silver CD"
-  },
-  {
-    "type": "release",
-    "label": "XX-XX - Columbia, PA - Throwing Copper Churchbox Demo",
-    "year": 1993
-  },
-  {
-    "type": "release",
-    "label": "Live - 1992-XX-XX - Playin' Back 'ome",
-    "version": "Silver CD"
-  },
-  {
-    "type": "release",
-    "label": "Live - 1998-07-15 - New Stuff (Studio Demos)"
-  },
-  {
-    "type": "release",
-    "label": "Live - 2000-04-XX - The Acoustic Sessions - Jack Flash Records JFR 006) (inc)",
-    "format": "FM"
-  },
-  {
-    "type": "release",
-    "label": "Live - Radiant Sea (2007)",
-    "year": 2007,
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Live - The Distance To Den Haag 1999 (1999)",
-    "year": 1999,
-    "version": "Silver CD"
-  },
-  {
-    "type": "release",
-    "label": "XX-XX - Columbia, PA - Throwing Copper Churchbox Demo",
-    "year": 1993
-  },
-  {
-    "type": "release",
-    "label": "Live - 1992-XX-XX - Playin' Back 'ome",
-    "version": "Silver CD"
-  },
-  {
-    "type": "release",
-    "label": "Live - 1998-07-15 - New Stuff (Studio Demos)"
-  },
-  {
-    "type": "release",
-    "label": "Live - 2000-04-XX - The Acoustic Sessions - Jack Flash Records JFR 006) (inc)",
-    "format": "FM"
-  },
-  {
-    "type": "release",
-    "label": "Live - Radiant Sea (2007)",
-    "year": 2007,
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Live - The Distance To Den Haag 1999 (1999)",
-    "year": 1999,
-    "version": "Silver CD"
-  },
-  {
-    "type": "release",
-    "label": "XX-XX - Columbia, PA - Throwing Copper Churchbox Demo",
-    "year": 1993
-  },
-  {
-    "type": "release",
-    "label": "Live - 1992-XX-XX - Playin' Back 'ome",
-    "version": "Silver CD"
-  },
-  {
-    "type": "release",
-    "label": "Live - 1998-07-15 - New Stuff (Studio Demos)"
-  },
-  {
-    "type": "release",
-    "label": "Live - 2000-04-XX - The Acoustic Sessions - Jack Flash Records JFR 006) (inc)",
-    "format": "FM"
-  },
-  {
-    "type": "release",
-    "label": "Live - Radiant Sea (2007)",
-    "year": 2007,
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Live - The Distance To Den Haag 1999 (1999)",
-    "year": 1999,
-    "version": "Silver CD"
+    "category": "OTHER"
   }
 ];
