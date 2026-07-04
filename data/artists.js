@@ -23,7 +23,7 @@ const ARTISTS = [
   {
     "id": "aerosmith",
     "name": "Aerosmith",
-    "showCount": 17,
+    "showCount": 18,
     "firstYear": 1976,
     "lastYear": 2019
   },
