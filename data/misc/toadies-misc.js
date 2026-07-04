@@ -1,17 +1,22 @@
 const ARTIST_MISC_DATA = [
   {
-    "type": "label",
+    "type": "release",
     "label": "Toadies - Slaphead",
-    "format": "SHN"
+    "format": "SHN",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Toadies - Best Of Toadies - Live From Paradise (2002)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 2002,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Toadies - Live at Billy Bob's Texas (Deluxe Edition) (2018)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 2018,
+    "category": "OTHER"
   }
 ];
