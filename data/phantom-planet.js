@@ -38,6 +38,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2024-10-22 - Louisville, KY - Zanzabar (SP-CMC-8) (live2cd) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
