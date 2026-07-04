@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1979-10-27 - New York, NY - Trax (WPIX 102FM) [FM].txt"
     }
-  ],
-  "misc": []
+  ]
 };
