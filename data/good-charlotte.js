@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1999-12-18 - Baltimore, MD - 8x10 [SBD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
