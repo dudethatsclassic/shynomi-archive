@@ -1,7 +1,9 @@
 const ARTIST_MISC_DATA = [
   {
-    "type": "label",
+    "type": "release",
     "label": "Paw - Death To Traitors Demos (1994)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1994,
+    "category": "OTHER"
   }
 ];
