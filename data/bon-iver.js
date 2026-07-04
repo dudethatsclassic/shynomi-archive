@@ -461,6 +461,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2019-11-23 - Eau Claire, WI - RCU Theatre [AUD] .txt"
     }
-  ],
-  "misc": []
+  ]
 };
