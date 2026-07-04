@@ -52,6 +52,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2006-09-03 - Seattle, WA - Bumbershoot Festival - Backyard Stage (Schoeps CCMV) (drew) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
