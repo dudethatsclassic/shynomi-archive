@@ -66,6 +66,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2024-06-16 - Newcastle, Australia - Civic Theatre (Zoom H4) (unk) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
