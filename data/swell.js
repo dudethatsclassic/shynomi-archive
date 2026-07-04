@@ -53,6 +53,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1999-07-18 - Oeiras, Portugal - Estadio Nacional - Cruz Quebrada [FM].txt"
     }
-  ],
-  "misc": []
+  ]
 };
