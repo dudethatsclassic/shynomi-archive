@@ -2893,9 +2893,9 @@ const ARTISTS = [
   {
     "id": "the-offspring",
     "name": "The Offspring",
-    "showCount": 100,
+    "showCount": 102,
     "firstYear": 1991,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "the-presidents-of-the-u-s-a",
