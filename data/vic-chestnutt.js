@@ -66,6 +66,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2008-02-19 - Lyon, France - L'Epicerie Moderne [SBD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
