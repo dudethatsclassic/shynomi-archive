@@ -169,6 +169,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2005-10-27 - Tokyo, Japan - O-West (Roland R-1) (unk) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
