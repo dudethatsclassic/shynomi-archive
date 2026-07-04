@@ -909,6 +909,5 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC"
     }
-  ],
-  "misc": []
+  ]
 };
