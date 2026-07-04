@@ -38,6 +38,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2024-03-04 - Anaheim, CA - Honda Center (DPA 4081 (faninor) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
