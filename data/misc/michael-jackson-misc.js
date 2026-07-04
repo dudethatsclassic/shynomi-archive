@@ -3,11 +3,14 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Michael Jackson - Transmission Impossible (2017) (ETTB088)",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 2017,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Michael Jackson - Dangerous Tour Rehearsals",
-    "format": "DVD"
+    "format": "DVD",
+    "category": "OTHER"
   }
 ];
