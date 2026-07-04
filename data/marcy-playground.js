@@ -19,7 +19,7 @@ const ARTIST_DATA = {
       "state": "ONT",
       "location": "Niagara Falls, ONT",
       "venue": "Avalon Ballroom",
-      "notes": "CA14s \u00b7 binko",
+      "notes": "CA14s · binko",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-08-27 - Niagara Falls, ONT - Avalon Ballroom (CA14s)  (binko) [AUD24].txt"
@@ -33,11 +33,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Regent Theater",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-09-19 - Los Angeles, CA - The Regent Theater (DPA 4081) (faninor) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
