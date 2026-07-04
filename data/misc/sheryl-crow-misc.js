@@ -1,7 +1,9 @@
 const ARTIST_MISC_DATA = [
   {
-    "type": "label",
+    "type": "release",
     "label": "Sheryl Crow - The Unreleased Album {SCPR01} (1997)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1997,
+    "category": "OTHER"
   }
 ];
