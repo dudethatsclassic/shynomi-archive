@@ -37,6 +37,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1973-05-28 - Clarkston, MI - Pine Knob Music Theater [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
