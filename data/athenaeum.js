@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1999-04-10 - Wingate, NC - Wingate College (unk) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
