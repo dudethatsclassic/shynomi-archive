@@ -154,6 +154,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2025-05-16 - London, UK - Desertfest (DPA 4061) (dh) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
