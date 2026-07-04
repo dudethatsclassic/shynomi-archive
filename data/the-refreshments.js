@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1996-06-11 - Boulder, CO - Fox Theater (unk) [FM] .txt"
     }
-  ],
-  "misc": []
+  ]
 };
