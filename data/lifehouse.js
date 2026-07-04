@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2001-12-10 - Pontiac, MI - Clutch Cargo's (CSB) (live2cd) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
