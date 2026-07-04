@@ -271,6 +271,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2026-03-14 - Indianapolis, IN - The Hi-Fi (CA-14) (live2cd) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
