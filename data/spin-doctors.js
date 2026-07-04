@@ -47,7 +47,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Lost Horizon",
-      "notes": "AKG C460s \u00b7 terry sullivan",
+      "notes": "AKG C460s · terry sullivan",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1992-02-20 - Syracuse, NY - Lost Horizon (AKG C460s) (terry sullivan) [AUD24].txt"
@@ -61,7 +61,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Ithaca, NY",
       "venue": "The Haunt",
-      "notes": "AKG C460s \u00b7 terry sullivan",
+      "notes": "AKG C460s · terry sullivan",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -74,11 +74,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Downtown Festival Tent",
-      "notes": "AKG C460s \u00b7 terry sullivan",
+      "notes": "AKG C460s · terry sullivan",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1992-07-16 - Rochester, NY - Downtown Festival Tent (AKG C460s) (terry sullivan) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
