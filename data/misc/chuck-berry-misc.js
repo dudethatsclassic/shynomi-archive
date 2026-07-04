@@ -3,33 +3,41 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "America's Hottest Wax (Studio 1955-1963) - Remastered Ed. (Reelin' 001)",
     "version": "LP",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1955,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Rock 'n Roll Rarities",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "More Rock 'n Roll Rarities",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "The Chuck Berry Vinyl Bootlegs - Vol. 2 *Six Two Five",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "French Broadcasts (from 1965 to 2004)",
     "version": "FM",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1965,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Live FM Radio Show - KBCO FM Boulder, CO",
     "version": "FM",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   }
 ];
