@@ -38,6 +38,5 @@ const ARTIST_DATA = {
       "format": "MKV",
       "textFile": "1993-07-03 - Roskilde, Denmark - Roskilde Festival - VHS(1) (rolling rockvideos) [MKV].txt"
     }
-  ],
-  "misc": []
+  ]
 };
