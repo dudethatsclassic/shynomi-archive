@@ -18,11 +18,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Joseph, MO",
       "venue": "Sk8Bar",
-      "notes": "Tascam DR-05 \u00b7 78jazz",
+      "notes": "Tascam DR-05 · 78jazz",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-07-21 - St. Joseph, MO - Sk8Bar (Tascam DR-05) (78jazz) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
