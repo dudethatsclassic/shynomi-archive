@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2004-04-24 - Long Beach, CA - Koo's Art Cafe (Sony MZ-R700) (the v.u.) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
