@@ -226,9 +226,9 @@ const ARTISTS = [
   {
     "id": "ben-folds",
     "name": "Ben Folds",
-    "showCount": 15,
+    "showCount": 17,
     "firstYear": 2001,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "ben-folds-five",
@@ -1269,9 +1269,9 @@ const ARTISTS = [
   {
     "id": "jimmy-eat-world",
     "name": "Jimmy Eat World",
-    "showCount": 27,
+    "showCount": 28,
     "firstYear": 1999,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "john-anderson",
