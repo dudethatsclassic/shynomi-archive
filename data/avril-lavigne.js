@@ -2,10 +2,11 @@ const ARTIST_DATA = {
   "id": "avril-lavigne",
   "name": "Avril Lavigne",
   "drive": "G",
-  "showCount": 17,
-  "firstYear": 2003,
+  "showCount": 25,
+  "firstYear": 2002,
   "lastYear": 2024,
   "years": [
+    2002,
     2003,
     2005,
     2007,
@@ -16,6 +17,58 @@ const ARTIST_DATA = {
     2024
   ],
   "shows": [
+    {
+      "year": 2002,
+      "month": 7,
+      "day": 31,
+      "dateStr": "7-31-2002",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Irving Plaza",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2002,
+      "month": 8,
+      "day": 8,
+      "dateStr": "8-8-2002",
+      "city": "Tokyo",
+      "state": "Japan",
+      "location": "Tokyo, Japan",
+      "venue": "Akasaka Blitz",
+      "notes": "Sony-ECM727p · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2002,
+      "month": 8,
+      "day": 17,
+      "dateStr": "8-17-2002",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "location": "Scottsdale, AZ",
+      "venue": "The Yeti's Nest",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2002,
+      "month": 10,
+      "day": 2,
+      "dateStr": "10-2-2002",
+      "city": "Sovereign Bank Arena (CMC-8) (unk)",
+      "state": "",
+      "location": "Sovereign Bank Arena (CMC-8) (unk)",
+      "venue": "",
+      "notes": "",
+      "version": "AUD",
+      "format": "FLAC"
+    },
     {
       "year": 2003,
       "month": 3,
@@ -29,6 +82,32 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-03-06 - Stockholm, Sweden - Globen Annex - MD(x) (unk) [AUD] .txt"
+    },
+    {
+      "year": 2003,
+      "month": 3,
+      "day": 10,
+      "dateStr": "3-10-2003",
+      "city": "Cologne",
+      "state": "Germany",
+      "location": "Cologne, Germany",
+      "venue": "Palladium",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2003,
+      "month": 4,
+      "day": 8,
+      "dateStr": "4-8-2003",
+      "city": "Brussels",
+      "state": "Belgium",
+      "location": "Brussels, Belgium",
+      "venue": "Ancienne Belgique",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -74,6 +153,19 @@ const ARTIST_DATA = {
     },
     {
       "year": 2005,
+      "month": 6,
+      "day": 16,
+      "dateStr": "6-16-2005",
+      "city": "Hamburg",
+      "state": "Germany",
+      "location": "Hamburg, Germany",
+      "venue": "Stadtpark",
+      "notes": "Sharp MD Player · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2005,
       "month": 7,
       "day": 22,
       "dateStr": "7-22-2005",
@@ -85,6 +177,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-07-22 - Kansas City, MO - Starlight Theatre (Sony MZ-N707) (bec) [AUD].txt"
+    },
+    {
+      "year": 2005,
+      "month": 8,
+      "day": 31,
+      "dateStr": "8-31-2005",
+      "city": "Halifax",
+      "state": "NS",
+      "location": "Halifax, NS",
+      "venue": "Metro Centre",
+      "notes": "SP-CMC-1 · smooke",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2007,
