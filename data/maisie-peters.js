@@ -38,6 +38,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2024-06-09 - Athens, Greece - Olympic Stadium (0ne8ung) [IEM].txt"
     }
-  ],
-  "misc": []
+  ]
 };
