@@ -1,0 +1,162 @@
+Title: Wilco - 2024-03-13 The Princess Theatre, Brisbane, AUS [43074]-SITG
+Artist: Wilco
+Venue: The Princess Theatre, Brisbane, AUS
+Date: 2024-03-13
+Release: https://play.nugs.net/release/43074
+
+Setlist:
+
+Set 1:
+  01. Infinite Surprise
+  02. At Least That's What You Said
+  03. Handshake Drugs
+  04. Story To Tell
+  05. Cruel Country
+  06. I Am Trying To Break Your Heart
+  07. One Wing
+  08. How To Fight Lonliness
+  09. Cousin
+  10. Hummingbird
+  11. Sunken Treasure
+  12. Bird Without a Tail / Base of my Skull
+  13. Evicted
+  14. Impossible Germany
+  15. Jesus, Etc.
+  16. Heavy Metal Drummer
+  17. I'm The Man Who Loves You
+  18. The Late Greats
+  19. A Shot In The Arm
+
+Encore:
+  20. Falling Apart (Right Now)
+  21. I Got You At the End of the Century
+  22. Outtasite (Outta Mind)
+  23. I'm A Wheel
+
+-------------------------------
+mediainfo:
+
+{
+    "@ref": "downloads/AUD/2025-06-25/Wilco - 2024-03-13 The Princess Theatre, Brisbane, AUS [43074]/wilco240313d1_22_Outtasite_Outta_Mind.flac",
+    "track": [
+        {
+            "@type": "General",
+            "Count": "349",
+            "StreamCount": "1",
+            "StreamKind": "General",
+            "StreamKind_String": "General",
+            "StreamKindID": "0",
+            "AudioCount": "1",
+            "Audio_Format_List": "FLAC",
+            "Audio_Format_WithHint_List": "FLAC",
+            "Audio_Codec_List": "FLAC",
+            "Audio_Channels_Total": "2",
+            "CompleteName": "downloads/AUD/2025-06-25/Wilco - 2024-03-13 The Princess Theatre, Brisbane, AUS [43074]/wilco240313d1_22_Outtasite_Outta_Mind.flac",
+            "FolderName": "downloads/AUD/2025-06-25/Wilco - 2024-03-13 The Princess Theatre, Brisbane, AUS [43074]",
+            "FileNameExtension": "wilco240313d1_22_Outtasite_Outta_Mind.flac",
+            "FileName": "wilco240313d1_22_Outtasite_Outta_Mind",
+            "FileExtension": "flac",
+            "Format": "FLAC",
+            "Format_String": "FLAC",
+            "Format_Info": "Free Lossless Audio Codec",
+            "Format_Url": "https://xiph.org/flac/",
+            "Format_Extensions": "fla flac",
+            "Format_Commercial": "FLAC",
+            "InternetMediaType": "audio/x-flac",
+            "FileSize": "16241161",
+            "FileSize_String": "15.5 MiB",
+            "FileSize_String1": "15 MiB",
+            "FileSize_String2": "15 MiB",
+            "FileSize_String3": "15.5 MiB",
+            "FileSize_String4": "15.49 MiB",
+            "Duration": "154.430",
+            "Duration_String": "2 min 34 s",
+            "Duration_String1": "2 min 34 s 430 ms",
+            "Duration_String2": "2 min 34 s",
+            "Duration_String3": "00:02:34.430",
+            "Duration_String5": "00:02:34.430",
+            "OverallBitRate_Mode": "VBR",
+            "OverallBitRate_Mode_String": "Variable",
+            "OverallBitRate": "841347",
+            "OverallBitRate_String": "841 kb/s",
+            "StreamSize": "0",
+            "StreamSize_String": "0.00 Byte (0%)",
+            "StreamSize_String1": " Byte0",
+            "StreamSize_String2": "0.0 Byte",
+            "StreamSize_String3": "0.00 Byte",
+            "StreamSize_String4": "0.000 Byte",
+            "StreamSize_String5": "0.00 Byte (0%)",
+            "StreamSize_Proportion": "0.00000",
+            "Title": "Outtasite (Outta Mind)",
+            "Album": "2024/03/13 Brisbane, AUS",
+            "Album_Performer": "Wilco",
+            "Part": "1",
+            "Track": "Outtasite (Outta Mind)",
+            "Track_Position": "22",
+            "Performer": "Wilco",
+            "Genre": "Rock",
+            "Description": "powered by nugs.net",
+            "Recorded_Date": "2024",
+            "File_Modified_Date": "2025-06-26 21:13:18 UTC",
+            "File_Modified_Date_Local": "2025-06-26 17:13:18",
+            "Encoded_Application": "Lavf61.1.100",
+            "Encoded_Application_String": "Lavf61.1.100",
+            "Copyright": "2024, Wilco",
+            "Cover": "Yes",
+            "Cover_Description": "\"Album cover\"",
+            "Cover_Mime": "image/jpeg"
+        },
+        {
+            "@type": "Audio",
+            "Count": "286",
+            "StreamCount": "1",
+            "StreamKind": "Audio",
+            "StreamKind_String": "Audio",
+            "StreamKindID": "0",
+            "Format": "FLAC",
+            "Format_String": "FLAC",
+            "Format_Info": "Free Lossless Audio Codec",
+            "Format_Url": "https://xiph.org/flac/",
+            "Format_Commercial": "FLAC",
+            "InternetMediaType": "audio/x-flac",
+            "Duration": "154.430",
+            "Duration_String": "2 min 34 s",
+            "Duration_String1": "2 min 34 s 430 ms",
+            "Duration_String2": "2 min 34 s",
+            "Duration_String3": "00:02:34.430",
+            "Duration_String5": "00:02:34.430",
+            "BitRate_Mode": "VBR",
+            "BitRate_Mode_String": "Variable",
+            "BitRate": "830269",
+            "BitRate_String": "830 kb/s",
+            "Channels": "2",
+            "Channels_String": "2 channels",
+            "ChannelPositions": "Front: L R",
+            "ChannelPositions_String2": "2/0/0",
+            "ChannelLayout": "L R",
+            "SamplingRate": "44100",
+            "SamplingRate_String": "44.1 kHz",
+            "SamplingCount": "6810368",
+            "BitDepth": "16",
+            "BitDepth_String": "16 bits",
+            "Compression_Mode": "Lossless",
+            "Compression_Mode_String": "Lossless",
+            "StreamSize": "16027303",
+            "StreamSize_String": "15.3 MiB (99%)",
+            "StreamSize_String1": "15 MiB",
+            "StreamSize_String2": "15 MiB",
+            "StreamSize_String3": "15.3 MiB",
+            "StreamSize_String4": "15.28 MiB",
+            "StreamSize_String5": "15.3 MiB (99%)",
+            "StreamSize_Proportion": "0.98683",
+            "Encoded_Library": "Lavf61.1.100",
+            "Encoded_Library_String": "Lavf61.1.100",
+            "extra": {
+                "MD5_Unencoded": "D4AAC18E25DE3822C1F363EBB955C013"
+            }
+        }
+    ]
+}
+-------------------------------
+
+*-* Sharing In The Groove (SITG) *-*

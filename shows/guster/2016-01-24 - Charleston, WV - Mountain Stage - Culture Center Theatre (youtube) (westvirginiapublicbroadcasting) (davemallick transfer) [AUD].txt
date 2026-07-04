@@ -1,0 +1,26 @@
+Guster
+January 24th, 2016
+Mountain Stage
+Culture Center Theatre, Charleston, WV
+
+Master:
+Unknown video source > YouTube (link below)
+by West Virginia Public Broadcasting
+
+Conversion:
+youtube-dl > mp4 > m4a > Sound Studio 4.11.0 > xACT 2.58 > FLAC
+by Dave Mallick
+
+01. intro                    [01:37.983]
+02. Hang On                  [05:42.385]
+03. Doin It By Myself        [04:34.792]
+04. Stay With Me Jesus       [03:22.281]
+05. Simple Machine           [03:19.396]
+06. Never Coming Down        [04:11.778]
+07. Satellite                [05:04.700]
+08. Do You Love Me           [04:25.404]
+09. This Could All Be Yours  [04:03.050]
+10. Jesus On The Radio       [02:42.579]
+                      Total: [39:04.349]
+ 
+Original audio: https://www.youtube.com/watch?v=RKM6xXCs_28

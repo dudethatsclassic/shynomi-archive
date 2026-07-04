@@ -1,0 +1,22 @@
+Guster
+January 28th, 2025
+WTTS-FM performance
+317 Plumber Studio 92, Indianapolis, IN
+
+Master:
+Unknown video source > YouTube (link below)
+by WTTSFM
+
+Conversion:
+youtube-dl > mp4 > m4a > Sound Studio 4.11.0 > xACT 2.58 > FLAC
+by Dave Mallick
+
+01. intro               [01:36.138]
+02. Black Balloon       [03:06.585]
+03. interview           [06:37.831]
+04. Satellite           [06:38.892]
+05. Ramona              [04:37.225]
+06. Jesus On The Radio  [02:44.246]
+                 Total: [25:20.917]
+
+Original video: https://www.youtube.com/watch?v=AeMB-QWemOM

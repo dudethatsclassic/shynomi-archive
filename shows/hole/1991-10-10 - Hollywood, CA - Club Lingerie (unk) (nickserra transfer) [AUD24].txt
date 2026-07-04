@@ -1,0 +1,39 @@
+HOLE
+October 10, 1991
+Club Lingerie
+Hollywood, CA, US
+
+Source: unknown > unknown (analog)
+Transfer: Nakamichi DR-1 > Focusrite Scarlett 8i6 > Adobe Audition > WAV @ 48kHz/24-bit
+Mastering: Adobe Audition 25.3 > xACT 2.58
+Generation: ANA(1) > FLAC
+
+Transferred by Nick Serra
+Released by vibrioidxire
+
+Setlist:
+00. intro/banter
+01. Pretty on the Inside
+02. Garbage Man
+03. Berry [cuts out]
+04. The Only Rape I Know [cuts in]
+05. Babydoll
+06. Mrs. Jones
+07. The Only Rape I Know
+08. Violet
+09. Dicknail
+
+Notes: The recorder had a loose jack, causing a lot of dropouts when the external microphone is moved. There are some digital artifacts possibly from a faulty transfer to the first gen. There also seems to be a lot of band equipment issues.
+
+19de2f4b9cca1610f688203b69ce1554 *hole1991-10-10_AUD_t00.flac
+12f0dfb220daaf48101e99b42c426670 *hole1991-10-10_AUD_t01.flac
+1eaec962de80d4398fbba6fe0d9bb495 *hole1991-10-10_AUD_t02.flac
+60ae3e78437bc634f1fbb7623a8f4960 *hole1991-10-10_AUD_t03.flac
+89847797d25ebb7689edfb6e23b11c66 *hole1991-10-10_AUD_t04.flac
+fb5b36fca873384ae37a0fa3f9174120 *hole1991-10-10_AUD_t05.flac
+cb7c03c6376e07d35431edfd8cd7bdbd *hole1991-10-10_AUD_t06.flac
+1b7a2a016dbb4e95686db98e09f092e6 *hole1991-10-10_AUD_t07.flac
+cc40b12a2f2f6ef24863293de2d1ee4d *hole1991-10-10_AUD_t08.flac
+4b2b787d46289a11f38b21ef5e7201ea *hole1991-10-10_AUD_t09.flac
+
+PLEASE DO NOT CONVERT TO LOSSY FORMATS OR SELL!

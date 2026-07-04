@@ -1385,6 +1385,277 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "06. April 1992 & November 8th 1992 - Laundry Room Studio",
+    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "07. 1993 - Laundry Room Studio",
+    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "08. January 19th to 22rd 1993 - BMG Ariola Ltda",
+    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "09. February 12th to 26th 1993 - Pachyderm Recording Studio",
+    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "10. April 18th 1993 - Laundry Room Studio",
+    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "11. March 9th 1994 - Laundry Room Studio",
+    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "12. June 19th 1994 - Laundry Room Studio",
+    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "13. October 17th to 23rd 1994 - Robert Lang Studios",
+    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "BONUS+",
+    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "01. November 16th 1995 - BBC Studio Session",
+    "category": "1995-1996 - Foo Fighters First Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "02. December 1996 - WGNS Studios",
+    "category": "1995-1996 - Foo Fighters First Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "03. January 24th to 26th 1996 - Robert Lang Studios",
+    "category": "1995-1996 - Foo Fighters First Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "04. March 18th 1996 - Clatter And Din Studios",
+    "category": "1995-1996 - Foo Fighters First Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "05. October 26th 1996 - Laundry Room Studio",
+    "category": "1995-1996 - Foo Fighters First Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "a This Is A Call (UK CDS) (7243 8 82228 2 2)",
+    "year": 1995,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "b I'll Stick Around (UK CDS) (7243 8 82382 2 9)",
+    "year": 1995,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "c For All The Cows (UK CDS) (7243 8 82574 2 8)",
+    "year": 1995,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "Big Me (UK CDS) (7243 8 82674 2 7)",
+    "year": 1996,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "c Everlong (Australian Limited Edition Single)",
+    "year": 1997,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "My Hero (UK Limited Edition Single) (ECD) (7243 8 85180 0 0)",
+    "year": 1998,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "a Stacked Actors (OZ CDS) (74321734832)",
+    "year": 2000,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "b Generator (EU Limited Edition Numbered EP) (ECD) (74321749582)",
+    "year": 2000,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "b Generator (Exclusive Australian EP) (ECD) (74321753772)",
+    "year": 2000,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "c Breakout (OZ CDS) (74321774272)",
+    "year": 2000,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "d Next Year (EU Promo CD) (74321799832)",
+    "year": 2000,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "a The One (OZ CDS) (ECD) (74321921822)",
+    "year": 2002,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "b Low (Australian CD Single)",
+    "year": 2003,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "c Have It All EU CDS (82876 56370-2)",
+    "year": 2003,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "Razor (Live) (Digital)",
+    "year": 2005,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "No Way Back # Cold Day In The Sun (EU CDS) (82876 80473 2)",
+    "year": 2006,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "Cheer Up, Boys (Your Make Up Is Running) (Digital)",
+    "year": 2008,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "Let It Die EP (Digital)",
+    "year": 2008,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "a Songs from the Laundry Room EP (WEB)",
+    "year": 2015,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "b Saint Cecilia EP (Digital)",
+    "year": 2015,
+    "category": "SINGLES + EPS"
+  },
+  {
+    "type": "release",
+    "label": "04-XX - Seattle, WA - Laundry Room Studios",
+    "year": 1992,
+    "format": "SBD #1"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - In Your Honor (Instrumental)",
+    "year": 2005
+  },
+  {
+    "type": "release",
+    "label": "Dave Grohl - 1992-93 - Demos"
+  },
+  {
+    "type": "release",
+    "label": "Dave Grohl - Demo Tapes"
+  },
+  {
+    "type": "release",
+    "label": "Early Demos (1990-1994)"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - 1994 Demos.flac"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - 1995 - Radio Broadcasts"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Odds And Ends 2",
+    "format": "DVD"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Odds And Ends 3",
+    "format": "DVD"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Odds And Ends",
+    "format": "DVD"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Various - Nulle Part Ailleurs Compilation",
+    "format": "DVD"
+  },
+  {
+    "type": "release",
+    "label": "Garage Tour - Documentary",
+    "format": "MP4"
+  },
+  {
+    "type": "release",
+    "label": "01. October 1988 - Laundry Room Studio",
+    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "02. December 19th 1990 - Laundry Room Studio",
+    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "03. February 16th 1991 - Laundry Room Studio",
+    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "04. July 27th 1991 - WGNS Studios",
+    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "05. January 3rd 1992 - Laundry Room Studio",
+    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
+  },
+  {
+    "type": "release",
+    "label": "06. April 1992 & November 8th 1992 - Laundry Room Studio",
     "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings",
     "textFile": "MISC - 06. April 1992 & November 8th 1992 - Laundry Room Studio.txt"
   },

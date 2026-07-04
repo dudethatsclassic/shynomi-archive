@@ -1,0 +1,81 @@
+The Offspring
+2025-11-07
+Ziggo Dome
+Amsterdam, The Netherlands
+
+SOURCE: 
+Tascam DR-05 internal mics > Sandisk Mini-SD Card (4gb - Class 10)
+
+TRANSFER: 
+.WAV (24 Bit) > Audacity (normalize/equalzing/tracking) > .FLAC (16 Bit) level 8
+
+SETLIST:
+
+01 - Take on Me (PA)
+02 - Thunderstruck intro (PA)
+03 - Come Out and Play
+04 - All I Want
+05 - Want You Bad
+06 - Looking out for No.1
+07 - Let The Bad Times Roll
+08 - Staring at the Sun
+09 - Hit That / Original Prankster
+10 - Hammerhead
+11 - Make it Alright
+12 - Bad Habit
+13 - Paranoid
+14 - Crazy Train
+15 - In the Hall of the Mountain King
+16 - I Wanna be Sedated
+17 - Gotta Get Away
+18 - Drum Solo
+19 - Gone Away
+20 - Hey Jude
+21 - Why Don't You Get a Job
+22 - Pretty Fly (For A White Guy)
+23 - The Kids Aren't Alright
+24 - Lullaby outro
+ === ENCORE ===
+25 - You're Gonna Go Far, Kid
+26 - Self Esteem
+
+ 
+NOTES:
+
+Recorded in the center, about 30 meters from the stage, later pushed back to ~40 meters from the stage. First time recording with my 2nd hand Tascam DR-05. Unfortunately there was a automatic recording setting turned on. What resulted in splitting the recording into separate files when the volume became to low. Luckily mostly in between songs, but a little gap is noticable. Raw recording was quite bassy so lowered the bass in Audacity.
+
+CHECKSUMS: 
+
+eced36bbd2fb6e88e5bc96a6b140eaf1 *01 - Take on Me (PA).flac
+c341102fa271bda6d8d5b0f766e3a85e *02 - Thunderstruck intro (PA).flac
+5624e98a6c7d03d61301a16ecae22326 *03 - Come  Out and Play.flac
+97a66528de02e7e916f41054da2659f0 *04 - All I Want.flac
+392e2064c6d38f28b5a378f2d622f4af *05 - Want You Bad.flac
+19bf65b6e3a21bb2470c2ca2b665a32b *06 - Looking out for No.1.flac
+0ef8e5c676a8789d22d1da8010d10997 *07 - Let The Bad Times Roll.flac
+894e3a852fadafbe09ef496e49a6e6e3 *08 - Staring at the Sun.flac
+c426efde3502ba720e3e378549c2cbc0 *09 - Hit That _ Original Prankster.flac
+37d2b156df3aae7714f9ccfa556769d7 *10 - Hammerhead.flac
+5e24a472034104fb88d5d7468b6f97aa *11 - Make it Alright.flac
+da0cb4c8b31e4cf6243a2c14824c1c05 *12 - Bad Habit.flac
+f39e16b0e3b5f6cce09eb14b68ac74a7 *13 - Paranoid.flac
+12fc60653f3fe8515a01e844f260eb8d *14 - Crazy Train.flac
+746ecc55588acf7527915b0be17f1919 *15 - In the Hall of the Mountain King.flac
+e7da8f8d122a32cd42a3b319460e9113 *16 - I Wanna be Sedated.flac
+91b807f9bcfd9c3e0f525f6d9d9c3d27 *17 - Gotta Get Away.flac
+bf7b861ce4c853592f2c728dd5d46981 *18 - Drum Solo.flac
+832b3ef4091c0713b1caaea7cfab1fcf *19 - Gone Away.flac
+eb31154a69556d4e2c9b74206a34764c *20 - Hey Jude .flac
+b2c5682d1d88525c4e3709b6e16ee4fc *21 - Why Don't You Get a Job.flac
+9513e20dbd626d8763bbc3b0cebe18f9 *22 - Pretty Fly (For A White Guy).flac
+0cac1a16e10ea2b8fce7228e874c61d0 *23 - The Kids Aren't Alright.flac
+24b9e1116a3def022a8f2b2efb1af13b *24 - Lullaby outro.flac
+a13844948cedb4fe55e124f4e3c7b28f *25 - You're Gonna Go Far, Kid.flac
+e7ff7f5234c3ac6bfabda83d5baa19e2 *26 - Self Esteem.flac
+
+
+Check out my site: 
+https://offspringbootlegs.jimdosite.com/ or
+https://etreedb.org/nottheone_nl
+
+Don't sell this recording!!

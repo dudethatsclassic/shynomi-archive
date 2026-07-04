@@ -1,0 +1,36 @@
+Band: The Offspring
+City: Clisson
+Country: France
+Venue: Val de Moine
+Event Name: HellFest 2026
+Date: 2026-06-21 (June 21, 2026)
+------------------------------------------------
+Source: arte Concert webcast > FFMPEG > Mp4 1920x1080 > You
+------------------------------------------------
+Set List
+
+01. SUPERCHARGED Intro
+02. Come Out and Play
+03. All I Want
+04. Want You Bad
+05. Staring at the Sun
+06. Hammerhead
+07. Bad Habit
+08. Electric Funeral / Paranoid (Black Sabbath) (Snippet)
+09. Crazy Train (Ozzy Osbourne)
+10. In the Hall of the Mountain King (Edvard Grieg)
+11. Love Story (Taylor Swift)
+12. Hit That / Original Prankster
+13. Gotta Get Away (With drum solo ending)
+14. Why Don't You Get a Job?
+15. Pretty Fly (for a White Guy)
+16. The Kids Aren't Alright
+17. You're Gonna Go Far, Kid
+18. Self Esteem 
+
+Time Length: 01:17:54 Minutes
+------------------------------------------------
+Video: MPEG4 Video (H264) 1920x1080 25fps 1895kbps [V: h264 main L4.0, yuv420p, 1920x1080, 1895 kb/s]
+Audio: AAC 44100Hz stereo 128kbps [A: aac lc, 44100 Hz, stereo, 128 kb/s]
+------------------------------------------------
+INFO FILE BY ALEISTER666

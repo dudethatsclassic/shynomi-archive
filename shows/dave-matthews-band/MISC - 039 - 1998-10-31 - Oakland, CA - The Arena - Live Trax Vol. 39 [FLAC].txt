@@ -1,0 +1,36 @@
+foobar2000 1.3.13 / Dynamic Range Meter 1.1.1
+log date: 2016-11-04 07:19:58
+
+--------------------------------------------------------------------------------
+Analyzed: Dave Matthews Band / DMB Live Trax 39
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR9       -0.30 dB   -12.32 dB     10:28 01-Don't Drink the Water
+DR12      -1.11 dB   -18.19 dB      3:39 02-Intro
+DR9       -0.38 dB   -11.98 dB      8:14 03-Panta Naga Pampa_ Rapunzel
+DR9       -0.30 dB   -11.57 dB     11:49 04-Crush
+DR9       -0.36 dB   -12.44 dB     12:26 05-Two Step
+DR9       -0.30 dB   -12.01 dB     12:51 06-Dreaming Tree
+DR8       -0.32 dB   -10.59 dB      8:32 07-Warehouse
+DR9       -0.34 dB   -10.78 dB      6:36 08-Tripping Billies
+DR13      -1.12 dB   -18.06 dB      5:46 09-I'll Back You Up
+DR9       -0.30 dB   -12.78 dB     13:34 10-Jimi Thing
+DR8       -0.30 dB   -10.36 dB      7:55 11-Halloween
+DR9       -0.32 dB   -10.73 dB      5:35 12-So Much To Say_Anyone Seen the Bridge
+DR8       -0.30 dB    -9.88 dB      6:09 13-Too Much
+DR8       -0.30 dB   -10.40 dB      5:42 14-Crash Into Me
+DR9       -0.30 dB   -12.74 dB     14:50 15-Watchtower
+--------------------------------------------------------------------------------
+
+Number of tracks:  15
+Official DR value: DR9
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           892 kbps
+Codec:             FLAC
+================================================================================
+

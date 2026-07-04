@@ -214,7 +214,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "H. Sekerdiek",
-      "textFile": "1991-08-29 - Hamburg, Germany - Grosse Freiheit 36 - ANA(M) (h. sekerdiek) [AUD].txt"
+      "textFile": "1991-08-29 - Hamburg, DE - Grosse Freiheit 36 - DAT(M) (2022 stevemtl transfer) [AUD].txt"
     },
     {
       "year": 1991,
@@ -228,7 +228,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "2022 Stevemtl Transfer",
-      "textFile": "1991-08-29 - Hamburg, DE - Grosse Freiheit 36 - DAT(M) (2022 stevemtl transfer) [AUD].txt"
+      "textFile": "1991-08-29 - Hamburg, Germany - Grosse Freiheit 36 - ANA(M) (h. sekerdiek) [AUD].txt"
     },
     {
       "year": 1991,
@@ -1526,7 +1526,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Schoeps CMC 64 \u00b7 Unknown",
-      "textFile": "1997-07-13 - Clarksville, MI - Pine Knob Music Theater (Schoeps CMC 64) (unk) [AUD].txt"
+      "textFile": "1997-07-13 - Clarkston, MI - Pine Knob - DAT(M) (Nak 300s) (mark bernhardt) [AUD].txt"
     },
     {
       "year": 1997,
@@ -1540,7 +1540,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Nak 300s \u00b7 Mark Bernhardt",
-      "textFile": "1997-07-13 - Clarkston, MI - Pine Knob - DAT(M) (Nak 300s) (mark bernhardt) [AUD].txt"
+      "textFile": "1997-07-13 - Clarksville, MI - Pine Knob Music Theater (Schoeps CMC 64) (unk) [AUD].txt"
     },
     {
       "year": 1997,
@@ -1876,7 +1876,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Nakamichi CM300 \u00b7 Chris Bold",
-      "textFile": "2001-09-01 - Seattle, WA - Memorial Stadium (Nakamichi CM300) (chris bold) [AUD].txt"
+      "textFile": "2001-09-01 - Seattle, WA - Bumbershoot - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 2001,
@@ -1890,7 +1890,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Unknown",
-      "textFile": "2001-09-01 - Seattle, WA - Bumbershoot - ANA(M) (unk) [AUD].txt"
+      "textFile": "2001-09-01 - Seattle, WA - Memorial Stadium (Nakamichi CM300) (chris bold) [AUD].txt"
     },
     {
       "year": 2001,

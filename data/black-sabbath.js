@@ -158,7 +158,8 @@ const ARTIST_DATA = {
       "venue": "Olympen",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Peter"
+      "notes": "M \u00b7 Peter",
+      "textFile": "1983-08-23 - Lund, Sweden - Olympen (Sony Walkman) (tung pung) [AUD].txt"
     },
     {
       "year": 1983,
@@ -171,8 +172,7 @@ const ARTIST_DATA = {
       "venue": "Olympen",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony Walkman \u00b7 Tung Pung",
-      "textFile": "1983-08-23 - Lund, Sweden - Olympen (Sony Walkman) (tung pung) [AUD].txt"
+      "notes": "Sony Walkman \u00b7 Tung Pung"
     },
     {
       "year": 1984,

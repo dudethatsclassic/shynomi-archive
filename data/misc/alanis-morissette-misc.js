@@ -12,7 +12,8 @@ const ARTIST_MISC_DATA = [
     "label": "Alanis Morissette - Alanis {742916 T} (1991)",
     "format": "FLAC",
     "year": 1991,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Alanis Morissette - Alanis (742916 T) (1991) [FLAC].txt"
   },
   {
     "type": "release",
@@ -26,7 +27,8 @@ const ARTIST_MISC_DATA = [
     "label": "Alanis Morissette - Jagged Little Pill (Original 1995 European Pressing) (24/96 Vinyl Transfer)",
     "format": "FLAC",
     "year": 1995,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Alanis Morissette - Jagged Little Pill (Original 1995 European Pressing) (24_96) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -75,11 +77,12 @@ const ARTIST_MISC_DATA = [
     "label": "Alanis Morissette - So-Called Chaos (2004, Maverick, 9362-48555, EU) (2004)",
     "format": "FLAC",
     "year": 2004,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Alanis Morissette - So-Called Chaos (2004, Maverick, 9362-48555, EU) (2004) [FLAC].txt"
   },
   {
     "type": "release",
-    "label": "Alanis Morissette - So‐Called Chaos {WPCR-11790 Japan} (2004)",
+    "label": "Alanis Morissette - So\u2010Called Chaos {WPCR-11790 Japan} (2004)",
     "format": "FLAC",
     "year": 2004,
     "category": "OFFICIAL RELEASES"
@@ -140,7 +143,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1995,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Alanis Morissette - Right Through You (PD124) [Silver].txt"
   },
   {
     "type": "release",
@@ -148,7 +152,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1996,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Alanis Morissette - Makes The Point! (TUCD 015) [Silver].txt"
   },
   {
     "type": "release",
@@ -164,7 +169,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1996,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Alanis Morissette - Going North (1996) (MOONRAKER 041) [Silver].txt"
   },
   {
     "type": "release",
@@ -172,7 +178,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1996,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Alanis Morissette - Who's That Girl (SP001-2) [Silver].txt"
   },
   {
     "type": "release",
@@ -180,7 +187,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1998,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Alanis Morissette - Live Junkie (TB 074) [Silver].txt"
   },
   {
     "type": "release",
@@ -188,7 +196,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1999,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Alanis Morissette - Thank U Toronto (TSP-CD 251) [Silver].txt"
   },
   {
     "type": "release",
@@ -196,7 +205,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2002,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Alanis Morissette - The Hands Of Love (p.rec 03) [Silver].txt"
   },
   {
     "type": "release",

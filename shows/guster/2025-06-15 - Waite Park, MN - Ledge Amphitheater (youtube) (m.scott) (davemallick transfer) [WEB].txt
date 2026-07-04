@@ -1,0 +1,27 @@
+Guster
+June 15th, 2025
+Ledge Amphitheater, Waite Park, MN
+
+Master:
+Unknown video source > YouTube (link below)
+by M. Scott
+
+Conversion:
+youtube-dl > mp4 > m4a > Sound Studio 4.11.0 > xACT 2.58 > FLAC
+by Dave Mallick
+
+01. Careful                        [04:17.304]
+02. Backyard                       [03:56.150]
+03. When We Were Stars             [05:06.764]
+04. Satellite                      [04:57.254]
+05. Barrel of a Gun                [03:51.677]
+06. Doin' It by Myself             [04:20.507]
+07. Come Downstairs and Say Hello  [06:04.978]
+08. Do You Love Me                 [04:29.277]
+09. Don't Go                       [03:54.791]
+10. Happier                        [04:11.038]
+                            Total: [45:09.739]
+
+Original video: https://www.youtube.com/watch?v=1lVjqe6sYPg
+
+Opening set for Barenaked Ladies.

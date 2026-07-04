@@ -1033,7 +1033,8 @@ const ARTIST_DATA = {
       "venue": "Warfield Theatre",
       "notes": "Core Sound mics \u00b7 mike",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2002-11-23 - San Francisco, CA - Warfield Theater (SP-CMC-2) (chris bellew) [AUD].txt"
     },
     {
       "year": 2002,
@@ -1046,8 +1047,7 @@ const ARTIST_DATA = {
       "venue": "Warfield Theater",
       "notes": "SP-CMC-2 \u00b7 chris bellew",
       "version": "AUD",
-      "format": "",
-      "textFile": "2002-11-23 - San Francisco, CA - Warfield Theater (SP-CMC-2) (chris bellew) [AUD].txt"
+      "format": ""
     },
     {
       "year": 2002,
@@ -2344,7 +2344,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2008-07-08 - Vienna, Austria - Arena [AUD].txt"
+      "textFile": "2008-07-08 - Vienna, Austria - Arena Open Air (CSB) (wzbw88) [AUD].txt"
     },
     {
       "year": 2008,
@@ -2358,7 +2358,7 @@ const ARTIST_DATA = {
       "notes": "CSB \u00b7 wzbw88",
       "version": "AUD",
       "format": "",
-      "textFile": "2008-07-08 - Vienna, Austria - Arena Open Air (CSB) (wzbw88) [AUD].txt"
+      "textFile": "2008-07-08 - Vienna, Austria - Arena [AUD].txt"
     },
     {
       "year": 2008,
@@ -4229,7 +4229,7 @@ const ARTIST_DATA = {
       "notes": "Zoom H1n \u00b7 claire laura fredriksson",
       "version": "AUD",
       "format": "",
-      "textFile": "2025-05-19 - Melbourne, Australia - Hamer Hall (Zoom H1n) (claire laura fredriksson) [AUD24].txt"
+      "textFile": "2025-05-19 - Melbourne, AUS - Hamer Theatre (SP-CMC-4U) (pyometronguts) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -4243,7 +4243,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4U \u00b7 pyometronguts",
       "version": "AUD",
       "format": "",
-      "textFile": "2025-05-19 - Melbourne, AUS - Hamer Theatre (SP-CMC-4U) (pyometronguts) [AUD24].txt"
+      "textFile": "2025-05-19 - Melbourne, Australia - Hamer Hall (Zoom H1n) (claire laura fredriksson) [AUD24].txt"
     },
     {
       "year": 2025,

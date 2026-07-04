@@ -1,0 +1,24 @@
+Guster
+June 27th, 2017
+Express Live, Columbus, OH
+
+Master:
+Unknown video source > YouTube (link below)
+by analogkid01
+
+Conversion:
+youtube-dl > mp4 > m4a > Sound Studio 4.11.0 > xACT 2.58 > FLAC
+by Dave Mallick
+
+01. The Captain                  [04:06.318]
+02. Happier                      [04:24.335]
+03. Doin' It By Myself           [04:11.094]
+04. Bad Bad World                [06:02.522]
+05. Demons                       [04:19.934]
+06. Come Downstairs & Say Hello  [06:00.209]
+07. Amsterdam                    [03:47.654]
+08. Long Night                   [05:22.104]
+09. Satellite                    [04:54.140]
+10. Barrel of A Gun              [03:41.592]
+11. Airport Song                 [05:58.798]
+                          Total: [52:48.700]

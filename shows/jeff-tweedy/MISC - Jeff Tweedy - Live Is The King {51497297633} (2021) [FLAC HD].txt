@@ -1,0 +1,33 @@
+foobar2000 1.6.12 / Dynamic Range Meter 1.1.1
+log date: 2023-04-11 20:43:48
+
+--------------------------------------------------------------------------------
+Analyzed: Jeff Tweedy / Live Is the King (Live)
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR10      -1.30 dB   -15.79 dB      4:45 01-Love Is the King (Live)
+DR9       -1.30 dB   -12.19 dB      4:49 02-Opaline (Live)
+DR9       -1.30 dB   -12.68 dB      2:40 03-A Robin or a Wren (Live)
+DR8       -1.20 dB   -10.25 dB      3:19 04-Gwendolyn (Live)
+DR10      -1.30 dB   -16.39 dB      3:08 05-Bad Day Lately (Live)
+DR13      -1.30 dB   -17.13 dB      3:22 06-Even I Can See (Live)
+DR8       -1.30 dB   -10.68 dB      3:01 07-Natural Disaster (Live)
+DR9       -1.30 dB   -14.13 dB      3:17 08-Save It for Me (Live)
+DR7       -1.30 dB    -9.66 dB      3:15 09-Guess Again (Live)
+DR10      -1.33 dB   -14.50 dB      2:54 10-Troubled (Live)
+DR8       -1.30 dB   -12.63 dB      4:17 11-Half-Asleep (Live)
+DR8       -1.30 dB   -11.24 dB      3:21 12-The Old Country Waltz (Live)
+--------------------------------------------------------------------------------
+
+Number of tracks:  12
+Official DR value: DR9
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           2047 kbps
+Codec:             FLAC
+================================================================================
+

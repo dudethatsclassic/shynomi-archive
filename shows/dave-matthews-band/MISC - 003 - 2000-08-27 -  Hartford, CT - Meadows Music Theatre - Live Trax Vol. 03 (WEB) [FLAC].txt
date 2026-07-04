@@ -1,0 +1,19 @@
+    length     expanded size   cdr  WAVE problems filename
+    10:09.12      107455868    ---   --   ---xx   DMDD20FL15Kd1_01_Dancing_Nancies.flac
+    17:03.13      180487820    ---   --   ---xx   DMDD20FL15Kd1_02_Seek_Up.flac
+     9:38.15      101994524    ---   --   ---xx   DMDD20FL15Kd1_03_Linus_and_Lucy.flac
+     7:53.40       83531324    ---   --   ---xx   DMDD20FL15Kd1_04_Pantala-Rapunzel.flac
+     5:04.73       53797340    ---   --   ---xx   DMDD20FL15Kd1_05_Ill_Back_You_Up.flac
+     6:43.62       71235068    ---   --   ---xx   DMDD20FL15Kd1_06_Busted_Stuff.flac
+     3:18.38       35016620    ---   --   ---xx   DMDD20FL15Kd1_07_Recently.flac
+     6:32.62       69294668    ---   --   ---xx   DMDD20FL15Kd1_08_The_Raven.flac
+     6:55.08       73224860    ---   --   ---xx   DMDD20FL15Kd2_01_The_Maker.flac
+     7:43.18       81715580    ---   --   ---xx   DMDD20FL15Kd2_02_Grey_Street.flac
+     5:04.03       53632700    ---   --   ---xx   DMDD20FL15Kd2_03_Grace_Is_Gone.flac
+    10:39.14      112752572    ---   --   ---xx   DMDD20FL15Kd2_04_Say_Goodbye.flac
+    10:03.02      106373948    ---   --   ---xx   DMDD20FL15Kd2_05_Bartender.flac
+     6:07.71       64905836    ---   --   ---xx   DMDD20FL15Kd2_06_JTR.flac
+     7:48.42       82654028    ---   --   ---xx   DMDD20FL15Kd2_07_Ants_Marching.flac
+     7:54.64       83764172    ---   --   ---xx   DMDD20FL15Kd2_08_The_Stone.flac
+     6:39.26       70444796    ---   --   ---xx   DMDD20FL15Kd2_09_Drive_In_Drive_Out.flac
+   135:19.38        1365.93 MB                    (totals for 17 files, 0.6822 overall compression ratio)

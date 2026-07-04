@@ -392,7 +392,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sony ECM-717 \u00b7 Evie_np",
-      "textFile": "1996-04-03 - Paris, France - Elyse\u0301e Montmartre - MD(M) (Sony ECM-717) (evie_np) [AUD].txt"
+      "textFile": "1996-04-03 - Paris, France - Elysee Montmatre (unk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -406,7 +406,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Unknown",
-      "textFile": "1996-04-03 - Paris, France - Elysee Montmatre (unk) [AUD].txt"
+      "textFile": "1996-04-03 - Paris, France - Elyse\u0301e Montmartre - MD(M) (Sony ECM-717) (evie_np) [AUD].txt"
     },
     {
       "year": 1996,
@@ -963,7 +963,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Unknown",
-      "textFile": "1998-05-20 - San Francisco, CA - Warfield (unk) [AUD].txt"
+      "textFile": "1998-05-20 - San Francisco, CA - The Warfield - DAT(M) (SS-DSM6S) (wilson66) [AUD].txt"
     },
     {
       "year": 1998,
@@ -977,7 +977,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Ss-dsm6s \u00b7 Wilson66",
-      "textFile": "1998-05-20 - San Francisco, CA - The Warfield - DAT(M) (SS-DSM6S) (wilson66) [AUD].txt"
+      "textFile": "1998-05-20 - San Francisco, CA - Warfield (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -1061,7 +1061,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Unknown",
-      "textFile": "1998-06-03 - Paris, France - Le Zenith (unk) [AUD].txt"
+      "textFile": "1998-06-03 - Paris, France - Le Zenith (Sony MD) (evie_np) [AUD].txt"
     },
     {
       "year": 1998,
@@ -1075,7 +1075,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sony MD \u00b7 Evie_np",
-      "textFile": "1998-06-03 - Paris, France - Le Zenith (Sony MD) (evie_np) [AUD].txt"
+      "textFile": "1998-06-03 - Paris, France - Le Zenith (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -1117,7 +1117,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Unknown",
-      "textFile": "1998-06-18 - Stuttgart, Germany - Kongresshalle (unk) [AUD].txt"
+      "textFile": "1998-06-18 - Boblingen, Germany - Kongresshalle (Sony T Mic) (sebi2704) [AUD].txt"
     },
     {
       "year": 1998,
@@ -1131,7 +1131,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sony T Mic \u00b7 Sebi2704",
-      "textFile": "1998-06-18 - Boblingen, Germany - Kongresshalle (Sony T Mic) (sebi2704) [AUD].txt"
+      "textFile": "1998-06-18 - Stuttgart, Germany - Kongresshalle (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -1438,7 +1438,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Km140s \u00b7 Wilson",
-      "textFile": "1998-09-25 - San Jose, CA - San Jose State University (KM140s) (wilson) [AUD].txt"
+      "textFile": "1998-09-25 - San Jose, CA - Event Center - DAT(x) (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -1452,7 +1452,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Unknown",
-      "textFile": "1998-09-25 - San Jose, CA - Event Center - DAT(x) (unk) [AUD].txt"
+      "textFile": "1998-09-25 - San Jose, CA - San Jose State University (KM140s) (wilson) [AUD].txt"
     },
     {
       "year": 1998,
@@ -1704,7 +1704,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Unknown",
-      "textFile": "1998-11-27 - Minneapolis, MN - Orpheum Theatre (unk) [AUD].txt"
+      "textFile": "1998-11-27 - Minneapolis, MN - Orpheum Theatre (Sony WMD6) (manbearpig) [AUD].txt"
     },
     {
       "year": 1998,
@@ -1718,7 +1718,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sony WMD6 \u00b7 Manbearpig",
-      "textFile": "1998-11-27 - Minneapolis, MN - Orpheum Theatre (Sony WMD6) (manbearpig) [AUD].txt"
+      "textFile": "1998-11-27 - Minneapolis, MN - Orpheum Theatre (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -1871,7 +1871,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Aiwa Md \u00b7 Evie_np",
-      "textFile": "1999-01-25 - Brussels, Belgium - Forest National - MD(M) (Aiwa MD) (evie_np) [AUD].txt"
+      "textFile": "1999-01-25 - Brussells, Belgium - Forest National (SS-DSM6) (unk) [AUD].txt"
     },
     {
       "year": 1999,
@@ -1885,7 +1885,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Ss-dsm6 \u00b7 Unknown",
-      "textFile": "1999-01-25 - Brussells, Belgium - Forest National (SS-DSM6) (unk) [AUD].txt"
+      "textFile": "1999-01-25 - Brussels, Belgium - Forest National - MD(M) (Aiwa MD) (evie_np) [AUD].txt"
     },
     {
       "year": 1999,
@@ -2263,7 +2263,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Neumann Km140s \u00b7 Shark",
-      "textFile": "1999-11-24 - Irvine, CA - Bren Center UC Irvine - DAT(M) (Neumann KM140s) (shark) [AUD].txt"
+      "textFile": "1999-11-24 - Irvine, CA - Bren Center UC Irvine (Neumann KM140s) (wilson) [AUD].txt"
     },
     {
       "year": 1999,
@@ -2277,7 +2277,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Neumann Km140s \u00b7 Wilson",
-      "textFile": "1999-11-24 - Irvine, CA - Bren Center UC Irvine (Neumann KM140s) (wilson) [AUD].txt"
+      "textFile": "1999-11-24 - Irvine, CA - Bren Center UC Irvine - DAT(M) (Neumann KM140s) (shark) [AUD].txt"
     },
     {
       "year": 2001,
@@ -2347,20 +2347,6 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Shure Cardioids \u00b7 Tom Avallone",
-      "textFile": "2001-10-16 - Chicago, IL - United Center (Shure Cardioids) (tom avallone) [AUD].txt"
-    },
-    {
-      "year": 2001,
-      "month": 10,
-      "day": 16,
-      "dateStr": "10-16-2001",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "United Center",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Mz-r90 \u00b7 Unknown",
       "textFile": "2001-10-16 - Chicago, IL - United Center (MZ-R90) (unk) [AUD].txt"
     },
     {
@@ -2374,8 +2360,22 @@ const ARTIST_DATA = {
       "venue": "United Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "PCM-M1 DAT \u00b7 Coresounds \u00b7 Unknown",
+      "notes": "Mz-r90 \u00b7 Unknown",
       "textFile": "2001-10-16 - Chicago, IL - United Center (PCM-M1 DAT) (CoreSounds) (unk) [AUD].txt"
+    },
+    {
+      "year": 2001,
+      "month": 10,
+      "day": 16,
+      "dateStr": "10-16-2001",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "United Center",
+      "version": "AUD",
+      "format": "FLAC",
+      "notes": "PCM-M1 DAT \u00b7 Coresounds \u00b7 Unknown",
+      "textFile": "2001-10-16 - Chicago, IL - United Center (Shure Cardioids) (tom avallone) [AUD].txt"
     },
     {
       "year": 2001,
@@ -2585,7 +2585,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Unknown",
-      "textFile": "2002-02-01 - Adelaide, AUS - Big Day Out Festival (unk) [AUD].txt"
+      "textFile": "2002-02-01 - Adelaide, AU - Big Day Out Festival (CSC) (luke rayner) [AUD].txt"
     },
     {
       "year": 2002,
@@ -2599,7 +2599,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "CSC \u00b7 Luke Rayner",
-      "textFile": "2002-02-01 - Adelaide, AU - Big Day Out Festival (CSC) (luke rayner) [AUD].txt"
+      "textFile": "2002-02-01 - Adelaide, AUS - Big Day Out Festival (unk) [AUD].txt"
     },
     {
       "year": 2002,
@@ -2837,7 +2837,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Coreheb",
-      "textFile": "2002-04-27 - Boston, MA - Hatch Shell (Core Sounds HEB) (smores) [AUD].txt"
+      "textFile": "2002-04-27 - Boston, MA - Avalon (Core Sound HEB) (smores) [AUD].txt"
     },
     {
       "year": 2002,
@@ -2851,7 +2851,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Core Sound Heb \u00b7 Smores",
-      "textFile": "2002-04-27 - Boston, MA - Avalon (Core Sound HEB) (smores) [AUD].txt"
+      "textFile": "2002-04-27 - Boston, MA - Hatch Shell (Core Sounds HEB) (smores) [AUD].txt"
     },
     {
       "year": 2002,
@@ -2963,7 +2963,7 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "FLAC",
       "notes": "Antimudshark",
-      "textFile": "2002-05-09 - Chicago, IL - The Riviera (antimudshark) [FM].txt"
+      "textFile": "2002-05-09 - Chicago, IL - The Riviera (WXRT) [FM].txt"
     },
     {
       "year": 2002,
@@ -2977,7 +2977,7 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "FLAC",
       "notes": "WXRT",
-      "textFile": "2002-05-09 - Chicago, IL - The Riviera (WXRT) [FM].txt"
+      "textFile": "2002-05-09 - Chicago, IL - The Riviera (antimudshark) [FM].txt"
     },
     {
       "year": 2002,
@@ -3131,20 +3131,6 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "DPA 4061 \u00b7 Mahntoh",
-      "textFile": "2002-05-27 - San Francisco, CA - The Warfield (KM140s) (unk) [AUD].flac.txt"
-    },
-    {
-      "year": 2002,
-      "month": 5,
-      "day": 27,
-      "dateStr": "5-27-2002",
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "The Warfield",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 Michele",
       "textFile": "2002-05-27 - San Francisco, CA - The Warfield (CSB) (michele) [AUD].txt"
     },
     {
@@ -3158,8 +3144,22 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 Kk",
+      "notes": "CSB \u00b7 Michele",
       "textFile": "2002-05-27 - San Francisco, CA - The Warfield (DPA 4061) (kk) [AUD].txt"
+    },
+    {
+      "year": 2002,
+      "month": 5,
+      "day": 27,
+      "dateStr": "5-27-2002",
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "The Warfield",
+      "version": "AUD",
+      "format": "FLAC",
+      "notes": "DPA 4061 \u00b7 Kk",
+      "textFile": "2002-05-27 - San Francisco, CA - The Warfield (KM140s) (unk) [AUD].flac.txt"
     },
     {
       "year": 2002,
@@ -3257,7 +3257,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "AT831b \u00b7 Bumblebee Productions",
-      "textFile": "2002-06-02 - Los Angeles, CA - Wiltern Theatre - DAT(M) (AT831b) (bumblebee productions) [AUD].txt"
+      "textFile": "2002-06-02 - Los Angeles, CA - Wiltern Theatre (Sharp MD-MT877) (slickmode) [AUD].txt"
     },
     {
       "year": 2002,
@@ -3271,7 +3271,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sharp Md-mt877 \u00b7 Slickmode",
-      "textFile": "2002-06-02 - Los Angeles, CA - Wiltern Theatre (Sharp MD-MT877) (slickmode) [AUD].txt"
+      "textFile": "2002-06-02 - Los Angeles, CA - Wiltern Theatre - DAT(M) (AT831b) (bumblebee productions) [AUD].txt"
     },
     {
       "year": 2002,
@@ -3299,7 +3299,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Okmiir \u00b7 Sousous",
-      "textFile": "2002-06-26 - Paris, France - Le Zenith - Beautiful Androgyny (OKMIIr) (sousous) [AUD].shn.txt"
+      "textFile": "2002-06-26 - Paris, France - Le Zenith (AT822) (unk) [AUD].txt"
     },
     {
       "year": 2002,
@@ -3313,7 +3313,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "AT822 \u00b7 Unknown",
-      "textFile": "2002-06-26 - Paris, France - Le Zenith (AT822) (unk) [AUD].txt"
+      "textFile": "2002-06-26 - Paris, France - Le Zenith - Beautiful Androgyny (OKMIIr) (sousous) [AUD].shn.txt"
     },
     {
       "year": 2002,
@@ -4403,7 +4403,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Neumann Km140s \u00b7 Wilson",
-      "textFile": "2012-06-02 - Mountain View, CA - Shoreline Amphitheatre - Live 105 BFD (Neumann KM140s) (wilson) [AUD].txt"
+      "textFile": "2012-06-02 - Mountain View, CA - Shoreline Amphitheatre (Schoeps MK4) (rainingvodka) [AUD].txt"
     },
     {
       "year": 2012,
@@ -4417,7 +4417,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Schoeps MK4 \u00b7 Rainingvodka",
-      "textFile": "2012-06-02 - Mountain View, CA - Shoreline Amphitheatre (Schoeps MK4) (rainingvodka) [AUD].txt"
+      "textFile": "2012-06-02 - Mountain View, CA - Shoreline Amphitheatre - Live 105 BFD (Neumann KM140s) (wilson) [AUD].txt"
     },
     {
       "year": 2012,
@@ -4571,7 +4571,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Schoeps CCM4s \u00b7 Not Me",
-      "textFile": "2012-10-01 - San Francisco, CA - The Warfield - DAT(M) (Schoeps CCM4s) (not me) [AUD].txt"
+      "textFile": "2012-10-01 - San Francisco, CA - The Warfield (Neumann KM140s) (wilson66) [AUD24].txt"
     },
     {
       "year": 2012,
@@ -4585,7 +4585,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "Neumann Km140s \u00b7 Wilson66",
-      "textFile": "2012-10-01 - San Francisco, CA - The Warfield (Neumann KM140s) (wilson66) [AUD24].txt"
+      "textFile": "2012-10-01 - San Francisco, CA - The Warfield - DAT(M) (Schoeps CCM4s) (not me) [AUD].txt"
     },
     {
       "year": 2012,
@@ -5830,7 +5830,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Schoeps MK4 \u00b7 Loughney",
-      "textFile": "2023-06-06 - Concord, CA - Concord Pavillion (Schoeps MK4) (loughney) [AUD].txt"
+      "textFile": "2023-06-06 - Concord, CA - Concord Paviliion (DPA 4061s) (wilson66) [AUD].txt"
     },
     {
       "year": 2023,
@@ -5844,7 +5844,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "DPA 4061s \u00b7 Wilson66",
-      "textFile": "2023-06-06 - Concord, CA - Concord Paviliion (DPA 4061s) (wilson66) [AUD].txt"
+      "textFile": "2023-06-06 - Concord, CA - Concord Pavillion (Schoeps MK4) (loughney) [AUD].txt"
     },
     {
       "year": 2023,
@@ -6026,7 +6026,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "SP-CMC-2 \u00b7 Dmlivewiki",
-      "textFile": "2025-09-03 - Orlando, FL - Hard Rock Live (SP-CMC-2) (dmlivewiki)  [AUD].txt"
+      "textFile": "2025-09-03 - Orlando, FL - Hard Rock Live (Panasonic MM-BSM7s) (kevdogg) [AUD].txt"
     },
     {
       "year": 2025,
@@ -6040,7 +6040,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Panasonic Mm-bsm7s \u00b7 Kevdogg",
-      "textFile": "2025-09-03 - Orlando, FL - Hard Rock Live (Panasonic MM-BSM7s) (kevdogg) [AUD].txt"
+      "textFile": "2025-09-03 - Orlando, FL - Hard Rock Live (SP-CMC-2) (dmlivewiki)  [AUD].txt"
     },
     {
       "year": 2025,
@@ -6180,7 +6180,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "DPA4061s \u00b7 Wilson66 + Billy Sunday",
-      "textFile": "2025-10-24 - San Francisco, Warfield (DPA4061s) (wilson66 + billy sunday) [AUD24].txt"
+      "textFile": "2025-10-24 - San Francisco, CA - The Warfield (SP-CMC-4U) (vibrioidxire) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -6194,7 +6194,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "SP-CMC-4U \u00b7 Vibrioidxire",
-      "textFile": "2025-10-24 - San Francisco, CA - The Warfield (SP-CMC-4U) (vibrioidxire) [AUD24].txt"
+      "textFile": "2025-10-24 - San Francisco, Warfield (DPA4061s) (wilson66 + billy sunday) [AUD24].txt"
     },
     {
       "year": 2025,

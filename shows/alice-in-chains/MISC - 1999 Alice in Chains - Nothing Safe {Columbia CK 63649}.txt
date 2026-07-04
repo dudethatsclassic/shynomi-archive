@@ -1,0 +1,36 @@
+foobar2000 1.3.17 / Dynamic Range Meter 1.1.1
+log date: 2018-11-20 16:45:40
+
+--------------------------------------------------------------------------------
+Analyzed: Alice in Chains / Nothing Safe
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR6       -0.06 dB    -8.61 dB      5:28 01-Get Born Again
+DR7       -0.01 dB    -7.44 dB      2:26 02-We Die Young (Demo)
+DR9       -0.01 dB   -10.47 dB      4:46 03-Man in the Box
+DR7       -0.01 dB    -8.36 dB      2:29 04-Them Bones
+DR8       -0.01 dB    -9.88 dB      0:45 05-Iron Gland
+DR7       -0.01 dB    -8.51 dB      4:47 06-Angry Chair
+DR7       -0.01 dB    -9.05 dB      5:38 07-Down in a Hole
+DR8       -0.01 dB   -10.97 dB      6:54 08-Rooster (Live)
+DR8       -0.01 dB    -9.59 dB      4:25 09-Got Me Wrong (MTV Unplugged)
+DR7       -0.01 dB    -8.44 dB      4:16 10-No Excuses
+DR7       -0.01 dB    -8.22 dB      4:15 11-I Stay Away
+DR6       -0.07 dB    -8.41 dB      3:58 12-What the Hell Have I
+DR7       -0.09 dB    -7.79 dB      4:47 13-Grind
+DR7       -0.27 dB    -8.18 dB      4:06 14-Again
+DR8       -0.01 dB    -9.32 dB      3:30 15-Would?
+--------------------------------------------------------------------------------
+
+Number of tracks:  15
+Official DR value: DR7
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           972 kbps
+Codec:             FLAC
+================================================================================
+

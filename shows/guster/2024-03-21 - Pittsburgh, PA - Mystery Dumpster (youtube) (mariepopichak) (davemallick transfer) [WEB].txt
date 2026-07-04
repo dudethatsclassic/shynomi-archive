@@ -1,0 +1,20 @@
+Guster
+March 21st, 2024
+Mystery Dumpster, Pittsburgh, PA
+
+Master:
+Unknown video source > YouTube (link below)
+by Marie Popichak
+
+Conversion:
+youtube-dl > mp4 > m4a > Sound Studio 4.11.0 > xACT 2.58 > FLAC
+by Dave Mallick
+
+01. intro      [02:06.714]
+02. All Day    [04:29.196]
+03. Careful    [04:41.178]
+04. Mona Lisa  [05:37.120]
+05. Amsterdam  [03:44.900]
+        Total: [20:39.110]
+
+Original video: https://www.youtube.com/watch?v=C47YCn1H2hQ

@@ -14,5 +14,16 @@ const ARTIST_MISC_DATA = [
     "label": "NIN - Live, Beside You In Time (2006)",
     "version": "DVD",
     "format": "DVD"
+  },
+  {
+    "type": "release",
+    "label": "NIN - Pretty Hate Machine Demos (Remastered)",
+    "textFile": "MISC - NIN - Pretty Hate Machine Demos (Remastered).txt"
+  },
+  {
+    "type": "release",
+    "label": "nin1991-09-10.silver.killerinstinct.0.flac1644",
+    "version": "Silver CD",
+    "textFile": "MISC - nin1991-09-10.silver.killerinstinct.0.flac1644.txt"
   }
 ];

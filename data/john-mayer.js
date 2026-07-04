@@ -774,7 +774,7 @@ const ARTIST_DATA = {
       "notes": "Terry Sullivan Master",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2002-11-20 - Syracuse, NY - War Memorial (Terry Sullivan Master) [SBD].txt"
+      "textFile": "2002-11-20 - Syracuse, NY - Syracuse Oncenter - DAT(M) (duncan oldham) [SBD].txt"
     },
     {
       "year": 2002,
@@ -788,7 +788,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 duncan oldham",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2002-11-20 - Syracuse, NY - Syracuse Oncenter - DAT(M) (duncan oldham) [SBD].txt"
+      "textFile": "2002-11-20 - Syracuse, NY - War Memorial (Terry Sullivan Master) [SBD].txt"
     },
     {
       "year": 2003,
@@ -1171,7 +1171,8 @@ const ARTIST_DATA = {
       "venue": "Carthage College",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-03-27 - Kenosha, WI - Carthage College (AKG CK93) (allan short) [AUD].txt"
     },
     {
       "year": 2004,
@@ -1184,8 +1185,7 @@ const ARTIST_DATA = {
       "venue": "Carthage College",
       "notes": "AKG CK93 \u00b7 allan short",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2004-03-27 - Kenosha, WI - Carthage College (AKG CK93) (allan short) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -1882,7 +1882,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2007-02-22 - Grand Rapids, MI - Van Andel Arena (DPA 4061s) (unk) [AUD].txt"
+      "textFile": "2007-02-22 - Grand Rapids, MI - Van Andel Arena (CA Cards) [AUD].txt"
     },
     {
       "year": 2007,
@@ -1896,7 +1896,7 @@ const ARTIST_DATA = {
       "notes": "CA Cards",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2007-02-22 - Grand Rapids, MI - Van Andel Arena (CA Cards) [AUD].txt"
+      "textFile": "2007-02-22 - Grand Rapids, MI - Van Andel Arena (DPA 4061s) (unk) [AUD].txt"
     },
     {
       "year": 2007,
@@ -2399,7 +2399,7 @@ const ARTIST_DATA = {
       "notes": "21st \u00b7 Sony ECM 719 \u00b7 debbie ocoboc",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2007-10-27 - Mountain View, CA - Shoreline Amphitheatre - 21st Annual BSB (Sony ECM 719) (debbie ocoboc) [AUD].txt"
+      "textFile": "2007-10-27 - Mountain View, CA - Shoreline Amphitheatre (Schoeps MK4) (josephine) [AUD].txt"
     },
     {
       "year": 2007,
@@ -2413,7 +2413,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4 \u00b7 josephine",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2007-10-27 - Mountain View, CA - Shoreline Amphitheatre (Schoeps MK4) (josephine) [AUD].txt"
+      "textFile": "2007-10-27 - Mountain View, CA - Shoreline Amphitheatre - 21st Annual BSB (Sony ECM 719) (debbie ocoboc) [AUD].txt"
     },
     {
       "year": 2007,
@@ -3165,7 +3165,8 @@ const ARTIST_DATA = {
       "venue": "JCB Hall",
       "notes": "Battle \u00b7 Night 3",
       "version": "AUD",
-      "format": "M4A"
+      "format": "M4A",
+      "textFile": "2010-05-13 - Tokyo, Japan - JCB Hall (AT9900) (unk) [AUD].txt"
     },
     {
       "year": 2010,
@@ -3178,8 +3179,7 @@ const ARTIST_DATA = {
       "venue": "JCB Hall",
       "notes": "AT9900 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2010-05-13 - Tokyo, Japan - JCB Hall (AT9900) (unk) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -3193,7 +3193,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4023 \u00b7 george wang",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-07-16 - Charlotte, NC - Verizon Wireless Amphitheatre (DPA 4023) (george wang) [AUD].txt"
+      "textFile": "2010-07-16 - Charlotte, NC - Verizon Wireless Amphitheatre (DPA 4023) (brian hadella) [AUD].txt"
     },
     {
       "year": 2010,
@@ -3207,7 +3207,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4023 \u00b7 brian hadella",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-07-16 - Charlotte, NC - Verizon Wireless Amphitheatre (DPA 4023) (brian hadella) [AUD].txt"
+      "textFile": "2010-07-16 - Charlotte, NC - Verizon Wireless Amphitheatre (DPA 4023) (george wang) [AUD].txt"
     },
     {
       "year": 2010,
@@ -3277,7 +3277,7 @@ const ARTIST_DATA = {
       "notes": "AKG C1000 \u00b7 claude sawyer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-08-04 - Bethel, NY - Bethel Woods Center for the Arts (AKG C1000) (claude sawyer) [AUD].txt"
+      "textFile": "2010-08-04 - Bethel, NY - Bethel Woods Center For The Arts (Schoeps MK41s) (keith litzenberger) [AUD].txt"
     },
     {
       "year": 2010,
@@ -3291,7 +3291,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK41s \u00b7 keith litzenberger",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-08-04 - Bethel, NY - Bethel Woods Center For The Arts (Schoeps MK41s) (keith litzenberger) [AUD].txt"
+      "textFile": "2010-08-04 - Bethel, NY - Bethel Woods Center for the Arts (AKG C1000) (claude sawyer) [AUD].txt"
     },
     {
       "year": 2010,
@@ -3319,7 +3319,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4025-TL \u00b7 christopher jones",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-08-07 - Hartford, CT - Comcast Theatre (DPA 4025-TL) (christopher jones) [AUD].txt"
+      "textFile": "2010-08-07 - Hartford, CT - Comcast Theatre (Beyer Dynamics MC-930s) (steve walkuski) [AUD].txt"
     },
     {
       "year": 2010,
@@ -3333,7 +3333,7 @@ const ARTIST_DATA = {
       "notes": "Beyer Dynamics MC-930s \u00b7 steve walkuski",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-08-07 - Hartford, CT - Comcast Theatre (Beyer Dynamics MC-930s) (steve walkuski) [AUD].txt"
+      "textFile": "2010-08-07 - Hartford, CT - Comcast Theatre (DPA 4025-TL) (christopher jones) [AUD].txt"
     },
     {
       "year": 2010,
@@ -3762,7 +3762,8 @@ const ARTIST_DATA = {
       "venue": "Budokan",
       "notes": "Dreams \u00b7 unk",
       "version": "AUD",
-      "format": "M4A"
+      "format": "M4A",
+      "textFile": "2014-05-03 - Tokyo, Japan - Budokan (MKE 40-60) (starlight) [AUD].txt"
     },
     {
       "year": 2014,
@@ -3775,8 +3776,7 @@ const ARTIST_DATA = {
       "venue": "Budokan",
       "notes": "MKE 40-60 \u00b7 starlight",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2014-05-03 - Tokyo, Japan - Budokan (MKE 40-60) (starlight) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -4192,7 +4192,7 @@ const ARTIST_DATA = {
       "notes": "Gefell M210s \u00b7 jon pasternik",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2017-08-23 - Wantagh, NY - Jones Beach Amphitheatre (Gefell M210s) (jon pasternik) [AUD].txt"
+      "textFile": "2017-08-23 - Wantagh, NY - Jones Beach Amphitheater (Rode M5) (unk) [AUD].txt"
     },
     {
       "year": 2017,
@@ -4206,7 +4206,7 @@ const ARTIST_DATA = {
       "notes": "Rode M5 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2017-08-23 - Wantagh, NY - Jones Beach Amphitheater (Rode M5) (unk) [AUD].txt"
+      "textFile": "2017-08-23 - Wantagh, NY - Jones Beach Amphitheatre (Gefell M210s) (jon pasternik) [AUD].txt"
     },
     {
       "year": 2017,
@@ -4657,7 +4657,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "Tascam DR-05 \u00b7 joel shover",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-02-21 - New York, NY - Madison Square Garden (DPA 4061) (5.1)(christopher jones) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -4670,8 +4671,7 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "DPA 4061 \u00b7 5.1 \u00b7 christopher jones",
       "version": "AUD",
-      "format": "FLAC 24",
-      "textFile": "2022-02-21 - New York, NY - Madison Square Garden (DPA 4061) (5.1)(christopher jones) [AUD24].txt"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
@@ -4723,7 +4723,8 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "notes": "Zoom H1 \u00b7 djid4",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-03-18 - San Francisco, CA - Chase Center (Schoeps MK4) (tj) [AUD].txt"
     },
     {
       "year": 2022,
@@ -4736,8 +4737,7 @@ const ARTIST_DATA = {
       "venue": "Chase Center",
       "notes": "Schoeps MK4 \u00b7 tj",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2022-03-18 - San Francisco, CA - Chase Center (Schoeps MK4) (tj) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -5051,7 +5051,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps CCM 41 + CMC1L41V \u00b7 christopher jones",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2023-10-03 - New York, NY - Madison Square Garden (Schoeps CCM 41 + CMC1L41V) (christopher jones) [AUD24].txt"
+      "textFile": "2023-10-03 - New York, NY - Madison Square Garden (AT3031 + AKG C414) (eric lugassy) [AUD].txt"
     },
     {
       "year": 2023,
@@ -5065,7 +5065,7 @@ const ARTIST_DATA = {
       "notes": "AT3031 + AKG C414 \u00b7 eric lugassy",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-10-03 - New York, NY - Madison Square Garden (AT3031 + AKG C414) (eric lugassy) [AUD].txt"
+      "textFile": "2023-10-03 - New York, NY - Madison Square Garden (Schoeps CCM 41 + CMC1L41V) (christopher jones) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -5107,7 +5107,7 @@ const ARTIST_DATA = {
       "notes": "Neumann U67 \u00b7 christopher jones",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-10-21 - Elmont, NY - UBS Arena (Neumann U67) (christopher jones) [AUD].txt"
+      "textFile": "2023-10-21 - Elmont, NY - UBS Arena (CM-700s) (unk) [AUD].txt"
     },
     {
       "year": 2023,
@@ -5121,7 +5121,7 @@ const ARTIST_DATA = {
       "notes": "CM-700s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-10-21 - Elmont, NY - UBS Arena (CM-700s) (unk) [AUD].txt"
+      "textFile": "2023-10-21 - Elmont, NY - UBS Arena (Neumann U67) (christopher jones) [AUD].txt"
     },
     {
       "year": 2023,
@@ -5149,7 +5149,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps CCM4Vs \u00b7 z-man",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-10-25 - Atlanta, GA - State Farm Arena (Schoeps CCM4Vs) (z-man) [AUD].txt"
+      "textFile": "2023-10-25 - Atlanta, GA - State Farm Arena (Rode VideoMic Pro) (don browning) [AUD].txt"
     },
     {
       "year": 2023,
@@ -5163,7 +5163,7 @@ const ARTIST_DATA = {
       "notes": "Rode VideoMic Pro \u00b7 don browning",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-10-25 - Atlanta, GA - State Farm Arena (Rode VideoMic Pro) (don browning) [AUD].txt"
+      "textFile": "2023-10-25 - Atlanta, GA - State Farm Arena (Schoeps CCM4Vs) (z-man) [AUD].txt"
     },
     {
       "year": 2023,

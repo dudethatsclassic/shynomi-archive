@@ -192,7 +192,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Alice In Chains - Rooster {SE 329} (1993) [Silver].txt"
   },
   {
     "type": "release",
@@ -218,7 +219,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Alice In Chains - Live & Unchained (Repress) {KTS 172} (1993) [Silver].txt"
   },
   {
     "type": "release",
@@ -227,7 +229,7 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 1993,
     "category": "SILVERS",
-    "textFile": "MISC - Alice In Chains - Live & Unchained (Repress) {KTS 172} (1993) [Silver].txt"
+    "textFile": "MISC - Alice In Chains - Live & Unchained {KTS 172} (1993) [Silver].txt"
   },
   {
     "type": "release",
@@ -307,7 +309,8 @@ const ARTIST_MISC_DATA = [
     "label": "Alice in Chains - Nothing Safe {Columbia CK 63649} (1999)",
     "format": "FLAC",
     "year": 1999,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - 1999 Alice in Chains - Nothing Safe {Columbia CK 63649}.txt"
   },
   {
     "type": "release",
@@ -427,5 +430,76 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 1999,
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Sweet Alice Demos (Speed corrected)",
+    "year": 1989,
+    "textFile": "MISC - 1989 - Sweet Alice Demos (Speed corrected).txt"
+  },
+  {
+    "type": "release",
+    "label": "Tasty White Powder Demos",
+    "year": 1990,
+    "textFile": "MISC - 1990 - Tasty White Powder Demos.txt"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Alice in Bed (Remastered)",
+    "textFile": "MISC - Alice In Chains - Alice in Bed (Remastered).txt"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Demos 1+2 (1986)",
+    "year": 1986
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Heroin (Demos & Live Stuff)",
+    "version": "COMP",
+    "textFile": "MISC - Alice In Chains - Heroin (Demos & Live Stuff) [COMP].txt"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Live Facelift (1991)",
+    "year": 1991,
+    "format": "DVD",
+    "textFile": "MISC - Alice In Chains - Live Facelift (1991) [DVD].txt"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - MTV Unplugged",
+    "format": "MKV"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - The Nona Tapes",
+    "format": "DVD"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Westwood One Absolutely Live In Concert #01-36",
+    "version": "preFM",
+    "format": "preFM",
+    "textFile": "MISC - Alice In Chains - Westwood One Absolutely Live In Concert #01-36 [preFM].txt"
+  },
+  {
+    "type": "release",
+    "label": "Alice in Chains - 1990-1992",
+    "version": "preFM",
+    "format": "preFM",
+    "textFile": "MISC - Alice in Chains - 1990-1992 [preFM COMP].txt"
+  },
+  {
+    "type": "release",
+    "label": "Alice in Chains - Live At The Palladium Hollywood 1992 (Live) (2019)",
+    "year": 2019,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Over Easy and Super Slezy Heavy Metal",
+    "version": "COMP",
+    "textFile": "MISC - Over Easy and Super Slezy Heavy Metal [COMP].txt"
   }
 ];

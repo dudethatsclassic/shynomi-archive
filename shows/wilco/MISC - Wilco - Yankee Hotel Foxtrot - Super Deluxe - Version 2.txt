@@ -1,0 +1,230 @@
+Wilco
+Yankee Hotel Foxtrot Super Deluxe v2
+All FLAC goodness. 
+
+Studio Demos/Outtakes + Engineer Demos + Yankee Hotel Foxtrot = Super Deluxe v2
+
+
+A slightly modified version of the wonderful collection complied by thepowerofindependenttrucking.blogspot.com. I upgraded the compilation to FLAC. The original upload consisted of 256kbps MP3s. I obtained the source material from the Live Wilco Archive at http://www.owlandbear.com - YHF Demos and the YHF Engineer Demos. I used the Dr. Roberts 24bit/96kHz vinyl rip resampled and bit-depth reduced with SoX to 16bit/44.1kHz as the final version of "Yankee Hotel Foxtrot." Modifications are noted in the track listing below. 
+
+
+From thepowerofindependenttrucking.blogspot.com:
+
+********
+********
+Short version:
+
+ Band starts writing songs for their next record, and starts recording them in their own loft studio space with their own Jay Bennett (guitars/keyboards/songwriting) engineering the sessions.
+
+ Band agrees to be filmed during the recording sessions, for a future feature-length film on the band and the making of this record.
+
+ Band then fires their original drummer Ken Coomer, replacing him with (admittedly superior) Glenn Kotche. This happened the very same day filmmaker Sam Jones showed up with all his gear to start making the film.
+
+ Band finishes the record (after a long, drawn-out mixing process pitting multi-talented Jay Bennett against Tweedy's choice to mix, avante-gardeist Jim O'Rourke, in which what was initially sounding like SUMMERTEETH Part II became much more intimate, experimental and unique), turns it in to their label Reprise (an arm of Warner Bros Records), and promptly gets dropped from the label. This conversation - where Reprise drops the band, and tells manager Tony Margherita so - is caught by Sam Jones' cameras. Initially the band was to pay $50,000 to get the rights to the new record back for themselves, but eventually Reprise lets them go for free.
+
+ Before signing a new deal, band fires the aforementioned Bennett - losing a key songwriter, guitarist, and superb keyboardist. They're now down to a four-piece: Jeff Tweedy (songwriter/guitars/vocals), John Stirratt (bass), Leroy Bach (keyboards/guitars) and Glenn Kotche (drums/percussion).
+
+ Band then signs to another Warner Bros imprint Nonesuch, essentially getting Warners to pay twice for the new record - which eventually sees release in April 2002 entitled YANKEE HOTEL FOXTROT.
+
+ This post was initially to feature your humble blogger's favorite Wilco tracks from the immediate post-SUMMERTEETH era through today - but after writing the above, I've decided to go a bit more out there.
+
+ We will be recompiling the said YANKEE HOTEL FOXTROT record, but from the various demo/engineering sample versions that leaked out shortly after the record's release. I'm excited to do this post, because this record (as it was released) is easily my favorite Jeff Tweedy-related record, by a country mile.
+
+ Taken from two unique demo/engineering leaks, and the final record versions as well, this is a fascinating listen - especially if you compare the "befores" to the "afters". The befores often feature the track as it sounded with former drummer Ken Coomer, while the afters feature Glenn Kotche. Furthermore, if you sequence the record including the tracks that ultimately were dropped from the final running order, you really do have what could have been SUMMERTEETH Part II - which, obviously, Jeff Tweedy had no interest in making.
+
+ In fact, I'll make it easy. I'll compile 'em all here - including the versions on the record as it was finally released.
+
+
+KEY:
+
+"Demo" - taken from the 21-track leaked demo CD, supposedly from tracks recorded before drummer Ken Coomer was fired and replaced by Glenn Kotche. The drumming, to me, is much more Ken-ish than Glenn-ish, which is hard to explain beyond that the drums are less, say, nuanced than Glenn's drumming.
+
+ Additional note from the Live Wilco Archive at Owl and Bear:
+
+Story from...
+http://www.neumu.net/drama/2002/2002-00030/2002-00030_drama.shtml
+
+ Wilco's "Basement Tapes" by Michael Goldberg
+	
+ The ink that says "Wilco YHF Demos" is slightly smeared on the home-printed white cover of the CD that arrived the other day. The 21 songs on this "Basement Tapes" CD, sent from a friend, were downloaded as MP3 files from some Web location.  
+
+ The "YHF Demos" are the great lost Wilco album — now if only someone would release them.
+
+ I don't use the phrase "Basement Tapes" lightly. It's an intentional reference to the recordings Bob Dylan and The Band made up in Woodstock in the late '60s. At an hour and 15 minutes, this is Yankee Hotel Foxtrot as a two-record set. But it's also much more expansive, and not just because of length. It is an amazing album, and I certainly hope that Wilco will choose to release it. I find it captivating in a way that the official album isn't — probably due to the inclusion of "Venus Stop the Train" and some others that didn't make it onto the completed album. But also because, from start to finish, it works as an album, as a body of work that I want to hear all the way from track one — a version of "I Am Trying to Break Your Heart" — through an alternate take of "Not for the Season."
+
+ With Yankee Hotel Foxtrot, Jeff Tweedy drew a line in the sand. No, he was not that alt-country guy you wanted him to be. If you thought Summerteeth was just a diversion, think again, he seemed to be saying. Yankee Hotel Foxtrot is, perhaps, his way of declaring himself a major artist, as daring as those who clearly have inspired him, including The Beatles and Brian Wilson. An artist not content to work within the established structures and sounds that define musical genres.
+
+ So he started fucking with the material, adding odd sounds, deconstructing songs, creating a kind of art piece. And he was successful. The album is good, and the world now sees him as a very different kind of artist than they did before.
+
+ Only, for me, Yankee Hotel Foxtrot turned out to be one of those albums that you appreciate intellectually, that you know is "good" and that you should like, only you never seem to play it. Or you play a couple of songs, but don't listen through from start to finish. Well, don't know about you, maybe you played your copy to death, but I've hardly played mine since my initial attempts to dig into it.
+
+ I must add that, because of all the drama surrounding the official album — record company politics that found one AOL Time Warner label dropping the band while another signed them up — my initial experience of the album was a letdown.
+
+ The YHF demos are something else. With no real expectations, I put the CD in my car stereo on my way home from the post office the other day, and I've been playing it incessantly ever since. It's hard to generalize, but a lot of this album seems to be lamenting a romance that didn't work out; beyond that, Tweedy seems to be catching the disillusionment that many feel now — both disillusionment and nostalgia for a past that we likely recall via romanticized memories ("Heavy Metal Drummer"). "I miss the innocence I've known/ Playing Kiss covers, beautiful and stoned," he sings in "Heavy Metal Drummer," a different version of the song that appeared on Yankee Hotel Foxtrot.
+
+ It's not that these demos are stripped down. They're not (or at least some of them aren't), and thus they feel more organic. It's just that, for the most part, the arrangements are more... traditional. "Alone," for example, a song that didn't make it onto the official album, rocks along to an old-time melody and some honky-tonk. It has the feel of Dylan and The Band doing "Don't Ya Tell Henry."
+
+ "Nothing Up My Sleeve," also not on Yankee Hotel Foxtrot, is a folk-rocker with double-tracked vocals, just a single acoustic guitar for accompaniment  and a Beatles-esque melody. Won't Let You Down is like the Rolling Stones doing country-rock. The lyric is simple, almost a cliché, only it's not, because of the way Tweedy sings it. His voice is scratchy, a bit frail, echoing Jagger from the Stones' Beggar's Banquet days. He makes the song's sentiment sound like it's being expressed for the first time. "When you're getting older/ The weight will lift from your shoulders/ There's one thing to remember/ I'm not gone." And then into the chorus: "I won't ever let you down/ I won't ever let you down... I promise..."
+
+ Tweedy sounds like he means it on every song, but there's something more low-key throughout about his vocals, like he's having fun trying out different voices. And over the course of the 21 songs that have vocals, there's a feeling of intimacy. This isn't the artist making "ART," it's just a passionate singer who writes moving songs getting them down on tape. But it's also a self-conscious artist experimenting within traditional song structures, rather than trying to break them down.
+
+ There are three instrumentals (well, two, and an alternate take). The first is a pretty interlude with piano and strings, a gentle melody that repeats again and again. The second is a kind of country-honk affair, strummed acoustic guitars and backwoods rhythms, that suddenly breaks open into a kind of Abbey Road-styled bridge with drums, synths and God knows what else. The alternate take of that second one is an even trippier piece that takes me back to The Beatles' Magical Mystery Tour.
+
+ The piano-based ballad "Venus Stop the Train" is another stunner. "I kept my distance. 'cause she fell in love with everyone," Tweedy sings. "Smoking grass and taking Christmas trees/ She fell in love with me." "Rhythm" is just Tweedy singing over simple piano accompaniment. The way the vocals and piano were recorded for both remind me of John Lennon's Plastic Ono Band recordings.
+
+ I guess you could accuse me of being a tease — after all, getting a hold of these demos may not be the easiest thing. Or you might think I'm doing that rock-critic thing I made fun of recently, raving about songs most people may never hear. Fuck it. This stuff is too good, and you oughta know about it. And if you can find it, more power to ya! 
+
+
+"Engineer Demos" - taken from a 18-track unknown-lineage leaked CD that supposedly was used as a mixing reference during the final mixdown sessions with Jim O'Rourke. It is unknown who the drummer was on these tracks, I suspect it's Glenn but I have nothing to back that up - though the drums do sound more Glenn-ish than Ken-ish, and they sound far closer to the final mix versions than the earlier demo versions. Please note that these are taken as-is, and that the Engineer Demos disc did feature some glitches as initially leaked (and no better source has turned up). I present these tracks warts-and-all, including the tape spinup sounds you hear at the beginning of some of the Engineer's Demos tracks.
+
+ Additional note from the Live Wilco Archive at Owl and Bear:
+
+ These are previously uncirculated studio versions of the songs off Yankee Hotel Foxtrot. They are all at least somewhat different from the 21 track verson of the YHF Demos that are widely circulated. The early working version of "Radio Cure" (titled "Corduroy Cutoff Girl"), as well as alternate studio versions of "Pot Kettle Black" and War On War have never been on any other bootleg. "Magazine Called Sunset" and "Kamera" were previously included on the Kamera/More Like The Moon EP. Everything else is at least somewhat different then anything that has been previously circulated. Until now, few people in the Wilco trading community knew about them.
+
+
+"Yankee Hotel Foxtrot" Nonesuch, 79669-1, 2 x 180g. Vinyl ripped by Dr. Robert. 
+
+	Vinyl Ripping Details
+	Nitty Gritty RCM 1.5
+	Technics SL-1200MK2 Turntable with KAB Fluid Damping
+	Ortofon 2M Black cartridge
+	Pro-Ject Tube Box SE II Preamp
+	Tascam US-144 external USB 2.0 Audiointerface
+	Monster Cable interconnects
+	Bias Peak LE 6 recording software
+	iZotope RX Advanced 1.21 for redbook conversion
+
+	RCM>TT > Ortofon 2M Blk> Tube Box preamp> Mac Pro Dual Xeon> Peak LE @ 24/96 > manual click removal
+	analyze (no clipping, no DC Bias offset) > Click Repair 3.02 - 15 Rev X2 > split into individual Tracks > FLAC encoded XLD
+	20090320
+	
+Track Listing:
+
+I Am Trying to Break Your Heart
+01 Demos
+02 Engineer Demos
+03 Final album track
+
+Kamera
+04 Demos, take 1
+05 Demos, take 2
+06 Engineer Demos
+07 Final album track
+
+Radio Cure
+08 Engineer Demos - vocal, entitled "Corduroy Cutoff Girl"
+09 Final album track
+
+War on War
+10 Engineer Demos
+11 Final album track
+
+Jesus, etc.
+(no known Demos version has leaked)
+12 Final album track
+
+Ashes of American Flags
+13 Demos
+14 Engineer Demos (Glenn drums?)
+15 Final album track (Jay Bennett drums - it's been confirmed Jay's rough-mix drums were used on the final album track)
+
+Heavy Metal Drummer
+16 Demos
+17 Engineer Demos
+18 Final album track
+
+I'm the Man Who Loves You
+19 Demos
+20 Engineer Demos
+21 Final album track
+
+Pot Kettle Black
+22 Engineer Demos
+23 Final album track
+
+Poor Places
+24 Demos
+25 Engineer Demos
+26 Final album track
+
+Reservations
+27 Demos 
+28 Engineer Demos
+29 Final album track
+
+* * * * Bonus "unreleased" (see note below) * * * *
+
+A Magazine Called Sunset
+30 Demos, take 1
+31 Demos, take 2
+32 Engineer Demos
+
+Not for the Season
+33 Demos, take 1
+34 Demos, take 2
+
+Shakin' Sugar
+35 Demos, Alone, take 1
+36 Demos, Alone, take 2
+37 Engineer Demos
+
+Nothing Up My Sleeve
+38 Demos 
+39 Engineer Demos
+
+Venus Stop the Train
+40 Demos 
+41 (XX) ****Inserted from Engineer Demoss. Song stops abruptly and prematurely****
+
+Cars Can't Escape
+42 (41) Demos - Rhythm
+43 (42) Engineer Demos
+XX (43) wilcoworld.net Roadcase official download version ****Not included. FLAC not available**** 
+
+Won't Let You Down
+44 Demos
+45 Engineer Demos - Never Let You Down
+
+The Good Part
+46 Engineer Demos
+47 B-side to "War On War" Single CD
+
+Corduroy Cutoff Girl
+48 Demos - instrumental 2, take 1
+49 Demos - instrumental 2, take 2
+
+Let Me Come Home
+50 Demos - instrumental 1
+51 Engineer Demos
+
+Notes:
+
+ Tracks 6 and 32 saw official release on the "More Like The Moon EP" AKA "Australian EP" (extra CD with some versions of YHF, also freely downloadable from the band's website)
+Track 51 was released on the benefit CD "Amos House Collection Vol. 3"
+"Not for the Season" was remade as a Loose Fur track (Tweedy/O'Rourke/Kotche) and retitled "Laminated Cat", with a much sparser sound
+"Shakin' Sugar" and "Venus Stop the Train" were re-recorded and released by Jay Bennett on his debut solo release "The Palace at 4am (Part 1)".
+
+- - - - - -
+
+ Jim O'Rourke's final mixes - as heard on the final album track songs - are clearly more defined, less sprawling, and, frankly, better than the original demo versions or the Engineer's Demos variants. Just compare the three versions of "Poor Places" - the upbeat, honky-tonk Demos variant is miles away from the final album track - and it's much better for Jim O'Rourke's involvement.
+
+Enjoy! 
+
+********
+********
+
+Notes from Ratskin regarding naming and tags:
+
+ The source of the track is contained in the Comment and Title fields. The file name also reflects the source. Also noted above in the track listing.
+The tracks from Yankee Hotel Foxtrot have only the first letter of the title capitalized. As they are on the record.
+Demos is also known as studio demos/outtakes or the basement tapes
+The name of the typeset/font used on the cover is ITC Avant Garde LT Book.
+Notes from Ratskin regarding naming and tags:
+
+ The source of the track is contained in the Comment and Title fields. The file name also reflects the source. Also noted above in the track listing.
+The tracks from Yankee Hotel Foxtrot have only the first letter of the title capitalized. As they are on the record.
+Demos is also known as studio demos/outtakes or the basement tapes
+The name of the typeset/font used on the cover is ITC Avant Garde LT Book.
+
+v1 thepowerofindependenttrucking
+v2 Ratskin

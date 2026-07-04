@@ -9,6 +9,14 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Jeff Tweedy - Live Is The King {51497297633} (2021)",
     "year": 2021,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Jeff Tweedy - Live Is The King {51497297633} (2021) [FLAC HD].txt"
+  },
+  {
+    "type": "release",
+    "label": "2003 - The Collected Jeff Tweedy",
+    "year": 1997,
+    "format": "COMPILATION",
+    "textFile": "MISC - 1997-2003 - The Collected Jeff Tweedy [COMPILATION].txt"
   }
 ];

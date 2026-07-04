@@ -1,0 +1,23 @@
+Guster
+May 11th, 2024
+Porchfest
+Aberdeen Road, Somerville, MA
+
+Master:
+Unknown video source > YouTube (link below)
+by Concerts Hub
+
+Conversion:
+youtube-dl > mp4 > m4a > Sound Studio 4.11.0 > xACT 2.58 > FLAC
+by Dave Mallick
+
+01. Careful                  [05:10.397]
+02. The Captain              [04:41.356]
+03. Dreams                   [06:33.695]
+04. Amsterdam                [04:52.962]
+05. This Could All Be Yours  [02:39.869]
+                      Total: [23:58.279]
+
+Original video: https://www.youtube.com/watch?v=7F9Nv75MVso
+
+The set was cut short due to a medical emergency in the crowd.

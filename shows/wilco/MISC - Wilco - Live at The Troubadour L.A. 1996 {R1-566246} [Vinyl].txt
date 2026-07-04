@@ -1,0 +1,41 @@
+foobar2000 1.5 / Dynamic Range Meter 1.1.1
+log date: 2020-04-19 23:09:29
+
+--------------------------------------------------------------------------------
+Analyzed: Wilco / Live At The Troubadour L.A. 1996 [24-96] [2018 RSD 2LP]
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR10      -2.30 dB   -16.31 dB      7:03 01-A1. Sunken Treasure
+DR10      -3.30 dB   -18.42 dB      2:33 02-A2. Red-Eyed And Blue
+DR8       -3.24 dB   -13.47 dB      3:54 03-A3. I Got You (At The End Of The Century)
+DR9       -3.17 dB   -15.20 dB      3:55 04-A4. Someone Else's Song
+DR11      -3.83 dB   -16.33 dB      3:08 05-A5. Someday Soon
+DR11      -3.42 dB   -17.13 dB      3:01 06-B1. Forget The Flowers
+DR10      -2.22 dB   -16.29 dB      4:16 07-B2. New Madrid
+DR10      -2.01 dB   -13.56 dB      3:09 08-B3. I Must Be High
+DR10      -1.43 dB   -13.61 dB      2:13 09-B4. Passenger Side (Punk Version)
+DR11      -2.31 dB   -15.63 dB      4:01 10-B5. Passenger Side
+DR10      -2.16 dB   -14.53 dB      3:36 11-B6. Hotel Arizona
+DR9       -2.03 dB   -13.35 dB      4:12 12-C1. Monday
+DR11      -2.50 dB   -15.67 dB      4:05 13-C2. Say You Miss Me
+DR10      -2.25 dB   -14.37 dB      3:27 14-C3. Outtasite (Outta Mind)
+DR9       -2.51 dB   -13.45 dB      3:19 15-C4. The Long Cut
+DR11      -1.64 dB   -15.83 dB      9:15 16-C5. Kingpin
+DR11      -2.06 dB   -17.55 dB      7:03 17-D1. Misunderstood
+DR12      -2.02 dB   -17.94 dB      3:51 18-D2. Far, Far Away
+DR10      -0.48 dB   -13.73 dB      3:55 19-D3. Give Back The Key To My Heart
+DR10      -1.73 dB   -14.47 dB      4:24 20-D4. Gun
+--------------------------------------------------------------------------------
+
+Number of tracks:  20
+Official DR value: DR10
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           2871 kbps
+Codec:             FLAC
+================================================================================
+
