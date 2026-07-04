@@ -496,6 +496,5 @@ const ARTIST_DATA = {
       "format": "MP4",
       "textFile": "2024-08-23 - Reading, England - Reading Festival (BBC iPlayer 720) [WEB].txt"
     }
-  ],
-  "misc": []
+  ]
 };
