@@ -267,7 +267,7 @@ const ARTIST_DATA = {
       "state": "MS",
       "location": "University of Mississippi, MS",
       "venue": "The Grove",
-      "notes": "Schoeps MK4 \u00b7 jesse mcalister",
+      "notes": "Schoeps MK4 · jesse mcalister",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-04-03 - University of Mississippi, MS - The Grove (Schoeps MK4) (jesse mcalister) [AUD].txt"
@@ -309,7 +309,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Shea's Theater",
-      "notes": "AT831s \u00b7 binko",
+      "notes": "AT831s · binko",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2018-10-19 - Buffalo, NY - Shea's Theater  (AT831s) (binko) [AUD24].txt"
@@ -365,7 +365,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Huber Heights, OH",
       "venue": "Rose Music Center",
-      "notes": "CA-14 \u00b7 charles dewey cole",
+      "notes": "CA-14 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-08-03 - Huber Heights, OH - Rose Music Center (CA-14) (charles dewey cole) [AUD].txt"
@@ -379,7 +379,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Stanford, CA",
       "venue": "Frost Amphitheatre",
-      "notes": "SP-CMC-4U \u00b7 loughney",
+      "notes": "SP-CMC-4U · loughney",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-09-04 - Stanford, CA - Frost Amphitheatre (SP-CMC-4U) (loughney) [AUD].txt"
@@ -393,7 +393,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Lincoln, CA",
       "venue": "Thunder Valley",
-      "notes": "IEM+Tascam DR-2D \u00b7 hoserama",
+      "notes": "IEM+Tascam DR-2D · hoserama",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2024-04-06 - Lincoln, CA - Thunder Valley (IEM+Tascam DR-2D) (hoserama) [MIX].txt"
@@ -407,7 +407,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Washington, MO",
       "venue": "Washington Town & Country Fair",
-      "notes": "Sony PCM-A10 \u00b7 shane e. calhoon",
+      "notes": "Sony PCM-A10 · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-08-09 - Washington, MO - Washington Town & Country Fair (Sony PCM-A10) (shane e. calhoon) [AUD24].txt"
@@ -421,7 +421,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Pabst Theater",
-      "notes": "CA-14 \u00b7 unk",
+      "notes": "CA-14 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-04-17 - Milwaukee, WI - Pabst Theater (CA-14) (unk) [AUD].txt"
@@ -449,7 +449,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Budweiser Stage",
-      "notes": "M \u00b7 Zoom H1n \u00b7 bowlingron",
+      "notes": "M · Zoom H1n · bowlingron",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-08-10 - Toronto, ON - Budweiser Stage (M) (Zoom H1n) (bowlingron) [AUD].txt"
@@ -463,7 +463,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "London, ON",
       "venue": "Canada Life Place",
-      "notes": "Zoom H1n \u00b7 bowlingron",
+      "notes": "Zoom H1n · bowlingron",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-04-04 - London, ON - Canada Life Place (Zoom H1n) (bowlingron) [AUD].txt"
