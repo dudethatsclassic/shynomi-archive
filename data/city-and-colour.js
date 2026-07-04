@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2024-02-18 - London, ON - Budweiser Gardens (iPhone 11) (palm0014) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
