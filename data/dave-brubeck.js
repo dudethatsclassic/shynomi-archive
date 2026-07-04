@@ -228,6 +228,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2010-06-01 - Boston, MA - Symphony Hall [FM].txt"
     }
-  ],
-  "misc": []
+  ]
 };
