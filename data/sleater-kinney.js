@@ -151,6 +151,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2025-06-29 - San Francisco, CA - Stern Grove Festival (Webstream) [WEB].txt"
     }
-  ],
-  "misc": []
+  ]
 };
