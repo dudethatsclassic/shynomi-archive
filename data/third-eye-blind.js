@@ -213,6 +213,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2025-07-05 - Milwaukee, WI - BMO Pavilion (CA14) (unk) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
