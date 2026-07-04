@@ -1,0 +1,136 @@
+This is an original copy of the radio show which I own. It has not been altered. Tracking is as it is on the original release. It is an interview with the band. I have included a copy of the original cue sheet. Original air date was the Week of September 12th, 2003. CD > EAC > FLAC 8.
+
+Track1.flac:17e8849045594f472782d1a03dc9e0b2
+Track2.flac:98c58c3a79c315bff403f2c1bb8e34ae
+Track3.flac:90d594c6548447bf00b99cee3d7dc1c4
+Track4.flac:5c1540842750e7a9f9e6ae0a11980067
+Track5.flac:f0eb3ec7eea0494c31d4b3d17c99befc
+Track6.flac:a9a6e869ce11bb3a792daa63dd5bcb2b
+Track7.flac:37290815c8447a7b38bee5ae1733c387
+Track8.flac:5d7c737550586369f1efa3ff591cd952
+Track9.flac:af2551da7b1057e46c33fd651c6f331d
+
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 13. September 2008, 18:00
+
+A Perfect Circle / Inside 13 Steps
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 0
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format : Internal WAV Routines
+Sample format      : 44.100 Hz; 16 Bit; Stereo
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 | 15:43.18 |         0    |    70742   
+        2  | 15:43.18 | 20:06.57 |     70743    |   161249   
+        3  | 35:50.00 | 10:59.26 |    161250    |   210700   
+        4  | 46:49.26 |  7:05.26 |    210701    |   242601   
+        5  | 53:54.52 |  1:33.01 |    242602    |   249577   
+        6  | 55:27.53 |  1:34.38 |    249578    |   256665   
+        7  | 57:02.16 |  1:07.01 |    256666    |   261691   
+        8  | 58:09.17 |  1:22.01 |    261692    |   267842   
+        9  | 59:31.18 |  0:47.57 |    267843    |   271424   
+
+
+Track  1
+
+     Filename G:\Track1.wav
+
+     Peak level 50.6 %
+     Track quality 100.0 %
+     Copy CRC A5557C84
+     Copy OK
+
+Track  2
+
+     Filename G:\Track2.wav
+
+     Peak level 49.9 %
+     Track quality 99.9 %
+     Copy CRC A94B3CE6
+     Copy OK
+
+Track  3
+
+     Filename G:\Track3.wav
+
+     Peak level 47.0 %
+     Track quality 100.0 %
+     Copy CRC 80991BD0
+     Copy OK
+
+Track  4
+
+     Filename G:\Track4.wav
+
+     Peak level 43.8 %
+     Track quality 100.0 %
+     Copy CRC 6D602999
+     Copy OK
+
+Track  5
+
+     Filename G:\Track5.wav
+
+     Peak level 42.6 %
+     Track quality 100.0 %
+     Copy CRC C3B42D89
+     Copy OK
+
+Track  6
+
+     Filename G:\Track6.wav
+
+     Peak level 44.0 %
+     Track quality 100.0 %
+     Copy CRC E9FC125E
+     Copy OK
+
+Track  7
+
+     Filename G:\Track7.wav
+
+     Peak level 24.4 %
+     Track quality 100.0 %
+     Copy CRC 25A79B60
+     Copy OK
+
+Track  8
+
+     Filename G:\Track8.wav
+
+     Peak level 43.4 %
+     Track quality 99.8 %
+     Copy CRC 2FC54E9E
+     Copy OK
+
+Track  9
+
+     Filename G:\Track9.wav
+
+     Peak level 33.0 %
+     Track quality 100.0 %
+     Copy CRC EB483E48
+     Copy OK
+
+No errors occurred
+
+End of status report

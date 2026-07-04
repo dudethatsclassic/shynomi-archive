@@ -1,0 +1,32 @@
+Smashing Pumpkins
+MCIS Rough Mix 7/25/95
+16-bit version
+
+Source: SBD>??multitrack or DAT??>Virgin Promo ("Master Mixes 7/25/95", duplicated 8/4/95)
+Transfer: Virgin Promo Tape>Sony TC-K630ES>R-09(unity gain, 24/48)
+Editing: Audacity (amplified, spliced tape sides together), CDWave (split), r8brain (downsample/dither), TLH (FLAC)
+
+SIDE A
+01. 33
+02. CUPID
+03. XYU
+04. SLEEP
+05. FUCK YOU
+06. GALAPAGUS
+07. LOVE
+08. THE RATTLER
+09. JELLY BELLY
+
+SIDE B
+10. PORCELINA
+11. BEAUTIFUL
+12. BULLET
+13. TO FORGIVE
+14. ZERO
+15. RUBY
+16. STUMBELINE
+17. TONIGHT - REPRISE
+18. WE ONLY CAME OUT AT NIGHT
+
+Thanks to bmaromar for the tape
+-rhinowing

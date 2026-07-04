@@ -1,0 +1,52 @@
+**Remastered** By thir13en
+
+Smashing Pumpkins (Billy Acoustic)
+Machina Acoustic Demos 
+
+
+A good request folks, thanks.
+
+I've done this one a few times since they surfaced, the last time I didn't do the whole thing but an edited song and sequence version for myself, since the whole thing is a bit much, and some material is stronger than others, IMO. But here's the whole thing for you all kind people who like these things.
+
+I did the best with the material, as it was seriously heavy on 71Hz specifically, and still very boomy from 130Hz and below. A couple of songs are obviously from different sessions ("Drain" and "Lover") which are so boomy at times they distorted quite often into the mid-high range, as did "Le Deux Machina". With these I tried to really kill the noise without losing the rest of it. It's OK, certainly better than the originals.
+
+Also it's a mono source, and I checked a few other sources I have and they all are mono. It's most likely a mono mix of the sessions, just one guitar and one vocal mic each panned straight up, as the meter's didn't act like they were unduly manipulated into mono. I of course added a slight ambient stereo effect to help enhance the recording, which it did nicely. I also fixed the glitches and flubs, and did a little tricky thing to the end of "Speed Kills" to make it fade out smoothly.
+
+Some of these show just how wonderfully written the bare song is, like "BSBT", "Speed Kills" and my favorite "G&TGC", plus some nice un-fleshed songs such as "Here I Am" and "Lover". Very cool indeed.
+
+
+"...I want to live..."
+
+
+01: if there is a god 
+02: blue skies bring tears 
+03: wound (if you wait) 
+04: les deux ex machina 
+05: vanity 
+06: glass & the ghost children           01:38 - skip (FIXED) 
+07: autumn 
+08: drain 
+09: laugh 
+10: here i am 
+11: lover 
+12: let me give the world to you         01:45 - tape flub (FIXED) 
+13: blue skies bring tears              *02:13 - tiny click (FIXED)
+14: speed kills 			 END   - cut at the end (FIXED) 
+
+
+ORIGINAL SOURCE INFO
+========================
+
+billy 4 or 8-track master ---> analogM (billy) ---> CDR master (billy) given to Eric Weinrich (NHL) --> me. 
+transferred with EAC, configured correctly for offset. 
+
+14 tracks. 
+
+skip in Gl+tGC is on the master. 
+
+billy cuts songs. 
+
+
+note: 
+
+every flaw which is stated as "tiny" is nearly inaudible. i heard them only while really listening for them with my headphones on from the stereo, so you would most likely not hear them when listening in any other way. 

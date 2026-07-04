@@ -173,7 +173,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Big Bopper",
-      "textFile": "1992-07-12 - Manchester, UK - Manchester Boardwalk - ANA(M) (big bopper) [AUD].txt"
+      "textFile": "1992-07-12 - Manchester, UK - Boardwalk - ANA(4) (Sony D3) (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -187,7 +187,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sony D3 \u00b7 Unknown",
-      "textFile": "1992-07-12 - Manchester, UK - Boardwalk - ANA(4) (Sony D3) (unk) [AUD].txt"
+      "textFile": "1992-07-12 - Manchester, UK - Manchester Boardwalk - ANA(M) (big bopper) [AUD].txt"
     },
     {
       "year": 1992,
@@ -439,7 +439,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Loughney Transfer",
-      "textFile": "1993-06-05 - Melbourne, AUS - The Prince of Wales Hotel - ANA(4) (loughney transfer) [AUD].txt"
+      "textFile": "1993-06-05 - Melbourne, AUS - Prince Of Wales Theatre - CASS(x) (WM-D6) [AUD].txt"
     },
     {
       "year": 1993,
@@ -453,7 +453,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Wm-d6",
-      "textFile": "1993-06-05 - Melbourne, AUS - Prince Of Wales Theatre - CASS(x) (WM-D6) [AUD].txt"
+      "textFile": "1993-06-05 - Melbourne, AUS - The Prince of Wales Hotel - ANA(4) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1993,
@@ -1332,7 +1332,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "Shure Mv88 \u00b7 Tremolo75",
-      "textFile": "2022-05-23 - Los Angeles, CA - Fonda Theatre (Shure MV88) (tremolo75) [AUD24].txt"
+      "textFile": "2022-05-23 - Los Angeles, CA - Fonda Theater (Beyerdynamic TG L34C) (aaron miller) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -1346,7 +1346,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "Beyerdynamic Tg L34c \u00b7 Aaron Miller",
-      "textFile": "2022-05-23 - Los Angeles, CA - Fonda Theater (Beyerdynamic TG L34C) (aaron miller) [AUD24].txt"
+      "textFile": "2022-05-23 - Los Angeles, CA - Fonda Theatre (Shure MV88) (tremolo75) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -1792,7 +1792,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "DPA 4061 \u00b7 Dynamicalories",
-      "textFile": "2023-09-13 - Brooklyn, NY - Brooklyn Steel (DPA 4061) (dynamicalories) [AUD].txt"
+      "textFile": "2023-09-13 - Brooklyn, NY - Brooklyn Steel (CA-11) (manofstealth) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -1806,7 +1806,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "Ca-11 \u00b7 Manofstealth",
-      "textFile": "2023-09-13 - Brooklyn, NY - Brooklyn Steel (CA-11) (manofstealth) [AUD24].txt"
+      "textFile": "2023-09-13 - Brooklyn, NY - Brooklyn Steel (DPA 4061) (dynamicalories) [AUD].txt"
     },
     {
       "year": 2024,
@@ -1820,7 +1820,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "Zoom H4n \u00b7 Santiago Herrera",
-      "textFile": "2024-05-15 - Buenos Aires, Argentina - C Complejo Art Media (Zoom H4n) (santiago herrera) [AUD24].txt"
+      "textFile": "2024-05-15 - Buenos Aires, Argentina - C Art Media (MM-MCSM-4) (afueradeldial) [AUD].txt"
     },
     {
       "year": 2024,
@@ -1834,7 +1834,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Mm-mcsm-4 \u00b7 Afueradeldial",
-      "textFile": "2024-05-15 - Buenos Aires, Argentina - C Art Media (MM-MCSM-4) (afueradeldial) [AUD].txt"
+      "textFile": "2024-05-15 - Buenos Aires, Argentina - C Complejo Art Media (Zoom H4n) (santiago herrera) [AUD24].txt"
     },
     {
       "year": 2024,

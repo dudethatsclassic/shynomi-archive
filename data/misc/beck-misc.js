@@ -66,6 +66,40 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1996,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Beck - Quodlibet {B-DAT 025} (1996) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Beck - Early Rarities (2017)",
+    "year": 2017,
+    "format": "FLAC",
+    "textFile": "MISC - Beck - Early Rarities (2017) [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Beck - The Information (2006)",
+    "year": 2006,
+    "format": "DVD"
+  },
+  {
+    "type": "release",
+    "label": "Images"
+  },
+  {
+    "type": "release",
+    "label": "Interviews"
+  },
+  {
+    "type": "release",
+    "label": "Old Tapes"
+  },
+  {
+    "type": "release",
+    "label": "Show Reviews"
+  },
+  {
+    "type": "release",
+    "label": "Writing"
   }
 ];

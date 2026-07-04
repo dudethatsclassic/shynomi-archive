@@ -1,0 +1,16 @@
+F:\Matthew Sweet - Goodfriend - Another Take On Girlfriend>shntool len *.shn
+    length     expanded size   cdr  WAVE  probs   filename
+     3:06.05      32822204     ---   --    -xx    01 - Divine Intervention.shn
+     2:52.73      30512540     ---   --    -xx    02 - Girlfriend.shn
+     3:22.65      35785724     ---   --    -xx    03 - Day For Night.shn
+     3:59.15      42194924     ---   --    -xx    04 - Thought I Knew You.shn
+     4:16.70      45323084     ---   --    -xx    05 - Looking At The Sun.shn
+     4:25.52      46868348     ---   --    -xx    06 - Does She Talk.shn
+     6:51.23      72554540     ---   --    -xx    07 - You Don't Love Me.shn
+     3:54.00      41277644     ---   --    -xx    08 - Someone To Pull The Trigger.shn
+     3:46.27      39929948     ---   --    -xx    09 - I've Been Waiting.shn
+     4:32.00      47980844     ---   --    -xx    10 - Winona.shn
+     4:06.58      43530860     ---   --    -xx    11 - Girlfriend.shn
+     6:29.42      68718428     ---   --    -xx    12 - Cortez The Killer.shn
+     3:01.60      32069564     ---   --    -xx    13 - Isolation.shn
+    54:45.40     579568652 B                      (totals for 13 files, 0.7089 overall compression ratio)

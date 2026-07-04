@@ -1,0 +1,12 @@
+Ripped by omarufo
+
+Lineage:
+Ortofon 2M Bronze Cartridge -> Technics SL-1200MK2 Turntable -> 
+Denon PMA-720AE Stereo Amplifier -> Custom-made Cables -> AVID M Box 3 -> 
+Sound Forge 11 -> 96khz/24bit WAV -> foobar2000 -> FLAC 8 (tagging & artwork attached)
+
+Manual click repair has been done when needed.
+
+If you share this somewhere else, please include this lineage and credit ripper.
+
+Enjoy

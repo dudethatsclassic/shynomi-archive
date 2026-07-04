@@ -21,5 +21,22 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2009,
     "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Bjork - 1980-1990 - Bjork Early and Rare",
+    "textFile": "MISC - Bjork - 1980-1990 - Bjork Early and Rare.txt"
+  },
+  {
+    "type": "release",
+    "label": "Bjork - 1993 - Violently Live",
+    "version": "Silver CD",
+    "textFile": "MISC - Bjork - 1993 - Violently Live [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Bjork - 2009 - A\u0301tta Raddir (2009)",
+    "year": 2009,
+    "textFile": "MISC - Bjork - 2009 - A\u0301tta Raddir (2009).txt"
   }
 ];

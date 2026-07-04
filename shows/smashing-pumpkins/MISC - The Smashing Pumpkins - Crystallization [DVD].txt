@@ -1,0 +1,125 @@
+Smashing Pumpkins - Crystallization
+
+* ALL MENUS REMOVED *
+
+DVD > Hard Drive > Menu VOBs removed > TLH
+
+
+
+
+Lineage on all is DVB-s > DVB(M)
+
+Intimate & Interactive: the Smashing Pumpkins (1998-07-19)
+-> video basics: 704*576 @ 25fps @ 0.6735 (4:3) @ 4461600bps
+-> avg. nom. bitrate 3719185bps (min/max: 2597200/5148800)
+-> src_audio: MPEG-1, Layer2, 48000Hz, stereo, 256kbps
+00:47:40
+
+David Bowie´s 50th Birthday Concert (1997-01-09)
+-> video basics: 544*576 @ 25fps @ 0.6735 (4:3) @ 3500000bps
+-> avg. nom. bitrate 3650783bps (min/max: 1431600/7076800)
+-> src_audio: MPEG-1, Layer2, 48000Hz, stereo, 192kbps
+00:10:11
+
+MTV Live: Today (unknown SD-era, 1993-09-xx suggested)
+-> video basics: 528*576 @ 25fps @ 0.6735 (4:3) @ 2640400bps
+-> avg. nom. bitrate 2480717bps (min/max: 1544800/4648800)
+-> src_audio: MPEG-1, Layer2, 48000Hz, stereo, 192kbps
+00:03:21
+
+Studio Pop: Billy Corgan (2005-04-27)
+-> video basics: 720*576 @ 25fps @ 0.6735 (4:3) @ 4585200bps
+-> avg. nom. bitrate 4496941bps (min/max: 3237600/5952000)
+-> src_audio: MPEG-1, Layer2, 48000Hz, stereo, 256kbps
+00:09:45
+
+Today at Rockpalast (1996-04-07)
+-> video basics: 720*576 @ 25fps @ 0.6735 (4:3) @ 8000000bps
+-> avg. nom. bitrate 6327387bps (min/max: 5038400/7692800)
+-> src_audio: MPEG-1, Layer2, 48000Hz, stereo, 256kbps
+00:02:50
+
+Billy Corgan at Letterman: Mina Loy (2005-06-20)
+-> video basics: 720*480 @ 29.97fps @ 0.6735 (4:3) @ 7116800bps
+-> avg. nom. bitrate 7109151bps (min/max: 5798400/11557200)
+-> src_audio: AC-3, CM, 2/0(2.0), dn -31dB, 48000Hz, 192kbps
+-> src_audio: MPEG-1, Layer2, 48000Hz, stereo, 256kbps
+00:04:20
+
+=======
+Setlist
+=======
+
+To Sheila
+Ava Adore
+Perfect
+-Interview-
+Bullet With Butterfly Wings
+For Martha
+1979
+All the Young Dudes
+Jean Genie
+Today
+-Interview-
+Today
+Mina Loy
+
+Intimate & Interactive: The Smashing Pumpkins (1998-07-19)
+00:47:40
+
+To Sheila
+Ava Adore
+Perfect
+-Interview-
+Bullet With Butterfly Wings
+For Martha
+1979
+====
+
+FURTHER INFO:
+
+------------------------------------------------
+
+David Bowie´s 50th Birthday Concert (1997-01-09)
+00:10:11
+
+All the Young Dudes
+Jean Genie
+
+------------------------------------------------------
+
+MTV Live: Today (unknown SD-era, 1993-09-xx suggested)
+00:03:21
+
+Today
+
+-------------------------------------
+
+Studio Pop: Billy Corgan (2005-04-27)
+00:09:45
+
+-Interview-
+
+--------------------------------
+
+Today at Rockpalast (1996-04-07)
+00:02:50
+
+Today
+
+------------------------------------------------
+
+Billy Corgan at Letterman: Mina Loy (2005-06-20)
+00:04:20
+
+Mina Loy
+
+
+
+
+Note: All menu VOBs removed (official audio) leaving the remainders as-is.
+
+
+
+
+* All credits to the original Creator/s *

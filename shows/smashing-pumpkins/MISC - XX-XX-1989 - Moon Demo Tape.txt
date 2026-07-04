@@ -1,0 +1,31 @@
+Smashing Pumpkins
+Moon Demo Tape
+
+Source: Virgin In-House Promo Cassette > Sony TC-K630ES > R-09(unity gain, 24/48)
+Original editing: Audacity (amplified, spliced tape sides together), r8brain (downsample/dither), CDWave (split)
+Additional editing: WAV file in Adobe Audition (speed fixing, a few tape blips fixed, volume balancing, etc) 
+                    > CDWave (splits, cutting some dead space, etc) > Flac Frontend
+
+01. Honeyspider (alt.)
+02. (interlude #1)
+03. With You
+04. Egg
+05. (interlude #2)
+06. Rhinoceros (alt.)
+07. Bye June
+08. Stars Fall In
+09. Daughter
+10. (interlude #3)
+11. Daydream
+12. (interlude #4)
+13. Psychodelic
+
+Notes:
+All credits to bmaromar for the original tape and rhinowing for the transfer and share.
+
+The original release ran a little too fast so my main intention was too fix this, a few extra tweaks ended up being tackled too. 
+Sounds as good as we're likely to get!
+
+-sinfony
+
+

@@ -1,0 +1,22 @@
+Smashing Pumpkins
+"B Sides"
+16 bit version
+
+Source: SBD>??multitrack or DAT??>Virgin Promo ("B Sides")
+Transfer: Virgin Promo Tape>Sony TC-K630ES>R-09(unity gain, 24/48)
+Editing: Audacity (amplified, spliced tape sides together), r8brain (downsample/dither), CDWave (split), TLH (FLAC)
+
+01. OBSCURED
+02. WHIRL
+03. KITTY KAT
+04. APATHY
+05. BLEW AWAY (VERSION 1)
+06. BLEW AWAY (VERSION 2)
+07. PISSANT
+08. FRENCH MOVIE THEME
+09. PURR SHNICKETY
+
+I'm guessing these were given to Virgin for potential inclusion as b-sides for the various Siamese Dream singles
+
+thanks to bmaromar for the tape
+-rhinowing

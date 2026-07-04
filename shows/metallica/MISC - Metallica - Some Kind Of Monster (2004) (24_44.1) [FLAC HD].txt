@@ -1,0 +1,29 @@
+foobar2000 1.3.13 / Dynamic Range Meter 1.1.1
+log date: 2017-03-10 14:16:49
+
+--------------------------------------------------------------------------------
+Analyzed: Metallica / Some Kind Of Monster
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR6       -0.40 dB    -8.01 dB      8:28 01-Some Kind Of Monster
+DR5       -0.40 dB    -6.46 dB      5:22 02-The Four Horsemen (Live)
+DR5       -0.40 dB    -7.05 dB      5:00 03-Damage, Inc. (Live)
+DR5       -0.40 dB    -6.71 dB      5:57 04-Leper Messiah (Live)
+DR5       -0.40 dB    -7.16 dB      3:21 05-Motorbreath (Live)
+DR6       -0.40 dB    -7.23 dB      6:42 06-Ride The Lightning (Live)
+DR6       -0.40 dB    -7.99 dB      4:14 07-Hit The Lights (Live)
+DR6       -0.40 dB    -7.14 dB      4:17 08-Some Kind Of Monster (Edit)
+--------------------------------------------------------------------------------
+
+Number of tracks:  8
+Official DR value: DR6
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           1751 kbps
+Codec:             FLAC
+================================================================================
+

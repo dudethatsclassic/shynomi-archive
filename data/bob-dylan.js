@@ -50,7 +50,8 @@ const ARTIST_DATA = {
       "venue": "Live at Carnegie Hall In Concert",
       "notes": "Unreleased CBS Album",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1963-10-26 - Bob Dylan - Live at Carnegie Hall In Concert (Unreleased CBS Album) [STUDIO].flac.txt"
     },
     {
       "year": 1965,
@@ -145,7 +146,8 @@ const ARTIST_DATA = {
       "venue": "Isle of Wight *Mighty Mockingbird",
       "notes": "",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-08-31 - Live at the Isle Of Wight - Mighty Mockingbird [SBD].txt"
     },
     {
       "year": 1970,
@@ -266,7 +268,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "Municipal Auditorium",
-      "notes": "inc · dolphinsmile",
+      "notes": "inc \u00b7 dolphinsmile",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1976-05-11 - San Antonio, TX - Municipal Auditorium (inc) (dolphinsmile) [SBD].txt"
@@ -406,7 +408,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Palo Alto, CA",
       "venue": "Stanford University",
-      "notes": "Frost · hurricane",
+      "notes": "Frost \u00b7 hurricane",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-10-14 - Palo Alto, CA - Stanford University - Frost Amphitheatre [AUD].txt"

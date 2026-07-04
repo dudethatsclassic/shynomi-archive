@@ -2481,7 +2481,7 @@ const ARTIST_DATA = {
       "notes": "CSB \u00b7 toolmanjpc",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-08-24 - Portland, OR - Columbia Meadows.txt"
+      "textFile": "2003-08-24 - Deer Island, OR - Columbia Fairgrounds (SS DSM6S) - DAT(M) (michael devitt) [AUD].txt"
     },
     {
       "year": 2003,
@@ -2495,7 +2495,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 SS DSM6S \u00b7 michael devitt",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-08-24 - Deer Island, OR - Columbia Fairgrounds (SS DSM6S) - DAT(M) (michael devitt) [AUD].txt"
+      "textFile": "2003-08-24 - Portland, OR - Columbia Meadows.txt"
     },
     {
       "year": 2003,

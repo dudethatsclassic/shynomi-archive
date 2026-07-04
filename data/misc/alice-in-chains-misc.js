@@ -434,6 +434,69 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Sweet Alice Demos (Speed corrected)",
+    "year": 1989
+  },
+  {
+    "type": "release",
+    "label": "Tasty White Powder Demos",
+    "year": 1990
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Alice in Bed (Remastered)"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Demos 1+2 (1986)",
+    "year": 1986
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Heroin (Demos & Live Stuff)",
+    "version": "COMP"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Live Facelift (1991)",
+    "year": 1991,
+    "format": "DVD"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - MTV Unplugged",
+    "format": "MKV"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - The Nona Tapes",
+    "format": "DVD"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - Westwood One Absolutely Live In Concert #01-36",
+    "version": "preFM",
+    "format": "preFM"
+  },
+  {
+    "type": "release",
+    "label": "Alice in Chains - 1990-1992",
+    "version": "preFM",
+    "format": "preFM"
+  },
+  {
+    "type": "release",
+    "label": "Alice in Chains - Live At The Palladium Hollywood 1992 (Live) (2019)",
+    "year": 2019,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Over Easy and Super Slezy Heavy Metal",
+    "version": "COMP"
+  },
+  {
+    "type": "release",
+    "label": "Sweet Alice Demos (Speed corrected)",
     "year": 1989,
     "textFile": "MISC - 1989 - Sweet Alice Demos (Speed corrected).txt"
   },

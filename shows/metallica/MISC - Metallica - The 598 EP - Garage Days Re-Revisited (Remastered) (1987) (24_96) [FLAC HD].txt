@@ -1,0 +1,26 @@
+foobar2000 1.3.9 / Dynamic Range Meter 1.1.1
+log date: 2018-04-19 20:47:53
+
+--------------------------------------------------------------------------------
+Analyzed: Metallica / The $5.98 EP - Garage Days Re-Revisited (Remastered 2018)
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR10      -0.10 dB   -11.73 dB      6:38 01-Helpless (Remastered)
+DR10      -0.10 dB   -11.82 dB      6:41 02-The Small Hours (Remastered)
+DR12      -0.10 dB   -13.39 dB      4:52 03-The Wait (Remastered)
+DR11      -0.35 dB   -13.26 dB      3:09 04-Crash Course in Brain Surgery (Remastered)
+DR12      -0.20 dB   -12.87 dB      3:30 05-Last Caress / Green Hell (Remastered)
+--------------------------------------------------------------------------------
+
+Number of tracks:  5
+Official DR value: DR11
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           3361 kbps
+Codec:             FLAC
+================================================================================
+

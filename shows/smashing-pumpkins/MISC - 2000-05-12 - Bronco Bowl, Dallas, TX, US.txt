@@ -1,0 +1,23 @@
+Smashing Pumpkins
+May 12th 2000
+Bronco Bowl
+Dallas, TX, US
+
+SOURCE (AMT#1):
+unknown > unknown
+
+VIDEO TRANSFER:
+Panasonic AG-1980 SVHS > Datavideo TBC-6000 > ATI TV Wonder 600 USB > VirtualDub > AviSynth 2.6.0 > x264.exe 0.155.2901 7d0ff22 > MKVToolNix GUI v46.0.0
+
+GENERATION:
+VHS(X) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [480p/x264 | AAC | FLAC]
+
+LENGTH:
+120:37
+
+MD5 FINGERPRINTS:
+a28429191c55bd12426b40a84bf15292 *Smashing Pumpkins 2000-05-12 AMT1 x264 AAC FLAC.mkv
+
+TRANSFER & DISTRIBUTION:
+Nicholas Serra & Members of SPLRA
+2022-01-20

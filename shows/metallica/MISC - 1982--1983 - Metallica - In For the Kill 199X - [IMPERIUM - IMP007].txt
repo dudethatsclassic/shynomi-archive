@@ -1,0 +1,54 @@
+        Band: Metallica
+        Bootleg: In for the Kill
+        Style: Metal
+        Year: 199x
+        Origin: United States of America  (Los Angeles/San Francisco, California)
+        Record Label: IMPERIUM - IMP007
+        Info: http://www.metallipromo.com/images/bootdemo/003.html
+        
+        lineage:
+	Silver bootleg CD > EAC(WAV > Flac lvl.8)
+        
+
+
+
+Album Tracks
+-----------------
+ 01.    The Mechanix
+ 02.    Motorbeath
+ 03.    Jump into the Fire
+ 04.    Phantom Lord
+ 05.    Hit the Lights
+ 06.    Fight Fire with Fire
+ 07.    Ride the Lightning
+ 08.    Creeping Death
+ 09.    Killing Time
+ 10.    Let it Loose
+ 11.    4 Horsemen
+ 12.    When the Hell Freezes Over
+ 13.    Seek and Destroy
+ 14.    Metal Militia
+
+
+Additional Notes
+--------------------
+   outakes 82'
+
+   ?/07/82, recorded in chateau east studio, tuscin, ca 1-5,11,13-14:"No Life'til Leather" Demo 
+   82/03    rehersals 3/82  9 & 10 
+   ?/09/83, recorded in san francisco, ca  6 - 8 & 12, ride demo 
+
+01_-_The_Mechanix.flac:c34f025682e410441ec5a311ee40fbe4
+02_-_Motorbeath.flac:5df632c3e0424d5684dee65467fa8cb1
+03_-_Jump_Into_The_Fire.flac:ab2b63fb0668ac7f52cd622456025887
+04_-_Phantom_Lord.flac:a3de2b01e0dde300f69a55a00c2b1d65
+05_-_Hit_The_Lights.flac:5689c8c39a3bcd3cd096b37404b6c96b
+06_-_Fight_Fire_With_Fire.flac:44a499ae755120209a2a10ec249d2783
+07_-_Ride_The_Lightning.flac:4065353d4c7cf6fad55e51aa7e5e0d03
+08_-_Creeping_Death.flac:41c15d9e82aa2dc55176f8f3e1e5ac7c
+09_-_Killing_Time.flac:214b03b06a12d335d8faed191ac2b757
+10_-_Let_It_Loose.flac:c613cd7b34a482789ab04a9b950d411e
+11_-_4_Horsemen.flac:861a0a9051db38828db13638700a897a
+12_-_When_The_Hell_Freezes_Over.flac:48933aef95bff992a04ec0597e885a9f
+13_-_Seek_And_Destroy.flac:d5a571afdec2ee1f8e943174a2e57ad6
+14_-_Metal_Militia.flac:f346f7d7359163cb2e4c5eaf0a493af8

@@ -1,0 +1,54 @@
+foobar2000 1.6.12 / Dynamic Range Meter 1.1.1
+log date: 2023-05-04 10:50:37
+
+--------------------------------------------------------------------------------
+Analyzed: The Smashing Pumpkins / ATUM
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR6       -0.60 dB   -10.61 dB      3:32 01-ATUM
+DR6       -0.60 dB    -9.80 dB      5:43 01-Avalanche
+DR6       -0.63 dB   -10.20 dB      7:41 01-Sojourner
+DR6       -0.60 dB   -10.31 dB      3:28 02-Butterfly Suite
+DR6       -0.60 dB    -7.22 dB      3:10 02-Empires
+DR7       -0.60 dB    -8.43 dB      3:56 02-That Which Animates the Spirit
+DR7       -0.60 dB    -9.32 dB      4:17 03-Neophyte
+DR6       -0.60 dB    -8.77 dB      3:58 03-The Canary Trainer
+DR7       -0.60 dB    -9.47 dB      4:41 03-The Good in Goodbye
+DR7       -0.60 dB    -9.82 dB      3:40 04-Embracer
+DR7       -0.66 dB    -8.39 dB      2:59 04-Moss
+DR7       -0.63 dB   -11.73 dB      5:25 04-Pacer
+DR6       -0.60 dB    -7.41 dB      3:27 05-In Lieu of Failure
+DR9       -1.11 dB   -11.57 dB      2:53 05-Night Waves
+DR6       -0.60 dB    -8.78 dB      2:53 05-With Ado I Do
+DR8       -1.26 dB   -11.87 dB      3:04 06-Cenotaph
+DR5       -0.60 dB    -8.04 dB      3:06 06-Hooligan
+DR7       -1.42 dB   -10.30 dB      3:12 06-Space Age
+DR6       -0.60 dB    -8.59 dB      6:10 07-Every Morning
+DR6       -0.60 dB    -8.53 dB      4:21 07-Harmageddon
+DR6       -0.60 dB    -7.69 dB      3:49 07-Steps in Time
+DR7       -0.60 dB   -10.20 dB      3:26 08-Fireflies
+DR6       -1.11 dB    -9.03 dB      3:12 08-To the Grays
+DR7       -0.88 dB   -10.58 dB      4:15 08-Where Rain Must Fall
+DR5       -0.60 dB    -6.91 dB      3:58 09-Beguiled
+DR6       -0.60 dB    -7.97 dB      3:43 09-Beyond the Vale
+DR6       -0.60 dB   -10.04 dB      8:58 09-Intergalactic
+DR7       -0.90 dB   -10.27 dB      3:44 10-Hooray!
+DR6       -0.60 dB    -9.58 dB      4:07 10-Spellbinding
+DR8       -1.81 dB   -12.09 dB      4:31 10-The Culling
+DR8       -1.16 dB   -12.92 dB      5:28 11-Of Wings
+DR11      -1.80 dB   -15.66 dB      4:01 11-Springtimes
+DR6       -0.60 dB    -8.88 dB      3:37 11-The Gold Mask
+--------------------------------------------------------------------------------
+
+Number of tracks:  33
+Official DR value: DR7
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           1635 kbps
+Codec:             FLAC
+================================================================================
+

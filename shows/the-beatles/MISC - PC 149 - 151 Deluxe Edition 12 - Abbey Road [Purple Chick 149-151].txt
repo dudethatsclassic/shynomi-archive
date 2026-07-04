@@ -1,0 +1,428 @@
+=================
+Abbey Road: Notes
+=================
+
+.. contents::
+
+Purple Chick's Deluxe Edition of Abbey Road is three discs of material
+covering most of 1969 (plus some "surprise" sessions in the 1990s). This set
+is three discs long -- the shortest since Revolver -- due to the lack of
+dedicated mono mixes of any of the songs (although the Let It Be LP was only
+released in stereo, several of the songs on it were mixed to mono from the
+multitrack tapes for the film's soundtrack). Disc 1 consists of the released
+tracks from this era, plus one finished but unreleased recording and a
+handful of alternate stereo mixes. Discs 2 and 3 are session outtakes plus a
+few more alternate mixes.
+
+
+Volume One: The Masters And The Mixes
+-------------------------------------
+
+Disc 1
+......
+
+Disc 1 kicks off with the second single of 1969, The Ballad Of John And Yoko
+/ Old Brown Shoe. John's wedding narrative was mixed into stereo immediately
+after being recorded and was the first Beatles single to have no mono mix.
+(Get Back / Don't Let Me Down was stereo-only in the United States, but
+still mixed and released into mono for the UK. Interestingly enough, this
+first stereo-only single was mixed only ten days after the mono mixes for
+the Get Back single were prepared on April 4, 1969.)
+
+This is followed by 17 tracks from the Abbey Road LP, taken (as usual) from
+Dr. Ebbetts' transfer of the Blue Box Remaster vinyl. This includes the
+third and final single of 1969 (and first to give George an A-side),
+Something / Come Together.
+
+Track 20, Come And Get It, was recorded by Paul as a demo for the
+Apple-signed group Badfinger. No other Beatles appear, but the song is
+complete (and was copied nearly note-for-note by Badfinger) and is included
+here in a stereo mix (the Anthology 3 sorta-stereo mix is on Disc 3).
+
+Although Abbey Road was the last album recorded by the Beatles and Let It Be
+the last one released, Paul, George and Ringo got back together in the mid-
+1990s to record overdubs to at least four of John's demos from the late
+1970s. Two would be finished: Free As A Bird and Real Love, and are
+presented as the next two tracks on this Deluxe Edition.
+
+The disc is rounded out with alternate mixes of some of the songs (more are
+on Disc 3). Track 23 is The Ballad Of John And Yoko and track 24 is
+Something, both edited together from their respective 1969 mixes and the
+mixes used on the Anthology DVD. Track 25 is the customary medley of
+incomplete Anthology DVD mixes, while track 26 is the Anthology DVD mix of
+Free As A Bird (the alternate mix of Real Love is on Disc 3).
+
+Abbey Road has the distinction of being the first Beatles album to be
+released on CD, in Japan in 1983 by Toshiba-EMI. Toshiba-EMI had previously
+obtained the rights to publish an audiophile mastering of Abbey Road on
+vinyl in their Pro-Use series and at the time believed they also had the
+rights to release it on CD. Their parent company EMI informed them
+otherwise, and the release was pulled off the shelves, but not before
+several thousand copies got out -- so while it's expensive it's not
+impossible to find. It's also shared online quite a bit, but one should be
+aware that the original disc was mastered with pre-emphasis which needs to
+be enabled on each track when burning to a CD-R so that the de-emphasis is
+properly applied when played back on a CD player. Alternatively, programs
+like `SoX <http://sox.sourceforge.net/>`_ can digitally reverse the effect
+-- otherwise the tracks will sound overly bright when played back.
+
+Like Let It Be, Abbey Road was not released in mono, but that hasn't stopped
+people from trying. The album was released in Brazil in mono as a fold-in of
+the stereo album (I haven't been able to determine if they were far behind
+other countries in switching to stereo, or if their disc mastering equipment
+was only setup for mono, or both) and Dr. Ebbetts has transferred this copy
+for us. Mirror Spock has also made a mono Abbey Road, this time by digitally
+extracting elements from the stereo mixes and "remixing" them into a new
+mono mix (although I haven't listened carefully enough to tell what the
+differences are between it and the Brazilian mono).
+
+
+Volume Two: Sessions
+--------------------
+
+Disc 2
+......
+
+George celebrated his 26th birthday on February 25, 1969 by recording demos
+for three recently-written songs onto tape E90644: Old Brown Shoe (track 1),
+All Things Must Pass (track 2) and Something (track 3). The first would go
+on to be the flip side to the Beatles' next single, the second saved for
+George's first solo album (for which it would also provide the title) and
+the third for Abbey Road. Track 4 is the same take of Something taken from
+an acetate and including a piano overdub.
+
+Calling upon Paul's help to record the recently-written The Ballad Of John
+And Yoko, half of the Beatles entered the studio on April 14. With Ringo
+filming The Magic Christian with Peter Sellers and George shopping for a new
+house, Paul played drums on the backing track while John provided acoustic
+guitar and simultaneous vocals to tape E91380. Take ten turned out to be the
+best so in a series of overdubs the two Beatles added the rest of the
+instrumentation to the track. Track 5 presents part of this take solely
+consisting of John's vocal (with echo) and acoustic guitar. (This is
+probably taken from the center channel of the Anthology DVD's 5.1 surround
+mix. John's humming in the place of the "Lonesome Tears In My Eyes" riff
+near the end is barely audible in the released stereo mix on Disc 1.) Before
+the end of the session the song had been mixed to stereo and within a few
+days would be joined by Old Brown Shoe to become the group's next single
+(Get Back / Don't Let Me Down had only just been released on the 11th).
+
+Track 6 is take 26 of Oh! Darling, first recorded on April 20 onto tape
+E91360. This is a mix made sometime on or after April 26 when Paul first
+attempted his vocal overdub and could be a mono fold-in of RS4 from May 1.
+Paul would make several tries at the lead vocal -- one a day in an effort to
+get the rough sound he wanted from his voice. Some of these overdubs have
+survived and appear as tracks 4 to 8 on Disc 3. He finally achieved his goal
+on August 11 and those vocals would go onto the master recording (on Disc
+1).
+
+Also on April 26 the Beatles started work on Ringo's second solo
+composition, Octopus's Garden. Track 7 is take 2 (from tape E91351). Ringo
+sings a guide vocal while playing the drums (and repeats the verse and
+chorus three times). The "superb" line at the end was flown in from take 8
+(on the same tape) for this mix on Anthology 3. Take 32 would be the best
+take of this song, and would have full vocals from Ringo added on April 29.
+Track 8 represents the song at this point, likely a mono fold-in of mix RS4.
+This is from tape E91353. The song would ultimately be mixed for stereo on
+July 18; seven mono mixes were also made this day -- the only mono mixes
+made for the whole Abbey road album -- for an unknown purpose.
+
+You Never Give Me Your Money was started on May 6 at Olympic Studios and 36
+takes were recorded to tapes E94067, E94068 and E94069. Sometime during June
+(while all four Beatles were on holidays) take 30 was cut out or copied to
+tape E92833 at EMI Studios, and on July 1 Paul added his lead vocal. (And
+John ran his car off the road, resulting in minor injuries to him and Yoko.
+He was absent for this session and several more afterwards to spend time at
+her side while she recovered in the hospital.) Track 9 is a rough mix (in
+mono) showing the state of the song on the 1st. There's a jam at the end
+instead of the "all good children" chant which would be recorded later in
+July.
+
+Paul arrived early on July 2 and recorded a song that he had written the
+previous fall and played at least twice during the Get Back sessions in
+January: Her Majesty. Unable to add anything else to the song, he recorded
+what he had in three takes to tape E92839 in what was essentially a
+twintrack recording -- his vocals were on one track and acoustic guitar on a
+second. Track 10 is a rough mix of this song (bootlegged in mono) and
+includes the final chord that was cut out of the released version.
+
+Ringo and George arrived after Paul finished Her Majesty, and work commenced
+on the prearranged medley of Golden Slumbers / Carry That Weight --
+reflecting the sound of You Never Give Me Your Money. Fifteen takes were
+recorded to tape E92839, the first of which was listened to by Paul, George,
+Ringo and George Martin during the Anthology documentary, and their
+commentary (including trying to figure out who played what instrument) is
+included as track 11. The best was take 13 which was later edited with take
+15 and bounced to takes 16 and 17, the latter of which had overdubs added to
+it beginning the next day. Track 12 is take 13, showing the state of the
+song as of July 2, and an off-mike vocal from George is audible at several
+points during the song.
+
+More work was performed on Golden Slumbers / Carry That Weight during the
+first week of July, as well as nearly completing George's last Beatles
+composition, Here Comes The Sun. But the next track to become available to
+us is take 5 of Maxwell's Silver Hammer, recorded July 9 onto tape E92826
+with some nonsense lyrics from Paul filling out unfinished parts of the
+song. John also made his return to the studio this day, along with Yoko and
+a double bed for her continued recovery from the car accident earlier in the
+month.
+
+Take 21 of Maxwell's Silver Hammer would turn out to be the best and have
+overdubs recorded the next day (it managed to fit onto tape E92826 as takes
+6 to 10 were skipped). Once this was done, 13 stereo mixes were made
+capturing the song as it was on July 10. The last of these was copied in
+mono and appears here as track 14.
+
+Further work was done to Maxwell's Silver Hammer on the 11th before
+attention was returned to Something, begun in May. George laid down a lead
+vocal (manually double tracked) on take 36, filling tape E91419 so it was
+reduced to take 37 on tape E92830. The vocals would be re-recorded (again
+onto take 36) later in the week and new reductions made (takes 38 and 39),
+so track 15 is the only place to hear George's July 11 vocals.
+
+Sessions for John's Come Together began at 2:30pm on July 21. Not only did
+Neil Armstrong and Buzz Aldrin take their first steps on the moon just 12
+hours earlier, but Geoff Emerick returned to EMI as a freelance engineer
+this day (after leaving a few weeks earlier to work for Apple). Track 16 is
+take 1, recorded to four-track tape E92963 -- presumably EMI's two eight-
+track decks were already in use this day. An eight-track deck became
+available later in the day, as the best take (6) was dubbed over to
+eight-track tape E92830 in the evening.
+
+Track 17 is a composite of one of Paul's vocal overdubs to Oh! Darling with
+the music from the released track (isolated using "Purple Chick Magic"(TM)).
+The vocals can be heard in isolation as tracks 4 through 8 on Disc 3 (and
+more information on them can be found in the notes below).
+
+Sometime during the session on July 24 for the second medley, Sun King /
+Mean Mr. Mustard, the Beatles slipped into a jam including Gene Vincent's
+Ain't She Sweet. This was recorded by the Beatles in Hamburg on June 24,
+1961 as part of Tony Sheridan's backing band, but this recording more
+accurately reflects Vincent's own recording (rather than the faster
+arrangement they used in 1961). In a Gene Vincent mood, they continued with
+Who Slapped John? and Be-Bop-A-Lula. All three songs would have made nice
+additions to Get Back -- that is, if they had been recorded six months
+earlier... These were not noted on the tape boxes but are on either E94227
+or E94229. Ain't She Sweet was mixed for stereo for Anthology 3 and included
+here as track 18.
+
+With The End being recorded (as an instrumental and essentially a jam) on
+July 23 and third medley Polythene Pam / She Came In Through The Bathroom
+Window started on the 25th (then overdubbed on the 28th and finished on the
+30th) there was enough material to produce a test mix of the "Huge Melody"
+that would end the album. This is included in two parts as tracks 19 and 20.
+An organ is used to link You Never Give Me Your Money with Sun King instead
+of the sound effects used on the final crossfade and all songs appear in
+earlier mixes than those used on the album. (The mix of Polythene Pam
+includes extra comments from John in similar spirit to the "great" that was
+heard on the final mix. These can be heard in isolated form on bonus track
+23, taken from the Love TV special.) Her Majesty had already been removed
+from the tape by the time this (mono) copy was made; Paul heard the finished
+result in the studio and asked that the song be removed. The tape operator
+complied but, reluctant to throw out anything by the Beatles, added a 20
+second leader tape and spliced it onto the end of the mix on tape E92938.
+Later in the day the tape was taken to Apple where it would be cut to
+acetates. Paul heard the acetate (including Her Majesty at the end) and
+liked the effect so much that the song was once more spliced from the reel
+and added to the master tape for the album in the same spot (including the
+final chord from the rough mix of Mean Mr. Mustard but lacking its own final
+chord).
+
+Track 21 is an Anthology 3 mix of just the vocals of Because. These were
+triple-tracked by John, Paul and George, resulting in a nine-voice choir. A
+similar bootleg mix appears as track 11 on Disc 3, but this mix avoids
+instrumental leakage (through the singers' headphones) by fading out to
+silence in-between each line.
+
+The End would finally have vocals added to take 7 on tape E92966 in early
+August (the main lyric on the 5th and "love you" chant on the 7th) and
+guitar on the 7th (consisting of two bars each from Paul, George and John in
+order). On the 8th the Beatles crossed the road for the cameras, then
+recorded additional drums and bass. The orchestral overdubs for every song
+on the album, including The End, were recorded on August 15 (using, for the
+first time, a closed-circuit TV hookup between Studios 1 and 2 at EMI). A
+wee bit of piano was added just before the main lyric on the 18th. The song
+was mixed to stereo the next day, revealing that the orchestra was slightly
+out of sync at the end -- this can be heard on track 22 (which also includes
+guitar and other material that had been mixed out of the final release,
+hence the "faders up" designation). As a result, the orchestra was copied
+over to a four-track tape and carefully synchronized with the master
+eight-track tape when they were mixed (the same method ultimately used for A
+Day In The Life), achieving the result on the fourth try. However, it was
+decided to extend the length of the song by editing in a guitarless mix
+(with panned vocals to hide the fact that some of them were repeated). Part
+of this was later removed, resulting in what we hear as track 18 on Disc 1.
+The edits result in the following:
+
+ * 0:35 - 0:47 (bar 1 through bar 6 of the solo)
+ * 0:47 - 0:53 (bar 9 through the fifth 8th note of bar 12 -- bars 7 and 8
+   were edited out)
+ * 0:53 - 1:29 (sixth 8th note of bar 4 through bar 22)
+
+Disc 3
+......
+
+Disc 3 begins with a couple of alternate mixes of material that has already
+appeared on Discs 1 and 2. Old Brown Shoe (track 1) and All Things Must Pass
+(track 2) are Anthology 3 mixes of these songs.
+
+In December a TV special highlighting George Martin was recorded and titled
+With A Little Help From My Friends. Ringo agreed to perform to a pre-
+recorded take of Octopus's Garden, featuring drums and rhythm guitar along
+with some of the vocals and bubble sound effects from the recording heard on
+Abbey road. In ten takes a new lead vocal was recorded to the original
+backing with new lead guitar, piano and bass from unknown session musicians.
+The result was mixed into a twintrack-style stereo mix (track 16) with
+instruments on one side and Ringo's vocals on the other, allowing them to be
+isolated (track 3).
+
+The vocals for Oh! Darling were recorded using tape echo (used partially on
+the final mix), which uses a second tape deck with its record and playback
+heads placed some distance apart, resulting in a delay in whatever's
+recorded to it. Routing the playback head back to the record head with less
+volume gives an echo effect. In this case someone managed to keep a copy of
+the tape used in the tape-delay machine, so we ended up with a copy of one
+of Paul's vocal overdubs from either July 17, 18 or 22. (Each overdub would
+have been erased from the master tape every time a new one was recorded. The
+vocals on the released version were recorded on July 23.) Track 4 is mostly
+of Paul repeating lines and goofing around trying to get the level of echo
+right. He has some fun with the effect around a minute into track 5, then
+complains about his headphones being disconnected before trying some
+yodeling. The song finally begins at the start of track 7 but cuts out
+before the end. Track 8 is the first 20 seconds of this tape, running at the
+original speed(s) (the tape speed was adjusted during recording to alter the
+delay of the echo).
+
+Due to the proximity of his home to EMI Studios, Paul would frequently be
+the first to arrive. He did so on July 24 and recorded in one take onto tape
+E94227 a demo of Come And Get It for Apple-signed group Badfinger (formerly
+The Iveys) who would record the song as a hit single and as part of the
+soundtrack for Ringo and Peter Sellers' film The Magic Christian. As Paul
+added overdubs, John gave advice from the control room (so I guess it counts
+as a Beatles recording and not a solo Paul recording). The song was finished
+in an hour before George and Ringo arrived and is heard here as track 9
+(using the fake stereo mix made by Geoff Emerick for Sessions and appearing
+on Anthology 3) and on Disc 1 (track 20, in a true stereo mix made just
+after the song was recorded). On August 2, Paul would produce Badfinger's
+version of the song -- nearly identical to his own but running slightly
+faster.
+
+Track 10 is the first part of the "Huge Melody" with Her Majesty inserted
+into its original location between Mean Mr. Mustard and Polythene Pam -- as
+it would have sounded when first played for the Beatles on July 30.
+
+Track 11 is a mix of Because consisting solely of the vocals (which was
+duplicated officially for Anthology 3 and appearing on Disc 2). Track 12 is
+a mix prepared for the Abbey Road Video Show in 1983 that has one minute of
+vocals-only crossfaded with a full mix (including George's Moog synthesizer)
+for the remainder of the song (it sounds pretty cool when the instruments
+first come in).
+
+Tracks 13 and 14 are monitor mixes of Something (probably takes 36 and 39),
+made in 2003 during a demonstration by Peter Cobbin on how he mixed this
+song into surround sound for the then-upcoming Anthology DVD release. This
+aired on CNN: The Music Room sometime around May 1, 2003 and gives some
+insight on both the recording and mastering of the song.
+
+Track 15 seems to be an outfake of The End created by cutting out around
+twenty seconds of material starting around the 50 minute mark from the
+master recording. (That is, there doesn't seem to be anything here that
+isn't on the original recording.)
+
+The four Beatles were together in the studio for the last time on August 20,
+1969 in order to mix and determine the running order for Abbey Road. Three
+of them were present for two final sessions on January 3 and 4, 1970 for Let
+It Be, and both George and Ringo would appear to help finish that album up
+until April 1 of that year. Although they formally disbanded on April 10,
+1970 in the midst of a lawsuit, they would individually appear on several of
+each other's solo recordings (including an unreleased session during John's
+"Lost Weekend" in 1974 featuring both him and Paul) and despite their
+differences would still associate personally (and professionally at Apple
+Corps. meetings well into the 1970s). Promoters offered millions of dollars
+for a Beatles reunion (Lorne Michaels mocked these in 1976 by offering
+$3000.00 for them to appear on Saturday Night Live -- Paul and John were
+watching the show together and nearly accepted "as a gag"), but all hopes of
+a reunion were dashed on December 8, 1980 when John Lennon was assassinated.
+
+But it was not The End.
+
+The Beatles and their heirs had been involved with lawsuits with EMI at
+least until 1989. EMI's "Sessions" project was revived as "Anthology" and by
+1993 or 1994 it was decided it needed something new on it. In January, 1994,
+Paul inducted John into the Rock And Roll Hall Of Fame and Yoko used the
+opportunity to present Paul with one or more cassette tapes of demos that
+John had made. John had been recording these demos on a portable cassette
+tape recorder throughout the 1970s up until a few weeks before his death,
+and had a wealth of unreleased songs. The three Beatles entrusted the tapes
+to George's fellow Traveling Wilbury Jeff Lynne (George Martin declined
+productions duties due to hearing loss), who used a digital audio
+workstation to remove noise from the rough demo of Free As A Bird (track 17)
+and attempt to separate John's voice from the instruments and place them on
+48-track analog tape in a form suitable for overdubbing. The overdubs began
+on February 11, 1994 (coincidentally 31 years to the day of their marathon
+session recording most of their first album Please Please Me) at Paul's
+studio "The Mill" in Sussex, England. By the end of the day they had
+finished Free As A Bird (the result being track 21 on Disc 1).
+
+After a less successful attempt at finishing John's demo of Now And Then on
+June 22, 1994 (and a session at George's recording studio the next day at
+which allegedly ten hours of mostly oldies were recorded), the three Beatles
+reconvened at The Mill Studio on February 6 and 7, 1995 to record Real Love
+(the demo of which is track 18). Not only was the introduction played on the
+same celeste used by John on Because, but the harmonium was the same one
+used on several Beatles tracks including We Can Work It Out (both
+instruments had been purchased by Paul in the intervening years). The
+Anthology project now in full swing, these two sessions were videotaped in
+order to produce a promotional video for the song. Due to the secrecy of the
+sessions, video co-director (and former 10cc member) Kevin Godley was only
+given a partially-completed take of the song, so in order to edit the video
+he dubbed his own vocals (this variant is heard as track 21). Two final
+sessions on the 15th and 16th of May, 1995 finished Real Love (heard as
+track 22 on Disc 1). The final track is sped up by a semitone (giving Kevin
+Godley some problems when editing the video) -- track 22 is a mix made at
+the original speed for the Anthology DVD.
+
+Tracks 19 and 20 are the two reunion tracks enhanced by Purple Chick to
+emphasize John's contributions by dubbing in more of his demos.
+
+
+Bibliography
+------------
+
+ The Beatles Deluxe Editions By Purple Chick
+  http://x3mkungen.mine.nu/wogev/beatles/pc/index.html
+
+ The Beatles Recording Sessions Update
+  http://reunionsessions.tripod.com/al/faabsessions/contents.html
+
+ The BeatleSource
+  http://www.beatlesource.com/
+
+ BootlegZone
+  http://www.bootlegzone.com/
+
+ Brennan, Joe. The Usenet Guide to Beatles Recording Variations
+  http://www.columbia.edu/~brennan/beatles/
+
+ CNN.com - Behind The Scenes: "The Beatles Anthology"
+  http://edition.cnn.com/2003/SHOWBIZ/Music/05/01/mroom.beatles.anthology/index.html
+
+ The Internet Beatles Album
+  http://www.beatlesagain.com/
+
+ Lewisohn, Mark. The Beatles Recording Sessions
+
+ Lewisohn, Mark. The Complete Beatles Chronicle
+
+ Ryan, Kevin and Kehew, Brian. Recording The Beatles
+
+ Wikipedia
+  http://en.wikipedia.org/wiki/The_Beatles
+
+ Winn, John C. (ed.). John Barrett's Notes
+
+ Winn, John C. The Beatles Recorded Legacy
+  http://members.aol.com/multiplusbooks/
+
+  * Volume One: 1957-1965 (Way Beyond Compare)
+  * Volume Two: 1966-1970 (That Magic Feeling)
+  * Volume Three: Inside The Beatles Vaults (Lifting Latches)

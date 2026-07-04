@@ -48,5 +48,45 @@ const ARTIST_MISC_DATA = [
     "label": "Matthew Sweet - Goodfriend - Another Take On Girlfriend (Promo CD)",
     "format": "FLAC",
     "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Matthew Sweet - 100% Fun Demos",
+    "textFile": "MISC - Matthew Sweet - 100% Fun Demos.txt"
+  },
+  {
+    "type": "release",
+    "label": "Matthew Sweet - Demos (1989-1991)",
+    "textFile": "MISC - Matthew Sweet - Demos (1989-1991).txt"
+  },
+  {
+    "type": "release",
+    "label": "Matthew Sweet - Earth Demos",
+    "textFile": "MISC - Matthew Sweet - Earth Demos.txt"
+  },
+  {
+    "type": "release",
+    "label": "Matthew Sweet - Goodfriend - Another Take On Girlfriend (Promo CD)",
+    "textFile": "MISC - Matthew Sweet - Goodfriend - Another Take On Girlfriend (Promo CD).txt"
+  },
+  {
+    "type": "release",
+    "label": "Matthew Sweet - Superdeformed #1",
+    "textFile": "MISC - Matthew Sweet - Superdeformed #1.txt"
+  },
+  {
+    "type": "release",
+    "label": "Matthew Sweet - Superdeformed #2",
+    "textFile": "MISC - Matthew Sweet - Superdeformed #2.txt"
+  },
+  {
+    "type": "release",
+    "label": "Matthew Sweet - Supervixen",
+    "textFile": "MISC - Matthew Sweet - Supervixen.txt"
+  },
+  {
+    "type": "release",
+    "label": "Matthew Sweet - Sweet Demos 2",
+    "textFile": "MISC - Matthew Sweet - Sweet Demos 2.txt"
   }
 ];

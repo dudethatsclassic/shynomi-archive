@@ -1,0 +1,58 @@
+ARTIST   Björk
+TITLE    Violently Live
+VENUE    Kosmopolitan [+]
+         The Academy [++}
+CITY     Aarhus [+]
+         Manchester [++]
+STATE
+COUNTRY  Denmark [+]
+         England [++]
+DATE     September 9, 1993 [+]
+         September 14, 1993 [++]
+
+Note: Date of Manchester appearance varies.
+      Might be December 19, 1993 as well.
+
+Tracklist:
+  01   Human Behaviour [+]
+  02   The Habour [Atlantic] [+]
+  03   One Day [+]
+  04   Venus As A Boy [+]
+  05   Come To Me [+]
+  06   Aeroplane [+]
+  07   Play Dead [+]
+  08   Crying [+]
+  09   Violently Happy [+]
+  10   There's More To Life Than This [+]
+  11   Big Time Sensuality [+]
+  12   If You Complain Once More [Army Of Me] [+]
+  13   Modern Things [+]
+  14   Human Behaviour [++]
+  15   The Habour [Atlantic] [++]
+  16   One Day [++]
+  17   Come To Me [++]
+  18   The Anchor Song [++]
+  
+Artwork:
+  In subdirectory "artwork" and available at http://artwork.easytree.org
+
+Lineage:
+  SBD > silver bootleg (Venus Music VM 003 1994) > EAC > FLAC Frontend (align on sector boundaries, level 8)
+.md5 (for .wav) and Fingerprints incl.
+
+Originally torrented through http://bt.easytree.org – please donate!
+
+As always: Comments/ratings highly appreciated!
+
+Mind your karma – never make ANY profit off of the artist’s work provided with this torrent. Enjoy the music and share freely.
+
+Please don’t pass this on in a lossy format, thank you.
+
+jupiter2101
+
+Notes:
+
+The major reason why you should get this bootleg is the second (and the 15th) track "Atlantic". "Atlantic" is a song that is too beautiful to be described in words. You just have to hear it to understand what I mean. Except from that this bootleg also brings us an interesting version of "Play dead" played on pipes and flutes where Björk is singing lots of syncopes and a wonderful, haunting version of "Violently happy" with a church-organ and some really cool djunglist-noises. The early version of "Army of me" reminds me a little bit of Sugarcubes' own "Coldsweat"-remix that you find as a bonus-track on "Life's too good" and the early version of "The modern things" is a truly beautiful one with Björk singing along to a keyboard. "Violently live" also brings you two versions of "Human behaviour". The first one just sounds like the original album-version but the second one has got some really interesting echo-effects. Björk is singing the bootleg's last five tracks with a sadder tone of voice and that fits "Human behaviour" perfect. I'm not that positive to the live-version of "There's more to life than this", though. It sounds nothing but hasty to me.
+The sound quality at track 1-13 is as magnificent as if it was an official recording. Björk's voice doesn't get disturbed by the cries from the audience. Track 14-18 is recorded with a little bit worse sound-quality and the cries from the audience is spoiling many of the intros. There's a flute that follows her voice in many tracks and that sounds interesting sometimes but I could have made it without that flute. Some of the songs has got even more instruments than on the original "Debut"-album. 
+http://home.swipnet.se/~w-10797/bjork/violent.htm
+

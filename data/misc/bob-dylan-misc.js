@@ -27,7 +27,8 @@ const ARTIST_MISC_DATA = [
     "label": "Bob Dylan - World Tour Anthology {LB-01755} (1978)",
     "format": "SHN",
     "year": 1978,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 1978-XX-XX - World Tour Anthology (LB-01755) .txt"
   },
   {
     "type": "release",
@@ -106,7 +107,8 @@ const ARTIST_MISC_DATA = [
     "label": "Bob Dylan - The Witmark Years (Capricorn 2021-22)",
     "format": "FLAC",
     "year": 2021,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - The Witmark Years (Capricorn 2021-22).txt"
   },
   {
     "type": "release",
@@ -163,6 +165,115 @@ const ARTIST_MISC_DATA = [
     "label": "Bob Dylan and Mark Knopfler - The Jokermen {Scorpio-UK79}",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Bob Dylan and Mark Knopfler - The Jokermen (Scorpio-UK79) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "1965 - Bob Dylan - Solid Road",
+    "year": 1961,
+    "textFile": "MISC - 1961-1965 - Bob Dylan - Solid Road.txt"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - Bob Dylan Minnesota Tapes",
+    "year": 1961
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - Eat The Document",
+    "year": 1966,
+    "format": "DVD",
+    "textFile": "MISC - 1966-XX-XX - Eat The Document [DVD].txt"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - Build A Ladder To The Stars (Pink Panther Records)",
+    "year": 1974,
+    "textFile": "MISC - 1974-XX-XX - Build A Ladder To The Stars (Pink Panther Records).txt"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - Real Cuts At Last",
+    "year": 1987,
+    "format": "Vinyl",
+    "textFile": "MISC - 1987-XX-XX - Real Cuts At Last [Vinyl].txt"
+  },
+  {
+    "type": "release",
+    "label": "Bob Dylan & Traveling Wilburys - The Secret Tapes of Lucky Boo",
+    "textFile": "MISC - Bob Dylan & Traveling Wilburys - The Secret Tapes of Lucky Boo.txt"
+  },
+  {
+    "type": "release",
+    "label": "Bob Dylan -  Blonde On Blonde (Original Stereo Mixes)",
+    "textFile": "MISC - Bob Dylan -  Blonde On Blonde (Original Stereo Mixes).txt"
+  },
+  {
+    "type": "release",
+    "label": "Bob Dylan - 1974 Soundboard Collection",
+    "textFile": "MISC - Bob Dylan - 1974 Soundboard Collection.txt"
+  },
+  {
+    "type": "release",
+    "label": "Bob Dylan - Abandoned Desire",
+    "textFile": "MISC - Bob Dylan - Abandoned Desire.txt"
+  },
+  {
+    "type": "release",
+    "label": "Bob Dylan - Blood On the Tapes.shn",
+    "textFile": "MISC - Bob Dylan - Blood On the Tapes.shn.txt"
+  },
+  {
+    "type": "release",
+    "label": "Bob Dylan - Dimestore Medicine",
+    "version": "Silver CD",
+    "textFile": "MISC - Bob Dylan - Dimestore Medicine [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Bob Dylan - First Gaslight Tape (Remaster)"
+  },
+  {
+    "type": "release",
+    "label": "Bob Dylan - Highway 61 Demo Outtakes",
+    "textFile": "MISC - Bob Dylan - Highway 61 Demo Outtakes.txt"
+  },
+  {
+    "type": "release",
+    "label": "Bob Dylan - Isle of Wight (1969)",
+    "year": 1969,
+    "textFile": "MISC - Bob Dylan - Isle of Wight (1969).txt"
+  },
+  {
+    "type": "release",
+    "label": "Bob Dylan - Long Distance Operator (1965)",
+    "year": 1965
+  },
+  {
+    "type": "release",
+    "label": "Bob Dylan - New York Sessions (1974)",
+    "year": 1974,
+    "format": "SBD",
+    "textFile": "MISC - Bob Dylan - New York Sessions (1974) [SBD].txt"
+  },
+  {
+    "type": "release",
+    "label": "Bob Dylan - Renaldo and Clara Soundtrack (soniclovenoize)",
+    "textFile": "MISC - Bob Dylan - Renaldo and Clara Soundtrack (soniclovenoize).txt"
+  },
+  {
+    "type": "release",
+    "label": "Bob Dylan - The Ghost of Woody Guthrie (1961)",
+    "year": 1961
+  },
+  {
+    "type": "release",
+    "label": "Bob Dylan - What Are You Trying To Say - Performing Artist Series - Vol. 6"
+  },
+  {
+    "type": "release",
+    "label": "Bob Dylan and the Band - Basement Tapes (Acetate)",
+    "textFile": "MISC - Bob Dylan and the Band - Basement Tapes (Acetate).txt"
   }
 ];

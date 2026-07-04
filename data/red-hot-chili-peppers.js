@@ -290,7 +290,8 @@ const ARTIST_DATA = {
       "venue": "Astor Park Club",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1986-05-02 - Seattle, WA -  Astor Park Club (thir13en remaster) [SBD].txt"
     },
     {
       "year": 1986,
@@ -303,8 +304,7 @@ const ARTIST_DATA = {
       "venue": "Astor Park Club",
       "notes": "thir13en remaster",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1986-05-02 - Seattle, WA -  Astor Park Club (thir13en remaster) [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1986,
@@ -1005,8 +1005,7 @@ const ARTIST_DATA = {
       "venue": "VPRO Studios",
       "notes": "Nozems-a-Gogo",
       "version": "SBD #1",
-      "format": "FLAC",
-      "textFile": "1990-02-14 - Hilversum, Holland - Nozems-A-Gogo (2nd Gen PAL) (DutchPunkOnTheRise) [DVD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -1019,7 +1018,8 @@ const ARTIST_DATA = {
       "venue": "VPRO Studios",
       "notes": "Nozems-a-Gogo \u00b7 2",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1990-02-14 - Hilversum, Holland - Nozems-A-Gogo (2nd Gen PAL) (DutchPunkOnTheRise) [DVD].txt"
     },
     {
       "year": 1990,
@@ -2123,7 +2123,7 @@ const ARTIST_DATA = {
       "notes": "MTV \u00b7 Moonraker 026",
       "version": "TV",
       "format": "FLAC",
-      "textFile": "1995-09-07 - New York City, NY - Radio City Music Hall - MTV Music Awards - VHS(M) (PRO) [MKV].txt"
+      "textFile": "1995-09-07 - New York, NY - Radio City Music Hall (MTV Video Music Awards) [TV].txt"
     },
     {
       "year": 1995,
@@ -2137,7 +2137,7 @@ const ARTIST_DATA = {
       "notes": "MTV \u00b7 M \u00b7 upgrade",
       "version": "TV",
       "format": "MKV",
-      "textFile": "1995-09-07 - New York, NY - Radio City Music Hall (MTV Video Music Awards) [TV].txt"
+      "textFile": "1995-09-07 - New York City, NY - Radio City Music Hall - MTV Music Awards - VHS(M) (PRO) [MKV].txt"
     },
     {
       "year": 1995,
@@ -4369,7 +4369,7 @@ const ARTIST_DATA = {
       "notes": "V2001 \u00b7 x",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2001-08-18 - Stafford, England - Weston Park - V2001 Festival [AUD #1].txt"
+      "textFile": "2001-08-18 - Stafford, England - Weston Park - V Festival - MD(M) (elliot grieves) [AUD #1].txt"
     },
     {
       "year": 2001,
@@ -4383,7 +4383,7 @@ const ARTIST_DATA = {
       "notes": "V \u00b7 M \u00b7 elliot grieves",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2001-08-18 - Stafford, England - Weston Park - V Festival - MD(M) (elliot grieves) [AUD #1].txt"
+      "textFile": "2001-08-18 - Stafford, England - Weston Park - V2001 Festival [AUD #1].txt"
     },
     {
       "year": 2001,
@@ -4686,7 +4686,8 @@ const ARTIST_DATA = {
       "venue": "Estadio Monumental Antonio Vespucio Liberti",
       "notes": "ANA(M) \u00b7 unk",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-10-16 - Buenos Aires, Argentina - River Plate Stadium (Version 1) [SBD #1].txt"
     },
     {
       "year": 2002,
@@ -4699,8 +4700,7 @@ const ARTIST_DATA = {
       "venue": "River Plate Stadium",
       "notes": "ANA(1) \u00b7 Version 1",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2002-10-16 - Buenos Aires, Argentina - River Plate Stadium (Version 1) [SBD #1].txt"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -12408,7 +12408,7 @@ const ARTIST_DATA = {
       "notes": "Zoom iQ7 \u00b7 pompor",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2023-06-26 - Mannheim, Germany - Maimarktgela\u0308nde (Zoom iQ7) (pompor) [AUD24].txt"
+      "textFile": "2023-06-26 - Mannheim, Germany - Maimarktgelande (SP-CMC-8) (toshi) [AUD].txt"
     },
     {
       "year": 2023,
@@ -12422,7 +12422,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 \u00b7 toshi",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-06-26 - Mannheim, Germany - Maimarktgelande (SP-CMC-8) (toshi) [AUD].txt"
+      "textFile": "2023-06-26 - Mannheim, Germany - Maimarktgela\u0308nde (Zoom iQ7) (pompor) [AUD24].txt"
     },
     {
       "year": 2023,

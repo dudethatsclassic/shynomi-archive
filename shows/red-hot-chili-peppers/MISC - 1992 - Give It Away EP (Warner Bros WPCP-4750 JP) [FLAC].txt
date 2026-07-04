@@ -1,0 +1,33 @@
+[CUETools log; Date: 07/10/2018 17:39:12; Version: 2.1.6]
+[CTDB TOCID: an2FnE1J9lA5YGoKDHdZps2C5LM-] found.
+Track | CTDB Status
+  1   | (9/9) Accurately ripped
+  2   | (9/9) Accurately ripped
+  3   | (9/9) Accurately ripped
+  4   | (9/9) Accurately ripped
+  5   | (9/9) Accurately ripped
+  6   | (9/9) Accurately ripped
+[AccurateRip ID: 00077902-0027f041-4d074606] found.
+Track   [  CRC   |   V2   ] Status
+ 01     [6e8a4c68|33d27655] (0+0/8) No match
+ 02     [b1b48301|0ed302e6] (0+0/8) No match
+ 03     [1774eb61|a9a9b59a] (0+0/8) No match
+ 04     [632fc3c5|cc862909] (0+0/8) No match
+ 05     [8056f75b|18457f60] (0+0/8) No match
+ 06     [4e71ab18|f3316db6] (0+0/8) No match
+Offsetted by 29:
+ 01     [0ab23d1d] (2/8) Accurately ripped
+ 02     [53ff4f24] (2/8) Accurately ripped
+ 03     [48e8b8f4] (2/8) Accurately ripped
+ 04     [74d3b551] (2/8) Accurately ripped
+ 05     [e2250a00] (2/8) Accurately ripped
+ 06     [86c71278] (2/8) Accurately ripped
+
+Track Peak [ CRC32  ] [W/O NULL] 
+ --   99,9 [0AA3E9B0] [CC2ADD39]           
+ 01   99,9 [167C4F40] [1B50C4FB]           
+ 02   99,9 [700F864C] [C7BDCDFA]           
+ 03   84,0 [38F444C5] [B9186A7F]           
+ 04   98,2 [AFCCA3F1] [17AF6456]           
+ 05   87,6 [5F0D6A8F] [875B9E66]           
+ 06   75,2 [0C95FA24] [1D485E91]           

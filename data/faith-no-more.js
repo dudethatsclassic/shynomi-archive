@@ -1136,7 +1136,7 @@ const ARTIST_DATA = {
       "notes": "Out \u00b7 a.g.",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-07-09 - Frauenfeld, Switzerland - Pferderennbahn - Out In The Green Festival [AUD].txt"
+      "textFile": "1993-07-09 - Frauenfeld, Switzerland - Pferderennbahn - ANA(1) (Sony UX-Pro) (t. bruder) [AUD].txt"
     },
     {
       "year": 1993,
@@ -1150,7 +1150,7 @@ const ARTIST_DATA = {
       "notes": "1 \u00b7 Sony UX-Pro \u00b7 t. bruder",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-07-09 - Frauenfeld, Switzerland - Pferderennbahn - ANA(1) (Sony UX-Pro) (t. bruder) [AUD].txt"
+      "textFile": "1993-07-09 - Frauenfeld, Switzerland - Pferderennbahn - Out In The Green Festival [AUD].txt"
     },
     {
       "year": 1993,
@@ -1332,7 +1332,7 @@ const ARTIST_DATA = {
       "notes": "Fixed",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-06-20 - Paris, France - Le Zenith [AUD].txt"
+      "textFile": "1995-06-20 - Paris, France - Le Zenith (1G) (mats.l) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1346,7 +1346,7 @@ const ARTIST_DATA = {
       "notes": "1G \u00b7 mats.l",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-06-20 - Paris, France - Le Zenith (1G) (mats.l) [AUD].txt"
+      "textFile": "1995-06-20 - Paris, France - Le Zenith [AUD].txt"
     },
     {
       "year": 1995,
@@ -2292,7 +2292,7 @@ const ARTIST_DATA = {
       "notes": "DSM-6",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-04-24 - Los Angeles, CA - The Wiltern [AUD].txt"
+      "textFile": "2015-04-24 - Los Angeles, CA - The Wiltern (DR-2d) (unk) [AUD].txt"
     },
     {
       "year": 2015,
@@ -2306,7 +2306,7 @@ const ARTIST_DATA = {
       "notes": "DR-2d \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-04-24 - Los Angeles, CA - The Wiltern (DR-2d) (unk) [AUD].txt"
+      "textFile": "2015-04-24 - Los Angeles, CA - The Wiltern [AUD].txt"
     },
     {
       "year": 2015,

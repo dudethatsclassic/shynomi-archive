@@ -1,0 +1,28 @@
+Smashing Pumpkins
+April 24th 1996
+Palatrussardi
+Milan, IT
+
+SOURCE (AMT#1):
+unknown > unknown
+
+TRANSFER:
+Sony DCR TRV230E > JVC JX-S777 > Datavideo TBC3000 > Blackmagic Intensity Pro > VirtualDub > AviSynth 2.60 > x264.exe 0.155.2901 7d0ff22 > MKVToolNix GUI v46.0.0
+
+GENERATION:
+HI8(M) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [576p/x264 | AAC | FLAC]
+
+LENGTH:
+120:04
+
+MD5 FINGERPRINTS:
+6edefa1487bc62aad79e60456bfd73d6 *Smashing Pumpkins 1996-04-24 AMT1 HI8 x264.mkv
+
+RECORDING:
+"Pluscenti"
+
+TRANSFER:
+TravisBickle1963
+
+ENCODE & DISTRIBUTION:
+Nicholas Serra - July 2020

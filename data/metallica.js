@@ -679,7 +679,7 @@ const ARTIST_DATA = {
       "notes": "ranskal transfer \u00b7 Source 2",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1984-11-18 - Paris, France - Espace Ballard [AUD].txt"
+      "textFile": "1984-11-18 - Paris, France - Espace Balard (Source 3) (stephane d.) [AUD].txt"
     },
     {
       "year": 1984,
@@ -693,7 +693,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 stephane d. \u00b7 Source 3",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1984-11-18 - Paris, France - Espace Balard (Source 3) (stephane d.) [AUD].txt"
+      "textFile": "1984-11-18 - Paris, France - Espace Ballard [AUD].txt"
     },
     {
       "year": 1984,
@@ -1216,7 +1216,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1985-08-31 - Oakland, CA - Oakland Coliseum Stadium - Day On the Green [AUD].txt"
+      "textFile": "1985-08-31 - Oakland, CA - Alameda County Coliseum - CASS(x) [AUD].txt"
     },
     {
       "year": 1985,
@@ -1230,7 +1230,7 @@ const ARTIST_DATA = {
       "notes": "CASS(x)",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1985-08-31 - Oakland, CA - Alameda County Coliseum - CASS(x) [AUD].txt"
+      "textFile": "1985-08-31 - Oakland, CA - Oakland Coliseum Stadium - Day On the Green [AUD].txt"
     },
     {
       "year": 1985,
@@ -1918,7 +1918,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1986-11-28 - Poughkeepsie, NY - Mid-Hudson Civic Center - The Freak's Not Here [AUD].txt"
+      "textFile": "1986-11-28 - Poughkeepsie, NY - Mid-Hudson Civic Center (Source 2 - }{eywood) (koondog) [AUD24].txt"
     },
     {
       "year": 1986,
@@ -1932,7 +1932,7 @@ const ARTIST_DATA = {
       "notes": "}{eywood) \u00b7 koondog",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1986-11-28 - Poughkeepsie, NY - Mid-Hudson Civic Center (Source 2 - }{eywood) (koondog) [AUD24].txt"
+      "textFile": "1986-11-28 - Poughkeepsie, NY - Mid-Hudson Civic Center - The Freak's Not Here [AUD].txt"
     },
     {
       "year": 1986,
@@ -3888,7 +3888,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1991-11-03 - Detroit, MI - The Palace of Auburn Hills [SBD].txt"
+      "textFile": "1991-11-03 - Detroit, MI - The Palace of Auburn Hills (Sony DX2-13) (dave jr.) [SBD].txt"
     },
     {
       "year": 1991,
@@ -3902,7 +3902,7 @@ const ARTIST_DATA = {
       "notes": "Sony DX2-13 \u00b7 dave jr. master",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1991-11-03 - Detroit, MI - The Palace of Auburn Hills (Sony DX2-13) (dave jr.) [SBD].txt"
+      "textFile": "1991-11-03 - Detroit, MI - The Palace of Auburn Hills [SBD].txt"
     },
     {
       "year": 1991,
@@ -4925,7 +4925,7 @@ const ARTIST_DATA = {
       "notes": "Sony D-7 \u00b7 the govner",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-01-22 - Kalamazoo, MI - Wings Stadium [AUD].txt"
+      "textFile": "1993-01-22 - Kalamazoo, MI - Wings Stadium (B&K 4011s) (mark lamke) [AUD].txt"
     },
     {
       "year": 1993,
@@ -4939,7 +4939,7 @@ const ARTIST_DATA = {
       "notes": "B&K 4011s \u00b7 mark lamke",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-01-22 - Kalamazoo, MI - Wings Stadium (B&K 4011s) (mark lamke) [AUD].txt"
+      "textFile": "1993-01-22 - Kalamazoo, MI - Wings Stadium [AUD].txt"
     },
     {
       "year": 1993,
@@ -5731,7 +5731,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 sousourn1823 transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-06-01 - Holmdel, NJ - Garden State Arts Center - ANA(1) (sousourn1823 transfer) [AUD].txt"
+      "textFile": "1994-06-01 - Holmdel, NJ - Garden State Arts Center (Sony D3) (koondog) [AUD].txt"
     },
     {
       "year": 1994,
@@ -5745,7 +5745,7 @@ const ARTIST_DATA = {
       "notes": "Sony D3 \u00b7 koondog",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-06-01 - Holmdel, NJ - Garden State Arts Center (Sony D3) (koondog) [AUD].txt"
+      "textFile": "1994-06-01 - Holmdel, NJ - Garden State Arts Center - ANA(1) (sousourn1823 transfer) [AUD].txt"
     },
     {
       "year": 1994,
@@ -5828,7 +5828,7 @@ const ARTIST_DATA = {
       "notes": "jeff s. transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-06-11 - Mansfield, MA - Great Woods (jeff s. transfer) [AUD].txt"
+      "textFile": "1994-06-11 - Mansfield, MA - Great Woods (Realistic 33-1052 tie clip mics) (mike m.) [AUD].txt"
     },
     {
       "year": 1994,
@@ -5842,7 +5842,7 @@ const ARTIST_DATA = {
       "notes": "Realistic 33-1052 tie clip mics \u00b7 mike m.",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-06-11 - Mansfield, MA - Great Woods (Realistic 33-1052 tie clip mics) (mike m.) [AUD].txt"
+      "textFile": "1994-06-11 - Mansfield, MA - Great Woods (jeff s. transfer) [AUD].txt"
     },
     {
       "year": 1994,
@@ -6064,7 +6064,7 @@ const ARTIST_DATA = {
       "notes": "Source 1 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-07-01 - Milwaukee, WI - Marcus Amphitheater (Source 1) (unk) [AUD].txt"
+      "textFile": "1994-07-01 - Milwaukee, WI - Marcus Amphitheater (SS DSM6) (cruciferous) [AUD].txt"
     },
     {
       "year": 1994,
@@ -6078,7 +6078,7 @@ const ARTIST_DATA = {
       "notes": "SS DSM6 \u00b7 cruciferous",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-07-01 - Milwaukee, WI - Marcus Amphitheater (SS DSM6) (cruciferous) [AUD].txt"
+      "textFile": "1994-07-01 - Milwaukee, WI - Marcus Amphitheater (Source 1) (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -6187,7 +6187,7 @@ const ARTIST_DATA = {
       "notes": "Aiwa CM30a \u00b7 karl lundmark",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1994-07-23 - Sacramento, CA - Cal Expo [AUD].txt"
+      "textFile": "1994-07-23 - Sacramento CA - Cal Expo (SS-DSM-6P) (steve hagar) [AUD].txt"
     },
     {
       "year": 1994,
@@ -6201,7 +6201,7 @@ const ARTIST_DATA = {
       "notes": "SS-DSM-6P \u00b7 steve hagar",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-07-23 - Sacramento CA - Cal Expo (SS-DSM-6P) (steve hagar) [AUD].txt"
+      "textFile": "1994-07-23 - Sacramento, CA - Cal Expo Amphitheatre (1G) (r. huizinga) [AUD].txt"
     },
     {
       "year": 1994,
@@ -6215,7 +6215,7 @@ const ARTIST_DATA = {
       "notes": "1G \u00b7 r. huizinga",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-07-23 - Sacramento, CA - Cal Expo Amphitheatre (1G) (r. huizinga) [AUD].txt"
+      "textFile": "1994-07-23 - Sacramento, CA - Cal Expo [AUD].txt"
     },
     {
       "year": 1994,
@@ -6229,7 +6229,7 @@ const ARTIST_DATA = {
       "notes": "Source 1 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-07-24 - San Bernardino, CA - GH Blockbuster Pavilion (Source 1) (unk) [AUD].txt"
+      "textFile": "1994-07-24 - Devore, CA - Blockbuster Pavilion (SS-DSM-6P) (smores) [AUD].txt"
     },
     {
       "year": 1994,
@@ -6243,7 +6243,7 @@ const ARTIST_DATA = {
       "notes": "SS-DSM-6P \u00b7 smores",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-07-24 - Devore, CA - Blockbuster Pavilion (SS-DSM-6P) (smores) [AUD].txt"
+      "textFile": "1994-07-24 - San Bernardino, CA - GH Blockbuster Pavilion (Source 1) (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -8069,7 +8069,8 @@ const ARTIST_DATA = {
       "venue": "Vellodrome / S&M Tour",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1999-11-19 - Berlin, Germany  - Velodrom (OKM IIr) (Source 1) (vortex242) [AUD].txt"
     },
     {
       "year": 1999,
@@ -8082,8 +8083,7 @@ const ARTIST_DATA = {
       "venue": "Velodrom",
       "notes": "OKM IIr \u00b7 Source 1 \u00b7 vortex242",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1999-11-19 - Berlin, Germany  - Velodrom (OKM IIr) (Source 1) (vortex242) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -9860,7 +9860,7 @@ const ARTIST_DATA = {
       "notes": "Source 1 \u00b7 asyd",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2004-10-25 - Boston, MA - Fleet Center (Source 1) (asyd) [AUD].txt"
+      "textFile": "2004-10-25 - Boston, MA - Fleet Center (Sony ECM-MS907) (kingrue) (Source 5) [AUD].txt"
     },
     {
       "year": 2004,
@@ -9874,7 +9874,7 @@ const ARTIST_DATA = {
       "notes": "Source 2 \u00b7 firemt",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2004-10-25 - Boston, MA - Fleet Center (Source 2) (firemt) [AUD].txt"
+      "textFile": "2004-10-25 - Boston, MA - Fleet Center (Source 1) (asyd) [AUD].txt"
     },
     {
       "year": 2004,
@@ -9888,7 +9888,7 @@ const ARTIST_DATA = {
       "notes": "Source 5 \u00b7 Sony ECM-MS907 \u00b7 kingrue",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2004-10-25 - Boston, MA - Fleet Center (Sony ECM-MS907) (kingrue) (Source 5) [AUD].txt"
+      "textFile": "2004-10-25 - Boston, MA - Fleet Center (Source 2) (firemt) [AUD].txt"
     },
     {
       "year": 2004,
@@ -10966,7 +10966,7 @@ const ARTIST_DATA = {
       "notes": "Dimebag Darrell Tribute \u00b7 CA-11 \u00b7 porcelmc",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-08-09 - Frisco, TX - Pizza Hut Park (Dimebag Darrell Tribute) (CA-11) (porcelmc) [AUD].txt"
+      "textFile": "2008-08-09 - Frisco, TX - Pizza Hut Park (Dimebag Darrell Tribute) (CA-11) (porcelmc) (Source 2)[AUD].txt"
     },
     {
       "year": 2008,
@@ -10980,7 +10980,7 @@ const ARTIST_DATA = {
       "notes": "Dimebag Darrell Tribute \u00b7 CA-11 \u00b7 porcelmc \u00b7 Source 2",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-08-09 - Frisco, TX - Pizza Hut Park (Dimebag Darrell Tribute) (CA-11) (porcelmc) (Source 2)[AUD].txt"
+      "textFile": "2008-08-09 - Frisco, TX - Pizza Hut Park (Dimebag Darrell Tribute) (CA-11) (porcelmc) [AUD].txt"
     },
     {
       "year": 2008,

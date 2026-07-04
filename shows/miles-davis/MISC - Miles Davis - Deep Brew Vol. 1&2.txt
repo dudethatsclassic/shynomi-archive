@@ -1,0 +1,203 @@
+Miles Davis - Deep Brew, vol. 1 & 2
+Bitches Brew Recording Sessions
+August 19, 20 & 21, 1969
+
+
+Lineage : Studio -> Original (Silver) Bootleg CD -> dBpoweramp CD Ripper (Secure Mode) -> WAV -> Trader's Little Helper -> FLAC (Level 6)
+
+Checksum files created using Trader's Little Helper (SHNTool).
+
+
+Personnel :
+Miles Davis (tp)
+Wayne Shorter (ss)
+John McLaughlin (g)
+Bennie Maupin (bcl)
+Chick Corea (el-p)
+Joe Zawinul (el-p)
+Dave Holland (b)
+Harvey Brooks (el-b)
+Jack DeJohnette (dr)
+Lenny White (dr)
+Charles Don Alias (dr, perc)
+Jumma Santos (perc)
+
+
+Tracks, Volume 1 (August 19-20, 1969) :
+01. Bitches Brew (rehearsal 01, fragment)
+02. Bitches Brew (rehearsal 02, fragment)
+03. Bitches Brew (rehearsal 03, fragment)
+04. Bitches Brew (rehearsal 04, fragment)
+05. Bitches Brew (rehearsal 05, fragment)
+06. Bitches Brew (rehearsal 06, fragment)
+07. Bitches Brew (rehearsal 07, fragment)
+08. Bitches Brew (rehearsal 08, fragment)
+09. Bitches Brew (rehearsal 09, fragment)
+10. Bitches Brew (part 2 of Co 103745, take 1)
+11. Studio Chatter
+12. Bitches Brew (part 2, take 2)
+13. John McLaughlin (part 3, take 1)
+14. John McLaughlin (rehearsal 01, fragment)
+15. John McLaughlin (rehearsal 02, fragment)
+16. John McLaughlin (part 3, take 2)
+17. John McLaughlin (rehearsal 01, fragment)
+18. John McLaughlin (part 4, take 1)
+19. John McLaughlin (part 4, take 2)
+20. Pharaoh's Dance (rehearsal 01, fragment)
+21. Pharaoh's Dance (rehearsal 02, fragment)
+22. Pharaoh's Dance (Co 103747, take 1)
+23. Pharaoh's Dance (rehearsal 03, fragment)
+24. Pharaoh's Dance (rehearsal 04, fragment)
+25. Pharaoh's Dance (rehearsal 05, fragment)
+26. Pharaoh's Dance (rehearsal 06, fragment)
+27. Pharaoh's Dance (rehearsal 07, fragment)
+28. Pharaoh's Dance (rehearsal 08, fragment)
+29. Pharaoh's Dance (rehearsal 09, fragment)
+30. Pharaoh's Dance (rehearsal 10, fragment)
+31. Pharaoh's Dance (rehearsal 11, fragment)
+32. Orange Lady (rehearsal 01, fragment)
+33. Orange Lady (rehearsal 02, fragment)
+34. Orange Lady (rehearsal 03, fragment)
+35. Miles Runs The Voodoo Down (Co 103749, take 1)
+36. Miles Runs The Voodoo Down (rehearsal 01, fragment)
+37. Miles Runs The Voodoo Down (take 2)
+38. Miles Runs The Voodoo Down (take 3)
+39. Miles Runs The Voodoo Down (rehearsal 02, fragment)
+40. Miles Runs The Voodoo Down (rehearsal 03, fragment)
+41. Miles Runs The Voodoo Down (rehearsal 04, fragment)
+42. Miles Runs The Voodoo Down (rehearsal 05, fragment)
+43. Miles Runs The Voodoo Down (take 5)
+44. Miles Runs The Voodoo Down (rehearsal 06, fragment)
+45. Miles Runs The Voodoo Down (rehearsal 07, fragment)
+46. Studio Chatter (take 6)
+47. Studio Chatter (take 6)
+48. Miles Runs The Voodoo Down (take 6)
+49. Studio Chatter (take 7)
+50. Miles Runs The Voodoo Down (take 7)
+51. Miles Runs The Voodoo Down (take 8)
+
+Total playing time : 73:23
+
+
+Tracks, volume 2 (August 20-21, 1969) :
+01. Miles Runs The Voodoo Down (take 8)
+02. Miles Runs The Voodoo Down (take 9, inc)
+03. Spanish Key (Co 103750, take 1)
+04. Spanish Key (take 2)
+05. Spanish Key (take 3)
+06. Spanish Key (take 4)
+07. Spanish Key (take 4, inc)
+08. Pharaoh's Dance (Co 103313, part 1, take 1)
+09. Pharaoh's Dance (take 1, inc)
+10. Pharaoh's Dance (part 1, take 2)
+11. Pharaoh's Dance (part 1, take 2, inc)
+12. Pharaoh's Dance (part 2, take 1)
+13. Pharaoh's Dance (part 2, take 2)
+14. Pharaoh's Dance (part 2, take 2, fs)
+15. Pharaoh's Dance (part 2, take 2, fs)
+16. Pharaoh's Dance (part 2, take 2, fs)
+17. Pharaoh's Dance (part 2, take 2, fs)
+18. Pharaoh's Dance (part 2, take 2, fs)
+19. Pharaoh's Dance (part 2, take 2, fs)
+20. Pharaoh's Dance (insert, take 1)
+21. Pharaoh's Dance (insert, take 2)
+22. Pharaoh's Dance (insert, take 2, fs)
+23. Pharaoh's Dance (insert, take 3)
+24. Pharaoh's Dance (insert, take 3, fs)
+25. Pharaoh's Dance (insert, take 3, rehearsal)
+26. Pharaoh's Dance (insert, take 3, fs)
+27. Pharaoh's Dance (insert, take 3, fs)
+28. Pharaoh's Dance (insert, take 3, fs)
+29. Pharaoh's Dance (insert, take 3)
+
+Total playing time : 45:36
+
+
+File details, volume 1 :
+length     expanded size   cdr  WAVE problems filename
+ 0:53.26        9410396    ---   --   ---xx   01 - Miles Davis - Bitches Brew (rehearsal 01, fragment).flac
+ 0:44.19        7806332    ---   --   ---xx   02 - Miles Davis - Bitches Brew (rehearsal 02, fragment).flac
+ 1:10.63       12496220    ---   --   ---xx   03 - Miles Davis - Bitches Brew (rehearsal 03, fragment).flac
+ 1:50.73       19575740    ---   --   ---xx   04 - Miles Davis - Bitches Brew (rehearsal 04, fragment).flac
+ 0:10.25        1822844    ---   --   ---xx   05 - Miles Davis - Bitches Brew (rehearsal 05, fragment).flac
+ 1:27.45       15452684    ---   --   ---xx   06 - Miles Davis - Bitches Brew (rehearsal 06, fragment).flac
+ 1:05.05       11477804    ---   --   ---xx   07 - Miles Davis - Bitches Brew (rehearsal 07, fragment).flac
+ 1:01.60       10901564    ---   --   ---xx   08 - Miles Davis - Bitches Brew (rehearsal 08, fragment).flac
+ 0:49.56        8775356    ---   --   ---xx   09 - Miles Davis - Bitches Brew (rehearsal 09, fragment).flac
+ 0:21.23        3758540    ---   --   ---xx   10 - Miles Davis - Bitches Brew (part 2 of Co103745 take 1).flac
+ 0:27.37        4849868    ---   --   ---xx   11 - Miles Davis - Studio Chatter.flac
+ 0:21.59        3843212    ---   --   ---xx   12 - Miles Davis - Bitches Brew (part 2, take 2).flac
+ 0:51.20        9043484    ---   --   ---xx   13 - Miles Davis - John McLaughlin (part 3, take 1).flac
+ 0:42.34        7488812    ---   --   ---xx   14 - Miles Davis - John McLaughlin (rehearsal 01, fragment).flac
+ 0:47.35        8373164    ---   --   ---xx   15 - Miles Davis - John McLaughlin (rehearsal 02, fragment).flac
+ 0:24.16        4271276    ---   --   ---xx   16 - Miles Davis - John McLaughlin (part 3, take 2).flac
+ 0:41.58        7368860    ---   --   ---xx   17 - Miles Davis - John McLaughlin (rehearsal 01, fragment).flac
+ 0:26.19        4631132    ---   --   ---xx   18 - Miles Davis - John McLaughlin (part 4, take 1).flac
+ 7:13.51       76501196    ---   --   ---xx   19 - Miles Davis - John McLaughlin (part 4, take 2).flac
+ 1:22.54       14591852    ---   --   ---xx   20 - Miles Davis - Pharaoh's Dance (rehearsal 01, fragment).flac
+ 1:57.58       20775260    ---   --   ---xx   21 - Miles Davis - Pharaoh's Dance (rehearsal 02, fragment).flac
+ 0:36.57        6484508    ---   --   ---xx   22 - Miles Davis - Pharaoh's Dance (Co103747 take 1).flac
+ 1:32.28       16294700    ---   --   ---xx   23 - Miles Davis - Pharaoh's Dance (rehearsal 03, fragment).flac
+ 1:23.30       14711804    ---   --   ---xx   24 - Miles Davis - Pharaoh's Dance (rehearsal 04, fragment).flac
+ 0:42.13        7439420    ---   --   ---xx   25 - Miles Davis - Pharaoh's Dance (rehearsal 05, fragment).flac
+ 0:26.65        4739324    ---   --   ---xx   26 - Miles Davis - Pharaoh's Dance (rehearsal 06, fragment).flac
+ 2:37.12       27723068    ---   --   ---xx   27 - Miles Davis - Pharaoh's Dance (rehearsal 07, fragment).flac
+ 0:54.61        9669116    ---   --   ---xx   28 - Miles Davis - Pharaoh's Dance (rehearsal 08, fragment).flac
+ 0:43.55        7714604    ---   --   ---xx   29 - Miles Davis - Pharaoh's Dance (rehearsal 09, fragment).flac
+ 0:25.58        4546460    ---   --   ---xx   30 - Miles Davis - Pharaoh's Dance (rehearsal 10, fragment).flac
+ 1:21.65       14441324    ---   --   ---xx   31 - Miles Davis - Pharaoh's Dance (rehearsal 11, fragment).flac
+ 0:40.56        7187756    ---   --   ---xx   32 - Miles Davis - Orange Lady (rehearsal 01, fragment).flac
+ 0:59.45       10513484    ---   --   ---xx   33 - Miles Davis - Orange Lady (rehearsal 02, fragment).flac
+ 1:18.21       13808636    ---   --   ---xx   34 - Miles Davis - Orange Lady (rehearsal 03, fragment).flac
+ 1:09.02       12176348    ---   --   ---xx   35 - Miles Davis - Miles Runs The Voodoo Down (Co103749 take 1).flac
+ 2:17.39       24258572    ---   --   ---xx   36 - Miles Davis - Miles Runs The Voodoo Down (rehearsal 01, fragment).flac
+ 3:42.35       39243164    ---   --   ---xx   37 - Miles Davis - Miles Runs The Voodoo Down (take 2).flac
+ 0:17.74        3172892    ---   --   ---xx   38 - Miles Davis - Miles Runs The Voodoo Down (take 3).flac
+ 0:24.04        4243052    ---   --   ---xx   39 - Miles Davis - Miles Runs The Voodoo Down (rehearsal 02, fragment).flac
+ 1:09.02       12176348    ---   --   ---xx   40 - Miles Davis - Miles Runs The Voodoo Down (rehearsal 03, fragment).flac
+ 0:49.06        8657756    ---   --   ---xx   41 - Miles Davis - Miles Runs The Voodoo Down (rehearsal 04, fragment).flac
+ 3:20.73       35451740    ---   --   ---xx   42 - Miles Davis - Miles Runs The Voodoo Down (rehearsal 05, fragment).flac
+ 0:57.27       10118348    ---   --   ---xx   43 - Miles Davis - Miles Runs The Voodoo Down (take 5).flac
+ 0:36.09        6371612    ---   --   ---xx   44 - Miles Davis - Miles Runs The Voodoo Down (rehearsal 06, fragment).flac
+ 2:25.38       25667420    ---   --   ---xx   45 - Miles Davis - Miles Runs The Voodoo Down (rehearsal 07, fragment).flac
+ 0:23.45        4163084    ---   --   ---xx   46 - Miles Davis - Studio Chatter (take 6).flac
+ 0:18.51        3295196    ---   --   ---xx   47 - Miles Davis - Studio Chatter (take 6).flac
+ 5:38.27       59686748    ---   --   ---xx   48 - Miles Davis - Miles Runs The Voodoo Down (take 6).flac
+ 0:18.00        3175244    ---   --   ---xx   49 - Miles Davis - Studio Chatter (take 7).flac
+ 9:27.74      100192892    ---   --   ---xx   50 - Miles Davis - Miles Runs The Voodoo Down (take 7).flac
+ 1:30.69       16038332    ---   --   ---xx   51 - Miles Davis - Miles Runs The Voodoo Down (take 8).flac
+73:22.27      776578548 B                     (totals for 51 files, 0.4945 overall compression ratio)
+
+
+File details, volume 2 :
+length     expanded size   cdr  WAVE problems filename
+ 3:09.69       33501932    ---   --   ---xx   01 - Miles Davis - Miles Runs The Voodoo Down (Take 8).flac
+ 4:00.46       42444236    ---   --   ---xx   02 - Miles Davis - Miles Runs The Voodoo Down (Take 9, inc).flac
+ 4:17.35       45417164    ---   --   ---xx   03 - Miles Davis - Spanish Key (Co 103750, take 1).flac
+10:50.20      114707084    ---   --   ---xx   04 - Miles Davis - Spanish Key (Take 2).flac
+ 7:49.44       82835132    ---   --   ---xx   05 - Miles Davis - Spanish Key (Take 3).flac
+ 0:15.32        2721308    ---   --   ---xx   06 - Miles Davis - Spanish Key (Take 4).flac
+ 0:39.35        6961964    ---   --   ---xx   07 - Miles Davis - Spanish Key (Take 4, inc).flac
+ 0:46.30        8185004    ---   --   ---xx   08 - Miles Davis - Pharaoh's Dance (Co 103313, part 1, take 1).flac
+ 0:40.19        7100732    ---   --   ---xx   09 - Miles Davis - Pharaoh's Dance (Take 1, inc).flac
+ 0:15.69        2808332    ---   --   ---xx   10 - Miles Davis - Pharaoh's Dance (Part 1, take 2).flac
+ 1:05.48       11578940    ---   --   ---xx   11 - Miles Davis - Pharaoh's Dance (Part 1, Take 2, inc).flac
+ 0:41.33        7310060    ---   --   ---xx   12 - Miles Davis - Pharaoh's Dance (Part 2, take 1).flac
+ 3:56.70       41795084    ---   --   ---xx   13 - Miles Davis - Pharaoh's Dance (Part 2, take 2).flac
+ 0:10.32        1839308    ---   --   ---xx   14 - Miles Davis - Pharaoh's Dance (Part 2, take 2, fs).flac
+ 0:32.25        5703644    ---   --   ---xx   15 - Miles Davis - Pharaoh's Dance (Part 2, take 2, fs).flac
+ 0:08.29        1479452    ---   --   ---xx   16 - Miles Davis - Pharaoh's Dance (Part 2, take 2, fs).flac
+ 0:21.41        3800876    ---   --   ---xx   17 - Miles Davis - Pharaoh's Dance (Part 2, take 2, fs).flac
+ 0:09.30        1658204    ---   --   ---xx   18 - Miles Davis - Pharaoh's Dance (Part 2, take 2, fs).flac
+ 0:27.62        4908668    ---   --   ---xx   19 - Miles Davis - Pharaoh's Dance (Part 2, take 2, fs).flac
+ 0:17.00        2998844    ---   --   ---xx   20 - Miles Davis - Pharaoh's Dance (Insert, take 1).flac
+ 0:21.30        3775004    ---   --   ---xx   21 - Miles Davis - Pharaoh's Dance (Insert, take 2).flac
+ 0:40.33        7133660    ---   --   ---xx   22 - Miles Davis - Pharaoh's Dance (Insert, take 2, fs).flac
+ 0:23.32        4132508    ---   --   ---xx   23 - Miles Davis - Pharaoh's Dance (Insert, take 3).flac
+ 0:16.73        2994140    ---   --   ---xx   24 - Miles Davis - Pharaoh's Dance (Insert, take 3, fs).flac
+ 0:44.27        7825148    ---   --   ---xx   25 - Miles Davis - Pharaoh's Dance (Insert, take 3, rehearsal).flac
+ 0:30.27        5355548    ---   --   ---xx   26 - Miles Davis - Pharaoh's Dance (Insert, take 3, fs).flac
+ 0:24.45        4339484    ---   --   ---xx   27 - Miles Davis - Pharaoh's Dance (Insert, take 3, fs).flac
+ 0:33.53        5945900    ---   --   ---xx   28 - Miles Davis - Pharaoh's Dance (Insert, take 3, fs).flac
+ 1:05.23       11520140    ---   --   ---xx   29 - Miles Davis - Pharaoh's Dance (Insert, take 3).flac
+45:36.62      482777500 B                     (totals for 29 files, 0.5183 overall compression ratio)

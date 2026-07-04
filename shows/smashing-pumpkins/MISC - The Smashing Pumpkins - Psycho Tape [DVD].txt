@@ -1,0 +1,80 @@
+The Smashing Pumpkins
+The Psycho Video aka "25 Songs O Pumpkins"
+
+VIDEO ATTRIBUTES:
+Source: Vhs 2nd or 3rd gen (best guess)
+TV system: (NTSC)
+Aspect Ratio: 4:3
+Sys Bitrate: 5062 kb/s VBR (before dvd authoring)
+
+AUDIO ATTRIBUTES:
+Source: Varies
+Audio Coding mode: PCM Wav
+Sampling Rate: 48kHz
+Bitrate: 384 kb/s (before dvd authoring)
+
+Chapters:
+1  I'm Free (Live 89 @ unknown Metro show #1)  
+2  She (Live 88 @ unknown club)
+3  Geraldo interviewing Charles Manson  
+4  The Crystal Ship (Live 89 @ unknown Metro show #2)  
+5  Sun (Live 89 @ unknown Metro show #2)  
+6  Spiteface (Live 89 @ unknown Metro show #2)  
+7  Venus In Furs (Live 89 @ unknown Metro show #3)
+8  Billy & Bob English in the crowd @ Geraldo's show  
+9  My Dahlia (89 rehearsal)  
+10  My Eternity (1988.11.19 on The Pulse)  
+11  Rhinoceros (Live 90 @ unknown club)  
+12 East (Live 90 @ unknown club)  
+13 I Am One (Live 90 @ unknown club)  
+14 I Am My End (Live 1989.10.31 @ Metro)  
+15 Rhinoceros (Live 1989.10.31 @ Metro)  
+16 Ball And Chain (Live 1989.10.31 @ Metro)  
+17 Bury Me (Live 1989.10.31 @ Metro) 
+18 Try To Try (Live 1989.10.31 @ Metro) 
+19 Jennifer Ever (88 soundcheck)  
+20 There It Goes (88 soundcheck)  
+21 Oui Henri (Live 88 @ unknown club) *cut after 20 seconds*  
+22 Nothing And Everything (Live 88 @ unknown club)  
+23 Salt (Live 1989.10.31 @ Metro)
+24 Lie I Lie (Live 1989.10.31 @ Metro)  
+25 Razor (Live 1989.10.31 @ Metro)  
+26 Love (Live 1989.10.31 @ Metro)  
+27 C'mon (Live 1989.10.31 @ Metro)  
+28 The Marked - Scary Neurotic Song (Promo video)  
+29 The Marked - The Trance (Promo video)
+30 Geraldo interviewing unknown serial killer "Joe"
+
+Menu info:
+Well, this is the first menu that i have made for a dvd, so don't be too critical.
+There are some errors in the menu (the select chapter page appears to pick a random
+chapter to select, but this doesn't affect the playing).  The menu was rendered with the
+trial version of dvd-lab pro.
+
+Video info:
+Yes this could have been released as just a divx (the video is kinda blocky), but i
+received it as a dvd, so i kept it as such.  The video stream was also very tricky
+to work with, it was aparently damaged on the disc so i had to reencode it.  The
+video bitrate was the same and i didn't touch the audio at all.
+
+Source info:
+As i said, the source of this is unknown.  The person i got it from wants to remain
+anonymous as well.  From the looks of the quality, it is a high gen tape (but very
+watchable).
+
+Alt Sources:
+Yes i have done research and found out that there is a 2 disc version of The Psycho
+Tape out there.  It contains no additional footage, it is just higher quality.  As
+i doubt i will ever get that version, this one will have to do for now.
+
+Release Info:
+Well here it is, the infamous "Psycho Tape" in all its glory.  I really hope that you
+guys all like it as i worked hard on getting this out (i am really sick of watching it 
+now too... thanks!!!).  
+
+enjoy
+-Syco54645
+Mod of splra.org
+aka Frank Claycomb
+
+seeded on ttd by Syco54645 on 8-10-2005

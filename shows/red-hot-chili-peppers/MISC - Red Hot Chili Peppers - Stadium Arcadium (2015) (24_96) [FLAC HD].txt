@@ -1,0 +1,49 @@
+foobar2000 1.3.13 / Dynamic Range Meter 1.1.1
+log date: 2017-02-16 13:42:49
+
+--------------------------------------------------------------------------------
+Analyzed: Red Hot Chili Peppers / Stadium Arcadium
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR5        0.00 dB    -6.32 dB      4:42 01-Dani California
+DR4        0.00 dB    -5.64 dB      5:35 02-Snow (Hey Oh)
+DR4        0.00 dB    -6.85 dB      4:38 03-Charlie
+DR5        0.00 dB    -7.59 dB      5:16 04-Stadium Arcadium
+DR5        0.00 dB    -7.89 dB      3:33 05-Hump de Bump
+DR4        0.00 dB    -6.69 dB      3:25 06-She's Only 18
+DR6        0.00 dB    -9.78 dB      5:20 07-Slow Cheetah
+DR4        0.00 dB    -6.02 dB      3:45 08-Torture Me
+DR5        0.00 dB    -8.04 dB      4:19 09-Strip My Mind
+DR5        0.00 dB    -6.92 dB      4:01 10-Especially In Michigan
+DR5        0.00 dB    -7.31 dB      3:26 11-Warlocks
+DR5        0.00 dB    -7.74 dB      3:49 12-C'mon Girl
+DR4        0.00 dB    -7.90 dB      5:10 13-Wet Sand
+DR6        0.00 dB    -7.64 dB      5:40 14-Hey
+DR5        0.00 dB    -7.48 dB      5:02 15-Desecration Smile
+DR5        0.00 dB    -7.92 dB      4:08 16-Tell Me Baby
+DR8        0.00 dB    -9.21 dB      4:02 17-Hard To Concentrate
+DR5        0.00 dB    -7.78 dB      4:22 18-21st Century
+DR4        0.00 dB    -6.60 dB      4:06 19-She Looks To Me
+DR4        0.00 dB    -6.20 dB      4:31 20-Readymade
+DR11       0.00 dB   -12.64 dB      2:53 21-If
+DR4        0.00 dB    -7.03 dB      3:52 22-Make You Feel Better
+DR4        0.00 dB    -7.45 dB      5:25 23-Animal Bar
+DR4        0.00 dB    -6.02 dB      3:45 24-So Much I
+DR4        0.00 dB    -7.12 dB      3:45 25-Storm In A Teacup
+DR5        0.00 dB    -7.94 dB      3:36 26-We Believe
+DR5        0.00 dB    -7.16 dB      6:06 27-Turn It Again
+DR5        0.00 dB    -6.99 dB      4:25 28-Death Of A Martian
+--------------------------------------------------------------------------------
+
+Number of tracks:  28
+Official DR value: DR5
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           3185 kbps
+Codec:             FLAC
+================================================================================
+

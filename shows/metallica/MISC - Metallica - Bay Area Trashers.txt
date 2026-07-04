@@ -1,0 +1,28 @@
+Metallica
+Bay Area Trashers
+
+Bay Area Trashers Bootleg CD (CD 154.421)
+
+Silver CD > EAC > WAV > CD Wave Editor (Track Splitting using .cue sheet) > WAV > TLH > FLAC
+
+01 Introduction
+02 Hit The Lights
+03 Seek And Destroy
+04 Motorbreath
+05 Phantom Lord
+06 The Mechanix
+07 Jump In The Fire
+08 Metal Militia
+09 Documentary Of Metallica
+
+A bad CD of Metallica, with bad sound quality recordings. It contains the very first demo CD of the band, released unofficially under the name Bay Area Trashers. The suggestion is that it is a live recording, but the "live" sounds are added later. In the US it was forbidden under pressure of Metallica. (But sold again under a different title). This version has a spoken introduction in which they say it is a live recording, 
+
+( But on the internet can be found that it isn't true.) 
+
+The last track is a documentary of Metallica, containing parts of interviews they gave.
+
+-----------------------------
+
+*Additional Notes, Added June 3, 2017 by JITF
+
+The tracks were encoded in an older FLAC version (1.2.1 20070917). Decoded back to WAV using Trader's Little Helper, then converted to current FLAC format (1.3.2 20170101) at Level 8 with EZ CD Audio Converter. The files went from 323.0 MB to 322.2 MB.

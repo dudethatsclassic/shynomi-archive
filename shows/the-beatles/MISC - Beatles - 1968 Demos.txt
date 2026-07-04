@@ -1,0 +1,29 @@
+shntool 3.0.4
+Copyright (C) 2000-2007 Jason Jordan <shnutils@freeshell.org>
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     2:59.20       31622684 B   ---   --   ---xx   flac  0.4867  Beatles 1968 Demos t01.flac
+     4:45.30       50344604 B   ---   --   ---xx   flac  0.4885  Beatles 1968 Demos t02.flac
+     2:37.38       27784220 B   ---   --   ---xx   flac  0.5120  Beatles 1968 Demos t03.flac
+     3:09.62       33485468 B   ---   --   ---xx   flac  0.4880  Beatles 1968 Demos t04.flac
+     3:38.07       38471708 B   ---   --   ---xx   flac  0.4802  Beatles 1968 Demos t06.flac
+     3:28.40       36785324 B   ---   --   ---xx   flac  0.4699  Beatles 1968 Demos t07.flac
+     2:14.15       23672924 B   ---   --   ---xx   flac  0.4293  Beatles 1968 Demos t08.flac
+     3:00.35       31834364 B   ---   --   ---xx   flac  0.5167  Beatles 1968 Demos t09.flac
+     2:27.15       25966124 B   ---   --   ---xx   flac  0.4959  Beatles 1968 Demos t10.flac
+     0:50.60        8961164 B   ---   --   ---xx   flac  0.3902  Beatles 1968 Demos t11.flac
+     4:04.20       43088684 B   ---   --   ---xx   flac  0.5224  Beatles 1968 Demos t12.flac
+     2:27.48       26043740 B   ---   --   ---xx   flac  0.4576  Beatles 1968 Demos t13.flac
+     2:37.45       27800684 B   ---   --   ---xx   flac  0.5406  Beatles 1968 Demos t14.flac
+     2:36.37       27605468 B   ---   --   ---xx   flac  0.5090  Beatles 1968 Demos t15.flac
+     2:55.15       30905324 B   ---   --   ---xx   flac  0.4915  Beatles 1968 Demos t16.flac
+     2:57.63       31371020 B   ---   --   ---xx   flac  0.4368  Beatles 1968 Demos t17.flac
+     2:56.27       31109948 B   ---   --   ---xx   flac  0.4756  Beatles 1968 Demos t18.flac
+     2:10.25       22990844 B   ---   --   ---xx   flac  0.4658  Beatles 1968 Demos t19.flac
+     1:40.13       17670620 B   ---   --   ---xx   flac  0.4271  Beatles 1968 Demos t20.flac
+     2:53.32       30592508 B   ---   --   ---xx   flac  0.4503  Beatles 1968 Demos t21.flac
+     1:25.63       15142220 B   ---   --   ---xx   flac  0.3317  Beatles 1968 Demos t22.flac
+     1:21.25       14347244 B   ---   --   ---xx   flac  0.3191  Beatles 1968 Demos t23.flac
+     3:10.42       33614828 B   ---   --   ---xx   flac  0.3893  Beatles 1968 Demos t24.flac
+     5:56.33       62876060 B   ---   --   ---xx   flac  0.4329  Beatles 1968 Demos t25.flac
+    68:24.60      724087776 B                            0.4674  (24 files)

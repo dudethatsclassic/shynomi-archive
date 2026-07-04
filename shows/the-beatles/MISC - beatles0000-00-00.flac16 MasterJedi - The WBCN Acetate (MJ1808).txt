@@ -1,0 +1,18 @@
+The Beatles - The WBCN Acetate (MJ1808)
+
+Derived from Untouched - Off Elektra Acetate (Idol Minds IMP N 036) with edit pieces from Posters Incense and Strobe Candles (Vigotone VT 109).
+
+Great care was taken to align both sources in speed, frequency response and phase response. 
+This not only permitted seamlessly patching the missing pieces back into place, 
+it also allowed the severe damage which occurred to the Acetate sometime after broadcast 
+to be meticulously repaired in short but numerous places at the beginning of The Long And Winding Road.
+
+The Intro to Get Back, which was also missing from the Idol Minds source, was patched from the Vigotone source, 
+with the announcer's voice spectrally removed using Yellow Dog's Day By Day series as a reference.
+
+The material is duplicated twice, once with no click removal, and again using a combination of 2 different click removal programs.
+Adobe Audition CS6 and ClickRepair are both excellent declickers, but each has different artifacts when removing large clicks. 
+The median of both outputs and the original ensured that only those clicks that both programs were in agreement on were removed. 
+
+-MasterJedi
+

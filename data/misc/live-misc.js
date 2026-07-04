@@ -144,6 +144,37 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "XX-XX - Columbia, PA - Throwing Copper Churchbox Demo",
+    "year": 1993
+  },
+  {
+    "type": "release",
+    "label": "Live - 1992-XX-XX - Playin' Back 'ome",
+    "version": "Silver CD"
+  },
+  {
+    "type": "release",
+    "label": "Live - 1998-07-15 - New Stuff (Studio Demos)"
+  },
+  {
+    "type": "release",
+    "label": "Live - 2000-04-XX - The Acoustic Sessions - Jack Flash Records JFR 006) (inc)",
+    "format": "FM"
+  },
+  {
+    "type": "release",
+    "label": "Live - Radiant Sea (2007)",
+    "year": 2007,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Live - The Distance To Den Haag 1999 (1999)",
+    "year": 1999,
+    "version": "Silver CD"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - Columbia, PA - Throwing Copper Churchbox Demo",
     "year": 1993,
     "textFile": "MISC - 1993-XX-XX - Columbia, PA - Throwing Copper Churchbox Demo.txt"
   },

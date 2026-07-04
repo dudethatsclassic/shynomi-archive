@@ -1,0 +1,52 @@
+SMASHING PUMPKINS
+
+"SIAMESE WHISPERS"
+
+Silver-green CDR > Easy CD-DA Extractor - FLAC > Trader's Little Helper
+
+
+1  Cherub Rock (acoustic)
+2  Disarm (acoustic)
+3  Rocket (acoustic)
+4  Spaceboy (acoustic)
+5  Today (acoustic)
+6  Dancing In The Moonlight (Corgan on acoustic)
+7  Mayonaise (acoustic)
+8  Hummer (Corgan on acoustic)
+9  - REMOVED -
+10 Honeyspider
+11 - REMOVED -
+12 Girl Named Sandoz
+13 Luna
+14 I Am One
+15 Silverfuck
+16 Rhinoceros
+
+  
+Label:        (none)
+ID:           N/A
+Tracks 1-2:   1993-06-22 - MTV Studios, London, UK
+Tracks 3-6:   1993-06-30 - VPRO Radio, Hilversum, NL
+Tracks 7-8:   1993-07-28 - Tower Records, Chicago, IL
+Track 10:     1990-06-16 - Club de Wash, Madison, WI
+Tracks 12-16: 1992-01-19 - Paard van Troje, Den Haag, NL
+
+
+
+
+Notes:
+
+EAC was unable to rip the disc on this occasion: I had needed to down-grade the software due to some problems with the latest release - two drives were tried. Instead, I ripped direct from the disc in an external drive using Easy CD-DA Extractor. This resulted in the slightly larger non-compressed .flac files - "Compression level 0" as the software states. I included logfiles via TLH.
+
+Track 9 appeared to be the commercial release version, with crowd noise added. Track 11 was a poor quality offical version.
+
+Slight skip in Mayonaise (maybe plays perfectly for others?). Rhinoceros has static/poppiness (maybe plays perfectly for others?).
+
+Artwork: http://www.spfreaks.com/default.aspx?page=COLLDETAILS&item=2481
+
+Big thanks go out to Deadmarsh who kindly deciphered this boot.
+
+
+
+
+Seeded to Zomb Torrents 9/10/09 by daZeychain

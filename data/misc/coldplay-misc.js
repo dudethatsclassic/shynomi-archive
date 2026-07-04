@@ -771,6 +771,76 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "2003 - Hollywood Free Shows - Virgin Megastore",
+    "year": 2001
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - 2000 Miles"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Early Days 2000",
+    "format": "COMPILATION"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Harmless"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Have Yourself A Merry Little Christmas"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - How You See The World No.2 (Previously Unreleased)"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Paradise (Fedde Le Grand Remix)",
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Progressive Rock Impressions"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Put A Smile On Your Face",
+    "version": "Silver CD"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Rarities (Box-set Collection)",
+    "version": "COMP"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Spies (Demo Version) Industry Only"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Talk (Francois Kevorkian Dub)"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Twisted Logic In Copenhagen",
+    "version": "Silver CD"
+  },
+  {
+    "type": "release",
+    "label": "Coldplay - Viva La Vida (Demos and Outtakes)"
+  },
+  {
+    "type": "release",
+    "label": "When We Were Young - The Early Days Compilation"
+  },
+  {
+    "type": "release",
+    "label": "Yellow (Acoustic) (from Starbucks, Every Mother Counts CD)"
+  },
+  {
+    "type": "release",
+    "label": "2003 - Hollywood Free Shows - Virgin Megastore",
     "year": 2001,
     "textFile": "MISC - 2001-2003 - Hollywood Free Shows - Virgin Megastore.txt"
   },

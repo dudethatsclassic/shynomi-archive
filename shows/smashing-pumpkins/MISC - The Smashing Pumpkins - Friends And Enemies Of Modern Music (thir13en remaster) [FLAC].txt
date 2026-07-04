@@ -1,0 +1,13 @@
+Some may like this-some may not, but hey, life's funny that way...I've done pro-audio for over 20 years now, and I just can't stand a crappy recording or even worse, a decent recording with just a plain bad master. I know this is direct from a cassette, but there was much to be improved upon anyway, IMHO...so for those that will enjoy, do so heartily, others who don't like it, well I can only hope you'll understand when I say I don't .... . ....
+
+
+
+...Technical info:
+
+Each song had it's own challenges, there unfortunately was not one setting that could breeze through all to even come close to satisfy the ears properly. But the basic tools used were; Sound Forge 7 -> BBE Sonic Maximizer -> Waves L3 Multi-Maximizer -> Digi-001 -> Meyer HD1's -> my ears. 24 bit processing and encoding -> quantized to 16-44 -> Flac -> you.
+
+Some songs had a predictable -1.5db volume drop on the right channel. This was corrected in those cases. Some songs now have a much clearer view of the noise that Billy generated on some of the demos. Don't blame me for the noise, I didn't add any, just did a proper master to the material sourced which in turn really brightens up the din. He created that noise, if you don't like it, contact him.
+
+Thanks,
+
+thir13en

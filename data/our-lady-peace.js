@@ -755,7 +755,8 @@ const ARTIST_DATA = {
       "venue": "Q101 Lounge",
       "notes": "Pixel 6A \u00b7 face_sb",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2023-02-07 - Chicago, IL - House of Blues (Zoom iQ7) (josh lichtenfeld) [AUD].txt"
     },
     {
       "year": 2023,
@@ -768,8 +769,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "Zoom iQ7 \u00b7 josh lichtenfeld",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2023-02-07 - Chicago, IL - House of Blues (Zoom iQ7) (josh lichtenfeld) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2025,

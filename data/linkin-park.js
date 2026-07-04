@@ -2163,7 +2163,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4s \u00b7 ryanj",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-09-11 - Inglewood, CA - Kia Forum (Schoeps MK4s) (ryanj) [AUD24].txt"
+      "textFile": "2024-09-11 - Inglewood, CA - Kia Forum (DPA 4081) (faninor) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -2177,7 +2177,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-09-11 - Inglewood, CA - Kia Forum (DPA 4081) (faninor) [AUD24].txt"
+      "textFile": "2024-09-11 - Inglewood, CA - Kia Forum (Schoeps MK4s) (ryanj) [AUD24].txt"
     },
     {
       "year": 2024,

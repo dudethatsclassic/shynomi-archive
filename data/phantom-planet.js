@@ -19,7 +19,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Silver Lake at the Satellite",
-      "notes": "Secret Show as Lithium Blue (DSM6 · unk",
+      "notes": "Secret Show as Lithium Blue (DSM6 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-06-04 - Los Angeles, CA - Silver Lake at the Satellite (Secret Show as Lithium Blue (DSM6) (unk) [AUD].txt"
@@ -33,7 +33,7 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Zanzabar",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-10-22 - Louisville, KY - Zanzabar (SP-CMC-8) (live2cd) [AUD].txt"

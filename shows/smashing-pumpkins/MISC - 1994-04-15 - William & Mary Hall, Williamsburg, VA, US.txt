@@ -1,0 +1,23 @@
+Smashing Pumpkins
+April 15th 1994
+William & Mary Hall
+Williamsburg, VA, US
+
+SOURCE (AMT#1):
+unknown > unknown
+
+VIDEO TRANSFER:
+Panasonic AG-1980 SVHS > Datavideo TBC-6000 > ATI TV Wonder 600 USB > VirtualDub > AviSynth 2.6.0 > x264.exe 0.155.2901 7d0ff22 > MKVToolNix GUI v46.0.0
+
+GENERATION:
+VHS(X) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [480p/x264 | AAC | FLAC]
+
+LENGTH:
+100:00
+
+MD5 FINGERPRINTS:
+be94b6631694c520c10d4aa2e0c740c7 *Smashing Pumpkins 1994-04-15 AMT1 x264 AAC FLAC.mkv
+
+TRANSFER & DISTRIBUTION:
+Nicholas Serra & Members of SPLRA
+2021-12-23

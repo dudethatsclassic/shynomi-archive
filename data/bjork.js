@@ -37,7 +37,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zeche",
       "venue": "Bochum",
-      "notes": "Sugarcubes · TDK-SA90 · dimenew",
+      "notes": "Sugarcubes \u00b7 TDK-SA90 \u00b7 dimenew",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1988-07-05 - Zeche - Bochum (Sugarcubes) [AUD].txt"
@@ -106,7 +106,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Grosse Freiheit 36",
-      "notes": "DAT(M) · ao",
+      "notes": "DAT(M) \u00b7 ao",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1993-12-06 - Hamburg, Germany - Grosse Freiheit 36 [FM].txt"
@@ -120,7 +120,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Elysee Montmartre",
-      "notes": "Sony WM-D3 · a.g.",
+      "notes": "Sony WM-D3 \u00b7 a.g.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-02-18 - Paris, France - Elysee Montmartre [AUD].txt"
@@ -161,7 +161,7 @@ const ARTIST_DATA = {
       "state": "Hungary",
       "location": "Budapest, Hungary",
       "venue": "Petofi Music Hall",
-      "notes": "Panasonic Dictaphone (RQ-L340 · unk",
+      "notes": "Panasonic Dictaphone (RQ-L340 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-09-28 - Budapest, Hungary - Petofi Music Hall [AUD].txt"
@@ -189,7 +189,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Perth, Australia",
       "venue": "Belvoir Amphitheatre",
-      "notes": "ANA(x) · unk · anonymous",
+      "notes": "ANA(x) \u00b7 unk \u00b7 anonymous",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-03-16 - Perth, Australia - Belvoir Amphitheatre [AUD].txt"
@@ -217,7 +217,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "La Mutualite",
-      "notes": "D100 w/ shotgun mic · clogboy2005",
+      "notes": "D100 w/ shotgun mic \u00b7 clogboy2005",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-11-10 - Paris, France - La Mutualite [AUD].txt"
@@ -231,7 +231,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Warfield Theater",
-      "notes": "Schoeps MK4 · unk",
+      "notes": "Schoeps MK4 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-05-21 - San Francisco, CA - Warfield Theater [AUD].txt"
@@ -272,7 +272,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "The Union Chapel",
-      "notes": "MD(x) · unk",
+      "notes": "MD(x) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-12-09 - London, England - The Union Chapel [AUD].txt"
@@ -286,7 +286,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "*Bring On the Eskimoes",
-      "notes": "Loft · Elektra 201134546",
+      "notes": "Loft \u00b7 Elektra 201134546",
       "version": "Silver CD",
       "format": "FLAC",
       "textFile": "2001-05-21 - New York, NY - Bring On the Eskimoes - Loft Tour Rehearsals [Silver].txt"
@@ -300,7 +300,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Grand Rex",
-      "notes": "MD(x) · miles",
+      "notes": "MD(x) \u00b7 miles",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-08-20 - Paris, France - Grand Rex [AUD].txt"
@@ -356,7 +356,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Frankfurt, Germany",
       "venue": "Alte Oper",
-      "notes": "MD(M) · Sony ECM-TS 120 · scttrbrn",
+      "notes": "MD(M) \u00b7 Sony ECM-TS 120 \u00b7 scttrbrn",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-09-18 - Frankfurt, Germany - Alte Oper [AUD].txt"
@@ -370,7 +370,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam",
       "venue": "Muziektheatre",
-      "notes": "aka Stopera · unk · andre niewlaat",
+      "notes": "aka Stopera \u00b7 unk \u00b7 andre niewlaat",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-09-28 - Amsterdam, Holland - Muziektheatre (aka Stopera) [AUD].txt"
@@ -384,7 +384,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "The Hummingbird Center",
-      "notes": "CSC · martman",
+      "notes": "CSC \u00b7 martman",
       "version": "AUD",
       "format": "SHN",
       "textFile": "2001-10-08 - Toronto, Ontario - The Hummingbird Center [AUD].txt"
@@ -412,7 +412,7 @@ const ARTIST_DATA = {
       "state": "Iceland",
       "location": "Reykjavik, Iceland",
       "venue": "Laugardagshll *Native Tongue",
-      "notes": "unk · jochen hermann",
+      "notes": "unk \u00b7 jochen hermann",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-12-19 - Reykjavik, Iceland - Laugardagshll - Native Tongue [AUD].txt"
@@ -440,7 +440,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Verona, Italy",
       "venue": "Arena di Verona",
-      "notes": "DAT(x) · grey",
+      "notes": "DAT(x) \u00b7 grey",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-06-06 - Verona, Italy - Arena di Verona [AUD].txt"
@@ -470,7 +470,8 @@ const ARTIST_DATA = {
       "venue": "Sonar Festival",
       "notes": "",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2003-06-11 - UK Radio 1 Broadcast - Sonar Festival [FM].txt"
     },
     {
       "year": 2003,
@@ -481,7 +482,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Bercy",
-      "notes": "MD(x) · p and c777 records",
+      "notes": "MD(x) \u00b7 p and c777 records",
       "version": "AUD",
       "format": "SHN",
       "textFile": "2003-06-17- Paris, France - Bercy [AUD].txt"
@@ -523,7 +524,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
-      "notes": "Sony MD · phil",
+      "notes": "Sony MD \u00b7 phil",
       "version": "AUD",
       "format": "SHN",
       "textFile": "2003-08-18 - Morrison, CO - Red Rocks Amphitheatre [AUD].txt"
@@ -537,7 +538,7 @@ const ARTIST_DATA = {
       "state": "Iceland",
       "location": "Reykjavik, Iceland",
       "venue": "Laugardalshll",
-      "notes": "Sony MD · sophie",
+      "notes": "Sony MD \u00b7 sophie",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-01-07 - Reykjavik, Iceland - Laugardalshll [AUD].txt"
@@ -551,7 +552,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
-      "notes": "remaster · DPA 4021s · nyctaper",
+      "notes": "remaster \u00b7 DPA 4021s \u00b7 nyctaper",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-05-02 - New York, NY - Radio City Music Hall [AUD].txt"
@@ -593,7 +594,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "notes": "DPA 4021s · danlynch",
+      "notes": "DPA 4021s \u00b7 danlynch",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-09-24 - New York, NY - Madison Square Garden [AUD].txt"
@@ -607,7 +608,7 @@ const ARTIST_DATA = {
       "state": "Peru",
       "location": "Lima, Peru",
       "venue": "Verice del Museo de la Nacion",
-      "notes": "iRiver · david sanchez",
+      "notes": "iRiver \u00b7 david sanchez",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-11-13 - Lima, Peru - Verice del Museo de la Nacion [AUD].txt"
@@ -621,7 +622,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Sydney Opera House Forecourt",
-      "notes": "Soundman OKM-II · auroboros",
+      "notes": "Soundman OKM-II \u00b7 auroboros",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-01-23 - Sydney, Australia - Sydney Opera House Forecourt [AUD].txt"
@@ -673,14 +674,14 @@ const ARTIST_DATA = {
       "month": 1,
       "day": 6,
       "dateStr": "1-6-2011",
-      "city": "ReykjavÌk",
+      "city": "Reykjav\u00cck",
       "state": "Iceland",
-      "location": "ReykjavÌk, Iceland",
+      "location": "Reykjav\u00cck, Iceland",
       "venue": "The Nordic House",
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-01-06 - ReykjavÌk, Iceland - The Nordic House [AUD].txt"
+      "textFile": "2011-01-06 - ReykjavI\u0300k, Iceland - The Nordic House [AUD].txt"
     },
     {
       "year": 2015,
@@ -705,7 +706,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Shrine Auditorium",
-      "notes": "AT853s · tj",
+      "notes": "AT853s \u00b7 tj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-01-29 - Los Angeles, CA - Shrine Auditorium (AT853s) (tj) [AUD].txt"

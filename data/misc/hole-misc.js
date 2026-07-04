@@ -182,7 +182,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1995,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Hole - Doll Parts {VR 50033} (1995) [Silver].txt"
   },
   {
     "type": "release",
@@ -190,7 +191,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1995,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Hole - Reading 1995 {3D-HO-035} (1995) [Silver].txt"
   },
   {
     "type": "release",
@@ -198,6 +200,29 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1995,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Hole - The Girl With The Most Cake [CRC mismatch] {Print 004} (1995) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "06-XX - Courtney Love - Behind the Music",
+    "year": 2010,
+    "format": "DVD",
+    "textFile": "MISC - 2010-06-XX - Courtney Love - Behind the Music [DVD].txt"
+  },
+  {
+    "type": "release",
+    "label": "Hole - Argentina Demos Tape",
+    "textFile": "MISC - Hole - Argentina Demos Tape.txt"
+  },
+  {
+    "type": "release",
+    "label": "Hole - Cover Me (1995)",
+    "year": 1995,
+    "textFile": "MISC - Hole - Cover Me (1995).txt"
+  },
+  {
+    "type": "release",
+    "label": "PICTURES - LIVE, ART, MAGAZINE, BOOKS etc"
   }
 ];

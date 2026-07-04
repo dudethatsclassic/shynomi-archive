@@ -10,5 +10,17 @@ const ARTIST_MISC_DATA = [
     "label": "Both Ends Burning (Various Locations 1994 Tour)",
     "version": "Silver CD",
     "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Candlebox - Both Ends Burning",
+    "version": "Silver CD",
+    "textFile": "MISC - Candlebox - Both Ends Burning [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Candlebox - Into The Flame",
+    "version": "Silver CD",
+    "textFile": "MISC - Candlebox - Into The Flame [Silver].txt"
   }
 ];

@@ -1,0 +1,48 @@
+The Smashing Pumpkins
+"Sequence IV"  31 May 1995
+ANA-? > DAT > CDR-? > WAV [EAC] > WAV [WaveLab, FreeFilter] > SHN
+http://www.spfc.org/band/studio.html?session_id=26
+
+Known flaws:	"twinkling" / crappy treble
+		dropout in Muzzle at 1:04
+		pops in Porcelina
+
+In an attempt to make Sequence IV (a rough mix of MCIS' "Dawn to Dusk")
+remotely listenable, I ran each track individually through FreeFilter
+against its MCIS counterpart.  It sounds a hell of a lot better, but it
+didn't fix the clipping or the annoying 'twinkling' that probably
+resulted from injudicious noise reduction.
+
+I adjusted the preamp (I assume it was pre?) before applying the filter
+in order to prevent clipping from the EQ process. I also adjusted the
+volumes afterwards in an attempt to maintain the relative loudness of
+each track on the disc. Some of the tracks seem a little bass-y, but
+what the hell.
+
+With that out of the way, I think this is an interesting listen. Several
+of the tracks are nearly finished, but quite of the few tracks are
+noticeably different. In general, some subtle instrumentation on the
+final mix is more noticeable, and several of the instrumental takes are
+slightly different.
+
+::shrug:: Love it or leave it... hope I didn't screw anything up.
+
+	- ivor the engine driver
+
+
+Total Time: 60:55
+	 1. Mellon Collie and the Infinite Sadness
+	 2. Tonite Tonite
+	 3. Jellybelly
+	 4. Zero
+	 5. Here Is No Why
+	 6. Bullet With Butterfly Wings (no vocals)
+	 7. To Forgive
+	 8. Fuck You
+	 9. Love
+	10. Cupid De Locke
+	11. Galapagos
+	12. Muzzle
+	13. Porcelina of the Vast Oceans
+	14. Lily
+	15. Take Me Down

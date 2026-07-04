@@ -1,0 +1,33 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01 Come And Get It (Demo).wav:  track looks like CDDA with probability 100%.
+02 Leave My Kitten Alone.wav:  track looks like CDDA with probability 100%.
+03 Not Guilty.wav:  track looks like CDDA with probability 100%.
+04 I'm Looking Through You (Take 1).wav:  track looks like CDDA with probability 100%.
+05 What's The New Mary Jane-.wav:  track looks like CDDA with probability 100%.
+06 How Do You Do It-.wav:  track looks like CDDA with probability 100%.
+07 Besame Mucho.wav:  track looks like CDDA with probability 100%.
+08 One After 909.wav:  track looks like CDDA with probability 100%.
+09 If You've Got Troubles.wav:  track looks like CDDA with probability 100%.
+10 That Means A Lot.wav:  track looks like CDDA with probability 100%.
+11 While My Guitar Gently Weeps (Take 1).wav:  track looks like CDDA with probability 100%.
+12 Mailman Blues.wav:  track looks like CDDA with probability 100%.
+13 Christmas Time Is Here Again.wav:  track looks like CDDA with probability 100%.
+14 Obladi, Oblada.wav:  track looks like CDDA with probability 100%.
+15 I Saw Her Standing There.wav:  track looks like CDDA with probability 100%.
+16 There's A Place (Early Version).wav:  track looks like CDDA with probability 100%.
+17 Misery (Take 1).wav:  track looks like CDDA with probability 100%.
+18 From Me To You (Early Version).wav:  track looks like CDDA with probability 100%.
+19 Can't Buy Me Love (Early Version).wav:  track looks like CDDA with probability 100%.
+20 A Hard Day's Night (Early Version).wav:  track looks like CDDA with probability 100%.
+21 She's A Woman (Early Version).wav:  track looks like CDDA with probability 100%.
+22 Day Tripper (Early Version).wav:  track looks like CDDA with probability 100%.
+23 Norwegian Wood (Take 1).wav:  track looks like CDDA with probability 100%.
+24 Help (Instrumental).wav:  track looks like CDDA with probability 100%.
+25 Hey Jude (Rehersal Take 9).wav:  track looks like CDDA with probability 99%.
+26 I Hate To See.wav:  track looks like CDDA with probability 100%.

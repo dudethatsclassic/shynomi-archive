@@ -1,0 +1,23 @@
+Smashing Pumpkins
+May 8th 2000
+Hard Rock Live
+Orlando, FL, US
+
+SOURCE (AMT#1):
+unknown > unknown
+
+TRANSFER:
+Sony DCR-TRV730 > Datavideo TBC-6000 > ATI TV Wonder 600 USB > VirtualDub > AviSynth 2.6.0 > x264.exe 0.155.2901 7d0ff22 > MKVToolNix GUI v52.0.0
+
+GENERATION:
+Video8(M) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [480p/x264 | AAC | FLAC]
+
+LENGTH:
+128:00
+
+MD5 FINGERPRINTS:
+7ce8d52c231d72552895e73aab0b9270 *Smashing Pumpkins 2000-05-08 AMT1 x264 AAC FLAC.mkv
+
+TRANSFER & DISTRIBUTION:
+Nicholas Serra & Members of SPLRA
+2021-02-05

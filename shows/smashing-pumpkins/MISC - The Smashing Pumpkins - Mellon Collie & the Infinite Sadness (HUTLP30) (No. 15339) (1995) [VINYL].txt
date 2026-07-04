@@ -1,0 +1,25 @@
+Equipment
+-------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
+RCM             : Opera Consonance
+Turntable       : Thorens TD 160 mk IV in heavy custommade teakplinth. Delta Device Vinyl TT puck, Delta Device 6mm acrylic turntable plate.
+Power supply    : Custombuild Dr.Fuss linear motor power supply
+Tonearm         : Jelco SA 750D, Custommade internal wiring on KLE Innovations Pure Harmony plugs, Isokinetik asymmetric counterweight, Jelco Headshell
+Cartridge       : Ortofon Rondo Bronze
+Preamp          : Restek MRIA+ tuned with "hifi-tuning Supreme 3" fuse 
+ADC             : RME Fireface UC
+ADC Power Supply: MCRU 2.5 AMP Linear Power Supply tuned with Furutech iec inlet and "hifi-tuning Supreme 3" fuse
+Laptop          : MSI GP60 2QE Leopard,Core i5,2x250GB SSD,16GB Ram
+Camera          : Sony Alpha A 350
+Interconnects   : Supra Eff-I terminanted on KLE Innovations Pure Harmony Plugs, Wireworld Starlight USB 2.0 and 3.0 
+Power Cords     : DIY Powercords using Isotek Evo 3 Schuko/IEC plugs and Supra LoRad 2,5 Silver Anniversary 1,5 m
+Software        : izotope RX 3 Advanced for recording, Resampling, cleaning and splitting into individual tracks, Traders Little Helper for encoding to Flac on Level 5, Tagging via Foobar 2000
+-------------------------------------------------------------------------------------------------------
+Notes
+-------------------------------------------------------------------------------------------------------
+No music was harmed during the post processing. Please burn gapless to match original track layout. 
+
+Vinylrip done by spearo September 2017
+
+-------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------

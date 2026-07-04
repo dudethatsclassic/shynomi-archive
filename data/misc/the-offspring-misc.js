@@ -195,7 +195,8 @@ const ARTIST_MISC_DATA = [
     "label": "2012 Days Go By (SICP 3500) Japan",
     "format": "FLAC",
     "year": 2012,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - 2012 Days Go By (SICP 3500) Japan [FLAC].txt"
   },
   {
     "type": "release",
@@ -434,5 +435,17 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2015,
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Offspring - 1986-7 Songs (Demo Cassette) (24-96)",
+    "format": "FLAC",
+    "textFile": "MISC - The Offspring - 1986-7 Songs (Demo Cassette) (24-96) [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Offspring - Baghdad EP (1991)",
+    "year": 1991,
+    "format": "Vinyl"
   }
 ];

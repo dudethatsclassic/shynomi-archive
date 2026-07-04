@@ -1,0 +1,11 @@
+this vinyl rip was obtained through the band's fan community as 4x 16-bit/44.1kHz .wav files (one file per side) of unknown lineage.
+
+after comparing with multiple audience bootleg sources of the same concert, and with the band's official marketing and promotion clips, it was determined the vinyl was recorded while spinning at a slightly incorrect (slightly fast) speed.
+
+processing performed in audacity:
+- import into 32-bit float
+- reduce speed by 3% via 'change speed' effect to match existing other recordings
+- split into tracks
+- shaped dither applied via 'best quality' sample rate conversion setting for export to 16-bit flac
+
+all the above was detailed to OPS staff for approval before uploading.

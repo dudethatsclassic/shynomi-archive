@@ -125,7 +125,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) · Gefell + M20 · unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-11-09 - Philadelphia, PA - Electric Factory (Nak 300s) (lee schusterman + joey mutis) [AUD].txt"
+      "textFile": "1997-11-09 - Philadelphia, PA - Electric Factory (M20) [AUD].txt"
     },
     {
       "year": 1997,

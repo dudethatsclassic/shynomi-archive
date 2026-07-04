@@ -1,0 +1,40 @@
+Smashing Pumpkins
+Atomic Energy
+Silver CD > Easy CD-DA Extractor > FLAC
+
+Tracks: 
+
+01. Tonight, Tonight 
+02. 1979 
+03. Zero 
+04. Here Is No Why 
+05. Thru the Eyes of Ruby 
+06. Porcelina of the Vast Oceans 
+07. Jellybelly 
+08. Silverfuck 
+09. Disarm 
+10. Bullet with Butterfly Wings 
+11. Landslide [Nicks] ***
+12. Cupid de Locke 
+13. Thirty-three 
+14. Take Me Down 
+15. To Forgive 
+16. Muzzle 
+
+Label: Tube 
+ID: TUCD 014 
+Track info: Tracks 1-10: 1996/05/15 - Brixton Academy; London, UK - soundboard, electric
+Track 11: 1993/09/12 - BBC Studios, London, UK - soundboard, acoustic
+Tracks 12-16: 1996/03/13 - Triple J Studios; Sydney, AU - soundboard, acoustic
+
+Length: 01:11:29 (01:07:47 with Track 11 removed)
+
+Notes:
+*** Track 11 removed as from officially released source - Disarm Single & Pisces Iscariot
+Above info from spfc.org. The spectral analysis suggests the source of the 1996-05-15 part of this bootleg is the PRO promo video source, similar to that of the Brixton bootleg. However, my copy of Brixton seems to come from a mono source with maximized levels and probable normalization washing out the sound. This source is far superior.
+I added tags in Winamp 5.33, created ffp and MD5 checksums, and added a spectral analysis.
+Artwork is included in high-res.
+
+Thanks to daZe for this bootleg.
+
+Seeded to Zomb Torrents 2007-04-01 by ognetty.

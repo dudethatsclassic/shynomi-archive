@@ -1,0 +1,96 @@
+
+The Beatles
+Primal Colours
+1968
+
+Source: Original Master Recordings
+Publisher:  Masterdisc
+Reference :MDCD 009
+
+Lineage :- CDR > EAC [sercure] 16bit 44.1khz wav > FLAC
+
+Tracklist
+01.Brian Epstein Blues  [Outtake from "Sexy Sadie" session].
+July 19, 1968
+Back from India with a lark full of poofter puns about the late Brian Epstein.
+This straight-forward 1-4-5 number, given the title "Brian Epstein Blues," has been attributed to a July 19, 1968 "Sexy Sadie" session.There's a youthful and sarcastic timbre in Lennon's voice, reminiscent of "Yer Blues", but faster and more cynical than tragic.The melody lines cross "Yo Ho! Blow Ye Men Down" with "Sweet Little 16." See text/lyrics.
+
+02. Back In The U.S.S.R. [Outtake]
+1968
+03. A Case Of The Blues  [Acoustic Demo]		
+Dec 1968
+04. Blackbird	[Outtake]
+1968
+05. Piggies [Outtake] 		
+1968
+06. Birthday [Outtake]
+1968
+07. Yer Blues	[Outtake]
+1968
+08.	
+Mother Nature's Song [Outtake]	
+1968
+09. Everybody’s Got Something To Hide Except Me And My Monkey [Outtake]	
+1968
+10. Child Of Nature	[Outtake]
+1968
+11. Helter Skelter [Outtake]		
+1968
+12. Junk [Outtake]		
+1968
+13. Honey Pie [Outtake]	
+1968
+14. Old Brown Shoe	[Outtake]
+(date unknown)
+
+Happy Jack Song Notes
+On the artwork it explains the difference of these songs to the original
+
+Happy Jack Notes
+recieved in 2007
+MD5 included
+FFP included
+EAC log included
+Shn len text
+SBEs ok
+Artwork Included
+
+DO NOT SELL  !!!!
+
+ENJOY
+Happy Jack
+
+MD5
+70d0eb7c549b9ec2665bffa495c5bf78 *01 - Brian Epstain Blues.flac
+ad5e352ceaf0636a78f90ab0849462bc *02 - Back In The U.S.S.R. fix.flac
+080b14e3e75aa0c60fd168fe0fbece89 *03 - A Case Of The Blues fix.flac
+c8fd4b8975916f80951375b4e42e85fb *04 - Blackbird.flac
+68bb61f7192e47019f46fb2d81c1cf6c *05 - Piggies.flac
+c69c98efebe454316edd01a73b8f1ac9 *06 - Birthday fix.flac
+eb37a1f49c22e824c9013ce9c2bd65b9 *07 - Yer Blues fix.flac
+8c9e0727b9a3571ead321eeb33d08672 *08 - Mother Nature's Son fix.flac
+3b6c2b66248dc1f8ce7cb6bbf91c156b *09 - Everybody's Got Something To Hide Except Me And My Monkey fix.flac
+6e75b4028078066b193b3a493fdde1cc *10 - Child of Nature fix.flac
+d82a828ab035aff48a125319a7777068 *11 - Helter Skelter fix.flac
+37b0dc426f38c341f655bc788e7bffd6 *12 - Junk.flac
+b409411be7d28f1d96012c7f981b5e67 *13 - Honey Pie.flac
+4fcd1e038b5882a67e7190145ba37ede *14 - Old Brown Shoe.flac
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:02.67       11094428 B   ---   --   ---xx   flac  0.3669  01 - Brian Epstain Blues.flac
+     3:00.25       31810844 B   ---   --   ---xx   flac  0.4542  02 - Back In The U.S.S.R. fix.flac
+     2:51.15       30199724 B   ---   --   ---xx   flac  0.3923  03 - A Case Of The Blues fix.flac
+     2:29.60       26424764 B   ---   --   ---xx   flac  0.3607  04 - Blackbird.flac
+     2:04.28       21939500 B   ---   --   ---xx   flac  0.3282  05 - Piggies.flac
+     2:57.37       31309868 B   ---   --   ---xx   flac  0.4478  06 - Birthday fix.flac
+     4:15.13       45012620 B   ---   --   ---xx   flac  0.4149  07 - Yer Blues fix.flac
+     2:21.47       24982988 B   ---   --   ---xx   flac  0.3172  08 - Mother Nature's Son fix.flac
+     2:32.25       26871644 B   ---   --   ---xx   flac  0.4659  09 - Everybody's Got Something To Hide Except Me And My Monkey fix.flac
+     2:29.68       26443580 B   ---   --   ---xx   flac  0.3644  10 - Child of Nature fix.flac
+     3:40.67       38965628 B   ---   --   ---xx   flac  0.4567  11 - Helter Skelter fix.flac
+     2:33.35       27071564 B   ---   --   ---xx   flac  0.3201  12 - Junk.flac
+     1:59.43       21092780 B   ---   --   ---xx   flac  0.3840  13 - Honey Pie.flac
+     2:57.15       31258124 B   ---   --   ---xx   flac  0.3999  14 - Old Brown Shoe.flac
+    37:16.20      394478056 B                            0.3978  (14 files)
+
+

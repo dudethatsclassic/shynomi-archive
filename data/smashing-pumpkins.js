@@ -62,7 +62,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1988-08-10 - Chicago, IL - Avalon.txt"
+      "textFile": "1988-08-10 - Chicago, IL - Avalon (thir13en remaster) [SBD].txt"
     },
     {
       "year": 1988,
@@ -90,7 +90,7 @@ const ARTIST_DATA = {
       "notes": "thir13en remaster",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1988-08-10 - Chicago, IL - Avalon (thir13en remaster) [SBD].txt"
+      "textFile": "1988-08-10 - Chicago, IL - Avalon.txt"
     },
     {
       "year": 1988,
@@ -6960,7 +6960,7 @@ const ARTIST_DATA = {
       "notes": "SS mics \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-07-05 - Philadelphia, PA - Spectrum (AMT#1) [DVD].txt"
+      "textFile": "1996-07-05 - Philadelphia, PA - Corestates Spectrum.txt"
     },
     {
       "year": 1996,
@@ -6974,7 +6974,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 unk",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "1996-07-05 - Philadelphia, PA - Corestates Spectrum.txt"
+      "textFile": "1996-07-05 - Philadelphia, PA - Spectrum (AMT#1) [DVD].txt"
     },
     {
       "year": 1996,
@@ -7505,7 +7505,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 CSB \u00b7 unk",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1996-10-05 - Rosemont, IL - Rosement Horizon (AMT#1) [DVD].txt"
+      "textFile": "1996-10-05 - Rosemont, IL - Rosemont Horizon.txt"
     },
     {
       "year": 1996,
@@ -7533,7 +7533,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1996-10-05 - Rosemont, IL - Rosemont Horizon.txt"
+      "textFile": "1996-10-05 - Rosemont, IL - Rosement Horizon (AMT#1) [DVD].txt"
     },
     {
       "year": 1996,
@@ -7602,7 +7602,7 @@ const ARTIST_DATA = {
       "notes": "Vid-sourced",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "1996-10-26 - Molline, IL - Quad Cities (AMT#1) [DVD].txt"
+      "textFile": "1996-10-26 - Moline, IL - Mark of the Quad Cities.txt"
     },
     {
       "year": 1996,
@@ -7616,7 +7616,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1996-10-26 - Moline, IL - Mark of the Quad Cities.txt"
+      "textFile": "1996-10-26 - Molline, IL - Quad Cities (AMT#1) [DVD].txt"
     },
     {
       "year": 1996,
@@ -16087,7 +16087,7 @@ const ARTIST_DATA = {
       "notes": "Rock \u00b7 Pre-broadcast \u00b7 obertu edit",
       "version": "SBD #1",
       "format": "FLAC",
-      "textFile": "2007-06-02 - Nurburg, Germany - Nurburgring - Rock AM Ring (13) [DVD].txt"
+      "textFile": "2007-06-02 - Nurburg, Germany - Nurburgring - Rock am Ring.txt"
     },
     {
       "year": 2007,
@@ -16143,7 +16143,7 @@ const ARTIST_DATA = {
       "notes": "Rock",
       "version": "Webcast",
       "format": "DVD",
-      "textFile": "2007-06-02 - Nurburg, Germany - Nurburgring - Rock am Ring.txt"
+      "textFile": "2007-06-02 - Nurburg, Germany - Nurburgring - Rock AM Ring (13) [DVD].txt"
     },
     {
       "year": 2007,
@@ -16255,7 +16255,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-1",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2007-06-09 - Lisbon, Portugal - Maritimo del Alges (PRO#1a) [DVD].txt"
+      "textFile": "2007-06-09 - Lisbon, Portugal - Oeiras Alive!.txt"
     },
     {
       "year": 2007,
@@ -16283,7 +16283,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO #1a",
       "format": "DVD",
-      "textFile": "2007-06-09 - Lisbon, Portugal - Oeiras Alive!.txt"
+      "textFile": "2007-06-09 - Lisbon, Portugal - Maritimo del Alges (PRO#1a) [DVD].txt"
     },
     {
       "year": 2007,
@@ -17123,7 +17123,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 KM140s",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2007-07-20 - Santa Cruz, CA - Civic Auditorium (AMT #1) [DVD].txt"
+      "textFile": "2007-07-20 - Santa Cruz, CA - Santa Cruz Civic Auditorium.txt"
     },
     {
       "year": 2007,
@@ -17137,7 +17137,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "2007-07-20 - Santa Cruz, CA - Santa Cruz Civic Auditorium.txt"
+      "textFile": "2007-07-20 - Santa Cruz, CA - Civic Auditorium (AMT #1) [DVD].txt"
     },
     {
       "year": 2007,
@@ -17948,7 +17948,7 @@ const ARTIST_DATA = {
       "notes": "SP-BMC-12 \u00b7 matt krueger & kevin kohl",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2007-10-04 - Normal, IL - Braden Auditorium (AMT#1) [DVD].txt"
+      "textFile": "2007-10-04 - Normal, IL - Braden Auditorium.txt"
     },
     {
       "year": 2007,
@@ -18004,7 +18004,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "2007-10-04 - Normal, IL - Braden Auditorium.txt"
+      "textFile": "2007-10-04 - Normal, IL - Braden Auditorium (AMT#1) [DVD].txt"
     },
     {
       "year": 2007,

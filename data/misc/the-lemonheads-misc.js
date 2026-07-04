@@ -6,5 +6,12 @@ const ARTIST_MISC_DATA = [
     "format": "MPG",
     "year": 1994,
     "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "The Lemonheads - Sony Music TV Special - VHS(2) (1994)",
+    "year": 1994,
+    "format": "TV",
+    "textFile": "MISC - The Lemonheads - Sony Music TV Special - VHS(2) (1994) [TV].txt"
   }
 ];

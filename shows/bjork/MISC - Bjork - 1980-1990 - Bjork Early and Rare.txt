@@ -1,0 +1,68 @@
+Björk
+Early and Rare
+Assorted Unreleased Studio and Live Tracks
+
+
+Various Sources > CDR > EAC > wav > flac frontend > flac
+
+Source CD received from Anonymous!
+
+
+Bjork Hub
+bjorkhub.no-ip.info
+http://bjorklossless.goudwater.nl
+
+
+Early Years & Rare Versions	Dates & Comments
+
+01  Icelandic Folksong ??	1:04	Björk as a Child
+02  Langt Ude i Skoven		1:15	Björk as a Child
+03  I Love To Love		2:25	Björk as a Child
+04  Jolakötturinn			4:24	
+*05  Motorcycle Mama		3:47	Sugarcubes
+06  Dancing Queen			2:42	Sugarcubes Studio
+07  Whole Lotta Loving To Do	3:50	El Vez & Sugarcubes
+*08  O borg min borg		2:27	
+09  Nu Flyver Anton		3:45	Danish Soundtrack
+10  Short Time Affair		4:07	Comic Relief BBC 14.3.1997
+11  Min Farfar Drikker Södmelk0:26	Danish Grammy 7.2.1998
+12  Jolasveinar ganga um golf	0:39	Merry Christmas from Björk
+&13  You Only Live Twice	4:19	Unreleased Studio Take
+*14  I Remember You		4:11	From Second Debut Boot CD
+*15  Sidasta Eg			2:55	From Second Debut Boot CD
+*16  Glora				1:40	From Second Debut Boot CD
+*17  Stigdu Mig			1:46	From Second Debut Boot CD
+*18  Top Of The World		3:18	Sugarcubes b-side
+19  Satisfaction			3:46	w/ P.J. Harvey
+20  Pin var ekki ad bioa	2:24	w/ Icelandic Band Draumsyn, Studio 1980
+21  Su  /  Patrei			7:38	Elgar Systers, Studio 1986  f/ Unreleased Album
+22  Geri pao sem mer synist	1:54	f/ Sugarcubes Skytturnar Demos
+23  Sweet Jane			2:12	f/ Sugarcubes Skytturnar Demos
+24  Misty				4:32	Live @ Hotel Borg, Reykjavik 30.8.1990 w/ Gling Gl¢ Band
+
+
+*Tracks 5, 8, 14, 15, 16, 17, and 18 have all been removed from
+this fileset, because they have all been released commercially in
+some form or another.
+
+&Track 13 has been removed because it is mp-3 sourced, as 
+revealed by a spectrum analysis.
+
+
+Flac Fingerprints:
+Track01.flac:8c24947ef1a980dabb8d9b6967abe494
+Track02.flac:dac2bdb923da592a93dd0103f0be05f4
+Track03.flac:8a19c91892e7fae4f2ce3db28e3e14a8
+Track04.flac:995a243c304d3b062b27dcb07b899a31
+Track06.flac:83488b95db6dfde67ff79499484694d6
+Track07.flac:2b85efe6170a177a9d4a50f263ddf94a
+Track09.flac:89ead545d945f1e8b00af2227c7230e0
+Track10.flac:011a4a51eb4f2f4cb719c3fcb63813b2
+Track11.flac:f1086dc49a5baefcf7886f315a874290
+Track12.flac:aebe99159bf1374e13f687ba9636da99
+Track19.flac:793c6ea764b2f75665e3b150bb0fe6c2
+Track20.flac:d4a4ce2610b51a9c8fe7371b25adc6c4
+Track21.flac:e7aa1245d3de2ee2ab0e866d020521e4
+Track22.flac:b03856fb1d47fc544efcffef6a41662d
+Track23.flac:0871c131302b42228bd292299f2a1903
+Track24.flac:638d12c03147d266098c28fd9ecd980f

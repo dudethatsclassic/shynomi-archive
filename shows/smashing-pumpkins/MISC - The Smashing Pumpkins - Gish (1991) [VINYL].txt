@@ -1,0 +1,21 @@
+Vinyl Transfer Process
+
+Artist & Ablum : The Smashing Pumpkins - Gish (Mint Vinyl)
+Turntable : 	 Pro-Ject Debut III
+Preamp :	 Rolls VP-29
+Soundcard :	 Onboard 8-channel HD audio (High Definition Audio, previously codenamed Azalia) CODEC
+
+Audacticy 1.3.5 used to record at 24bit/96KHz.
+Adobe Audition used for song splits.
+Encoded with Foobar2000 v0.9.5.2 and FLAC 1.2.1
+
+A1 I Am One
+A2 Siva
+A3 Rhinoceros
+A4 Bury Me
+A5 Crush
+B1 Suffer
+B2 Snail
+B3 Tristessa
+B4 Window Paine
+B5 Daydream

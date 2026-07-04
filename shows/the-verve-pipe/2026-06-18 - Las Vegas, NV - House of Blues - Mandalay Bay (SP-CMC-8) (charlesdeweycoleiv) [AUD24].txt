@@ -1,0 +1,43 @@
+﻿The Verve Pipe
+June 18th, 2026.
+House of Blues / Mandalay Bay
+Las Vegas, NV.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   gaffer taped to wooden post 8 ft in the air, 25 ft from right stack.
+Source:     SP-CMC-8 Cardioids (4.7k mod) > SP-SPSB-11 (@16Hz) > Sony PCM-A10 (24 bit @48kHz) >
+            Adobe Audition 3.0 > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Sony PCM-A10 > (USB) @ 48kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (40:49)
+
+01. Photograph					4:54
+02. Cup Of Tea					4:30
+03. Villains					4:46
+04. Hollow Bones				5:07
+05. Colorful					4:18
+06. Medicate Myself				7:25
+07. The Freshmen				4:45
+08. Black Hole Sun *				5:05
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+*  Originally Recorded By Soundgarden.
+
+The Verve Pipe on the 2nd show of their 2nd leg (west coast) with Our Lady
+Peace. The setlist has remained the same swapping out the newer song here
+and there. I was very excited getting to hear "Hollow Bones" instead of
+"Dust", which I saw twice this past April. The sound was good to great,
+however, whenever Daine would hit the kickdrum you could hear a small pop
+over the PA. Its not too annoying, but it is audible at times during the
+set - especially when the guitars were low. I used iZotope RX 7 to remove
+some unnecessary screams and yelps in between songs.
+
+Opening for Our Lady Peace. [recorded].
+
+---------------------------------------------------------------------------------------------------------
+For more information on The Verve Pipe, please visit:
+http://www.thevervepipe.com

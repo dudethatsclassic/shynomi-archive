@@ -1,0 +1,31 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01 - Drive My Car.wav:  track looks like CDDA with probability 100%.
+02 - Norwegian Wood (This Bird Has Flown).wav:  track looks like CDDA with probability 99%.
+03 - You Won't See Me.wav:  track looks like MPEG with probability 100%.
+04 - Nowhere Man.wav:  track looks like CDDA with probability 100%.
+05 - Think for Yourself.wav:  track looks like CDDA with probability 100%.
+06 - The Word.wav:  track looks like CDDA with probability 99%.
+07 - Michelle.wav:  track looks like MPEG with probability 100%.
+08 - What Goes On.wav:  track looks like CDDA with probability 100%.
+09 - Girl.wav:  track looks like MPEG with probability 100%.
+10 - I'm Looking Through You.wav:  track looks like CDDA with probability 99%.
+11 - In My Life.wav:  track looks like MPEG with probability 99%.
+12 - Wait.wav:  track looks like CDDA with probability 43%.
+13 - If I Needed Someone.wav:  track looks like CDDA with probability 100%.
+14 - Run for Your Life.wav:  track looks like CDDA with probability 99%.
+15 - Norwegian Wood (This Bird Has Flown).wav:  track looks like CDDA with probability 100%.
+16 - I'm Looking Through You.wav:  track looks like CDDA with probability 99%.
+17 - Girl.wav:  track looks like CDDA with probability 100%.
+18 - Think for Yourself.wav:  track looks like CDDA with probability 100%.
+19 - The Word.wav:  track looks like CDDA with probability 100%.
+20 - Drive My Car.wav:  track looks like CDDA with probability 99%.
+21 - If I Needed Someone.wav:  track looks like CDDA with probability 100%.
+22 - Michelle.wav:  track looks like CDDA with probability 100%.
+23 - In My Life.wav:  track looks like CDDA with probability 99%.
+24 - Nowhere Man.wav:  track looks like CDDA with probability 100%.

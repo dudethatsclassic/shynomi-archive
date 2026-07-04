@@ -1,0 +1,32 @@
+Toadies - Slaphead
+
+generation and source =
+original "Slaphead" cassette > ANA(?) > CDR(2)
+
+your copy will be -
+original "Slaphead" cassette > ANA(?) > CDR(2) > .WAV > .SHN > .WAV > CDR(3)
+
+files ripped to .WAV using "Exact Audio Copy V0.95 prebeta 3"
+files encoded to .SHN using "MKW audio compression tool 0.97 beta 1"
+
+all tracks have been normalized to 98% using EAC V0.95 prebeta 3
+
+
+Tracklist
+01 - I'm Away
+02 - Remember Bonnie
+03 - Got A Heart 
+04 - Straight Up
+05 - Zsa Zsa
+06 - Understand
+07 - I Come From The Water
+08 - Bones
+09 - Solid Gold
+10 - untitled
+
+DO NOT ENCODE TO MP3!!!!!!!!
+
+DO NOT DISTRIBUTE WITHOUT THE .MD5 AND .TXT FILES
+
+Seeded by - DotKom11 (DC++) aka Jim_Ellis (Direct Connect)
+DotKom111@yahoo.com

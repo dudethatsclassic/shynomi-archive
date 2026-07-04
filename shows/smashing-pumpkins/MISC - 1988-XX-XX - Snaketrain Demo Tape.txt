@@ -1,0 +1,23 @@
+xx.xx.88 - Snake Train Demo
+
+Taper:            the band, presumably
+Generation:       ana-?
+Source:           Mixed studio and live
+Location:         numerous unknown, presumably all Chicago clubs
+flaws:            none AFAIK
+Conversion:       Sony TC-WE625S > Turtle Beach Montego II > Cool Edit Pro 1.2a > CDWave > shn
+Resampling:       none; show A/D converted at 44.1k
+Editor:           Henry Bent
+Editing:          none
+SHN:              Master WAV > shortn32 commandline prog.
+
+Tracklist:
+
+1. Cowboy X
+2. Box 36
+3. Murphy
+4. Hands
+5. I
+6. Baby Man
+7. Big Sleep
+8. Friends

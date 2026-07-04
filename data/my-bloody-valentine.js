@@ -1027,7 +1027,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 Sony WM-D3",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-02-03 - San Francisco, CA - Slim's - DAT(M) (Sony WM-D3) [AUD].txt"
+      "textFile": "1992-02-03 - San Francisco, CA - Slim's (AT-9400) (flv) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1041,7 +1041,7 @@ const ARTIST_DATA = {
       "notes": "AT-9400 \u00b7 flv",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-02-03 - San Francisco, CA - Slim's (AT-9400) (flv) [AUD].txt"
+      "textFile": "1992-02-03 - San Francisco, CA - Slim's - DAT(M) (Sony WM-D3) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1209,7 +1209,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 ya.pi.",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-03-17 - Paris, France - Olympia - DAT(M) (ya.pi.) [AUD].txt"
+      "textFile": "1992-03-17 - Paris, France - L'Olympia - ANA(3) (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1223,7 +1223,7 @@ const ARTIST_DATA = {
       "notes": "ANA(3) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-03-17 - Paris, France - L'Olympia - ANA(3) (unk) [AUD].txt"
+      "textFile": "1992-03-17 - Paris, France - Olympia (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1237,7 +1237,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-03-17 - Paris, France - Olympia (unk) [AUD].txt"
+      "textFile": "1992-03-17 - Paris, France - Olympia - DAT(M) (ya.pi.) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1713,7 +1713,7 @@ const ARTIST_DATA = {
       "notes": "HiMD(M) \u00b7 Marantz EM8 \u00b7 straap",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-05-25 - Eindhoven, The Netherlands - Effenaar - HiMD(M) (Marantz EM8) (straap) [AUD].txt"
+      "textFile": "2009-05-25 - Eindhoven, The Netherlands - Effenaar (Edirol R09) (martin van rappard remaster) [AUD24].txt"
     },
     {
       "year": 2009,
@@ -1741,7 +1741,7 @@ const ARTIST_DATA = {
       "notes": "Edirol R09 \u00b7 martin van rappard remaster",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2009-05-25 - Eindhoven, The Netherlands - Effenaar (Edirol R09) (martin van rappard remaster) [AUD24].txt"
+      "textFile": "2009-05-25 - Eindhoven, The Netherlands - Effenaar - HiMD(M) (Marantz EM8) (straap) [AUD].txt"
     },
     {
       "year": 2009,

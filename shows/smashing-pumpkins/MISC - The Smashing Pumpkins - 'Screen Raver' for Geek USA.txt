@@ -1,0 +1,25 @@
+SCREEN RAVER
+
+This Screen Raver is designed to be played in conjunction with the
+Smashing Pumpkins CD "Siamese Dream". This Screen Raver will play
+only one song on the CD: "Geek USA". Make sure that your CD-ROM
+drive is set up for playing audio CD's and that your speakers are
+turned on. Some external CD-ROM drives must be hooked up to external
+speakers or headphones in order to hear the audio CD. Refer to the
+drive's documentation to determine if audio CD's can be played in 
+your drive and to obtain instructions on how to set it up for playing
+audio CD's. If you do not have a CD-ROM drive, the Screen Raver will
+still play but it will not be accompanied by music.
+
+To quit the program, type "Q". If you quit the program by any other
+means, you will exit but the audio CD will keep on playing. If that
+happens, you will have to stop the audio CD manually.
+
+Typing "B" will restart the song. The song will automatically restart
+5 seconds after the song is done.
+
+For questions or comments E-mail: geekusaaa@AOL.com
+
+
+
+Screen Raver Copyright 1994 Michael Morgan

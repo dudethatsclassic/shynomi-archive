@@ -409,7 +409,8 @@ const ARTIST_DATA = {
       "venue": "Washington Town & Country Fair",
       "notes": "Sony PCM-A10 · shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-08-09 - Washington, MO - Washington Town & Country Fair (Sony PCM-A10) (shane e. calhoon) [AUD24].txt"
     },
     {
       "year": 2025,

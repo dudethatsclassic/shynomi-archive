@@ -63,7 +63,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-12-09 - Raleigh, NC - The Grove [AUD].flac.txt"
+      "textFile": "1995-12-09 - Raleigh, NC - The Grove (Sennheiser 421s) (jim w.) [AUD].txt"
     },
     {
       "year": 1995,
@@ -77,7 +77,7 @@ const ARTIST_DATA = {
       "notes": "Sennheiser 421s \u00b7 jim w.",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-12-09 - Raleigh, NC - The Grove (Sennheiser 421s) (jim w.) [AUD].txt"
+      "textFile": "1995-12-09 - Raleigh, NC - The Grove [AUD].flac.txt"
     },
     {
       "year": 1996,
@@ -4598,7 +4598,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4027 \u00b7 scott schneider",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2007-08-02 - Boulder, CO - Fox Theatre [AUD].txt"
+      "textFile": "2007-08-02 - Boulder, CO - Fox Theatre (MBHO KA-200N) (sxpxdxcx) [AUD].txt"
     },
     {
       "year": 2007,
@@ -4612,7 +4612,7 @@ const ARTIST_DATA = {
       "notes": "MBHO KA-200N \u00b7 sxpxdxcx",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2007-08-02 - Boulder, CO - Fox Theatre (MBHO KA-200N) (sxpxdxcx) [AUD].txt"
+      "textFile": "2007-08-02 - Boulder, CO - Fox Theatre [AUD].txt"
     },
     {
       "year": 2007,
@@ -9000,7 +9000,8 @@ const ARTIST_DATA = {
       "venue": "Shubert Theater",
       "notes": "Tascam DR-05 \u00b7 unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2022-05-20 - Boston, MA - Shubert Theatre (ECM-MS907) (jim kelly) [AUD].txt"
     },
     {
       "year": 2022,
@@ -9014,7 +9015,7 @@ const ARTIST_DATA = {
       "notes": "ECM-MS907 \u00b7 jim kelly",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-05-20 - Boston, MA - Shubert Theatre (ECM-MS907) (jim kelly) [AUD].txt"
+      "textFile": "2022-05-20 - Boston, MA - Shubert Theatre (Samsung Galaxy S21) (eddy remaster) [AUD].txt"
     },
     {
       "year": 2022,
@@ -9027,8 +9028,7 @@ const ARTIST_DATA = {
       "venue": "Shubert Theatre",
       "notes": "Samsung Galaxy S21 \u00b7 eddy remaster",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2022-05-20 - Boston, MA - Shubert Theatre (Samsung Galaxy S21) (eddy remaster) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2022,

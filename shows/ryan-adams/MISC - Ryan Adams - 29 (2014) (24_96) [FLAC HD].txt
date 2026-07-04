@@ -1,0 +1,30 @@
+foobar2000 1.3.13 / Dynamic Range Meter 1.1.1
+log date: 2016-12-16 00:14:11
+
+--------------------------------------------------------------------------------
+Analyzed: Ryan Adams / 29
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR7        0.00 dB    -9.79 dB      5:48 01-29
+DR12       0.00 dB   -14.34 dB      8:00 02-Strawberry Wine
+DR9        0.00 dB   -11.01 dB      3:53 03-Night Birds
+DR10      -0.02 dB   -14.29 dB      5:20 04-Blue Sky Blues
+DR7        0.00 dB    -9.70 dB      5:27 05-Carolina Rain
+DR12       0.00 dB   -15.23 dB      3:53 06-Starlite Diner
+DR7        0.00 dB    -9.20 dB      6:43 07-The Sadness
+DR8       -0.01 dB   -12.00 dB      5:12 08-Elizabeth, You Were Born To Play That Part
+DR11       0.00 dB   -15.20 dB      5:08 09-Voices
+--------------------------------------------------------------------------------
+
+Number of tracks:  9
+Official DR value: DR9
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           2990 kbps
+Codec:             FLAC
+================================================================================
+

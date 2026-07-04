@@ -1,0 +1,23 @@
+Smashing Pumpkins
+July 7th 1994
+Sam Boyd Stadium
+Las Vegas, NV, US
+
+SOURCE (AMT#2):
+unknown > unknown
+
+VIDEO TRANSFER:
+Panasonic AG-1980 SVHS > Datavideo TBC-6000 > ATI TV Wonder 600 USB > VirtualDub > AviSynth 2.6.0 > x264.exe 0.155.2901 7d0ff22 > MKVToolNix GUI v46.0.0
+
+GENERATION:
+VHS(4) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [480p/x264 | AAC | FLAC]
+
+LENGTH:
+71:23
+
+MD5 FINGERPRINTS:
+a2e38d5c2c37a3cb7d1e297f2ae6327b *Smashing Pumpkins 1994-07-07 AMT2 x264 AAC FLAC.mkv
+
+TRANSFER & DISTRIBUTION:
+Nicholas Serra & Members of SPLRA
+2021-01-10

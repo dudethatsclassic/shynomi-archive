@@ -1,0 +1,26 @@
+AUDIOCHECKER v2.0 beta (build 457) - by Dester - opdester@freemail.hu
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Started at: tuesday, 18. 12. 2012. - 1:02.23
+4 files found
+
+1 -===- D:\Music\Smashing Pumpkins\WEB\Live Bonus EP\smp2008d1_01_GLOW.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+2 -===- D:\Music\Smashing Pumpkins\WEB\Live Bonus EP\smp2008d1_02_Gossamer.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+3 -===- D:\Music\Smashing Pumpkins\WEB\Live Bonus EP\smp2008d1_03_Thats_The_Way.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+4 -===- D:\Music\Smashing Pumpkins\WEB\Live Bonus EP\smp2008d1_04_I_Am_One_Part_2.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+Finished at: tuesday, 18. 12. 2012. - 1:06.30 (operation time: 0:04.07)
