@@ -53,6 +53,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2022-12-14 - Santa Cruz, CA - Moe's Alley - WAV(M) (Sony PCM-A10) (anonymous) [AUD #1].txt"
     }
-  ],
-  "misc": []
+  ]
 };
