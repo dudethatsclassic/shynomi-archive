@@ -38,6 +38,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1971-07-01 - New York, NY - The Bronx - Live Kingsbridge Armory [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
