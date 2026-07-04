@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1988-05-07 - Chicago, IL - Cabaret Metro - ANA(M) (unk) (aadam jacobs) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
