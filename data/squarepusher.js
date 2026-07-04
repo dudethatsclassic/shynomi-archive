@@ -37,6 +37,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2023-06-06 - Melbourne, Australia - 170 Russell (Zoom H1n) (claire laura fredriksson) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
