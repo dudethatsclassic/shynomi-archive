@@ -37,6 +37,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1949-06-15 - Austin, TX - Hogg Auditorium - University of Texas (KUT Radio Broadcast) [FM].txt"
     }
-  ],
-  "misc": []
+  ]
 };
