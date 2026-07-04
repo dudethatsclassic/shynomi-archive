@@ -95,6 +95,5 @@ const ARTIST_DATA = {
       "format": "MKV",
       "textFile": "2026-04-18 - Indio, CA - Coachella Festival-  Empire Polo Grounds - Outdoor Theatre (1080p) [MKV].txt"
     }
-  ],
-  "misc": []
+  ]
 };
