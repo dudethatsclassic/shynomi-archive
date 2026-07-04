@@ -1,29 +1,38 @@
 const ARTIST_MISC_DATA = [
   {
-    "type": "label",
+    "type": "release",
     "label": "1980-XX-XX - Various Demos & Live - The Mike's Tape (1980)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1980,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "1987-01-XX - Mirage Instrumental Sessions (loughney transfer)",
     "version": "SBD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1987,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "1987-XX-XX - Huevos Instrumental Sessions (loughney transfer)",
     "version": "SBD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1987,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Meat Puppets - Too High To Die Demos",
     "version": "SBD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
-    "label": "Meat Puppets - Portland Zoo {PLR CD 9224} (1992) [Silver]"
+    "type": "release",
+    "label": "Meat Puppets - Portland Zoo {PLR CD 9224} (1992) [Silver]",
+    "year": 1992,
+    "category": "OTHER"
   }
 ];
