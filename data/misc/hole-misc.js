@@ -207,19 +207,16 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "06-XX - Courtney Love - Behind the Music",
     "year": 2010,
-    "format": "DVD",
-    "textFile": "MISC - 2010-06-XX - Courtney Love - Behind the Music [DVD].txt"
+    "format": "DVD"
   },
   {
     "type": "release",
-    "label": "Hole - Argentina Demos Tape",
-    "textFile": "MISC - Hole - Argentina Demos Tape.txt"
+    "label": "Hole - Argentina Demos Tape"
   },
   {
     "type": "release",
     "label": "Hole - Cover Me (1995)",
-    "year": 1995,
-    "textFile": "MISC - Hole - Cover Me (1995).txt"
+    "year": 1995
   },
   {
     "type": "release",

@@ -33,7 +33,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Toadies - Slaphead",
-    "textFile": "MISC - Toadies - Slaphead.txt"
+    "label": "Toadies - Slaphead"
   }
 ];

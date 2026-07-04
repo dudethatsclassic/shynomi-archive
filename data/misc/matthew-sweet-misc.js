@@ -51,42 +51,34 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Matthew Sweet - 100% Fun Demos",
-    "textFile": "MISC - Matthew Sweet - 100% Fun Demos.txt"
+    "label": "Matthew Sweet - 100% Fun Demos"
   },
   {
     "type": "release",
-    "label": "Matthew Sweet - Demos (1989-1991)",
-    "textFile": "MISC - Matthew Sweet - Demos (1989-1991).txt"
+    "label": "Matthew Sweet - Demos (1989-1991)"
   },
   {
     "type": "release",
-    "label": "Matthew Sweet - Earth Demos",
-    "textFile": "MISC - Matthew Sweet - Earth Demos.txt"
+    "label": "Matthew Sweet - Earth Demos"
   },
   {
     "type": "release",
-    "label": "Matthew Sweet - Goodfriend - Another Take On Girlfriend (Promo CD)",
-    "textFile": "MISC - Matthew Sweet - Goodfriend - Another Take On Girlfriend (Promo CD).txt"
+    "label": "Matthew Sweet - Goodfriend - Another Take On Girlfriend (Promo CD)"
   },
   {
     "type": "release",
-    "label": "Matthew Sweet - Superdeformed #1",
-    "textFile": "MISC - Matthew Sweet - Superdeformed #1.txt"
+    "label": "Matthew Sweet - Superdeformed #1"
   },
   {
     "type": "release",
-    "label": "Matthew Sweet - Superdeformed #2",
-    "textFile": "MISC - Matthew Sweet - Superdeformed #2.txt"
+    "label": "Matthew Sweet - Superdeformed #2"
   },
   {
     "type": "release",
-    "label": "Matthew Sweet - Supervixen",
-    "textFile": "MISC - Matthew Sweet - Supervixen.txt"
+    "label": "Matthew Sweet - Supervixen"
   },
   {
     "type": "release",
-    "label": "Matthew Sweet - Sweet Demos 2",
-    "textFile": "MISC - Matthew Sweet - Sweet Demos 2.txt"
+    "label": "Matthew Sweet - Sweet Demos 2"
   }
 ];

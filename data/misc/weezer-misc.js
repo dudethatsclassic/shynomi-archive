@@ -3387,8 +3387,7 @@ const ARTIST_MISC_DATA = [
     "label": "(2005) Make Believe Enhanced CD Bonus Content",
     "year": 2005,
     "format": "Requires Quicktime",
-    "category": "STEMS",
-    "textFile": "MISC - (2005) Make Believe Enhanced CD Bonus Content [Requires Quicktime].txt"
+    "category": "STEMS"
   },
   {
     "type": "release",
@@ -3882,19 +3881,16 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Weezer - Alive Quantum (Wonderboy Records) (2002)",
     "year": 2002,
-    "format": "FLAC",
-    "textFile": "MISC - Weezer - Alive Quantum (Wonderboy Records) (2002) [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
-    "label": "Weezer - B-Sides And Rarities",
-    "textFile": "MISC - Weezer - B-Sides And Rarities.txt"
+    "label": "Weezer - B-Sides And Rarities"
   },
   {
     "type": "release",
     "label": "Weezer - B-sides and Rarities (Unofficial Compilation)",
-    "format": "FLAC",
-    "textFile": "MISC - Weezer - B-sides and Rarities (Unofficial Compilation) [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
@@ -3923,8 +3919,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Weezer - Green (Unofficial B-side Compilation)",
-    "format": "FLAC",
-    "textFile": "MISC - Weezer - Green (Unofficial B-side Compilation) [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
@@ -3957,8 +3952,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Weezer - My Name is Weezer (1997)",
     "year": 1997,
-    "version": "Silver CD",
-    "textFile": "MISC - Weezer - My Name is Weezer (1997) [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",
@@ -3969,26 +3963,22 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Weezer - Reading and Lowlands Festivals - 1996",
-    "format": "FM",
-    "textFile": "MISC - Weezer - Reading and Lowlands Festivals - 1996 [FM].txt"
+    "format": "FM"
   },
   {
     "type": "release",
     "label": "Weezer - Red (Unofficial B-side Compilation)",
-    "format": "FLAC",
-    "textFile": "MISC - Weezer - Red (Unofficial B-side Compilation) [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
     "label": "Weezer - Songs From The Black Hole (2013)",
     "year": 2013,
-    "format": "FLAC",
-    "textFile": "MISC - Weezer - Songs From The Black Hole (2013) [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
-    "label": "Weezer - Songs From the Black Hole",
-    "textFile": "MISC - Weezer - Songs From the Black Hole.txt"
+    "label": "Weezer - Songs From the Black Hole"
   },
   {
     "type": "release",
@@ -3996,8 +3986,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Weezer - Studio Jams 2001",
-    "textFile": "MISC - Weezer - Studio Jams 2001.txt"
+    "label": "Weezer - Studio Jams 2001"
   },
   {
     "type": "release",

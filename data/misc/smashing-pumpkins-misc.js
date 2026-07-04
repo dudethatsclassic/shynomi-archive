@@ -18,15 +18,13 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Live At The Viper Room 1.15.1998 (2021)",
     "year": 2021,
     "format": "VINYL",
-    "category": "ARCHIVAL RELEASES",
-    "textFile": "MISC - The Smashing Pumpkins - Live At The Viper Room 1.15.1998 (2021) [VINYL].txt"
+    "category": "ARCHIVAL RELEASES"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Live at Kawasaki 2.24.92",
     "format": "VINYL",
-    "category": "ARCHIVAL RELEASES",
-    "textFile": "MISC - The Smashing Pumpkins - Live at Kawasaki 2.24.92 [VINYL].txt"
+    "category": "ARCHIVAL RELEASES"
   },
   {
     "type": "release",
@@ -67,8 +65,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - 1993 Compilation",
     "format": "DVD",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - 1993 Compilation [DVD].txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
@@ -80,63 +77,54 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 1994-XX-XX - Mashed Potatoes",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - 1994-XX-XX - Mashed Potatoes.txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 1998-XX-XX - Adore Compilation (1998-05-18, 1998-06-05) (Pro-shot)",
     "format": "DVD",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - 1998-XX-XX - Adore Compilation (1998-05-18, 1998-06-05) (Pro-shot) [DVD].txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 1998-XX-XX - Adore Compilation (1998-05-23, 1998-06-01)",
     "format": "DVD",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - 1998-XX-XX - Adore Compilation (1998-05-23, 1998-06-01) [DVD].txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 2001 - Sacred & Profane Tour Soundboard",
     "format": "Compilation",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - 2001 - Sacred & Profane Tour Soundboard  [Compilation].txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 2007-XX-XX - Zeitgeist Tour Compilation",
     "format": "DVD",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - 2007-XX-XX - Zeitgeist Tour Compilation [DVD].txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 90s TV Compilation Vol. 1",
     "format": "DVD",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - 90s TV Compilation Vol. 1 [DVD].txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - ADORE LIVE (soniclovenoize compilation)",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - ADORE LIVE (soniclovenoize compilation).txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Arcane Night Music",
     "format": "Bootleg Box Set 1988-2000",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - Arcane Night Music [Bootleg Box Set 1988-2000].txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Best of The Orange Peel (Acoustic)",
     "format": "Compilation",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - Best of The Orange Peel (Acoustic) [Compilation].txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
@@ -149,14 +137,12 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Crystallization",
     "format": "DVD",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - Crystallization [DVD].txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - David Mead Compilation",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - David Mead Compilation.txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
@@ -168,8 +154,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Fruit Bat Salad - Vol. 2",
     "format": "DVD",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - Fruit Bat Salad - Vol. 2 [DVD].txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
@@ -187,30 +172,26 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - MTV and More TV Footage",
     "format": "DVD",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - MTV and More TV Footage [DVD].txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - New Songs (2007)",
     "year": 2007,
     "format": "Compilation",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - New Songs (2007) [Compilation].txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Nulle Part Ailleurs Appearances (1998-2000)",
     "format": "Compilation",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - Nulle Part Ailleurs Appearances (1998-2000) [Compilation].txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Psycho Tape",
     "format": "DVD",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - Psycho Tape [DVD].txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
@@ -222,8 +203,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Sacred and Profane",
     "format": "SBD Compilation",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - The Smashing Pumpkins - Sacred and Profane [SBD Compilation].txt"
+    "category": "COMPILATIONS"
   },
   {
     "type": "release",
@@ -253,22 +233,19 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "XX-XX - Snaketrain Demo Tape",
     "year": 1988,
-    "category": "DEMOS",
-    "textFile": "MISC - 1988-XX-XX - Snaketrain Demo Tape.txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "XX-XX - Adore Demos",
     "year": 1997,
-    "category": "DEMOS",
-    "textFile": "MISC - 1997-XX-XX - Adore Demos.txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "XX-XX - Adore Demos II",
     "year": 1997,
-    "category": "DEMOS",
-    "textFile": "MISC - 1997-XX-XX - Adore Demos II.txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
@@ -281,15 +258,13 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "MCIS Demos II (1994)",
     "year": 1994,
-    "category": "DEMOS",
-    "textFile": "MISC - MCIS Demos II (1994).txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "MCIS Demos III - Demos For D'arcy (1994)",
     "year": 1994,
-    "category": "DEMOS",
-    "textFile": "MISC - MCIS Demos III - Demos For D'arcy (1994).txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
@@ -306,16 +281,14 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Smashing Pumpkins - 1995-05-31 - The Mellon Collie and the Infinite Sadness Sequence IV (eq'd with freefilter)",
-    "category": "DEMOS",
-    "textFile": "MISC - Smashing Pumpkins - 1995-05-31 - The Mellon Collie and the Infinite Sadness Sequence IV (eq'd with freefilter).txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Adore Demos (1997)",
     "year": 1997,
     "format": "FLAC",
-    "category": "DEMOS",
-    "textFile": "MISC - The Smashing Pumpkins - Adore Demos (1997) [FLAC].txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
@@ -332,27 +305,23 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Moon Demo Tape (Virgin In-house Promo Cassette)",
-    "category": "DEMOS",
-    "textFile": "MISC - The Smashing Pumpkins - Moon Demo Tape (Virgin In-house Promo Cassette).txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - The Ignoffo Tape",
     "format": "FLAC",
-    "category": "DEMOS",
-    "textFile": "MISC - The Smashing Pumpkins - The Ignoffo Tape [FLAC].txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "XX-XX-1989 - Moon Demo Tape",
-    "category": "DEMOS",
-    "textFile": "MISC - XX-XX-1989 - Moon Demo Tape.txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "XX-XX-1994 - Gravity Studios",
-    "category": "DEMOS",
-    "textFile": "MISC - XX-XX-1994 - Gravity Studios.txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
@@ -363,22 +332,19 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins & Billy Corgan - US TV Performances (2005-2012) (HDTV SOURCE)",
     "format": "DVD",
-    "category": "DVDS",
-    "textFile": "MISC - The Smashing Pumpkins & Billy Corgan - US TV Performances (2005-2012) (HDTV SOURCE) [DVD].txt"
+    "category": "DVDS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 1996-XX-XX - Vieuphoria 2",
     "format": "DVD",
-    "category": "DVDS",
-    "textFile": "MISC - The Smashing Pumpkins - 1996-XX-XX - Vieuphoria 2 [DVD].txt"
+    "category": "DVDS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Graceful Swans Of Never",
     "format": "MP4",
-    "category": "DVDS",
-    "textFile": "MISC - The Smashing Pumpkins - Graceful Swans Of Never [MP4].txt"
+    "category": "DVDS"
   },
   {
     "type": "release",
@@ -391,15 +357,13 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - MTV's Rockumentary",
     "format": "MP4",
-    "category": "DVDS",
-    "textFile": "MISC - The Smashing Pumpkins - MTV's Rockumentary [MP4].txt"
+    "category": "DVDS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - The 666 Tapes",
     "format": "MP4",
-    "category": "DVDS",
-    "textFile": "MISC - The Smashing Pumpkins - The 666 Tapes [MP4].txt"
+    "category": "DVDS"
   },
   {
     "type": "release",
@@ -633,15 +597,13 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "09-XX - London, England - Hotel Room",
     "year": 1991,
-    "category": "OTHER",
-    "textFile": "MISC - 1991-09-XX - London, England - Hotel Room.txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "XX-XX - The Friends and Enemies of Modern Music",
     "year": 2000,
-    "category": "OTHER",
-    "textFile": "MISC - 2000-XX-XX - The Friends and Enemies of Modern Music.txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
@@ -653,21 +615,18 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Machina II - Virgin Records Promo",
-    "category": "OTHER",
-    "textFile": "MISC - Machina II - Virgin Records Promo.txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Machina II Reissue Updates (Billy-IG)",
-    "category": "OTHER",
-    "textFile": "MISC - Machina II Reissue Updates (Billy-IG).txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Pisces Iscariot + Friends (Side A & B)",
     "format": "FLAC",
-    "category": "OTHER",
-    "textFile": "MISC - Pisces Iscariot + Friends (Side A & B) [FLAC].txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
@@ -693,15 +652,13 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 3 Songs O' Rarities",
-    "category": "OTHER",
-    "textFile": "MISC - The Smashing Pumpkins - 3 Songs O' Rarities.txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 666 Tape - 1995-XX-XX (PRO)",
     "format": "DVD",
-    "category": "OTHER",
-    "textFile": "MISC - The Smashing Pumpkins - 666 Tape - 1995-XX-XX (PRO) [DVD].txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
@@ -713,8 +670,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - B-Sides Tape (Virgin Promo)",
     "format": "FLAC",
-    "category": "OTHER",
-    "textFile": "MISC - The Smashing Pumpkins - B-Sides Tape (Virgin Promo) [FLAC].txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
@@ -759,14 +715,12 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Guitar Center Sessions (2013)",
     "year": 2013,
     "format": "TS",
-    "category": "OTHER",
-    "textFile": "MISC - The Smashing Pumpkins - Guitar Center Sessions (2013) [TS].txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - In Ashes (Animated Series)",
-    "category": "OTHER",
-    "textFile": "MISC - The Smashing Pumpkins - In Ashes (Animated Series).txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
@@ -785,8 +739,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - MCIS Rough Mix 7-25-95",
     "format": "16 bit",
-    "category": "OTHER",
-    "textFile": "MISC - The Smashing Pumpkins - MCIS Rough Mix 7-25-95 [16 bit].txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
@@ -799,8 +752,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - NSPAA Bonus Trax",
     "format": "SBD",
-    "category": "OTHER",
-    "textFile": "MISC - The Smashing Pumpkins - NSPAA Bonus Trax [SBD].txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
@@ -822,8 +774,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Reel Time Studios (1989)",
     "year": 1989,
-    "category": "OTHER",
-    "textFile": "MISC - The Smashing Pumpkins - Reel Time Studios (1989).txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
@@ -835,14 +786,12 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Smashing Pumpkins - The 666 Tape",
-    "category": "OTHER",
-    "textFile": "MISC - The Smashing Pumpkins - The 666 Tape.txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - The Smashing Pumpkins Tape",
-    "category": "OTHER",
-    "textFile": "MISC - The Smashing Pumpkins - The Smashing Pumpkins Tape.txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
@@ -886,8 +835,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 'Screen Raver' for Geek USA",
-    "category": "SPRC RELEASES",
-    "textFile": "MISC - The Smashing Pumpkins - 'Screen Raver' for Geek USA.txt"
+    "category": "SPRC RELEASES"
   },
   {
     "type": "release",
@@ -903,8 +851,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Kitty Kat (Original Mix)",
-    "category": "SPRC RELEASES",
-    "textFile": "MISC - The Smashing Pumpkins - Kitty Kat (Original Mix).txt"
+    "category": "SPRC RELEASES"
   },
   {
     "type": "release",
@@ -941,13 +888,13 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Acoustic 91 (thir13en remaster)",
     "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - Friends And Enemies Of Modern Music (thir13en remaster) [FLAC].txt"
+    "textFile": "MISC - The Smashing Pumpkins - Acoustic 91 (thir13en remaster).txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Adore - Live (thir13en)",
     "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - Off Their Rawkers II (The Covers) (thir13en).txt"
+    "textFile": "MISC - The Smashing Pumpkins - Adore - Live (thir13en).txt"
   },
   {
     "type": "release",
@@ -959,31 +906,31 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Gravity Demos (thir13en remaster)",
     "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - MCIS Demos I (thir13en remaster).txt"
+    "textFile": "MISC - The Smashing Pumpkins - Friends And Enemies Of Modern Music (thir13en remaster) [FLAC].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - MCIS Demos II (thir13en remaster)",
     "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - Machina Acoustic Demos (thir13en remaster) [FLAC].txt"
+    "textFile": "MISC - The Smashing Pumpkins - Gravity Demos (thir13en remaster).txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Machina II (thir13en remaster)",
     "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - Mashed Potatoes (thir13en remaster).txt"
+    "textFile": "MISC - The Smashing Pumpkins - MCIS Demos I (thir13en remaster).txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Moon Demo (thir13en remaster)",
     "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - Off Their Rawkers (thir13en remaster).txt"
+    "textFile": "MISC - The Smashing Pumpkins - MCIS Demos II (thir13en remaster).txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Reel Time Sessions (thir13en remaster)",
     "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - Reel Time Sessions (thir13en remaster).txt"
+    "textFile": "MISC - The Smashing Pumpkins - Machina Acoustic Demos (thir13en remaster) [FLAC].txt"
   },
   {
     "type": "release",
@@ -1004,8 +951,7 @@ const ARTIST_MISC_DATA = [
     "label": "XX-XX - Rhinoceros (Alt. Video)",
     "year": 1989,
     "format": "FLV",
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1989-XX-XX - Rhinoceros (Alt. Video) [FLV].txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
@@ -1025,8 +971,7 @@ const ARTIST_MISC_DATA = [
     "label": "06-22 - Chicago, IL - Reckless Records",
     "year": 1991,
     "format": "MKV",
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1991-06-22 - Chicago, IL - Reckless Records [MP4] [MKV].txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
@@ -1066,8 +1011,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "11-27 - Cincinnati Gardens, Cincinnati, OH, US",
     "year": 1991,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1991-11-27 - Cincinnati Gardens, Cincinnati, OH, US.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
@@ -1133,8 +1077,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "xx-xx - On The Road",
     "year": 1992,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1992-xx-xx - On The Road.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
@@ -1146,8 +1089,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "01-xx - Triclops Sound Studios, Altanta, GA, US",
     "year": 1993,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1993-01-xx - Triclops Sound Studios, Altanta, GA, US.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
@@ -1249,8 +1191,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "02-05 - Big Day Out, Mount Smart Stadium, Auckland, NZ",
     "year": 1994,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1994-02-05 - Big Day Out, Mount Smart Stadium, Auckland, NZ.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
@@ -1286,8 +1227,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "04-15 - William & Mary Hall, Williamsburg, VA, US",
     "year": 1994,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1994-04-15 - William & Mary Hall, Williamsburg, VA, US.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
@@ -1305,22 +1245,19 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "07-07 - 120mins, Sam Boyd Stadium, Las Vegas, NV, US",
     "year": 1994,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1994-07-07 - 120mins, Sam Boyd Stadium, Las Vegas, NV, US.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
     "label": "07-07 - Sam Boyd Stadium, Las Vegas, NV, US",
     "year": 1994,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1994-07-07 - Sam Boyd Stadium, Las Vegas, NV, US.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
     "label": "08-10 - 1994-08-11 - Vieuphoria Lost Tapes",
     "year": 1994,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1994-08-10 - 1994-08-11 - Vieuphoria Lost Tapes.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
@@ -1344,22 +1281,19 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "08-23 - SFX Centre, Dublin, IE",
     "year": 1995,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1995-08-23 - SFX Centre, Dublin, IE.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
     "label": "08-25 - Reading Festival, Reading, UK",
     "year": 1995,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1995-08-25 - Reading Festival, Reading, UK.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
     "label": "11-11 - SNL, NBC Studios New York City, NY, US",
     "year": 1995,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1995-11-11 - SNL, NBC Studios New York City, NY, US.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
@@ -1383,29 +1317,25 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "01-03 - Phoenix, Toronto, CA",
     "year": 1996,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1996-01-03 - Phoenix, Toronto, CA.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
     "label": "01-30 - Soma, San Diego, CA, US",
     "year": 1996,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1996-01-30 - Soma, San Diego, CA, US.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
     "label": "04-12 - Spektrum, Oslo, NO",
     "year": 1996,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1996-04-12 - Spektrum, Oslo, NO.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
     "label": "04-24 - Palatrussardi, Milan, IT",
     "year": 1996,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1996-04-24 - Palatrussardi, Milan, IT.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
@@ -1429,8 +1359,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "05-06 - Bercy, Paris, FR",
     "year": 1996,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1996-05-06 - Bercy, Paris, FR.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
@@ -1454,8 +1383,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "09-04 - MTV Video Music Awards, New York City, NY, US",
     "year": 1996,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1996-09-04 - MTV Video Music Awards, New York City, NY, US.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
@@ -1563,15 +1491,13 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "07-21 - Blossom Music Theater, Cuyahoga Falls, OH, US",
     "year": 1998,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1998-07-21 - Blossom Music Theater, Cuyahoga Falls, OH, US.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
     "label": "07-22 - Riverbend Music Center, Cincinnati, OH, US",
     "year": 1998,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 1998-07-22 - Riverbend Music Center, Cincinnati, OH, US.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
@@ -1673,8 +1599,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "02-23 - FYE (Colonie Center), Albany, NY, US",
     "year": 2000,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 2000-02-23 - FYE (Colonie Center), Albany, NY, US.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
@@ -1698,15 +1623,13 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "05-08 - Hard Rock Live, Orlando, FL, US",
     "year": 2000,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 2000-05-08 - Hard Rock Live, Orlando, FL, US.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
     "label": "05-12 - Bronco Bowl, Dallas, TX, US",
     "year": 2000,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 2000-05-12 - Bronco Bowl, Dallas, TX, US.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
@@ -1736,8 +1659,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "11-29 - The Lab, United Center After Party, Chicago, IL, US",
     "year": 2000,
-    "category": "VIDEO CLIPS",
-    "textFile": "MISC - 2000-11-29 - The Lab, United Center After Party, Chicago, IL, US.txt"
+    "category": "VIDEO CLIPS"
   },
   {
     "type": "release",
@@ -1921,8 +1843,7 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Gish (1991)",
     "year": 1991,
     "format": "VINYL",
-    "category": "VINYL RIPS",
-    "textFile": "MISC - The Smashing Pumpkins - Gish (1991) [VINYL].txt"
+    "category": "VINYL RIPS"
   },
   {
     "type": "release",
@@ -1972,8 +1893,7 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Pisces Iscariot (1994) (US)",
     "year": 1994,
     "format": "VINYL",
-    "category": "VINYL RIPS",
-    "textFile": "MISC - The Smashing Pumpkins - Pisces Iscariot (1994) (US) [VINYL].txt"
+    "category": "VINYL RIPS"
   },
   {
     "type": "release",
@@ -1987,8 +1907,7 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Siamese Dream (1993) (US)",
     "year": 1993,
     "format": "VINYL",
-    "category": "VINYL RIPS",
-    "textFile": "MISC - The Smashing Pumpkins - Siamese Dream (1993) (US) [VINYL].txt"
+    "category": "VINYL RIPS"
   },
   {
     "type": "release",
@@ -2023,7 +1942,24 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Zodeon At Crystal Hall (24-192) (2025)",
     "year": 2025,
     "format": "VINYL",
-    "category": "VINYL RIPS",
-    "textFile": "MISC - The Smashing Pumpkins - Zodeon At Crystal Hall (24-192) (2025) [VINYL].txt"
+    "category": "VINYL RIPS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Mashed Potatoes (thir13en remaster)",
+    "category": "THIR13EN",
+    "textFile": "MISC - The Smashing Pumpkins - Mashed Potatoes (thir13en remaster).txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Off Their Rawkers (thir13en remaster)",
+    "category": "THIR13EN",
+    "textFile": "MISC - The Smashing Pumpkins - Reel Time Sessions (thir13en remaster).txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Off Their Rawkers II (The Covers) (thir13en)",
+    "category": "THIR13EN",
+    "textFile": "MISC - The Smashing Pumpkins - Off Their Rawkers II (The Covers) (thir13en).txt"
   }
 ];

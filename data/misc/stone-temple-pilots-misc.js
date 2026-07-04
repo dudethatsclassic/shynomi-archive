@@ -115,8 +115,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Stone Temple Pilots - Unplugged & More (1995)",
     "year": 1995,
-    "version": "Silver CD",
-    "textFile": "MISC - Stone Temple Pilots - Unplugged & More (1995) [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",

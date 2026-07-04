@@ -199,8 +199,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "- Mother's Milk - Rough Instrumentals",
     "format": "1989",
-    "category": "RHCP ARCHIVE - NOVEMBER 2018",
-    "textFile": "MISC - [1989] - Mother's Milk - Rough Instrumentals.txt"
+    "category": "RHCP ARCHIVE - NOVEMBER 2018"
   },
   {
     "type": "release",
@@ -331,8 +330,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "RHCP - A Definitive Collection of Raw Material",
-    "format": "PRO",
-    "textFile": "MISC - RHCP - A Definitive Collection of Raw Material [PRO].txt"
+    "format": "PRO"
   },
   {
     "type": "release",
@@ -341,8 +339,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "RHCP - Flea (Demos)",
-    "textFile": "MISC - RHCP - Flea (Demos).txt"
+    "label": "RHCP - Flea (Demos)"
   },
   {
     "type": "release",
@@ -358,24 +355,20 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "RHCP - Milafornication",
-    "version": "Silver CD",
-    "textFile": "MISC - RHCP - Milafornication [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",
-    "label": "RHCP - UMPP Instrumental Demos (13)",
-    "textFile": "MISC - RHCP - UMPP Instrumental Demos (13).txt"
+    "label": "RHCP - UMPP Instrumental Demos (13)"
   },
   {
     "type": "release",
-    "label": "RHCP - Westwood One 1989-1991",
-    "textFile": "MISC - RHCP - Westwood One 1989-1991.txt"
+    "label": "RHCP - Westwood One 1989-1991"
   },
   {
     "type": "release",
     "label": "Red Hot Chili Peppers - Coverin'",
-    "version": "Silver CD",
-    "textFile": "MISC - Red Hot Chili Peppers - Coverin' [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",
@@ -410,13 +403,11 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Red Hot Chili Peppers - Off the Map (2001)",
     "year": 2001,
-    "format": "MKV",
-    "textFile": "MISC - Red Hot Chili Peppers - Off the Map (2001) [MKV].txt"
+    "format": "MKV"
   },
   {
     "type": "release",
-    "label": "Red Hot Chili Peppers - Outtakes and Demos - 1985-1988",
-    "textFile": "MISC - Red Hot Chili Peppers - Outtakes and Demos - 1985-1988.txt"
+    "label": "Red Hot Chili Peppers - Outtakes and Demos - 1985-1988"
   },
   {
     "type": "release",

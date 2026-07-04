@@ -24,19 +24,16 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Bjork - 1980-1990 - Bjork Early and Rare",
-    "textFile": "MISC - Bjork - 1980-1990 - Bjork Early and Rare.txt"
+    "label": "Bjork - 1980-1990 - Bjork Early and Rare"
   },
   {
     "type": "release",
     "label": "Bjork - 1993 - Violently Live",
-    "version": "Silver CD",
-    "textFile": "MISC - Bjork - 1993 - Violently Live [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",
     "label": "Bjork - 2009 - A\u0301tta Raddir (2009)",
-    "year": 2009,
-    "textFile": "MISC - Bjork - 2009 - A\u0301tta Raddir (2009).txt"
+    "year": 2009
   }
 ];

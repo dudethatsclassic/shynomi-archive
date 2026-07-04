@@ -497,19 +497,16 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Sweet Alice Demos (Speed corrected)",
-    "year": 1989,
-    "textFile": "MISC - 1989 - Sweet Alice Demos (Speed corrected).txt"
+    "year": 1989
   },
   {
     "type": "release",
     "label": "Tasty White Powder Demos",
-    "year": 1990,
-    "textFile": "MISC - 1990 - Tasty White Powder Demos.txt"
+    "year": 1990
   },
   {
     "type": "release",
-    "label": "Alice In Chains - Alice in Bed (Remastered)",
-    "textFile": "MISC - Alice In Chains - Alice in Bed (Remastered).txt"
+    "label": "Alice In Chains - Alice in Bed (Remastered)"
   },
   {
     "type": "release",
@@ -519,15 +516,13 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Alice In Chains - Heroin (Demos & Live Stuff)",
-    "version": "COMP",
-    "textFile": "MISC - Alice In Chains - Heroin (Demos & Live Stuff) [COMP].txt"
+    "version": "COMP"
   },
   {
     "type": "release",
     "label": "Alice In Chains - Live Facelift (1991)",
     "year": 1991,
-    "format": "DVD",
-    "textFile": "MISC - Alice In Chains - Live Facelift (1991) [DVD].txt"
+    "format": "DVD"
   },
   {
     "type": "release",
@@ -543,15 +538,13 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Alice In Chains - Westwood One Absolutely Live In Concert #01-36",
     "version": "preFM",
-    "format": "preFM",
-    "textFile": "MISC - Alice In Chains - Westwood One Absolutely Live In Concert #01-36 [preFM].txt"
+    "format": "preFM"
   },
   {
     "type": "release",
     "label": "Alice in Chains - 1990-1992",
     "version": "preFM",
-    "format": "preFM",
-    "textFile": "MISC - Alice in Chains - 1990-1992 [preFM COMP].txt"
+    "format": "preFM"
   },
   {
     "type": "release",
@@ -562,7 +555,6 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Over Easy and Super Slezy Heavy Metal",
-    "version": "COMP",
-    "textFile": "MISC - Over Easy and Super Slezy Heavy Metal [COMP].txt"
+    "version": "COMP"
   }
 ];

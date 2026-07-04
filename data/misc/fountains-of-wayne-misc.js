@@ -218,7 +218,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Fountains of Wayne - Pinwheel Sessions and Loftypops Demos",
-    "textFile": "MISC - Fountains of Wayne - Pinwheel Sessions and Loftypops Demos.txt"
+    "label": "Fountains of Wayne - Pinwheel Sessions and Loftypops Demos"
   }
 ];

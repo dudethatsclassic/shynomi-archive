@@ -434,9 +434,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "House of Blues",
-      "notes": "Mandalay · SP-CMC-8 · charlesdeweycoleiv",
+      "notes": "Mandalay \u00b7 SP-CMC-8 \u00b7 charlesdeweycoleiv",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-06-18 - Las Vegas, NV - House of Blues - Mandalay Bay (SP-CMC-8) (charlesdeweycoleiv) [AUD24].txt"
     }
   ]
 };

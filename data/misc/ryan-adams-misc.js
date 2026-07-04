@@ -67,8 +67,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "03-XX - Space Madness Sessions",
-    "year": 1994,
-    "textFile": "MISC - 1994-03-XX - Space Madness Sessions.txt"
+    "year": 1994
   },
   {
     "type": "release",
@@ -77,23 +76,19 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Destroyer Sessions (2000)",
-    "year": 2000,
-    "textFile": "MISC - Destroyer Sessions (2000).txt"
+    "year": 2000
   },
   {
     "type": "release",
-    "label": "Ryan Adams - Black Clouds - Love Is Hell Sessions",
-    "textFile": "MISC - Ryan Adams - Black Clouds - Love Is Hell Sessions.txt"
+    "label": "Ryan Adams - Black Clouds - Love Is Hell Sessions"
   },
   {
     "type": "release",
-    "label": "Ryan Adams - Elizabethtown Sessions Live",
-    "textFile": "MISC - Ryan Adams - Elizabethtown Sessions Live.txt"
+    "label": "Ryan Adams - Elizabethtown Sessions Live"
   },
   {
     "type": "release",
-    "label": "Ryan Adams - Exile On Franklin Street",
-    "textFile": "MISC - Ryan Adams - Exile On Franklin Street.txt"
+    "label": "Ryan Adams - Exile On Franklin Street"
   },
   {
     "type": "release",
@@ -104,18 +99,15 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Ryan Adams - Nashville, TN - The Suicide Handbook Sessions (2001)",
-    "year": 2001,
-    "textFile": "MISC - Ryan Adams - Nashville, TN - The Suicide Handbook Sessions (2001).txt"
+    "year": 2001
   },
   {
     "type": "release",
-    "label": "Ryan Adams - Rough & Mellow (1994-2014) - Unreleased Live Songs",
-    "textFile": "MISC - Ryan Adams - Rough & Mellow (1994-2014) - Unreleased Live Songs.txt"
+    "label": "Ryan Adams - Rough & Mellow (1994-2014) - Unreleased Live Songs"
   },
   {
     "type": "release",
-    "label": "Ryan Adams - Sing You A Song (1998-2014) - Jam & Improv Collection",
-    "textFile": "MISC - Ryan Adams - Sing You A Song (1998-2014) - Jam & Improv Collection.txt"
+    "label": "Ryan Adams - Sing You A Song (1998-2014) - Jam & Improv Collection"
   },
   {
     "type": "release",
@@ -126,12 +118,10 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Lazy Stars Sessions (1994)",
-    "year": 1994,
-    "textFile": "MISC - The Lazy Stars Sessions (1994).txt"
+    "year": 1994
   },
   {
     "type": "release",
-    "label": "Whiskeytown - LP3",
-    "textFile": "MISC - Whiskeytown - LP3.txt"
+    "label": "Whiskeytown - LP3"
   }
 ];

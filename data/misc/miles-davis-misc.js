@@ -24,19 +24,16 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Miles Davis - 1960 Stockholm Complete",
-    "format": "6CD Box Set",
-    "textFile": "MISC - Miles Davis - 1960 Stockholm Complete [6CD Box Set].txt"
+    "format": "6CD Box Set"
   },
   {
     "type": "release",
-    "label": "Miles Davis - Deep Brew Vol. 1&2",
-    "textFile": "MISC - Miles Davis - Deep Brew Vol. 1&2.txt"
+    "label": "Miles Davis - Deep Brew Vol. 1&2"
   },
   {
     "type": "release",
     "label": "Miles Davis - Making Kind of Blue (1959)",
-    "year": 1959,
-    "textFile": "MISC - Miles Davis - Making Kind of Blue (1959).txt"
+    "year": 1959
   },
   {
     "type": "release",

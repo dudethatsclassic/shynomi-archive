@@ -12,5 +12,14 @@ const ARTIST_MISC_DATA = [
     "version": "SBD",
     "format": "FLAC",
     "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Marvin Gaye - The Midnight Special (1974)",
+    "year": 1974
+  },
+  {
+    "type": "release",
+    "label": "Marvin Gaye - The Soundboard Archive"
   }
 ];

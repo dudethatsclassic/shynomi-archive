@@ -20,8 +20,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Faith No More - Lovers of the Insane",
-    "version": "Silver CD",
-    "textFile": "MISC - Faith No More - Lovers of the Insane [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",

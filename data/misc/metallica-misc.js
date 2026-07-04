@@ -207,8 +207,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "-1982 - Metallica - The Real No Life Til Leather",
-    "year": 1981,
-    "textFile": "MISC - 1981--1982 - Metallica - The Real No Life Til Leather.txt"
+    "year": 1981
   },
   {
     "type": "release",
@@ -218,29 +217,25 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Riff Tape from Ron McGovney",
-    "year": 1982,
-    "textFile": "MISC - 1982 Riff Tape from Ron McGovney.txt"
+    "year": 1982
   },
   {
     "type": "release",
     "label": "-1983 - Metallica - In For the Kill 199X -",
     "year": 1982,
-    "format": "IMPERIUM - IMP007",
-    "textFile": "MISC - 1982--1983 - Metallica - In For the Kill 199X - [IMPERIUM - IMP007].txt"
+    "format": "IMPERIUM - IMP007"
   },
   {
     "type": "release",
     "label": "-1983 - Metallica - Obsession - (Judah)",
     "year": 1982,
-    "format": "SBD",
-    "textFile": "MISC - 1982--1983 - Metallica - Obsession - (Judah) [SBD].txt"
+    "format": "SBD"
   },
   {
     "type": "release",
     "label": "XX-XX - Los Angeles, CA (One Last Visit)",
     "year": 1982,
-    "format": "SBD",
-    "textFile": "MISC - 1982-XX-XX - Los Angeles, CA (One Last Visit) [SBD].txt"
+    "format": "SBD"
   },
   {
     "type": "release",
@@ -254,28 +249,23 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Fan Can 1",
-    "textFile": "MISC - Fan Can 1.txt"
+    "label": "Fan Can 1"
   },
   {
     "type": "release",
-    "label": "Fan Can 2",
-    "textFile": "MISC - Fan Can 2.txt"
+    "label": "Fan Can 2"
   },
   {
     "type": "release",
-    "label": "Fan Can 3",
-    "textFile": "MISC - Fan Can 3.txt"
+    "label": "Fan Can 3"
   },
   {
     "type": "release",
-    "label": "Fan Can 4",
-    "textFile": "MISC - Fan Can 4.txt"
+    "label": "Fan Can 4"
   },
   {
     "type": "release",
-    "label": "Fan Can 5",
-    "textFile": "MISC - Fan Can 5.txt"
+    "label": "Fan Can 5"
   },
   {
     "type": "release",
@@ -284,44 +274,36 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - 1985-07-14 Master Of Puppets Demos (Studio)",
-    "textFile": "MISC - Metallica - 1985-07-14 Master Of Puppets Demos (Studio).txt"
+    "label": "Metallica - 1985-07-14 Master Of Puppets Demos (Studio)"
   },
   {
     "type": "release",
-    "label": "Metallica - April 1982 - Power Metal Demo",
-    "textFile": "MISC - Metallica - April 1982 - Power Metal Demo.txt"
+    "label": "Metallica - April 1982 - Power Metal Demo"
   },
   {
     "type": "release",
-    "label": "Metallica - Bay Area Trashers",
-    "textFile": "MISC - Metallica - Bay Area Trashers.txt"
+    "label": "Metallica - Bay Area Trashers"
   },
   {
     "type": "release",
-    "label": "Metallica - Damaged Justice 88-89",
-    "textFile": "MISC - Metallica - Damaged Justice 88-89.txt"
+    "label": "Metallica - Damaged Justice 88-89"
   },
   {
     "type": "release",
-    "label": "Metallica - Early Demos",
-    "textFile": "MISC - Metallica - Early Demos.txt"
+    "label": "Metallica - Early Demos"
   },
   {
     "type": "release",
-    "label": "Metallica - For Fans Only 1992-1996",
-    "textFile": "MISC - Metallica - For Fans Only 1992-1996.txt"
+    "label": "Metallica - For Fans Only 1992-1996"
   },
   {
     "type": "release",
     "label": "Metallica - Garage Days Pt. II (1996)",
-    "year": 1996,
-    "textFile": "MISC - Metallica - Garage Days Pt. II (1996).txt"
+    "year": 1996
   },
   {
     "type": "release",
-    "label": "Metallica - Horsemen Of The Apokalypse",
-    "textFile": "MISC - Metallica - Horsemen Of The Apokalypse.txt"
+    "label": "Metallica - Horsemen Of The Apokalypse"
   },
   {
     "type": "release",
@@ -329,8 +311,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Live In Brazil (1993 \u2013 2017) MQA (Hi-Res)",
-    "textFile": "MISC - Metallica - Live In Brazil (1993 \u2013 2017) MQA (Hi-Res).txt"
+    "label": "Metallica - Live In Brazil (1993 \u2013 2017) MQA (Hi-Res)"
   },
   {
     "type": "release",
@@ -345,35 +326,29 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Metallica - Middle Shit (1994)",
-    "year": 1994,
-    "textFile": "MISC - Metallica - Middle Shit (1994).txt"
+    "year": 1994
   },
   {
     "type": "release",
     "label": "Metallica - Ride the Lightning Demo (1984)",
     "year": 1984,
-    "format": "FLAC",
-    "textFile": "MISC - Metallica - Ride the Lightning Demo (1984) [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
-    "label": "Metallica - Sucking My Love",
-    "textFile": "MISC - Metallica - Sucking My Love.txt"
+    "label": "Metallica - Sucking My Love"
   },
   {
     "type": "release",
-    "label": "Metallica - Tested And Covered",
-    "textFile": "MISC - Metallica - Tested And Covered.txt"
+    "label": "Metallica - Tested And Covered"
   },
   {
     "type": "release",
-    "label": "Metallica - The Broadcast Archive",
-    "textFile": "MISC - Metallica - The Broadcast Archive.txt"
+    "label": "Metallica - The Broadcast Archive"
   },
   {
     "type": "release",
-    "label": "Metallica - The Complete Demo Collection",
-    "textFile": "MISC - Metallica - The Complete Demo Collection.txt"
+    "label": "Metallica - The Complete Demo Collection"
   },
   {
     "type": "release",
@@ -381,12 +356,16 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Thirteen Year Stretch (1984 - 1997)",
-    "textFile": "MISC - Metallica - Thirteen Year Stretch (1984 - 1997).txt"
+    "label": "Metallica - Thirteen Year Stretch (1984 - 1997)"
   },
   {
     "type": "release",
     "label": "Metallica Napster Case (2001)",
     "year": 2001
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Studio Shit - November 1995 (24bit)",
+    "format": "FLAC"
   }
 ];

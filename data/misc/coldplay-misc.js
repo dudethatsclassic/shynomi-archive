@@ -841,8 +841,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "2003 - Hollywood Free Shows - Virgin Megastore",
-    "year": 2001,
-    "textFile": "MISC - 2001-2003 - Hollywood Free Shows - Virgin Megastore.txt"
+    "year": 2001
   },
   {
     "type": "release",
@@ -851,8 +850,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Coldplay - Early Days 2000",
-    "format": "COMPILATION",
-    "textFile": "MISC - Coldplay - Early Days 2000 [COMPILATION].txt"
+    "format": "COMPILATION"
   },
   {
     "type": "release",
@@ -864,8 +862,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Coldplay - How You See The World No.2 (Previously Unreleased)",
-    "textFile": "MISC - Coldplay - How You See The World No.2 (Previously Unreleased).txt"
+    "label": "Coldplay - How You See The World No.2 (Previously Unreleased)"
   },
   {
     "type": "release",
@@ -884,13 +881,11 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Coldplay - Rarities (Box-set Collection)",
-    "version": "COMP",
-    "textFile": "MISC - Coldplay - Rarities (Box-set Collection) [COMP].txt"
+    "version": "COMP"
   },
   {
     "type": "release",
-    "label": "Coldplay - Spies (Demo Version) Industry Only",
-    "textFile": "MISC - Coldplay - Spies (Demo Version) Industry Only.txt"
+    "label": "Coldplay - Spies (Demo Version) Industry Only"
   },
   {
     "type": "release",
@@ -899,22 +894,18 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Coldplay - Twisted Logic In Copenhagen",
-    "version": "Silver CD",
-    "textFile": "MISC - Coldplay - Twisted Logic In Copenhagen [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",
-    "label": "Coldplay - Viva La Vida (Demos and Outtakes)",
-    "textFile": "MISC - Coldplay - Viva La Vida (Demos and Outtakes).txt"
+    "label": "Coldplay - Viva La Vida (Demos and Outtakes)"
   },
   {
     "type": "release",
-    "label": "When We Were Young - The Early Days Compilation",
-    "textFile": "MISC - When We Were Young - The Early Days Compilation.txt"
+    "label": "When We Were Young - The Early Days Compilation"
   },
   {
     "type": "release",
-    "label": "Yellow (Acoustic) (from Starbucks, Every Mother Counts CD)",
-    "textFile": "MISC - Yellow (Acoustic) (from Starbucks, Every Mother Counts CD).txt"
+    "label": "Yellow (Acoustic) (from Starbucks, Every Mother Counts CD)"
   }
 ];

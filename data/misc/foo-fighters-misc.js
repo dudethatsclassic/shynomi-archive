@@ -79,7 +79,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Inédits (Promo CD) (France, SPCD 2111)",
+    "label": "Ine\u0301dits (Promo CD) (France, SPCD 2111)",
     "year": 1997,
     "category": "SINGLES + EPS"
   },
@@ -1159,8 +1159,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "06. April 1992 & November 8th 1992 - Laundry Room Studio",
-    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings",
-    "textFile": "MISC - 06. April 1992 & November 8th 1992 - Laundry Room Studio.txt"
+    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
   },
   {
     "type": "release",
@@ -1315,8 +1314,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Razor (Live) (Digital)",
     "year": 2005,
-    "category": "SINGLES + EPS",
-    "textFile": "MISC - 2005 Razor (Live) (Digital).txt"
+    "category": "SINGLES + EPS"
   },
   {
     "type": "release",
@@ -1328,29 +1326,25 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Cheer Up, Boys (Your Make Up Is Running) (Digital)",
     "year": 2008,
-    "category": "SINGLES + EPS",
-    "textFile": "MISC - 2008 Cheer Up, Boys (Your Make Up Is Running) (Digital).txt"
+    "category": "SINGLES + EPS"
   },
   {
     "type": "release",
     "label": "Let It Die EP (Digital)",
     "year": 2008,
-    "category": "SINGLES + EPS",
-    "textFile": "MISC - 2008 Let It Die EP (Digital).txt"
+    "category": "SINGLES + EPS"
   },
   {
     "type": "release",
     "label": "a Songs from the Laundry Room EP (WEB)",
     "year": 2015,
-    "category": "SINGLES + EPS",
-    "textFile": "MISC - 2015a Songs from the Laundry Room EP (WEB).txt"
+    "category": "SINGLES + EPS"
   },
   {
     "type": "release",
     "label": "b Saint Cecilia EP (Digital)",
     "year": 2015,
-    "category": "SINGLES + EPS",
-    "textFile": "MISC - 2015b Saint Cecilia EP (Digital).txt"
+    "category": "SINGLES + EPS"
   },
   {
     "type": "show",
@@ -1471,7 +1465,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Foo Fighters – Rope (Deadmau5 Mix Edit) (2011)",
+    "label": "Foo Fighters \u2013 Rope (Deadmau5 Mix Edit) (2011)",
     "format": "FLAC",
     "year": 2011,
     "category": "OTHER"
@@ -1491,7 +1485,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1996,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - Brixton (1996) (KTS 518) [Silver].txt"
   },
   {
     "type": "release",
@@ -1532,7 +1527,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1995,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - Enter The Dragon (1995) (RSCD 006) [Silver].txt"
   },
   {
     "type": "release",
@@ -1549,7 +1545,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1996,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - Frenzy! (1996) (OXY 036) [Silver].txt"
   },
   {
     "type": "release",
@@ -1582,7 +1579,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1995,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - Pocketwatch Demos (1995) (PD095) [Silver].txt"
   },
   {
     "type": "release",
@@ -1944,7 +1942,8 @@ const ARTIST_MISC_DATA = [
     "label": "Foo Fighters - In Your Honor (2005) (24bit)",
     "format": "FLAC HD",
     "year": 2005,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Foo Fighters - Concrete And Gold (2017) (24bit) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -1979,8 +1978,7 @@ const ARTIST_MISC_DATA = [
     "label": "Foo Fighters - Concrete And Gold (2017) (24bit)",
     "format": "FLAC HD",
     "year": 2017,
-    "category": "OFFICIAL RELEASES",
-    "textFile": "MISC - Foo Fighters - Concrete And Gold (2017) (24bit) [FLAC HD].txt"
+    "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
@@ -2072,5 +2070,10 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC HD",
     "year": 2025,
     "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Pocketwatch (EMCD09)",
+    "textFile": "MISC - Foo Fighters - Pocketwatch (EMCD09).txt"
   }
 ];

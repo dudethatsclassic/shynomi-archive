@@ -171,8 +171,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "1965 - Bob Dylan - Solid Road",
-    "year": 1961,
-    "textFile": "MISC - 1961-1965 - Bob Dylan - Solid Road.txt"
+    "year": 1961
   },
   {
     "type": "release",
@@ -183,52 +182,43 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "XX-XX - Eat The Document",
     "year": 1966,
-    "format": "DVD",
-    "textFile": "MISC - 1966-XX-XX - Eat The Document [DVD].txt"
+    "format": "DVD"
   },
   {
     "type": "release",
     "label": "XX-XX - Build A Ladder To The Stars (Pink Panther Records)",
-    "year": 1974,
-    "textFile": "MISC - 1974-XX-XX - Build A Ladder To The Stars (Pink Panther Records).txt"
+    "year": 1974
   },
   {
     "type": "release",
     "label": "XX-XX - Real Cuts At Last",
     "year": 1987,
-    "format": "Vinyl",
-    "textFile": "MISC - 1987-XX-XX - Real Cuts At Last [Vinyl].txt"
+    "format": "Vinyl"
   },
   {
     "type": "release",
-    "label": "Bob Dylan & Traveling Wilburys - The Secret Tapes of Lucky Boo",
-    "textFile": "MISC - Bob Dylan & Traveling Wilburys - The Secret Tapes of Lucky Boo.txt"
+    "label": "Bob Dylan & Traveling Wilburys - The Secret Tapes of Lucky Boo"
   },
   {
     "type": "release",
-    "label": "Bob Dylan -  Blonde On Blonde (Original Stereo Mixes)",
-    "textFile": "MISC - Bob Dylan -  Blonde On Blonde (Original Stereo Mixes).txt"
+    "label": "Bob Dylan -  Blonde On Blonde (Original Stereo Mixes)"
   },
   {
     "type": "release",
-    "label": "Bob Dylan - 1974 Soundboard Collection",
-    "textFile": "MISC - Bob Dylan - 1974 Soundboard Collection.txt"
+    "label": "Bob Dylan - 1974 Soundboard Collection"
   },
   {
     "type": "release",
-    "label": "Bob Dylan - Abandoned Desire",
-    "textFile": "MISC - Bob Dylan - Abandoned Desire.txt"
+    "label": "Bob Dylan - Abandoned Desire"
   },
   {
     "type": "release",
-    "label": "Bob Dylan - Blood On the Tapes.shn",
-    "textFile": "MISC - Bob Dylan - Blood On the Tapes.shn.txt"
+    "label": "Bob Dylan - Blood On the Tapes.shn"
   },
   {
     "type": "release",
     "label": "Bob Dylan - Dimestore Medicine",
-    "version": "Silver CD",
-    "textFile": "MISC - Bob Dylan - Dimestore Medicine [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",
@@ -236,14 +226,12 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Bob Dylan - Highway 61 Demo Outtakes",
-    "textFile": "MISC - Bob Dylan - Highway 61 Demo Outtakes.txt"
+    "label": "Bob Dylan - Highway 61 Demo Outtakes"
   },
   {
     "type": "release",
     "label": "Bob Dylan - Isle of Wight (1969)",
-    "year": 1969,
-    "textFile": "MISC - Bob Dylan - Isle of Wight (1969).txt"
+    "year": 1969
   },
   {
     "type": "release",
@@ -254,13 +242,11 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Bob Dylan - New York Sessions (1974)",
     "year": 1974,
-    "format": "SBD",
-    "textFile": "MISC - Bob Dylan - New York Sessions (1974) [SBD].txt"
+    "format": "SBD"
   },
   {
     "type": "release",
-    "label": "Bob Dylan - Renaldo and Clara Soundtrack (soniclovenoize)",
-    "textFile": "MISC - Bob Dylan - Renaldo and Clara Soundtrack (soniclovenoize).txt"
+    "label": "Bob Dylan - Renaldo and Clara Soundtrack (soniclovenoize)"
   },
   {
     "type": "release",
@@ -273,7 +259,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Bob Dylan and the Band - Basement Tapes (Acetate)",
-    "textFile": "MISC - Bob Dylan and the Band - Basement Tapes (Acetate).txt"
+    "label": "Bob Dylan and the Band - Basement Tapes (Acetate)"
   }
 ];

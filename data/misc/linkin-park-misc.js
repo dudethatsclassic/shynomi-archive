@@ -72,8 +72,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Linkin Park - Hybrid Theory - Demos - 8 Track (1999)",
-    "year": 1999,
-    "textFile": "MISC - Linkin Park - Hybrid Theory - Demos - 8 Track (1999).txt"
+    "year": 1999
   },
   {
     "type": "release",
@@ -83,8 +82,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Linkin Park - Xero - Demo Tape (1997)",
-    "year": 1997,
-    "textFile": "MISC - Linkin Park - Xero - Demo Tape (1997).txt"
+    "year": 1997
   },
   {
     "type": "release",
@@ -109,14 +107,12 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Linkin_Park - Underground v9.0 (WMG Acetate) (2009)",
-    "year": 2009,
-    "textFile": "MISC - Linkin_Park - Underground v9.0 (WMG Acetate) (2009).txt"
+    "year": 2009
   },
   {
     "type": "release",
     "label": "Rapology -12 (1998)",
-    "year": 1998,
-    "textFile": "MISC - Rapology -12 (1998).txt"
+    "year": 1998
   },
   {
     "type": "release",
