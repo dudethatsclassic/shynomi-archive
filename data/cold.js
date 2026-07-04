@@ -38,6 +38,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2024-04-23 - West Hollywood, CA - Whisky A Go Go (DPA 4081) (faninor) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
