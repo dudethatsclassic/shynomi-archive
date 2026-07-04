@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "the-verve-pipe",
   "name": "The Verve Pipe",
   "drive": "B",
-  "showCount": 29,
+  "showCount": 30,
   "firstYear": 1997,
   "lastYear": 2026,
   "years": [
@@ -424,6 +424,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-04-07 - Cincinnati, OH - Bogart's (SP-CMC-8) (live2cd) [AUD24].txt"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 18,
+      "dateStr": "6-18-2026",
+      "city": "Las Vegas",
+      "state": "NV",
+      "location": "Las Vegas, NV",
+      "venue": "House of Blues",
+      "notes": "Mandalay · SP-CMC-8 · charlesdeweycoleiv",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
   ]
 };
