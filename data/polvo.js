@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1998-01-27 - Austin, TX - Electric Lounge [SBD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
