@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1984-10-XX - Milano, Italy - RAI 3 (unk) [SBD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
