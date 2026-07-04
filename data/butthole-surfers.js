@@ -81,6 +81,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1996-02-10 - Unknown City, Unknown Venue - Tejass - Live in Pepperland (Stryder LTD 026) [Silver].txt"
     }
-  ],
-  "misc": []
+  ]
 };
