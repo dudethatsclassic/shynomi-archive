@@ -63,7 +63,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Max's on Broadway",
-      "notes": "unk \u00b7 bonzo4880",
+      "notes": "unk · bonzo4880",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-11-11 - Baltimore, MD - Max's on Broadway (unk) (bonzo4880) [AUD].txt"
@@ -76,11 +76,11 @@ const ARTIST_DATA = {
       "city": "Tempe",
       "state": "AZ",
       "location": "Tempe, AZ",
-      "venue": "Chuy\u2019s",
-      "notes": "Aiwa mics \u00b7 unk",
+      "venue": "Chuy’s",
+      "notes": "Aiwa mics · unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-11-29 - Tempe, AZ - Chuy\u2019s (Aiwa mics) (unk) [AUD].txt"
+      "textFile": "1990-11-29 - Tempe, AZ - Chuy’s (Aiwa mics) (unk) [AUD].txt"
     },
     {
       "year": 1990,
@@ -133,7 +133,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Victoria, BC",
       "venue": "Harpo's Cabaret",
-      "notes": "Sony WM-F46 \u00b7 crowflies \u00b7 inc",
+      "notes": "Sony WM-F46 · crowflies · inc",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-03-13 - Victoria, BC - Harpo's Cabaret (Sony WM-F46) (crowflies) (inc) [AUD].txt"
@@ -147,7 +147,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "The Catalyst",
-      "notes": "Nakamichi CM300 \u00b7 markp",
+      "notes": "Nakamichi CM300 · markp",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-04-13 - Santa Cruz, CA - The Catalyst (Nakamichi CM300) (markp) [AUD].txt"
@@ -175,7 +175,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Central Park Ballroom",
-      "notes": "CASS(M) \u00b7 Shure SM98 \u00b7 ko",
+      "notes": "CASS(M) · Shure SM98 · ko",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-05-18 - Milwaukee, WI - Central Park Ballroom - CASS(M) (Shure SM98) (ko) [AUD].txt"
@@ -217,7 +217,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "FX",
-      "notes": "ANA(M) \u00b7 ECM-909 \u00b7 tjcruz",
+      "notes": "ANA(M) · ECM-909 · tjcruz",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -230,10 +230,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Valencia, CA",
       "venue": "Magic Mountain",
-      "notes": "Early Show \u00b7 Sony ECM-909A \u00b7 marco moir",
+      "notes": "Early Show · Sony ECM-909A · marco moir",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1993-04-03 - Valencia, CA - Magic Mountain  (Early Show) (Sony ECM-909A) (marco moir) [AUD].txt"
+      "textFile": "1993-04-03 - Valencia, CA - Magic Mountain  (Evening Show) (Sony ECM-909A) (marco moir) [AUD].txt"
     },
     {
       "year": 1993,
@@ -244,7 +244,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Valencia, CA",
       "venue": "Magic Mountain",
-      "notes": "Evening Show \u00b7 Sony ECM-909A \u00b7 marco moir",
+      "notes": "Evening Show · Sony ECM-909A · marco moir",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1993-04-03 - Valencia, CA - Magic Mountain  (Evening Show) (Sony ECM-909A) (marco moir) [AUD].txt"
@@ -258,7 +258,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Coach House",
       "venue": "San Juan Capistrano",
-      "notes": "Sunday \u00b7 AT 314",
+      "notes": "Sunday · AT 314",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1993-04-04 - Coach House - San Juan Capistrano - Sunday Night Live 105 (AT 314) [FM].txt"
@@ -286,7 +286,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Toad's Place",
-      "notes": "Sony TCS-580V \u00b7 kamenliter",
+      "notes": "Sony TCS-580V · kamenliter",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-06-01 - New Haven, CT - Toad's Place (Sony TCS-580V) (kamenliter) [AUD].txt"
@@ -300,7 +300,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Academy",
-      "notes": "Sony mic \u00b7 pt",
+      "notes": "Sony mic · pt",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-06-04 - New York, NY - The Academy (Sony mic) (pt) [AUD].txt"
@@ -314,7 +314,7 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Georgetown University",
-      "notes": "Gaston \u00b7 Sony WM-D6 \u00b7 unk",
+      "notes": "Gaston · Sony WM-D6 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-06-08 - Washington, DC - Georgetown University - Gaston Hall (Sony WM-D6) (unk) [AUD].txt"
@@ -328,7 +328,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "ANA(M) \u00b7 ECM-909 \u00b7 tj cruz",
+      "notes": "ANA(M) · ECM-909 · tj cruz",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -341,7 +341,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Riverside Theater",
-      "notes": "SS-DSM6s \u00b7 jot",
+      "notes": "SS-DSM6s · jot",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-10-23 - Milwaukee, WI - Riverside Theater (SS-DSM6s) (jot) [AUD].txt"
