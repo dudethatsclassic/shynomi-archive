@@ -96,6 +96,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2024-10-16 - Los Angeles, CA - Wiltern  (DPA 4081) (faninor) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
