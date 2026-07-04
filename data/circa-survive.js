@@ -53,6 +53,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2022-05-24 - San Francisco, CA - August Hall (Anthony Green) - DAT(M) (SP-CMC-4U) (loughney) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
