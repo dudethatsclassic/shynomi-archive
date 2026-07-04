@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2024-02-02 - San Francisco, CA - The Regency - Homesick Festival (Schoeps MK4) (loughney) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
