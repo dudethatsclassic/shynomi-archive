@@ -52,6 +52,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2017-07-29 - Huber Heights, OH - Rose Music Center [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
