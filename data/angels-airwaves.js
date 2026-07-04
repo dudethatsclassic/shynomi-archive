@@ -52,6 +52,5 @@ const ARTIST_DATA = {
       "format": "TS",
       "textFile": "2019-12-07 - Anaheim, CA - KROQ Absolut Almost Acoustic Christmas [WEBCAST].txt"
     }
-  ],
-  "misc": []
+  ]
 };
