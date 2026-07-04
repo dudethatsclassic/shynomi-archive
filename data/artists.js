@@ -2662,9 +2662,9 @@ const ARTISTS = [
   {
     "id": "superdrag",
     "name": "Superdrag",
-    "showCount": 8,
+    "showCount": 9,
     "firstYear": 1996,
-    "lastYear": 2024
+    "lastYear": 2026
   },
   {
     "id": "swell",
