@@ -183,6 +183,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1980-06-23 - Bremen, Germany- Stadthalle - ANA(2) (krw_co) [SBD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
