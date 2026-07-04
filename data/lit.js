@@ -67,6 +67,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2025-02-15 - Bowler, WI - North Star Mohican Casino (Edirol R09HR) (unk) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
