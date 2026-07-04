@@ -247,6 +247,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2010-07-30 - Niigata, Japan - Naeba Ski Resort - Fuji Rock Festival - FRFNIGHT [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
