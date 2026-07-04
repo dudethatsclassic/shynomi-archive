@@ -69,7 +69,7 @@ const ARTIST_DATA = {
       "state": "MB",
       "location": "Winnipeg, MB",
       "venue": "Swingin on a Star",
-      "notes": "CBC \u00b7 stevemtl",
+      "notes": "CBC · stevemtl",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1990-09-23 - Winnipeg, MB - Swingin on a Star - CBC Studios (stevemtl) [FM].txt"
@@ -111,7 +111,7 @@ const ARTIST_DATA = {
       "state": "MB",
       "location": "Winnipeg, MB",
       "venue": "Walker Theatre",
-      "notes": "CBC-FM The Entertainers Broadcast \u00b7 stevemtl",
+      "notes": "CBC-FM The Entertainers Broadcast · stevemtl",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1994-01-15 - Winnipeg, MB - Walker Theatre (CBC-FM The Entertainers Broadcast) (stevemtl) [FM].txt"
@@ -139,7 +139,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheatre",
-      "notes": "ANA(M) \u00b7 unk",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-05-11 - Universal City, CA - Universal Amphitheatre - ANA(M) (unk) [AUD].txt"
@@ -167,7 +167,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Britain, CT",
       "venue": "The Sting",
-      "notes": "DAT(M) \u00b7 ted dralle",
+      "notes": "DAT(M) · ted dralle",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1994-07-01 - New Britain, CT - The Sting - DAT(M) (ted dralle) [SBD].txt"
@@ -209,7 +209,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Correggio, Italy",
       "venue": "Dalla Festa Dell Unita di Correggio",
-      "notes": "VHS(1) \u00b7 Italian TV",
+      "notes": "VHS(1) · Italian TV",
       "version": "PRO",
       "format": "DVD",
       "textFile": "1994-07-14 - Correggio, Italy - Dalla Festa Dell Unita di Correggio - VHS(1) (Italian TV) PRO [DVD].txt"
@@ -265,7 +265,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theater of Living Arts",
-      "notes": "AUD(M) \u00b7 MK4",
+      "notes": "AUD(M) · MK4",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-05-21 - Philadelphia, PA - Theater Of Living Arts - AUD(M) (MK4) [AUD].txt"
@@ -279,7 +279,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "The Linda",
-      "notes": "WAMC's \u00b7 CA-14",
+      "notes": "WAMC's · CA-14",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-12-04 - Albany, NY - The Linda WAMC's Performing Arts Studio (smores) [FM24].txt"
@@ -306,7 +306,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Asbury Hall",
-      "notes": "Babeville \u00b7 AT mics \u00b7 binko",
+      "notes": "Babeville · AT mics · binko",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-05-19 - Buffalo, NY - Asbury Hall - Babeville (AT mics) (binko) [AUD] .txt"
