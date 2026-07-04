@@ -67,6 +67,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2025-08-10 - Toronto, ON - Budweiser Stage (M) (Zoom H1n) (bowlingron) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
