@@ -37,6 +37,5 @@ const ARTIST_DATA = {
       "version": "TV",
       "format": "MKV"
     }
-  ],
-  "misc": []
+  ]
 };
