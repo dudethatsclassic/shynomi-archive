@@ -37,6 +37,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2024-11-30 - Toronto, ON - Danforth Music Hall (Rec 2) (SP-CMC-25) (burnboy) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
