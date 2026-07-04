@@ -170,7 +170,7 @@ const ARTISTS = [
   {
     "id": "avril-lavigne",
     "name": "Avril Lavigne",
-    "showCount": 25,
+    "showCount": 35,
     "firstYear": 2002,
     "lastYear": 2024
   },
