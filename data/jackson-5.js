@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1973-04-22 -Tokyo, Japan - Imperial Palace [SBD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
