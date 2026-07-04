@@ -1,13 +1,6 @@
 const ARTIST_MISC_DATA = [
   {
     "type": "release",
-    "label": "Avril Lavigne - Do The Best",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "OTHER"
-  },
-  {
-    "type": "release",
     "label": "Avril Lavigne - F**kin' Sk8er Girl {W.B. 065} (2003)",
     "version": "Silver CD",
     "format": "FLAC",
@@ -20,6 +13,14 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2003,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Avril Lavigne - Do The Best {Not on Label} (2008)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 2008,
     "category": "OTHER"
   },
   {
