@@ -25,7 +25,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "notes": "CSB \u00b7 travelinbeat",
+      "notes": "CSB · travelinbeat",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-07-22 - New York, NY - Irving Plaza (CSB) (travelinbeat) [AUD].txt"
@@ -53,7 +53,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Maplewood, MN",
       "venue": "Myth",
-      "notes": "DPA 4061s \u00b7 steelcorner",
+      "notes": "DPA 4061s · steelcorner",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-05-08 - Maplewood, MN - Myth (DPA 4061s) (steelcorner) [AUD].txt"
@@ -95,7 +95,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "notes": "DSM6 \u00b7 unk",
+      "notes": "DSM6 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-03-07 - Inglewood, CA - The Forum (DSM6) (unk) [AUD].txt"
@@ -151,7 +151,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "Hollywood Casino Amphitheatre",
-      "notes": "CA-14 \u00b7 cap'n crash",
+      "notes": "CA-14 · cap'n crash",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-05-27 - Maryland Heights, MO - Hollywood Casino Amphitheatre (CA-14) (cap'n crash) [AUD].txt"
@@ -165,7 +165,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Redmond WA",
       "venue": "Marymoor Park",
-      "notes": "CA-11 \u00b7 lefih",
+      "notes": "CA-11 · lefih",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-07-18 - Redmond WA - Marymoor Park (CA-11) (lefih) [AUD].txt"
@@ -179,7 +179,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Troutdale, OR",
       "venue": "McMenamins Historic Edgefield Manor",
-      "notes": "CA-11 \u00b7 leifh",
+      "notes": "CA-11 · leifh",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-07-19 - Troutdale, OR - McMenamins Historic Edgefield Manor (CA-11) (leifh) [AUD].txt"
@@ -193,7 +193,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Everwise Amphitheater at White River State Park",
-      "notes": "SP-CMC-08s \u00b7 ironchef",
+      "notes": "SP-CMC-08s · ironchef",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-08-01 - Indianapolis, IN - Everwise Amphitheater at White River State Park (SP-CMC-08s) (ironchef) [AUD].txt"
@@ -207,7 +207,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Terminal B at the Outer Harbor",
-      "notes": "Sennheiser MKE2 \u00b7 beatkilla",
+      "notes": "Sennheiser MKE2 · beatkilla",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-08-09 - Buffalo, NY - Terminal B at the Outer Harbor (Sennheiser MKE2) (beatkilla) [AUD24].txt"
@@ -221,7 +221,7 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Anthem",
-      "notes": "DPA 4060 \u00b7 alex leary",
+      "notes": "DPA 4060 · alex leary",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-08-14 - Washington, DC - The Anthem (DPA 4060) (alex leary) [AUD24].txt"
@@ -235,7 +235,7 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Anthem",
-      "notes": "Tascam DR-07Z \u00b7 bucketpool",
+      "notes": "Tascam DR-07Z · bucketpool",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-08-19 - Washington, DC - The Anthem (Tascam DR-07Z) (bucketpool) [AUD].txt"
