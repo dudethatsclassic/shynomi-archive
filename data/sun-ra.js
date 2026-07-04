@@ -184,6 +184,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1990-06-27 - Lugano, Switzerland - Piazza della Riforma - Estival Jazz [SBD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
