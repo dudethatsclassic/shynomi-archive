@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2006-06-17 - San Francisco, CA - Bimbo's 365 Club (Schoeps CCMV) (drew) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
