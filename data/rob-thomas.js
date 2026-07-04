@@ -112,6 +112,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2019-12-13 - Charlotte, NC - Evans Auditorium (IEM Matrix) (univonc) [MIX].txt"
     }
-  ],
-  "misc": []
+  ]
 };
