@@ -124,6 +124,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1992-11-15 - Milwaukee, WI - Riverside Theater (AT-35) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
