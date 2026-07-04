@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1982-07-10 - Owings Mills, MD - Painters Mill Music Fair (Master) [SBD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
