@@ -154,6 +154,5 @@ const ARTIST_DATA = {
       "format": "MP4",
       "textFile": "2025-07-31 - Wacken, Germany - Hauptstrasse (1080p) (Magentamusik) [WEB].txt"
     }
-  ],
-  "misc": []
+  ]
 };
