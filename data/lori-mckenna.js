@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2024-12-21 - Cambridge, MA - Club Passim (Early Show) (Schoeps MK4V) (jim kelly) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
