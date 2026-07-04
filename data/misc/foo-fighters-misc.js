@@ -1,109 +1,5 @@
 const ARTIST_MISC_DATA = [
   {
-    "type": "show",
-    "year": 1992,
-    "month": 4,
-    "day": null,
-    "dateStr": "4-XX-1992",
-    "city": "Seattle",
-    "state": "WA",
-    "location": "Seattle, WA",
-    "venue": "Laundry Room Studios",
-    "notes": "Allister Lob",
-    "version": "SBD #1",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Early Demos (1990-1994)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Dave Grohl - Demo Tapes",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "1994 Demos",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "1995 Radio Broadcasts"
-  },
-  {
-    "type": "label",
-    "label": "Pocketwatch (Compilation)",
-    "format": "FLAC"
-  },
-  {
-    "type": "show",
-    "year": 2005,
-    "month": null,
-    "day": null,
-    "dateStr": "XX-XX-2005",
-    "city": "Northridge",
-    "state": "CA",
-    "location": "Northridge, CA",
-    "venue": "606 Studios (Jan-March) *In Your Honor Instrumentals",
-    "notes": "",
-    "version": "SBD #1f",
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Brain Damage (Live from 2 shows)",
-    "version": "SBD",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Foo Fighters - VH1 Storytellers",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "Foo Fighters - Live Odds and Ends",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "Foo Fighters - Live Odds and Ends 2",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "Foo Fighters - Live Odds and Ends 3",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "Dave Grohl - 1992-93 Demos",
-    "format": "FLAC 24"
-  },
-  {
-    "type": "label",
-    "label": "Foo Fighters - Medium Rare (Exclusive Q Subscriber's Album)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Foo Fighters - Various - Nulle Part Ailleurs Compilation (DVD)",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - In Your Honor (Instrumental)",
-    "version": "SBD #1f",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Foo Fighters \u2013 Rope (Deadmau5 Mix Edit) (2011)",
-    "format": "FLAC"
-  },
-  {
     "type": "release",
     "label": "01. October 1988 - Laundry Room Studio",
     "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
@@ -165,332 +61,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "The Colour And The Shape (EU, 82876 55495 2)",
-    "year": 1997,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "There Is Nothing Left To Lose (ECD) (EU, 07863 67892 2)",
-    "year": 1999,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "One By One (EU, RCA 74321 96269 2)",
-    "year": 2002,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "One By One (Japan, BVCM-35132)",
-    "year": 2002,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "One By One (Special Limited Edition) (2CD) (EU, RCA 82876 53311-2)",
-    "year": 2002,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "In Your Honor (2CD) (Japan, BVCM-35133-4)",
-    "year": 2005,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Skin And Bones (EU, RCA 82876888572)",
-    "year": 2006,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Echoes, Silence, Patience & Grace (Japan, BVCP-21552 (88697-15501-2))",
-    "year": 2007,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "The Colour And The Shape (10th Anniversary Special Edition) (EU, 88697 09183 2)",
-    "year": 2007,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Greatest Hits (Japan, BVCP 40174)",
-    "year": 2009,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Wasting Light (Japan 1st Press, SICP 3072)",
-    "year": 2011,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Wasting Light (US, 88697-84493-2)",
-    "year": 2011,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Wasting Light (US, 88697-89193-2) (Best Buy Deluxe Version) (2CD)",
-    "year": 2011,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Sonic Highways (US, 88843-09008-2)",
-    "year": 2014,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - 00070725 Live At Studio 606 (2019)",
-    "year": 2019,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - 00979725 (2019)",
-    "year": 2019,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - 01020225 (2019)",
-    "year": 2019,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - 01070725 (2019)",
-    "year": 2019,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Are Playing Where Vol. I (2025) (24-48)",
-    "year": 2025,
-    "format": "FLAC HD",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Back and Forth",
-    "format": "MKV",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Concrete And Gold (2017) (24bit)",
-    "year": 2017,
-    "format": "FLAC HD",
-    "category": "OFFICIAL RELEASES",
-    "textFile": "MISC - Foo Fighters - Concrete And Gold (2017) (24bit) [FLAC HD].txt"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Everywhere but Home - Live in Dublin 2003",
-    "format": "MKV",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - In Your Honor (2005) (24bit)",
-    "year": 2005,
-    "format": "FLAC HD",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - One By One (Expanded Edition) (2002)",
-    "year": 2002,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Saint Cecilia EP (2015) (24bit)",
-    "year": 2015,
-    "format": "FLAC HD",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Skin and Bones - Live in LA 2006",
-    "format": "MKV",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Sound City (2013)",
-    "year": 2013,
-    "format": "MKV",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - An Evening With The Foo Fighters (1996) (RUP 9690)",
-    "year": 1996,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS",
-    "textFile": "MISC - Foo Fighters - An Evening With The Foo Fighters (1996) (RUP 9690) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - B-Sides & Rarities {34862-1-2} (2015)",
-    "year": 2015,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Brain Damage {FF-0299} (2001)",
-    "year": 2001,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS",
-    "textFile": "MISC - Foo Fighters - Brain Damage {FF-0299} (2001) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Concert Hall, Toronto, Canada (2015)",
-    "year": 2015,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Dave Grohl Demos (1995) (BF028)",
-    "year": 1995,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS",
-    "textFile": "MISC - Foo Fighters - Dave Grohl Demos (1995) (BF028) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Fighting The N Factor (1996) (OXY 031)",
-    "year": 1996,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS",
-    "textFile": "MISC - Foo Fighters - Fighting The N Factor (1996) (OXY 031) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Fooking Great",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Howling Wind (1995) (TOR055)",
-    "year": 1995,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS",
-    "textFile": "MISC - Foo Fighters - Howling Wind (1995) (TOR055) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Mine is Yours and Yours is Mine",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Reading '95 & Unreleased Demos (1996) (FFCD021)",
-    "year": 1996,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS",
-    "textFile": "MISC - Foo Fighters - Reading '95 & Unreleased Demos (1996) (FFCD021) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Star For Station",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - The Demo Tape (1995) (Kiwi 036 A)",
-    "year": 1995,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS",
-    "textFile": "MISC - Foo Fighters - The Demo Tape (1995) (Kiwi 036 A) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Tough Fighters",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - We Will Rock You",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - We'll Stick Around (1996) (SY10030)",
-    "year": 1996,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS",
-    "textFile": "MISC - Foo Fighters - We'll Stick Around (1996) (SY10030) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - X Static (1995) (TYN 003)",
-    "year": 1995,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS",
-    "textFile": "MISC - Foo Fighters - X Static (1995) (TYN 003) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Late Pocketwatch Demo (JWB REMASTER)",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
     "label": "a This Is A Call (UK CDS) (7243 8 82228 2 2)",
     "year": 1995,
     "category": "SINGLES + EPS"
@@ -509,7 +79,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Ine\u0301dits (Promo CD) (France, SPCD 2111)",
+    "label": "Inédits (Promo CD) (France, SPCD 2111)",
     "year": 1997,
     "category": "SINGLES + EPS"
   },
@@ -731,26 +301,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "XX-XX - In Your Honor (Instrumental)",
-    "year": 2005
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Odds And Ends 2",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Odds And Ends",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Garage Tour - Documentary",
-    "format": "MP4"
-  },
-  {
-    "type": "release",
     "label": "10. April 18th 1993 - Laundry Room Studio",
     "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
   },
@@ -768,141 +318,6 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "03. January 24th to 26th 1996 - Robert Lang Studios",
     "category": "1995-1996 - Foo Fighters First Studio Demos & Recordings"
-  },
-  {
-    "type": "release",
-    "label": "There Is Nothing Left To Lose (Japan, BVCM-35131)",
-    "year": 1999,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "One By One (Japan, BVCM-35132)",
-    "year": 2002,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "One By One (Special Norwegian Edition) (2CD) (82876 512002)",
-    "year": 2002,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "In Your Honor (2CD) (Japan, BVCM-35133-4)",
-    "year": 2005,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Echoes, Silence, Patience & Grace (US, RCA 88697 11516-2)",
-    "year": 2007,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Greatest Hits (Japan, BVCP 40174)",
-    "year": 2009,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - 00070725 Live At Studio 606 (Bonus Tracks Version) (2019)",
-    "year": 2019,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Sonic Highways (2014) (24bit)",
-    "year": 2014,
-    "format": "FLAC HD",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Concert Hall, Toronto, Canada (2015)",
-    "year": 2015,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Fooking Great",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Mine is Yours and Yours is Mine",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - On The Air (1995) (MOONRAKER 038)",
-    "year": 1995,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS",
-    "textFile": "MISC - Foo Fighters - On The Air (1995) (MOONRAKER 038) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Reading (1995) (KTS 493)",
-    "year": 1995,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS",
-    "textFile": "MISC - Foo Fighters - Reading (1995) (KTS 493) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - The One And Only (2003)",
-    "year": 2003,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Tough Fighters",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Tuneful Chaos (1995) (OXY 007)",
-    "year": 1995,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS",
-    "textFile": "MISC - Foo Fighters - Tuneful Chaos (1995) (OXY 007) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - We Will Rock You",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - We'll Stick Around (1996) (SY10030)",
-    "year": 1996,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -990,16 +405,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Foo Fighters - Odds And Ends 2",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Odds And Ends",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
     "label": "11. March 9th 1994 - Laundry Room Studio",
     "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
   },
@@ -1007,44 +412,6 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "05. October 26th 1996 - Laundry Room Studio",
     "category": "1995-1996 - Foo Fighters First Studio Demos & Recordings"
-  },
-  {
-    "type": "release",
-    "label": "Greatest Hits (US, 88697-36921-2)",
-    "year": 2009,
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Concert Hall, Toronto, Canada (2015)",
-    "year": 2015,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - The Demo Tape (1995) (Kiwi 036 A)",
-    "year": 1995,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - We Ain't No Baby",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - X Static (1995) (TYN 003)",
-    "year": 1995,
-    "version": "Silver CD",
-    "format": "FLAC",
-    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -1060,31 +427,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Foo Fighters - 1994 Demos.flac"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Odds And Ends 3",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Pocketwatch (EMCD09)",
-    "textFile": "MISC - Foo Fighters - Pocketwatch (EMCD09).txt"
-  },
-  {
-    "type": "release",
     "label": "05. October 26th 1996 - Laundry Room Studio",
     "category": "1995-1996 - Foo Fighters First Studio Demos & Recordings"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Odds And Ends 3",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Pocketwatch (EMCD09)"
   },
   {
     "type": "release",
@@ -1303,62 +647,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "04-XX - Seattle, WA - Laundry Room Studios",
-    "year": 1992,
-    "format": "SBD #1"
-  },
-  {
-    "type": "release",
-    "label": "XX-XX - In Your Honor (Instrumental)",
-    "year": 2005
-  },
-  {
-    "type": "release",
-    "label": "Dave Grohl - 1992-93 - Demos"
-  },
-  {
-    "type": "release",
-    "label": "Dave Grohl - Demo Tapes"
-  },
-  {
-    "type": "release",
-    "label": "Early Demos (1990-1994)"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - 1994 Demos.flac"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - 1995 - Radio Broadcasts"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Odds And Ends 2",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Odds And Ends 3",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Odds And Ends",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Various - Nulle Part Ailleurs Compilation",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Garage Tour - Documentary",
-    "format": "MP4"
-  },
-  {
-    "type": "release",
     "label": "01. October 1988 - Laundry Room Studio",
     "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
   },
@@ -1571,62 +859,6 @@ const ARTIST_MISC_DATA = [
     "label": "b Saint Cecilia EP (Digital)",
     "year": 2015,
     "category": "SINGLES + EPS"
-  },
-  {
-    "type": "release",
-    "label": "04-XX - Seattle, WA - Laundry Room Studios",
-    "year": 1992,
-    "format": "SBD #1"
-  },
-  {
-    "type": "release",
-    "label": "XX-XX - In Your Honor (Instrumental)",
-    "year": 2005
-  },
-  {
-    "type": "release",
-    "label": "Dave Grohl - 1992-93 - Demos"
-  },
-  {
-    "type": "release",
-    "label": "Dave Grohl - Demo Tapes"
-  },
-  {
-    "type": "release",
-    "label": "Early Demos (1990-1994)"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - 1994 Demos.flac"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - 1995 - Radio Broadcasts"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Odds And Ends 2",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Odds And Ends 3",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Odds And Ends",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Various - Nulle Part Ailleurs Compilation",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Garage Tour - Documentary",
-    "format": "MP4"
   },
   {
     "type": "release",
@@ -1850,69 +1082,724 @@ const ARTIST_MISC_DATA = [
     "textFile": "MISC - 2015b Saint Cecilia EP (Digital).txt"
   },
   {
-    "type": "release",
-    "label": "04-XX - Seattle, WA - Laundry Room Studios",
+    "type": "show",
     "year": 1992,
-    "format": "SBD #1",
-    "textFile": "MISC - 1992-04-XX - Seattle, WA - Laundry Room Studios [SBD #1].txt"
-  },
-  {
-    "type": "release",
-    "label": "XX-XX - In Your Honor (Instrumental)",
-    "year": 2005,
-    "textFile": "MISC - 2005-XX-XX - In Your Honor (Instrumental).txt"
-  },
-  {
-    "type": "release",
-    "label": "Dave Grohl - 1992-93 - Demos",
-    "textFile": "MISC - Dave Grohl - 1992-93 - Demos.txt"
-  },
-  {
-    "type": "release",
-    "label": "Dave Grohl - Demo Tapes",
-    "textFile": "MISC - Dave Grohl - Demo Tapes.txt"
+    "month": 4,
+    "day": null,
+    "dateStr": "4-XX-1992",
+    "city": "Seattle",
+    "state": "WA",
+    "location": "Seattle, WA",
+    "venue": "Laundry Room Studios",
+    "notes": "Allister Lob",
+    "version": "SBD #1",
+    "format": "FLAC"
   },
   {
     "type": "release",
     "label": "Early Demos (1990-1994)",
-    "textFile": "MISC - Early Demos (1990-1994).txt"
+    "format": "FLAC",
+    "year": 1990,
+    "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Foo Fighters - 1994 Demos.flac",
-    "textFile": "MISC - Foo Fighters - 1994 Demos.flac.txt"
+    "label": "Dave Grohl - Demo Tapes",
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Foo Fighters - 1995 - Radio Broadcasts"
+    "label": "1994 Demos",
+    "format": "FLAC",
+    "year": 1994,
+    "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Foo Fighters - Odds And Ends 2",
+    "label": "1995 Radio Broadcasts",
+    "year": 1995,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Pocketwatch (Compilation)",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "show",
+    "year": 2005,
+    "month": null,
+    "day": null,
+    "dateStr": "XX-XX-2005",
+    "city": "Northridge",
+    "state": "CA",
+    "location": "Northridge, CA",
+    "venue": "606 Studios (Jan-March) *In Your Honor Instrumentals",
+    "notes": "",
+    "version": "SBD #1f",
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Brain Damage (Live from 2 shows)",
+    "version": "SBD",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - VH1 Storytellers",
     "format": "DVD",
-    "textFile": "MISC - Foo Fighters - Odds And Ends 2 [DVD].txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Foo Fighters - Odds And Ends 3",
+    "label": "Foo Fighters - Live Odds and Ends",
     "format": "DVD",
-    "textFile": "MISC - Foo Fighters - Odds And Ends 3 [DVD].txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Foo Fighters - Odds And Ends",
+    "label": "Foo Fighters - Live Odds and Ends 2",
     "format": "DVD",
-    "textFile": "MISC - Foo Fighters - Odds And Ends [DVD].txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Foo Fighters - Various - Nulle Part Ailleurs Compilation",
+    "label": "Foo Fighters - Live Odds and Ends 3",
     "format": "DVD",
-    "textFile": "MISC - Foo Fighters - Various - Nulle Part Ailleurs Compilation [DVD].txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Garage Tour - Documentary",
-    "format": "MP4"
+    "label": "Dave Grohl - 1992-93 Demos",
+    "format": "FLAC 24",
+    "year": 1992,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Medium Rare (Exclusive Q Subscriber's Album)",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Various - Nulle Part Ailleurs Compilation (DVD)",
+    "format": "DVD",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - In Your Honor (Instrumental)",
+    "version": "SBD #1f",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters – Rope (Deadmau5 Mix Edit) (2011)",
+    "format": "FLAC",
+    "year": 2011,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - An Evening With The Foo Fighters (1996) (RUP 9690)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1996,
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - An Evening With The Foo Fighters (1996) (RUP 9690) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Brixton (1996) (KTS 518)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1996,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - B-sides & Rarities (34862-1/2) (2015)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 2015,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Christmas Carols & Demos {W.B 030} (2000)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 2000,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Concert Hall, Toronto, Canada (2015)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 2015,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Dave Grohl Demos (1995) (BF028)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - Dave Grohl Demos (1995) (BF028) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Enter The Dragon (1995) (RSCD 006)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Fighting The N Factor (1996) (OXY 031)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1996,
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - Fighting The N Factor (1996) (OXY 031) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Frenzy! (1996) (OXY 036)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1996,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Late! Pocketwatch Demo (JWB Remaster)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Howling Wind (1995) (TOR055)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - Howling Wind (1995) (TOR055) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - On The Air (1995) (MOONRAKER 038)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - On The Air (1995) (MOONRAKER 038) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Pocketwatch Demos (1995) (PD095)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Reading '95 & Unreleased Demos (1996) (FFCD021)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1996,
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - Reading '95 & Unreleased Demos (1996) (FFCD021) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Reading (1995) (KTS 493)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - Reading (1995) (KTS 493) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - The Demo Tape (1995) (Kiwi 036 A)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - The Demo Tape (1995) (Kiwi 036 A) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - The One And Only (2003)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 2003,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Tuneful Chaos (1995) (OXY 007)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - Tuneful Chaos (1995) (OXY 007) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - We'll Stick Around (1996) (SY10030)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1996,
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - We'll Stick Around (1996) (SY10030) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - X Static (1995) (TYN 003)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - X Static (1995) (TYN 003) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - We Will Rock You",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Star For Station",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Things To Do In Stockholm (ZCCD096)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Tough Fighters",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - We Ain't No Baby",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Rock in Rio III",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Low Like These",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Mine Is Yours and Yours Is Mine",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Fooking Great",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Brain Damage {FF-0299} (2001)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 2001,
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - Brain Damage {FF-0299} (2001) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "1995 Foo Fighters (EU, RCA 82876 55496 2)",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "1995 Foo Fighters (Japan, BVCM-35129)",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "1997 The Colour And The Shape (EU, 82876 55495 2)",
+    "format": "FLAC",
+    "year": 1997,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "1997 The Colour And The Shape (Japan, BVCM-35130)",
+    "format": "FLAC",
+    "year": 1997,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "1999 There Is Nothing Left To Lose (ECD) (EU, 07863 67892 2)",
+    "format": "FLAC",
+    "year": 1999,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "1999 There Is Nothing Left To Lose (Japan, BVCM-35131)",
+    "format": "FLAC",
+    "year": 1999,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2002 One By One (EU, RCA 74321 96269 2)",
+    "format": "FLAC",
+    "year": 2002,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2002 One By One (Japan, BVCM-35132)",
+    "format": "FLAC",
+    "year": 2002,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2002 One By One (Special Limited Edition) (2CD) (EU, RCA 82876 53311-2)",
+    "format": "FLAC",
+    "year": 2002,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2002 One By One (Special Norwegian Edition) (2CD) (82876 512002)",
+    "format": "FLAC",
+    "year": 2002,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2002 One By One (Expanded Edition)",
+    "format": "FLAC",
+    "year": 2002,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2005 In Your Honor (2CD) (EU, 82876 69623 2)",
+    "format": "FLAC",
+    "year": 2005,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2005 In Your Honor (2CD) (Japan, BVCM-35133-4)",
+    "format": "FLAC",
+    "year": 2005,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2006 Skin And Bones (EU, RCA 82876888572)",
+    "format": "FLAC",
+    "year": 2006,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2006 Skin And Bones (Japan, BVCP-21502)",
+    "format": "FLAC",
+    "year": 2006,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2007 Echoes, Silence, Patience & Grace (Japan, BVCP-21552 (88697-15501-2))",
+    "format": "FLAC",
+    "year": 2007,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2007 Echoes, Silence, Patience & Grace (US, RCA 88697 11516-2)",
+    "format": "FLAC",
+    "year": 2007,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2007 The Colour And The Shape (10th Anniversary Special Edition) (EU, 88697 09183 2)",
+    "format": "FLAC",
+    "year": 2007,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2009 Greatest Hits (Japan, BVCP 40174)",
+    "format": "FLAC",
+    "year": 2009,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2009 Greatest Hits (US, 88697-36921-2)",
+    "format": "FLAC",
+    "year": 2009,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2011 Medium Rare (Exclusive Q Subsriber's Album) (UK, -)",
+    "format": "FLAC",
+    "year": 2011,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2011 Wasting Light (Japan 1st Press, SICP 3072)",
+    "format": "FLAC",
+    "year": 2011,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2011 Wasting Light (US, 88697-84493-2)",
+    "format": "FLAC",
+    "year": 2011,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2011 Wasting Light (US, 88697-89193-2) (Best Buy Deluxe Version) (2CD)",
+    "format": "FLAC",
+    "year": 2011,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "2014 Sonic Highways (US, 88843-09008-2)",
+    "format": "FLAC",
+    "year": 2014,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Back and Forth (2011)",
+    "format": "MKV",
+    "year": 2011,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Sound City (2013) - Directed by Dave Grohl",
+    "format": "MKV",
+    "year": 2013,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Sonic Highways HBO Series: Season 1",
+    "format": "MOV",
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Live at Wembley Stadium (DVD)",
+    "format": "MKV",
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Skin and Bones (DVD)",
+    "format": "MKV",
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Everywhere but Home - Live in Toronto 2003",
+    "format": "MKV",
+    "year": 2003,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Everywhere but Home - Live in Dublin 2003",
+    "format": "MKV",
+    "year": 2003,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - In Your Honor (2005) (24bit)",
+    "format": "FLAC HD",
+    "year": 2005,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Echoes, Silence, Patience & Grace (2007) (24bit)",
+    "format": "FLAC HD",
+    "year": 2007,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Soldier (Single) (2017)",
+    "format": "FLAC HD",
+    "year": 2017,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Sonic Highways (2014) (24bit)",
+    "format": "FLAC HD",
+    "year": 2014,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Saint Cecilia EP (2015) (24bit)",
+    "format": "FLAC HD",
+    "year": 2015,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Concrete And Gold (2017) (24bit)",
+    "format": "FLAC HD",
+    "year": 2017,
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Foo Fighters - Concrete And Gold (2017) (24bit) [FLAC HD].txt"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - 00020225 (2019)",
+    "format": "FLAC",
+    "year": 2019,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - 00070725 Live At Studio 606 (2019)",
+    "format": "FLAC",
+    "year": 2019,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - 00070725 Live At Studio 606 (Bonus Tracks Version) (2019)",
+    "format": "FLAC",
+    "year": 2019,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - 00950025 (2019)",
+    "format": "FLAC",
+    "year": 2019,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - 00959525 (2020)",
+    "format": "FLAC",
+    "year": 2020,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - 00979725 (2019)",
+    "format": "FLAC",
+    "year": 2019,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - 00999925 (2019)",
+    "format": "FLAC",
+    "year": 2019,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - 01020225 (2019)",
+    "format": "FLAC",
+    "year": 2019,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - 01050525 (2019)",
+    "format": "FLAC",
+    "year": 2019,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - 01070725 (2019)",
+    "format": "FLAC",
+    "year": 2019,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - 02050525 (2019)",
+    "format": "FLAC",
+    "year": 2019,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Medicine At Midnight (2021) (24bit)",
+    "format": "FLAC HD",
+    "year": 2021,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Are Playing Where Vol. I (2025) (24-48)",
+    "format": "FLAC HD",
+    "year": 2025,
+    "category": "OFFICIAL RELEASES"
   }
 ];
