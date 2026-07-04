@@ -152,6 +152,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2025-06-13 - London, UK - Victoria Park (DPA 4061s) (gambra) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
