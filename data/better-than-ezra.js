@@ -124,6 +124,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2025-07-03 - Mason, OH - Mason Municipal Campus (CA-14) (live2cd) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
