@@ -211,6 +211,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2026-05-14 - Los Angeles, CA - Greek Theatre (Shure MV88) (coolerluzi) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
