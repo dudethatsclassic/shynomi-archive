@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "pinback",
   "name": "Pinback",
   "drive": "F",
-  "showCount": 36,
+  "showCount": 39,
   "firstYear": 2000,
   "lastYear": 2015,
   "years": [
@@ -49,6 +49,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-11-04 - Pomona, CA - Glass House (SP-CMC-2) (chris bellew) [AUD].txt"
+    },
+    {
+      "year": 2002,
+      "month": 3,
+      "day": 15,
+      "dateStr": "3-15-2002",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Empty Bottle",
+      "notes": "Realistic PZM Mics · aadamjacobs",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -277,6 +290,19 @@ const ARTIST_DATA = {
     {
       "year": 2007,
       "month": 10,
+      "day": 14,
+      "dateStr": "10-14-2007",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Metro",
+      "notes": "unk · aadamjacobs",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2007,
+      "month": 10,
       "day": 25,
       "dateStr": "10-25-2007",
       "city": "San Francisco",
@@ -371,6 +397,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-10-12 - Chicago, IL - The Bottom Lounge (AKG Perception 170's) (john f) [AUD].aud.txt"
+    },
+    {
+      "year": 2008,
+      "month": 10,
+      "day": 12,
+      "dateStr": "10-12-2008",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Bottom Lounge",
+      "notes": "DAT · aadamjacobs",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2010,
