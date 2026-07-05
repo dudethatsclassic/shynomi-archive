@@ -464,9 +464,9 @@ const ARTISTS = [
   {
     "id": "chuck-berry",
     "name": "Chuck Berry",
-    "showCount": 1,
+    "showCount": 2,
     "firstYear": 1982,
-    "lastYear": 1982
+    "lastYear": 1989
   },
   {
     "id": "circa-survive",
@@ -1416,7 +1416,7 @@ const ARTISTS = [
   {
     "id": "led-zeppelin",
     "name": "Led Zeppelin",
-    "showCount": 12,
+    "showCount": 13,
     "firstYear": 1969,
     "lastYear": 1980
   },
@@ -2767,9 +2767,9 @@ const ARTISTS = [
   {
     "id": "the-breeders",
     "name": "The Breeders",
-    "showCount": 53,
+    "showCount": 54,
     "firstYear": 1990,
-    "lastYear": 2024
+    "lastYear": 2026
   },
   {
     "id": "the-clash",
