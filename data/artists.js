@@ -2130,9 +2130,9 @@ const ARTISTS = [
   {
     "id": "queens-of-the-stone-age",
     "name": "Queens of the Stone Age",
-    "showCount": 63,
+    "showCount": 64,
     "firstYear": 1999,
-    "lastYear": 2024
+    "lastYear": 2026
   },
   {
     "id": "quicksand",
