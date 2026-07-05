@@ -1913,9 +1913,9 @@ const ARTISTS = [
   {
     "id": "no-doubt",
     "name": "No Doubt",
-    "showCount": 1,
+    "showCount": 3,
     "firstYear": 1997,
-    "lastYear": 1997
+    "lastYear": 2026
   },
   {
     "id": "noel-gallagher",
@@ -2060,7 +2060,7 @@ const ARTISTS = [
   {
     "id": "pinback",
     "name": "Pinback",
-    "showCount": 36,
+    "showCount": 39,
     "firstYear": 2000,
     "lastYear": 2015
   },
