@@ -84,11 +84,5 @@ const ARTIST_MISC_DATA = [
     "version": "WEB",
     "format": "FLAC",
     "category": "OTHER"
-  },
-  {
-    "type": "release",
-    "label": "Pantera - 1992 - WW1 Absolutely Live High Voltage",
-    "version": "preFM",
-    "format": "preFM"
   }
 ];
