@@ -38,6 +38,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2023-11-18 - Sebastopol, CA - HopMonk Tavern (Sennheiser Ambeo) (grizzly adams) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
