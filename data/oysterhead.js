@@ -194,6 +194,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2022-05-01 - Atlanta, GA - Sweetwater 420 Festival - Sweetwater Stage (Schoeps CCM4vs) (z-man) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
