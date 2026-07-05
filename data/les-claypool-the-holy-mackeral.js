@@ -92,6 +92,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "1996-10-20 - Portland, OR - La Luna [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
