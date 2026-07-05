@@ -34,10 +34,5 @@ const ARTIST_MISC_DATA = [
     "format": "TS",
     "year": 1975,
     "category": "OTHER"
-  },
-  {
-    "type": "release",
-    "label": "Lynyrd Skynyrd - Double Trouble",
-    "version": "Silver CD"
   }
 ];
