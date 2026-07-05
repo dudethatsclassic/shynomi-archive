@@ -2,13 +2,27 @@ const ARTIST_DATA = {
   "id": "no-doubt",
   "name": "No Doubt",
   "drive": "G",
-  "showCount": 1,
+  "showCount": 3,
   "firstYear": 1997,
-  "lastYear": 1997,
+  "lastYear": 2026,
   "years": [
-    1997
+    1997,
+    2026
   ],
   "shows": [
+    {
+      "year": 1997,
+      "month": 3,
+      "day": 20,
+      "dateStr": "3-20-1997",
+      "city": "Stockholm",
+      "state": "Sweden",
+      "location": "Stockholm, Sweden",
+      "venue": "Solnahallen",
+      "notes": "swetv1",
+      "version": "PRO",
+      "format": "DVD"
+    },
     {
       "year": 1997,
       "month": 6,
@@ -22,6 +36,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-06-03 - San Diego, CA - Sports Arena (Realistic Walkman) (michael cariola) [AUD] .txt"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 12,
+      "dateStr": "6-12-2026",
+      "city": "Las Vegas",
+      "state": "NV",
+      "location": "Las Vegas, NV",
+      "venue": "Sphere",
+      "notes": "DPA 4061 · opsopcopolis",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
   ]
 };
