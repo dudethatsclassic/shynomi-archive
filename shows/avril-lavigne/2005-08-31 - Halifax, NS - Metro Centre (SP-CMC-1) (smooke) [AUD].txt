@@ -1,0 +1,35 @@
+Avril Lavigne
+2005-08-31
+Metro Centre
+Halifax, NS, Canada
+
+Source: SP-CMC-1 > SP-SPSB-1 (roll-off @ 107Hz) > D7
+By: Smooke
+Transfer: D7 > Sony s/pdif adapter > Creative Audigy NX optical in > WAV
+By: Smooke
+Transfer: WAV (edited in Audition, tracked in CD Wave) > FLAC
+By: jfaninord
+
+Disc 1 ------------------------------------------------------------- [64:58.000]
+01 - Sk8er Boi                                                       [03:23.000]
+02 - Unwanted                                                        [03:55.000]
+03 - My Happy Ending                                                 [04:03.000]
+04 - I Always Get What I Want                                        [02:48.000]
+05 - Mobile                                                          [03:46.000]
+06 - I'm with You                                                    [03:53.000]
+07 - Fall to Pieces                                                  [03:38.000]
+08 - Don't Tell Me                                                   [03:08.000]
+09 - Interlude                                                       [01:36.000]
+10 - Together                                                        [03:15.000]
+11 - Forgotten                                                       [03:50.000]
+12 - Nobody's Home                                                   [03:33.000]
+13 - Who Knows                                                       [03:32.000]
+14 - Losing Grip                                                     [03:37.800]
+15 - Take Me Away                                                    [02:51.200]
+16 - He Wasn't                                                       [03:29.000]
+17 - All the Small Things (Blink 182 cover)                          [02:45.000]
+18 - Encore                                                          [01:10.000]
+19 - Song 2 (Blur cover)                                             [02:12.000]
+20 - Complicated                                                     [04:33.000]
+
+-- jfaninord ------- please don't convert to lossy formats ------- 2006-02-02 --

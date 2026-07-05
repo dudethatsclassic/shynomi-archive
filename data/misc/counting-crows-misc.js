@@ -402,5 +402,178 @@ const ARTIST_MISC_DATA = [
     "type": "label",
     "label": "Various Artists - Dead And Dreaming - An Indie Tribute To Counting Crows {VR243} (2004)",
     "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "2000 - 8 European Broadcasts",
+    "year": 1994,
+    "textFile": "MISC - 1994-2000 - 8 European Broadcasts.txt"
+  },
+  {
+    "type": "release",
+    "label": "By the Time We Got to Woodstock",
+    "textFile": "MISC - By the Time We Got to Woodstock.txt"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - August Demos 1992",
+    "format": "FLAC",
+    "textFile": "MISC - Counting Crows - August Demos 1992 [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - Demos 1992",
+    "textFile": "MISC - Counting Crows - Demos 1992.txt"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - Face The Promised Land",
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - Live Collection Vol. 13 (foggonthetyne production)",
+    "format": "DVD",
+    "textFile": "MISC - Counting Crows - Live Collection Vol. 13 (foggonthetyne production) [DVD].txt"
+  },
+  {
+    "type": "release",
+    "label": "Distances Between Yesterday And Now",
+    "format": "FLAC",
+    "textFile": "MISC - Distances Between Yesterday And Now [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Fantasy Flight 1 & 2",
+    "format": "FLAC",
+    "textFile": "MISC - Fantasy Flight 1 & 2 [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Fantasy Flight 3 & 4",
+    "format": "FLAC",
+    "textFile": "MISC - Fantasy Flight 3 & 4 [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Flying Demos 1991",
+    "textFile": "MISC - Flying Demos 1991.txt"
+  },
+  {
+    "type": "release",
+    "label": "Four for Boys - Live HC Compilation",
+    "format": "FLAC",
+    "textFile": "MISC - Four for Boys - Live HC Compilation [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "From August Till Now (2002)",
+    "year": 2002,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Gimme the Thunder, Gimme the Rain",
+    "format": "FLAC",
+    "textFile": "MISC - Gimme the Thunder, Gimme the Rain [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Here Comes the Rain King (1998)",
+    "year": 1998,
+    "format": "FLAC",
+    "textFile": "MISC - Here Comes the Rain King (1998) [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Home Demo in Adam's Garage (1990)",
+    "year": 1990,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Live European Summer Tour - 2000 Commemorative Sampler",
+    "format": "FLAC",
+    "textFile": "MISC - Live European Summer Tour - 2000 Commemorative Sampler [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Live Forever",
+    "format": "FLAC",
+    "textFile": "MISC - Live Forever [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Matt Malley Intro",
+    "format": "FLAC",
+    "textFile": "MISC - Matt Malley Intro [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "May and Nothing Before (1994)",
+    "year": 1994,
+    "format": "M4A",
+    "textFile": "MISC - May and Nothing Before (1994) [M4A].txt"
+  },
+  {
+    "type": "release",
+    "label": "Official Bootleg (These Desert Lives)",
+    "textFile": "MISC - Official Bootleg (These Desert Lives).txt"
+  },
+  {
+    "type": "release",
+    "label": "Other Perfect Things (2001) Compilation",
+    "year": 2001,
+    "format": "FLAC",
+    "textFile": "MISC - Other Perfect Things (2001) Compilation [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Rare and Unreleased",
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Rarities (The Rare & Unreleased Compilation)",
+    "textFile": "MISC - Rarities (The Rare & Unreleased Compilation).txt"
+  },
+  {
+    "type": "release",
+    "label": "Rocky Mountain Live",
+    "format": "M4A"
+  },
+  {
+    "type": "release",
+    "label": "Round Here Collection",
+    "format": "FLAC",
+    "textFile": "MISC - Round Here Collection [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "So Ah...",
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Somewhere In The Middle America (1995)",
+    "year": 1995,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "The A Murder Of One Collection-Classics",
+    "format": "FLAC",
+    "textFile": "MISC - The A Murder Of One Collection-Classics [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Goodnight Elisabeth Collection-Classics",
+    "format": "FLAC",
+    "textFile": "MISC - The Goodnight Elisabeth Collection-Classics [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Two for Joy - Live Compilation",
+    "textFile": "MISC - Two for Joy - Live Compilation.txt"
   }
 ];

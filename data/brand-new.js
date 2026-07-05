@@ -47,7 +47,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Fox Theatre",
-      "notes": "AT853 + CA-9100 · ryanj",
+      "notes": "AT853 + CA-9100 \u00b7 ryanj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2017-10-15 - Detroit, MI - The Fox Theatre (AT853 + CA-9100) (ryanj) [AUD].txt"
@@ -74,7 +74,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "PNC Music Pavilion",
-      "notes": "Schoeps MK4s + Marantz PMD-620 · ryanj",
+      "notes": "Schoeps MK4s + Marantz PMD-620 \u00b7 ryanj",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-06-17 - Charlotte, NC - PNC Music Pavilion (Schoeps MK4s + Marantz PMD-620) (ryanj) [MIX24].txt"

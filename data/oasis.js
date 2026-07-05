@@ -785,7 +785,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "",
       "format": "FLAC",
-      "textFile": "1994-10-29 - New York, NY - Wetlands [SBD].txt"
+      "textFile": "1994-10-29 - New York, NY - Wetlands - Live At Wetlands 1994 (TREON Remaster) [FLAC].txt"
     },
     {
       "year": 1994,
@@ -799,7 +799,7 @@ const ARTIST_DATA = {
       "notes": "TREON Remaster",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1994-10-29 - New York, NY - Wetlands - Live At Wetlands 1994 (TREON Remaster) [FLAC].txt"
+      "textFile": "1994-10-29 - New York, NY - Wetlands [SBD].txt"
     },
     {
       "year": 1994,
@@ -1121,7 +1121,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-02-11 - Dallas, TX - Deep Ellum Live [AUD].txt"
+      "textFile": "1995-02-11 - Dallas, TX - Deep Ellum Live - DAT(M) (chris milazzo) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1135,7 +1135,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 chris milazzo",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-02-11 - Dallas, TX - Deep Ellum Live - DAT(M) (chris milazzo) [AUD].txt"
+      "textFile": "1995-02-11 - Dallas, TX - Deep Ellum Live [AUD].txt"
     },
     {
       "year": 1995,
@@ -1832,7 +1832,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1995-11-05 - London, UK - Earls Court [SBD].txt"
+      "textFile": "1995-11-05 - London, UK - Earls Court Arena (Fradoca Remaster) [SBD].txt"
     },
     {
       "year": 1995,
@@ -1846,7 +1846,7 @@ const ARTIST_DATA = {
       "notes": "fradoca remaster",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1995-11-05 - London, UK - Earls Court Arena (Fradoca Remaster) [SBD].txt"
+      "textFile": "1995-11-05 - London, UK - Earls Court [SBD].txt"
     },
     {
       "year": 1995,
@@ -2988,7 +2988,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-09-25 - London, UK - Earl's Court Exhibition Centre [AUD].txt"
+      "textFile": "1997-09-25 - London, UK - Earl's Court Exhibition Center (1st Night) - DAT(x) [AUD].txt"
     },
     {
       "year": 1997,
@@ -3002,7 +3002,7 @@ const ARTIST_DATA = {
       "notes": "DAT(x)",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-09-25 - London, UK - Earl's Court Exhibition Center (1st Night) - DAT(x) [AUD].txt"
+      "textFile": "1997-09-25 - London, UK - Earl's Court Exhibition Centre [AUD].txt"
     },
     {
       "year": 1997,
@@ -4030,7 +4030,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1998-03-21 - Sao Paulo, Brazil - Polo De Arte e Cultura Do Anhembi (FM).txt"
+      "textFile": "1998-03-21 - Sao Paulo, Brazil - Arena Skol Anhembi (james 2020 Remaster & Remix) [preFM].txt"
     },
     {
       "year": 1998,
@@ -4044,7 +4044,7 @@ const ARTIST_DATA = {
       "notes": "james 2020 Remaster & Remix",
       "version": "preFM",
       "format": "FLAC",
-      "textFile": "1998-03-21 - Sao Paulo, Brazil - Arena Skol Anhembi (james 2020 Remaster & Remix) [preFM].txt"
+      "textFile": "1998-03-21 - Sao Paulo, Brazil - Polo De Arte e Cultura Do Anhembi (FM).txt"
     },
     {
       "year": 1998,
@@ -4475,7 +4475,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2000-03-12 - Kobe, Japan - World Hall [AUD].txt"
+      "textFile": "2000-03-12 - Kobe, Japan - Kinen Hall - Sunday Evening Call (johnky) [AUD].txt"
     },
     {
       "year": 2000,
@@ -4489,7 +4489,7 @@ const ARTIST_DATA = {
       "notes": "Sunday \u00b7 johnky",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2000-03-12 - Kobe, Japan - Kinen Hall - Sunday Evening Call (johnky) [AUD].txt"
+      "textFile": "2000-03-12 - Kobe, Japan - World Hall [AUD].txt"
     },
     {
       "year": 2000,
@@ -4755,7 +4755,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2000-04-18 - Chicago, IL - Chicago Theatre [AUD].txt"
+      "textFile": "2000-04-18 - Chicago, IL - Chicago Theatre - MD(M) (MarcSounds) (lowlight10) [AUD].txt"
     },
     {
       "year": 2000,
@@ -4769,7 +4769,7 @@ const ARTIST_DATA = {
       "notes": "MD(M) \u00b7 MarcSounds \u00b7 lowlight10",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2000-04-18 - Chicago, IL - Chicago Theatre - MD(M) (MarcSounds) (lowlight10) [AUD].txt"
+      "textFile": "2000-04-18 - Chicago, IL - Chicago Theatre [AUD].txt"
     },
     {
       "year": 2000,
@@ -5839,7 +5839,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2001-06-07 - New York, NY - Radio City Music Hall [AUD].txt"
+      "textFile": "2001-06-07 - New York, NY - Radio City Music Hall (upgrade) [AUD].txt"
     },
     {
       "year": 2001,
@@ -5853,7 +5853,7 @@ const ARTIST_DATA = {
       "notes": "upgrade",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2001-06-07 - New York, NY - Radio City Music Hall (upgrade) [AUD].txt"
+      "textFile": "2001-06-07 - New York, NY - Radio City Music Hall [AUD].txt"
     },
     {
       "year": 2001,
@@ -5922,7 +5922,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2001-06-24 - Paris, France - The Bercy [AUD].txt"
+      "textFile": "2001-06-24 - Paris, France - Bercy Arena (Sony TCD-D100) (isaac mchelicopter) [AUD].txt"
     },
     {
       "year": 2001,
@@ -5936,7 +5936,7 @@ const ARTIST_DATA = {
       "notes": "Sony TCD-D100 \u00b7 isaac mchelicopter",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2001-06-24 - Paris, France - Bercy Arena (Sony TCD-D100) (isaac mchelicopter) [AUD].txt"
+      "textFile": "2001-06-24 - Paris, France - The Bercy [AUD].txt"
     },
     {
       "year": 2001,
@@ -6276,7 +6276,8 @@ const ARTIST_DATA = {
       "venue": "Columbiahalle",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-06-24 - Berlin, Germany - Columbiahalle - DAT(M) (Wardour-448) [AUD].txt"
     },
     {
       "year": 2002,
@@ -6289,8 +6290,7 @@ const ARTIST_DATA = {
       "venue": "Columbiahalle",
       "notes": "DAT(M) \u00b7 Wardour-448",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2002-06-24 - Berlin, Germany - Columbiahalle - DAT(M) (Wardour-448) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -7596,7 +7596,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2005-06-04 - Bru\u0308ssel, Belgium - Ancienne Belgique [FM, Studiobrussel & PureFM].txt"
+      "textFile": "2005-06-04 - Brussels, Belgium - Ancienne Belgique (Better Days That Have Yet To Come) (FM Mix) [FM].txt"
     },
     {
       "year": 2005,
@@ -7610,7 +7610,7 @@ const ARTIST_DATA = {
       "notes": "FM Mix",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2005-06-04 - Brussels, Belgium - Ancienne Belgique (Better Days That Have Yet To Come) (FM Mix) [FM].txt"
+      "textFile": "2005-06-04 - Bru\u0308ssel, Belgium - Ancienne Belgique [FM, Studiobrussel & PureFM].txt"
     },
     {
       "year": 2005,
@@ -8249,7 +8249,7 @@ const ARTIST_DATA = {
       "notes": "CSB \u00b7 ryan teske",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-03-22 - Milwaukee, WI - The Riverside Theatre [AUD].txt"
+      "textFile": "2006-03-22 - Milwaukee, WI - The Riverside Theater (SP-CMC-12) (matt krueger) [AUD].txt"
     },
     {
       "year": 2006,
@@ -8263,7 +8263,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-12 \u00b7 matt krueger",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-03-22 - Milwaukee, WI - The Riverside Theater (SP-CMC-12) (matt krueger) [AUD].txt"
+      "textFile": "2006-03-22 - Milwaukee, WI - The Riverside Theatre [AUD].txt"
     },
     {
       "year": 2006,
@@ -8347,7 +8347,7 @@ const ARTIST_DATA = {
       "notes": "SS-DSM6S/L \u00b7 b.c.",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2008-08-26 - Seattle, WA, - WaMu Theater (24 bit) [AUD].txt"
+      "textFile": "2008-08-26 - Seattle, WA - Wamu Theater (CA-11) (oasisdouglas) [AUD].txt"
     },
     {
       "year": 2008,
@@ -8361,7 +8361,7 @@ const ARTIST_DATA = {
       "notes": "CA-11 \u00b7 oasisdouglas",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-08-26 - Seattle, WA - Wamu Theater (CA-11) (oasisdouglas) [AUD].txt"
+      "textFile": "2008-08-26 - Seattle, WA, - WaMu Theater (24 bit) [AUD].txt"
     },
     {
       "year": 2008,
@@ -8725,7 +8725,7 @@ const ARTIST_DATA = {
       "notes": "AUD(M) \u00b7 DPA 4060",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-01-21 - Amsterdam, Holland - Heineken Music Hall - AUD(M) (DPA 4060) [AUD].txt"
+      "textFile": "2009-01-21 - Amsterdam, Holland - Heineken Music Hall (ffp remaster) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8739,7 +8739,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-01-21 - Amsterdam, Holland - Heineken Music Hall [AUD].txt"
+      "textFile": "2009-01-21 - Amsterdam, Holland - Heineken Music Hall - AUD(M) (DPA 4060) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8753,7 +8753,7 @@ const ARTIST_DATA = {
       "notes": "ffp remaster",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-01-21 - Amsterdam, Holland - Heineken Music Hall (ffp remaster) [AUD].txt"
+      "textFile": "2009-01-21 - Amsterdam, Holland - Heineken Music Hall [AUD].txt"
     },
     {
       "year": 2009,
@@ -8849,7 +8849,8 @@ const ARTIST_DATA = {
       "venue": "Philipshalle",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-02-04 - Du\u0308sseldorf, Germany - Philipshalle (Sony ECM-717) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8862,8 +8863,7 @@ const ARTIST_DATA = {
       "venue": "Philipshalle",
       "notes": "Sony ECM-717",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-02-04 - Du\u0308sseldorf, Germany - Philipshalle (Sony ECM-717) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -9112,7 +9112,7 @@ const ARTIST_DATA = {
       "notes": "king_ganesha",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-03-28 - Tokyo, Japan - Makuhari Messe International EHall - Come In Tonight (king_ganesha) [AUD].txt"
+      "textFile": "2009-03-28 - Tokyo, Japan - Makuhari Messe International EHall (DPA-4061) [AUD].txt"
     },
     {
       "year": 2009,
@@ -9126,7 +9126,7 @@ const ARTIST_DATA = {
       "notes": "DPA-4061",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-03-28 - Tokyo, Japan - Makuhari Messe International EHall (DPA-4061) [AUD].txt"
+      "textFile": "2009-03-28 - Tokyo, Japan - Makuhari Messe International EHall - Come In Tonight (king_ganesha) [AUD].txt"
     },
     {
       "year": 2009,
@@ -9221,7 +9221,8 @@ const ARTIST_DATA = {
       "venue": "Estadio Antonio Vespucio Liberti",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-05-03 - Buenos Aires, Argentina - River Plate Stadium (Metro 95.1) [FM].txt"
     },
     {
       "year": 2009,
@@ -9262,8 +9263,7 @@ const ARTIST_DATA = {
       "venue": "Estadio Antonio Vespucio Liberti",
       "notes": "Metro 95.1",
       "version": "FM",
-      "format": "FLAC",
-      "textFile": "2009-05-03 - Buenos Aires, Argentina - River Plate Stadium (Metro 95.1) [FM].txt"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -9400,7 +9400,8 @@ const ARTIST_DATA = {
       "venue": "Theatre Antique",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-06-14 - Vienne, France - Theatre Antique de Vienne (twofaces) [AUD].txt"
     },
     {
       "year": 2009,
@@ -9413,8 +9414,7 @@ const ARTIST_DATA = {
       "venue": "Theatre Antique",
       "notes": "twofaces",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-06-14 - Vienne, France - Theatre Antique de Vienne (twofaces) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -9482,7 +9482,7 @@ const ARTIST_DATA = {
       "notes": "Church Audio STC-11 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-07-07 - Coventry, UK - Ricoh Arena [AUD].txt"
+      "textFile": "2009-07-07 - Coventry, England - The Ricoh Arena (DPA 4061s) (tommybagnall) [AUD].txt"
     },
     {
       "year": 2009,
@@ -9496,7 +9496,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061s \u00b7 tommybagnall",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-07-07 - Coventry, England - The Ricoh Arena (DPA 4061s) (tommybagnall) [AUD].txt"
+      "textFile": "2009-07-07 - Coventry, UK - Ricoh Arena [AUD].txt"
     },
     {
       "year": 2009,
@@ -9854,7 +9854,7 @@ const ARTIST_DATA = {
       "notes": "Primo EM182 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-07-25 - London, UK - Wembley Stadium (Primo EM182) (unk) [AUD24].txt"
+      "textFile": "2025-07-25 - London, UK - Wembley Stadium (Custom Primo EM182) (Remaster) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -9868,7 +9868,7 @@ const ARTIST_DATA = {
       "notes": "Custom Primo EM182 \u00b7 2025 remaster",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-07-25 - London, UK - Wembley Stadium (Custom Primo EM182) (Remaster) [AUD24].txt"
+      "textFile": "2025-07-25 - London, UK - Wembley Stadium (Primo EM182) (unk) [AUD24].txt"
     },
     {
       "year": 2025,

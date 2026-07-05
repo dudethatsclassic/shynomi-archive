@@ -389,7 +389,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-02-04 - Hollywood, CA - Hollywood Palladium [AUD].txt"
+      "textFile": "1996-02-04 - Hollywood, CA - Hollywood Palladium - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -403,7 +403,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-02-04 - Hollywood, CA - Hollywood Palladium - ANA(M) (unk) [AUD].txt"
+      "textFile": "1996-02-04 - Hollywood, CA - Hollywood Palladium [AUD].txt"
     },
     {
       "year": 1996,

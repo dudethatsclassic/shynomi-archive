@@ -1401,7 +1401,7 @@ const ARTIST_DATA = {
       "notes": "Singer \u00b7 ATM 233",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1968-08-23 - Flushing Meadow Park, NY - Singer Bow (Stern - BONG) [DVD].txt"
+      "textFile": "1968-08-23 - Flushing Meadow Park, NY - Singer Bowl - LPCM AUDIO (Stern - BONG) [AUD].txt"
     },
     {
       "year": 1968,
@@ -1429,7 +1429,7 @@ const ARTIST_DATA = {
       "notes": "Singer \u00b7 stern-bong \u00b7 amalie r.",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "1968-08-23 - Flushing Meadow Park, NY - Singer Bowl - LPCM AUDIO (Stern - BONG) [AUD].txt"
+      "textFile": "1968-08-23 - Flushing Meadow Park, NY - Singer Bow (Stern - BONG) [DVD].txt"
     },
     {
       "year": 1968,
@@ -1645,7 +1645,8 @@ const ARTIST_DATA = {
       "venue": "Sunset-Highland Recording Studios *JH & Jack Bruce Jams",
       "notes": "Master",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-10-17 - Hollywood, CA - Jimi Hendrix & Jack Bruce Jams .txt"
     },
     {
       "year": 1968,

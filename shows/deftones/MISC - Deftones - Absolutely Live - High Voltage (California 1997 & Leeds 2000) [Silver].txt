@@ -1,0 +1,415 @@
+Deftones
+Absolutely Live - High Voltage
+01-08
+
+This is from an original copy of the radio show I own. It has not been altered. It includes national commercials and the songs are grouped as they were in the broadcast. Nothing has been changed.
+
+2CD radio show hosted by Tawn Mystery and recorded live at the Palace Hollywood, California on November 1st 1997 and the Leeds Festival in England on 26 August 2000. First broadcast 24/25th February 2001.
+
+Disc One: 
+1. My Own Summer (Shove It) 
+2. Root 
+3. Bored 
+4. Minus Blindfold 
+5. Mascara 
+6. Dai The Flu 
+7. Around The Fur 
+8. Be Quiet And Drive (Far Away) 
+
+Disc Two: 
+1. Headup 
+2. Feiticeira 
+3. Change (In The House Of Flies) 
+4. Korea 
+5. Digital Ba. but I cannot confirm that or the setlist as I do not have the cue sheets.
+
+Tracklist (unconfirmed):
+
+CD1Track01.flac:69376e748aa1744a5da36f78913663de
+CD1Track02.flac:15490d8a91670eb867ea5e574645fbc9
+CD1Track03.flac:64fc71c12fb2574758a3a095e08e4f74
+Track01.flac:85a4d82120584abfcbe4335738e2c3d5
+Track02.flac:411bee90428917250990bf2567808082
+Track03.flac:e6b72d97e2221a1192c65af30b88f396
+Track04.flac:2f1256ee9f00d06324925ecc3a2e576b
+Track05.flac:9d03d0f251dc54405db86467a92618ab
+Track06.flac:4d16fadda78768dd6917cfb104980b45
+Track07.flac:d8e330c8f274c892094f39d3ea8d6449
+Track08.flac:718a73c4f6145130cb266f348339d85b
+Track09.flac:b15739c1cc2cf7d13d953538a0ac85ad
+Track10.flac:16654ca3b8a593e00a19e436c45c9cc2
+Track11.flac:b5815274177b420f15ffb392ab1cd08f
+Track12.flac:5b0a4fea7fc1d6428367c34aa821381c
+Track13.flac:96d8cf7f39bf963b3e3570a499cba87c
+Track14.flac:aaf184e576589916dc12dec2838c3693
+Track15.flac:90ea9d46a7f1dabcd5cff63cffa3d327
+Track16.flac:f4f2fef404f05537cbe0c0f87c426819
+Track17.flac:955a34196bd545f390600db5d15248f3
+Track18.flac:7e6273f0d68a5dba44ca92af9a6e2688
+Track19.flac:e9241249497b444fce597eb19b827731
+Track20.flac:43a59d1b8d23f8f4334055975f7e3d3c
+Track21.flac:3c308c0676cea0637f55f960003e2598
+Track22.flac:af1b49851b6b36aede4a68073b1f8f38
+Track23.flac:009684174dfa582bc172d67ea00eb33f
+
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 15. January 2010, 14:39
+
+Deftones / 01-08
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 48
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format : Internal WAV Routines
+Sample format      : 44.100 Hz; 16 Bit; Stereo
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 | 16:00.04 |         0    |    72003   
+        2  | 16:00.04 | 15:55.12 |     72004    |   143640   
+        3  | 31:55.16 | 11:53.08 |    143641    |   197123   
+
+
+Track  1
+
+     Filename G:\CD1Track01.wav
+
+     Peak level 70.1 %
+     Track quality 100.0 %
+     Copy CRC 6759DBD2
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename G:\CD1Track02.wav
+
+     Peak level 72.7 %
+     Track quality 100.0 %
+     Copy CRC 4100BA25
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename G:\CD1Track03.wav
+
+     Peak level 59.2 %
+     Track quality 100.0 %
+     Copy CRC 99760EAB
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report
+
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 15. January 2010, 14:54
+
+Deftones / 01-082
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 48
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format : Internal WAV Routines
+Sample format      : 44.100 Hz; 16 Bit; Stereo
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 | 15:16.71 |         0    |    68770   
+        2  | 15:16.71 | 12:01.37 |     68771    |   122882   
+        3  | 27:18.33 | 10:02.62 |    122883    |   168094   
+        4  | 37:21.20 |  0:31.61 |    168095    |   170480   
+        5  | 37:53.06 |  0:52.16 |    170481    |   174396   
+        6  | 38:45.22 |  0:32.25 |    174397    |   176821   
+        7  | 39:17.47 |  0:31.62 |    176822    |   179208   
+        8  | 39:49.34 |  0:32.29 |    179209    |   181637   
+        9  | 40:21.63 |  0:32.22 |    181638    |   184059   
+       10  | 40:54.10 |  0:32.67 |    184060    |   186526   
+       11  | 41:27.02 |  0:32.67 |    186527    |   188993   
+       12  | 41:59.69 |  0:32.56 |    188994    |   191449   
+       13  | 42:32.50 |  0:32.46 |    191450    |   193895   
+       14  | 43:05.21 |  0:32.39 |    193896    |   196334   
+       15  | 43:37.60 |  0:32.18 |    196335    |   198752   
+       16  | 44:10.03 |  0:32.47 |    198753    |   201199   
+       17  | 44:42.50 |  0:32.41 |    201200    |   203640   
+       18  | 45:15.16 |  0:32.35 |    203641    |   206075   
+       19  | 45:47.51 |  0:32.70 |    206076    |   208545   
+       20  | 46:20.46 |  0:32.52 |    208546    |   210997   
+       21  | 46:53.23 |  0:32.45 |    210998    |   213442   
+       22  | 47:25.68 |  0:32.63 |    213443    |   215905   
+       23  | 47:58.56 |  0:31.32 |    215906    |   218262   
+
+
+Track  1
+
+     Filename G:\Track01.wav
+
+     Peak level 60.8 %
+     Track quality 100.0 %
+     Copy CRC A88E4C9C
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename G:\Track02.wav
+
+     Peak level 60.1 %
+     Track quality 100.0 %
+     Copy CRC E8EEE516
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename G:\Track03.wav
+
+     Peak level 63.8 %
+     Track quality 100.0 %
+     Copy CRC 4495E395
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename G:\Track04.wav
+
+     Peak level 57.5 %
+     Track quality 100.0 %
+     Copy CRC B4197188
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename G:\Track05.wav
+
+     Peak level 65.5 %
+     Track quality 100.0 %
+     Copy CRC EFADA49A
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename G:\Track06.wav
+
+     Peak level 44.4 %
+     Track quality 100.0 %
+     Copy CRC E7BA619C
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename G:\Track07.wav
+
+     Peak level 37.4 %
+     Track quality 100.0 %
+     Copy CRC 889F124F
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename G:\Track08.wav
+
+     Peak level 38.1 %
+     Track quality 100.0 %
+     Copy CRC 70FB69B7
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename G:\Track09.wav
+
+     Peak level 41.0 %
+     Track quality 100.0 %
+     Copy CRC 8BAFF7E3
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename G:\Track10.wav
+
+     Peak level 39.3 %
+     Track quality 99.6 %
+     Copy CRC D7EB3C75
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename G:\Track11.wav
+
+     Peak level 47.0 %
+     Track quality 99.6 %
+     Copy CRC 6B3463E2
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename G:\Track12.wav
+
+     Peak level 61.5 %
+     Track quality 100.0 %
+     Copy CRC 71C26323
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 13
+
+     Filename G:\Track13.wav
+
+     Peak level 38.9 %
+     Track quality 100.0 %
+     Copy CRC 166FC3EA
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 14
+
+     Filename G:\Track14.wav
+
+     Peak level 51.9 %
+     Track quality 99.6 %
+     Copy CRC 587D1E97
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 15
+
+     Filename G:\Track15.wav
+
+     Peak level 46.3 %
+     Track quality 100.0 %
+     Copy CRC 34E9E8A4
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 16
+
+     Filename G:\Track16.wav
+
+     Peak level 48.1 %
+     Track quality 100.0 %
+     Copy CRC 32C477CA
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 17
+
+     Filename G:\Track17.wav
+
+     Peak level 47.5 %
+     Track quality 99.6 %
+     Copy CRC 858543CC
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 18
+
+     Filename G:\Track18.wav
+
+     Peak level 44.9 %
+     Track quality 100.0 %
+     Copy CRC 96144073
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 19
+
+     Filename G:\Track19.wav
+
+     Peak level 47.7 %
+     Track quality 100.0 %
+     Copy CRC 1EAF074E
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 20
+
+     Filename G:\Track20.wav
+
+     Peak level 46.2 %
+     Track quality 100.0 %
+     Copy CRC 68289C1A
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 21
+
+     Filename G:\Track21.wav
+
+     Peak level 35.3 %
+     Track quality 100.0 %
+     Copy CRC 019CCD76
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 22
+
+     Filename G:\Track22.wav
+
+     Peak level 45.0 %
+     Track quality 100.0 %
+     Copy CRC 8D879872
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 23
+
+     Filename G:\Track23.wav
+
+     Peak level 41.1 %
+     Track quality 100.0 %
+     Copy CRC 73F2B9F9
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

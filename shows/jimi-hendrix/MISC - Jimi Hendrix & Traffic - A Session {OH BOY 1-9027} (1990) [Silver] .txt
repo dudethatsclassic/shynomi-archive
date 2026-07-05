@@ -1,0 +1,30 @@
+Jimi Hendrix & Traffic - A Session
+
+from: http://home.online.no/~hpjohnse/hendrix.html#underground
+
+Jimi Hendrix & Traffic: A Session (Oh Boy! 1-9027 / 1990 / 1CD) ftbfs: B349
+(Jam with Traffic, Electric Lady Studio, New York City, NY 15.06.70 plus TTG Studios, Hollywood, CA 29.10.68 / Buddy Miles Jam, New York City, NY 14.11.69)
+
+Tracks:
+1.  Jam Thing		18:38
+2.  Guitar Thing	 5:15
+3.  Session Thing	35:27*
+
+*notes:
+- "Session Thing" was initially believed to be part of the Jam with Traffic at Electric Lady Studios 15.06.70, but has later been determined to come from TTG Studios 29.10.68. It has now also been suggested that the flute may have been played by Lowell George, not Jim Horn, and the keyboards by Graham Bond, not Lee Michaels.
+- This album has later been reissued as "Lover Man" (Oil Well 123 CD)
+
+This is the often talked about session that Jimi recorded with the members of Traffic (Steve Winwood's band at the time). This is an excellent quality soundboard recording from OH BOY...JOIN THE DE LUXE WAY.  As the CD arts tells you "This session was recorded at an unknown place in the late 60's."   A purely instrumental affair, alternately dated as 1968 or 1970, this studio material is among the most intriguing unreleased pieces of either performer. The lineup is listed as Jimi Hendrix (guitar), Steve Winwood (piano), Chris Wood 
+(flute), Rick Grech (bass), and Jim Capaldi (drums), but the actual lineup of these recordings is uncertain. Only Hendrix is identifiable with certainty. The overall sound resembles Traffic, and the piano and flute parts seem particularly recognizable as Steve and Chris, respectively.
+  The music on this cd consists of jams that, in contrast to Traffic's usual melodic sensibilities, range from minor key to almost atonal structure. Some of the magic of the "Voodoo Chile" session is also evident on this recording. The jams sound basically spontaneous, organized around particular keys with shifting tempos, and lack a distinct song structure. None of them sound like they were even intended to have vocal parts. For the most part, the piano and drums drive the rhythms while the guitar and flute solo. The extraordinary aspect of the recording is the complementary interplay between Jimi and Chris. While Jimi builds upon driving vamps that eventually erupt into molten solos, Chris counterbalances with his usual delicate, mellowing flute. The result of this collaboration is at least interesting, and sometimes magical. Unlike other Hendrix jam sessions, Jimi seems to have a lot of respect for Traffic and doesn't fully dominate the proceedings, which makes the session perhaps unique to both entities.
+  This bootleg CD consists of three jams of excellent quality studio recordings. The insert states that the session "was recorded at an unknown place in the late 60's". Credits are Jimi Hendrix (guitar), Chris Wood (flute and saxophone), Jim Capaldi (drums), and Steve Winwood (organ). In the book Jimi Hendrix: Electric Gypsy (1995), by Harry Shapiro and Caesar 
+Glebbeek, the well researched discography section lists the CD as released in late 1990, and recorded in 1968 or 1969. 
+
+
+Lineage: Original Silver CD -> EAC>WAV -> mkw Audio Compression Tool>SHN
+
+==============comments===================
+
+This is a nice sounding hendrix session with the UK band Traffic. I converted the original shorten files to flac and verified them. I like to play flacs with toolplayer :-)
+
+Enjoy this!

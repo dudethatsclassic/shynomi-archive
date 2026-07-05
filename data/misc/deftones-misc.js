@@ -9,7 +9,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Absolutely Live - High Voltage (California 1997 & Leeds 2000)",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Deftones - Absolutely Live - High Voltage (California 1997 & Leeds 2000) [Silver].txt"
   },
   {
     "type": "label",

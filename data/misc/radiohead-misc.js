@@ -43,7 +43,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Radiohead - Unplugged Again (HOWL 22)",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Radiohead - Unplugged Again (HOWL 22) [Silver].txt"
   },
   {
     "type": "release",
@@ -65,7 +66,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Radiohead - Take Me Back (Live Recordings 2000-2018)",
     "version": "SBD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Radiohead - Take Me Back (Live Recordings 2000-2018) [Compilation].txt"
   },
   {
     "type": "label",
@@ -244,7 +246,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Radiohead - Thieves in New York (GBB06) (2003)",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Radiohead - Thieves in New York (GBB06) (2003) [Silver].txt"
   },
   {
     "type": "label",
@@ -1165,5 +1168,141 @@ const ARTIST_MISC_DATA = [
     "label": "The Smile - Goodie Bag",
     "version": "JPGS",
     "format": "MP4"
+  },
+  {
+    "type": "release",
+    "label": "1995 - Black Sessions",
+    "year": 1993,
+    "version": "Silver CD",
+    "textFile": "MISC - 1993-1995 - Black Sessions [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "2001 - NPA Live (Wild Child Records)",
+    "year": 1993,
+    "version": "Silver CD",
+    "textFile": "MISC - 1993-2001 - NPA Live (Wild Child Records) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Slower Demo",
+    "year": 1994,
+    "textFile": "MISC - 1994 - Slower Demo.txt"
+  },
+  {
+    "type": "release",
+    "label": "05-27 - London, UK - Live at the Astoria",
+    "year": 1994,
+    "format": "DVD"
+  },
+  {
+    "type": "release",
+    "label": "1996 - Radiotick Demos",
+    "year": 1994,
+    "textFile": "MISC - 1994-1996 - Radiotick Demos.txt"
+  },
+  {
+    "type": "release",
+    "label": "1996-XX-XX - Kill Me Sarah",
+    "year": 1994,
+    "format": "DVD",
+    "textFile": "MISC - 1994-1996-XX-XX - Kill Me Sarah [DVD].txt"
+  },
+  {
+    "type": "release",
+    "label": "2001 - Old Dutch Stuff (Fixed)",
+    "year": 1995,
+    "format": "DVD",
+    "textFile": "MISC - 1995-2001 - Old Dutch Stuff (Fixed) [DVD].txt"
+  },
+  {
+    "type": "release",
+    "label": "07+08-XX - Iberian Tour Compilation",
+    "year": 2002,
+    "textFile": "MISC - 2002-07+08-XX - Iberian Tour Compilation.txt"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - Where I End And You Begin (Demo)",
+    "year": 2002
+  },
+  {
+    "type": "release",
+    "label": "04-21 - The Radiohead Story on BBC World Service",
+    "year": 2003,
+    "textFile": "MISC - 2003-04-21 - The Radiohead Story on BBC World Service.txt"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - The King of Limbs from the Basement",
+    "year": 2012
+  },
+  {
+    "type": "release",
+    "label": "11-07 - Andi Watson Daydreaming Of Radiohead Stream Cap",
+    "year": 2018,
+    "textFile": "MISC - 2018-11-07 - Andi Watson Daydreaming Of Radiohead Stream Cap.txt"
+  },
+  {
+    "type": "release",
+    "label": "Everything In Its Right Place Remixes"
+  },
+  {
+    "type": "release",
+    "label": "Hail to the Thief - Where I End (Demo)"
+  },
+  {
+    "type": "release",
+    "label": "Radiohead - After The Head Rush EP (Neil Young Covers)",
+    "textFile": "MISC - Radiohead - After The Head Rush EP (Neil Young Covers).txt"
+  },
+  {
+    "type": "release",
+    "label": "Radiohead - Art & Print"
+  },
+  {
+    "type": "release",
+    "label": "Radiohead - HACKED - MiniDiscs (more complete)",
+    "format": "MP3"
+  },
+  {
+    "type": "release",
+    "label": "Radiohead - Lost Treasures (1993-1997)",
+    "version": "Silver CD"
+  },
+  {
+    "type": "release",
+    "label": "Radiohead - MINIDISCS -HACKED"
+  },
+  {
+    "type": "release",
+    "label": "Radiohead - MTV 2 Dollar Bill (2003)",
+    "year": 2003
+  },
+  {
+    "type": "release",
+    "label": "Radiohead - Never Run Away (The Pablo Honey Tour) (choc-eclaire - fuzzbluerain)",
+    "format": "COMPILATION",
+    "textFile": "MISC - Radiohead - Never Run Away (The Pablo Honey Tour) (choc-eclaire - fuzzbluerain) [COMPILATION].txt"
+  },
+  {
+    "type": "release",
+    "label": "Radiohead - Secrets To Be Told - A Collection (1990-2012)",
+    "textFile": "MISC - Radiohead - Secrets To Be Told - A Collection (1990-2012).txt"
+  },
+  {
+    "type": "release",
+    "label": "Radiohead - Slipped Away (the Kid A Tour) (choc_eclaire)",
+    "textFile": "MISC - Radiohead - Slipped Away (the Kid A Tour) (choc_eclaire).txt"
+  },
+  {
+    "type": "release",
+    "label": "Radiohead - TKOL - Live From the Basement"
+  },
+  {
+    "type": "release",
+    "label": "Radiohead - The Golden Unplugged Abum",
+    "version": "Silver CD",
+    "textFile": "MISC - Radiohead - The Golden Unplugged Abum [Silver].txt"
   }
 ];

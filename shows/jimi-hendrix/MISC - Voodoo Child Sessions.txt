@@ -1,0 +1,77 @@
+Jimi Hendrix - The Voodoo Chile Sessions- May 1968.
+
+Band Name : Jimi Hendrix Experience
+Venue : Record Plant, New York.
+
+Date : Thursday 2nd, Friday 3rd may 1968
+
+Source: My Hendrix collection
+
+Lineage: Master > cassette > DAT > CDR > Soundstudio > Shorten > SHN > FLAC
+
+As far as I know (and given my source) the details above are correct. However I think there may well be two cassette copies in the lineage.
+
+Taped by: Eddie Kramer
+Transfered by: Unknown
+
+File Size: 414 MB(FLAC)
+
+Setlist:
+
+A. Voodoo Chile (blues session) (2.5.68)
+B. Voodoo Chile (slight return) (session) Takes 1-21 (3.5.68)
+
+Notes:
+
+You will find 24 files altogether. Sorry that's the way I indexed them. These sessions have been well abused on various bootleg releases - you may well find the quality of this slightly better.
+
+NB: These _have not_ been taken from any bootleg release!
+
+Someone asked me if I could post this material, so here it is. Hope you like it.
+
+The cover is included. Sorry for those of you who are not into origami but I got a little carried away with this one and it includes an 8 page booklet. All photos were taken during the EL recordings sessions at the Record Plant.
+
+
+**************************
+Do not encode to MP3
+**************************
+
+Pass It On.
+
+(In other words don't be one of those who downloads material and then shuts their window)
+
+2b2fed26616d0acb75cf190cf0f9f0dc  [shntool]  01-Voodoo-Chile.flac
+14adf23dd2d4d0022a1d6118a3b780b3  [shntool]  02-Voodoo-Chile.flac
+87479427421e89c55ed929e26a3836f9  [shntool]  03-Voodoo-Chile.flac
+6b6bea2c5f0f4841d075b62a3c3e1933  [shntool]  04-Voodoo-Chile.flac
+6b4874bbbb2e1cc066a0f15f1d8063b3  [shntool]  05-Voodoo-Child-(Slight-Return).flac
+6e9530d391a38bc16f07dd7a745ae776  [shntool]  06-Voodoo-Child-(Slight-Return).flac
+e5e6627f076059d82d58efb4d9b38397  [shntool]  07-Voodoo-Child-(Slight-Return).flac
+40c838883f62aa6474905814a1c060a1  [shntool]  08-Voodoo-Child-(Slight-Return).flac
+134e3c55a93003e700d59fd1af8802c8  [shntool]  09-Voodoo-Child-(Slight-Return).flac
+224da080e82b60006be4a17863c57295  [shntool]  10-Voodoo-Child-(Slight-Return).flac
+1d525084b794f799ae5a7422b7abd302  [shntool]  11-Voodoo-Child-(Slight-Return).flac
+f2e3148f8886f78e4ef06c1752df293a  [shntool]  12-Voodoo-Child-(Slight-Return).flac
+3b8785c54fc8b2bcd22f573413db0ba4  [shntool]  13-Voodoo-Child-(Slight-Return).flac
+76007a8d4d877d486b0e4f13652bd248  [shntool]  14-Voodoo-Child-(Slight-Return).flac
+a7cb3927a61b6574da8ce1273f8c0a83  [shntool]  15-Voodoo-Child-(Slight-Return).flac
+938245ecadd7250a10973ccaecdfd5eb  [shntool]  16-Voodoo-Child-(Slight-Return).flac
+
+    length     expanded size   cdr  WAVE problems filename
+    12:32.27      132716348    ---   --   ---xx   01-Voodoo-Chile.flac
+     9:36.63      101754620    ---   --   ---xx   02-Voodoo-Chile.flac
+     2:33.48       27102140    ---   --   ---xx   03-Voodoo-Chile.flac
+    15:30.33      164129660    ---   --   ---xx   04-Voodoo-Chile.flac
+     1:27.28       15412700    ---   --   ---xx   05-Voodoo-Child-(Slight-Return).flac
+     4:15.58       45118460    ---   --   ---xx   06-Voodoo-Child-(Slight-Return).flac
+     1:36.56       17066156    ---   --   ---xx   07-Voodoo-Child-(Slight-Return).flac
+     0:38.72        6872588    ---   --   ---xx   08-Voodoo-Child-(Slight-Return).flac
+     1:34.25       16640444    ---   --   ---xx   09-Voodoo-Child-(Slight-Return).flac
+     2:06.44       22329932    ---   --   ---xx   10-Voodoo-Child-(Slight-Return).flac
+     3:59.19       42204332    ---   --   ---xx   11-Voodoo-Child-(Slight-Return).flac
+     1:29.50       15817244    ---   --   ---xx   12-Voodoo-Child-(Slight-Return).flac
+     6:08.27       64978748    ---   --   ---xx   13-Voodoo-Child-(Slight-Return).flac
+     2:39.01       28049996    ---   --   ---xx   14-Voodoo-Child-(Slight-Return).flac
+     1:06.34       11722412    ---   --   ---xx   15-Voodoo-Child-(Slight-Return).flac
+     5:26.35       57588764    ---   --   ---xx   16-Voodoo-Child-(Slight-Return).flac
+    72:42.20      769504544 B                     (totals for 16 files, 0.5629 overall compression ratio)

@@ -1,0 +1,60 @@
+Kurt Cobain - The Beginning Of Grunge
+
+GENERATION:
+ANA(1) > WAV [44.1kHz] > FLAC
+
+LENGTH:
+08:05
+
+TRACKS:
+01. Hey Jude.flac
+02. Catch A Hippie By His Toe.flac
+03. AppleJacks.flac
+04. Wheely Sound.flac
+05. The Monkees.flac
+06. Im A Ham, Ham.flac
+07. Smokey The Bear.flac
+08. I Slobbered On The Microphone.flac
+09. See The Little Pufferbellies.flac
+10. Ee and Yeah!.flac
+11. Kurt Counting from 1-10 & Yeah.flac
+12. Go! Go! Early Grunge Singing.flac
+13. The Monkees.flac
+14. Lets Go! Early Grunge Singing.flac
+15. Screaming - Hey Monkees!!!.flac
+16. Hey Mama Mama Mama.flac
+17. He Said, Mama, Mama, Mama.flac
+18. Better Better Better Hey Jude.flac
+19. Singing Hey Jude.flac
+20. I Do It By Myself.flac
+
+TRANSFER:
+Nakamichi CR-7A > Canare cable > D.A.L. Card Deluxe > Adobe Audition CC > CDWav 1.98 > Trader's Little Helper 2.7.0
+
+MD5 CHECKSUM:
+c0aba8cb6fcac443c39f5dc350a77ad3 *01 Hey Jude.flac
+fd8884d3d59c12b1e10dbe3acfbc0e40 *02 Catch A Hippie By His Toe.flac
+ebecd791fb2d6d37ff50cae3397e56a6 *03 AppleJacks.flac
+f9c2d4dd4d4decbd69c18c8434c9ed00 *04 Wheely Sound.flac
+95319bede63a6d95d8de266d496deadb *05 The Monkees.flac
+075b34e49311be46f0fe451cf746c328 *06 Im A Ham, Ham.flac
+fc292e39997b94dd9cc490cb476ff835 *07 Smokey The Bear.flac
+bd43a38fbb200bbad939f657d83a365b *08 I Slobbered On The Microphone.flac
+2f4e5033bc74eb6f31b3b056ed7bba98 *09 See The Little Pufferbellies.flac
+bb93e7cb63eafdf1440aa3d34dad318e *10 Ee and Yeah!.flac
+9090d5f33f7c8d24c2929498c329861c *11 Kurt Counting from 1-10 & Yeah.flac
+b149939e6dfb545e679d7e02063aa8e7 *12 Go! Go! Early Grunge Singing.flac
+b4747b331703bedd15adeece38ff7afa *13 The Monkees.flac
+fa4c877017daf984a7f3ba5b85841718 *14 Lets Go! Early Grunge Singing.flac
+2485b2fef1a708e5efa7a793384794a8 *15 Screaming - Hey Monkees!!!.flac
+3d7634523ee6339fb9392396ef7f826f *16 Hey Mama Mama Mama.flac
+6c5a6d367effe5c1032607669f9116b4 *17 He Said, Mama, Mama, Mama.flac
+95e0a513c1f6448b81c90317797e918d *18 Better Better Better Hey Jude.flac
+cd936f34773b640e3a602cfe25652a2f *19 Singing Hey Jude.flac
+27a93d142e8135fd64d524a4954a91df *20 I Do It By Myself.flac
+
+
+Transferred by Rob Landis
+www.LiveNirvana.com
+January 2020
+roblandisnow@gmail.com

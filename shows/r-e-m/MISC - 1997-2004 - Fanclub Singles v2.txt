@@ -1,0 +1,79 @@
+I would recommend putting the 1997 tracks on the 1988-1996 CD, because they
+will not fit on this CD without overburning.  That's why they are named as they are.
+
+Lineage: 
+
+Tracks 1,2: Fanclub VHS -> Canon Optura30 -> 48Khz 16-Bit Audio on DV -> SoundForge 8 (for re-sampling to 44.1, and normalization, all done at 32-bit and dithered down to 16) -> FLAC Level 8
+
+Tracks 5-7,0.0,0.1: optical digital out from turntable -> Alesis Masterlink -> CD -> Exact Audio Copy -> SoundForge 8 (for normalization, done in 32-Bit, and dithered down to 16.) -> FLAC Level 8
+
+Tracks 8,9,11,14,15: Fanclub CD -> Exact Audio Copy -> Soundforge 8 (normalized to a lower dB level to match the rest of this compilation, done in 32-Bit, and dithered down to 16) -> FLAC Level 8
+
+Tracks 3,4,10,12,13: Fanclub CD -> Exact Audio Copy -> FLAC Level 8
+
+Fanclub Singles 1997-2004
+
+0.0. Live For Today 			1997a
+0.1. Happy When I'm Crying (Pearl Jam) 	1997b
+01. E-Bow the Letter 			1998a
+02. Lucky (Michael with Radiohead) 	1998b
+03. Country Feedback (with Neil Young) 	1999a
+04. Ambulance Blues (Neil Young) 	1999b
+05. Christmas Time (Is Here Again) 	2000a
+06. Hastings and Main 			2000b
+07. Take Seven 				2000c
+08. Let Me In 				2001a
+09. Find the River 			2001b
+10. Jesus Christ 			2002a
+11. No Matter What 			2002b
+12. Country Feedback 			2003a
+13. ITEOTWAWKI 				2003b
+14. I Wanted To Be Wrong 		2004a
+15. She Just Wants To Be 		2004b
+
+Additional Info:
+
+1998:
+
+Recorded June 14, 1998
+Tibetan Freedom Concert, Washington D.C. 
+
+1999:
+
+Recorded October 17, 1998, 
+Bridge School Benefit Concert, 
+Shoreline Amphitheater, Mountain View, CA 
+
+2002:
+
+Buck, Mills, Stipe
+Additional Musicians:
+Mitch Easter-Guitar
+Jon Wurster-Drums
+Recorded: unknown date
+Fidelitorium Studios, Forsyth County, NC
+Engineered by Mitch Easter
+Warehouse Studio, Vancouver, BC
+Engineered by Jamie Candiloro
+
+2003:
+
+Guest appearance on both songs by Wilco
+Recorded live September 14th 2003 at Red Rocks
+
+2004:
+
+Buck, Mills, Stipe
+With
+Scott McCaughey
+Ken Stringfellow
+Bill Rieflin
+Recorded live September 15th, 2004 at St. James church, London
+
+Note:
+Three of these files have been shared before, by Shacklesofyouth, as Holiday Singles 02-03-04 (http://www.murmurs.com/talk/showthread.php?t=81441), so if you have those files you have a jumpstart on downloading.  You will need to change the filenames though:
+
+REM Holiday Single 02 tr1-Jesus Christ.flac -> 10_02a Jesus Christ.flac
+REM Holiday Single 03 t1-Country Feedback.flac -> 12_03a Country Feedback.flac
+REM Holiday Single 03 tr2-ITEOTWAWKI.flac -> 13_03b ITEOTWAWKI.flac
+

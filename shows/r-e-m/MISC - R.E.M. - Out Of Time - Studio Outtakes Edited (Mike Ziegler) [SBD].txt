@@ -1,0 +1,37 @@
+Artist: R.E.M.
+Date: July 16-20 1990
+Source: Studio
+Location: Athens, GA 
+Venue: John Keane's Studio
+Lineage: DAT(x)>WAV [48kHz/16bit]>WAV [44.1kHz/16bit]>Flac 
+Transfer: Tascam DA-20 MKII>PreSonus FireStudio Project>Adobe Audition 3.0 
+Transferred By: Mike Ziegler 
+Dat tape courtesy of JEMS archives
+
+Setlist:
+01. Radio Song (hard)
+02. Untitled
+03. Texarkana
+04. It's A Free World Baby
+05. Here I Am Again
+06. Night Swim
+07. Losing My Religion
+08. Speed Metal
+09. Shiny Happy People
+10. Me In Honey
+11. Endgame
+12. Half A World Away
+13. Sugar Cane
+14. Radio Song (soft)
+15. Near Wild Heaven
+16. Fretless
+Tracks 17 - 21 omitted due to being officially released
+17. Low (B-side on Wanderlust single)
+18. Forty Second Song (B-side on Shiny Happy People single)
+19. Country Feedback (same version as on Out Of Time)
+20. Ghost Reindeer In The Sky (fanclub single Dec. 1990)
+21. Summertime (fanclub single Dec. 1990)
+22. I Walked With A Zombie (Where the Pyramid Meets the Eye: A Tribute to Roky Erickson album)
+
+Notes:
+Various studio outtakes and demos recorded in conjunction with the Out Of Time album. Officially released tracks are omitted from this fileset but listed for documentation purposes for other collectors to compare against. 

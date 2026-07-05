@@ -1,0 +1,49 @@
+Radiohead
+
+Electric Ladyland Studios, New York City, NY, USA
+
+4th June 2003
+
+'Thieves In New York', Georgama Bin Bush, GBB06
+
+Lineage : Silver > EAC (Secure) > WAV > TLH (Verify then flac8) > TTD...
+
+Setlist
+01 - Intro
+02 - I Might Be Wrong
+03 - Sail To The Moon
+04 - Go To Sleep (False Start)
+05 - Go To Sleep
+06 - A Punchup At A Wedding
+07 - No Surprises (False Start)
+08 - No Surprises
+09 - I Will
+10 - There There
+11 - Everything In It's Right Place
+12 - Karma Police
+
+BONUS TRACKS
+
+13 - Knives Out
+14 - Fake Plastic Trees
+
+All thanks to the taper...
+
+A Thom & Jonny acoustic show, this might well be a Pre-FM - it contains no DJ banter at all, but it does contain between song banter with the
+
+audience.  Absolutely stunning quality, & a great performance to boot, this was recorded for KCRW 'Morning Becomes Eclectic'.  The main tracks 
+
+are from the 1st set done that day, the two bonus tracks are from the 2nd set, recorded the same day.  There is an edited online version of 
+
+this at KCRW's website, http://www.kcrw.com/music/shows/morning-becomes-eclectic/radiohead-1 (missing the false starts, several tracks, & 
+
+it's not the same sequence as above), but this cd does appear to be a pre-fm, & the spectral analysis shows no lossiness when run through EAC or
+
+Audacity.
+
+
+EAC Log, ffp, md5 included
+
+Don't turn this to mp3, decode them to wav in tlh & burn them instead...
+
+Uploaded to TTD September 2016

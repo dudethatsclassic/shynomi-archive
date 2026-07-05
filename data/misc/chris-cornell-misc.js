@@ -2,7 +2,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Chris Cornell - Nissan Live Sets on Yahoo Music (2007) {YM 070404}",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Chris Cornell - Nissan Live Sets on Yahoo Music (2007) [FLAC] {YM 070404}.txt"
   },
   {
     "type": "label",

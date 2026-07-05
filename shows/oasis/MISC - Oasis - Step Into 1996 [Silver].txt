@@ -1,0 +1,25 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01 You've Got To Hide Your Love Away (acoustic).wav:  track looks like CDDA with probability 99%.
+02 Cum On Feel The Noize.wav:  track looks like CDDA with probability 100%.
+03 Wonderwall.wav:  track looks like CDDA with probability 100%.
+04 Round Are Way.wav:  track looks like CDDA with probability 100%.
+05 Come Together.wav:  track looks like CDDA with probability 100%.
+06 Cum On Feel The Noize.wav:  track looks like CDDA with probability 100%.
+07 Don't Look Back In Anger.wav:  track looks like CDDA with probability 100%.
+08 Wonderwall.wav:  track looks like CDDA with probability 100%.
+09 Roll With It.wav:  track looks like CDDA with probability 99%.
+10 It's Good To Be Free.wav:  track looks like CDDA with probability 99%.
+11 Talk Tonight (acoustic).wav:  track looks like CDDA with probability 100%.
+12 Bonehead's Bank Holiday.wav:  track looks like CDDA with probability 100%.
+13 Live Forever.wav:  track looks like CDDA with probability 100%.
+14 Bring It On Down.wav:  track looks like CDDA with probability 100%.
+15 Fade Away (acoustic).wav:  track looks like CDDA with probability 100%.
+16 Sad Song (acoustic).wav:  track looks like CDDA with probability 100%.
+17 Whatever.wav:  track looks like CDDA with probability 100%.
+18 I Am The Walrus.wav:  track looks like CDDA with probability 100%.

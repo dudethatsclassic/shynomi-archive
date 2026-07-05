@@ -1,0 +1,62 @@
+Band : Counting Crows
+Title :  Live Collection Vol 8
+Dates : Various
+Location :Various
+Pro-Shot or Audience shot : Proshot
+Stand Alone or PC : PC
+NTSC or Pal : PAL
+Menus : Menu  with song selection
+Video Quality : 10
+Audio Quality : 10
+Comments :  A FogOnTheTyne Production
+
+Track Listing :
+
+Menu 1:
+Woodstock 99
+Griffiss Business and Techology Park
+(formerly Griffiss Air Force Base)
+Rome, NY
+24th July 1999
+
+01.  Mr. Jones (rock n roll star intro) 
+02.  Angels of the Silences
+03.  Rain King
+04.  Anna Begins
+05.  Omaha
+06.  Recovering the Satellites
+07.  Round Here
+08.  Hanginaround
+09.  A Long December
+10.  Have  You Seen Me Lately?
+11.  A Murder Of One
+
+Menu 2:
+Glastonbury Festival
+Worthy Farm, Pilton
+Somerset, England
+23rd June 2000
+
+12.  Hanginaround
+
+Note: From Japanese TV broadcast
+
+Menu 3:
+Today Live (NBC)
+Rockefeller Plaza
+New York City
+28th May 2004
+
+13.  Interview
+14.  Accidently In Love
+15.  Mr. Jones
+16.  Big Yellow Taxi
+17.  Hard Candy
+
+Menu 4:
+
+18.  Accidently In Love video
+
+Note: Lemon video capture
+
+Note: This includes the fixed files for the menu background for the first menu as the original seed at Bootcity was incorrect. It should have a Woodstock background, instead it has an Amazon background. I included this because most people downloaded only the original files at Bootcity and I did not want to mess up the MD5 files. Read the README file in the FIXED FILES folder to correct your dvd.

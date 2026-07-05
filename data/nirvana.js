@@ -1695,7 +1695,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 am",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1989-11-02 - Groningen, The Netherlands - Vera.txt"
+      "textFile": "1989-11-02 - AMT #1c - VHS(x)-MP4-AAC-WAV-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1989,
@@ -1723,7 +1723,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 fb",
       "version": "AMT #1c",
       "format": "FLAC",
-      "textFile": "1989-11-02 - AMT #1c - VHS(x)-MP4-AAC-WAV-FLAC - 44.1kHz.txt"
+      "textFile": "1989-11-02 - Groningen, The Netherlands - Vera.txt"
     },
     {
       "year": 1989,
@@ -2059,7 +2059,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 fb",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1989-11-20 - AMT #1 - VHS(1)-DVDR(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1989-11-20 - AMT #1 - VHS(1)-DVDR(1) (reauthor) [CE].txt"
     },
     {
       "year": 1989,
@@ -2073,7 +2073,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 re-author \u00b7 ce",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1989-11-20 - AMT #1 - VHS(1)-DVDR(1) (reauthor) [CE].txt"
+      "textFile": "1989-11-20 - AMT #1 - VHS(1)-DVDR(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1989,
@@ -2087,7 +2087,7 @@ const ARTIST_DATA = {
       "notes": "VHS(M) \u00b7 fb",
       "version": "AMT #2 (44.1k)",
       "format": "FLAC",
-      "textFile": "1989-11-20 - AMT #2 - VHS(M)-DVDR(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1989-11-20 - AMT #2 - VHS(M)-DVDR(1) [AF].txt"
     },
     {
       "year": 1989,
@@ -2101,7 +2101,7 @@ const ARTIST_DATA = {
       "notes": "VHS(M) \u00b7 a.f.",
       "version": "AMT #2",
       "format": "DVD",
-      "textFile": "1989-11-20 - AMT #2 - VHS(M)-DVDR(1) [AF].txt"
+      "textFile": "1989-11-20 - AMT #2 - VHS(M)-DVDR(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1989,
@@ -2199,7 +2199,7 @@ const ARTIST_DATA = {
       "notes": "8MM(M)",
       "version": "AMT #1a",
       "format": "FLAC",
-      "textFile": "1989-11-26_AUD_1.txt"
+      "textFile": "1989-11-26 - AMT #1 - VHS(1)-DVDR(0) [PL].txt"
     },
     {
       "year": 1989,
@@ -2213,7 +2213,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 pl",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1989-11-26 - AMT #1 - VHS(1)-DVDR(0) [PL].txt"
+      "textFile": "1989-11-26_AUD_1.txt"
     },
     {
       "year": 1989,
@@ -2880,7 +2880,7 @@ const ARTIST_DATA = {
       "notes": "VHS(M) \u00b7 mz",
       "version": "AMT #2",
       "format": "FLAC",
-      "textFile": "1990-02-12_AUD_1.txt"
+      "textFile": "1990-02-12 - AMT #2 - VHS(M)-DVDR(1) (reauthor) [MZ].txt"
     },
     {
       "year": 1990,
@@ -2894,7 +2894,7 @@ const ARTIST_DATA = {
       "notes": "VHS(M) \u00b7 mz reauthor",
       "version": "AMT #2",
       "format": "DVD",
-      "textFile": "1990-02-12 - AMT #2 - VHS(M)-DVDR(1) (reauthor) [MZ].txt"
+      "textFile": "1990-02-12_AUD_1.txt"
     },
     {
       "year": 1990,
@@ -2992,7 +2992,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 john loughney",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1990-02-15_AUD_2.txt"
+      "textFile": "1990-02-15 Live At Raji's 1990 (JWB REMASTER) [FLAC].txt"
     },
     {
       "year": 1990,
@@ -3006,7 +3006,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M)",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1990-02-15 - Hollywood, CA - Raji's.txt"
+      "textFile": "1990-02-15_AUD_2.txt"
     },
     {
       "year": 1990,
@@ -3034,7 +3034,7 @@ const ARTIST_DATA = {
       "notes": "jwb remaster",
       "version": "AUD #2",
       "format": "FLAC",
-      "textFile": "1990-02-15 Live At Raji's 1990 (JWB REMASTER) [FLAC].txt"
+      "textFile": "1990-02-15 - Hollywood, CA - Raji's.txt"
     },
     {
       "year": 1990,
@@ -3520,7 +3520,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 dl",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1990-04-17 - PRO #1 - BETA(M)-VHS(2)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-04-17 - Montreal, Quebec - Foufounes Electriques.txt"
     },
     {
       "year": 1990,
@@ -3548,7 +3548,7 @@ const ARTIST_DATA = {
       "notes": "BETA(M) \u00b7 ch",
       "version": "PRO #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1990-04-17 - Montreal, Quebec - Foufounes Electriques.txt"
+      "textFile": "1990-04-17 - PRO #1 - BETA(M)-VHS(2)-DVDR(0) [CH].txt"
     },
     {
       "year": 1990,
@@ -3562,7 +3562,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 ch",
       "version": "PRO #1",
       "format": "DVD",
-      "textFile": "1990-04-17 - PRO #1 - BETA(M)-VHS(2)-DVDR(0) [CH].txt"
+      "textFile": "1990-04-17 - PRO #1 - BETA(M)-VHS(2)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -3869,7 +3869,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 ks",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1990-05-06 - AMT #1 - VHS(x)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-05-06 - AMT #1 - VHS(x)-DVDR(0) [KS].txt"
     },
     {
       "year": 1990,
@@ -3883,7 +3883,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 ks",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1990-05-06 - AMT #1 - VHS(x)-DVDR(0) [KS].txt"
+      "textFile": "1990-05-06 - AMT #1 - VHS(x)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -3897,7 +3897,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 ks",
       "version": "AMT #2 (44.1k)",
       "format": "FLAC",
-      "textFile": "1990-05-06 - AMT #2 - VHS(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-05-06 - AMT #2 - VHS(1)-DVDR(0) [KS].txt"
     },
     {
       "year": 1990,
@@ -3911,7 +3911,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 ks",
       "version": "AMT #2",
       "format": "DVD",
-      "textFile": "1990-05-06 - AMT #2 - VHS(1)-DVDR(0) [KS].txt"
+      "textFile": "1990-05-06 - AMT #2 - VHS(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -4215,7 +4215,7 @@ const ARTIST_DATA = {
       "notes": "ANA(3) \u00b7 mz",
       "version": "AUD #1a",
       "format": "FLAC",
-      "textFile": "1990-09-22 - AUD #1b - ANA(x)-DAT(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-09-22 -Seattle, WA - Motor Sports International Garage.txt"
     },
     {
       "year": 1990,
@@ -4229,7 +4229,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 jd",
       "version": "AUD #1b (44.1k)",
       "format": "FLAC",
-      "textFile": "1990-09-22 -Seattle, WA - Motor Sports International Garage.txt"
+      "textFile": "1990-09-22 - AUD #1b - ANA(x)-DAT(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -4353,7 +4353,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1990-10-11 - AMT #1 - VHS(1)-DVDR(0) [MZ].txt"
+      "textFile": "1990-10-11 - AMT #1 - VHS(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -4367,7 +4367,7 @@ const ARTIST_DATA = {
       "notes": "1 \u00b7 mz",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1990-10-11 - AMT #1 - VHS(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-10-11 - AMT #1 - VHS(1)-DVDR(0) [MZ].txt"
     },
     {
       "year": 1990,
@@ -4742,7 +4742,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 Aiwa \u00b7 members of LN",
       "version": "AUD #2b (48k)",
       "format": "FLAC 24",
-      "textFile": "1990-11-25 - SBD #1 - ANA(1)-FLAC - 44.1kHz [PB].txt"
+      "textFile": "1990-11-25 AUD#2b ANA(X).txt"
     },
     {
       "year": 1990,
@@ -4798,7 +4798,7 @@ const ARTIST_DATA = {
       "notes": "jwb remaster",
       "version": "SBD #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1990-11-25 AUD#2b ANA(X).txt"
+      "textFile": "1990-11-25 - SBD #1 - ANA(1)-FLAC - 44.1kHz - JWB remaster.txt"
     },
     {
       "year": 1990,
@@ -4812,7 +4812,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 mz edit",
       "version": "SBD #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1990-11-25 - SBD #1 - ANA(1)-FLAC - 44.1kHz - JWB remaster.txt"
+      "textFile": "1990-11-25 - SBD #1 - ANA(1)-FLAC - 44.1kHz [MZ].txt"
     },
     {
       "year": 1990,
@@ -4826,7 +4826,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 pete bullock remaster",
       "version": "SBD #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1990-11-25 - SBD #1 - ANA(1)-FLAC - 44.1kHz [MZ].txt"
+      "textFile": "1990-11-25 - SBD #1 - ANA(1)-FLAC - 44.1kHz [PB].txt"
     },
     {
       "year": 1991,
@@ -5018,7 +5018,7 @@ const ARTIST_DATA = {
       "notes": "VHS(M) \u00b7 mz",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1991-04-17 - VHS1 - Seattle, WA.txt"
+      "textFile": "1991-04-17 - AMT #1a - VHS(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -5032,7 +5032,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 mz",
       "version": "AMT #1a",
       "format": "FLAC",
-      "textFile": "1991-04-17 - AMT #1a - VHS(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-04-17 - VHS1 - Seattle, WA.txt"
     },
     {
       "year": 1991,
@@ -8534,7 +8534,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1991-12-31 - AUD #1 - ANA(M)-DAT(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-12-31 - ANA(M) CM300 (markp) (upgrade) [AUD #1].txt"
     },
     {
       "year": 1991,
@@ -8548,7 +8548,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 CM300 \u00b7 markp \u00b7 upgrade \u00b7 mz",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1991-12-31 - ANA(M) CM300 (markp) (upgrade) [AUD #1].txt"
+      "textFile": "1991-12-31 - AUD #1 - ANA(M)-DAT(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -9030,7 +9030,7 @@ const ARTIST_DATA = {
       "notes": "The \u00b7 1 \u00b7 ks",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1992-02-06 - Sydney, Australia - Selina's The Coogee Bay Hotel.txt"
+      "textFile": "1992-02-06 - AUD #1 - DAT(2)-FLAC - 48kHz.txt"
     },
     {
       "year": 1992,
@@ -9044,7 +9044,7 @@ const ARTIST_DATA = {
       "notes": "The \u00b7 2 \u00b7 ks",
       "version": "AUD #1 (48k)",
       "format": "FLAC",
-      "textFile": "1992-02-06 - AUD #1 - DAT(2)-FLAC - 48kHz.txt"
+      "textFile": "1992-02-06 - AUD #1 - DAT(3)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1992,
@@ -9058,7 +9058,7 @@ const ARTIST_DATA = {
       "notes": "The \u00b7 3 \u00b7 rl",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1992-02-06 - AUD #1 - DAT(3)-FLAC - 44.1kHz.txt"
+      "textFile": "1992-02-06 - Sydney, Australia - Selina's The Coogee Bay Hotel.txt"
     },
     {
       "year": 1992,
@@ -10911,7 +10911,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 mz",
       "version": "PRO #2 (44.1k)",
       "format": "FLAC",
-      "textFile": "1993-01-16 - Sao Paulo, Brazil - Estudio Cicero Pompeu de Toledo.txt"
+      "textFile": "1993-01-16 - PRO #2 - VHS(1)-DVDR(2)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1993,
@@ -10925,7 +10925,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 ss",
       "version": "PRO #2",
       "format": "MKV",
-      "textFile": "1993-01-16 - PRO #2 - VHS(1)-DVDR(2)-FLAC - 44.1kHz.txt"
+      "textFile": "1993-01-16 - Sao Paulo, Brazil - Estudio Cicero Pompeu de Toledo.txt"
     },
     {
       "year": 1993,
@@ -11524,7 +11524,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 unk",
       "version": "PRO #1",
       "format": "FLAC",
-      "textFile": "1993-09-23 - PRO #1b - CD-FLAC [Fighting The N Factor].txt"
+      "textFile": "1993-09-23 - PRO #1a - VHS(2)-DVDR(2) [BL].txt"
     },
     {
       "year": 1993,
@@ -11538,7 +11538,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 bl",
       "version": "PRO #1a",
       "format": "DVD",
-      "textFile": "1993-09-23 - PRO #1a - VHS(2)-DVDR(2) [BL].txt"
+      "textFile": "1993-09-23 - PRO#1 - VHS(1)-AVI- FLAC.txt"
     },
     {
       "year": 1993,
@@ -11552,7 +11552,7 @@ const ARTIST_DATA = {
       "notes": "am",
       "version": "PRO #1b",
       "format": "FLAC",
-      "textFile": "1993-09-23 - PRO#1 - VHS(1)-AVI- FLAC.txt"
+      "textFile": "1993-09-23 - PRO #1b - CD-FLAC [Fighting The N Factor].txt"
     },
     {
       "year": 1993,
@@ -14244,7 +14244,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2)",
       "version": "PRO #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1994-02-27 - PRO #1 - TV-VHS(2)-DVDR(0) [CH].txt"
+      "textFile": "1994-02-27 - PRO #1 - TV-VHS(2)-CDR(1)-FLAC.txt"
     },
     {
       "year": 1994,
@@ -14258,7 +14258,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2)",
       "version": "PRO #1",
       "format": "DVD",
-      "textFile": "1994-02-27 - PRO #1 - TV-VHS(2)-CDR(1)-FLAC.txt"
+      "textFile": "1994-02-27 - PRO #1 - TV-VHS(2)-DVDR(0) [CH].txt"
     },
     {
       "year": 1994,

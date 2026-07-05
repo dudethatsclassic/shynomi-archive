@@ -30,5 +30,11 @@ const ARTIST_MISC_DATA = [
     "type": "label",
     "label": "Silverchair - The Creation Of Diorama (2002)",
     "format": "AVI"
+  },
+  {
+    "type": "release",
+    "label": "Silverchair - Live at the Cabaret Metro {SAMP 3217} (1996)",
+    "year": 1996,
+    "version": "Silver CD"
   }
 ];

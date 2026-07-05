@@ -1364,7 +1364,8 @@ const ARTIST_DATA = {
       "venue": "Circuit City Rock Stage",
       "notes": "Summerfest \u00b7 1 \u00b7 Left Cam v.1",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2000-06-29 - Milwaukee, WI - Circuit City Rock Stage (Right Cam) [DVD].txt"
     },
     {
       "year": 2000,
@@ -1404,8 +1405,7 @@ const ARTIST_DATA = {
       "venue": "Circuit City Rock Stage",
       "notes": "Summerfest \u00b7 Right Cam",
       "version": "AUD",
-      "format": "DVD",
-      "textFile": "2000-06-29 - Milwaukee, WI - Circuit City Rock Stage (Right Cam) [DVD].txt"
+      "format": "DVD"
     },
     {
       "year": 2000,

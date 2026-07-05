@@ -1,0 +1,27 @@
+foobar2000 1.1.13 / Dynamic Range Meter 1.1.0
+log date: 2012-09-24 18:53:45
+
+--------------------------------------------------------------------------------
+Analyzed: Nirvana / Hormoaning (MVCG-17002)
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR12      -0.20 dB   -13.99 dB      2:21 01-Turnaround (Mark Mothersbaugh, Gerald Casale)
+DR13      -0.20 dB   -14.23 dB      4:50 02-Aneurysm (Kurt Cobain, Krist Novoselic, David Grohl)
+DR11       0.00 dB   -12.55 dB      3:48 03-D-7 (Greg Sage)
+DR11      -0.20 dB   -12.46 dB      2:50 04-Son Of A Gun (Eugene Kelly, Frances McKee)
+DR12      -0.74 dB   -13.45 dB      3:08 05-Even In His Youth (Kurt Cobain, Krist Novoselic, David Grohl)
+DR12      -0.20 dB   -13.33 dB      1:54 06-Molly's Lips (Eugene Kelly, Frances McKee)
+--------------------------------------------------------------------------------
+
+Number of tracks:  6
+Official DR value: DR12
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           923 kbps
+Codec:             FLAC
+================================================================================
+

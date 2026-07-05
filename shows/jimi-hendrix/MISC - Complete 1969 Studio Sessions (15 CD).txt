@@ -1,0 +1,162 @@
+
+Disc 14
+
+November 21, 1969 - The Record Plant, New York, New York. Continued.
+  01. Power Of Soul (S1342) (18 -29) – Sound Quality: Very Good. Time: 20:34
+              Part 2 of a 36 minute session of Power Of Soul in which Jimi refers to the     
+              working title as "Paper Aeroplanes or Crash Landing". This section includes  
+              Takes 13 through 23. Incomplete as Take 23 ends abruptly on all sources.
+  02. Power Of Soul (S159) (37) – Sound Quality: Excellent.  Time: 3:34
+        Official altered edit by Alan Douglas. Jimi, Billy and Buddy intact but a 
+        percussion overdub by Jimmy Maeulen is added.
+
+December 15, 1969 - The Record Plant, New York, New York.
+        03. Born Under A Bad Sign (S1046) (2) – Sound Quality: Excellent. Time: 8:20
+              The more complete instrumental take. This version omits the 0:11 bass solo at    
+              the start, but restores 0:38 edit at 4:59, and continues 0:13 longer to the end.
+       
+        04. Born Under A Bad Sign (S1046) (1) – Sound Quality: Excellent. Time: 7:38
+              This is the official edit with bass solo start. Edited at the 5:10 mark with
+              incomplete end due to fade out.
+
+December 18, 1969 - The Record Plant, New York, New York.
+        05. Ezy Rider (S946) (7) – Sound Quality: Good.   Time: 4:12
+              This is an outake of the official mix.
+        06. Ezy Rider (S944) (10) – Sound Quality: Good.   Time: 3:37
+        A diferent mix with different vocals.
+  07. Ezy Rider (S?) (34) – Sound Quality: Very Good.  Time: 2:55
+        This edit has a different mix with low vocals.
+  08. Ezy Rider (S084) (8) – Sound Quality: Excellent.  Time: 4:06
+        This is the first official edit.
+  09. Ezy Rider (S084) (9) – Sound Quality: Very Good.  Time: 4:03
+        The second official edit which does not have the fade back in at the end.
+
+December 19, 1969 - The Record Plant, New York, New York.
+        10. Earth Blues (S112) (4) – Sound Quality: Excellent.  Time: 4:14
+              The official mix. Though not mixed as a final studio edit until
+              January 20, 1970, the basic track was recorded on this date.
+              Not on Studio '70.
+
+December 23, 1969 - The Record Plant, New York, New York.
+        11. Honeybed Takes 1-4 (S1351) (1-4) – Night Bird Flying (S?) (8)
+              Sound Quality: Very Good.   Time: 8:59
+              Jimi tries vocals on the first two takes but this reverts to an instrumental.
+              After Take 4 falls apart, Jimi attempts a take at Night Bird Flying which
+              ends abruptly due to equipment failure.
+
+Disc 15
+        
+The Questionable Tracks. There seems to be no majority consensus of the actual 
+recording dates for the following tracks. They range as being recorded as early as
+1968 but all have a possible recording date of 1969.
+        01. Ezy Rider (S776) (Dance 2) – Sound Quality: Good.  Time: 3:52
+              This instrumental early take was recorded at either The Record Plant or
+              Olmstead Studios possibly in April, 1969.
+        02. Ezy Rider (S993) (Dance 3) – Sound Quality: Good.  Time: 3:57
+              This early instrumental take was recorded at either The Record Plant or
+              Olmstead Studios possibly in April, 1969. This edit has congas mixed in.
+        03. Untitled Instrumental A.K.A. Last Thursday Morning (S994) (JS4)
+              Sound Quality: Good.  Time: 3:06
+              This early instrumental take was recorded at either The Record Plant or
+              Olmstead Studios possibly in April, 1969.
+
+
+
+        04. Bleeding Heart Jam (S1102) (JS1) – Sound Quality: Good.   Time: 4:39
+              This early instrumental take was recorded at either The Record Plant or
+              Olmstead Studios possibly in April, 1969.
+
+Filler – The Guest Appearances. With the break up of the Experience, Jimi found 
+himself spending numerous hours jamming with other artists of the period. Though 
+not all tracks appear on this set, here is a look at some of his "guest" work.
+        05. Rock 'N' Roll Band (S459) – Sound Quality: Very Good.  Time: 3:21
+              From Eire Apparent's self titled debut album in which Jimi himself produced. 
+              Jimi provided lead guitar for this song along with several other tracks on the LP. 
+              Recorded at Polydor Studios in England between January 1 - 7, 1969.
+        06. Live And Let Live (S468) – Sound Quality: Excellent.   Time: 14:09
+              From Timothy Leary's You Can Be Anyone This Time Around.
+              Jimi only plays bass on this track with Stephen Stills on guitar.
+              Recorded at the Record Plant on May 19th or 20th, 1969.
+        07. Woodstock Takes 1-3 (S?) (1-3) – Sound Quality: Good.   Time: 11:30
+              Recorded with Stephen Stills at the Record Plant on September 30, 1969.
+              Jimi is supposedly playing bass on these three takes but there is some doubt.
+        08. Doriella Du Fontaine (S469) (1) – Sound Quality: Excellent.  Time: 8:43
+              One of Jimi's most interesting side projects with one of the Grandfathers of
+              Rap, Jalaluddin Mansur Nuriddin A.K.A. Lightnin' Rod. Jimi handles both
+              guitar and bass parts while Buddy Miles provides drums and organ.
+              Recorded at the Record Plant sometime in November, 1969.
+        09. Doriella Du Fontaine (S470) (3) - Sound Quality: Excellent.  Time: 4:06
+              This is the instrumental mix containing just Jimi and Buddy.
+              Recorded at the Record Plant sometime in November, 1969.
+
+Bonus Tracks - Tracks 10-12 are Composites that create the longest versions 
+possible from the sources available as of September 2004. 
+        10. Mannish Boy - Composite 2004 – Sound Quality: Excellent.   Time: 5:58
+              This composite incorporates the 5 second intro from Track 7 into Track 8 from 
+              Disc 6. First Time presented in this form.
+        11. Jelly 292 - Composite 2004 – Sound Quality: Excellent.  Time: 6:39
+              This composite incorporates the first 1.5 seconds of the start from Track 11
+              into track 12 from Disc 7.  First time presented in this form.
+        12. Born Under A Bad Sign - Composite 2004 - Time: 8:31
+              Sound Quality: Excellent. This composite incorporates the 11 second bass intro  
+              from Track 4 back into Track 3 on Disc 14.  First time presented in this form.
+
+checksums:
+
+disk 14-
+
+ffp:
+01 Power Of Soul aka Paper Aeroplanes Takes 13-23.flac:b21e164e5582ed0f0356216b864aac31
+02 Power Of Soul.flac:b32f32d07f7635f685923d2546eed8b9
+03 Born Under A Bad Sign Sign 1.flac:9e9120408615ea6d9b868210e4cf891f
+04 Born Under A Bad Sign 2.flac:72af34aadd3470f8fa7c5187d136256c
+05 Ezy Rider 1.flac:26323739095e13921b750076194dced0
+06 Ezy Rider 2.flac:0480e761c85a0aef8aaf724e2c539124
+07 Ezy Rider 3.flac:63b061d439d54370d64e8372efe07829
+08 Ezy Rider 4.flac:40242526601d062c17bb5ef64a9b82e1
+09 Ezy Rider 5.flac:40b29d511c7cc5631d9a00f5c4da2424
+10 Earth Blues.flac:8c1c322828036fd605ffe87d45e137f6
+11 Honeybed 1-4 - Night Bird Flying.flac:e9abfb57b3c4ebfd888de5713baa29cc
+
+md5:
+9e582d5c759f609c5e1de86e75d4059e *01 Power Of Soul aka Paper Aeroplanes Takes 13-23.flac
+6296fadda48fc33ab6905017c8f8c59c *02 Power Of Soul.flac
+633b3429ab6841276171e083c0e9e81e *03 Born Under A Bad Sign Sign 1.flac
+bf197719c974cd3720bf34de64c247fc *04 Born Under A Bad Sign 2.flac
+5af03c1b60171f3c6c1b2f8b7482eb8d *05 Ezy Rider 1.flac
+4236eea49853a98abd2ab97e2cdb022a *06 Ezy Rider 2.flac
+197dc1b8b9bf1b34c8a02bcf55401a53 *07 Ezy Rider 3.flac
+c5d2ed93ea84de5925faa69354b5f1ab *08 Ezy Rider 4.flac
+f14f43018d81bf6fed639ac3955caa8b *09 Ezy Rider 5.flac
+30b618d477cc650a05bb5eb88110b715 *10 Earth Blues.flac
+e75faa147a3f6247fc24cccdfe2ca060 *11 Honeybed 1-4 - Night Bird Flying.flac
+
+disk 15-
+
+ffp:
+01 Ezy Rider 1 4-69.flac:4e64d7973bc837c446d74a957d597b62
+02 Ezy Rider 2 4-69.flac:a07b689395eff7830ea2c476fe3028ac
+03 Last Thursday Morning 4-69.flac:0670355c8aed518932166a4cc2c06c29
+04 Bleeding Heart Jam.flac:b088397f74e9c8ed24aa7fdd18c23e3a
+05 Rock N Roll Band.flac:4c08439f52a99be20b5110c4d8e3eb7c
+06 Live And Let Live.flac:1600023c1e2b00d1091d3071c2e233f9
+07 Woodstock Takes 1-3.flac:8794bf485b60db864ea3501a42ff5b09
+08 Doriella Du Fontane 1.flac:8ccf56ce08d2434fd7d16f451a878768
+09 Doriella Du Fontane 2.flac:cd10f06a45de5a735880b08b3d030c01
+10 Manish Boy - composite 2004.flac:7917011971d576fa26ec22c973972d35
+11 Jelly 292 - composite 2004.flac:d44d8d8d0afae86a1cd358189d964e68
+12 Born Under A Bad Sign - composite 2004.flac:0dfcd20f008a2906404d51b4f8e4b782
+
+md5:
+72d20b6c8ee57dc57c877ccab804f8bc *01 Ezy Rider 1 4-69.flac
+1433cfb73c9e92aca65b55a01e72858e *02 Ezy Rider 2 4-69.flac
+54857745a1fef736d4a532ef905d50c8 *03 Last Thursday Morning 4-69.flac
+ec664ace8ee5ac2112b12527111feb27 *04 Bleeding Heart Jam.flac
+066f4c9e72615d722b61a0f3bfd9d79d *05 Rock N Roll Band.flac
+6d75bb61155bea377cf08cdb7730f65c *06 Live And Let Live.flac
+3d0e894bd6fa7e47fec58d43ae46e513 *07 Woodstock Takes 1-3.flac
+fb5ea389f646c7456253416119974198 *08 Doriella Du Fontane 1.flac
+c9fa5efaaa42539c2df799c8ec83313e *09 Doriella Du Fontane 2.flac
+9bce49f4f84b9e2e0ef9886c66eaa980 *10 Manish Boy - composite 2004.flac
+86a83471a4a235d2e6ef62f2e6a57e36 *11 Jelly 292 - composite 2004.flac
+f1deaf92bd8da503cdfbda69061c8de9 *12 Born Under A Bad Sign - composite 2004.flac

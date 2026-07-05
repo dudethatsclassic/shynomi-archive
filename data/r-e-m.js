@@ -308,7 +308,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1981-11-07 - Charlotte, NC - Viceroy Park [AUD].txt"
+      "textFile": "1981-11-07 - Charlotte, NC - Viceroy Park (M1-AUD) (Dream Remaster) [AUD].txt"
     },
     {
       "year": 1981,
@@ -322,7 +322,7 @@ const ARTIST_DATA = {
       "notes": "M1 Audio \u00b7 dream remaster",
       "version": "AUD",
       "format": "",
-      "textFile": "1981-11-07 - Charlotte, NC - Viceroy Park (M1-AUD) (Dream Remaster) [AUD].txt"
+      "textFile": "1981-11-07 - Charlotte, NC - Viceroy Park [AUD].txt"
     },
     {
       "year": 1981,
@@ -629,7 +629,8 @@ const ARTIST_DATA = {
       "venue": "Heaven",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1982-09-30 - Pittsburgh, PA - Heaven (update) [AUD].flac.txt"
     },
     {
       "year": 1982,
@@ -642,8 +643,7 @@ const ARTIST_DATA = {
       "venue": "Heaven",
       "notes": "updated",
       "version": "AUD",
-      "format": "",
-      "textFile": "1982-09-30 - Pittsburgh, PA - Heaven (update) [AUD].flac.txt"
+      "format": ""
     },
     {
       "year": 1982,
@@ -936,7 +936,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1983-04-30 - New York, NY - The Ritz [AUD].txt"
+      "textFile": "1983-04-30 - New York, NY - The Ritz (unk) (harwilmer) [AUD].txt"
     },
     {
       "year": 1983,
@@ -950,7 +950,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 harwilmer",
       "version": "AUD",
       "format": "",
-      "textFile": "1983-04-30 - New York, NY - The Ritz (unk) (harwilmer) [AUD].txt"
+      "textFile": "1983-04-30 - New York, NY - The Ritz [AUD].txt"
     },
     {
       "year": 1983,
@@ -1817,7 +1817,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "",
-      "textFile": "1984-07-19 - Boston, MA - Orpheum Theater [AUD].txt"
+      "textFile": "1984-07-19 - Boston, MA - Orpheum Theater - ANA(M) (harwilmer) [AUD].txt"
     },
     {
       "year": 1984,
@@ -1831,7 +1831,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 harwilmer",
       "version": "AUD",
       "format": "",
-      "textFile": "1984-07-19 - Boston, MA - Orpheum Theater - ANA(M) (harwilmer) [AUD].txt"
+      "textFile": "1984-07-19 - Boston, MA - Orpheum Theater [AUD].txt"
     },
     {
       "year": 1984,
@@ -2676,7 +2676,7 @@ const ARTIST_DATA = {
       "notes": "Rootes",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-06-27 - Coventry, England - Workroom - Rootes Hall - The University Of Warwick [AUD].txt"
+      "textFile": "1985-06-27 - Coventry, England - Workroom - Rootes Hall - The University Of Warwick - ANA(M) (unk) (jems transfer) [AUD].txt"
     },
     {
       "year": 1985,
@@ -2690,7 +2690,7 @@ const ARTIST_DATA = {
       "notes": "Rootes \u00b7 M \u00b7 unk \u00b7 jems transfer",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-06-27 - Coventry, England - Workroom - Rootes Hall - The University Of Warwick - ANA(M) (unk) (jems transfer) [AUD].txt"
+      "textFile": "1985-06-27 - Coventry, England - Workroom - Rootes Hall - The University Of Warwick [AUD].txt"
     },
     {
       "year": 1985,
@@ -2912,7 +2912,8 @@ const ARTIST_DATA = {
       "venue": "Auditorium Theater",
       "notes": "University",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1985-08-15 - Rochester NY - Auditorium Theater (Aiwa CM-70) (harwilmer) [AUD].txt"
     },
     {
       "year": 1985,
@@ -2925,8 +2926,7 @@ const ARTIST_DATA = {
       "venue": "Auditorium Theater",
       "notes": "Aiwa CM-70 \u00b7 harwilmer",
       "version": "AUD",
-      "format": "",
-      "textFile": "1985-08-15 - Rochester NY - Auditorium Theater (Aiwa CM-70) (harwilmer) [AUD].txt"
+      "format": ""
     },
     {
       "year": 1985,
@@ -3108,7 +3108,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-08-30 - Passiac, NJ - Capitol Theatre [AUD].txt"
+      "textFile": "1985-08-30 - Passaic, NJ - Capitol Theater (Aiwa CM-30) (harwilmer) [AUD].txt"
     },
     {
       "year": 1985,
@@ -3122,7 +3122,7 @@ const ARTIST_DATA = {
       "notes": "Aiwa CM-30 \u00b7 harwilmer",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-08-30 - Passaic, NJ - Capitol Theater (Aiwa CM-30) (harwilmer) [AUD].txt"
+      "textFile": "1985-08-30 - Passiac, NJ - Capitol Theatre [AUD].txt"
     },
     {
       "year": 1985,
@@ -3290,7 +3290,7 @@ const ARTIST_DATA = {
       "notes": "Saarland",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-10-13 - Saarbru\u0308cken, West Germany - Aula - Saarland University [AUD].txt"
+      "textFile": "1985-10-13 - Saarbruecken, W. Germany - Aula der Universitat - ANA(M) (Sony TCS-430) (hanwaker transfer) [AUD24].txt"
     },
     {
       "year": 1985,
@@ -3304,7 +3304,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 Sony TCS-430 \u00b7 hanwaker transfer",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-10-13 - Saarbruecken, W. Germany - Aula der Universitat - ANA(M) (Sony TCS-430) (hanwaker transfer) [AUD24].txt"
+      "textFile": "1985-10-13 - Saarbru\u0308cken, West Germany - Aula - Saarland University [AUD].txt"
     },
     {
       "year": 1985,
@@ -3402,7 +3402,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-10-28 - London, UK - Hammersmith Palais Ballrooom [AUD].txt"
+      "textFile": "1985-10-28 - London, U.K - Hammersmith Palais (JEMS Master & 2021 transfer and remaster) [AUD].txt"
     },
     {
       "year": 1985,
@@ -3416,7 +3416,7 @@ const ARTIST_DATA = {
       "notes": "JEMS Master & 2021 transfer and remaster \u00b7 Sony ECM 939",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-10-28 - London, U.K - Hammersmith Palais (JEMS Master & 2021 transfer and remaster) [AUD].txt"
+      "textFile": "1985-10-28 - London, UK - Hammersmith Palais Ballrooom [AUD].txt"
     },
     {
       "year": 1985,
@@ -3584,7 +3584,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-12-08 - Winston-Salem, NC - Reynolds Auditorium [AUD].txt"
+      "textFile": "1985-12-08 - Winston-Salem, NC - R.J. Reynolds Memorial Auditorium - Richard J. Reynolds High School (eckythump 2021 remaster) [AUD].txt"
     },
     {
       "year": 1985,
@@ -3598,7 +3598,7 @@ const ARTIST_DATA = {
       "notes": "Richard \u00b7 eckythump 2021 remaster",
       "version": "AUD",
       "format": "",
-      "textFile": "1985-12-08 - Winston-Salem, NC - R.J. Reynolds Memorial Auditorium - Richard J. Reynolds High School (eckythump 2021 remaster) [AUD].txt"
+      "textFile": "1985-12-08 - Winston-Salem, NC - Reynolds Auditorium [AUD].txt"
     },
     {
       "year": 1985,
@@ -3682,7 +3682,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1986-09-06 - Bloomington, IN - Indiana University Auditorium, Indiana University (2020 remaster) [AUD].txt"
+      "textFile": "1986-09-06 - Bloomington, IN - Indiana University (Jeff Ferro Upgrade Series Vol. 4) [AUD].txt"
     },
     {
       "year": 1986,
@@ -3696,7 +3696,7 @@ const ARTIST_DATA = {
       "notes": "Jeff Ferro Upgrade Series Vol. 4 \u00b7 2021 remaster",
       "version": "AUD",
       "format": "",
-      "textFile": "1986-09-06 - Bloomington, IN - Indiana University (Jeff Ferro Upgrade Series Vol. 4) [AUD].txt"
+      "textFile": "1986-09-06 - Bloomington, IN - Indiana University Auditorium, Indiana University (2020 remaster) [AUD].txt"
     },
     {
       "year": 1986,
@@ -4909,7 +4909,8 @@ const ARTIST_DATA = {
       "venue": "Thebarton Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1989-02-11 - Adelaide, Australia - Thebarton Theatre - AUD(M) (choc e-claire rework) [AUD].txt"
     },
     {
       "year": 1989,
@@ -4922,8 +4923,7 @@ const ARTIST_DATA = {
       "venue": "Thebarton Theatre",
       "notes": "AUD(M) \u00b7 choc e-claire rework",
       "version": "AUD",
-      "format": "",
-      "textFile": "1989-02-11 - Adelaide, Australia - Thebarton Theatre - AUD(M) (choc e-claire rework) [AUD].txt"
+      "format": ""
     },
     {
       "year": 1989,
@@ -6464,7 +6464,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1995-05-16 - Mountain View, CA - Shoreline Amphitheater [AUD].txt"
+      "textFile": "1995-05-16 - Mountain View, CA - Shoreline Amphitheater (Nakamichi 700s) [AUD] .txt"
     },
     {
       "year": 1995,
@@ -6478,7 +6478,7 @@ const ARTIST_DATA = {
       "notes": "Nakamichi 700s",
       "version": "AUD",
       "format": "",
-      "textFile": "1995-05-16 - Mountain View, CA - Shoreline Amphitheater (Nakamichi 700s) [AUD] .txt"
+      "textFile": "1995-05-16 - Mountain View, CA - Shoreline Amphitheater [AUD].txt"
     },
     {
       "year": 1995,
@@ -7832,7 +7832,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1999-07-14 - Zurich, Switzerland - Hallenstadion [AUD] .txt"
+      "textFile": "1999-07-14 - Zurich, Switzerland - Hallenstadion (zuma66) [AUD].txt"
     },
     {
       "year": 1999,
@@ -7846,7 +7846,7 @@ const ARTIST_DATA = {
       "notes": "zuma66",
       "version": "AUD",
       "format": "",
-      "textFile": "1999-07-14 - Zurich, Switzerland - Hallenstadion (zuma66) [AUD].txt"
+      "textFile": "1999-07-14 - Zurich, Switzerland - Hallenstadion [AUD] .txt"
     },
     {
       "year": 1999,
@@ -9151,7 +9151,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "",
-      "textFile": "2003-10-16 - London, UK - Bush Hall [FM].txt"
+      "textFile": "2003-10-16 - London, UK - Bush Hall (johnky) [FM].txt"
     },
     {
       "year": 2003,
@@ -9165,7 +9165,7 @@ const ARTIST_DATA = {
       "notes": "johnky",
       "version": "FM",
       "format": "",
-      "textFile": "2003-10-16 - London, UK - Bush Hall (johnky) [FM].txt"
+      "textFile": "2003-10-16 - London, UK - Bush Hall [FM].txt"
     },
     {
       "year": 2003,
@@ -10093,7 +10093,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2005-04-01 - Sydney, Australia - Sydney Entertainment Centre (2nd Show with pics and video) [AUD].txt"
+      "textFile": "2005-04-01 - Sydney, Australia - Entertainment Centre (amy) [AUD].txt"
     },
     {
       "year": 2005,
@@ -10107,7 +10107,7 @@ const ARTIST_DATA = {
       "notes": "amy",
       "version": "AUD",
       "format": "",
-      "textFile": "2005-04-01 - Sydney, Australia - Entertainment Centre (amy) [AUD].txt"
+      "textFile": "2005-04-01 - Sydney, Australia - Sydney Entertainment Centre (2nd Show with pics and video) [AUD].txt"
     },
     {
       "year": 2005,
@@ -10973,7 +10973,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2008-07-21 - Verona, Italy - Arena di Verona [AUD].txt"
+      "textFile": "2008-07-21 - Verona, Italy - Arena di Verona - MD(M) (Sony ECM717) (mrdr) (MRDR Master Volume 180) [AUD].txt"
     },
     {
       "year": 2008,
@@ -10987,7 +10987,7 @@ const ARTIST_DATA = {
       "notes": "MD(M) \u00b7 Sony ECM717 \u00b7 mrdr \u00b7 MRDR Master Volume 180",
       "version": "AUD",
       "format": "",
-      "textFile": "2008-07-21 - Verona, Italy - Arena di Verona - MD(M) (Sony ECM717) (mrdr) (MRDR Master Volume 180) [AUD].txt"
+      "textFile": "2008-07-21 - Verona, Italy - Arena di Verona [AUD].txt"
     },
     {
       "year": 2008,

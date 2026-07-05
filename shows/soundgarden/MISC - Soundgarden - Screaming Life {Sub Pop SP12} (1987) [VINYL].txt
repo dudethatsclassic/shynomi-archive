@@ -1,0 +1,5 @@
+ 
+TT: Pioneer PL-7L
+Cartridge: Benz Micro Glider SH
+Preamp: PS Audio GCPH Phono Stage + Tube Preamp (Telefunken)
+ADC: TASCAM HS-P82

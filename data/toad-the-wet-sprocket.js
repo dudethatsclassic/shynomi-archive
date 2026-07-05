@@ -52,7 +52,8 @@ const ARTIST_DATA = {
       "venue": "Pat's Grass Shack",
       "notes": "unk \u00b7 chris berryman transfer",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "toad1986-11-29.shnf.txt"
     },
     {
       "year": 1988,
@@ -1966,7 +1967,7 @@ const ARTIST_DATA = {
       "notes": "ben wallis transfer",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1997-05-27 - Cleveland, OH - The Odeon [FM].txt"
+      "textFile": "1997-05-27 - Cleveland, OH - 107.9 THE END (unk) [FM].txt"
     },
     {
       "year": 1997,
@@ -1980,7 +1981,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1997-05-27 - Cleveland, OH - 107.9 THE END (unk) [FM].txt"
+      "textFile": "1997-05-27 - Cleveland, OH - The Odeon [FM].txt"
     },
     {
       "year": 1997,
@@ -4610,7 +4611,8 @@ const ARTIST_DATA = {
       "venue": "The Salt Shed",
       "notes": "Xvive XV1-R \u00b7 stoodo",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-08-07 - Chicago, IL - The Salt Shed (iPhont) (ryan fisher) [AUD].txt"
     },
     {
       "year": 2025,
@@ -4623,8 +4625,7 @@ const ARTIST_DATA = {
       "venue": "The Salt Shed",
       "notes": "iPhont \u00b7 ryan fisher",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2025-08-07 - Chicago, IL - The Salt Shed (iPhont) (ryan fisher) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2025,

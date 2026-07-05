@@ -32,7 +32,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Sports Arena",
-      "notes": "Realistic Walkman · michael cariola",
+      "notes": "Realistic Walkman \u00b7 michael cariola",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-06-03 - San Diego, CA - Sports Arena (Realistic Walkman) (michael cariola) [AUD] .txt"

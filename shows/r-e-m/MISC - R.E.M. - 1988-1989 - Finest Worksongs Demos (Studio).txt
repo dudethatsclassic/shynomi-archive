@@ -1,0 +1,23 @@
+R.E.M.
+Finest Worksongs (Demos 1988-1989)
+
+Lineage:
+Vinyl -> Pro-Ject Expression III -> Marantz 2235b -> Creative Soundblaster X-FI -> CDWave [24~96]
+
+Processing:
+Click Repair -> iZotope RX Advance [Gain 3.26db, De-Hum] -> CDWave [split/16~44.1] -> Flac Frontend
+
+Tracks:
+01. Finest Worksong
+02. Welcome To The Occupation
+03. Exhuming McCarthy
+04. Disturbance At The Heron House
+05. Pop Song 89
+06. It's The End Of The World As We Know It
+07. Orange Crush
+08. Fireplace
+09. Lightnin' Hopkins
+10. I Remember California
+11. Oddfellows Local 151
+12. Get Up
+13. You Are The Everything

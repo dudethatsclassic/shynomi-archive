@@ -1,0 +1,84 @@
+The Jimi Hendrix Experience
+Fire
+TSP-CD-018
+
+CD Lineage:
+TSP-CD-018(Silver CD)>EAC(secure mode)>WAV>FlacFrontend>Flac
+
+Art Lineage:
+TSP-CD-018(Paper Sleeves)>Contex Chroma TX 40>uncompressed Tiff
+
+The Jimi Hendrix Experience
+Fire
+TSP-CD-018
+
+CD Lineage:
+TSP-CD-018(Silver CD)>EAC(secure mode)>WAV>FlacFrontend>Flac(Level 8)
+
+Art Lineage:
+TSP-CD-018(Paper Sleeves)>Contex Chroma TX 40>uncompressed RAW-Tiff(508 dpi physical)
+
+
+
+ 1. Sgt. Pepper's Lonely Hearts Club Band
+ 2. The Wind Cries Mary
+ 3. Foxy Lady
+ 4. Fire
+ 5. Hey Joe
+ 6. I Don't Live Today
+ 7. Burning Of The Midnight Lamp
+ 8. Purple Haze  
+ 9. Foxy Lady
+10. Purple Haze
+11. Catfish Blues
+
+Tracks 1-8 recorded: September 5, 1967 Radiohuset Studio 4, Stockholm, Sweden
+Tracks 9-11 recorded: November 10, 1967 Vitus Studio, Bussum, Holland 
+
+
+Ripped and seeded to TTD, April 26, 2007 by helm
+enjoy
+
+
+
+I found this on the web.
+
+Jimi Hendrix
+Fire
+September 5th, 1967
+Radiohuset Studio, Stockholm, Sweden
+(The Swingin' Pig TSP CD 018)
+SBD
+
+01. Sergeant Pepper's Lonely Hearts Club Band 1:54
+02. The Wind Cries Mary 3:54
+03. Foxy Lady 3:43
+04. Fire 3:10
+05. Hey Joe 4:16
+06. I Don't Live Today 4:38
+07. The Burning of the Midnight Lamp 4:09
+08. Purple Haze 5:22
+09. Foxy Lady * 3:18 (1:38 small analog pop found on silver(not digital error))
+10. Purple Haze ** 5:04
+11. Catfish Blues ** 7:49
+
+Total Time: 47:21
+
+* TV recording, Vitus Studio, Bussem, Holland, 11/10/67, with Noel Redding (b) and Mitch Mitchell (d); broadcast 11/23/67
+** TV recording, Vitus Studio, Bussem, Holland, 11/10/67, with Noel Redding (b) and Mitch Mitchell (d); broadcast 8/3/73
+
+Comments:
+There is also a vinyl release of Fire also by Swingin Pig (TSP-018). Luckily The Swingin Pig was classy enough not to just rip their vinyl disc and throw it on cd like some labels do. Sound Quality is excellent, probably Pre-FM. There is a small analog pop on T9 Foxy Lady, the guy I got this from had the silver disc and I confirmed it was on his copy. Also I looked at the waveform and it is analog, not digital. Its very tiny though, you probably won't even notice it. -Nepenthes
+
+Track01.flac:5157556284f059b384ee45be472e1fa8
+Track02.flac:a2e4b466022874d0bbc792e7b9433768
+Track03.flac:e4df04eb89c5321aaa47505eb9f8426a
+Track04.flac:54ad3a11a57a9f61af745dc05d26eba4
+Track05.flac:f2dea2c5dc911c62785ee12e12325876
+Track06.flac:39535a8118fefd5ef7584dee4a0f7410
+Track07.flac:86f9e1c106d044ecfac42200036b3ff3
+Track08.flac:fe7f7f13c702463c7cbd5b36a5e34f7f
+Track09.flac:de8342722b51b92567ad4f204bfe7f8a
+Track10.flac:540d7505a86424094bed53a756de23ca
+Track11.flac:b4b8179be22f5ff312bdf2d755791734
+

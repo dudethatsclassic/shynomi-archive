@@ -1,0 +1,36 @@
+Jimi Hendrix - Reputations: The Man They Made God + Picture This: Alleluja Hendrix
+
+Notes: 1999 biography + 1998 blue plaque erection at 22 Brook Street, London. http://infromthestorm.net/hendrix.html#god
+
+Lineage: TV broadcast (BBC Two - "Hendrix Night", broadcast 6/5/99) > ?? > video_ts > Crosstown Torrents > {dajchance} hard drive > (torrent)
+
+      video: NTSC, MPEG-2, 10080 kb/s VBR, 720x480, 4:3 ratio, 29.97fps
+      audio: DVD_LPCM_Audio
+
+
+MD5 CHECKSUM:
+2f67aff091045e895cc9331f34ed80d5 *VIDEO_TS\VIDEO_TS.BUP
+2f67aff091045e895cc9331f34ed80d5 *VIDEO_TS\VIDEO_TS.IFO
+8c5638c3ef1e2145f9ed3a74329f05fd *VIDEO_TS\VIDEO_TS.VOB
+dafb93acd03e7c8ac72ea9d286f360de *VIDEO_TS\VTS_01_0.BUP
+dafb93acd03e7c8ac72ea9d286f360de *VIDEO_TS\VTS_01_0.IFO
+838ef25bdf0acb3bcb8907f4422124ed *VIDEO_TS\VTS_01_1.VOB
+c1af5800bcbb9acec7efeb95e2620c80 *VIDEO_TS\VTS_01_2.VOB
+f06d0da32b005338d16df81de0694688 *VIDEO_TS\VTS_01_3.VOB
+962a194e914f695160ea9cc18571503e *VIDEO_TS\VTS_01_4.VOB
+da600935ee6f2800472227ae2b4db488 *VIDEO_TS\VTS_01_5.VOB
+
+
+Original Info File:
+
+Jimi Hendrix - The Man They Made God
+(Collector's Disc <DG> / 2004 / DVD-R)
+"The Man They Made God"; BBC TV Documentary (1999) about
+the Life of Jimi Hendrix [Includes various musical excerpts
+and Interviews with friends and aquaintances]
+"Picture This"; BBC Documrntary (1998) about the Blue Plaque
+erection and unveiling at Jimi Hendrix' flat at 22 Brook Street, London)
+Total time: 89:02
+******************************
+The above info brought to you by The most excellent web site:
+IN FROM THE STORM

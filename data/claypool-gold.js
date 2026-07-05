@@ -19,7 +19,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oakland CA",
       "venue": "Fox Theater",
-      "notes": "CA-11 · leifh",
+      "notes": "CA-11 \u00b7 leifh",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-12-31 - Oakland CA - Fox Theater (CA-11) (leifh) [AUD].txt"
@@ -33,7 +33,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Reno, NV",
       "venue": "Reno Events Center",
-      "notes": "Motorola Moto G · dpupenya",
+      "notes": "Motorola Moto G \u00b7 dpupenya",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-05-20 - Reno, NV - Reno Events Center (Motorola Moto G) (dpupenya) [AUD].txt"
@@ -47,7 +47,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Bend, OR",
       "venue": "Hayden Homes Amphitheatre",
-      "notes": "Senn Ambeo · grizzly adams",
+      "notes": "Senn Ambeo \u00b7 grizzly adams",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-05-22 - Bend, OR - Hayden Homes Amphitheatre (Senn Ambeo) (grizzly adams) [AUD24].txt"
@@ -61,7 +61,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Redmond, WA",
       "venue": "Marymoor Park",
-      "notes": "Senn Ambeo · grizzly adams",
+      "notes": "Senn Ambeo \u00b7 grizzly adams",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-05-23 - Redmond, WA - Marymoor Park (Senn Ambeo) (grizzly adams) [AUD24].txt"
@@ -75,7 +75,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Starlight Theater",
-      "notes": "DPA 4061s · kcmoejoe",
+      "notes": "DPA 4061s \u00b7 kcmoejoe",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-05-28 - Kansas City, MO - Starlight Theater (DPA 4061s) (kcmoejoe) [AUD24].txt"
@@ -89,7 +89,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Chesterfield, MO",
       "venue": "The Factory",
-      "notes": "Schoeps MK4V · unk",
+      "notes": "Schoeps MK4V \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-05-30 - Chesterfield, MO - The Factory (Schoeps MK4V) (unk) [AUD24].txt"
@@ -103,7 +103,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Jacobs Pavilion",
-      "notes": "MBHO KA200N · unk",
+      "notes": "MBHO KA200N \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-06-02 - Cleveland, OH - Jacobs Pavilion (MBHO KA200N) (unk) [AUD24].txt"
@@ -117,7 +117,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Pelham, TN",
       "venue": "The Caverns Above Ground Amphitheater",
-      "notes": "Schoeps MK4 · funkitblog",
+      "notes": "Schoeps MK4 \u00b7 funkitblog",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-06-05 - Pelham, TN - The Caverns Above Ground Amphitheater (Schoeps MK4) (funkitblog) [AUD24].txt"
@@ -131,7 +131,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga Springs, NY",
       "venue": "SPAC",
-      "notes": "MBHO KA200N · unk",
+      "notes": "MBHO KA200N \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-06-12 - Saratoga Springs, NY - SPAC (MBHO KA200N) (unk) [AUD24].txt"
@@ -145,7 +145,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Asbury Park, NJ",
       "venue": "Stone Pony Summerstage",
-      "notes": "MBHO KA200N · unk",
+      "notes": "MBHO KA200N \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-06-13 - Asbury Park, NJ - Stone Pony Summerstage (MBHO KA200N) (unk) [AUD24].txt"

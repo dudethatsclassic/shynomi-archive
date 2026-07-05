@@ -1,0 +1,12 @@
+
+Folder Path:   /Volumes/data/torrents/completed/Fopp Vinyl 24_96
+
+                          File Name | Format |  SR | Word Length | Max. TPL |  LUFSi | DR (PMF) | 
+
+                          01 - Fopp |  .flac | 96k |          24 |    -1.17 | -15.98 |       12 | 
+02 - Fopp (Fucked Up Heavy Dub Mix) |  .flac | 96k |          24 |    -0.98 | -16.32 |       13 | 
+               03 - Kingdom Of Come |  .flac | 96k |          24 |    -1.01 | -15.36 |       12 | 
+              04 - Swallow My Pride |  .flac | 96k |          24 |    -1.10 | -16.38 |       14 | 
+
+Number of EP/Album Files: 4
+Official EP/Album DR: 13

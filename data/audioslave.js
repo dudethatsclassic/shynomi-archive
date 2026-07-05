@@ -287,7 +287,7 @@ const ARTIST_DATA = {
       "notes": "AUD(M) \u00b7 Coresound",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-03-07 - Philadelphia, PA - The Electric Factory - AUD(M) (Coresound) [AUD].txt"
+      "textFile": "2003-03-07 - Philadelphia, PA - Electric Factory - DAT(M) (Gefell M20) (jlizard) [AUD].txt"
     },
     {
       "year": 2003,
@@ -301,7 +301,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 Gefell M20 \u00b7 jlizard",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-03-07 - Philadelphia, PA - Electric Factory - DAT(M) (Gefell M20) (jlizard) [AUD].txt"
+      "textFile": "2003-03-07 - Philadelphia, PA - The Electric Factory - AUD(M) (Coresound) [AUD].txt"
     },
     {
       "year": 2003,

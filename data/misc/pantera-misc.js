@@ -21,7 +21,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Pantera - 1992-1993 - Live USA (LSDCD 152) [Silver].txt"
   },
   {
     "type": "release",
@@ -29,7 +30,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1994,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Pantera - Castle Domination 1994 (OCTO 010) [Silver].txt"
   },
   {
     "type": "release",
@@ -37,7 +39,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1994,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Pantera - Damnation (1994) (BC 030) [Silver].txt"
   },
   {
     "type": "release",
@@ -45,7 +48,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Pantera - Europe 1993 (LSCD 51537) [Silver].txt"
   },
   {
     "type": "release",
@@ -53,7 +57,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Pantera - Four Cow-Boys From Hell (1993) (MECD 1126) [Silver].txt"
   },
   {
     "type": "release",
@@ -61,7 +66,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Pantera - Fucking Hostile Cowboys From Hell (1993) (PAN 001) [Silver].txt"
   },
   {
     "type": "release",
@@ -69,7 +75,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Pantera - In The Skin (1993) (DE 012) [Silver].txt"
   },
   {
     "type": "release",
@@ -77,5 +84,12 @@ const ARTIST_MISC_DATA = [
     "version": "WEB",
     "format": "FLAC",
     "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Pantera - 1992 - WW1 Absolutely Live High Voltage",
+    "version": "preFM",
+    "format": "preFM",
+    "textFile": "MISC - Pantera - 1992 - WW1 Absolutely Live High Voltage [preFM].txt"
   }
 ];

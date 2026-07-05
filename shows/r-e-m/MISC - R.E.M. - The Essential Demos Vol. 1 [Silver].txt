@@ -1,0 +1,49 @@
+Source:
+R.E.M. - The Essential Demos: Vol.1 [SPQR bootleg]
+
+Lineage:
+CD > EAC V0.95b3 > WAV > Flac Frontend 1.7.1 (Flac 1.1.2 - Level 8) > FLAC
+
+Tracks:
+01 Radio Free Europe [Dub Mix]
+02 Ages of You
+03 Carnival of Sorts (Box Cars)
+04 Shaking Through
+05 Wolves, Lower [Fast Version]
+06 Catapult
+07 Laughing
+08 Easy Come, Easy Go (Romance)
+09 That Beat
+10 Burning Hell
+11 The Lion Sleeps Tonight
+12 Skank
+13 Theme from Two Steps Onward
+14 Just a Touch
+15 Mystery to Me
+16 Wait
+17 Begin the Begin
+18 Cuyahoga
+19 I Believe
+20 These Days
+21 Bad Day [Cut]
+
+Date - Location:
+01	:	1981-04-15 - Drive-In Studios - Winston-Salem, NC
+02-04	:	1981-10-03 - Drive-In Studios - Winston-Salem, NC
+05	:	1982-01-2x - Drive-In Studios - Winston-Salem, NC
+06-08	:	1982-02-01 - Studio C, RCA Studios - New York, NY
+09	:	1983-02-17 - Studio A, Reflection Sound Studios - Charlotte, NC
+10-12	:	1983-11-09 - Rhytmic Studios - San Francisco, CA
+13-21	:	1986-03-xx - John Keane's Studio - Athens, GA
+
+Notes:
+01	:	Mitch Easter remixed the 15 April 1981 'Radio Free Europe' recording on 23 April 1983
+02-04	:	Tracks mixed by Mitch Easter on 5, 7 and 8 October 1981
+05	:	Recorded either 27 or 28 January 1982
+06-08	:	Extras and mixing later that month?	
+09	:	Recorded live to 2-track
+10-12	:	Elliot Mazer Demos
+13-21	:	'Bad Day' is cut short by the bootleggers!
+
+Source of Notes:
+R.E.M. Timeline [http://www.remtimeline.com/]

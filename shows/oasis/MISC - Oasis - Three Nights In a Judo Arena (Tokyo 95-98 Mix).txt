@@ -1,0 +1,54 @@
+dBpoweramp Release 12.4 Digital Audio Extraction Log from 09 March 2009 10:48 AM
+
+Drive & Settings
+----------------
+
+Ripping with drive 'E:   [PIONEER  - DVD-RW  DVR-111D]',  Drive offset: 0,  Overread Lead-in/out: No
+AccurateRip: Active,  Using C2: No,  Cache: None,  FUA Cache Invalidate: No
+Pass 1 Drive Speed: Max,  Pass 2 Drive Speed: Max
+Bad Sector Re-rip::  Drive Speed: Max,  Maximum Re-reads: 34
+
+Encoder: FLAC -compression-level-8 -verify
+
+Extraction Log
+--------------
+
+Track 1:  Ripped LBA 0 to 24161 (5:22) in 0:41. Filename: K:\MP3\I-P\Oasis\Three Nights In a Judo Arena\01 - Don't Look Back In Anger.flac
+  Secure  [Pass 1 & 2]
+  CRC32: 2AEA5614
+
+Track 2:  Ripped LBA 24161 to 45140 (4:39) in 0:26. Filename: K:\MP3\I-P\Oasis\Three Nights In a Judo Arena\02 - Wonderwall.flac
+  Secure  [Pass 1 & 2]
+  CRC32: 78DBB7A8
+
+Track 3:  Ripped LBA 45140 to 69079 (5:19) in 0:27. Filename: K:\MP3\I-P\Oasis\Three Nights In a Judo Arena\03 - Live Forever.flac
+  Secure  [Pass 1 & 2]
+  CRC32: E4F10542
+
+Track 4:  Ripped LBA 69079 to 124680 (12:21) in 0:58. Filename: K:\MP3\I-P\Oasis\Three Nights In a Judo Arena\04 - Champagne Supernova.flac
+  Secure  [Pass 1 & 2]
+  CRC32: 812E79DC
+
+Track 5:  Ripped LBA 124680 to 154657 (6:39) in 0:28. Filename: K:\MP3\I-P\Oasis\Three Nights In a Judo Arena\05 - Acquiesce.flac
+  Secure  [Pass 1 & 2]
+  CRC32: DBB598B2
+
+Track 6:  Ripped LBA 154657 to 170521 (3:31) in 0:23. Filename: K:\MP3\I-P\Oasis\Three Nights In a Judo Arena\06 - Don't Go Away.flac
+  Secure (Warning)  [Pass 1 & 2, Re-Rip 2 Frames]
+  CRC32: 1B1DD707
+
+Track 7:  Ripped LBA 170521 to 191116 (4:34) in 0:22. Filename: K:\MP3\I-P\Oasis\Three Nights In a Judo Arena\07 - Supersonic.flac
+  Secure  [Pass 1 & 2]
+  CRC32: B204461B
+
+Track 8:  Ripped LBA 191116 to 204501 (2:58) in 0:11. Filename: K:\MP3\I-P\Oasis\Three Nights In a Judo Arena\08 - Hello.flac
+  Secure  [Pass 1 & 2]
+  CRC32: 908D2913
+
+Track 9:  Ripped LBA 204501 to 239581 (7:47) in 0:28. Filename: K:\MP3\I-P\Oasis\Three Nights In a Judo Arena\09 - It's Getting Better (Man!).flac
+  Secure  [Pass 1 & 2]
+  CRC32: 04C33AB8
+
+--------------
+
+9 Tracks Ripped: 8 Secure, 1 Secure (Warning)

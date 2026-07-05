@@ -139,10 +139,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "St. Petersburg, FL",
       "venue": "Bayfront Center",
-      "notes": "ANA(x) · unk · wes meyette",
+      "notes": "ANA(x) \u00b7 unk \u00b7 wes meyette",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1975-03-27 - St. Petersburg, FL - Bayfront Center - ANA(x) (unk) (wes meyette) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1975,
@@ -153,7 +152,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Frankfurt, Germany",
       "venue": "Jahrhunderthalle",
-      "notes": "Telfunken Magnetophon · hb",
+      "notes": "Telfunken Magnetophon \u00b7 hb",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1975-10-22 - Frankfurt, Germany - Jahrhunderthalle (Telfunken Magnetophon) (hb) [AUD].txt"
@@ -282,7 +281,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1976-08-27 - South Yarmouth, MA - Cape Cod Coliseum (Sony ECM-99) (dan lampinski) [AUD24].txt"
+      "textFile": "1976-08-27 - Cape Cod, MA - Cape Cod Coliseum [AUD].txt"
     },
     {
       "year": 1976,
@@ -293,7 +292,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "South Yarmouth, MA",
       "venue": "Cape Cod Coliseum",
-      "notes": "Sony ECM-99 · dan lampinski",
+      "notes": "Sony ECM-99 \u00b7 dan lampinski",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1976-08-27 - South Yarmouth, MA - Cape Cod Coliseum (Sony ECM-99) (dan lampinski) [AUD24].txt"
@@ -418,7 +417,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Concord Pavilion",
-      "notes": "Source 2 · Shure SM58 · marcus buick",
+      "notes": "Source 2 \u00b7 Shure SM58 \u00b7 marcus buick",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1987-09-23 - Concord, CA - Concord Pavilion (Source 2) (Shure SM58) (marcus buick) [AUD].txt"
@@ -446,7 +445,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Conference Room (WLUP FM)",
-      "notes": "ANA(M) · krw_co",
+      "notes": "ANA(M) \u00b7 krw_co",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1993-03-22 - Chicago, IL - Conference Room (WLUP FM) - ANA(M) (krw_co) [FM].txt"

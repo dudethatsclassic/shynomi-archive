@@ -5,7 +5,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2003,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Avril Lavigne - F\u2731\u2731kin' Sk8er Girl {W.B. 065} (2003) [Silver].txt"
   },
   {
     "type": "release",
@@ -13,7 +14,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2003,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Avril Lavigne - Sk8er Girl Live {SG211102} (2003) [Silver].txt"
   },
   {
     "type": "release",
@@ -45,7 +47,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2004,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Avril Lavigne - The Bonez-Tour 2004 {AL270904} (2004) [Silver].txt"
   },
   {
     "type": "release",
@@ -53,7 +56,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2003,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Avril Lavigne - Unprotected {N.W. 025} (2003) [Silver].txt"
   },
   {
     "type": "release",

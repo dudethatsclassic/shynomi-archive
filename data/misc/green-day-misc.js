@@ -2,7 +2,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Green Day - Dookie Demos (surfaced 2019)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Green Day - Dookie Demos (surfaced 2019) [FLAC].txt"
   },
   {
     "type": "label",
@@ -63,5 +64,51 @@ const ARTIST_MISC_DATA = [
     "type": "label",
     "label": "Green Day - Live at the Whiskey 7\" (GDC Exclusive)",
     "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Green Day - Foot in Mouth",
+    "textFile": "MISC - Green Day - Foot in Mouth.txt"
+  },
+  {
+    "type": "release",
+    "label": "Green Day - Idiot Club Updates (2005-06)",
+    "format": "Video"
+  },
+  {
+    "type": "release",
+    "label": "Green Day - Live at the Whiskey 7\" (GDC Exclusive) [VINYL}"
+  },
+  {
+    "type": "release",
+    "label": "Green Day - The Broadcast Collection 1992-1998 (2025)",
+    "year": 2025,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Green Day - The House of Blues Myrtle Beach Broadcast 1998 {GSF034} (2018)",
+    "year": 2018,
+    "format": "FLAC",
+    "textFile": "MISC - Green Day - The House of Blues Myrtle Beach Broadcast 1998 {GSF034} (2018) [FLAC] .txt"
+  },
+  {
+    "type": "release",
+    "label": "Green Day - Three Songs Demo (1992)",
+    "year": 1992,
+    "textFile": "MISC - Green Day - Three Songs Demo (1992).txt"
+  },
+  {
+    "type": "release",
+    "label": "Green Day - VH1 Ultimate Albums - Dookie (1994)",
+    "year": 1994,
+    "format": "MPG"
+  },
+  {
+    "type": "release",
+    "label": "Green Day - Woodstock 1994 (2019)",
+    "year": 2019,
+    "format": "Vinyl Rip",
+    "textFile": "MISC - Green Day - Woodstock 1994 (2019) [Vinyl Rip].txt"
   }
 ];

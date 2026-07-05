@@ -80,7 +80,7 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Globen Annex",
-      "notes": "MD(x) · unk",
+      "notes": "MD(x) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-03-06 - Stockholm, Sweden - Globen Annex - MD(x) (unk) [AUD] .txt"
@@ -120,7 +120,7 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Centre Bell",
-      "notes": "SP-CMC-8s · unk",
+      "notes": "SP-CMC-8s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-04-11 - Montreal, QC - Centre Bell (SP-CMC-8s) (unk) [AUD].txt"
@@ -134,7 +134,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "Freeman Coliseum",
-      "notes": "AT853s · unk",
+      "notes": "AT853s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-05-05 - SanA ntonio, TX - Freeman Coliseum (AT853s) (unk) [AUD].txt"
@@ -148,7 +148,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Zepp Tokyo",
-      "notes": "MM-HLSC-1 · fab1",
+      "notes": "MM-HLSC-1 \u00b7 fab1",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-03-20 - Tokyo, Japan - Zepp Tokyo (MM-HLSC-1) (fab1) [AUD].txt"
@@ -175,7 +175,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Starlight Theatre",
-      "notes": "Sony MZ-N707 · bec",
+      "notes": "Sony MZ-N707 \u00b7 bec",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-07-22 - Kansas City, MO - Starlight Theatre (Sony MZ-N707) (bec) [AUD].txt"
@@ -215,7 +215,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Nokia Theatre",
-      "notes": "AT943 · prof_peabody",
+      "notes": "AT943 \u00b7 prof_peabody",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-08-03 - Dallas, TX - Nokia Theatre (AT943) (prof_peabody) [AUD].txt"
@@ -229,7 +229,7 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Council Bluffs, IA",
       "venue": "Mid-America Center",
-      "notes": "iRiber H140 · bec",
+      "notes": "iRiber H140 \u00b7 bec",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-12-05 - Council Bluffs, IA - Mid-America Center (iRiber H140) (bec) [AUD].txt"
@@ -243,7 +243,7 @@ const ARTIST_DATA = {
       "state": "SK",
       "location": "Saskatoon, SK",
       "venue": "Credit Union Centre",
-      "notes": "Edirol R-09 · auriel",
+      "notes": "Edirol R-09 \u00b7 auriel",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-03-16 - Saskatoon, SK - Credit Union Centre (Edirol R-09) (auriel) [AUD].txt"
@@ -348,7 +348,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Ottawa, Ontario",
       "venue": "Scotiabank Place",
-      "notes": "Zoom H2 · bootlegottawa",
+      "notes": "Zoom H2 \u00b7 bootlegottawa",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-10-17 - Ottawa, Ontario - Scotiabank Place (Zoom H2) (bootlegottawa) [AUD].txt"
@@ -403,7 +403,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Terrace Studios",
-      "notes": "Access · Interview",
+      "notes": "Access \u00b7 Interview",
       "version": "TV",
       "format": "TS",
       "textFile": "2013-11-12 - Access Hollywood Live (Interview) [TS].txt"
@@ -417,7 +417,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Studios Stage 1",
-      "notes": "Chelsea · Interview",
+      "notes": "Chelsea \u00b7 Interview",
       "version": "TV",
       "format": "TS",
       "textFile": "2013-11-12 - Chelsea Lately (Interview) [TS].txt"
@@ -444,7 +444,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "T-Mobile Arena",
-      "notes": "iHeartRadio · HDTV",
+      "notes": "iHeartRadio \u00b7 HDTV",
       "version": "TV",
       "format": "DVD",
       "textFile": "2022-09-24 - Las Vegas, NV - T-Mobile Arena - iHeartRadio Festival (HDTV) [DVD].txt"
@@ -458,7 +458,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "Kia Forum",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-05-30 - Inglewood, CA - Kia Forum (DPA 4081) (faninor) [AUD24].txt"

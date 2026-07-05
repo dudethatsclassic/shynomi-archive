@@ -1,0 +1,59 @@
+R.E.M. 
+John Keane's Studios, Athens, Georgia, US
+1986
+
+DISC #1/#1
+----------------
+01.  03:10   Pop Song 89
+02.  04:02   Orange Crush
+03.  02:48   Get Up (Instrumental)
+04.  05:08   I Remember California
+05.  04:05   Untitled Instrumental #1
+06.  02:35   Title (Instrumental)
+07.  02:27   Hairshirt (Instrumental)
+08.  03:27   Untitled Instrumental #2
+09.  03:16   Stand
+10.  03:42   You Are The Everything
+11.  02:39   The Wrong Child (Instrumental)
+12.  05:43   Untitled Instrumental #3
+13.  04:39   Untitled Instrumental #4
+14.  02:43   Get Up
+15.  03:01   See No Evil
+
+Total Time : 00:53:25
+
+
+SOURCE (SBD)
+----------------
+soundboard > unknown (STU)
+
+GENERATION
+----------------
+ANA(1) > FLAC [Level 8]
+
+NOTES
+----------------
+* This cassette was found at a show at the Holiday Inn, Hillside, Illinois in the mid-90's.
+* An upgrade from previous bootleg copies.
+
+MD5 FINGERPRINTS
+----------------
+f20b48fa7b8b80dd7dbd5455820b0398 *rem_d1t01 Green Demos - Pop Song 89.flac
+b4c2ed9da526bdbb2d96082032ec68d2 *rem_d1t02 Green Demos - Orange Crush.flac
+3f53182c274c5435e0559eaac4fbcc7d *rem_d1t03 Green Demos - Get Up (Instrumental).flac
+a2e0b1f72e71f3f2cf24dabb0fd9fdc7 *rem_d1t04 Green Demos - I Remember California.flac
+029f660fe41d3994c158794dfbe363dc *rem_d1t05 Green Demos - Untitled Instrumental #1.flac
+cfef9ef6cb6d9ca79b1a442db1eb3628 *rem_d1t06 Green Demos - Title (Instrumental).flac
+8b8f23adcaca20d268d170a5249e3524 *rem_d1t07 Green Demos - Hairshirt (Instrumental).flac
+74d17120b66d193c93f394c3a337d6ac *rem_d1t08 Green Demos - Untitled Instrumental #2.flac
+cb27c9c0a26eced14d37480d1b98c054 *rem_d1t09 Green Demos - Stand.flac
+f62f46e47a9bf36dfdb905dd5565b803 *rem_d1t10 Green Demos - You Are The Everything.flac
+859ca59b5c6c4200de33dae48beda2ff *rem_d1t11 Green Demos - The Wrong Child (Instrumental).flac
+f6933154930d1a41eba93865823e3506 *rem_d1t12 Green Demos - Untitled Instrumental #3.flac
+6af0083b935bdeea8cdfdf325e4f3a6b *rem_d1t13 Green Demos - Untitled Instrumental #4.flac
+e8a703a894888df7c793437e501c062f *rem_d1t14 Green Demos - Get Up.flac
+556258447d38dccbde9d52fb3b164619 *rem_d1t15 Green Demos - See No Evil.flac
+
+
+Transferred by unknown.
+Please do not encode to lossy formats and/or sell.

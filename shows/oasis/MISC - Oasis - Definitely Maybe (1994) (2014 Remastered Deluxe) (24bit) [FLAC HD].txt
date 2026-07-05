@@ -1,0 +1,65 @@
+foobar2000 1.3.9 / Dynamic Range Meter 1.1.1
+log date: 2016-04-11 00:11:04
+
+--------------------------------------------------------------------------------
+Analyzed: Oasis / Definitely Maybe (Remastered Deluxe)
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR5       -1.00 dB    -7.23 dB      5:22 01-Rock 'n' Roll Star (Remastered)
+DR5       -1.00 dB    -7.19 dB      5:08 02-Shakermaker (Remastered)
+DR5       -1.00 dB    -7.31 dB      4:37 03-Live Forever (Remastered)
+DR5       -1.00 dB    -7.09 dB      4:28 04-Up in the Sky (Remastered)
+DR5       -1.00 dB    -7.65 dB      6:17 05-Columbia (Remastered)
+DR5       -1.00 dB    -7.30 dB      4:44 06-Supersonic (Remastered)
+DR5       -1.00 dB    -6.65 dB      4:18 07-Bring It On Down (Remastered)
+DR5       -1.00 dB    -6.62 dB      4:49 08-Cigarettes & Alcohol (Remastered)
+DR5       -1.00 dB    -6.82 dB      2:32 09-Digsy's Dinner (Remastered)
+DR5       -1.00 dB    -6.99 dB      6:32 10-Slide Away (Remastered)
+DR11      -1.20 dB   -14.19 dB      3:13 11-Married With Children (Remastered)
+DR5       -1.10 dB    -7.41 dB      5:28 12-Columbia (White Label Demo) [Remastered]
+DR4       -1.09 dB    -6.47 dB      4:38 13-Cigarettes & Alcohol (Demo) [Remastered]
+DR6       -1.10 dB    -8.98 dB      4:29 14-Sad Song (Remastered)
+DR6       -1.10 dB    -8.70 dB      3:49 15-I Will Believe (Live) [Remastered]
+DR10      -1.10 dB   -14.21 dB      4:33 16-Take Me Away (Remastered)
+DR6       -1.10 dB    -8.94 dB      3:58 17-Alive (Demo) [Remastered]
+DR8       -1.10 dB   -11.20 dB      2:41 18-D'yer Wanna Be a Spaceman? (Remastered)
+DR5       -1.10 dB    -6.93 dB      5:15 19-Supersonic (Live) [Remastered]
+DR6       -1.10 dB    -7.50 dB      3:34 20-Up in the Sky (Acoustic) [Remastered]
+DR5       -1.10 dB    -6.90 dB      5:23 21-Cloudburst (Remastered)
+DR5       -1.10 dB    -7.04 dB      4:17 22-Fade Away (Remastered)
+DR5       -1.10 dB    -6.23 dB      6:42 23-Listen Up (Remastered)
+DR6       -1.05 dB    -7.31 dB      8:18 24-I Am the Walrus (Live Glasgow Cathouse June '94) [Remastered]
+DR4       -1.10 dB    -6.59 dB      6:22 25-Whatever (Remastered)
+DR4       -1.10 dB    -7.03 dB      4:24 26-(It's Good) to Be Free [Remastered]
+DR8       -1.10 dB   -11.73 dB      4:25 27-Half the World Away (Remastered)
+DR5       -1.00 dB    -6.69 dB      5:30 28-Supersonic (Live At Glasgow Tramshed)
+DR4       -1.00 dB    -6.68 dB      5:46 29-Rock 'n' Roll Star (Demo)
+DR7       -1.10 dB    -9.96 dB      4:05 30-Shakermaker (Live Paris Instore)
+DR4       -1.10 dB    -6.72 dB      5:37 31-Columbia (Eden Studios Mix)
+DR6       -1.00 dB    -8.70 dB      5:10 32-Cloudburst (Demo)
+DR5       -1.00 dB    -7.54 dB      5:15 33-Strange Thing (Demo)
+DR6       -1.10 dB    -9.46 dB      4:42 34-Live Forever (Live Paris Instore)
+DR4       -1.10 dB    -6.35 dB      3:59 35-Cigarettes & Alcohol (Live At Manchester Academy)
+DR9       -1.10 dB   -12.27 dB      2:46 36-D'yer Wanna Be a Spaceman? (Live At Manchester Academy)
+DR5       -1.00 dB    -7.60 dB      4:23 37-Fade Away (Demo)
+DR8       -1.10 dB   -12.92 dB      4:15 38-Take Me Away (Live At Manchester Academy)
+DR10       0.00 dB   -13.39 dB      4:29 39-Sad Song (Live At Manchester Academy)
+DR7       -1.10 dB   -10.56 dB      3:53 40-Half the World Away (Live, Tokyo Hotel Room)
+DR8       -1.10 dB   -10.31 dB      2:37 41-Digsy's Dinner (Live Paris Instore)
+DR9       -1.10 dB   -12.31 dB      3:16 42-Married With Children (Demo)
+DR8        0.00 dB   -11.04 dB      3:19 43-Up in the Sky (Live Paris Instore)
+DR8       -1.10 dB   -10.83 dB      4:50 44-Whatever (Strings)
+--------------------------------------------------------------------------------
+
+Number of tracks:  44
+Official DR value: DR6
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           1381 kbps
+Codec:             FLAC
+================================================================================
+

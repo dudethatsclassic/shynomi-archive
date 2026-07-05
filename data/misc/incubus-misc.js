@@ -51,5 +51,41 @@ const ARTIST_MISC_DATA = [
     "label": "Incubus - Look Alive - Live from Chicago & Europe (2007)",
     "version": "Official",
     "format": "MKV"
+  },
+  {
+    "type": "release",
+    "label": "Incubus - 8 (2017) (24bit)",
+    "year": 2017,
+    "format": "FLAC HD",
+    "category": "HD",
+    "textFile": "MISC - Incubus - Incubus HQ Live (Deluxe Edition) (2012) (24bit) [FLAC HD].txt"
+  },
+  {
+    "type": "release",
+    "label": "Incubus - Our Love (Single) (2020) (24bit)",
+    "year": 2020,
+    "format": "FLAC HD",
+    "category": "HD"
+  },
+  {
+    "type": "release",
+    "label": "Incubus - Alive at Red Rocks 2004",
+    "format": "MKV"
+  },
+  {
+    "type": "release",
+    "label": "Incubus - Look Alive - Live from Chicago and Europe 2007",
+    "format": "MKV"
+  },
+  {
+    "type": "release",
+    "label": "Incubus Live Bootlegs.com (Official)",
+    "format": "MP3"
+  },
+  {
+    "type": "release",
+    "label": "Incubus \u2014 iTunes Live from SoHo (2011)",
+    "year": 2011,
+    "format": "FLAC"
   }
 ];

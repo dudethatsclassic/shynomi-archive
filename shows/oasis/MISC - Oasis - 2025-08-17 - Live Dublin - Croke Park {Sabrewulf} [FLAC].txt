@@ -1,0 +1,38 @@
+Oasis
+Croke Park
+Dublin, Ireland
+August 17th, 2025 (Sunday, Night 2)
+
+01 The Auld Triangle
+02 Fuckin' in the Bushes
+03 Hello
+04 Acquiesce
+05 Morning Glory
+06 Some Might Say
+07 Bring It On Down
+08 Cigarettes & Alcohol
+09 Fade Away
+10 Supersonic
+11 Roll With It
+12 Talk Tonight
+13 Half the World Away
+14 Little by Little
+15 D'You Know What I Mean?
+16 Stand by Me
+17 Cast No Shadow
+18 Slide Away
+19 Whatever
+20 Live Forever
+21 Rock 'n' Roll Star
+22 The Masterplan
+23 Don't Look Back in Anger
+24 Wonderwall
+25 Champagne Supernova
+
+Taper: sabrewulf
+Gear: Edirol R-09 built-in mics [48/24 WAV]
+Lineage: R-09 => Wavelab Pro 11 (combine the two WAV files and convert to 44/16 to bring it under 2GB) => Audacity (some EQ to boost high and cut low end) => Wavelab Pro (boost volume) => CD Wave Editor (track)
+
+This recording is dedicated to Johnky, who went missing two years ago!
+This recording is not for sale!
+This recording was posted publicly without anything for anything in return. If Oasis comes to Dublin again, please share your recording with me in case you tape them, so I don't have to and can have some pints instead.

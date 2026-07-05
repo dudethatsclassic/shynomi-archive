@@ -2192,7 +2192,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1)",
       "version": "PRO #1",
       "format": "DVD",
-      "textFile": "1994-11-18 - Chicago, IL - Aragon Ballroom - VHS(1) (PRO #1) [DVD].txt"
+      "textFile": "1994-11-18 - Chicago, IL - Aragon Ballroom (PRO #2a) [DVD].txt"
     },
     {
       "year": 1994,
@@ -2206,7 +2206,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO #2a",
       "format": "DVD",
-      "textFile": "1994-11-18 - Chicago, IL - Aragon Ballroom (PRO #2a) [DVD].txt"
+      "textFile": "1994-11-18 - Chicago, IL - Aragon Ballroom - VHS(1) (PRO #1) [DVD].txt"
     },
     {
       "year": 1994,
@@ -2969,7 +2969,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2001-05-26 - Foxboro, MA - Gillette Stadium [FM].txt"
+      "textFile": "2001-05-26 - Foxboro, MA - Foxboro Stadium (2001 WBCN River Rave) (Boston 104.1) [FM].txt"
     },
     {
       "year": 2001,
@@ -2983,7 +2983,7 @@ const ARTIST_DATA = {
       "notes": "2001 WBCN River Rave \u00b7 Boston 104.1",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2001-05-26 - Foxboro, MA - Foxboro Stadium (2001 WBCN River Rave) (Boston 104.1) [FM].txt"
+      "textFile": "2001-05-26 - Foxboro, MA - Gillette Stadium [FM].txt"
     },
     {
       "year": 2001,
@@ -3360,7 +3360,7 @@ const ARTIST_DATA = {
       "notes": "AUD(M) \u00b7 MK4 \u00b7 schoepsnbox",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2005-09-07 - Philadelphia, PA - Wachovia Center (AUD) [DVD].txt"
+      "textFile": "2005-09-07 - Philadelphia, PA - Wachovia Center - AUD(M) (MK4) (schoepsnbox) [AUD].txt"
     },
     {
       "year": 2005,
@@ -3374,7 +3374,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "2005-09-07 - Philadelphia, PA - Wachovia Center - AUD(M) (MK4) (schoepsnbox) [AUD].txt"
+      "textFile": "2005-09-07 - Philadelphia, PA - Wachovia Center (AUD) [DVD].txt"
     },
     {
       "year": 2005,
@@ -4509,7 +4509,7 @@ const ARTIST_DATA = {
       "notes": "CCM4 \u00b7 anonymous",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2021-08-27 - San Francisco, CA - Oracle Park (CCM4) (anonymous) [AUD].txt"
+      "textFile": "2021-08-27 - San Francisco, CA - Oracle Park (AT853s) (tj) [AUD].txt"
     },
     {
       "year": 2021,
@@ -4523,7 +4523,7 @@ const ARTIST_DATA = {
       "notes": "AT853s \u00b7 tj",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2021-08-27 - San Francisco, CA - Oracle Park (AT853s) (tj) [AUD].txt"
+      "textFile": "2021-08-27 - San Francisco, CA - Oracle Park (CCM4) (anonymous) [AUD].txt"
     },
     {
       "year": 2021,
@@ -4537,7 +4537,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4U",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2021-09-03 - Los Angeles, CA - Dodger Stadium (SP-CMC-4U) [AUD].txt"
+      "textFile": "2021-09-03 - Los Angeles, CA - Dodger Stadium (MV88s) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -4551,7 +4551,7 @@ const ARTIST_DATA = {
       "notes": "MV88s",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2021-09-03 - Los Angeles, CA - Dodger Stadium (MV88s) [AUD24].txt"
+      "textFile": "2021-09-03 - Los Angeles, CA - Dodger Stadium (SP-CMC-4U) [AUD].txt"
     },
     {
       "year": 2021,

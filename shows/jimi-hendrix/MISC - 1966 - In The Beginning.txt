@@ -1,0 +1,32 @@
+Jimi Hendrix - 1966 - In The Beginning (1972 release)
+
+Artist: Jimi Hendrix
+Title: In The Beginning
+Recorded: 1966
+Release: 1972
+Runtime: 33:57
+Genre: Rock
+
+Format: FLAC
+Total Size: 213 MB
+
+Tracklist:
+
+Side 1:
+01 - Hey LeRoy (Jimmy Castor, John Pruitt) 4:38
+02 - Free Spirit (Hitsong de Choluteca, Moses) 5:33
+03 - House Of The Rising Sun (Woody Guthrie) 5:27
+
+Side 2:
+04 - Something You Got (Chris Kenner) 4:43
+05 - Let The God Sing (Hitsong de Choluteca) 10:56
+06 - She's A Fox (Poindexter, Lewis) 2:40
+
+(*) few clicks and crackles not removed
+
+LP Rip -> turntable -> P2/RCA cable -> SB Live! 5.1 SB0228 line in (kX Audio Driver 5.10.0.3550) -> WavLab 6 -> WAV 16 bits 44.1 kHz -> DeNoiseLF -> ClickRepair -> DeNoise -> volume increase via Audacity 1.3.14-beta (Unicode) (Effect -> Amplify) -> track split via WavLab 6 -> FLAC -> tag via MediaMonkey
+-> foobar2000/lame -> MP3 at 320
+-> foobar2000/oggenc -> OGG at 500
+
+@jarax4u
+just another random audio experience for you

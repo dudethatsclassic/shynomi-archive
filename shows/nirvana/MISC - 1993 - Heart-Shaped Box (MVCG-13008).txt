@@ -1,0 +1,24 @@
+foobar2000 1.1.13 / Dynamic Range Meter 1.1.0
+log date: 2012-09-24 18:54:13
+
+--------------------------------------------------------------------------------
+Analyzed: Nirvana / Heart-Shaped Box (MVCG-13008)
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR9       -0.20 dB   -11.06 dB      4:41 01-Heart-Shaped Box (LP Version) (Kurt Cobain)
+DR9       -0.19 dB   -10.87 dB      3:54 02-Milk It (LP Version) (Kurt Cobain)
+DR10      -0.20 dB   -11.98 dB      2:36 03-Marigold (Previously Unreleased) (David Grohl)
+--------------------------------------------------------------------------------
+
+Number of tracks:  3
+Official DR value: DR9
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           891 kbps
+Codec:             FLAC
+================================================================================
+

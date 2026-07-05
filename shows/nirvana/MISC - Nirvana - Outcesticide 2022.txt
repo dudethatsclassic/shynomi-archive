@@ -1,0 +1,56 @@
+NIRVANA
+"Outcesticide 2022"
+Various/Compilation
+
+SOURCE:
+"Outcesticide 2022" Bootleg CD
+
+TRANSFER:
+HL-DT-ST DVDRW GA32N > Apple Music 1.1.6.37 > Trader's Little Helper 2.8.4
+
+GENERATION:
+CD[M] > WAV [16 bit/44.1KHz] > FLAC
+
+DURATION:
+70:47
+
+TRACKS:
+01. Closing Time (Hole)  [1993-01-21 BMG Ariola, Rio de Janiero, BR][STU]
+02. Mr. Moustache  [1989-11-03 Tivoli, Utrecht, NL][SBD]
+03. Return Of The Rat  [1992-04-XX Laundry Room Studio, Seattle, WA](Alt-Mix, Instrumental)[STU]
+04. Where Did You Sleep Last Night?  [1989-11-29][SBD]
+05. Sappy  [1990-04-XX Smart Studios](Mix 2)[STU]
+06. Come As You Are  [1991-09-16 Beehive Music & Video, Seattle, WA][AUD]
+07. Frances Farmer Will Have Her Revenge On Seattle  [1992-04-XX Laundry Room Studio, Seattle, WA](Alt Mix, Instrumental)[STU]
+08. Rape Me  [1992-09-11 Seattle Center Coliseum, Seattle, WA][SBD]
+09. Lithium  [1990-04-XX Smart Studios, Madison, WI](Mix 3)[STU]
+10. Sappy  [1991-05-XX Sound City Studios][STU]
+11. In Bloom  [1992-10-30 Estadio José Amalfitani, Buenos Aires, AR][PRO-VID]
+12. Oh, Me  [1993-11-18 Sony Music Studios (MTV Unplugged), New York, NY](Rehearsal)
+13. The Money Will Roll Right In  [1992-07-02 Plaza de Toros de Valencia, Valencia, ES][SBD]
+14. Old Age  [199X Cobain Residence][Home Demo]
+15. Serve The Servants [1993-04-09 Cow Palace, Daly City, CA][SBD]
+16. Lounge Act [1991-05-XX Sound City Studios](Alt-Mix)[STU]
+17. The Man Who Sold The World  [1993-12-29 San Diego Sports Arena, San Diego, CA][SBD]
+18. Unknown-Jam  [1993-12-29 San Diego Sports Arena, San Diego, CA][SBD]
+
+MD5 FINGERPRINTS:
+fef2f8028831f0ea8eb875421039b5f1 *01 Closing Time (Hole)[1993-01-21][STU].flac
+4cb104bae24bc61b9e9b639da11a0187 *02 Mr. Moustache [1989-11-03][SBD].flac
+6c4e1ef4276b59127430626499d55842 *03 Return Of The Rat [1992-04-XX][STU](Alt-Mix, Instrumental).flac
+c6b7c6adf8d1f68a2b25dbf5bdc5a1e3 *04 Where Did You Sleep Last Night [1989-11-29][SBD].flac
+677811da077b075addcc26e1bdff8266 *05 Sappy [1990-04-XX][STU](Smart Mix 2).flac
+18a35c8d3d3a4b3158ccab9d9a78a445 *06 Come As You Are [1991-09-16][AUD].flac
+d3bae28c5d5b8b28017e7be0c71bdc54 *07 Frances Farmer Will Have Her Revenge On Seattle [1992-04-XX][STU](Alt-Mix, Instrumental).flac
+ae2b24e2c37fe2510be2ed877ab30a9e *08 Rape Me [1992-09-11][SBD].flac
+e282d74ada5e65aeb91bbe4c75c46876 *09 Lithium [1990-04-XX][STU](Smart Mix 3).flac
+eb59bb75023943fcd76344b5b7306012 *10 Sappy [1991-05-XX][STU].flac
+490c8e5723f2e9dc98d5529c02b4c1f8 *11 In Bloom [1992-10-30][PRO].flac
+09acd209460f4cae68f4ada4fc8e852f *12 Oh Me [1993-11-18][PRO](MTV Unplugged Rehearsal).flac
+21f3872dc4ff32d058a56bf942cadceb *13 The Money Will Roll Right In [1992-07-02][SBD].flac
+cf7dc17a5255023d664ea33e22077166 *14 Old Age [199X][Home Demo].flac
+b58e8ee6f7bbae35c671e9af546929b9 *15 Serve The Servants [1993-04-09][SBD].flac
+87bd484f440ab003993050651f6718a5 *16 Lounge Act [1991-05-XX][STU](Alt-Mix).flac
+937ab45822987d393f43a2043518904e *17 The Man Who Sold The World [1993-12-29][SBD].flac
+27b4f4de69efbf833b00f8e884b651e7 *18 Unknown-Jam [1993-12-29][SBD].flac
+

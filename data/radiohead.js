@@ -320,7 +320,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1993-04-02 - Tel Aviv, Israel - Roxanne [FM].txt"
+      "textFile": "1993-04-02 - Tel Aviv, Israel - Roxanne (dimitroy transfer 2022 upgrade) [FM].txt"
     },
     {
       "year": 1993,
@@ -334,7 +334,7 @@ const ARTIST_DATA = {
       "notes": "dimitroy transfer 2022 upgrade",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1993-04-02 - Tel Aviv, Israel - Roxanne (dimitroy transfer 2022 upgrade) [FM].txt"
+      "textFile": "1993-04-02 - Tel Aviv, Israel - Roxanne [FM].txt"
     },
     {
       "year": 1993,
@@ -569,7 +569,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-07-16 - San Diego, CA - World Beat Center (from 8mm Master) [DVD].txt"
+      "textFile": "1993-07-16 - San Diego, CA - World Beat Center [AUD].txt"
     },
     {
       "year": 1993,
@@ -583,7 +583,7 @@ const ARTIST_DATA = {
       "notes": "8MM(M)",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "1993-07-16 - San Diego, CA - World Beat Center [AUD].txt"
+      "textFile": "1993-07-16 - San Diego, CA - World Beat Center (from 8mm Master) [DVD].txt"
     },
     {
       "year": 1993,
@@ -1169,7 +1169,7 @@ const ARTIST_DATA = {
       "notes": "ANA(2) \u00b7 franger transfer",
       "version": "preFM",
       "format": "FLAC",
-      "textFile": "1994-07-02 - Roskilde, Denmark - Roskilde Festival - Main Set and Acoustic Backstage [preFM].txt"
+      "textFile": "1994-07-02 - Roskilde, Denmark - Roskilde Festival - ANA(2) (devilhood remaster) [preFM].txt"
     },
     {
       "year": 1994,
@@ -1183,7 +1183,7 @@ const ARTIST_DATA = {
       "notes": "ANA(2) \u00b7 devilhood remaster",
       "version": "preFM",
       "format": "FLAC",
-      "textFile": "1994-07-02 - Roskilde, Denmark - Roskilde Festival - ANA(2) (devilhood remaster) [preFM].txt"
+      "textFile": "1994-07-02 - Roskilde, Denmark - Roskilde Festival - Main Set and Acoustic Backstage [preFM].txt"
     },
     {
       "year": 1994,
@@ -1306,7 +1306,7 @@ const ARTIST_DATA = {
       "notes": "Sony ECM-909 \u00b7 petrock2000",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-10-06 - London, England  - Lemon Grove - Exeter University [AUD].txt"
+      "textFile": "1994-10-06 - Exeter, England - University of Exeter (Sony ECM-909) (unk) 2025 Transfer [AUD].txt"
     },
     {
       "year": 1994,
@@ -1320,7 +1320,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 joe cooper transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-10-06 - Exeter, England - University of Exeter (Sony ECM-909) (unk) 2025 Transfer [AUD].txt"
+      "textFile": "1994-10-06 - London, England  - Lemon Grove - Exeter University [AUD].txt"
     },
     {
       "year": 1994,
@@ -1334,7 +1334,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-10-06 - London, England - Exeter University [AUD].flac.txt"
+      "textFile": "1994-10-06 - London, England - Exeter University (Sony ECM-909) (petrock2000) (goody's speed.pitch adjusted) [AUD].txt"
     },
     {
       "year": 1994,
@@ -1348,7 +1348,7 @@ const ARTIST_DATA = {
       "notes": "Sony ECM-909 \u00b7 petrock2000 \u00b7 goody's speed.pitch adjusted",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-10-06 - London, England - Exeter University (Sony ECM-909) (petrock2000) (goody's speed.pitch adjusted) [AUD].txt"
+      "textFile": "1994-10-06 - London, England - Exeter University [AUD].flac.txt"
     },
     {
       "year": 1994,
@@ -2728,7 +2728,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 formengr",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-12-05 - Brussels, Belgium - La Luna (Upgrade) [DVD].txt"
+      "textFile": "1995-12-05 - Brussels, Belgium - La Luna Theatre [AUD#1].txt"
     },
     {
       "year": 1995,
@@ -2756,7 +2756,7 @@ const ARTIST_DATA = {
       "notes": "Video8(M) \u00b7 j.f & c.c",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "1995-12-05 - Brussels, Belgium - La Luna Theatre [AUD#1].txt"
+      "textFile": "1995-12-05 - Brussels, Belgium - La Luna (Upgrade) [DVD].txt"
     },
     {
       "year": 1995,
@@ -2907,7 +2907,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 mp",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1996-03-22 - Vancouver, BC, Canada - CBC Studios [FM].txt"
+      "textFile": "1996-03-22 - Vancouver, BC, Canada - CBC Studios (Thom Yorke Solo) [FM].txt"
     },
     {
       "year": 1996,
@@ -2921,7 +2921,7 @@ const ARTIST_DATA = {
       "notes": "Thom Yorke Solo \u00b7 stevemtl transfer",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1996-03-22 - Vancouver, BC, Canada - CBC Studios (Thom Yorke Solo) [FM].txt"
+      "textFile": "1996-03-22 - Vancouver, BC, Canada - CBC Studios [FM].txt"
     },
     {
       "year": 1996,
@@ -4624,7 +4624,7 @@ const ARTIST_DATA = {
       "notes": "DAT(1) \u00b7 Sony ECM-144 \u00b7 rj",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-11-05 - Stockholm, Sweden - Johanneshovs Isstadion (ECM144) [AUD].txt"
+      "textFile": "1997-11-05 - Stockholm, SWE - Hovet - MD(M) (unk) (qew transfer) [AUD24].txt"
     },
     {
       "year": 1997,
@@ -4638,7 +4638,7 @@ const ARTIST_DATA = {
       "notes": "MD(M) \u00b7 unk \u00b7 qew transfer",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1997-11-05 - Stockholm, SWE - Hovet - MD(M) (unk) (qew transfer) [AUD24].txt"
+      "textFile": "1997-11-05 - Stockholm, Sweden - Johanneshovs Isstadion (ECM144) [AUD].txt"
     },
     {
       "year": 1997,
@@ -5295,7 +5295,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "1998-04-18 - New York, NY - Radio City Music Hall (DSM-6S) [AUD2].txt"
+      "textFile": "1998-04-18 - New York, NY - Radio City Music Hall (DAT) [AUD].txt"
     },
     {
       "year": 1998,
@@ -5309,7 +5309,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 SS-DSM6S \u00b7 blg transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1998-04-18 - New York, NY - Radio City Music Hall (DAT) [AUD].txt"
+      "textFile": "1998-04-18 - New York, NY - Radio City Music Hall (DSM-6S) [AUD2].txt"
     },
     {
       "year": 1998,
@@ -5794,7 +5794,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "2000-06-30 - Paris, France - Le Grand Rex [AUD].txt"
+      "textFile": "2000-06-30 - Paris, France - Le Grand Rex (unk) (V2) [AUD].txt"
     },
     {
       "year": 2000,
@@ -5808,7 +5808,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 V2",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2000-06-30 - Paris, France - Le Grand Rex (unk) (V2) [AUD].txt"
+      "textFile": "2000-06-30 - Paris, France - Le Grand Rex [AUD].txt"
     },
     {
       "year": 2000,
@@ -7198,7 +7198,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 DPA 4061s \u00b7 ed davis",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2001-06-27 - Mountain View, CA - Shoreline Amphitheatre (Neumann KM140 DAT Master to CD) [AUD].txt"
+      "textFile": "2001-06-27 - Mountain View, CA - Shoreline Amphitheatre (Neumann AK40s) [AUD].txt"
     },
     {
       "year": 2001,
@@ -7212,7 +7212,7 @@ const ARTIST_DATA = {
       "notes": "Neumann AK40s \u00b7 unk",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "2001-06-27 - Mountain View, CA - Shoreline Amphitheatre (Neumann AK40s) [AUD].txt"
+      "textFile": "2001-06-27 - Mountain View, CA - Shoreline Amphitheatre (Neumann KM140 DAT Master to CD) [AUD].txt"
     },
     {
       "year": 2001,
@@ -7964,7 +7964,7 @@ const ARTIST_DATA = {
       "notes": "Sharp MD-MS702 \u00b7 ziggy",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2002-07-22 - Lisboa, Portugal - Coliseu dos Recreios - Opening Night (ECM-717) [AUD].txt"
+      "textFile": "2002-07-22 - Lisboa, Portugal - Coliseu dos Recreios (ECM-TS125) [AUD].txt"
     },
     {
       "year": 2002,
@@ -7978,7 +7978,7 @@ const ARTIST_DATA = {
       "notes": "Sony ECM-TS125 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2002-07-22 - Lisboa, Portugal - Coliseu dos Recreios (ECM-TS125) [AUD].txt"
+      "textFile": "2002-07-22 - Lisboa, Portugal - Coliseu dos Recreios - Opening Night (ECM-717) [AUD].txt"
     },
     {
       "year": 2002,
@@ -8033,7 +8033,8 @@ const ARTIST_DATA = {
       "venue": "Coliseu do Porto",
       "notes": "ECM-TS125 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-07-26 - Porto, Portugal - Coliseu do Porto (OKM IIr) [AUD].txt"
     },
     {
       "year": 2002,
@@ -8046,8 +8047,7 @@ const ARTIST_DATA = {
       "venue": "Coliseu do Porto",
       "notes": "DAT(M) \u00b7 OKM IIr \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2002-07-26 - Porto, Portugal - Coliseu do Porto (OKM IIr) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -8424,7 +8424,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "2003-05-25 - London, England - Shpeherds Bush Empire (MTV Digital Broadcast) [TV].txt"
+      "textFile": "2003-05-25 - London, England - Shpeherds Bush Empire (CSB) [AUD].txt"
     },
     {
       "year": 2003,
@@ -8438,7 +8438,7 @@ const ARTIST_DATA = {
       "notes": "CSB \u00b7 chester",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "2003-05-25 - London, England - Shpeherds Bush Empire (CSB) [AUD].txt"
+      "textFile": "2003-05-25 - London, England - Shpeherds Bush Empire (MTV Digital Broadcast) [TV].txt"
     },
     {
       "year": 2003,
@@ -9515,7 +9515,7 @@ const ARTIST_DATA = {
       "notes": "Microtech Gefell 200s \u00b7 ian clark",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-08-31 - Auburn, WA - White River Amphitheater (Microtech Geffel 200s) [AUD].txt"
+      "textFile": "2003-08-31 - Auburn, WA - White River Amphitheater (MK4) [AUD].txt"
     },
     {
       "year": 2003,
@@ -9529,7 +9529,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 Schoeps MK4s \u00b7 jr",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-08-31 - Auburn, WA - White River Amphitheater (MK4) [AUD].txt"
+      "textFile": "2003-08-31 - Auburn, WA - White River Amphitheater (Microtech Geffel 200s) [AUD].txt"
     },
     {
       "year": 2003,
@@ -9613,7 +9613,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps CCM4 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-09-23 - Mountain View, CA - Shoreline Amphitheatre (Schoeps CCM4) [AUD].txt"
+      "textFile": "2003-09-23 - Mountain View, CA - Shoreline Amphitheatre (Neumann KM140s) (wilson66) [AUD].txt"
     },
     {
       "year": 2003,
@@ -9627,7 +9627,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 Neumann KM140s \u00b7 wilson66",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-09-23 - Mountain View, CA - Shoreline Amphitheatre (Neumann KM140s) (wilson66) [AUD].txt"
+      "textFile": "2003-09-23 - Mountain View, CA - Shoreline Amphitheatre (Schoeps CCM4) [AUD].txt"
     },
     {
       "year": 2003,
@@ -10772,7 +10772,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061 \u00b7 tj",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-05-06 - Copenhagen, Denmark - KB Hallen (DPA 4061) (tj) [AUD] .txt"
+      "textFile": "2006-05-06 - Copenhagen, Denmark - KB Hallen (AT933) [AUD].txt"
     },
     {
       "year": 2006,
@@ -10786,7 +10786,7 @@ const ARTIST_DATA = {
       "notes": "AT933 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-05-06 - Copenhagen, Denmark - KB Hallen (AT933) [AUD].txt"
+      "textFile": "2006-05-06 - Copenhagen, Denmark - KB Hallen (DPA 4061) (tj) [AUD] .txt"
     },
     {
       "year": 2006,
@@ -11163,7 +11163,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps CCM41 \u00b7 fares halteh",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-06-08 - Toronto, Ontario Canada - Hummingbird Center (Schoeps CCM41) [AUD].txt"
+      "textFile": "2006-06-08 - Toronto, Ontario Canada - Hummingbird Center (SP-CMC-4) [AUD].txt"
     },
     {
       "year": 2006,
@@ -11177,7 +11177,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4s \u00b7 jean-regis lechaux",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-06-08 - Toronto, Ontario Canada - Hummingbird Center (SP-CMC-4) [AUD].txt"
+      "textFile": "2006-06-08 - Toronto, Ontario Canada - Hummingbird Center (SP-CMC-8) [AUD].txt"
     },
     {
       "year": 2006,
@@ -11191,7 +11191,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 \u00b7 dave caley",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-06-08 - Toronto, Ontario Canada - Hummingbird Center (SP-CMC-8) [AUD].txt"
+      "textFile": "2006-06-08 - Toronto, Ontario Canada - Hummingbird Center (Schoeps CCM41) [AUD].txt"
     },
     {
       "year": 2006,
@@ -12583,7 +12583,7 @@ const ARTIST_DATA = {
       "notes": "Core Sound HEB 4060 \u00b7 jb",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-05-17 - Houston, TX - The Woodlands Pavilion (JB's 4060) [AUD].txt"
+      "textFile": "2008-05-17 - Houston, TX - The Woodlands Pavilion (DSM-6s) [AUD24].txt"
     },
     {
       "year": 2008,
@@ -12597,7 +12597,7 @@ const ARTIST_DATA = {
       "notes": "SS-DSM-6S/L \u00b7 chris milazzo",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2008-05-17 - Houston, TX - The Woodlands Pavilion (DSM-6s) [AUD24].txt"
+      "textFile": "2008-05-17 - Houston, TX - The Woodlands Pavilion (JB's 4060) [AUD].txt"
     },
     {
       "year": 2008,
@@ -13142,7 +13142,7 @@ const ARTIST_DATA = {
       "notes": "Core Sound HEB 4060 \u00b7 jb",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2008-08-01 - Chicago, IL - Lollapalooza Festival (SP-CMC-8) [AUD].txt"
+      "textFile": "2008-08-01 - Chicago, IL - Lollapalooza Festival (MM-HLSC-1) [AUD24].txt"
     },
     {
       "year": 2008,
@@ -13156,7 +13156,7 @@ const ARTIST_DATA = {
       "notes": "MM-HLSC-1 \u00b7 sin213",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2008-08-01 - Chicago, IL - Lollapalooza Festival (MM-HLSC-1) [AUD24].txt"
+      "textFile": "2008-08-01 - Chicago, IL - Lollapalooza Festival (SP-CMC-8) [AUD].txt"
     },
     {
       "year": 2008,
@@ -13506,7 +13506,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4s \u00b7 kris",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-08-20 - Auburn, WA - White River Ampitheatre (KM140) [AUD].txt"
+      "textFile": "2008-08-20 - Auburn, WA - White River Ampitheatre (DSM-6s) [AUD24].txt"
     },
     {
       "year": 2008,
@@ -13520,7 +13520,7 @@ const ARTIST_DATA = {
       "notes": "SS DSM-6S/L \u00b7 b.c.",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-08-20 - Auburn, WA - White River Ampitheatre (DSM-6s) [AUD24].txt"
+      "textFile": "2008-08-20 - Auburn, WA - White River Ampitheatre (KM140) [AUD].txt"
     },
     {
       "year": 2008,
@@ -13632,7 +13632,7 @@ const ARTIST_DATA = {
       "notes": "CA-11 \u00b7 shotyd",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-08-24 - Los Angeles, CA - Hollywood Bowl (DPA4022) [AUD].rtf"
+      "textFile": "2008-08-24 - Los Angeles, CA - Hollywood Bowl (CSC) [AUD24].txt"
     },
     {
       "year": 2008,
@@ -13660,7 +13660,7 @@ const ARTIST_DATA = {
       "notes": "CSC \u00b7 faninor",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2008-08-24 - Los Angeles, CA - Hollywood Bowl (CSC) [AUD24].txt"
+      "textFile": "2008-08-24 - Los Angeles, CA - Hollywood Bowl (DPA4022) [AUD].rtf"
     },
     {
       "year": 2008,
@@ -14201,7 +14201,7 @@ const ARTIST_DATA = {
       "notes": "Mix Version 4.0",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "2010-01-24 - Los Angeles, CA - The Music Box - The Fonda (Mix 4) [AUD].txt"
+      "textFile": "2010-01-24 - Los Angeles, CA - The Music Box - The Fonda (Schoeps MK4) [AUD].txt"
     },
     {
       "year": 2010,
@@ -14215,7 +14215,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4 \u00b7 0drogs",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-01-24 - Los Angeles, CA - The Music Box - The Fonda (Schoeps MK4) [AUD].txt"
+      "textFile": "2010-01-24 - Los Angeles, CA - The Music Box - The Fonda (Mix 4) [AUD].txt"
     },
     {
       "year": 2010,
@@ -14421,7 +14421,8 @@ const ARTIST_DATA = {
       "venue": "Saint Pete Times Forum",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-02-29 - Tampa, FL - Saint Pete Times Forum (Zoom H4n) [AUD].txt"
     },
     {
       "year": 2012,
@@ -14434,8 +14435,7 @@ const ARTIST_DATA = {
       "venue": "Saint Pete Times Forum",
       "notes": "Zoom H4n \u00b7 radiokid311",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2012-02-29 - Tampa, FL - Saint Pete Times Forum (Zoom H4n) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -14574,7 +14574,7 @@ const ARTIST_DATA = {
       "notes": "Core Sound HEB 4060 \u00b7 jb",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2012-03-11 - Kansas City, MO - Sprint Center (CS HEB4060) [AUD24].txt"
+      "textFile": "2012-03-11 - Kansas City, MO - Sprint Center (AT898) (ed broll) [AUD].txt"
     },
     {
       "year": 2012,
@@ -14588,7 +14588,7 @@ const ARTIST_DATA = {
       "notes": "AT898 \u00b7 ed broll",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-03-11 - Kansas City, MO - Sprint Center (AT898) (ed broll) [AUD].txt"
+      "textFile": "2012-03-11 - Kansas City, MO - Sprint Center (CS HEB4060) [AUD24].txt"
     },
     {
       "year": 2012,

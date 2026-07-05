@@ -1,0 +1,264 @@
+Soundgarden
+In Concert - High Voltage
+00-41
+
+This is from an original copy of the radio show I own. It has not been altered. It includes national commercials and the songs are grouped as they were in the broadcast. Nothing has been changed.
+
+It says the firt CD was recorded at The Palace in Hollywood in 1989 and CD 2 at The Palladium in Hollywood in October 1991.
+
+CD1Track01.flac:91e1acdf0f8d16b7d6f0ee99909d8bd1
+CD1Track02.flac:6ef29879d53edb4a9b222b0e80e32dcc
+CD2Track03.flac:1e9cd027743ee12ee6d4a0051bef08d8
+Track01.flac:cdd4ade045e3ba34eeadc4ef4e78d3b9
+Track02.flac:c625a3ee7b0553d508d47d099806dbd2
+Track03.flac:56cc1b664a980f9c23f80372cd8bccc1
+Track04.flac:e8d0bbcae88bed5564323cf046dbd120
+Track05.flac:a734b9b15fd66fb1217dfb9c33fcae79
+Track06.flac:57cabc440529c67bb23d68daf917871a
+Track07.flac:ad2ce4c81d67d40b964214d0935e2095
+Track08.flac:6a974c906c7ebee0aadc214b972a93eb
+Track09.flac:1df31a4b9541be3183c152c12855a33c
+Track10.flac:a6d22eaffd5d32f0133c760709700b04
+Track11.flac:8194346bcf3f1bbc9e0860f6baa7c3f9
+Track12.flac:a7813e60e013916bf69fb391745c1bc3
+
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 6. January 2010, 15:00
+
+Soundgarden / 00411
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 48
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format : Internal WAV Routines
+Sample format      : 44.100 Hz; 16 Bit; Stereo
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 | 14:10.22 |         0    |    63771   
+        2  | 14:10.22 | 14:07.27 |     63772    |   127323   
+        3  | 28:17.49 | 14:24.13 |    127324    |   192136   
+
+
+Track  1
+
+     Filename G:\Track01.wav
+
+     Peak level 58.3 %
+     Track quality 99.9 %
+     Copy CRC 6C42795A
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename G:\Track02.wav
+
+     Peak level 58.9 %
+     Track quality 100.0 %
+     Copy CRC 00DDCD02
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename G:\Track03.wav
+
+     Peak level 63.2 %
+     Track quality 100.0 %
+     Copy CRC D96C9C86
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report
+
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 6. January 2010, 15:12
+
+Unknown Artist / Unknown Title
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 48
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format : Internal WAV Routines
+Sample format      : 44.100 Hz; 16 Bit; Stereo
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 | 14:08.60 |         0    |    63659   
+        2  | 14:08.60 | 11:39.30 |     63660    |   116114   
+        3  | 25:48.15 | 13:48.24 |    116115    |   178238   
+        4  | 39:36.39 |  0:32.65 |    178239    |   180703   
+        5  | 40:09.29 |  1:06.61 |    180704    |   185714   
+        6  | 41:16.15 |  0:32.34 |    185715    |   188148   
+        7  | 41:48.49 |  0:32.60 |    188149    |   190608   
+        8  | 42:21.34 |  0:32.51 |    190609    |   193059   
+        9  | 42:54.10 |  0:32.52 |    193060    |   195511   
+       10  | 43:26.62 |  0:32.66 |    195512    |   197977   
+       11  | 43:59.53 |  0:32.66 |    197978    |   200443   
+       12  | 44:32.44 |  0:30.51 |    200444    |   202744   
+
+
+Track  1
+
+     Filename G:\Track01.wav
+
+     Peak level 59.3 %
+     Track quality 99.9 %
+     Copy CRC B802562C
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename G:\Track02.wav
+
+     Peak level 65.8 %
+     Track quality 100.0 %
+     Copy CRC D64DC850
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename G:\Track03.wav
+
+     Peak level 66.7 %
+     Track quality 99.8 %
+     Copy CRC B27D7541
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename G:\Track04.wav
+
+     Peak level 60.9 %
+     Track quality 99.6 %
+     Copy CRC 6A83E9A9
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename G:\Track05.wav
+
+     Peak level 60.2 %
+     Track quality 100.0 %
+     Copy CRC 5E8541B3
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename G:\Track06.wav
+
+     Peak level 38.9 %
+     Track quality 100.0 %
+     Copy CRC 7FDCB473
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename G:\Track07.wav
+
+     Peak level 42.3 %
+     Track quality 99.3 %
+     Copy CRC 093AE8C6
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename G:\Track08.wav
+
+     Peak level 60.3 %
+     Track quality 99.5 %
+     Copy CRC 4DBD848B
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename G:\Track09.wav
+
+     Peak level 45.9 %
+     Track quality 100.0 %
+     Copy CRC E8DEEC18
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename G:\Track10.wav
+
+     Peak level 36.7 %
+     Track quality 99.6 %
+     Copy CRC 263624D5
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename G:\Track11.wav
+
+     Peak level 52.8 %
+     Track quality 99.6 %
+     Copy CRC CF13B9C2
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename G:\Track12.wav
+
+     Peak level 45.1 %
+     Track quality 100.0 %
+     Copy CRC B7BC4BA1
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

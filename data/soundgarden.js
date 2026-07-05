@@ -682,7 +682,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-04-17 - Hamburg, Germany - Markthalle [AUD].txt"
+      "textFile": "1990-04-17 - Hamburg, Germany - Markthalle - ANA(1) (Sony WM-D6) (dimitroy 2022 transfer) [AUD].txt"
     },
     {
       "year": 1990,
@@ -696,7 +696,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 Sony WM-D6 \u00b7 dimitroy 2022 transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-04-17 - Hamburg, Germany - Markthalle - ANA(1) (Sony WM-D6) (dimitroy 2022 transfer) [AUD].txt"
+      "textFile": "1990-04-17 - Hamburg, Germany - Markthalle [AUD].txt"
     },
     {
       "year": 1990,
@@ -808,7 +808,7 @@ const ARTIST_DATA = {
       "notes": "Bumbershoot",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-09-03 - Seattle, WA - Bumbershoot Festival (Master) [DVD].txt"
+      "textFile": "1990-09-03 - Seattle, WA - Bumbershoot Festival [AUD].txt"
     },
     {
       "year": 1990,
@@ -822,7 +822,7 @@ const ARTIST_DATA = {
       "notes": "Bumbershoot \u00b7 M \u00b7 jems",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-09-03 - Seattle, WA - Bumbershoot Festival [AUD].txt"
+      "textFile": "1990-09-03 - Seattle, WA - Seattle Center Coliseum (Bumbershoot) - DAT(M) (jems) [AUD].txt"
     },
     {
       "year": 1990,
@@ -850,7 +850,7 @@ const ARTIST_DATA = {
       "notes": "Bumbershoot \u00b7 M",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "1990-09-03 - Seattle, WA - Seattle Center Coliseum (Bumbershoot) - DAT(M) (jems) [AUD].txt"
+      "textFile": "1990-09-03 - Seattle, WA - Bumbershoot Festival (Master) [DVD].txt"
     },
     {
       "year": 1990,
@@ -974,8 +974,7 @@ const ARTIST_DATA = {
       "venue": "Spectrum",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1991-12-17 - Philadelphia, PA - The Spectrum (Upgraded) [AVI].txt"
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -988,7 +987,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "AVI"
+      "format": "AVI",
+      "textFile": "1991-12-17 - Philadelphia, PA - The Spectrum (Upgraded) [AVI].txt"
     },
     {
       "year": 1992,
@@ -1196,7 +1196,7 @@ const ARTIST_DATA = {
       "notes": "christer johansson \u00b7 heywood remaster",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-03-17 - Stockholm, Sweden - The Domino (christer johansson) (heywood remaster) [AUD].txt"
+      "textFile": "1992-03-17 - Stockholm, Sweden - Domino - ANA(3) (themetalist transfer) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1210,7 +1210,7 @@ const ARTIST_DATA = {
       "notes": "ANA(3) \u00b7 themetalist transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-03-17 - Stockholm, Sweden - Domino - ANA(3) (themetalist transfer) [AUD].txt"
+      "textFile": "1992-03-17 - Stockholm, Sweden - The Domino (christer johansson) (heywood remaster) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1459,7 +1459,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1992-07-22 - Bremerton, WA - Kitsap County Fairgrounds (Lollapalooza) [DVD].txt"
+      "textFile": "1992-07-22 - Bremerton, WA - Kitsap County Fairgrounds [SBD].txt"
     },
     {
       "year": 1992,
@@ -1473,7 +1473,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "",
       "format": "DVD",
-      "textFile": "1992-07-22 - Bremerton, WA - Kitsap County Fairgrounds [SBD].txt"
+      "textFile": "1992-07-22 - Bremerton, WA - Kitsap County Fairgrounds (Lollapalooza) [DVD].txt"
     },
     {
       "year": 1992,
@@ -1570,7 +1570,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley Music Theater",
       "notes": "Lollapalooza \u00b7 unk \u00b7 rob landis transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-08-29 - East Troy, WI - Alpine Valley Music Theater - Lollapalooza (unk) (rob landis transfer) [AUD].txt"
     },
     {
       "year": 1992,
@@ -2296,7 +2297,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "MTX",
       "format": "FLAC",
-      "textFile": "1995-08-27 - Reading, UK - Reading Festival [MTX].txt"
+      "textFile": "1995-08-27 - Reading, UK - Reading Festival (exene source upgrade) [MTX].txt"
     },
     {
       "year": 1995,
@@ -2310,7 +2311,7 @@ const ARTIST_DATA = {
       "notes": "exene source upgrade",
       "version": "MTX",
       "format": "FLAC",
-      "textFile": "1995-08-27 - Reading, UK - Reading Festival (exene source upgrade) [MTX].txt"
+      "textFile": "1995-08-27 - Reading, UK - Reading Festival [MTX].txt"
     },
     {
       "year": 1995,
@@ -2602,7 +2603,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-09-16 - Glasgow, Scotland - Barrowlands [AUD].txt"
+      "textFile": "1996-09-16 - Glasgow, Scotland - Barrowlands - ANA(x) (2020 transfer) [AUD].txt"
     },
     {
       "year": 1996,
@@ -2616,7 +2617,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 2020 transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-09-16 - Glasgow, Scotland - Barrowlands - ANA(x) (2020 transfer) [AUD].txt"
+      "textFile": "1996-09-16 - Glasgow, Scotland - Barrowlands [AUD].txt"
     },
     {
       "year": 1996,
@@ -2672,7 +2673,7 @@ const ARTIST_DATA = {
       "notes": "SS-DSM6P \u00b7 ballsdeep",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-09-21 - Barcelona, Spain - Pabellon Val d'Ebron [AUD].txt"
+      "textFile": "1996-09-21 -  Barcelona, ES - Pabellon Val d'Ebron - DAT(x) (unk) (fortylicks) [AUD].txt"
     },
     {
       "year": 1996,
@@ -2686,7 +2687,7 @@ const ARTIST_DATA = {
       "notes": "DAT(x) \u00b7 unk \u00b7 fortylicks",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-09-21 -  Barcelona, ES - Pabellon Val d'Ebron - DAT(x) (unk) (fortylicks) [AUD].txt"
+      "textFile": "1996-09-21 - Barcelona, Spain - Pabellon Val d'Ebron [AUD].txt"
     },
     {
       "year": 1996,
@@ -2868,7 +2869,7 @@ const ARTIST_DATA = {
       "notes": "MarcSounds",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "1996-11-07 - Denver, CO - Mammoth Events Center [AUD].txt"
+      "textFile": "1996-11-07 - Denver, CO - Mammoth Events Center (MarcSounds) (tapeworm48) [AUD].txt"
     },
     {
       "year": 1996,
@@ -2896,7 +2897,7 @@ const ARTIST_DATA = {
       "notes": "MarcSounds \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-11-07 - Denver, CO - Mammoth Events Center (MarcSounds) (tapeworm48) [AUD].txt"
+      "textFile": "1996-11-07 - Denver, CO - Mammoth Events Center [AUD].txt"
     },
     {
       "year": 1996,
@@ -2924,7 +2925,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-11-10 - Chicago, IL - Aragon Ballroom [AUD].txt"
+      "textFile": "1996-11-10 - Chicago, IL - Aragon Ballroom (CSB) (tapeworm48) [AUD].txt"
     },
     {
       "year": 1996,
@@ -2938,7 +2939,7 @@ const ARTIST_DATA = {
       "notes": "CSB \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-11-10 - Chicago, IL - Aragon Ballroom (CSB) (tapeworm48) [AUD].txt"
+      "textFile": "1996-11-10 - Chicago, IL - Aragon Ballroom [AUD].txt"
     },
     {
       "year": 1996,
@@ -3105,7 +3106,8 @@ const ARTIST_DATA = {
       "venue": "Royal Agricultural Showgrounds",
       "notes": "Big \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-27 - Sydney, Australia - Royal Agricultural Showgrounds - Big Day Out Festival (Remaster) [AUD].txt"
     },
     {
       "year": 1997,
@@ -3118,8 +3120,7 @@ const ARTIST_DATA = {
       "venue": "Royal Agricultural Showgrounds",
       "notes": "Big \u00b7 remaster",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1997-01-27 - Sydney, Australia - Royal Agricultural Showgrounds - Big Day Out Festival (Remaster) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -3552,7 +3553,7 @@ const ARTIST_DATA = {
       "notes": "Mono \u00b7 audioarchivist",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-07-29 - Vancouver, BC - Rogers Arena [AUD].txt"
+      "textFile": "2011-07-29 - Vancouver, BC - Rogers Arena (SP-CMC-8) (chris bold) [AUD].txt"
     },
     {
       "year": 2011,
@@ -3566,7 +3567,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 \u00b7 chris bold",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2011-07-29 - Vancouver, BC - Rogers Arena (SP-CMC-8) (chris bold) [AUD].txt"
+      "textFile": "2011-07-29 - Vancouver, BC - Rogers Arena [AUD].txt"
     },
     {
       "year": 2011,
@@ -3622,7 +3623,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-02-01 - Melbourne, Australia - Sidney Myer Music Bowl [AUD].txt"
+      "textFile": "2012-02-01 - Melbourne, Australia - Sidney Myer Music Bowl (Sony ECM-717) [AUD #2].txt"
     },
     {
       "year": 2012,
@@ -3636,7 +3637,7 @@ const ARTIST_DATA = {
       "notes": "Sony ECM-717",
       "version": "AUD #2",
       "format": "FLAC",
-      "textFile": "2012-02-01 - Melbourne, Australia - Sidney Myer Music Bowl (Sony ECM-717) [AUD #2].txt"
+      "textFile": "2012-02-01 - Melbourne, Australia - Sidney Myer Music Bowl [AUD].txt"
     },
     {
       "year": 2012,

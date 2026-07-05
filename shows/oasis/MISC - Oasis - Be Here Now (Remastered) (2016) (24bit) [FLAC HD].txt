@@ -1,0 +1,33 @@
+foobar2000 1.3.16 / Dynamic Range Meter 1.1.1
+log date: 2018-01-13 12:56:04
+
+--------------------------------------------------------------------------------
+Analyzed: Oasis / Be Here Now
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR5       -0.44 dB    -6.86 dB      7:43 01-D'You Know What I Mean?
+DR4       -0.65 dB    -5.54 dB      5:11 02-My Big Mouth
+DR5       -0.58 dB    -6.49 dB      7:10 03-Magic Pie
+DR5       -0.63 dB    -6.76 dB      5:56 04-Stand By Me
+DR5       -0.97 dB    -6.39 dB      4:22 05-I Hope, I Think, I Know
+DR5       -0.79 dB    -6.66 dB      5:50 06-The Girl In The Dirty Shirt
+DR5       -0.93 dB    -8.11 dB      6:51 07-Fade In-Out
+DR5       -0.82 dB    -7.66 dB      4:49 08-Don't Go Away
+DR5       -0.64 dB    -6.87 dB      5:13 09-Be Here Now
+DR5       -0.79 dB    -6.85 dB      9:19 10-All Around The World
+DR4       -0.75 dB    -5.92 dB      7:03 11-It's Gettin' Better (Man!!)
+DR6       -0.88 dB    -9.31 dB      2:07 12-All Around The World (Reprise)
+--------------------------------------------------------------------------------
+
+Number of tracks:  12
+Official DR value: DR5
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           1663 kbps
+Codec:             FLAC
+================================================================================
+

@@ -701,7 +701,8 @@ const ARTIST_DATA = {
       "venue": "Palace of Fine Arts",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-12-15 - San Francisco, CA - Palace of Fine Arts (headphone mic) (armogi) [AUD].txt"
     },
     {
       "year": 2011,
@@ -714,8 +715,7 @@ const ARTIST_DATA = {
       "venue": "Palace of Fine Arts headphone mic)",
       "notes": "armogi",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2011-12-15 - San Francisco, CA - Palace of Fine Arts (headphone mic) (armogi) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2012,

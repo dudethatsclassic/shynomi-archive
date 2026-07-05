@@ -1,0 +1,42 @@
+Artist: R.E.M.
+Date: 1982/83-xx-xx 
+Lineage: ANA(x)>DAT(x)>WAV [48kHz/16bit]>WAV [44.1kHz/16bit]>Flac 
+Transfer: Tascam DA-20 MKII>PreSonus FireStudio Project>Adobe Audition 3.0 
+Transferred By: Mike Ziegler 
+Dat tape courtesy of JEMS archives
+
+Setlist:
+01. Catapult (Stephen Hague Vers. 1)
+02. Pilgrimage (Mitch Easter Vers. 1)
+
+1983-02-16 (rough mixes w/Mitch Easter)
+03. Pilgrimage (vers. 2)
+04. Catapult
+05. Perfect Circle
+06. 9-9
+07. West Of The Fields
+
+Live In Studio
+08. Band Talking
+09. That Beat
+10. Pretty Persuasion - omitted due to being officially released
+11. All The Right Friends
+12. Tighten Up - omitted due to being officially released
+13. There She Goes Again
+14. Moon River - omitted due to being officially released
+
+Murmur basic & rough mixes
+15. Talk About The Passion
+16. West Of The Fields
+17. Moral Kiosk
+18. Sitting Still
+19. Ages Of You
+20. Perfect Circle
+21. We Walk
+22. 9-9
+23. Shaking Through
+24. Romance
+25. Laughing (cuts out) 
+ 
+Notes:
+Various studio outtakes and demos recorded in conjunction with the Murmur album. Dates when given and info taken verbatim from the dat case j-card. This stuff should all be previously circulated but may or may not be an upgrade in sound quality to existing circulating copies. Officially released material has been omitted from this shared fileset. The tracks omitted to the best of our knowledge are bonus tracks on a reissue of the album Reckoning. This should also run at close to if not the correct speed. The tape source was all over the place as far speed goes. Each track had to be done individually.

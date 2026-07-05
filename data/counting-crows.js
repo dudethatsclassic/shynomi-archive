@@ -3755,7 +3755,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1999-12-12 -San Francisco, CA - Warfield Theater [AUD].txt"
+      "textFile": "1999-12-12 - San Francisco, CA - Warfield Theater + Soundcheck (CCM4) (drew) [AUD].txt"
     },
     {
       "year": 1999,
@@ -3769,7 +3769,7 @@ const ARTIST_DATA = {
       "notes": "CCM4 \u00b7 drew",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1999-12-12 - San Francisco, CA - Warfield Theater + Soundcheck (CCM4) (drew) [AUD].txt"
+      "textFile": "1999-12-12 -San Francisco, CA - Warfield Theater [AUD].txt"
     },
     {
       "year": 1999,
@@ -5551,7 +5551,7 @@ const ARTIST_DATA = {
       "notes": "DSM-6SM \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2001-08-30 - Lake Buena Vista, FL - House of Blues [AUD].txt"
+      "textFile": "2001-08-30 - Lake Buena Vista, FL - House of Blues - DAT(M) (SS-DSM-6SL) (chrisgratz) [AUD].txt"
     },
     {
       "year": 2001,
@@ -5565,7 +5565,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 SS-DSM-6SL \u00b7 chrisgratz",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2001-08-30 - Lake Buena Vista, FL - House of Blues - DAT(M) (SS-DSM-6SL) (chrisgratz) [AUD].txt"
+      "textFile": "2001-08-30 - Lake Buena Vista, FL - House of Blues [AUD].txt"
     },
     {
       "year": 2001,
@@ -8123,7 +8123,8 @@ const ARTIST_DATA = {
       "venue": "Meadows Music Center",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-08-20 - Hartford, CT - CTNow.com Meadows Music Centre (AKG 480) (hayden berard) [AUD].txt"
     },
     {
       "year": 2003,
@@ -8136,8 +8137,7 @@ const ARTIST_DATA = {
       "venue": "CTNow.com Meadows Music Centre",
       "notes": "AKG 480 \u00b7 hayden berard",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2003-08-20 - Hartford, CT - CTNow.com Meadows Music Centre (AKG 480) (hayden berard) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2003,

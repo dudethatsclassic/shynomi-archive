@@ -1,0 +1,45 @@
+NIRVANA
+April 2-6, 1990
+Studio A, Smart Studios
+Madison, WI
+
+TRACKS (10:18)
+-----------------
+A1) Lithium
+B1) Sappy
+B2) Polly
+
+DYNAMIC RANGE
+-----------------
+A1) DR14
+B1) DR13
+B2) DR14
+
+GENERATION
+-----------------
+UNOFFICIAL 7" WHITE VINYL ["Total Fucking Godhead"] -> WAV [32bit float][192kHz] -> WAV [24bit][96kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#4)
+-----------------
+unknown -> soundboard
+
+TRANSFER
+-----------------
+Technics SL-5200 -> Audio Technica AT440Mla -> Technics SU-VX500 -> ESI Juli @ -> Wavelab 6.11 -> Adobe Audition 1.5 -> Izotope RX 2.10.656 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- At least 3 pressings exist, 2 black 7" records and 1 white 7" record.  The white 7" is very rare ...
+- Looking at the crispness of the artwork from the white 7" made me think this is the first and superior pressing.
+- And I was right !  The waveforms look much more like they should be, the right channel is much more complete in the lower side.
+- The dynamic range is WAY WAY bigger overall and it sounds less distorted & more natural.
+
+MD5 CHECKSUMS
+-----------------
+0738fa747593feb862b818a942f26c0e *A1 - Lithium.flac
+89cdf1609322b6e3913f1371d3d26e29 *B1 - Sappy.flac
+7404fb3c9c25d036bcb8db9bf05b9b7d *B2 - Polly.flac
+
+
+Transferred by Pieter Vermeulen.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

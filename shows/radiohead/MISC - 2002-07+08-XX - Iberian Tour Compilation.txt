@@ -1,0 +1,126 @@
+Radiohead
+Iberia [2002 Tour Compilation]
+Various Sources & Locations
+Lisbon, Porto, San Sebastian, Benicassim & Salamanca
+
+AUD / FM
+
+Original sources [see below] > WAV [TLH] > EAC WAV Editor & Nero WAV Editor [Editing, Normalizing & Track Splits] > TLH (fix SBE) > FLAC(8)
+
+
+Disc 1 - Part One: 1993-1998
+
+Track	Song				    Source #
+-----   ----    			    --------
+01	You					9
+02	Creep					3
+03	The Bends				1
+04	Street Spirit (Fade Out)		5
+05	My Iron Lung				8
+06	Fake Plastic Trees			7
+07	Just					7
+08	Paranoid Android			7
+09	Lucky					7
+10	Karma Police				9
+11	Airbag					1
+12	Big Boots 				9
+13	Exit Music (For A Film)			4
+14	Talk Show Host				5
+15	Climbing Up The Walls			8
+16	No Surprises				5
+17	The Tourist				8
+
+
+Disc Two - Part Two: 1998-2001
+
+Track	Song				    Source #
+-----   ----    			    --------
+01	Lift					8
+02	Morning Bell				7
+03	In Limbo				8
+04	Idioteque				7
+05	Everything In Its Right Place		7
+06	Fog					9
+07	The Thief				9
+08	Pyramid Song				7
+09	I Might Be Wrong			7
+10	You And Whose Army?			5
+11	Knives Out				9
+12	Dollars & Cents				7
+13	The National Anthem / Hunting Bears	4
+14	Like Spinning Plates			8
+15	How To Disappear Completely		9
+16	True Love Waits				6
+
+
+Disc Three - Part Three: "Album Six" & more
+
+Track	Song				    Source #
+-----   ----    			    --------
+01	Where Bluebirds Fly			9
+02	Sit Down Stand Up			6
+03	Sail To The Moon			9
+04	Go To Sleep				2
+05	Where I End And You Begin		5
+06	We Suck Young Blood			5
+07	There There				7
+08	I Will					1
+09	A Punch Up At A Wedding			7
+10	2+2=5					9
+11	Scatterbrain				5
+12	A Wolf From the Door			8
+13	I Am A Wicked Child			8
+14	Myxomatosis				8
+15	Up On The Ladder			5
+16	Nude					9
+
+
+Sources:
+
+1: 22 July 2002 - Lisbon, PT - Sony ECM-TS125 > Sony MZ-G750 (taper not known)
+
+2: 24 July 2002 - Lisbon, PT - ECM rp-vc20 > sj-mr220 > SHN > CEP > SHN (Taper: Shotbybot)
+
+3: 27 July 2002 - Porto, PT - AUD > ?Gens > CDR > EAC(s) > Adobe Audition 1.0 > shntool 1.2.3 > CD Wave > FLAC(8) (Taper: Filipe P.)
+
+4: 30 July 2002 - San Sebastian, SP - DAT MASTER tcd8 + EM8 Marantz (taper not known)
+
+5: 31 July 2002 - San Sebastian, SP - MD (Sony MZ-R909) > mic aiwa cm-ds5 > wavelab > SHN (Taper: citizen insane)
+
+6: 1 August 2002 - San Sebastian, SP - MD (Sony MZ-R909) > mic aiwa cm-ds5 > wavelab > SHN (Taper: citizen insane)
+
+7: 3 August 2002 - Benicassim Festival, SP - Satellite FM > DAT > CDR > SHN 
+
+8: 6 August 2002 - Salamanca, SP - CSBs > D-100 > Audition > WAV > FLAC (Taper: Chester)
+
+9: 7 August 2002 - Salamanca, SP - CSBs > Battery Box w/ Bass roll off > Sony D-100 > CEP > mkw ACT 0.97 (Taper: Chester)
+
+
+Notes:
+
+"First we're gonna play some new songs . . . then we're gonna play some old songs . . . then we're gonna go for a pizza!"
+
+I originally created this compilation in a somewhat different form at the end of the 2002 tour and circulated it among a few friends as gifts. In honor of Album 7, I decided to revisit the brief, but glorious mini-tour previewing Album 6, where the band introduced nearly all the songs which became "Hail to the Thief". This was clearly something the band enjoyed, since they repeated the trick four years later, working out most of the songs which became "In Rainbows".
+
+Twelve dates were played altogether in Portugal & Spain. The message boards and fan sites buzzed with news of each new addition, recordings were hastily posted and shared worldwide almost immediately - a remarkable phenomenon which for RH fans started with the 2000 'Tent' tour, and which, [with the advent of Direct Connect hubs, Bittorrent sites & blogs], is now taken for granted. By the end of the tour, fans were singing along to the new songs as readily as to the old favorties.
+
+On the first night, in Lisbon, the band opened with a set of new material - eight songs altogether. Then they took a short break and came back for a set from the back catalog. On subsequent nights, they returned to a more traditional approach, interspersing the new songs amongst the older ones.
+
+On the ninth date of the tour, the band played a shortened 'festival' set which included only two new songs at the 'Festival Internacional de Benicassim' - which was broadcast on the radio.
+
+The final night of the tour, Thom asked if there were any requests - a reward for the many long-time fans who had followed most, if not all, of the tour. Several rarely-performed songs made an appearance that night for the first [and perhaps the last?] time.
+
+Radiohead played a total of 50 songs on the 2002 mini-tour. I have organized them [more-or-less] chronologically, to show the development of the band from the early days of "Creep" through the 'difficult years' of Kid A & Amnesiac,  arriving at the perfect synthesis which was "Hail To The Thief", and which continues on "In Rainbows".
+
+I tried to pick the best-sounding performances of all the songs from the many recordings of the tour which circulate, and finally narrowed it down to the nine sources above - many thanks and much respect to those tapers for their orignal work. The only changes I have made to the original files are some minor edits, fades and normalizing the volume to try to avoid abrupt transitions -- although there are a few due to the disparate nature of the sources. No further EQ was performed.
+
+Thanks are due also to all those who have kept the Radiohead fan community one of the best groups of traders and fans in the world: in particular, the members of the Radiohead Hub for their encouragement and guidance, as well as for being the greatest repository of Radiohead recordings on the 'net, and Ade at atease.com for keeping us all in touch with each other. This is my gift to you and to them.
+
+lovesick alien, October 2007
+
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell.
+Support the Artist: Purchase ALL authorized releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------
+text file compiled & copy-edited 2007

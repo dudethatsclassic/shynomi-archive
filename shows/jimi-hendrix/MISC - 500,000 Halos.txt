@@ -1,0 +1,42 @@
+Jimi Hendrix
+500,000 Halos boot cd
+1969-70
+
+
+
+Drifter's Escape 6/17/70 - Record Plant, New York, N.Y. (Drifter's Escape (vocal overdub)
+Stone Free 1/1/70 - w/Band Of Gypsys; Fillmore East, N.Y., N.Y. (2nd show)
+Villanova Junction Blues 1/23/70 - Record Plant, New York, N.Y. 
+Bolero 	6:15 7/14/70 - studio A, Electric Lady Studios, New York, N.Y.
+Getting My Heart Back Together Again 5/21/69 - Record Plant, New York, N.Y.
+Message To The Universe 8/18/69 - Woodstock Festival, Bethel, New York
+Hendrix/Young Jam 5/15/69 - Record Plant, New York, N.Y.
+Belly Button Window 8/22/70 - Record Plant, New York, N.Y.
+
+
+01 Track01.wav:  successfully encoded to '01 Track01.flac' (ratio = 0.626).
+02 Track02.wav:  successfully encoded to '02 Track02.flac' (ratio = 0.591).
+03 Track03.wav:  successfully encoded to '03 Track03.flac' (ratio = 0.601).
+04 Track04.wav:  successfully encoded to '04 Track04.flac' (ratio = 0.584).
+05 Track05.wav:  successfully encoded to '05 Track05.flac' (ratio = 0.623).
+06 Track06.wav:  successfully encoded to '06 Track06.flac' (ratio = 0.607).
+07 Track07.wav:  successfully encoded to '07 Track07.flac' (ratio = 0.596).
+08 Track08.wav:  successfully encoded to '08 Track08.flac' (ratio = 0.532).
+
+No errors occured.
+
+
+01 Track01.flac:d8231e433453229d74574bb292a2399c
+02 Track02.flac:cdab89a3de46163fd84d969619d6cf92
+03 Track03.flac:2bca8a139028b7b6fe3f5b037d03395b
+04 Track04.flac:6af13366836b0a1d5f4c1cb5f6524fbf
+05 Track05.flac:3801443dc89ea03bd552d3b43a4d3344
+06 Track06.flac:ffa3bc306af61db026336dfbb99ae971
+07 Track07.flac:7d7c673cadee566e04644a05039ebf28
+08 Track08.flac:58a930eb5f4141952ba98ea7718d9523
+
+Checksum file saved to disk.
+
+No errors occured.
+
+

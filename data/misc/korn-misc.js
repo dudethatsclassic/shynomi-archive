@@ -33,6 +33,17 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Korn - Live, Demo's & Blind (BLZD 105)",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Korn - Live, Demo's & Blind (BLZD 105) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - Neidermeyer's Mind (Demo Tape)",
+    "year": 1993
+  },
+  {
+    "type": "release",
+    "label": "Korn - 2002-06-10 - New York, NY - Live at the Hammerstein Ballroom",
+    "format": "DVD"
   }
 ];

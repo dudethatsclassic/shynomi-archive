@@ -1,0 +1,26 @@
+Nirvana
+The '90s: The Last Great Decade?
+
+FORMAT
+----------
+MPEG-TS
+1280*720 (16:9), at 59.940 (60000/1001) FPS, AVC (Main@L4) (CABAC / 4 Ref Frames)
+384 kb/s, 48.0 kHz, 6 channels, AC-3 (Dolby Digital)
+
+TRACK LISTING
+----------
+01 Pre-Segment
+02 Main Segment
+
+LINEAGE
+----------
+DirecTV (DVB-S2)-->DirecTV HD DVR HR24-100 Satellite Receiver-->Hauppauge 1212 HD PVR-->YPbPr + S/PDIF-->ArcSoft TotalMedia Extreme [13.5mbps CBR/384kbps AC3]-->H.264 .TS
+
+NOTES
+----------
+Raw capture file, no cuts.
+
+Nirvana's segment on National Geographic's "The 90's: The Last Great Decade?" documentary.
+
+Features archival footage of performances and interviews of the band.
+Clips of exclusive interviews with Courtney Love and Butch Vig.

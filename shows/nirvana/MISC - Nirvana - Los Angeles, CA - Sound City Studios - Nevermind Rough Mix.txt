@@ -1,0 +1,38 @@
+NIRVANA
+May 24, 1991
+Sound City Studios
+Van Nuys, CA
+
+DISC #1/1 (23:37)
+-----------------
+01) Smells Like Teen Spirit
+02) Lounge Act
+03) Something In The Way
+04) Drain You
+05) Stay Away
+06) Lithium
+
+GENERATION
+-----------------
+ANA(3) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+This recording is the first rough mix of Nevermind.
+
+MD5 FINGERPRINTS
+-----------------
+9bdff218e44ed6254c8fb01b4be0bb44 *nirvana1991-05-24t01.flac
+304184def1f0a326506cf2890033e65a *nirvana1991-05-24t02.flac
+ca14b42b1bea31f332890c065e905247 *nirvana1991-05-24t03.flac
+2af0066ae879cb9c4beee1eeb22ab0c9 *nirvana1991-05-24t04.flac
+4fd55f664196aceab869b010efa09dd6 *nirvana1991-05-24t05.flac
+e1d21874d7e7f36c0cb9f0de04b8866b *nirvana1991-05-24t06.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

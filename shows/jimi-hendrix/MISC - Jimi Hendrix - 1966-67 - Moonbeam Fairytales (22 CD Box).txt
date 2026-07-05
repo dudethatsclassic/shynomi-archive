@@ -1,0 +1,682 @@
+The Jimi Hendrix Experience
+
+"Moonbeams & Fairytales"
+(Rock of Ages ROABOX102, St. Vincent & the Grenadines - West Indies, 2008, 22CDs)
+
+- Bootleg copy of the of the collector's set:
+"Moonbeams & Fairytales:  Jimi Saga (2)" (Rev.1, 2005)
+
+- Lineage:
+Original CDs -> EAC -> WAV -> APE
+
+- Artwork included 
+
+Notes:
+- I "borrowed" the info file from the original
+collector's set. Changed are just track-timings which 
+are often considerably different. I couldn't establish 
+exactly why is that so, because I don't have the 
+original set. However, some timings like for "Little 
+Wing's original stereo, mono, and backtrack versions
+are listed as being longer than 3 minutes which is an
+obvious mistake in the original collector's info text.
+
+- Disc 12 contains only 8 tracks (instead of 9 as listed 
+on the original cover). Short interview listed as 
+" 06. Burning of the Midnight Lamp (interview)" is in 
+fact just a short final segment of the interview that can 
+be found complete on disc 16 as track "01.Interview 
+with Jimi, Noel & Mitch by Lief Anderson".
+
+- Tracks 09-15 from disc 10 and and complete disc 14
+were taken from "The Spartan Studio Upgrades" set. 
+Since that set circulates with many errors (read digital 
+clicks, pops, SBEs and small gaps of silence) all these 
+are present on this set as well. I've repaired majority 
+of errors on disc 14 but left the disc 10 as it is.
+
+
+Track list:
+---------------------------------------------------------------------------------------------------------------------------
+1966
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 1  							
+
+‘Musicorama’, L’Olympia, Paris
+01.	18 Oct [L1532]	(5) Killing Floor				3:05 
+02.	18 Oct [L1147]	(6) Hey Joe 				2:52
+03.	18 Oct 		(1) Wild Thing				4:07
+04.	18 Oct [L1532]	(5) Killing Floor - French Radio			1:41
+05.	18 Oct [L1147]	(6) Hey Joe - French Radio			3:14
+
+“KINGSWAY” De Lane Lea Music Recording Studios, 129 Kingsway, London WC2	
+06.	23 Oct [S1482]	(70) Hey Joe (instrumental “rhythm guitar” take)	3:25
+07.	23 Oct [S1483]	(71) Hey Joe (instrumental take)			1:53
+08.	23 Oct [S1484]	(72) Hey Joe (alternate basic mono mix) 		3:32
+09.	23 Oct	    	        Hey Joe (fake alternative mix of (2))		3:26
+10.	23 Oct [S001]	(1) Hey Joe (official, mono mix)			3:23
+11.	23 Oct [S001] 	(2) Hey Joe (official) 			                  3:22
+12.	23 Oct [S001] 	(2) Hey Joe (official slightly longer) 		3:28
+13.	23 Oct		(3) Hey Joe ("Legacy" master)			3:22
+14.	23 Oct [S1086]	(4) Hey Joe  (outtake)			3:06
+
+“KINGSWAY” De Lane Lea Music Recording Studios, 129 Kingsway, London WC2	
+15.	02 Nov [S002]	(1) Stone Free (official, mono mix) 		3:38
+16.	02 Nov [S002]	(2) Stone Free (official, simulated stereo)		3:36
+
+Regent Sound, 163-166 Tottenham Court Road, London W1
+17.            18 Nov [S1481]	(69) Hey Joe (alternate take)			3:50
+
+“KINGSWAY” De Lane Lea Music Recording Studios, 129 Kingsway, London WC2	
+18.	24 Nov [S011]	(1) Love or Confusion (official, mono mix) 		3:11
+19.	24 Nov [S011]	(2) Love or Confusion (official)			3:12
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 2  
+
+CBS Recording Studios, 73 New Bond Street, London W1
+01.	13 Dec [S007]	(1) Foxy Lady (official, mono mix)		3:15
+02.	13 Dec [S007]	(2) Foxy Lady (official)              			3:17
+03.	13 Dec [?????]	(?) Foxy Lady (fake alternative mono mix)           	3:12
+04.	13 Dec [S007]	(109) Foxy Lady (official, alternate mix) 		3:29
+05.	13 Dec [S1465]	(7) Can You See Me (instrumental take)		1:54
+06.	13 Dec [S1466]	(8) Can You See Me (instrumental take)		2:29
+07.	13 Dec [S1467]	(9) Can You See Me (instrumental take)		1:39
+08.	13 Dec [S1468]	(10) Can You See Me (backing track only) 		2:32
+09.	13 Dec [S1479]	(11) Can You See Me (3 vocal tracks)		2:34
+10.	13 Dec [S010]	(1) Can You See Me (official, mono mix)     	2:32
+11.	13 Dec [S018?]	(2) Can You See Me (official)      		2:33
+12.	13 Dec		(3) Can You See Me (official, "Legacy" master) 	2:34
+13.	13 Dec [S010]	(1?) Can You See Me (alternate mono mix) 	2:32
+14.	13 Dec [S018?]	(2?) Can You See Me (alternate mix)           	2:33
+15.	13 Dec [S009]	(1) Red House (official, studio chat at end)  	3:43
+16.	13 Dec [S1485]	(90) Red House (alternate mono mix)  		4:13
+
+"Top of the Pops" BBC Lime Grove Studios, Lime Grove, London W12
+17.	29 Dec [S1317]	(7) Hey Joe (intro-Simon Dee, b.voc Breakaways)       4:14
+
+
+---------------------------------------------------------------------------------------------------------------------------
+1967
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 3  
+							
+“KINGSWAY” De Lane Lea Music Recording Studios, 129 Kingsway, London WC2		
+01.	11 Jan [S003]	(1) Purple Haze (official, mono mix)		2:43
+02.	11 Jan		(121) Purple Haze (different mono mix)  		2:46
+03.	11 Jan		(2) Purple Haze (official-stereo)			2:51
+04.	11 Jan [????]	(3) Purple Haze (official “legacy” master)		2:44
+05.	11 Jan [S1053]	(4) Purple Haze (different mix)			2:41
+06.	11 Jan [S1462]	(120) Purple Haze (different mix, complete)		3:00
+07.	11 Jan 		(5) Purple Haze (alt mix with 2 lead vocals, incompl.)  2:21
+08.	11 Jan [S1531]	(119) Purple Haze (official, diff mix & ending)	3:26
+09.	11 Jan [S1469]	(2) 51st Anniversary (instrumental take)		0:49
+10.	11 Jan [S1470]	(3) 51st Anniversary (instrumental take)		0:43
+11.	11 Jan [S1471]	(4) 51st Anniversary (backing track only)		3:19
+12.	11 Jan [S004]	(1) 51st Anniversary (official, mono)		3:15
+13.	11 Jan [S1478]	(5) 51st Anniversary (2 vocal tracks)		3:22
+14.	11 Jan [????]	(?) 51st Anniversary (part of u/k version)             	0:08 
+15.	11 Jan [S1535]	(5pt.I)Third Stone from the Sun (official vocals hi)	2:37 
+16.	11 Jan [S1535]	(5pt.II)Third Stone from the Sun (official, diff mix)	6:43 
+17.	11 Jan		(4) Third Stone from the Sun (vocals hi) 		3:22 
+18.	11 Jan [S015]	(1) Third Stone from the Sun (official, mono mix)	6:35
+19.	11 Jan [S015]	(2) Third Stone from the Sun (official)		6:44
+20.	11 Jan [S005]	(1) The Wind Cries Mary (official, mono mix)	3:21
+21.	11 Jan [S005]	(2) The Wind Cries Mary (official)		3:21
+22.	11 Jan [S1065]	(3) The Wind Cries Mary (alt. instrumental take)	3:30 
+23.	11 Jan [S1464]	(?) The Wind Cries Mary (alt. instrumental, alt mix)    3:31 
+
+"Top of the Pops" BBC Lime Grove Studios, Lime Grove, London W12		
+24.	 18 Jan		(8) Hey Joe (studio track with live vocals)		3:25
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 4  
+
+Olympic Sound Studios, 117 Church Road, Barnes, London SW13
+01.	03 Feb [S1472]	(86) Fire (instrumental take)			1:04
+02.	03 Feb [S1473]	(87) Fire (instrumental take)			0:11
+03.	03 Feb [S1474]	(88) Fire (instrumental take)			1:09
+04.	03 Feb [S1475]	(89) Fire (instrumental take)			1:56
+05.	03 Feb [S1476]	(90) Fire (instrumental take)			1:52
+06.	03 Feb [S1477]	(90) Fire (instrumental take)			1:17
+07.	03 Feb [S1064]	(3) Fire (backing track only)			2:36
+08.	03 Feb [S014]	(1) Fire (official, mono mix)			2:35
+09.	03 Feb [S014]	(2) Fire (official)				2:42
+10.	03 Feb [S014]	(2) Fire (fake alternate mix)			2:38
+11.	03 Feb       	(?) Fire (alt mix with low vocals-from collectors tape)	2:39
+
+Flamingo Club, 33 – 37 Wardour Street, London W1  
+12.	04 Feb [L1245]	(6) Killing Floor 				1:09
+13.	04 Feb [L1148]	(2) Have Mercy Baby			                  4:05
+14.	04 Feb [L1246]          (4) Can You See Me				4:21
+15.	04 Feb [L1247]	(1) Like A Rolling Stone			8:35
+16.	04 Feb [L1248]	(1) Rock Me Baby				3:13
+17.	04 Feb [L1249]	(3) Experiencing The Blues (Catfish Blues)		9:00
+18.	04 Feb [L1250]	(6) Stone Free				3:32
+19.	04 Feb [L1251]	(9) Hey Joe				4:16
+20.	04 Feb [L1252]	(2) Wild Thing				8:10
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 5  								    
+
+Olympic Sound Studios, 117 Church Road, Barnes, London SW13
+01.	08 Feb [S1486]	(3) Remember (instrumental take)		1:43
+02.	08 Feb [S1487]	(4) Remember (instrumental take)		4:27
+03.	08 Feb [S1488]	(5) Remember (instrumental take)		1:35
+04.	08 Feb [S1489]	(6) Remember (instrumental take)		2:24
+05.	08 Feb [S1490]	(7) Remember (instrumental take)		4:00
+06.	08 Feb [S1491]	(8) Remember (rough mono mix)		2:53
+07.	08 Feb [S016]	(1) Remember (official, mono mix)		2:44
+08.	08 Feb [S016]	(2) Remember (official)			2:48
+
+"Saturday Club" BBC Broadcasting House, Portland Place, London W1
+09.	13 Feb [I858]	Interview With Brian Matthew		                 1:05
+10.	13 Feb [S215]	(5) Hey Joe (official)				4:04
+11.	13 Feb [S961]	(3) Foxy Lady (official, first take)		2:44
+12.	13 Feb [S216]	(4) Foxy Lady (official)			2:59
+13.	13 Feb [S201]	(3) Stone Free (official)			3:26
+14.	13 Feb [S205]	(3) Love or Confusion (official)			2:57
+
+“KINGSWAY” De Lane Lea Music Recording Studios, 129 Kingsway, London WC2	
+15.	20 Feb [S1059]	(5) I Don't Live Today (instrumental take)		2:39
+16.	20 Feb [S1060]	(6) I Don't Live Today (instrumental take)		2:07
+17.	20 Feb [S1061]	(7) I Don't Live Today (instrumental take)		2:13
+18.	20 Feb [S1063]	(4) I Don't Live Today (instrumental take)		4:20
+19.	20 Feb [S1062]	(3) I Don't Live Today (two lead vocals)		4:23
+20.	20 Feb [S012] 	(1) I Don't Live Today (official, mono mix)		3:51
+21.	20 Feb [S012] 	(2) I Don’t Live Today (official)			3:52
+22.	20 Feb [????]	(?) I Don't Live Today (fake alternate mix of (2))	2:17 
+23.	20 Feb [????]	(42) I Don't Live Today (diff. mix)                                 3:58 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 6 
+
+“KINGSWAY” De Lane Lea Music Recording Studios, 129 Kingsway, London WC2	
+01.	23 Feb [???] 	(?) Manic Depression (instrumental take)		0:24
+02.	23 Feb [S1492]	(11) Manic Depression (instrumental take)		0:27
+03.	23 Feb [S1493]	(12) Manic Depression (instrumental take)		4:34
+04.	23 Feb [S008]	(1) Manic Depression (official, mono mix)		3:33 
+05.	23 Feb [S008]	(2) Manic Depression (official)****		3:42 
+06.	23 Feb [S1480]	(10) Manic Depression (mono, alternate vocal)	3:38 
+07.	23 Feb [S008]	(14) Manic Depression (official, sl.diff mono mix)	3:30 
+
+Saturday Scene, Corn Exchange, Chelmsford, Essex UK
+08.	25 Feb [?..?]	(?) Stone Free (See notes for reference below)	3.37
+09.	25 Feb [?..?]	(?) Like A Rolling Stone 			3:41
+10.	25 Feb [?..?]	(?) Like A Rolling Stone 			3:39	
+
+Marquee Club, 90 Wardour Street, London W1; recordings for German TV †
+11.	02 Mar [L795]	(11) Hey Joe			                  3:40
+12.	02 Mar [L656]	(8) Purple Haze			                  3:17
+13.	02 Mar [L843]	(10) Hey Joe (outtake)		                  3:39
+14.	02 Mar [L844]	(7) Purple Haze (outtake)			2:29	
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 7   						        		 
+
+Speakeasy? 48 Margaret Street, London W1
+01.	16 Mar?                       Interview with Jimi, Clapton & Christine Charles    40.43
+
+"Twenclub" NDR Funkhaus, Hamburg, W.Germany. W.German radio; live broadcast
+02.	18 Mar [I527]	 Intro. Inc. interview with Jimi & Noel		1.50
+03.	18 Mar [L528]	(5) Foxy Lady				3.15
+04.	18 Mar [L529]	(12) Hey Joe				4.11
+05.	18 Mar [L530]	(7) Stone Free				3.30
+06.	18 Mar		 MC Chatter 1				0.34
+07.	18 Mar		 MC Chatter 2				0.06
+08.	18 Mar [L531]	(4) Fire					3.03
+09.	18 Mar [L532]	(9) Purple Haze (Intro –in German- Noel Redding)	3.42
+
+BBC, "Saturday Club" BBC Broadcasting House, Portland Place London W1
+10.	28 Mar [S204]	(1) Killing Floor (official)			2:29
+11.	28 Mar [S211]	(5) Fire (official)				2:42
+12.	28 Mar [S213]	(6) Purple Haze (official) (Intro by Brian Matthew)	3:17
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 8 
+
+“KINGSWAY” De Lane Lea Music Recording Studios, 129 Kingsway, London WC2	
+01.	29 Mar [S1054]	(2) Red House (alternate take)			1:43
+02.	29 Mar [S1055]	(3) Red House (alternate take)			1:48
+03.	29 Mar [S1056]	(4) Red House (alternate take)			3:13
+04.	29 Mar [S1057]	(5) Red House (alternate take)			4:10
+05.	29 Mar 	    	(6(i)?) Red House (official different mix)		3:54 
+06.	29 Mar [S049]	(6) Red House (official stereo Reprise Smash Hits) 	3:50 
+07.	29 Mar [S1058]	(1) La Poupee Qui Fait Non (stereo)		3:42 
+08.	29 Mar [S1463]	(1) La Poupee Qui Fait Non (mono)		3:28 
+
+"Top of the Pops" BBC Lime Grove Studios, Lime Grove, London W12
+09.	30 Mar [S794]	(10) Purple Haze (official version + live vocals)	2:44
+10.	30 Mar [????]	(108) Purple Haze (official version + live vocals)	2:46 
+
+Olympic Sound Studios, 117 Church Road, Barnes, London SW13
+11.	03 Apr [S013]	(1) May This Be Love (official, mono mix)		2:59
+12.	03 Apr [S013]	(3) May This Be Love (official)			3:10
+13.	03 Apr [S137]	(2) May This Be Love (official, French single mix)	3:12
+14.	03 Apr [S006]	(1) Highway Chile (official, mono mix)		3:31
+15.	03 Apr [S1533]	(2) Highway Chile (official, stereo mix)		3:40
+16.	03 Apr [S1534]	Title #3 (see notes below)			2:10
+17.	03 Apr [S017]	(1) Are You Experienced (official, mono mix)	4:03
+18.	03 Apr [S017]	(2) Are You Experienced (official)		4:11
+19.	03 Apr [S017]	(3) Are You Experienced (backward guitar solo)	2:46
+20.	03 Apr		Are You Experienced (fake alt. mix)		4:13
+21.	03 Apr		(18) Are You Experienced (for/back guitar solo) 	5:18 
+22.	04 Apr [S1537]	(46) Lover Man (instrumental)			3:03
+
+Jimi’s Apartment Flat 9, 43 Upper Berkeley Street, London W1
+23.	10 Apr? [I869]	 Interview with Lief Anderson, b’cast 19 Apr 67	1:17
+
+"Late Night Line Up" BBC TV Studio, Kingsway, London W2
+24.	17 Apr [S1504]	(3) Manic Depression				3.09
+
+---------------------------------------------------------------------------------------------------------------------------
+		
+
+DISC 9 								
+
+"Top of the Pops" BBC Lime Grove Studios, Lime Grove, London W12
+01.	04 May 		(109) Purple Haze (studio track plus live vocals?)	2.49
+
+Olympic Sound Studios, 117 Church Road Barnes, London SW13
+02.	04 May [S932]	(1) Mr. Bad Luck (Look Over Yonder)*†		3:06
+03.	04 May [S236]	(1?) Mr. Bad Luck (official, different mix)		2:54
+04.	04 May [S030]	(3) She's So Fine (official, mono)		2:41
+05.	04 May [S030]	(1) She's So Fine (official)			2:41
+06.	04 May [S030]	(2) She's So Fine ("Backtrack" mix)		2:41
+07.	04 May [S1004	(4) She's So Fine (original lead vocal)		2:39
+08.	04 May [S1593]	(5) She's So Fine (alt (1), official instrumental mix)	2:39 
+09.	04 May [S927]	(1) Taking Care of No Business (with o/d)		4:00
+10.	04 May [S1536	(2) Taking Care of No Business (original tracks)	3:43
+11.	04 May [S935]	(1) Cat Talkin' to Me (vocal version)		2:35
+12.	04 May [S027]	(2) If 6 Was 9 (official, mono)			5:36 
+13.	04 May [S027]	(1) If 6 Was 9 (official)			5:34 
+14.	04 May [S027]	(1) If 6 Was 9 (fake alt. mix, Sothebys Reels B426)	5:39
+15.	04 May [S1539]	(4) If 6 Was 9 (official, longer alt mono mix)	5:57 
+16.	05 May [S021]	(3) E.X.P. (official, mono)			1:13
+17.	05 May [S021]	(1) E.X.P. (official)				1:56
+18.	05 May [S1103]	(2) E.X.P. (Sotheby's mix)			1:55
+
+Olympic Sound Studios, 117 Church Road, Barnes, London SW13
+19.	09 May [S1538]       (11) Burning of the Midnight Lamp (instrumental)	1:30
+
+"Top of the Pops" BBC Lime Grove Studios, Lime Grove, London W12
+20.	10 May 	               (4)The Wind Cries Mary (studio track plus live vocals.) 3:30
+
+"Music Hall de Paris", Theatre d'Issy Les Moulineaux, Paris 
+21.	11 May 	               (13) Hey Joe				3:06
+22.	11 May 	                (3) Wild Thing				4:37
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 10 
+
+Hotel Intercontinental, Frankfurt, Germany
+01.	17 May [I872]	Interview with Jimi, Mitch & Noel (Hans Schmidt)    18:07
+
+"Beat,Beat,Beat!" Stadthalle, Offenbach, Germany; Broadcast on German TV
+02.	18 May [L511]	(8) Stone Free				3:15
+03.	18 May [L512]	(14) Hey Joe				4:18
+04.	18 May [L513]	(11) Purple Haze				3:05
+
+Falkoner Centret, Copenhagen, Denmark
+05.	21 May [?????] 	(29) Wild Thing 				2:07
+06.	21 May [?????]	Interview by Carsten Grolin (Danish Radio)                 0:59
+
+"Popside", Stockholm, Sweden. TV studio; broadcast on Swedish TV, 11 Jun
+07.	24 May [L514]	(5) The Wind Cries Mary			3:29
+08.	24 May [L515]	(12) Purple Haze				3:22
+
+Stora Scenen, Grona Lund, Tivoli Garden, Stockholm, Sweden 
+09.	24 May [----]       (-) Intro 					2:17
+10.	24 May [L1382]	(6) Foxy Lady (inc tune-up)			3:52 
+11.	24 May [L1383]	(2) Rock Me Baby				3:08 
+12.	24 May [L1384]	(15) Hey Joe				4:20		
+13.	24 May [L948]	(5) Can You See Me				4:05 
+14.	24 May [L1385]	(13) Purple Haze				3:11 
+15.	24 May [L1386] 	(4) Wild Thing				6:51
+
+ Radiohuset? Stockholm, Sweden
+16.	25 May [I870] Int. with Jimi by Klas Burling 		                10:59 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 11
+
+Monterey International Pop Festival, Monterey, California 
+01.	18 Jun [L073]	(7) (Tune-up/Intro Brian Jones) Killing Floor	5:38
+02.	18 Jun [L074]	(7) Foxy Lady				3:35
+03.	18 Jun [L075]	(2) Like A Rolling Stone			6:50	
+04.	18 Jun [L076]	(3) Rock Me Baby				3.44
+05.	18 Jun [L077]	(16) Hey Joe				4:47
+06.	18 Jun [L078]	(6) Can You See Me				3:11
+07.	18 Jun [L079]	(6) The Wind Cries Mary			3:38
+08.	18 Jun [L080]	(14) Purple Haze				4:18
+09.	18 Jun [L081]	(5) Wild Thing				9:47
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 12
+
+Unidentified Radio Station, San Francisco? California, USA
+01.	26 Jun [I268]           Int. with Jimi by Harry Harrison 		                 2:58   
+02.	26 Jun [I269]           Int. with Noel by Harry Harrison 		                 2:43
+			    
+Houston Studios, Los Angeles CA
+03.	28 Jun [S271]         (1) Stars That Play With Laughing Sams Dice(acetate)  4:15
+
+Mayfair Recording Studio, 701 7th  Avenue. New York City. New York.
+04.	06 Jul [S019]           (1) Burning of the Midnight Lamp (official, mono)	3:44 
+05.	06 Jul [S019]           (2) Burning of the Midnight Lamp (official)		3:38 
+06.	06 Jul	               (4) Burning of the Midnight Lamp (mixing tape)            22:08 
+07.	06 Jul	               Burning of the Midnight Lamp (breakdown mix)	3:20 
+
+Warwick Hotel, New York City (65 West 54th St?)
+09.	17-19 Jul 	               Interview with Jimi/Noel/Mitch by Dan Paulson            25:11
+                                                  Three segments. Tape splits at 0:07, 2:33 & 22:30,  approx.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 13  
+
+Mayfair Recording Studio, 701 7th  Avenue. New York
+01.	19 Jul [S020]	(2) STPWLSD (official, mono mix)		4:19
+02.	19 Jul [S020]	(3) STPWLSD (official)			4:22
+03.	19 Jul [S1120]	(4) STPWLSD (alternate mix)			4:34
+04.	19 Jul [S1120]	(4) STPWLSD (slightly different alt. mix of (2)	4:34 
+05.	19 Jul [S1120]	(5?) STPWLSD (different mix)			4:28 
+
+“PPX Studio 76” 1650 Broadway, New York 10019
+06.	Jul 25-31 [S683/4] (5&6) Gloomy Monday (takes 1&2)		4:08 	
+	“You can’t use my name”(Studio chat Jimi & Edward Chalpin) 	  
+     	
+"Top of the Pops" BBC Lime Grove Studios, Lime Grove, London W12
+07.	24 Aug		(9) The Burning of the Midnight Lamp		3:55
+
+Saville Theatre, 135-149 Shaftesbury Avenue, London W1
+08.	27 Aug [ ?   	(1) Summertime Blues			1:30 
+09.	27 Aug 		(6) Fire					1:52 
+10.	27 Aug		(7) The Wind Cries Mary			2:03 
+11.	27 Aug		(8) Foxy Lady				2:05 
+12.	27 Aug		(4) Experiencing The Blues (Catfish Blues)		5:50 
+13.	27 Aug		(8) I Don't Live Today			3:37 
+14.	27 Aug		(82) Red House				3:07 
+15.	27 Aug		(63) Hey Joe				2:46 
+16.	27 Aug	  ? ]	(15) Purple Haze				4:41 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 14 
+
+Stora Scenen, Grona Lund, Tivoli Garden, Stockholm, Sweden
+01.	04 Sep [-----]     	(-)   Intro		                                    	2:13
+02.	04 Sep [L1394]	(2) Sgt Pepper's Lonely Heart's Club Band		1:51
+03.	04 Sep [L1395] 	(4) Rock Me Baby				3:33
+04.	04 Sep [L1396] 	(6) Experiencing The Blues (Catfish Blues)		8:59
+05.	04 Sep [L1397] 	(64) Hey Joe				4:51
+06.	04 Sep [L1398] 	(16) Purple Haze				6:45
+
+Dans In, Grona Lund, Tivoli Garden, Stockholm, Sweden
+07.	04 Sep [-----]               (-) Intro					1:32
+08.	04 Sep [L949]  	(8) Killing Floor				4:53
+09.	04 Sep [L950]	(9) Foxy Lady				4:29
+10.	04 Sep [L951]	(5) Experiencing The Blues (Catfish Blues)	                11:01
+11.	04 Sep [L952]	(17) Hey Joe				5:15
+12.	04 Sep [L953]	(7) Fire					4:32
+13.	04 Sep [L954]	(8) The Wind Cries Mary			4:07
+14.	04 Sep [-----]               (-) Jimi & Noel’s banter with audience		2:05
+15.	04 Sep [L955]	(17) Purple Haze			                11:37
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 15								
+
+‘Tonarskvall’, Radiohuset, Stockholm, Sweden
+01.	05 Sep [L503]	(3) Sgt. Pepper's Lonely Hearts Club Band 	1:50
+02.	05 Sep [L504]	(18) Hey Joe 				4:11
+03.	05 Sep [L505]	(9) I Don't Live Today 			4:35
+04.	05 Sep [L506]	(9) The Wind Cries Mary 			3:51
+05.	05 Sep [L507]	(10) Foxy Lady 				3:39
+06.	05 Sep [L508]	(8) Fire 					3:11
+07.	05 Sep [L509]	(6) The Burning of the Midnight Lamp 		4:06
+08.	05 Sep [L510]	(18) Purple Haze 				5.25
+
+Radiohuset Stockholm, Sweden
+09.	05 Sep [I871]	Interview with Jimi by Klas Burling  		3:56
+         
+
+Stora Salen, Akademiska Foreningen, Lund, Sweden (1st show)* TBI (38:09)
+10.	 10 Sep		 Intro.					1:13 
+11.	 10 Sep	                  (17) Sgt Pepper				2:07 
+12.	 10 Sep		(112) Foxy Lady				3:53 
+13.	 10 Sep		(15) Experiencing The Blues (Catfish Blues)	9:50 
+14.	 10 Sep		(97) Fire					3:50 
+15.	 10 Sep		(22) The Wind Cries Mary			4:28 
+16.	 10 Sep		(4) Have Mercy (incomplete)			1:51 
+17.	 10 Sep		(15) Manic Depression			5:08 
+18.	 10 Sep		(123) Purple Haze				5:49 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 16  
+Radiohuset? Stockholm, Sweden
+01.	11 Sep	    	 Interview with Jimi, Noel & Mitch by Lief Anderson	3:53
+
+Stora Scenen, Grona Lund, Tivoli Garden, Stockholm, Sweden
+02.	11 Sep [L1377]	(11) Foxy Lady				5:22
+03.	11 Sep [L911]	(7) The Burning of the Midnight Lamp		4:03
+04.	11 Sep [L1378]	(9) Fire					3:41
+05.	11 Sep [L1379]	(7) Experiencing the Blues (Catfish Blues)		7:45
+06.	11 Sep [L1380]	(65) Hey Joe				5:18
+07.	11 Sep [L1381]	(19) Purple Haze				6:10
+
+Olympic Sound Studios, 117 Church Road, Barnes, London SW13
+08.	01 Oct [S032]	(2) Little Miss Lover (official, mono)		2:22
+09.	01 Oct [S032]	(1) Little Miss Lover (official)			2:21
+10.	01 Oct [S265]	(3) Little Miss Lover (acetate)			2:18
+11.	01 Oct [S1541]	(6) Little Miss Lover (official diff mix of (2)		2:22
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 17 
+
+Olympic Sound Studios, 117 Church Road, Barnes, London SW13
+01.	03 Oct [S028]	(3) You Got Me Floatin' (official, mono)		2:40
+02.	03 Oct [S028]	(1) You Got Me Floatin' (official)		2:47
+03.	03 Oct [S028]	(2) You Got Me Floatin' ("Backtrack" mix)	2:42
+04.	03 Oct [S1107]	(4) You Got Me Floatin' (alternate mix)		2:42
+05.	03 Oct [S031]	(4) One Rainy Wish (official, mono)		3:45
+06.	03 Oct [S031]	(1) One Rainy Wish (official)			3:41
+07.	03 Oct [S240]	(2) One Rainy Wish (alternate mix)		3:45
+08.	03 Oct [S031]	(3) One Rainy Wish ("Backtrack" mix)		3:42
+09.	03 Oct [S240]	(5) One Rainy Wish [alternate mix of (2)]		3:46
+10.	03 Oct	    	 One Rainy Wish (alternate mix)			3:55 
+
+Olympic Sound Studios, 117 Church Road, Barnes, London SW13
+11.	 05 Oct [S1543]	(7) Bold as Love (official, instrumental take)	7:09
+12.	 05 Oct [S033]	(5) Bold as Love (official, mono mix)		4:05 
+13.	 05 Oct [S033]	(1) Bold as Love (official)			4:07 
+14.	 05 Oct [S817]	(2) Bold as Love (alternate mix)			3:39 
+15.	 05 Oct  		(3) Bold as Love (alternate mix)			4:06 
+16.	 05 Oct		(4) Bold as Love (alternate mix, end only)		1:27 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 18  
+
+"Top Gear" BBC Playhouse Theatre, Northumberland Avenue, London WC2
+01.	06 Oct [I1503]	 Interview with Brian Matthew		                 0:53
+02.	06 Oct [S479]	 (4) Little Miss Lover (official)			2:58 
+03.	06 Oct [S478]	 (1) Driving South (complete)			4:31 
+04.	06 Oct [S217]	 (5) Burning of the Midnight Lamp (official)	3:43 
+05.	06 Oct [S210]	 (1) Hound Dog (official)			2:43 
+06.	06 Oct [S207]	 (1) Experiencing The Blues (Catfish Blues)(off’l)	5:30 
+07.	06 Oct [S882]	 Ain't Too Proud To Beg (complete)		8:12
+08.	06 Oct [S1003]	 Ain't Too Proud To Beg (Pt. 1) (official)		3:24 
+09.	06 Oct [S882]	 Ain't Too Proud To Beg (Pt. 2) (official)		3:05 
+10.	06 Oct [S478]	 (2) Driving South (official,alternate take)		4:49 
+11.	06 Oct [S218]	 (14)Driving South (official edited version)		3:22
+12.	?? ??? 2 pts of [S479] (4) Little Miss Lover  			0:47
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+
+DISC 19 							
+		
+"Musicorama", L'Olympia, Paris
+01.	09 Oct [L1582]	(19) Hey Joe (inc. intro)			4:08
+02.	09 Oct [L1542]	(14) Experiencing The Blues (Catfish Blues)	5:26
+03.	09 Oct [L1583]	(95) Fire 					3:31
+04.	09 Oct [L1581]	(33) Stone Free 				3:42
+05.	09 Oct [L521]	(12) Foxy Lady				5:47 
+06.	09 Oct [L522]	(10) The Wind Cries Mary			4:13 
+07.	09 Oct [L523]	(5) Rock Me Baby				4:55 
+08.	09 Oct [L524]	(9) Red House				7:30 
+09.	09 Oct [L525]	(20) Purple Haze				8:26 
+10.	09 Oct [L526]	(7) Wild Thing				5:42 
+
+Olympic Sound Studios, 117 Church Road, Barnes, London SW13
+11.	14 Oct [S1454]	(7) Angel (instrumental) (official)		2:43
+
+"Top Gear" BBC Playhouse Theatre, Northumberland Avenue, London WC2
+12.	17 Oct [S962]	 Alexis Korner Introduction (official)		0:29
+13.	17 Oct [S481]	 (1) Can You Please Crawl out Your Window(official)	3:34
+14.	17 Oct	     	 Alexis Korner Introduction (official)		0:15
+15.	17 Oct [S212]	 (1) Hoochie Coochie Man (official)		5:32
+16.	17 Oct	    	 Alexis Korner Introduction (official)		0:24
+17.	17 Oct [S482]	 (3) Driving South (official)			5:31
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 20
+
+01.	25 Oct [S026]	 (3) Little Wing (official, mono)			2:20
+02.	25 Oct [S026]	 (1) Little Wing (official stereo) 			2:25
+03.	25 Oct	     	 Little Wing (fake mix of (1) - Living Reels B528) 	2:26
+04.	25 Oct [S026]	 (2) Little Wing ("Backtrack” mix)		2:24
+05.	25 Oct [S1540]	 (16) Little Wing (alternate instrumental take)	3:25
+
+Olympic Sound Studios, 117 Church Road, Barnes, London SW13
+06.	26 Oct [S024]	 (3) Wait until Tomorrow (official, mono)		3:03
+07.	26 Oct [S024]	 (1) Wait until Tomorrow (official)		3:03
+08.	26 Oct [S1105]	 (2) Wait until Tomorrow (alt. mix, longer)		3:28
+09.	26 Oct [S025]	 (5) Ain't No Tellin' (official mono mix)		1:50
+10.	26 Oct [S025]	 (1) Ain't No Tellin' (official)			1:49
+11.	26 Oct [S025]	 (2) Ain't No Tellin' ("Backtrack" mix)		1:49
+12.	26 Oct [S025]	 (3) Ain't No Tellin' (alternate stereo mix) 		1:53
+13.	26 Oct [S1106]	 (4) Ain't No Tellin' (alt. mix with diff. guitar)	1:48
+
+Olympic Sound Studios, 117 Church Road, Barnes, London SW13
+14.	27 Oct [S1005]	 (1) Spanish Castle Magic (instrumental take)	2:39
+15.	27 Oct [S023]	 (4) Spanish Castle Magic (official, mono)		3:05
+16.	27 Oct [S023]	 (2) Spanish Castle Magic (official)		3:02
+17.	27 Oct [S1113]	 (3) Spanish Castle Magic (alternate mix)		3:09
+
+Olympic Sound Studios, 117 Church Road, Barnes, London SW13
+18.	29 Oct [S022]	 (4) Up from the Skies (official, mono)		3:03
+19.	29 Oct [S022]	 (1) Up from the Skies (official)			2:56
+20.	29 Oct [S022]	 (2) Up from the Skies ("Backtrack" mix)		3:01
+21.	29 Oct [S1104]	 (3) Up from the Skies (alternate mix)		2:57
+22.	29 Oct [S029]	 (5) Castles Made of Sand (official, mono)		2:46
+23.	29 Oct [S029]	 (1) Castles Made of Sand (official)		2:48
+24.	29 Oct [S029]	 (2) Castles Made of Sand ("Backtrack" mix)	2:48
+25.	29 Oct [S1108]	 (3) Castles Made of Sand (alternate mix)		2:49
+26.	29 Oct [S029]	 (4) Castles Made of Sand (backward)		2:20
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 21 							
+
+"Hoepla", Vitus Studio, Bussum, Holland - Dutch TV  
+01.	10 Nov [L517]	(13) Intro Foxy Lady				4:50
+02.	10 Nov [L516]	(2) Experiencing The Blues (Catfish Blues)(official)	8:06
+03.	10 Nov [L518(I)?]	(118) Purple Haze (aborted take) 		2:55
+04.	10 Nov [L518(II)?]	(21) Purple Haze 				5:55
+05.	10 Nov [????]            (22) Purple Haze (alternate take)		4:36
+
+Olympic Sound Studios, 117 Church Road, Barnes, London SW13
+06.	13 Nov [S1459]	(8) Angel (official, start cut)			3:55 
+07.	13 Nov [S1459]	(10) Angel (official, complete, alt mix)		4:12
+
+Opera House, Blackpool, Lancashire
+08.	25 Nov 		(4) Sgt Pepper's Lonely Hearts Club Band		1:50
+09.	25 Nov		(10) Fire					2:33
+10	25 Nov		(20) Hey Joe				4:06
+11.	25 Nov		(11) The Wind Cries Mary			2:43
+12.	25 Nov [L519]	(23) Purple Haze				4:09
+13.	25 Nov [L520]	(8) Wild Thing				5.06
+
+Jimi’s Apartment, Flat 9, 43 Upper Berkeley Street London W1
+14. 	9? Dec [I295]	Interview with Jimi by Meatball Fulton	               18:35
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+DISC 22 
+
+"Top Gear" BBC Theatre, The Playhouse Theatre, Northumberland Avenue, London W2 
+01.	15 Dec [I912]	 Interview (by Tony Hall)			6:32
+02.	15 Dec [S480]	 Radio One Theme (official)			1:38
+03.	15 Dec [S208]	(4) Wait until Tomorrow (official)		2:57
+04.	15 Dec [S203]	(3) Day Tripper (official)			3:26
+05.	15 Dec [S214]	(5) Spanish Castle Magic (official)		3:08
+06.	15 Dec [S1505]	(1) Hear My Train A-Comin' (official)		5:01
+07.	15 Dec [S209]	(2) Hear My Train A-Comin' (official, alt. take)	5:02
+08.	15 Dec		(3) Hear My Train A-Comin' (composite edit)	1:40 
+
+Bruce Fleming Photo Studio, 12 Great Newport Street, London WC2
+09.	19 Dec [I225]	(V8) Interviews				3:59
+10.	19 Dec [S144]	(4) Hear My Train A-Comin' (false start from V8)	0:51
+11.	19 Dec [S144]	(4) Hear My Train A-Comin' (official)		3:05
+
+Olympic Sound Studios, 117 Church Road, Barnes, London SW13
+12.	 20 Dec [S037]	(1) Crosstown Traffic (official)			2:26
+13.	 20 Dec [S037]	(2) Crosstown Traffic (alternate mix)		2:26
+14.	 20 Dec [S037]	(3) Crosstown Traffic (alternate mix, mono)	2:19 
+15.	 20 Dec [S266]	(1) Dream (acetate)				2:02
+16.	 20 Dec		(2) Dream (stereo mix)			2:20 
+17.	 20 Dec [S267]	(1) Dance (acetate)				1:54
+
+"Christmas On Earth Continued", Olympia, Kensington, London
+18.	 22 Dec [L796]	(5) Sgt Pepper's Lonely Hearts Club Band		1:54
+19.	 22 Dec [L797]	(14) Foxy Lady				3:40
+20.	 22 Dec		(9) Wild Thing				3:02
+
+Olympic Sound Studios, 117 Church Road, Barnes, London SW13
+21.	 28 Dec [S879]	(1) Little One (take 1)			3:25 
+22.	 28 Dec [S880]	(2) Little One (take 2) 			3:29 
+23.	 28 Dec [S930]	(3) Little One (with vocals)			3:50
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Emilovius
+May 2009.
+

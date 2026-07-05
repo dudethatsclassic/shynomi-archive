@@ -81,7 +81,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1987-07-13 - Oakland, CA - The Omni [AUD3].txt"
+      "textFile": "1987-07-13 - Oakland, CA - The Omni [AUD1].txt"
     },
     {
       "year": 1987,
@@ -95,7 +95,7 @@ const ARTIST_DATA = {
       "notes": "fixed",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1987-07-13 - Oakland, CA - The Omni [AUD3].txt"
+      "textFile": "1987-07-13 - Oakland, CA - The Omni [AUD2].txt"
     },
     {
       "year": 1987,
@@ -554,7 +554,7 @@ const ARTIST_DATA = {
       "notes": "ANA(3)",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-12-01 - Liverpool, England - Stairways Club [DVD].txt"
+      "textFile": "1990-12-01 - Liverpool, England - Stairways Club [AUD].txt"
     },
     {
       "year": 1990,
@@ -806,7 +806,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1991-08-29 - San Francisco, CA - The Warfield [AUD].txt"
+      "textFile": "1991-08-29 - San Francisco, CA - The Warfield [AUD2].txt"
     },
     {
       "year": 1991,
@@ -1029,7 +1029,7 @@ const ARTIST_DATA = {
       "notes": "DAT(3) · scottiem",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1992-01-21 - Los Angeles, CA - The Cathouse - DAT(3) (scottiem) [SBD].txt"
+      "textFile": "1992-01-21 - Los Angeles, CA - The Cathouse [SBD].txt"
     },
     {
       "year": 1992,
@@ -1113,7 +1113,7 @@ const ARTIST_DATA = {
       "notes": "Sony Tie Clip barrel mic · j.p.",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-03-12 - Binghampton, NY - Broome County Arena [AUD].txt"
+      "textFile": "1992-03-12 - Binghampton, NY - Broome County Arena (J.P. version) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1476,7 +1476,7 @@ const ARTIST_DATA = {
       "notes": "Lollapalooza · Schoeps CMC4/MK41 · billydee",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-07-12 - Stanhope, NJ - Waterloo Village - ANA(M) (Sony WM-D3) (koondog) [AUD].txt"
+      "textFile": "1993-07-12 - Stanhope, NJ - Waterloo Village (Lollapalooza) [AUD].txt"
     },
     {
       "year": 1993,
@@ -1685,7 +1685,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-10-01 - Berkeley, CA - William Randolph Hearst Greek Theatre - ANA(1) (unk) (koondog) [AUD].txt"
+      "textFile": "1993-10-01 - Berkeley, CA - Greek Theater [AUD].txt"
     },
     {
       "year": 1993,
@@ -1783,7 +1783,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1993-11-17 - Dallas, TX - The Bomb Factory [SBD #2].txt"
+      "textFile": "1993-11-17 - Dallas, TX - The Bomb Factory [SBD #1].txt"
     },
     {
       "year": 1993,
@@ -2021,7 +2021,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-07-22 - Minneapolis, MN - Roy Wilkens Auditorium [AUD].txt"
+      "textFile": "1995-07-22 - Minneapolis, MN - Roy Wilkens Auditorium [AUD2].txt"
     },
     {
       "year": 1995,
@@ -2216,7 +2216,7 @@ const ARTIST_DATA = {
       "notes": "Soundman OKMIIR",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-10-24 - Paris, France - Elysee Montmartre [AUD].txt"
+      "textFile": "1995-10-24 - Paris, France - Elysee Montmartre [AUD2].txt"
     },
     {
       "year": 1995,
@@ -2272,7 +2272,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-11-15 - Dayton, OH - Hara Arena [AUD].txt"
+      "textFile": "1995-11-15 - Dayton, OH - Hara Arena [AUD2].txt"
     },
     {
       "year": 1995,
@@ -2314,7 +2314,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-11-24 - Uniondale, NY - Nassau Coliseum [AUD].txt"
+      "textFile": "1995-11-24 - Uniondale, NY - Nassau Coliseum [AUD2].txt"
     },
     {
       "year": 1995,
@@ -2382,8 +2382,7 @@ const ARTIST_DATA = {
       "venue": "Bimbo's 365",
       "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1996-01-09 - San Francisco, CA - Bimbo's 365 [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -2494,8 +2493,7 @@ const ARTIST_DATA = {
       "venue": "Bill Graham Civic Auditorium",
       "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1996-05-07 - San Francisco, CA - Bill Graham Civic Auditorium [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -2523,7 +2521,7 @@ const ARTIST_DATA = {
       "notes": "DSM6s",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-05-13 - Anchorage, AL - Egan Center [AUD].txt"
+      "textFile": "1996-05-13 - Anchorage, AL - Egan Center [AUD2].txt"
     },
     {
       "year": 1996,
@@ -2634,8 +2632,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "unk · cleantones transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1997-07-11 - Mountain View, CA - Shoreline Amphitheatre (unk) (cleantones transfer) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -2649,7 +2646,7 @@ const ARTIST_DATA = {
       "notes": "AKG480/CK61",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-07-13 - Portland, OR - Portland Meadows [AUD].txt"
+      "textFile": "1997-07-13 - Portland, OR - Portland Meadows [AUD2].txt"
     },
     {
       "year": 1997,
@@ -2691,7 +2688,7 @@ const ARTIST_DATA = {
       "notes": "AKG480/CK61",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-07-20 - Denver, CO - Fiddler's Green Amphitheatre [AUD].txt"
+      "textFile": "1997-07-20 - Denver, CO - Fiddler's Green Amphitheatre [AUD2].txt"
     },
     {
       "year": 1997,
@@ -2747,7 +2744,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) · Tascam DA-P1",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-07-25 - Indianapolis, IN - Deer Creek Amphitheatre [AUD].txt"
+      "textFile": "1997-07-25 - Indianapolis, IN - Deer Creek Amphitheatre [AUD2].txt"
     },
     {
       "year": 1997,
@@ -2775,7 +2772,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-07-27 - Clarkston, MI - Pine Knob Amphitheatre [AUD].txt"
+      "textFile": "1997-07-27 - Clarkston, MI - Pine Knob Amphitheatre [AUD2].txt"
     },
     {
       "year": 1997,
@@ -2803,7 +2800,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1)",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-07-29 - Cincinatti, OH - Riverbend Amphitheatre [AUD].txt"
+      "textFile": "1997-07-29 - Cincinatti, OH - Riverbend Amphitheatre [AUD2].txt"
     },
     {
       "year": 1997,
@@ -2873,7 +2870,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1997-08-02 - East Troy, WI - Alpine Valley Music Theatre [SBD3].txt"
+      "textFile": "1997-08-02 - East Troy, WI - Alpine Valley Music Theatre [SBD2].txt"
     },
     {
       "year": 1997,
@@ -2915,7 +2912,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) · PZM · cf",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-08-02 - East Troy, WI - Alpine Valley (PZM) (cf) [AUD].txt"
+      "textFile": "1997-08-02 - East Troy, WI - Alpine Valley Music Theatre (Morphine set with Les) [AUD].txt"
     },
     {
       "year": 1997,
@@ -2928,8 +2925,7 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley Music Theatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1997-08-02 - East Troy, WI - Alpine Valley Music Theatre [SBD3].txt"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -2943,7 +2939,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-08-03 - Tinley Park, IL - World Music Theater (Core Sound Omnis) [AUD].txt"
+      "textFile": "1997-08-03 - Tinley Park, IL - World Amphitheatre [AUD].txt"
     },
     {
       "year": 1997,
@@ -2985,7 +2981,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4 · tc",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-08-05 - Vernon Downs, NY - Vernon Downs Race Track (Sony D7) [AUD].txt"
+      "textFile": "1997-08-05 - Vernon, NY - Vernon Downs [AUD2].txt"
     },
     {
       "year": 1997,
@@ -2999,7 +2995,7 @@ const ARTIST_DATA = {
       "notes": "Sony D7",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-08-05 - Vernon Downs, NY - Vernon Downs Race Track (Sony D7) [AUD].txt"
+      "textFile": "1997-08-05 - Vernon, NY - Vernon Downs [AUD].txt"
     },
     {
       "year": 1997,
@@ -3096,7 +3092,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-08-16 - Bristow, VA - Nissan Pavilion - HORDE Festival [AUD].txt"
+      "textFile": "1997-08-16 - Bristow, VA - Nissan Pavilion - HORDE Festival [AUD2].txt"
     },
     {
       "year": 1997,
@@ -3598,7 +3594,7 @@ const ARTIST_DATA = {
       "notes": "Neumann KM140s",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1998-12-31 - San Francisco, CA - Warfield Theatre [AUD].txt"
+      "textFile": "1998-12-31 - San Francisco, CA - Warfield Theatre [AUD2].txt"
     },
     {
       "year": 1998,
@@ -3948,7 +3944,7 @@ const ARTIST_DATA = {
       "notes": "MD(1)",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1999-11-16 - Pittsburgh, PA - The Metropol [AUD].txt"
+      "textFile": "1999-11-16 - Pittsburgh, PA - The Metropol [AUD2].txt"
     },
     {
       "year": 1999,
@@ -3990,7 +3986,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1999-11-22 - New Orleans, LA - State Palace Theatre [AUD].txt"
+      "textFile": "1999-11-22 - New Orleans, LA - State Palace Theatre [AUD2].txt"
     },
     {
       "year": 1999,
@@ -4116,7 +4112,7 @@ const ARTIST_DATA = {
       "notes": "DAT(c) · Sony stereo mic",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2000-02-21 - Burlington, VT - UVM Fieldhouse [AUD].txt"
+      "textFile": "2000-02-21 - Burlington, VT - Patrick Gymnasium [AUD].txt"
     },
     {
       "year": 2000,
@@ -4144,7 +4140,7 @@ const ARTIST_DATA = {
       "notes": "thir13en remaster",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2000-02-22 - Rochester, NY - Harro East Ballroom [FM].txt"
+      "textFile": "2000-02-22 - Rochester, NY -  Harro East Ballroom (13 remaster) [FM].txt"
     },
     {
       "year": 2000,
@@ -4309,7 +4305,7 @@ const ARTIST_DATA = {
       "notes": "steve",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-10-17 - Los Angeles, CA - Wiltern Theater [AUD].txt"
+      "textFile": "2003-10-17 - Los Angeles, CA - The Wiltern - DAT(M) (Schoeps mk4v) (jim charna, sean simpson) [AUD].rtf"
     },
     {
       "year": 2003,
@@ -4323,7 +4319,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) · Schoeps mk4v · jim charna, sean simpson",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-10-17 - Los Angeles, CA - The Wiltern - DAT(M) (Schoeps mk4v) (jim charna, sean simpson) [AUD].rtf"
+      "textFile": "2003-10-17 - Los Angeles, CA - Wiltern Theater [AUD].txt"
     },
     {
       "year": 2003,
@@ -5652,7 +5648,7 @@ const ARTIST_DATA = {
       "notes": "Microtech Gefel 200 · freddie g",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2005-10-29 - Las Vegas, NV - Vegoose Festival - Silver Bowl [AUD].txt"
+      "textFile": "2005-10-29 - Las Vegas, NV - Vegoose Festival - Silver Bowl [AUD2].txt"
     },
     {
       "year": 2005,
@@ -5722,7 +5718,7 @@ const ARTIST_DATA = {
       "notes": "Neumann U89i · baustin",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-11-06 - Atlanta, GA - The Tabernacle [AUD].txt"
+      "textFile": "2006-11-06 - Atlanta, GA - The Tabernacle [AUD2].txt"
     },
     {
       "year": 2006,
@@ -5988,7 +5984,7 @@ const ARTIST_DATA = {
       "notes": "GOTV · AKG c460b · ted gakidis",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-07-31 - Seaside Park, GOTV, Bridgeport, CT [CSB].txt"
+      "textFile": "2010-07-31 - Seaside Park, GOTV, Bridgeport, CT [AKG].txt"
     },
     {
       "year": 2010,
@@ -6141,8 +6137,7 @@ const ARTIST_DATA = {
       "venue": "Uptown Theater",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2010-08-10 - Kansas City, MO - Uptown Theater [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -6267,7 +6262,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4 · tapeworm",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-10-08 - Upper Darby, PA - Tower Theater [AUD].txt"
+      "textFile": "2010-10-08 - Tower Theater, Upper Darby, PA [Diff. Src. 1].txt"
     },
     {
       "year": 2010,
@@ -6281,7 +6276,7 @@ const ARTIST_DATA = {
       "notes": "CSB · unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-10-08 - Upper Darby, PA - Tower Theater [AUD].txt"
+      "textFile": "2010-10-08 - Tower Theater, Upper Darby, PA [Diff. Src. 2].txt"
     },
     {
       "year": 2010,
@@ -6323,7 +6318,7 @@ const ARTIST_DATA = {
       "notes": "KM140 · unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-10-10 - Boston, MA - Orpheum Theatre [AUD2].txt"
+      "textFile": "2010-10-10 - Boston, MA - Orpheum Theatre [AUD1].txt"
     },
     {
       "year": 2010,
@@ -6365,7 +6360,7 @@ const ARTIST_DATA = {
       "notes": "Olympus PCM · unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-12-30 - Oakland, CA - Fox Theater [AUD2].txt"
+      "textFile": "2010-12-30 - Oakland, CA - Fox Theater [AUD1].txt"
     },
     {
       "year": 2010,
@@ -6420,7 +6415,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4v · unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-05-19 - Indianapolis, IN - Murat Theatre [AUD2].txt"
+      "textFile": "2011-05-19 - Indianapolis, IN - Murat Theatre [AUD1].txt"
     },
     {
       "year": 2011,
@@ -6448,7 +6443,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 · kooterb",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-05-21 - Hangout Fest, Gulf Shores, AL [AUD 3].txt"
+      "textFile": "2011-05-21 - Hangout Fest, Gulf Shores, AL [AUD 1].txt"
     },
     {
       "year": 2011,
@@ -6462,7 +6457,7 @@ const ARTIST_DATA = {
       "notes": "CA-11 · mstaper",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-05-21 - Hangout Fest, Gulf Shores, AL [AUD 3].txt"
+      "textFile": "2011-05-21 - Hangout Fest, Gulf Shores, AL [AUD 2].txt"
     },
     {
       "year": 2011,
@@ -6560,7 +6555,7 @@ const ARTIST_DATA = {
       "notes": "Great · CSBs · leifh",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-06-10 - Manchester, TN - Bonnaroo X - Great Stage Park - Which Stage [AUD].txt"
+      "textFile": "2011-06-10 - Manchester, TN - Bonnaroo X - Great Stage Park - Which Stage [AUD Upgrade].txt"
     },
     {
       "year": 2011,
@@ -6643,7 +6638,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK41 · tonedeaf",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-07-16 - All Good Music Festival, Masontown, WV [um900].txt"
+      "textFile": "2011-07-16 - All Good Music Festival, Masontown, WV [16bit].txt"
     },
     {
       "year": 2011,
@@ -6657,7 +6652,7 @@ const ARTIST_DATA = {
       "notes": "AKG C460b · timothy brown",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-07-16 - All Good Music Festival, Masontown, WV [um900].txt"
+      "textFile": "2011-07-16 - All Good Music Festival, Masontown, WV [AKG463s].txt"
     },
     {
       "year": 2011,
@@ -6671,7 +6666,7 @@ const ARTIST_DATA = {
       "notes": "MBHO KA500HN · bean",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-07-16 - All Good Music Festival, Masontown, WV [um900].txt"
+      "textFile": "2011-07-16 - All Good Music Festival, Masontown, WV [KM 184].txt"
     },
     {
       "year": 2011,
@@ -6685,7 +6680,7 @@ const ARTIST_DATA = {
       "notes": "Neumann KM184 · rob clarke",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-07-16 - All Good Music Festival, Masontown, WV [um900].txt"
+      "textFile": "2011-07-16 - All Good Music Festival, Masontown, WV [MAP].txt"
     },
     {
       "year": 2011,
@@ -6699,7 +6694,7 @@ const ARTIST_DATA = {
       "notes": "Audio Pulsar 2 · ghostwheel production",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-07-16 - All Good Music Festival, Masontown, WV [um900].txt"
+      "textFile": "2011-07-16 - All Good Music Festival, Masontown, WV [MBH].txt"
     },
     {
       "year": 2011,
@@ -6713,7 +6708,7 @@ const ARTIST_DATA = {
       "notes": "MBHO603a/KA200N · unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-07-16 - All Good Music Festival, Masontown, WV [um900].txt"
+      "textFile": "2011-07-16 - All Good Music Festival, Masontown, WV [ka500].txt"
     },
     {
       "year": 2011,
@@ -6797,7 +6792,7 @@ const ARTIST_DATA = {
       "notes": "AT 833s · bigt",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-10-01 - Tower Theater, Philadelphia, PA [MBH].txt"
+      "textFile": "2011-10-01 - Tower Theater, Philadelphia, PA [AT 833].txt"
     },
     {
       "year": 2011,
@@ -6811,7 +6806,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4060 · grafix721",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-10-01 - Tower Theater, Philadelphia, PA [MBH].txt"
+      "textFile": "2011-10-01 - Tower Theater, Philadelphia, PA [DPA 4060].txt"
     },
     {
       "year": 2011,
@@ -6867,7 +6862,7 @@ const ARTIST_DATA = {
       "notes": "CSB",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-10-08 - Main St. Armory, Rochester, NY [DPA 4061s].txt"
+      "textFile": "2011-10-08 - Main St. Armory, Rochester, NY [CSB].txt"
     },
     {
       "year": 2011,
@@ -6937,7 +6932,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-10-20 - Mesa, AZ - Mesa Amphitheatre [AUD].txt"
+      "textFile": "2011-10-20 - Mesa, AZ - Mesa Amphitheatre [AUD24].txt"
     },
     {
       "year": 2011,
@@ -6993,7 +6988,7 @@ const ARTIST_DATA = {
       "notes": "CSBs · leifh",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-12-31 - San Francisco, CA - Great American Music Hall [AUD].txt"
+      "textFile": "2011-12-31 - San Francisco, CA - Great American Music Hall [AUD2].txt"
     },
     {
       "year": 2011,
@@ -7049,7 +7044,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4 · eric mcroberts",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-02-09 - New York, NY - Gramercy Theater (Neumann) [AUD].txt"
+      "textFile": "2012-02-09 - New York, NY - Gramercy Theater (MK4) [AUD].txt"
     },
     {
       "year": 2012,
@@ -7189,7 +7184,7 @@ const ARTIST_DATA = {
       "notes": "Soundman OKMIIR",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-04-05 - London, UK - Royal Albert Hall [AUD 2].txt"
+      "textFile": "2012-04-05 - London, UK - Royal Albert Hall [AUD 1].txt"
     },
     {
       "year": 2012,
@@ -7217,7 +7212,7 @@ const ARTIST_DATA = {
       "notes": "CSB",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-05-19 - Huntington, NY - The Paramount [AUD].rtf"
+      "textFile": "2012-05-19 - Huntington, NY - The Paramount (CSB) [AUD].txt"
     },
     {
       "year": 2012,
@@ -7245,7 +7240,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061s · beatkilla",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-05-20 - Syracuse, NY - Landmark Theater [AUD].txt"
+      "textFile": "2012-05-20 - Syracuse, NY - Landmark Theater (Beatkilla) [AUD].txt"
     },
     {
       "year": 2012,
@@ -7301,7 +7296,7 @@ const ARTIST_DATA = {
       "notes": "Fostec MC10 · duain altepeter",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-05-25 - Chillicothe, IL - Summer Camp Music Festival [AUD 2].txt"
+      "textFile": "2012-05-25 - Chillicothe, IL - Summer Camp Music Festival [AUD 1].txt"
     },
     {
       "year": 2012,
@@ -7343,7 +7338,7 @@ const ARTIST_DATA = {
       "notes": "CSB · ghostwheel productions",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-05-27 - Milwaukee, WI  - Eagles Ballroom [AUD 2].txt"
+      "textFile": "2012-05-27 - Milwaukee, WI  - Eagles Ballroom [AUD 1].txt"
     },
     {
       "year": 2012,
@@ -7371,7 +7366,7 @@ const ARTIST_DATA = {
       "notes": "Gafell M300 · datpat",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-06-02 - Ozark, AR - Wakarusa Music Festival - Mulberry Mountain [AUD].txt"
+      "textFile": "2012-06-02 - Ozark, AR - Wakarusa Music Festival - Mulberry Mountain (AR-M260 Remix) [AUD].txt"
     },
     {
       "year": 2012,
@@ -7385,7 +7380,7 @@ const ARTIST_DATA = {
       "notes": "Gafell M300 · datpat · remix",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-06-02 - Ozark, AR - Wakarusa Music Festival - Mulberry Mountain [AUD].txt"
+      "textFile": "2012-06-02 - Ozark, AR - Wakarusa Music Festival - Mulberry Mountain (R-M260) [AUD].txt"
     },
     {
       "year": 2012,
@@ -7469,7 +7464,7 @@ const ARTIST_DATA = {
       "notes": "AKG 480 · ctdave",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-07-21 - Bridgeport, CT - Gathering Of The Vibes - Seaside Park [AUD 3].txt"
+      "textFile": "2012-07-21 - Bridgeport, CT - Gathering Of The Vibes - Seaside Park [AUD 1].txt"
     },
     {
       "year": 2012,
@@ -7483,7 +7478,7 @@ const ARTIST_DATA = {
       "notes": "Rode NTG1s · bigt",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-07-21 - Bridgeport, CT - Gathering Of The Vibes - Seaside Park [AUD 3].txt"
+      "textFile": "2012-07-21 - Bridgeport, CT - Gathering Of The Vibes - Seaside Park [AUD 2].txt"
     },
     {
       "year": 2012,
@@ -7539,7 +7534,7 @@ const ARTIST_DATA = {
       "notes": "MBHO KA200N (unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-10-20 - Boston, MA - Orpheum Theatre [AUD 3].txt"
+      "textFile": "2012-10-20 - Boston, MA - Orpheum Theatre [AUD 1].txt"
     },
     {
       "year": 2012,
@@ -7553,7 +7548,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps CCM4vs · z-man",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-10-20 - Boston, MA - Orpheum Theatre [AUD 3].txt"
+      "textFile": "2012-10-20 - Boston, MA - Orpheum Theatre [AUD 2].txt"
     },
     {
       "year": 2012,
@@ -7581,7 +7576,7 @@ const ARTIST_DATA = {
       "notes": "MBHO KA200N (unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-10-21 - Providence, RI - Veterans Memorial Auditorium [AUD 2].txt"
+      "textFile": "2012-10-21 - Providence, RI - Veterans Memorial Auditorium [AUD 1].txt"
     },
     {
       "year": 2012,
@@ -9650,7 +9645,7 @@ const ARTIST_DATA = {
       "notes": "CA-11 · leifh",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2017-12-31 - Oakland, CA - Fox Theater (MK4) AUD].txt"
+      "textFile": "2017-12-31 - Oakland, CA - Fox Theater (CA-11)[AUD].txt"
     },
     {
       "year": 2017,
@@ -9762,7 +9757,7 @@ const ARTIST_DATA = {
       "notes": "AT853",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2018-05-29 - Boston, MA - Blue Hills Bank Pavilion (Farve4) [AUD].txt"
+      "textFile": "2018-05-29 - Boston, MA - Blue Hills Bank Pavilion (AT853) [AUD].txt"
     },
     {
       "year": 2018,
@@ -9804,7 +9799,7 @@ const ARTIST_DATA = {
       "notes": "AK40s · iamhammered",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2018-06-03 - Coney Island, New York - Ford Amphitheater (Zoom) [AUD].txt"
+      "textFile": "2018-06-03 - Coney Island, New York - Ford Amphitheater (AK40) [AUD].txt"
     },
     {
       "year": 2018,
@@ -10014,7 +10009,7 @@ const ARTIST_DATA = {
       "notes": "Remaster · exene",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2019-11-20 - Colorado Springs, CO - Broadmoor World Arena (Remaster) [AUD].txt"
+      "textFile": "2019-11-20 - Colorado Springs, CO - Broadmoor World Arena [AUD].txt"
     },
     {
       "year": 2019,
@@ -10195,7 +10190,8 @@ const ARTIST_DATA = {
       "venue": "Beacon Theatre",
       "notes": "Neumann KM140s · chop",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2021-09-28 - New York, NY - Beacon Theatre (Neumann KM140s) (chop) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -10334,7 +10330,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061s · kcmoejoe · remaster",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-04-20 - Kansas City, MO - Grinders KC (DPA 4061s) (kcmoejoe) (remaster) [AUD].txt"
+      "textFile": "2022-04-20 - Kansas City, MO - Grinders KC (DPA 4061s) (kcmoejoe) [AUD].txt"
     },
     {
       "year": 2022,
@@ -10446,7 +10442,7 @@ const ARTIST_DATA = {
       "notes": "CSBs · bouliasoul",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-05-28 - Lafayette, NY - Beak & Skiff Apple Orchards (MBHO KA200N) (unk) [AUD24].txt"
+      "textFile": "2022-05-28 - Lafayette NY - Beak n Skiff Farm (CSBs) (bouliasoul) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -10834,7 +10830,7 @@ const ARTIST_DATA = {
       "notes": "Sennheiser MKE2 · beatkilla",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-08-09 - Buffalo, NY - Terminal B at the Outer Harbor (Sennheiser MKE2) (beatkilla) [AUD24].txt"
+      "textFile": "2024-08-09 - Buffalo, NY - Terminal B at Outer Harbor (Tascam DR-2d) (ghostwheel) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -10848,7 +10844,7 @@ const ARTIST_DATA = {
       "notes": "Tascam DR-2d · ghostwheel",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-08-09 - Buffalo, NY - Terminal B at Outer Harbor (Tascam DR-2d) (ghostwheel) [AUD24].txt"
+      "textFile": "2024-08-09 - Buffalo, NY - Terminal B at the Outer Harbor (Sennheiser MKE2) (beatkilla) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -10890,7 +10886,7 @@ const ARTIST_DATA = {
       "notes": "Tascam DR-07X · chicken on a stick",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2024-08-14 - Washington, DC - The Anthem (DPA 4060) (alex leary) [AUD24].txt"
+      "textFile": "2024-08-14 - Washington DC - The Anthem (Tascam DR-07X) (chicken on a stick) [AUD].txt"
     },
     {
       "year": 2024,
@@ -10932,7 +10928,7 @@ const ARTIST_DATA = {
       "notes": "SP-BMC-12 · royboy",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-08-23 - Dillon, CO - Dillon Amphitheater (SP-BMC-12) (royboy) [AUD24].txt"
+      "textFile": "2024-08-23 - Dillon, CO - Dillon Amphitheater (Sennheiser Ambeo) (grizzly adams) [AUD].txt"
     },
     {
       "year": 2024,
@@ -11044,7 +11040,7 @@ const ARTIST_DATA = {
       "notes": "Tascam DR-2d · ghostwheel",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-07-18 - LaFayette, NY - Beak & Skiff Apple Orchards (Tascam DR-2d) (ghostwheel) [AUD24].txt"
+      "textFile": "2025-07-18 - Lafayette, NY - Beak & Skiff Apple Orchards (Schoeps MK4) (beatkilla) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -11100,7 +11096,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4U · vibriodxire",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-08-07 - Sacramento, CA - Channel 24 (Senn.Ambeo) (grizzly adams) [AUD].txt"
+      "textFile": "2025-08-07 - Sacramento, CA - Channel 24 (SP-CMC-4U) (vibriodxire) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -11142,7 +11138,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4U · vibriodxire",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-08-08 - Sacramento, CA - Channel 24 (Senn.Ambeo) (grizzly adams) [AUD].txt"
+      "textFile": "2025-08-08 - Sacramento, CA - Channel 24 (SP-CMC-4U) (vibriodidxire) [AUD24].txt"
     },
     {
       "year": 2025,

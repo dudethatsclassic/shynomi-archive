@@ -1,0 +1,62 @@
+JIMI HENDRIX EXPERIENCE
+
+"IT'S ONLY A PAPERMOON" (LUNA RECORDS)
+
+Lineage: SILVER > EAC > WAV > FLAC (via dBpower AMP, low compression)
+
+Tracklisting:
+01. LOVER MAN
+02. FIRE
+03. FOXY LADY
+04. RED HOUSE
+05. HEY JOE
+06. SUNSHINE OF YOUR LOVE / HEAR MY TRAIN A COMIN (GETTING MY HEART BACK TOGETHER AGAIN)
+07. CAN YOU PLEASE CRAWL OUT YOUR WINDOW
+08. PURPLE HAZE
+09. ARE YOU EXPERIENCED
+10. I DON'T LIVE TODAY 
+
+Comments:
+TRACKS 1-8: Recorded at the Fillmore East, NYC, May 10 1968.
+ 
+Disc cover says March 10, 1968 but it's May 10. Very Good quality mono recording. 
+Belmo and Loveless' book claim that it's a mono soundboard recording but the bass isn't all
+that audible, making it more characteristic of an audience recording. 
+Some edits between tracks contain audience applause grafted in from elsewhere. 
+(you can tell because the edited-in applause is in stereo, unlike the rest of the show). 
+The performance of Lover Man is interesting, coming as it did several months before the TTG
+studio sessions. At the end of the song: "Please excuse the noise you're hearing, because 
+there's something wrong with the amplifiers. We haven't really had the chance to get them 
+overhauled right here in America". McDermott/Kramer's book speaks of "recurring amplifier 
+problems" during this show (p122). The group plays an instrumental of Sunshine
+Of Your Love for about a half minute and then stop. Hendrix jokes "Now I'd like to do a song 
+by the Monkees...you have to keep everything balanced, right?"
+Then perhaps the first version of Hear My Train A Comin' (excepting the BBC sessions):
+"We'd like to slow it down a little bit..." (plays riffs of Hear My Train A Comin' for a 
+couple of minutes)..."like to do a song we never played before...A thing I just wrote not 
+too long ago, so we'd like to try to do it".Also the performance of Can You Please Crawl Out 
+Your Window is terrific, with an unusual ending. It's also worth noting that this concert is
+not commonly available on many boots; this may be the best source for it. Coupled with 
+plenty of fun between-song bantering between Jimi and the audience, and you have a pretty 
+fun show.
+ 
+Bonus Tracks:
+TRACK 9: Col. Ballroom, Davenport, August 11 1968.
+TRACK 10: San Jose Pop Festival, May 25 1969.
+
+length     expanded size   cdr  WAVE problems filename
+     4:08.60       43888364    ---   --   ---xx   Track01.flac
+     3:19.62       35249468    ---   --   ---xx   Track02.flac
+     5:06.20       54025484    ---   --   ---xx   Track03.flac
+    15:12.65      161029724    ---   --   ---xx   Track04.flac
+     7:05.33       75047660    ---   --   ---xx   Track05.flac
+     9:19.00       98607644    ---   --   ---xx   Track06.flac
+     2:58.15       31434524    ---   --   ---xx   Track07.flac
+     6:10.02       65272748    ---   --   ---xx   Track08.flac
+     8:52.53       93969500    ---   --   ---xx   Track09.flac
+     7:05.50       75087644    ---   --   ---xx   Track10.flac
+    69:18.60      733612760 B                     
+      (totals for 10 files, 0.6179 overall compression ratio)
+
+Enjoy, Share & Preserve Quality !!!
+Brought to You by BP.

@@ -1,0 +1,56 @@
+R.E.M. 
+John Keane's Studios, Athens, Georgia, US
+1986
+
+DISC #1/#1 (53:15)
+----------------
+01) Pop Song 89 
+02) Orange Crush 
+03) Get Up (instrumental) 
+04) I Remember California 
+05) untitled instrumental #1 
+06) Title (instrumental) 
+07) Hairshirt (instrumental) 
+08) untitled instrumental #2
+09) Stand
+10) You Are The Everything
+11) The Wrong Child (instrumental)
+12) untitled instrumental #3
+13) untitled instrumental #4
+14) Get Up
+15) See No Evil
+
+SOURCE (SBD)
+----------------
+soundboard > unknown (STU)
+
+GENERATION
+----------------
+ANA(1) > FLAC [Level 8]
+
+NOTES
+----------------
+* This cassette was found at a show at the Holiday Inn, Hillside, Illinois in the mid-90's.
+* An upgrade from previous bootleg copies.
+
+MD5 FINGERPRINTS
+----------------
+a14743be9c15081d0d565e5a8da8900a *rem01.flac
+2381361303bc2179fc1eb77d87c7f632 *rem02.flac
+9faf293faa776803da43e0f995584597 *rem03.flac
+a72d7d9f6e4de1f4b0dd0f8368292073 *rem04.flac
+872b116b439972c354d4f822cc3fe9eb *rem05.flac
+02610308d8703c6b69b7a221618358fd *rem06.flac
+f45768b0aebee1748458357e1e9a1e0d *rem07.flac
+fad3b533cf4f8b6485d52e64eb133c84 *rem08.flac
+a72cc1d5d5d2eba99bd647d64d85780b *rem09.flac
+ce16d8beeb18e5f2fd19f994e0018327 *rem10.flac
+be73f1fb0ceb715f79aa3f871f480a9a *rem11.flac
+dbf33edf3435364d71768c5044d84ce7 *rem12.flac
+4d980ba5de032164b815b0b9d15a63eb *rem13.flac
+f7940edf6afc317a3c4f52a52e0a4988 *rem14.flac
+7b8a6d8b9d306686e59f8a0b0ee1ec06 *rem15.flac
+
+
+Transferred by unknown.
+Please do not encode to lossy formats and/or sell.

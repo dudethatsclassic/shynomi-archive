@@ -1,0 +1,24 @@
+KURT COBAIN
+Spring 1991-Fall 1992
+
+SETLIST
+-----------------
+01) unknown
+02) Old Age
+
+GENERATION
+-----------------
+ANA(x) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+b456b377efdf1a47f6cebd8ed6eacc90 *cobain_old-age_44t01.flac
+7ac89363af34ad9e99265a8cb9fd6129 *cobain_old-age_44t02.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,24 @@
+foobar2000 1.1.13 / Dynamic Range Meter 1.1.0
+log date: 2012-09-24 18:54:41
+
+--------------------------------------------------------------------------------
+Analyzed: Nirvana / All Apologies. Rape Me (MVCG-13011)
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR10      -0.20 dB   -11.88 dB      3:51 01-All Apologies (Kurt Cobain)
+DR9       -0.20 dB   -10.78 dB      2:50 02-Rape Me (Kurt Cobain)
+DR9       -0.20 dB   -11.70 dB      3:35 03-Moist Vagina (Previously Unreleased) (Kurt Cobain)
+--------------------------------------------------------------------------------
+
+Number of tracks:  3
+Official DR value: DR9
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           887 kbps
+Codec:             FLAC
+================================================================================
+
