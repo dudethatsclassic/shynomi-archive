@@ -286,161 +286,137 @@ const ARTIST_MISC_DATA = [
     "label": "1984 - Demos - Volume 1",
     "year": 1981,
     "format": "REM-40",
-    "category": "DEMOS",
-    "textFile": "MISC - 1981-1984 - Demos - Volume 1 [REM-40].txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "XX-XX - Athens, GA - Life's Rich Pageant & More",
     "year": 1986,
     "format": "Demos",
-    "category": "DEMOS",
-    "textFile": "MISC - 1986-XX-XX - Athens, GA - Life's Rich Pageant & More [Demos].txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "XX-XX - Atlanta, GA - John Keane Studios (Green Demos Upgrade)",
     "year": 1986,
-    "category": "DEMOS",
-    "textFile": "MISC - 1986-XX-XX - Atlanta, GA - John Keane Studios (Green Demos Upgrade).txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "XX-XX - The Complete Green Demos (Upgraded)",
     "year": 1988,
-    "category": "DEMOS",
-    "textFile": "MISC - 1988-XX-XX - The Complete Green Demos (Upgraded).txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "R.E.M. - 1988-1989 - Finest Worksongs Demos (Studio)",
-    "category": "DEMOS",
-    "textFile": "MISC - R.E.M. - 1988-1989 - Finest Worksongs Demos (Studio).txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "R.E.M. - Document Demos 1987",
     "format": "SBD",
-    "category": "DEMOS",
-    "textFile": "MISC - R.E.M. - Document Demos 1987 [SBD].txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "R.E.M. - Elliot Mazer Demos 1983",
     "format": "SBD",
-    "category": "DEMOS",
-    "textFile": "MISC - R.E.M. - Elliot Mazer Demos 1983 [SBD].txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "R.E.M. - Green Demos - 1986 - Atlanta, GA - John Keane Studios",
     "format": "SBD",
-    "category": "DEMOS",
-    "textFile": "MISC - R.E.M. - Green Demos - 1986 - Atlanta, GA - John Keane Studios [SBD].txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "R.E.M. - Rhythmic Studios Demos 1983",
     "format": "SBD",
-    "category": "DEMOS",
-    "textFile": "MISC - R.E.M. - Rhythmic Studios Demos 1983 [SBD].txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "R.E.M. - The Essential Demos Vol. 1",
     "version": "Silver CD",
-    "category": "DEMOS",
-    "textFile": "MISC - R.E.M. - The Essential Demos Vol. 1 [Silver].txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "R.E.M. - Up Demos - 1998-04 - San Francisco, CA - Toast Studio (Remastered)",
     "format": "SBD",
-    "category": "DEMOS",
-    "textFile": "MISC - R.E.M. - Up Demos - 1998-04 - San Francisco, CA - Toast Studio (Remastered) [SBD].txt"
+    "category": "DEMOS"
   },
   {
     "type": "release",
     "label": "R.E.M. - Chronic Murmurings 1981",
     "format": "SBD",
-    "category": "OUTTAKES",
-    "textFile": "MISC - R.E.M. - Chronic Murmurings 1981 [SBD].txt"
+    "category": "OUTTAKES"
   },
   {
     "type": "release",
     "label": "R.E.M. - Chronic Town - Rough Mixes",
     "format": "SBD",
-    "category": "OUTTAKES",
-    "textFile": "MISC - R.E.M. - Chronic Town - Rough Mixes [SBD].txt"
+    "category": "OUTTAKES"
   },
   {
     "type": "release",
     "label": "R.E.M. - Murmur - Studio Outtakes Edited (Mike Ziegler)",
     "format": "SBD",
-    "category": "OUTTAKES",
-    "textFile": "MISC - R.E.M. - Murmur - Studio Outtakes Edited (Mike Ziegler) [SBD].txt"
+    "category": "OUTTAKES"
   },
   {
     "type": "release",
     "label": "R.E.M. - Murmur Studio Outtakes",
-    "category": "OUTTAKES",
-    "textFile": "MISC - R.E.M. - Murmur Studio Outtakes.txt"
+    "category": "OUTTAKES"
   },
   {
     "type": "release",
     "label": "R.E.M. - New York - Bearsville Studios - Time Of Outtakes (Studio)",
-    "category": "OUTTAKES",
-    "textFile": "MISC - R.E.M. - New York - Bearsville Studios - Time Of Outtakes (Studio).txt"
+    "category": "OUTTAKES"
   },
   {
     "type": "release",
     "label": "R.E.M. - Out Of Time - Studio Outtakes Edited (Mike Ziegler)",
     "format": "SBD",
-    "category": "OUTTAKES",
-    "textFile": "MISC - R.E.M. - Out Of Time - Studio Outtakes Edited (Mike Ziegler) [SBD].txt"
+    "category": "OUTTAKES"
   },
   {
     "type": "release",
     "label": "R.E.M. - Outtakes Of Time",
     "format": "SBD",
-    "category": "OUTTAKES",
-    "textFile": "MISC - R.E.M. - Outtakes Of Time [SBD].txt"
+    "category": "OUTTAKES"
   },
   {
     "type": "release",
     "label": "R.E.M. - Time Of Outtakes (Studio)",
-    "category": "OUTTAKES",
-    "textFile": "MISC - R.E.M. - Time Of Outtakes (Studio).txt"
+    "category": "OUTTAKES"
   },
   {
     "type": "release",
     "label": "Cassette Set 1981",
-    "category": "VARIOUS",
-    "textFile": "MISC - Cassette Set 1981.txt"
+    "category": "VARIOUS"
   },
   {
     "type": "release",
     "label": "Monster - Completely live through the years 1995-2008",
-    "category": "VARIOUS",
-    "textFile": "MISC - Monster - Completely live through the years 1995-2008.txt"
+    "category": "VARIOUS"
   },
   {
     "type": "release",
     "label": "Murmur - Completely live through the years 1981-2008",
-    "category": "VARIOUS",
-    "textFile": "MISC - Murmur - Completely live through the years 1981-2008.txt"
+    "category": "VARIOUS"
   },
   {
     "type": "release",
     "label": "Night Time Session 1991-03-13 (sbd)",
-    "category": "VARIOUS",
-    "textFile": "MISC - Night Time Session 1991-03-13 (sbd).txt"
+    "category": "VARIOUS"
   },
   {
     "type": "release",
     "label": "Poets of the Wheat - 1989-04-29 Miami + 1989-04-30 Orlando (pre-fm)",
-    "category": "VARIOUS",
-    "textFile": "MISC - Poets of the Wheat - 1989-04-29 Miami + 1989-04-30 Orlando (pre-fm).txt"
+    "category": "VARIOUS"
   },
   {
     "type": "release",
@@ -451,39 +427,33 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Unreleased Live LP 1984 (sbd)",
-    "category": "VARIOUS",
-    "textFile": "MISC - Unreleased Live LP 1984 (sbd).txt"
+    "category": "VARIOUS"
   },
   {
     "type": "release",
     "label": "1982-XX-XX - Down South",
     "year": 1981,
-    "format": "Vinyl",
-    "textFile": "MISC - 1981-1982-XX-XX - Down South [Vinyl].txt"
+    "format": "Vinyl"
   },
   {
     "type": "release",
     "label": "02-17 - Reflection Studio",
     "year": 1983,
-    "format": "FLAC",
-    "textFile": "MISC - 1983-02-17 - Reflection Studio [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
     "label": "1996 - Fanclub Singles V1",
-    "year": 1988,
-    "textFile": "MISC - 1988-1996 - Fanclub Singles V1.txt"
+    "year": 1988
   },
   {
     "type": "release",
     "label": "2004 - Fanclub Singles v2",
-    "year": 1997,
-    "textFile": "MISC - 1997-2004 - Fanclub Singles v2.txt"
+    "year": 1997
   },
   {
     "type": "release",
-    "label": "R.E.M. - 1980-1981 - Garage Years",
-    "textFile": "MISC - R.E.M. - 1980-1981 - Garage Years.txt"
+    "label": "R.E.M. - 1980-1981 - Garage Years"
   },
   {
     "type": "release",
@@ -492,7 +462,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "R.E.M. - Cassette Set - April 1991 (Studio)",
-    "textFile": "MISC - R.E.M. - Cassette Set - April 1991 (Studio).txt"
+    "label": "R.E.M. - Cassette Set - April 1991 (Studio)"
   }
 ];

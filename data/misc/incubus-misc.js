@@ -58,14 +58,15 @@ const ARTIST_MISC_DATA = [
     "year": 2017,
     "format": "FLAC HD",
     "category": "HD",
-    "textFile": "MISC - Incubus - Incubus HQ Live (Deluxe Edition) (2012) (24bit) [FLAC HD].txt"
+    "textFile": "MISC - Incubus - 8 (2017) (24bit) [FLAC HD].txt"
   },
   {
     "type": "release",
     "label": "Incubus - Our Love (Single) (2020) (24bit)",
     "year": 2020,
     "format": "FLAC HD",
-    "category": "HD"
+    "category": "HD",
+    "textFile": "MISC - Incubus - Incubus HQ Live (Deluxe Edition) (2012) (24bit) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -87,5 +88,12 @@ const ARTIST_MISC_DATA = [
     "label": "Incubus \u2014 iTunes Live from SoHo (2011)",
     "year": 2011,
     "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Incubus - Trust Fall (Side B) (2020) (24bit)",
+    "year": 2020,
+    "format": "FLAC HD",
+    "category": "HD"
   }
 ];

@@ -499,8 +499,7 @@ const ARTIST_MISC_DATA = [
     "label": "XX-XX - Cobain Boombox Demos - Cobain's House, Aberdeen, WA",
     "year": 1988,
     "format": "flac",
-    "category": "Demos",
-    "textFile": "MISC - 1988-XX-XX - Cobain Boombox Demos - Cobain's House, Aberdeen, WA [flac].txt"
+    "category": "Demos"
   },
   {
     "type": "release",
@@ -517,8 +516,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Nirvana - 1987-1989 Barnyard Demos",
-    "category": "Demos",
-    "textFile": "MISC - Nirvana - 1987-1989 Barnyard Demos.txt"
+    "category": "Demos"
   },
   {
     "type": "release",
@@ -528,8 +526,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Nirvana - In Utero Demos & Outtakes",
-    "category": "Demos",
-    "textFile": "MISC - Nirvana - In Utero Demos & Outtakes.txt"
+    "category": "Demos"
   },
   {
     "type": "release",
@@ -624,8 +621,7 @@ const ARTIST_MISC_DATA = [
     "label": "Nirvana - Live At The Paramount (2019) (24:96)",
     "year": 2019,
     "format": "FLAC HD",
-    "category": "Official Releases",
-    "textFile": "MISC - Nirvana - Live At The Paramount (2019) (24_96) [FLAC HD].txt"
+    "category": "Official Releases"
   },
   {
     "type": "release",
@@ -714,15 +710,13 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Nirvana - Complete Sub Pop Singles",
     "version": "Silver CD",
-    "category": "Silvers",
-    "textFile": "MISC - Nirvana - Complete Sub Pop Singles [Silver].txt"
+    "category": "Silvers"
   },
   {
     "type": "release",
     "label": "Nirvana - Donkeyshow",
     "version": "Silver CD",
-    "category": "Silvers",
-    "textFile": "MISC - Nirvana - Donkeyshow [Silver].txt"
+    "category": "Silvers"
   },
   {
     "type": "release",
@@ -787,15 +781,13 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Nirvana - Outcesticide 2022 (Empress Valley)",
     "version": "Silver CD",
-    "category": "Silvers",
-    "textFile": "MISC - Nirvana - Outcesticide 2022 (Empress Valley) [Silver].txt"
+    "category": "Silvers"
   },
   {
     "type": "release",
     "label": "Nirvana - Psychout Induction",
     "version": "Silver CD",
-    "category": "Silvers",
-    "textFile": "MISC - Nirvana - Psychout Induction [Silver].txt"
+    "category": "Silvers"
   },
   {
     "type": "release",
@@ -815,22 +807,19 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Nirvana - The Chosen Rejects",
     "version": "Silver CD",
-    "category": "Silvers",
-    "textFile": "MISC - Nirvana - The Chosen Rejects [Silver].txt"
+    "category": "Silvers"
   },
   {
     "type": "release",
     "label": "Nirvana - The Complete Radio Sessions",
     "version": "Silver CD",
-    "category": "Silvers",
-    "textFile": "MISC - Nirvana - The Complete Radio Sessions [Silver].txt"
+    "category": "Silvers"
   },
   {
     "type": "release",
     "label": "Nirvana - The Eternal Legacy",
     "version": "Silver CD",
-    "category": "Silvers",
-    "textFile": "MISC - Nirvana - The Eternal Legacy [Silver].txt"
+    "category": "Silvers"
   },
   {
     "type": "release",
@@ -843,8 +832,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Nirvana - Unsurpassed Bastards (1986-1993)",
     "version": "Silver CD",
-    "category": "Silvers",
-    "textFile": "MISC - Nirvana - Unsurpassed Bastards (1986-1993) [Silver].txt"
+    "category": "Silvers"
   },
   {
     "type": "release",
@@ -929,20 +917,17 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "XX-XX - Montage Of Heck",
-    "year": 1985,
-    "textFile": "MISC - 1985-XX-XX - Montage Of Heck.txt"
+    "year": 1985
   },
   {
     "type": "release",
     "label": "1990 - Early Nirvana",
-    "year": 1986,
-    "textFile": "MISC - 1986-1990 - Early Nirvana.txt"
+    "year": 1986
   },
   {
     "type": "release",
     "label": "01-24 Radio Shack, Aberdeen, WA (american journal excerpt)",
-    "year": 1988,
-    "textFile": "MISC - 1988-01-24 Radio Shack, Aberdeen, WA (american journal excerpt).txt"
+    "year": 1988
   },
   {
     "type": "release",
@@ -983,8 +968,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "10-XX - Victoria Clarke Tapes",
-    "year": 1992,
-    "textFile": "MISC - 1992-10-XX - Victoria Clarke Tapes.txt"
+    "year": 1992
   },
   {
     "type": "release",
@@ -993,13 +977,11 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Cobain & Crover - 3 Songs from 'Fecal Matter' demo (JWB REMASTER)",
-    "textFile": "MISC - Cobain & Crover - 3 Songs from 'Fecal Matter' demo (JWB REMASTER).txt"
+    "label": "Cobain & Crover - 3 Songs from 'Fecal Matter' demo (JWB REMASTER)"
   },
   {
     "type": "release",
-    "label": "Cobain - Spring 1991 - Fall 1992 Old Age",
-    "textFile": "MISC - Cobain - Spring 1991 - Fall 1992 Old Age.txt"
+    "label": "Cobain - Spring 1991 - Fall 1992 Old Age"
   },
   {
     "type": "release",
@@ -1040,8 +1022,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Nirvana - Hollywood Rock Festival - Rio De Janeiro, Brazil, January 23rd, 1993 {Doxy} (2016)",
     "year": 2016,
-    "format": "FLAC",
-    "textFile": "MISC - Nirvana - Hollywood Rock Festival - Rio De Janeiro, Brazil, January 23rd, 1993 {Doxy} (2016) [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
@@ -1050,8 +1031,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Nirvana - Kurdts Kassette.flac",
-    "textFile": "MISC - Nirvana - Kurdts Kassette.flac.txt"
+    "label": "Nirvana - Kurdts Kassette.flac"
   },
   {
     "type": "release",
@@ -1082,18 +1062,15 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Nirvana - Loose Ends (Bonus).flac",
-    "textFile": "MISC - Nirvana - Loose Ends (Bonus).flac.txt"
+    "label": "Nirvana - Loose Ends (Bonus).flac"
   },
   {
     "type": "release",
-    "label": "Nirvana - Loose Ends.flac",
-    "textFile": "MISC - Nirvana - Loose Ends.flac.txt"
+    "label": "Nirvana - Loose Ends.flac"
   },
   {
     "type": "release",
-    "label": "Nirvana - Los Angeles, CA - Sound City Studios - Nevermind Rough Mix",
-    "textFile": "MISC - Nirvana - Los Angeles, CA - Sound City Studios - Nevermind Rough Mix.txt"
+    "label": "Nirvana - Los Angeles, CA - Sound City Studios - Nevermind Rough Mix"
   },
   {
     "type": "release",
@@ -1102,35 +1079,29 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Nirvana - MTV Video Music Awards 1993 + Pre & After Show",
-    "format": "DVD",
-    "textFile": "MISC - Nirvana - MTV Video Music Awards 1993 + Pre & After Show [DVD].txt"
+    "format": "DVD"
   },
   {
     "type": "release",
-    "label": "Nirvana - Nevermind - Rough Mix - Speed Corrected",
-    "textFile": "MISC - Nirvana - Nevermind - Rough Mix - Speed Corrected.txt"
+    "label": "Nirvana - Nevermind - Rough Mix - Speed Corrected"
   },
   {
     "type": "release",
-    "label": "Nirvana - Nevermind Sessions",
-    "textFile": "MISC - Nirvana - Nevermind Sessions.txt"
+    "label": "Nirvana - Nevermind Sessions"
   },
   {
     "type": "release",
-    "label": "Nirvana - Outcesticide 2022",
-    "textFile": "MISC - Nirvana - Outcesticide 2022.txt"
+    "label": "Nirvana - Outcesticide 2022"
   },
   {
     "type": "release",
-    "label": "Nirvana - Pay to Play",
-    "textFile": "MISC - Nirvana - Pay to Play.txt"
+    "label": "Nirvana - Pay to Play"
   },
   {
     "type": "release",
     "label": "Nirvana - Saturday Night Not-So Live (2015)",
     "year": 2015,
-    "format": "24bit Vinyl Rip",
-    "textFile": "MISC - Nirvana - Saturday Night Not-So Live (2015) [24bit Vinyl Rip].txt"
+    "format": "24bit Vinyl Rip"
   },
   {
     "type": "release",
@@ -1140,13 +1111,11 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Nirvana - Sliver Alternate Mix.flac",
-    "textFile": "MISC - Nirvana - Sliver Alternate Mix.flac.txt"
+    "label": "Nirvana - Sliver Alternate Mix.flac"
   },
   {
     "type": "release",
-    "label": "Nirvana - Sliver single phone conversation.flac",
-    "textFile": "MISC - Nirvana - Sliver single phone conversation.flac.txt"
+    "label": "Nirvana - Sliver single phone conversation.flac"
   },
   {
     "type": "release",
@@ -1155,8 +1124,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Nirvana - The First & Last Live Performances Of Incesticide",
-    "textFile": "MISC - Nirvana - The First & Last Live Performances Of Incesticide.txt"
+    "label": "Nirvana - The First & Last Live Performances Of Incesticide"
   },
   {
     "type": "release",
@@ -1170,7 +1138,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Total Fucking Godhead 7''",
-    "textFile": "MISC - Total Fucking Godhead 7''.txt"
+    "label": "Total Fucking Godhead 7''"
   }
 ];

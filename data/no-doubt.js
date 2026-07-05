@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "Solnahallen",
       "notes": "swetv1",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1997-03-20 - Stockholm, Sweden - Solnahallen (swetv1) [DVD].txt"
     },
     {
       "year": 1997,
@@ -46,9 +47,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Sphere",
-      "notes": "DPA 4061 · opsopcopolis",
+      "notes": "DPA 4061 \u00b7 opsopcopolis",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-06-12 - Las Vegas, NV - Sphere (DPA 4061) (opsopcopolis) [AUD24].txt"
     }
   ]
 };

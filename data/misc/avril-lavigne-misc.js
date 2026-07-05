@@ -74,5 +74,11 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2014,
     "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Avril Lavigne - Do The Best",
+    "version": "Silver CD",
+    "textFile": "MISC - Avril Lavigne - Do The Best [Silver].txt"
   }
 ];

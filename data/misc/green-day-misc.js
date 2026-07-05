@@ -67,8 +67,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Green Day - Foot in Mouth",
-    "textFile": "MISC - Green Day - Foot in Mouth.txt"
+    "label": "Green Day - Foot in Mouth"
   },
   {
     "type": "release",
@@ -95,8 +94,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Green Day - Three Songs Demo (1992)",
-    "year": 1992,
-    "textFile": "MISC - Green Day - Three Songs Demo (1992).txt"
+    "year": 1992
   },
   {
     "type": "release",
@@ -108,7 +106,6 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Green Day - Woodstock 1994 (2019)",
     "year": 2019,
-    "format": "Vinyl Rip",
-    "textFile": "MISC - Green Day - Woodstock 1994 (2019) [Vinyl Rip].txt"
+    "format": "Vinyl Rip"
   }
 ];

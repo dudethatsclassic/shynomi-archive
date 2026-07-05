@@ -301,8 +301,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Oasis - 2025-08-03 - Live Wembley Stadium - Wembley Nights Forever {Bennyboy Matrix Remaster EVSD}",
     "format": "FLAC",
-    "category": "2025 TOUR ARCHIVE",
-    "textFile": "MISC - Oasis - 2025-08-03 - Live Wembley Stadium - Wembley Nights Forever {Bennyboy Matrix Remaster EVSD} [FLAC].txt"
+    "category": "2025 TOUR ARCHIVE"
   },
   {
     "type": "release",
@@ -326,8 +325,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Oasis - 2025-08-17 - Live Dublin - Croke Park {Sabrewulf}",
     "format": "FLAC",
-    "category": "2025 TOUR ARCHIVE",
-    "textFile": "MISC - Oasis - 2025-08-17 - Live Dublin - Croke Park {Sabrewulf} [FLAC].txt"
+    "category": "2025 TOUR ARCHIVE"
   },
   {
     "type": "release",
@@ -350,8 +348,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "First Demo Tape",
-    "year": 1992,
-    "textFile": "MISC - 1992 - First Demo Tape.txt"
+    "year": 1992
   },
   {
     "type": "release",
@@ -362,32 +359,27 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "07-XX - Live Forever (Demo) (Creation for the Nation) Promo",
     "year": 1993,
-    "version": "Silver CD",
-    "textFile": "MISC - 1993-07-XX - Live Forever (Demo) (Creation for the Nation) Promo [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",
     "label": "XX-XX - Definitely Maybe Demos (MickDude)",
-    "year": 1993,
-    "textFile": "MISC - 1993-XX-XX - Definitely Maybe Demos (MickDude).txt"
+    "year": 1993
   },
   {
     "type": "release",
     "label": "XX-XX - Liverpool, England - Real People Studios (Demos)",
-    "year": 1993,
-    "textFile": "MISC - 1993-XX-XX - Liverpool, England - Real People Studios (Demos).txt"
+    "year": 1993
   },
   {
     "type": "release",
     "label": "XX-XX - Whatever Demos (MickDude Remaster)",
-    "year": 1993,
-    "textFile": "MISC - 1993-XX-XX - Whatever Demos (MickDude Remaster).txt"
+    "year": 1993
   },
   {
     "type": "release",
     "label": "XX-XX - Whatever Demos.flac",
-    "year": 1993,
-    "textFile": "MISC - 1993-XX-XX - Whatever Demos.flac.txt"
+    "year": 1993
   },
   {
     "type": "release",
@@ -405,13 +397,11 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Noel Gallagher 1989 - Pre Oasis",
-    "textFile": "MISC - Noel Gallagher 1989 - Pre Oasis.txt"
+    "label": "Noel Gallagher 1989 - Pre Oasis"
   },
   {
     "type": "release",
-    "label": "Oasis - Big Brother",
-    "textFile": "MISC - Oasis - Big Brother.txt"
+    "label": "Oasis - Big Brother"
   },
   {
     "type": "release",
@@ -421,25 +411,21 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Oasis - Step Into 1996",
-    "version": "Silver CD",
-    "textFile": "MISC - Oasis - Step Into 1996 [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",
     "label": "Oasis - The Lost Tapes - KTS Records",
-    "format": "SBD",
-    "textFile": "MISC - Oasis - The Lost Tapes - KTS Records [SBD].txt"
+    "format": "SBD"
   },
   {
     "type": "release",
     "label": "Oasis at the BBC HD - BBC Two",
-    "format": "TS",
-    "textFile": "MISC - Oasis at the BBC HD - BBC Two [TS].txt"
+    "format": "TS"
   },
   {
     "type": "release",
     "label": "Working Class Hero",
-    "version": "Silver CD",
-    "textFile": "MISC - Working Class Hero [Silver].txt"
+    "version": "Silver CD"
   }
 ];

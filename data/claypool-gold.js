@@ -159,9 +159,10 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "North Charleston, SC",
       "venue": "Firefly Distillery",
-      "notes": "CA-14 Cardioids · majintrunkz",
+      "notes": "CA-14 Cardioids \u00b7 majintrunkz",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-06-17 - North Charleston, SC - Firefly Distillery (CA-14 Cardioids) (majintrunkz) [AUD24].txt"
     }
   ]
 };

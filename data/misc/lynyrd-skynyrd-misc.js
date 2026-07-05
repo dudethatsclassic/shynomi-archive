@@ -38,7 +38,6 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Lynyrd Skynyrd - Double Trouble",
-    "version": "Silver CD",
-    "textFile": "MISC - Lynyrd Skynyrd - Double Trouble [Silver].txt"
+    "version": "Silver CD"
   }
 ];

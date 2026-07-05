@@ -33,7 +33,8 @@ const ARTIST_MISC_DATA = [
     "label": "Primus - Madhouse (KTS219) - Holland 93",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Primus - Madhouse (1995) (KTS219) [Silver].txt"
   },
   {
     "type": "release",
@@ -41,7 +42,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Primus - Does Primus Really Fry (1992) (TWR 04) [Silver].txt"
   },
   {
     "type": "release",
@@ -78,7 +80,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1994,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Primus - Freak Out (1994) (HAWK041) [Silver].txt"
   },
   {
     "type": "release",
@@ -86,7 +89,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1994,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Primus - You Can't Party Without Me! (1994) (HR 5915-8) [Silver].txt"
   },
   {
     "type": "release",
@@ -138,7 +142,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Primus - Frizzle Fry (1990) [2002, RMed ∕ Bonus Track, PSR-0004-2]",
+    "label": "Primus - Frizzle Fry (1990) [2002, RMed \u2215 Bonus Track, PSR-0004-2]",
     "format": "FLAC",
     "year": 1990,
     "category": "OFFICIAL RELEASES"
@@ -288,5 +292,79 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC HD",
     "year": 2017,
     "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - Sausage Demos",
+    "year": 1988,
+    "textFile": "MISC - 1988-XX-XX - Sausage Demos.txt"
+  },
+  {
+    "type": "release",
+    "label": "11-XX - Rome, Italy - 91 Tour",
+    "year": 1990,
+    "version": "Silver CD",
+    "textFile": "MISC - 1990-11-XX - Rome, Italy - 91 Tour [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "11-XX - Rome, Italy - Master Of Puppies",
+    "year": 1990,
+    "version": "Silver CD",
+    "textFile": "MISC - 1990-11-XX - Rome, Italy - Master Of Puppies [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Primus - First In Line (Live!) (1994) (EXX-52522)",
+    "year": 1994,
+    "version": "Silver CD",
+    "textFile": "MISC - Primus - First In Line (Live!) (1994) (EXX-52522) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Primus - Kiss My Dead Bloated Ass",
+    "format": "Vinyl"
+  },
+  {
+    "type": "release",
+    "label": "Primus - Love & Money",
+    "version": "Silver CD"
+  },
+  {
+    "type": "release",
+    "label": "Primus - Masters Of Puppies (1990 Tour) (1992) (LM02)",
+    "year": 1992,
+    "version": "Silver CD",
+    "textFile": "MISC - Primus - Masters Of Puppies (1990 Tour) (1992) (LM02) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Primus - Paradiso Amsterdam 1990 (1994) (HJ 009-10)",
+    "year": 1994,
+    "version": "Silver CD",
+    "textFile": "MISC - Primus - Paradiso Amsterdam 1990 (1994) (HJ 009-10) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Primus - Primus Sucks Demo Tape (1986) 24-96",
+    "year": 1986,
+    "format": "FLAC HD",
+    "textFile": "MISC - Primus - Primus Sucks Demo Tape (1986) 24-96 [FLAC HD].txt"
+  },
+  {
+    "type": "release",
+    "label": "Primus - Rarities Compilation",
+    "textFile": "MISC - Primus - Rarities Compilation.txt"
+  },
+  {
+    "type": "release",
+    "label": "Primus - Videoplasty (VHS Rip)",
+    "format": "WMV",
+    "textFile": "MISC - Primus - Videoplasty (VHS Rip) [WMV].txt"
+  },
+  {
+    "type": "release",
+    "label": "Primus - Welcome To This World (Demo)",
+    "format": "MP3-LOSSY"
   }
 ];

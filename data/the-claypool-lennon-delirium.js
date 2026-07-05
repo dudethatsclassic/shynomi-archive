@@ -243,9 +243,10 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Covington, KY",
       "venue": "Madison Theater",
-      "notes": "DPA 4011s · unk",
+      "notes": "DPA 4011s \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-04-30 - Covington, KY - Madison Theater (DPA 4011s) (unk) [AUD].txt"
     },
     {
       "year": 2019,

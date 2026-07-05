@@ -59,9 +59,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Empty Bottle",
-      "notes": "Realistic PZM Mics · aadamjacobs",
+      "notes": "Realistic PZM Mics \u00b7 aadamjacobs",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-03-15 - Chicago, IL - Empty Bottle (Realistic PZM Mics) (aadamjacobs) [AUD].txt"
     },
     {
       "year": 2002,
@@ -296,9 +297,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "unk · aadamjacobs",
+      "notes": "unk \u00b7 aadamjacobs",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-10-14 - Chicago, IL - Metro (unk) (aadamjacobs) [AUD].txt"
     },
     {
       "year": 2007,
@@ -396,7 +398,7 @@ const ARTIST_DATA = {
       "notes": "AKG Perception 170's \u00b7 john f",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-10-12 - Chicago, IL - The Bottom Lounge (AKG Perception 170's) (john f) [AUD].aud.txt"
+      "textFile": "2008-10-12 - Chicago, IL - Bottom Lounge (DAT) (aadamjacobs) [AUD].txt"
     },
     {
       "year": 2008,
@@ -407,9 +409,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Bottom Lounge",
-      "notes": "DAT · aadamjacobs",
+      "notes": "DAT \u00b7 aadamjacobs",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-10-12 - Chicago, IL - The Bottom Lounge (AKG Perception 170's) (john f) [AUD].aud.txt"
     },
     {
       "year": 2010,

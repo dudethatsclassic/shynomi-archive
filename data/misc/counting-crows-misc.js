@@ -406,24 +406,20 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "2000 - 8 European Broadcasts",
-    "year": 1994,
-    "textFile": "MISC - 1994-2000 - 8 European Broadcasts.txt"
+    "year": 1994
   },
   {
     "type": "release",
-    "label": "By the Time We Got to Woodstock",
-    "textFile": "MISC - By the Time We Got to Woodstock.txt"
+    "label": "By the Time We Got to Woodstock"
   },
   {
     "type": "release",
     "label": "Counting Crows - August Demos 1992",
-    "format": "FLAC",
-    "textFile": "MISC - Counting Crows - August Demos 1992 [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
-    "label": "Counting Crows - Demos 1992",
-    "textFile": "MISC - Counting Crows - Demos 1992.txt"
+    "label": "Counting Crows - Demos 1992"
   },
   {
     "type": "release",
@@ -433,37 +429,31 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Counting Crows - Live Collection Vol. 13 (foggonthetyne production)",
-    "format": "DVD",
-    "textFile": "MISC - Counting Crows - Live Collection Vol. 13 (foggonthetyne production) [DVD].txt"
+    "format": "DVD"
   },
   {
     "type": "release",
     "label": "Distances Between Yesterday And Now",
-    "format": "FLAC",
-    "textFile": "MISC - Distances Between Yesterday And Now [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
     "label": "Fantasy Flight 1 & 2",
-    "format": "FLAC",
-    "textFile": "MISC - Fantasy Flight 1 & 2 [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
     "label": "Fantasy Flight 3 & 4",
-    "format": "FLAC",
-    "textFile": "MISC - Fantasy Flight 3 & 4 [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
-    "label": "Flying Demos 1991",
-    "textFile": "MISC - Flying Demos 1991.txt"
+    "label": "Flying Demos 1991"
   },
   {
     "type": "release",
     "label": "Four for Boys - Live HC Compilation",
-    "format": "FLAC",
-    "textFile": "MISC - Four for Boys - Live HC Compilation [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
@@ -474,15 +464,13 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Gimme the Thunder, Gimme the Rain",
-    "format": "FLAC",
-    "textFile": "MISC - Gimme the Thunder, Gimme the Rain [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
     "label": "Here Comes the Rain King (1998)",
     "year": 1998,
-    "format": "FLAC",
-    "textFile": "MISC - Here Comes the Rain King (1998) [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
@@ -493,39 +481,33 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Live European Summer Tour - 2000 Commemorative Sampler",
-    "format": "FLAC",
-    "textFile": "MISC - Live European Summer Tour - 2000 Commemorative Sampler [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
     "label": "Live Forever",
-    "format": "FLAC",
-    "textFile": "MISC - Live Forever [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
     "label": "Matt Malley Intro",
-    "format": "FLAC",
-    "textFile": "MISC - Matt Malley Intro [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
     "label": "May and Nothing Before (1994)",
     "year": 1994,
-    "format": "M4A",
-    "textFile": "MISC - May and Nothing Before (1994) [M4A].txt"
+    "format": "M4A"
   },
   {
     "type": "release",
-    "label": "Official Bootleg (These Desert Lives)",
-    "textFile": "MISC - Official Bootleg (These Desert Lives).txt"
+    "label": "Official Bootleg (These Desert Lives)"
   },
   {
     "type": "release",
     "label": "Other Perfect Things (2001) Compilation",
     "year": 2001,
-    "format": "FLAC",
-    "textFile": "MISC - Other Perfect Things (2001) Compilation [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
@@ -534,8 +516,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Rarities (The Rare & Unreleased Compilation)",
-    "textFile": "MISC - Rarities (The Rare & Unreleased Compilation).txt"
+    "label": "Rarities (The Rare & Unreleased Compilation)"
   },
   {
     "type": "release",
@@ -545,8 +526,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Round Here Collection",
-    "format": "FLAC",
-    "textFile": "MISC - Round Here Collection [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
@@ -562,18 +542,15 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The A Murder Of One Collection-Classics",
-    "format": "FLAC",
-    "textFile": "MISC - The A Murder Of One Collection-Classics [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
     "label": "The Goodnight Elisabeth Collection-Classics",
-    "format": "FLAC",
-    "textFile": "MISC - The Goodnight Elisabeth Collection-Classics [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
-    "label": "Two for Joy - Live Compilation",
-    "textFile": "MISC - Two for Joy - Live Compilation.txt"
+    "label": "Two for Joy - Live Compilation"
   }
 ];

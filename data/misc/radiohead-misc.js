@@ -1173,21 +1173,18 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "1995 - Black Sessions",
     "year": 1993,
-    "version": "Silver CD",
-    "textFile": "MISC - 1993-1995 - Black Sessions [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",
     "label": "2001 - NPA Live (Wild Child Records)",
     "year": 1993,
-    "version": "Silver CD",
-    "textFile": "MISC - 1993-2001 - NPA Live (Wild Child Records) [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",
     "label": "Slower Demo",
-    "year": 1994,
-    "textFile": "MISC - 1994 - Slower Demo.txt"
+    "year": 1994
   },
   {
     "type": "release",
@@ -1198,28 +1195,24 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "1996 - Radiotick Demos",
-    "year": 1994,
-    "textFile": "MISC - 1994-1996 - Radiotick Demos.txt"
+    "year": 1994
   },
   {
     "type": "release",
     "label": "1996-XX-XX - Kill Me Sarah",
     "year": 1994,
-    "format": "DVD",
-    "textFile": "MISC - 1994-1996-XX-XX - Kill Me Sarah [DVD].txt"
+    "format": "DVD"
   },
   {
     "type": "release",
     "label": "2001 - Old Dutch Stuff (Fixed)",
     "year": 1995,
-    "format": "DVD",
-    "textFile": "MISC - 1995-2001 - Old Dutch Stuff (Fixed) [DVD].txt"
+    "format": "DVD"
   },
   {
     "type": "release",
     "label": "07+08-XX - Iberian Tour Compilation",
-    "year": 2002,
-    "textFile": "MISC - 2002-07+08-XX - Iberian Tour Compilation.txt"
+    "year": 2002
   },
   {
     "type": "release",
@@ -1229,8 +1222,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "04-21 - The Radiohead Story on BBC World Service",
-    "year": 2003,
-    "textFile": "MISC - 2003-04-21 - The Radiohead Story on BBC World Service.txt"
+    "year": 2003
   },
   {
     "type": "release",
@@ -1240,8 +1232,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "11-07 - Andi Watson Daydreaming Of Radiohead Stream Cap",
-    "year": 2018,
-    "textFile": "MISC - 2018-11-07 - Andi Watson Daydreaming Of Radiohead Stream Cap.txt"
+    "year": 2018
   },
   {
     "type": "release",
@@ -1253,8 +1244,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Radiohead - After The Head Rush EP (Neil Young Covers)",
-    "textFile": "MISC - Radiohead - After The Head Rush EP (Neil Young Covers).txt"
+    "label": "Radiohead - After The Head Rush EP (Neil Young Covers)"
   },
   {
     "type": "release",
@@ -1282,18 +1272,15 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Radiohead - Never Run Away (The Pablo Honey Tour) (choc-eclaire - fuzzbluerain)",
-    "format": "COMPILATION",
-    "textFile": "MISC - Radiohead - Never Run Away (The Pablo Honey Tour) (choc-eclaire - fuzzbluerain) [COMPILATION].txt"
+    "format": "COMPILATION"
   },
   {
     "type": "release",
-    "label": "Radiohead - Secrets To Be Told - A Collection (1990-2012)",
-    "textFile": "MISC - Radiohead - Secrets To Be Told - A Collection (1990-2012).txt"
+    "label": "Radiohead - Secrets To Be Told - A Collection (1990-2012)"
   },
   {
     "type": "release",
-    "label": "Radiohead - Slipped Away (the Kid A Tour) (choc_eclaire)",
-    "textFile": "MISC - Radiohead - Slipped Away (the Kid A Tour) (choc_eclaire).txt"
+    "label": "Radiohead - Slipped Away (the Kid A Tour) (choc_eclaire)"
   },
   {
     "type": "release",
@@ -1302,7 +1289,6 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Radiohead - The Golden Unplugged Abum",
-    "version": "Silver CD",
-    "textFile": "MISC - Radiohead - The Golden Unplugged Abum [Silver].txt"
+    "version": "Silver CD"
   }
 ];

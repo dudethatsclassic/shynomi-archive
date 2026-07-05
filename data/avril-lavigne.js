@@ -30,7 +30,8 @@ const ARTIST_DATA = {
       "venue": "Irving Plaza",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-07-31 - New York, NY - Irving Plaza [AUD].txt"
     },
     {
       "year": 2002,
@@ -41,9 +42,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Akasaka Blitz",
-      "notes": "Sony-ECM727p · unk",
+      "notes": "Sony-ECM727p \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-08-08 - Tokyo, Japan - Akasaka Blitz (Sony-ECM727p) (unk) [AUD].txt"
     },
     {
       "year": 2002,
@@ -56,7 +58,8 @@ const ARTIST_DATA = {
       "venue": "The Yeti's Nest",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-08-17 - Scottsdale, AZ - The Yeti's Nest (unk) [AUD].txt"
     },
     {
       "year": 2002,
@@ -67,9 +70,10 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Trenton, NJ",
       "venue": "Sovereign Bank Arena",
-      "notes": "CMC-8 · unk",
+      "notes": "CMC-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-10-02 - Trenton, NJ - Sovereign Bank Arena (CMC-8) (unk) [AUD].txt"
     },
     {
       "year": 2003,
@@ -96,7 +100,8 @@ const ARTIST_DATA = {
       "venue": "Palladium",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-03-10 - Cologne, Germany - Palladium [AUD].txt"
     },
     {
       "year": 2003,
@@ -109,7 +114,8 @@ const ARTIST_DATA = {
       "venue": "Ancienne Belgique",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-04-08 - Brussels, Belgium - Ancienne Belgique (unk) [AUD].txt"
     },
     {
       "year": 2003,
@@ -162,9 +168,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Stadtpark",
-      "notes": "Sharp MD Player · unk",
+      "notes": "Sharp MD Player \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-06-16 - Hamburg, Germany - Stadtpark (Sharp MD Player) (unk) [AUD].txt"
     },
     {
       "year": 2005,
@@ -189,9 +196,10 @@ const ARTIST_DATA = {
       "state": "NS",
       "location": "Halifax, NS",
       "venue": "Metro Centre",
-      "notes": "SP-CMC-1 · smooke",
+      "notes": "SP-CMC-1 \u00b7 smooke",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-08-31 - Halifax, NS - Metro Centre (SP-CMC-1) (smooke) [AUD].txt"
     },
     {
       "year": 2007,
@@ -202,9 +210,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Stadtpark",
-      "notes": "Sharp MT-180 · unk",
+      "notes": "Sharp MT-180 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-12 - Hamburg, Germany - Stadtpark (Sharp MT-180) (unk) [AUD].txt"
     },
     {
       "year": 2007,
@@ -253,13 +262,14 @@ const ARTIST_DATA = {
       "month": 6,
       "day": 18,
       "dateStr": "6-18-2008",
-      "city": "Düsseldorf",
+      "city": "D\u00fcsseldorf",
       "state": "Germany",
-      "location": "Düsseldorf, Germany",
+      "location": "D\u00fcsseldorf, Germany",
       "venue": "Phillipshalle",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-06-18 - Du\u0308sseldorf, Germany - Phillipshalle unk [AUD].txt"
     },
     {
       "year": 2008,
@@ -270,9 +280,10 @@ const ARTIST_DATA = {
       "state": "Hungary",
       "location": "Budapest, Hungary",
       "venue": "Petofi Csarnok",
-      "notes": "CA-11 · tomazahlin",
+      "notes": "CA-11 \u00b7 tomazahlin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-07-07 - Budapest, Hungary - Petofi Csarnok (CA-11) (tomazahlin) [AUD].txt"
     },
     {
       "year": 2008,
@@ -283,9 +294,10 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Leoben, Austria",
       "venue": "Hauptplatz",
-      "notes": "CA-11 · tomazahlin",
+      "notes": "CA-11 \u00b7 tomazahlin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-07-09 - Leoben, Austria - Hauptplatz (CA-11) (tomazahlin) [AUD].txt"
     },
     {
       "year": 2008,
@@ -298,7 +310,8 @@ const ARTIST_DATA = {
       "venue": "Intex Osaka",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-09-20 - Osaka, Japan - Intex Osaka (unk) [AUD].txt"
     },
     {
       "year": 2008,
@@ -311,7 +324,8 @@ const ARTIST_DATA = {
       "venue": "Intex Osaka",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-09-21 - Osaka, Japan - Intex Osaka (unk) [AUD].txt"
     },
     {
       "year": 2008,
@@ -324,7 +338,8 @@ const ARTIST_DATA = {
       "venue": "Sun Plaza Hall",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-09-24 - Hiroshima, Japan - Sun Plaza Hall (unk) [AUD].txt"
     },
     {
       "year": 2011,
@@ -335,9 +350,10 @@ const ARTIST_DATA = {
       "state": "SK",
       "location": "Regina, SK",
       "venue": "Brandt Centre",
-      "notes": "Edirol R-09 · kim",
+      "notes": "Edirol R-09 \u00b7 kim",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-10-13 - Regina, SK - Brandt Centre (Edirol R-09) (kim) [AUD].txt"
     },
     {
       "year": 2011,
@@ -364,7 +380,8 @@ const ARTIST_DATA = {
       "venue": "Castle Hall",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-02-09 - Osaka, Japan - Castle Hall (unk) [AUD].txt"
     },
     {
       "year": 2013,
@@ -433,7 +450,8 @@ const ARTIST_DATA = {
       "venue": "Intex Osaka",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-02-08 - Osaka, Japan - Intex Osaka unk [AUD].txt"
     },
     {
       "year": 2022,
