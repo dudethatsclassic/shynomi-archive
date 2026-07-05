@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "claypool-gold",
   "name": "Claypool Gold",
   "drive": "F",
-  "showCount": 10,
+  "showCount": 11,
   "firstYear": 2024,
   "lastYear": 2026,
   "years": [
@@ -149,7 +149,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-06-13 - Asbury Park, NJ - Stone Pony Summerstage (MBHO KA200N) (unk) [AUD24].txt"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 17,
+      "dateStr": "6-17-2026",
+      "city": "North Charleston",
+      "state": "SC",
+      "location": "North Charleston, SC",
+      "venue": "Firefly Distillery",
+      "notes": "CA-14 Cardioids · majintrunkz",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
-  ],
-  "misc": []
+  ]
 };
