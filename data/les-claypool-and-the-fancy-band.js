@@ -66,6 +66,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2007-06-03 - Philadelphia, PA - The Electric Factory (CSB) (ghostwheel) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
