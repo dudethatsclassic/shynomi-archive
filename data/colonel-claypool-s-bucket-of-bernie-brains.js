@@ -293,6 +293,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2004-11-06 - Portland, OR - Roseland Theater - DAT(M) (Nakamichi CM-300s) (chris mcgrath) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
