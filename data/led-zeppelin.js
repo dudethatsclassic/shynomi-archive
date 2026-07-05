@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "led-zeppelin",
   "name": "Led Zeppelin",
   "drive": "D",
-  "showCount": 12,
+  "showCount": 13,
   "firstYear": 1969,
   "lastYear": 1980,
   "years": [
@@ -56,6 +56,19 @@ const ARTIST_DATA = {
       "version": "",
       "format": "",
       "textFile": "1970-04-09 - Tampa, FL - Curtis Hixon Hall - ANA(1) (krw_co) [AUD24].txt"
+    },
+    {
+      "year": 1971,
+      "month": 3,
+      "day": 6,
+      "dateStr": "3-6-1971",
+      "city": "Dublin",
+      "state": "Ireland",
+      "location": "Dublin, Ireland",
+      "venue": "National Boxing Stadium",
+      "notes": "unk · krw_co transfer",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1971,
