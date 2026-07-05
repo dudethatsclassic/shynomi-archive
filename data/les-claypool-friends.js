@@ -38,6 +38,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2025-11-22 - Sebastopol, CA - Hopmonk (Sennheiser + Pixel) (leifh) [MIX24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
