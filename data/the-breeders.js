@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "the-breeders",
   "name": "The Breeders",
   "drive": "D",
-  "showCount": 53,
+  "showCount": 54,
   "firstYear": 1990,
-  "lastYear": 2024,
+  "lastYear": 2026,
   "years": [
     1990,
     1992,
@@ -19,7 +19,8 @@ const ARTIST_DATA = {
     2010,
     2013,
     2023,
-    2024
+    2024,
+    2026
   ],
   "shows": [
     {
@@ -760,6 +761,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-08-13 - Inglewood, CA - Kia Forum (SP-CMC-4U) (ijwthstd) [AUD].txt"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 24,
+      "dateStr": "6-24-2026",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Rooftop at Pier 17",
+      "notes": "AT-853 · neild",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
   ]
 };
