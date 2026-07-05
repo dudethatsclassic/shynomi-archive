@@ -151,6 +151,5 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "textFile": "2025-11-02 - Kakegawa, Japan - Tsumagoi Resort at Event Hall (CA-11) (leifh) [AUD24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
