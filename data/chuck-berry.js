@@ -2,11 +2,12 @@ const ARTIST_DATA = {
   "id": "chuck-berry",
   "name": "Chuck Berry",
   "drive": "D",
-  "showCount": 1,
+  "showCount": 2,
   "firstYear": 1982,
-  "lastYear": 1982,
+  "lastYear": 1989,
   "years": [
-    1982
+    1982,
+    1989
   ],
   "shows": [
     {
@@ -22,6 +23,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1982-09-16 - Albuquerque, NM - State Fairgrounds (Aiwa HS-J1) (langdon) [AUD].txt"
+    },
+    {
+      "year": 1989,
+      "month": 5,
+      "day": 6,
+      "dateStr": "5-6-1989",
+      "city": "New York City",
+      "state": "NY",
+      "location": "New York City, NY",
+      "venue": "Ritz",
+      "notes": "Shure · twous",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
