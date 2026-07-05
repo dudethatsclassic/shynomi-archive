@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "the-claypool-lennon-delirium",
   "name": "The Claypool Lennon Delirium",
   "drive": "F",
-  "showCount": 23,
+  "showCount": 24,
   "firstYear": 2016,
   "lastYear": 2019,
   "years": [
@@ -236,6 +236,19 @@ const ARTIST_DATA = {
     },
     {
       "year": 2019,
+      "month": 4,
+      "day": 30,
+      "dateStr": "4-30-2019",
+      "city": "Covington",
+      "state": "KY",
+      "location": "Covington, KY",
+      "venue": "Madison Theater",
+      "notes": "DPA 4011s · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2019,
       "month": 6,
       "day": 25,
       "dateStr": "6-25-2019",
@@ -332,6 +345,5 @@ const ARTIST_DATA = {
       "format": "",
       "textFile": "2019-08-14 - Kansas City, MO - Madrid Theater [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
