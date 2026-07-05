@@ -488,6 +488,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2023-10-21 - Wallingford, CT - Oakdale Theatre (AT853s) (e) [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
