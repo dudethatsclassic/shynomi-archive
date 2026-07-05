@@ -23,6 +23,5 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "textFile": "2009-06-08 - Houston TX - House of Blues [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
