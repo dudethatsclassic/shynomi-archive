@@ -485,7 +485,7 @@ const ARTISTS = [
   {
     "id": "claypool-gold",
     "name": "Claypool Gold",
-    "showCount": 10,
+    "showCount": 11,
     "firstYear": 2024,
     "lastYear": 2026
   },
@@ -2781,7 +2781,7 @@ const ARTISTS = [
   {
     "id": "the-claypool-lennon-delirium",
     "name": "The Claypool Lennon Delirium",
-    "showCount": 23,
+    "showCount": 24,
     "firstYear": 2016,
     "lastYear": 2019
   },
