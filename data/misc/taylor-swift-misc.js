@@ -6,10 +6,5 @@ const ARTIST_MISC_DATA = [
     "format": "TS",
     "year": 2010,
     "category": "OTHER"
-  },
-  {
-    "type": "release",
-    "label": "Taylor Swift- Today Show 2010",
-    "format": "TV"
   }
 ];
