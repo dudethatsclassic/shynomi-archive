@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "michael-jackson",
   "name": "Michael Jackson",
   "drive": "D",
-  "showCount": 18,
+  "showCount": 20,
   "firstYear": 1987,
   "lastYear": 1997,
   "years": [
@@ -155,6 +155,19 @@ const ARTIST_DATA = {
     },
     {
       "year": 1992,
+      "month": 8,
+      "day": 16,
+      "dateStr": "8-16-1992",
+      "city": "Leeds",
+      "state": "UK",
+      "location": "Leeds, UK",
+      "venue": "Roundhay Park",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1992,
       "month": 7,
       "day": 31,
       "dateStr": "7-31-1992",
@@ -235,6 +248,19 @@ const ARTIST_DATA = {
       "version": "TV",
       "format": "TS",
       "textFile": "1997-07-04 - Munich, Germany - Live History World Tour (SATRip) [TS].txt"
+    },
+    {
+      "year": 1997,
+      "month": 7,
+      "day": 15,
+      "dateStr": "7-15-1997",
+      "city": "London",
+      "state": "UK",
+      "location": "London, UK",
+      "venue": "Wembley Stadium",
+      "notes": "inc",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1997,
