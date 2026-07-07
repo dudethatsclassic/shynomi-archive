@@ -93,7 +93,7 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Gothenburg, Sweden",
       "venue": "Eriksberg Shipyard Docks",
-      "notes": "M \u00b7 Marantz EM-8 \u00b7 kk",
+      "notes": "M · Marantz EM-8 · kk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1988-06-11 - Gothenburg, Sweden - Eriksberg Shipyard Docks (M) (Marantz EM-8) (kk) [AUD].txt"
@@ -120,7 +120,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Brendan Byrne Arena",
-      "notes": "Two Of Us Master Series Volume 239 \u00b7 Shure Mic \u00b7 two of us",
+      "notes": "Two Of Us Master Series Volume 239 · Shure Mic · two of us",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1988-10-03 - East Rutherford, NJ - Brendan Byrne Arena   (Two Of Us Master Series Volume 239) (Shure Mic) (two of us) [AUD].txt"
@@ -217,7 +217,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munchen, Germany",
       "venue": "Olympic Stadium *The King Is Alive",
-      "notes": "SBD \u00b7 OPT 14-15",
+      "notes": "SBD · OPT 14-15",
       "version": "Silver CD",
       "format": "FLAC",
       "textFile": "1997-07-04 - Munchen, Germany - Olympic Stadium (The King Is Alive - Optimum OPT 14-15) [SBD].txt"
@@ -245,7 +245,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Parken",
-      "notes": "Homemade stereo mics \u00b7 kingkeld",
+      "notes": "Homemade stereo mics · kingkeld",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-08-14 - Copenhagen, Denmark- Parken (Homemade stereo mics) (kingkeld) [AUD] .txt"
