@@ -1241,7 +1241,7 @@ const ARTISTS = [
   {
     "id": "jewel",
     "name": "Jewel",
-    "showCount": 64,
+    "showCount": 65,
     "firstYear": 1995,
     "lastYear": 2013
   },
@@ -1696,7 +1696,7 @@ const ARTISTS = [
   {
     "id": "michael-jackson",
     "name": "Michael Jackson",
-    "showCount": 18,
+    "showCount": 20,
     "firstYear": 1987,
     "lastYear": 1997
   },
