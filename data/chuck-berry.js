@@ -33,9 +33,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York City, NY",
       "venue": "Ritz",
-      "notes": "Shure · twous",
+      "notes": "Shure \u00b7 twous",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-05-06 - New York City, NY - Ritz (Shure) (twous) [AUD].txt"
     }
   ]
 };

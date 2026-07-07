@@ -771,9 +771,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Rooftop at Pier 17",
-      "notes": "AT-853 · neild",
+      "notes": "AT-853 \u00b7 neild",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-06-24 - New York, NY - Rooftop at Pier 17 (AT-853) (neild) [AUD24].txt"
     }
   ]
 };

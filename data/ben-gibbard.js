@@ -25,7 +25,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "notes": "Tsunami · dan.staff",
+      "notes": "Tsunami \u00b7 dan.staff",
       "version": "AUD",
       "format": "M4A"
     },
@@ -38,7 +38,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Town Hall",
-      "notes": "ECM-717 · unk",
+      "notes": "ECM-717 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-05-08 - New York, NY - Town Hall [AUD].txt"
@@ -52,7 +52,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theatre of the Living Arts",
-      "notes": "AT853 · deadhorse",
+      "notes": "AT853 \u00b7 deadhorse",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-05-09 - Philadelphia, PA - Theatre of the Living Arts [AUD].txt"
@@ -66,7 +66,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "City Hall",
-      "notes": "Sony ECM-909 · unk",
+      "notes": "Sony ECM-909 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-05-13 - Nashville, TN - City Hall [AUD].txt"
@@ -80,7 +80,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox at the Market",
-      "notes": "SP-CMC-4U · basshead",
+      "notes": "SP-CMC-4U \u00b7 basshead",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-05-20 - Seattle, WA - The Showbox at the Market (SP-CMC-4U) (basshead) [AUD].txt"
@@ -94,7 +94,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox at the Market",
-      "notes": "SP-BMC-2 · unk",
+      "notes": "SP-BMC-2 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-05-21 - Seattle, WA - The Showbox (SP-BMC-2) (unk) [AUD].txt"
@@ -108,7 +108,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Morning Becomes Eclectic",
-      "notes": "KCRW · with Jay Farrar · nibbler",
+      "notes": "KCRW \u00b7 with Jay Farrar \u00b7 nibbler",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2009-10-03 - Santa Monica, CA - Morning Becomes Eclectic - KCRW Radio (with Jay Farrar) (nibbler) [FM].txt"
@@ -122,7 +122,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Culver City, CA",
       "venue": "The Actor's Gang",
-      "notes": "Edirol R09 · unk",
+      "notes": "Edirol R09 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-11-21 - Culver City, CA - The Actor's Gang (Edirol R09) [AUD].rtf"
@@ -136,7 +136,7 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Toronto, Canada",
       "venue": "Danforth Music Hall",
-      "notes": "CSB · unk",
+      "notes": "CSB \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-10-14 - Toronto, Canada - Danforth Music Hall (CSB) [AUD].txt"
@@ -164,7 +164,7 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Lincoln Theater",
-      "notes": "CA-14s · unk",
+      "notes": "CA-14s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2017-07-26 - Washington, DC - Lincoln Theater (CA-14s) (unk) [AUD24].txt"
@@ -178,7 +178,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-03-17 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -192,7 +192,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-03-18 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -206,7 +206,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-03-19 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -220,7 +220,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-03-20 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -234,7 +234,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-03-21 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -248,7 +248,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-03-22 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -262,7 +262,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-03-23 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -276,7 +276,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-03-24 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -290,7 +290,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-03-25 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -304,7 +304,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-03-26 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -318,7 +318,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-03-27 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -332,7 +332,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-03-28 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -346,7 +346,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-03-29 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -360,7 +360,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-04-02 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -374,7 +374,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-04-09 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -388,7 +388,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-04-16 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -402,7 +402,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-04-23 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -416,7 +416,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-04-30 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -430,7 +430,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-05-07 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -444,7 +444,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-05-14 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -458,7 +458,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-05-21 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -472,7 +472,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2020-05-28 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"
@@ -486,7 +486,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
-      "notes": "FB Live Feed · shane e. calhoon",
+      "notes": "FB Live Feed \u00b7 shane e. calhoon",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2021-03-17 - Seattle, WA - Living Room Show (FB Live Feed) (shane e. calhoon) [WEB].txt"

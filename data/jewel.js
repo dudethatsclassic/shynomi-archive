@@ -599,7 +599,7 @@ const ARTIST_DATA = {
       "notes": "Sony PC-62 · ken g. · Source 1",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-03-03 - New York, NY - Beacon Theatre (unk) (Source 2) [AUD].txt"
+      "textFile": "1997-03-03 - New York, NY - Beacon Theatre (Sony PC-62) (ken g.) (Source 1) [AUD].txt"
     },
     {
       "year": 1997,

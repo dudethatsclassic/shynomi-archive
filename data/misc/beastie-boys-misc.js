@@ -120,37 +120,31 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "XX-XX - Desperado (Unreleased Studio Version)",
-    "year": 1988,
-    "textFile": "MISC - 1988-XX-XX - Desperado (Unreleased Studio Version).txt"
+    "year": 1988
   },
   {
     "type": "release",
     "label": "Beastie Boys - 1994-1995 - Turning Japanese",
-    "version": "Silver CD",
-    "textFile": "MISC - Beastie Boys - 1994-1995 - Turning Japanese [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",
     "label": "Beastie Boys - Hip-Hop Sampler (Bootleg) 1994",
-    "version": "Silver CD",
-    "textFile": "MISC - Beastie Boys - Hip-Hop Sampler (Bootleg) 1994 [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",
     "label": "Beastie Boys - Nastie Beastie Bootie (Hellfire TMOQ) (1998)",
     "year": 1998,
-    "version": "Silver CD",
-    "textFile": "MISC - Beastie Boys - Nastie Beastie Bootie (Hellfire TMOQ) (1998) [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",
     "label": "Beastie Boys - Original Ill",
-    "version": "Silver CD",
-    "textFile": "MISC - Beastie Boys - Original Ill [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",
-    "label": "Beastie Boys - Pauls Demos.flac",
-    "textFile": "MISC - Beastie Boys - Pauls Demos.flac.txt"
+    "label": "Beastie Boys - Pauls Demos.flac"
   }
 ];

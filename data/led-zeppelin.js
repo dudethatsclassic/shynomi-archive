@@ -66,9 +66,10 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "National Boxing Stadium",
-      "notes": "unk · krw_co transfer",
+      "notes": "unk \u00b7 krw_co transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1971-03-06 - Dublin, Ireland - National Boxing Stadium [AUD].txt"
     },
     {
       "year": 1971,
