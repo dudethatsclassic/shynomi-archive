@@ -1682,7 +1682,7 @@ const ARTISTS = [
   {
     "id": "meat-puppets",
     "name": "Meat Puppets",
-    "showCount": 51,
+    "showCount": 52,
     "firstYear": 1980,
     "lastYear": 2022
   },
