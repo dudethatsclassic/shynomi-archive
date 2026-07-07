@@ -20,7 +20,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Mason, OH",
       "venue": "Mason Municipal Campus",
-      "notes": "CA-14 · live2cd",
+      "notes": "CA-14 \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-07-03 - Mason, OH - Mason Municipal Campus (CA-14) (live2cd) [AUD].txt"
@@ -34,7 +34,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "West Chester Township, OH",
       "venue": "National VOA Museum of Broadcasting",
-      "notes": "CA-14s · live2cd",
+      "notes": "CA-14s \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-07-05 - West Chester Township, OH - National VOA Museum of Broadcasting (CA-14s) (live2cd) [AUD].txt"
@@ -48,7 +48,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Columbus Bicentennial Pavilion",
-      "notes": "CA-14 · live2cd",
+      "notes": "CA-14 \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-08-25 - Columbus, OH - Columbus Bicentennial Pavilion (CA-14) (live2cd) [AUD].txt"
@@ -62,7 +62,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Bowler, WI",
       "venue": "North Star Mohican Casino",
-      "notes": "Edirol R09HR · unk",
+      "notes": "Edirol R09HR \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-02-15 - Bowler, WI - North Star Mohican Casino (Edirol R09HR) (unk) [AUD].txt"

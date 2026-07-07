@@ -52,7 +52,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Knitting Factory",
-      "notes": "VHS(x) · 1991 CMJ Music Marathon",
+      "notes": "VHS(x) \u00b7 1991 CMJ Music Marathon",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1991-11-01 - New York, NY - The Knitting Factory - VHS(x) (1991 CMJ Music Marathon) [FM].txt"
@@ -66,7 +66,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Knitting Factory",
-      "notes": "VHS(x) · unk",
+      "notes": "VHS(x) \u00b7 unk",
       "version": "AUD",
       "format": "MKV",
       "textFile": "1991-11-01 - New York, NY - The Knitting Factory - VHS(x) (unk) [MKV].txt"
@@ -97,7 +97,7 @@ const ARTIST_DATA = {
       "notes": "WFMU-FM The Music Faucet",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1992-03-22 - New York, NY - The Knitting Factory (WFMU-FM The Music Faucet) [FM].txt"
+      "textFile": "1992-03-22 - New York, NY - The Knitting Factory (Correct) [FM].txt"
     },
     {
       "year": 1992,
@@ -108,10 +108,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Knitting Factory",
-      "notes": "VHS(x) · partial",
+      "notes": "VHS(x) \u00b7 partial",
       "version": "AUD",
       "format": "MKV",
-      "textFile": "1992-03-22 - New York, NY - The Knitting Factory - VHS(x) (partial) [MKV].txt"
+      "textFile": "1992-03-22 - New York, NY - The Knitting Factory (VHS Complete) [MKV].txt"
     },
     {
       "year": 1992,
@@ -248,7 +248,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Jeff Buckley",
       "venue": "Every Monday Night",
-      "notes": "Sin-è Cafè Compilation",
+      "notes": "Sin-\u00e8 Caf\u00e8 Compilation",
       "version": "",
       "format": "FLAC"
     },
@@ -264,7 +264,7 @@ const ARTIST_DATA = {
       "notes": "Man In The Moon Broadcast",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1994-01-25 - Santa Monica, CA - KCRW Studios (Man In The Moon Broadcast) [FM].txt"
+      "textFile": "1994-01-25 - Santa Monica, CA - KCRW Studios (2024 Goody) [FM].txt"
     },
     {
       "year": 1994,
@@ -404,7 +404,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-09-14 - Frankfurt, Germany - Nachtleben [AUD].txt"
+      "textFile": "1994-09-14 - Frankfurt, Germany - Nachtleben (Upgrade) [AUD].txt"
     },
     {
       "year": 1994,
@@ -457,7 +457,7 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Antwerp, Belgium",
       "venue": "Pacific Club",
-      "notes": "VHS(x) · TV-5",
+      "notes": "VHS(x) \u00b7 TV-5",
       "version": "TV",
       "format": "MKV",
       "textFile": "1994-09-21 - Antwerp, Belgium - Pacific Club - VHS(x) (TV-5) [MKV].txt"
@@ -527,7 +527,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tempe, AZ",
       "venue": "Valley Art Theatre",
-      "notes": "PZM mics · david holmes",
+      "notes": "PZM mics \u00b7 david holmes",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-11-26 - Tempe, AZ - Valley Art Theatre (PZM mics) (david holmes) [AUD].txt"
@@ -541,7 +541,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Waterloo Records & the Electric Lounge",
-      "notes": "SS-DSM6 · chris milazzo",
+      "notes": "SS-DSM6 \u00b7 chris milazzo",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-11-29 - Austin, TX - Waterloo Records & the Electric Lounge (SS-DSM6) (chris milazzo) [AUD].txt"
@@ -568,7 +568,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Cactus Records & Urban Art Bar",
-      "notes": "SS-DSM6 · chris milazzo",
+      "notes": "SS-DSM6 \u00b7 chris milazzo",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-12-01 - Houston, TX - Cactus Records & Urban Art Bar (SS-DSM6) (chris milazzo) [AUD].txt"
@@ -582,7 +582,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami Beach, FL",
       "venue": "Stephen Talkhouse",
-      "notes": "SS mics · dolphinsmile",
+      "notes": "SS mics \u00b7 dolphinsmile",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-12-04 - Miami Beach, FL - Stephen Talkhouse (SS mics) (dolphinsmile) [AUD].txt"
@@ -610,7 +610,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphica, PA",
       "venue": "JC Dobbs",
-      "notes": "SS-DSM6 · teddy ballgame",
+      "notes": "SS-DSM6 \u00b7 teddy ballgame",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-12-13 - Philadelphica, PA - JC Dobbs (SS-DSM6) (teddy ballgame) [AUD].txt"
@@ -624,7 +624,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Greenwich Village, NY",
       "venue": "Tower Records",
-      "notes": "Aiwa Mic · phideaux3 · Goody Remaster",
+      "notes": "Aiwa Mic \u00b7 phideaux3 \u00b7 Goody Remaster",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1994-12-16 - Greenwich Village, NY - Tower Records (Aiwa Mic) (phideaux3) [AUD].txt"
@@ -806,7 +806,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Frankfurt, Germany",
       "venue": "Sudbahnhof",
-      "notes": "Aiwa CM-30 · mw",
+      "notes": "Aiwa CM-30 \u00b7 mw",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-02-24 - Frankfurt, Germany - Sudbahnhof (Aiwa CM-30) (mw) [AUD].txt"
@@ -862,7 +862,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Wolverhampton, England",
       "venue": "Wulfrun Hall",
-      "notes": "Aiwa Stereo Clip Mic · belfrank",
+      "notes": "Aiwa Stereo Clip Mic \u00b7 belfrank",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-03-02 - Wolverhampton, England - Wulfrun Hall (Aiwa Stereo Clip Mic) (belfrank) [AUD].txt"
@@ -918,7 +918,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Liberty Lunch",
-      "notes": "CSB · unk",
+      "notes": "CSB \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-04-29 - Austin, TX - Liberty Lunch (CSB) (unk) [AUD].txt"
@@ -932,7 +932,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "The Back Door",
-      "notes": "DAT(x) · unk",
+      "notes": "DAT(x) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-05-01 - San Diego, CA - The Back Door - DAT(x) (unk) [AUD].txt"
@@ -1016,7 +1016,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "GAMH",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-05-05 - San Francisco, CA - GAMH - ANA(M) (unk) [AUD].txt"
@@ -1072,7 +1072,7 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's VHS",
-      "notes": "1 · unk",
+      "notes": "1 \u00b7 unk",
       "version": "AUD",
       "format": "MKV",
       "textFile": "1995-05-19 - Providence, RI - Lupo's VHS(1) (unk) [MKV].txt"
@@ -1114,7 +1114,7 @@ const ARTIST_DATA = {
       "state": "Quebec",
       "location": "Montreal, Quebec",
       "venue": "Le Spectrum",
-      "notes": "Sennheiser MKE2002 · stevemtl",
+      "notes": "Sennheiser MKE2002 \u00b7 stevemtl",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-05-28 - Montreal, Quebec - Le Spectrum (Sennheiser MKE2002) (stevemtl) [AUD].txt"
@@ -1142,7 +1142,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Sea Bright, NJ",
       "venue": "Tradewinds",
-      "notes": "SS-DSM6 · joey mutis",
+      "notes": "SS-DSM6 \u00b7 joey mutis",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-06-01 - Sea Bright, NJ - Tradewinds (SS-DSM6) (joey mutis) [AUD].txt"
@@ -1156,7 +1156,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "2 Source Mix · phideaux3",
+      "notes": "2 Source Mix \u00b7 phideaux3",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "1995-06-02 - New York, NY - Roseland Ballroom (2 Source Mix) (phideaux3) [MIX].txt"
@@ -1170,7 +1170,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Rockville, MD",
       "venue": "99.1 WHFS",
-      "notes": "Just · Goody",
+      "notes": "Just \u00b7 Goody",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1995-06-11 - Rockville, MD - 99.1 WHFS - Just Passin' Thru (Goody) [FM].txt"
@@ -1184,7 +1184,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Leeds, England",
       "venue": "City Varieties",
-      "notes": "Sony Walkman · unk",
+      "notes": "Sony Walkman \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-06-21 - Leeds, England - City Varieties (Sony Walkman) (unk) [AUD].txt"
@@ -1313,7 +1313,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-07-13 - Ludwigsburg, Germany - Scala [AUD].txt"
+      "textFile": "1995-07-13 - Ludwigsburg, DE - Scala (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1341,7 +1341,7 @@ const ARTIST_DATA = {
       "notes": "Festa",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-07-15 - Corregio, IT - Zona Sportiva - Festa de l'Unita [AUD].txt"
+      "textFile": "1995-07-15 - Corregio, IT - Zona Sportiva (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1394,7 +1394,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Sproul Plaza",
-      "notes": "Sony ECM-77b · a.k.",
+      "notes": "Sony ECM-77b \u00b7 a.k.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-09-05 - Berkeley, CA - Sproul Plaza (Sony ECM-77b) (a.k.) [AUD].txt"
@@ -1464,7 +1464,7 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Queensland, AUS",
       "venue": "Seagulls Stardust Auditorium",
-      "notes": "Sonic Studios Mics · dolphinsmile",
+      "notes": "Sonic Studios Mics \u00b7 dolphinsmile",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-02-20 - Queensland, AUS - Seagulls Stardust Auditorium (Sonic Studios Mics) (dolphinsmile) [AUD].txt"
@@ -1478,7 +1478,7 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Perth, AUS",
       "venue": "Belvoir Amphitheatre",
-      "notes": "ANA(2) · eclect transfer",
+      "notes": "ANA(2) \u00b7 eclect transfer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-02-24 - Perth, AUS - Belvoir Amphitheatre - ANA(2) (eclect transfer) [AUD].txt"
@@ -1520,7 +1520,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Arlene's Grocery",
-      "notes": "The · unk",
+      "notes": "The \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },

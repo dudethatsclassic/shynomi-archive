@@ -305,8 +305,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "07-XX - Sylvia Massey Video",
     "year": 1992,
-    "format": "DVD",
-    "textFile": "MISC - 1992-07-XX - Sylvia Massey Video [DVD].txt"
+    "format": "DVD"
   },
   {
     "type": "release",
@@ -317,28 +316,24 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "XX-XX - Van Nuys, CA - The Sylvia Massy Outtakes - Bottom at Sound City Studios - DAT(M)",
     "year": 1992,
-    "format": "SBD",
-    "textFile": "MISC - 1992-XX-XX - Van Nuys, CA - The Sylvia Massy Outtakes - Bottom at Sound City Studios - DAT(M) [SBD].txt"
+    "format": "SBD"
   },
   {
     "type": "release",
     "label": "XX-XX - Van Nuys, CA - The Sylvia Massy Outtakes - Guitar Drum at Sound City Studios - DAT(M)",
     "year": 1992,
-    "format": "SBD",
-    "textFile": "MISC - 1992-XX-XX - Van Nuys, CA - The Sylvia Massy Outtakes - Guitar Drum at Sound City Studios - DAT(M) [SBD].txt"
+    "format": "SBD"
   },
   {
     "type": "release",
     "label": "XX-XX - Van Nuys, CA - The Sylvia Massy Outtakes - Sound FX at Sound City Studios - DAT(M)",
     "year": 1992,
-    "format": "SBD",
-    "textFile": "MISC - 1992-XX-XX - Van Nuys, CA - The Sylvia Massy Outtakes - Sound FX at Sound City Studios - DAT(M) [SBD].txt"
+    "format": "SBD"
   },
   {
     "type": "release",
     "label": "XX-XX - D'Amour Demos",
-    "year": 1995,
-    "textFile": "MISC - 1995-XX-XX - D'Amour Demos.txt"
+    "year": 1995
   },
   {
     "type": "release",
@@ -346,8 +341,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Tool - Live Covers + Alternate Versions",
-    "textFile": "MISC - Tool - Live Covers + Alternate Versions.txt"
+    "label": "Tool - Live Covers + Alternate Versions"
   },
   {
     "type": "release",

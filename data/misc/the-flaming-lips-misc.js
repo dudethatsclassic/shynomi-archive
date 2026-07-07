@@ -205,31 +205,26 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Flaming Lips - BBC 6 Music Interviews and Sessions",
-    "textFile": "MISC - Flaming Lips - BBC 6 Music Interviews and Sessions.txt"
+    "label": "Flaming Lips - BBC 6 Music Interviews and Sessions"
   },
   {
     "type": "release",
     "label": "I am not on Drugs... Yet (Comp. DVD)",
-    "format": "DVD",
-    "textFile": "MISC - I am not on Drugs... Yet (Comp. DVD).txt"
+    "format": "DVD"
   },
   {
     "type": "release",
     "label": "Imagene Peise Atlas Eets Christmas",
-    "format": "RTW-044",
-    "textFile": "MISC - Imagene Peise Atlas Eets Christmas [RTW-044].txt"
+    "format": "RTW-044"
   },
   {
     "type": "release",
     "label": "KCRW's - Brave New World",
-    "format": "1996",
-    "textFile": "MISC - KCRW's - Brave New World [1996].txt"
+    "format": "1996"
   },
   {
     "type": "release",
-    "label": "Mushroom & Priest Demos",
-    "textFile": "MISC - Mushroom & Priest Demos.txt"
+    "label": "Mushroom & Priest Demos"
   },
   {
     "type": "release",
@@ -237,8 +232,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "The Flaming Lips - Circuit 3 (Audio)",
-    "textFile": "MISC - The Flaming Lips - Circuit 3 (Audio).txt"
+    "label": "The Flaming Lips - Circuit 3 (Audio)"
   },
   {
     "type": "release",
@@ -251,8 +245,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "The Flaming Lips - Sweet Jesus",
-    "textFile": "MISC - The Flaming Lips - Sweet Jesus.txt"
+    "label": "The Flaming Lips - Sweet Jesus"
   },
   {
     "type": "release",
@@ -269,7 +262,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "The Flaming Lips - Zaireeka and Soft Bulletin Unmastered Tracks",
-    "textFile": "MISC - The Flaming Lips - Zaireeka and Soft Bulletin Unmastered Tracks.txt"
+    "label": "The Flaming Lips - Zaireeka and Soft Bulletin Unmastered Tracks"
   }
 ];
