@@ -66,7 +66,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Palace",
-      "notes": "ANA(M) \u00b7 unk",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-01-21 - Hollywood, CA - The Palace (1st gen) (j. koehler) [AUD].txt"
@@ -94,7 +94,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York,  NY",
       "venue": "Roseland Ballroom",
-      "notes": "Olympus ME-1S \u00b7 smores",
+      "notes": "Olympus ME-1S · smores",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-08-11 - New York,  NY - Roseland Ballroom (Olympus ME-1S) (smores) [AUD].txt"
@@ -108,7 +108,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Fort Worth, TX",
       "venue": "Amon G. Carter Jr. Exhibits Hall",
-      "notes": "Sony ECM-155 \u00b7 smores",
+      "notes": "Sony ECM-155 · smores",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1994-02-23 - Fort Worth, TX - Amon G. Carter Jr. Exhibits Hall (Sony ECM-155) (smores) [AUD24].txt"
