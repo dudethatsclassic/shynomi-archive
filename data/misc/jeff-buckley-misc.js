@@ -61,18 +61,15 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "XX-XX - Various Dates - Every Monday Night 1992 & 1993 Sin-e Cafe",
     "year": 1992,
-    "format": "AUD",
-    "textFile": "MISC - 1992-XX-XX - Various Dates - Every Monday Night 1992 & 1993 Sin-e Cafe [AUD].txt"
+    "format": "AUD"
   },
   {
     "type": "release",
     "label": "09-XX  - Grace Outtakes",
-    "year": 1993,
-    "textFile": "MISC - 1993-09-XX  - Grace Outtakes.txt"
+    "year": 1993
   },
   {
     "type": "release",
-    "label": "Jeff Buckley Demos (1990-1997)",
-    "textFile": "MISC - Jeff Buckley Demos (1990-1997).txt"
+    "label": "Jeff Buckley Demos (1990-1997)"
   }
 ];

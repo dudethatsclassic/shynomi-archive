@@ -44,14 +44,12 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Chuck Berry - Boulder, CO - KBCO Radio Show",
-    "format": "FM",
-    "textFile": "MISC - Chuck Berry - Boulder, CO - KBCO Radio Show [FM].txt"
+    "format": "FM"
   },
   {
     "type": "release",
     "label": "Chuck Berry - French Broadcasts from 1965-2004",
-    "format": "FM",
-    "textFile": "MISC - Chuck Berry - French Broadcasts from 1965-2004 [FM].txt"
+    "format": "FM"
   },
   {
     "type": "release",
@@ -63,7 +61,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Chuck Berry - Six Two Five",
-    "textFile": "MISC - Chuck Berry - Six Two Five.txt"
+    "label": "Chuck Berry - Six Two Five"
   }
 ];

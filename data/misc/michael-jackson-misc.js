@@ -17,7 +17,6 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Michael Jackson - Transmission Impossible (2017)",
     "year": 2017,
-    "version": "Silver CD",
-    "textFile": "MISC - Michael Jackson - Transmission Impossible (2017) [ETTB088] [Silver].txt"
+    "version": "Silver CD"
   }
 ];
