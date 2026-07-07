@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "tool",
   "name": "Tool",
   "drive": "D",
-  "showCount": 1404,
+  "showCount": 1406,
   "firstYear": 1991,
   "lastYear": 2026,
   "years": [
@@ -15001,6 +15001,19 @@ const ARTIST_DATA = {
     {
       "year": 2010,
       "month": 6,
+      "day": 19,
+      "dateStr": "6-19-2010",
+      "city": "New Orleans",
+      "state": "LA",
+      "location": "New Orleans, LA",
+      "venue": "UNO Lakefront Arena",
+      "notes": "Sony HDR-XR150 · unk",
+      "version": "AUD",
+      "format": "DVD"
+    },
+    {
+      "year": 2010,
+      "month": 6,
       "day": 22,
       "dateStr": "6-22-2010",
       "city": "Cedar Park",
@@ -18693,6 +18706,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-05-17 - Koeln, Germany - Lanxess Arena (DPA 4060) (tapemeister) [AUD24].txt"
+    },
+    {
+      "year": 2022,
+      "month": 5,
+      "day": 24,
+      "dateStr": "5-24-2022",
+      "city": "Budapest",
+      "state": "Hungary",
+      "location": "Budapest, Hungary",
+      "venue": "Papp Sportarena",
+      "notes": "CA-14 · shownomarcy",
+      "version": "AUD",
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
