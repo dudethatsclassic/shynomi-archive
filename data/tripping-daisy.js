@@ -19,7 +19,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Summerfest",
-      "notes": "Briggs \u00b7 Shure MV88 \u00b7 unk",
+      "notes": "Briggs · Shure MV88 · unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-07-04 - Milwaukee, WI - Summerfest - Briggs & Stratton Big Backyard Stage (Shure MV88) (unk) [AUD24].txt"
@@ -33,7 +33,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Cafe du Nord",
-      "notes": "Line Audio CM4s \u00b7 unk",
+      "notes": "Line Audio CM4s · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-05-11 - San Francisco, CA - Cafe du Nord (Line Audio CM4s) (unk) [AUD].txt"
