@@ -24,11 +24,5 @@ const ARTIST_MISC_DATA = [
     "year": 1996,
     "category": "OTHER",
     "textFile": "MISC - White Zombie - Kicking In Heaven's Door {KTS-516} (1996) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "White Zombie -  Astro-Junkies (1992-1995)",
-    "version": "Silver CD",
-    "textFile": "MISC - White Zombie -  Astro-Junkies (1992-1995) [Silver].txt"
   }
 ];
