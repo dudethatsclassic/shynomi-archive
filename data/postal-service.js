@@ -21,7 +21,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tuscon, AZ",
       "venue": "Solar Culture",
-      "notes": "SS-DSM6P \u00b7 arnold leal",
+      "notes": "SS-DSM6P · arnold leal",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-04-05 - Tuscon, AZ - Solar Culture (SS-DSM6P) (arnold leal) [AUD].txt"
@@ -49,7 +49,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Magic Stick",
-      "notes": "Sony ECM-717 \u00b7 quami",
+      "notes": "Sony ECM-717 · quami",
       "version": "AUD",
       "format": "SHN",
       "textFile": "2003-04-22 - Detroit, MI - The Magic Stick [AUD].txt"
@@ -105,7 +105,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI, USA - The Fillmore",
       "venue": "DAT",
-      "notes": "M \u00b7 Sennheiser G2 B \u00b7 mitaper78",
+      "notes": "M · Sennheiser G2 B · mitaper78",
       "version": "IEM",
       "format": "FLAC",
       "textFile": "2013-06-10 - Detroit, MI, USA - The Fillmore - DAT(M) (Sennheiser G2 B) (mitaper78) [IEM].txt"
@@ -119,7 +119,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Fillmore",
-      "notes": "Sony ECM-717 \u00b7 ryanj",
+      "notes": "Sony ECM-717 · ryanj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2013-06-11 - Detroit, MI - The  Fillmore (ECM717) [AUD].txt"
@@ -133,7 +133,7 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Anthem",
-      "notes": "CA-14 \u00b7 majintrunkz",
+      "notes": "CA-14 · majintrunkz",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -146,7 +146,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Westville Music Bowl",
-      "notes": "Slint Lavs \u00b7 tapir jon",
+      "notes": "Slint Lavs · tapir jon",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-09-10 - New Haven, CT - Westville Music Bowl (Slint Lavs) (tapir jon) [AUD24].txt"
@@ -160,7 +160,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Douglass Park",
-      "notes": "Riot \u00b7 Schoeps MK41s \u00b7 tj",
+      "notes": "Riot · Schoeps MK41s · tj",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-09-16 - Chicago, IL - Douglass Park - Riot Fest (Schoeps MK41s) (tj) [AUD24].txt"
@@ -174,7 +174,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Salt Shed",
-      "notes": "AT943 \u00b7 englishskylarking",
+      "notes": "AT943 · englishskylarking",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-09-23 - Chicago, IL - Salt Shed (AT943) (englishskylarking) [AUD].txt"
@@ -188,7 +188,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Coastal Credit Union Music Park",
-      "notes": "iPhone 13 Pro \u00b7 shynomi",
+      "notes": "iPhone 13 Pro · shynomi",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-04-27 - Raleigh, NC - Coastal Credit Union Music Park (iPhone 13 Pro) (shynomi) [AUD24].txt"
@@ -202,7 +202,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "MVP Arena",
-      "notes": "Naiant XR \u00b7 tapir jon",
+      "notes": "Naiant XR · tapir jon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-05-03 - Albany, NY - MVP Arena (Naiant XR) (tapir jon) [AUD].txt"
@@ -216,7 +216,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Miller High Life Theatre",
-      "notes": "Zoom iQ7 \u00b7 poul0004",
+      "notes": "Zoom iQ7 · poul0004",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-05-06 - Milwaukee, WI - Miller High Life Theatre (Zoom iQ7) (poul0004) [AUD].txt"
