@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "jewel",
   "name": "Jewel",
   "drive": "D",
-  "showCount": 64,
+  "showCount": 65,
   "firstYear": 1995,
   "lastYear": 2013,
   "years": [
@@ -40,7 +40,7 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "15 Minute Club",
-      "notes": "CASS(M) \u00b7 stevemtl",
+      "notes": "CASS(M) · stevemtl",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-06-19 - Washington, DC - 15 Minute Club - CASS(M) (stevemtl) [AUD].txt"
@@ -54,7 +54,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "WBER-FM",
-      "notes": "ANA(1) \u00b7 kingrue transfer",
+      "notes": "ANA(1) · kingrue transfer",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1995-08-08 - Rochester, NY - WBER-FM - ANA(1) (kingrue transfer) [FM].txt"
@@ -82,7 +82,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "",
       "format": ""
     },
@@ -95,7 +95,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "World Cafe",
-      "notes": "ANA(1) \u00b7 kingsrue transfer",
+      "notes": "ANA(1) · kingsrue transfer",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1995-11-13 - Philadelphia, PA - World Cafe - ANA(1) (kingsrue transfer) [FM].txt"
@@ -123,7 +123,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Ocean Beach, CA",
       "venue": "Java Joe's",
-      "notes": "ANA(2) \u00b7 Cassette Walkman \u00b7 kingrue transfer",
+      "notes": "ANA(2) · Cassette Walkman · kingrue transfer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-01-11 - Ocean Beach, CA - Java Joe's - ANA(2) (Cassette Walkman) (kingrue transfer) [AUD].txt"
@@ -137,7 +137,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "Be Here Now",
-      "notes": "Aiwa Handheld \u00b7 chazarrelli",
+      "notes": "Aiwa Handheld · chazarrelli",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-01-14 - Asheville, NC - Be Here Now (Aiwa Handheld) (chazarrelli) [AUD].txt"
@@ -151,7 +151,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Flamingo Grill",
-      "notes": "Aiwa Handheld \u00b7 chazarrelli",
+      "notes": "Aiwa Handheld · chazarrelli",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-01-18 - Knoxville, TN - Flamingo Grill (Aiwa Handheld) (chazarrelli) [AUD].txt"
@@ -165,7 +165,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Sky Lounge Studios 102.7 WNEW",
-      "notes": "ANA(2) \u00b7 kingsrue transfer",
+      "notes": "ANA(2) · kingsrue transfer",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1996-01-26 - New York, NY - Sky Lounge Studios 102.7 WNEW - ANA(2) (kingsrue transfer) [FM].txt"
@@ -179,7 +179,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Blind Pig",
-      "notes": "ANA(3) \u00b7 unk",
+      "notes": "ANA(3) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-02-07 - Ann Arbor, MI - Blind Pig - ANA(3) (unk) [AUD].txt"
@@ -193,7 +193,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Town Pump",
-      "notes": "Hand-held Walkman \u00b7 george",
+      "notes": "Hand-held Walkman · george",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-02-23 - Vancouver, BC - Town Pump (Hand-held Walkman) (george) [AUD].txt"
@@ -207,7 +207,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Palace Theater",
-      "notes": "ANA(2) \u00b7 unk",
+      "notes": "ANA(2) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-04-14 - New Haven, CT - Palace Theater - ANA(2) (unk) [AUD].txt"
@@ -235,7 +235,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbo's 365 Club",
-      "notes": "Schoeps MK4 \u00b7 george",
+      "notes": "Schoeps MK4 · george",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-05-03 - San Francisco, CA - Bimbo's 365 Club (Schoeps MK4) (george) [AUD].txt"
@@ -249,7 +249,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
-      "notes": "Sony 727 \u00b7 unk",
+      "notes": "Sony 727 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-05-11 - Chicago, IL - The Metro (Sony 727) (unk) [AUD].txt"
@@ -263,7 +263,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "The Intersection",
-      "notes": "Sony 727p \u00b7 unk",
+      "notes": "Sony 727p · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-05-12 - Grand Rapids, MI - The Intersection (Sony 727) (unk) [AUD].txt"
@@ -305,7 +305,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Seabright, NJ",
       "venue": "Tradewinds Club",
-      "notes": "ANA(M) \u00b7 unk \u00b7 george",
+      "notes": "ANA(M) · unk · george",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-05-21 - Seabright, NJ - Tradewinds Club - ANA(M) (unk) (george) [AUD].txt"
@@ -319,7 +319,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Cotton Club",
-      "notes": "Src 1 \u00b7 Aiwa Handheld \u00b7 chazarrelli",
+      "notes": "Src 1 · Aiwa Handheld · chazarrelli",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-05-24 - Atlanta, GA - Cotton Club (Src 1) (Aiwa Handheld) (chazarrelli) [AUD].txt"
@@ -333,7 +333,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Cotton Club (Src 2)",
-      "notes": "ANA(2) \u00b7 unk",
+      "notes": "ANA(2) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-05-24 - Atlanta, GA - Cotton Club (Src 2) - ANA(2) (unk) [AUD].txt"
@@ -347,7 +347,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "Firestone's",
-      "notes": "ANA(3) \u00b7 unk",
+      "notes": "ANA(3) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-05-27 - Orlando, FL - Firestone's - ANA(3) (unk) [AUD].txt"
@@ -361,7 +361,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -374,7 +374,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Woodstock, NY",
       "venue": "Tinker Street Cafe",
-      "notes": "ANA(x) \u00b7 unk",
+      "notes": "ANA(x) · unk",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1996-07-16 - Woodstock, NY - Tinker Street Cafe - ANA(x) (unk) [FM].txt"
@@ -416,7 +416,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Blockbuster Pavilion",
-      "notes": "Sonic Studios \u00b7 kingsrue transfer",
+      "notes": "Sonic Studios · kingsrue transfer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-08-09 - Charlotte, NC - Blockbuster Pavilion (Sonic Studios) (kingsrue transfer) [AUD].txt"
@@ -430,7 +430,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Canandaiqua, NY",
       "venue": "Finger Lakes Center",
-      "notes": "CSB \u00b7 george",
+      "notes": "CSB · george",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-08-18 - Canandaiqua, NY - Finger Lakes Center (CSB) (george) [AUD].txt"
@@ -444,7 +444,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "notes": "DAT(M) \u00b7 unk \u00b7 Src 1",
+      "notes": "DAT(M) · unk · Src 1",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-08-19 - New York, NY - Madison Square Garden - DAT(M) (unk) (Src 1) [AUD].txt"
@@ -458,7 +458,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Great Woods Performing Arts Center",
-      "notes": "ANA(M) \u00b7 stevemtl transfer",
+      "notes": "ANA(M) · stevemtl transfer",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1996-08-21 - Mansfield, MA - Great Woods Performing Arts Center - ANA(M) (stevemtl transfer) [AUD].txt"
@@ -472,7 +472,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga Springs, NY",
       "venue": "S.P.A.C.",
-      "notes": "CSB \u00b7 smores",
+      "notes": "CSB · smores",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-08-25 - Saratoga Springs, NY - S.P.A.C. (CSB) (smores) [AUD].txt"
@@ -486,7 +486,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Deer Creek Music Center",
-      "notes": "CM-300s \u00b7 unk",
+      "notes": "CM-300s · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-08-28 - Noblesville, IN - Deer Creek Music Center (CM-300s) (unk) [AUD].txt"
@@ -500,10 +500,23 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Polaris Amphitheatre",
-      "notes": "Realistic Stereo Mic \u00b7 the govner",
+      "notes": "Realistic Stereo Mic · the govner",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-08-29 - Columbus, OH - Polaris Amphitheatre (Realistic Stereo Mic) (the govner) [AUD].txt"
+    },
+    {
+      "year": 1996,
+      "month": 9,
+      "day": 25,
+      "dateStr": "9-25-1996",
+      "city": "Vancouver",
+      "state": "BC",
+      "location": "Vancouver, BC",
+      "venue": "Richard's On Richards",
+      "notes": "stevemtl transfer",
+      "version": "FM",
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -514,7 +527,7 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's Heartbreak Hotel",
-      "notes": "ANA(1) \u00b7 Walkman \u00b7 tom holland",
+      "notes": "ANA(1) · Walkman · tom holland",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-10-09 - Providence, RI - Lupo's Heartbreak Hotel - ANA(1) (Walkman) (tom holland) [AUD].txt"
@@ -569,7 +582,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Geneseo, NY",
       "venue": "SUNY Geneseo",
-      "notes": "Oade mics \u00b7 unk",
+      "notes": "Oade mics · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-02-24 - Geneseo, NY - SUNY Geneseo (Oade mics) (unk) [AUD].txt"
@@ -583,7 +596,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "notes": "Sony PC-62 \u00b7 ken g. \u00b7 Source 1",
+      "notes": "Sony PC-62 · ken g. · Source 1",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-03-03 - New York, NY - Beacon Theatre (unk) (Source 2) [AUD].txt"
@@ -597,9 +610,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "notes": "unk \u00b7 Source 2",
+      "notes": "unk · Source 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-03-03 - New York, NY - Beacon Theatre (unk) (Source 2) [AUD].txt"
     },
     {
       "year": 1997,
@@ -610,7 +624,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Duquesne University",
-      "notes": "Cassette Walkman built-in \u00b7 unk \u00b7 george",
+      "notes": "Cassette Walkman built-in · unk · george",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-03-08 - Pittsburgh, PA - Duquesne University (Cassette Walkman built-in) (unk) (george) [AUD].txt"
@@ -624,7 +638,7 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "930 Club",
-      "notes": "ANA(1) \u00b7 unk",
+      "notes": "ANA(1) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-03-10 - Washington, DC - 930 Club - ANA(1) (unk) [AUD].txt"
@@ -638,7 +652,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Murat Theater",
-      "notes": "Sony ECM-727P \u00b7 unk",
+      "notes": "Sony ECM-727P · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-03-14 - Indianapolis, IN - Murat Theater (Sony ECM-727P) (unk) [AUD].txt"
@@ -652,10 +666,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theatre",
-      "notes": "Src 1 \u00b7 Cassette Walkman \u00b7 kingrue transfer",
+      "notes": "Src 1 · Cassette Walkman · kingrue transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-03-20 - Chicago, IL - Chicago Theatre (Src 1) (Cassette Walkman) (kingrue transfer) [AUD].txt"
+      "textFile": "1997-03-20 - Chicago, IL - Chicago Theatre (Src 2) (Sony ECM-727P) (kingrue transfer) [AUD].txt"
     },
     {
       "year": 1997,
@@ -666,7 +680,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theatre",
-      "notes": "Src 2 \u00b7 Sony ECM-727P \u00b7 kingrue transfer",
+      "notes": "Src 2 · Sony ECM-727P · kingrue transfer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-03-20 - Chicago, IL - Chicago Theatre (Src 2) (Sony ECM-727P) (kingrue transfer) [AUD].txt"
@@ -680,7 +694,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Majestic Theatre",
-      "notes": "DAT(M) \u00b7 CSB \u00b7 smores",
+      "notes": "DAT(M) · CSB · smores",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-05-07 - Brooklyn, NY - Majestic Theatre - DAT(M) (CSB) (smores) [AUD].txt"
@@ -708,7 +722,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Harborlights Pavilion (Src 2)",
-      "notes": "ANA(x) \u00b7 unk",
+      "notes": "ANA(x) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-08-29 - Boston, MA - Harborlights Pavilion (Src 2) - ANA(x) (unk) [AUD].txt"
@@ -722,7 +736,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Holmdel, NJ",
       "venue": "PNC Bank Arts Center",
-      "notes": "ANA(x) \u00b7 unk",
+      "notes": "ANA(x) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-08-30 - Holmdel, NJ - PNC Bank Arts Center - ANA(x) (unk) [AUD].txt"
@@ -736,7 +750,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Wantagh, NY",
       "venue": "Jones Beach (Src 1)",
-      "notes": "ANA(1) \u00b7 Sony PC-62 \u00b7 ken g.",
+      "notes": "ANA(1) · Sony PC-62 · ken g.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-08-31 - Wantagh, NY - Jones Beach (Src 1) - ANA(1) (Sony PC-62) (ken g.) [AUD].txt"
