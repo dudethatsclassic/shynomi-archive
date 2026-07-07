@@ -1,0 +1,67 @@
+PIXIES 
+August 10, 1989
+Cabaret Metro
+Chicago, IL
+
+DISC #1/1 (46:40)
+-----------------
+01) Bone Machine
+02) Cactus
+03) Caribou
+04) Crackity Jones
+05) Dead
+06) Debaser
+07) Gigantic
+08) Gouge Away
+09) Hey
+10) The Holiday Song
+11) I Bleed
+12) Isla De Encanta
+13) Levitate Me
+14) Mr. Grieves
+15) Monkey Gone To Heaven
+16) Tame
+17) There Goes My Gun
+18) Wave Of Mutilation
+
+GENERATION
+-----------------
+CD[Black Hunter] > FLAC [Level 8]
+
+SOURCE (SBD#2)
+-----------------
+soundboard > unknown
+
+TRANSFER
+-----------------
+HL-DT-STDVDRAM GP57ES40 > Exact Audio Copy V1.6
+
+NOTES
+-----------------
+CRC mismatch on track 18
+No audible errors but due to the mismatch not a perfect rip
+
+FLAC FINGERPRINTS
+-----------------
+01 - Bone Machine.flac:198ade2621597e58e4af59aad9176c0e
+02 - Cactus.flac:1beec05cc35c0083a5284732d97223dd
+03 - Caribou.flac:0a5b8a341b5679edccb7084aa99ac94f
+04 - Crackity Jones.flac:ac92d58a13b3aa5f8f273e1539527c75
+05 - Dead.flac:a820347e349a3fa8dc1e2dab992051b9
+06 - Debaser.flac:cccbea790de5a38ac5447a12d41567e0
+07 - Gigantic.flac:9da5a6c177a20d18574fd10466e41588
+08 - Gouge Away.flac:93f276b845b13d0458ce58567b08f77a
+09 - Hey.flac:80aeaebe6d66de87e95754d077617741
+10 - The Holiday Song.flac:27e3decde1a11a450c9d4a9148fe5839
+11 - I Bleed.flac:d7393e7982d4f10c7d58b67c5b519d61
+12 - Isla De Encanta.flac:c5da76c2a0b336849e311f571b0d882c
+13 - Levitate Me.flac:f63a2d6eb78999f554a0dc00f9a03d08
+14 - Mr. Grieves.flac:fb1d98332280328a411ad4486ce1805e
+15 - Monkey Gone To Heaven.flac:b944d9a278b205c86f1e46c413c04ab8
+16 - Tame.flac:2acef6d236690cb7c28cbd79af5a52ea
+17 - There Goes My Gun.flac:08ae10256f02d2f849501a639427ca14
+18 - Wave Of Mutilation.flac:3944e72e86b08c634353521f924bc2e0
+
+
+Extracted by Chris Jonasson
+DO NOT SELL!

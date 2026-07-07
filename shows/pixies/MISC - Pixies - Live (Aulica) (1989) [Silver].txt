@@ -1,0 +1,57 @@
+PIXIES 
+'tracks 1 to 7'
+August 10, 1989
+Cabaret Metro
+Chicago, IL
+
+'track 8'
+1989
+Fort Apache Studios
+Boston, MA
+
+'tracks 9 to 10'
+April 16, 1989
+BBC Studios (John Peel Session)
+London, United Kingdom
+
+DISC #1/1 (28:45)
+-----------------
+01) Bone Machine
+02) Cactus
+03) Debaser
+04) Gigantic
+05) Gouge Away
+06) The Holiday Song
+07) Nimrod's Son
+08) Down To The Well
+09) Into The White
+10) Wave Of Mutilation
+
+GENERATION
+-----------------
+CD[Live] > FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+soundboard > unknown
+
+TRANSFER
+-----------------
+HL-DT-STDVDRAM GP57ES40 > Exact Audio Copy V1.6
+
+FLAC FINGERPRINTS
+-----------------
+01 - Bone Machine.flac:304d07a2dbc816716ab9c0931ab5c443
+02 - Cactus.flac:2badd44f972c8a2c16e86c5c82fdc457
+03 - Debaser.flac:083ec2f07199d907aa24f7a1e029cd23
+04 - Gigantic.flac:ecea377443cadceb642d7188766485ae
+05 - Gouge Away.flac:fe0cd88881d4dbe73b356fd930397994
+06 - The Holiday Song.flac:8717801d6d951a2457dc729e859db64d
+07 - Nimrod's Son.flac:9b477683ec30ef1c2ec7d2cb876e0f1a
+08 - Down To The Well.flac:cabc6de437f2e5d75f8f85a4c64d6967
+09 - Into The White.flac:9495cd7bbb106eb05ee78465a9281e2c
+10 - Wave Of Mutilation.flac:25f9db994eb536ba63de3f500c5fd9b3
+
+
+Extracted by Chris Jonasson
+DO NOT SELL!

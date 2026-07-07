@@ -1,0 +1,72 @@
+JOHN COLTRANE   Rarities 56/62/63
+
+A) Miles and Trane at Blue Note, Philadelphia, 12/8/56 
+
+1. Solar  (4:27)
+2. Walkin'(5:18)
+
+personnel:
+Miles Davis (tpt)
+John Coltrane (tenor sax) 
+Red Garland (piano) 
+Paul Chambers(bass) 
+"Philly"Joe Jones (drums)
+
+quality: B fm 
+
+B)unidentified material 
+This is from 62, perhaps Paris, second concert.  One of the tracks, Mr. PC, has circulated for some time, as 11/17/62 Paris, first concert, but the other two, Every Time and Impressions, are new.
+(However Live Trane Underground has Paris as 11/18/62(?)) Mr.PC is not on this show)
+
+3. Impressions (22:39)
+4. Mr.PC (15:47)
+5. Everytime We Say Goodbye (5:43)
+
+quality: A  fm  TT: 69:33min
+
+personnel:
+John Coltrane (soprano sax, tenor sax) 
+McCoy Tyner (piano) 
+Jimmy Garrison (bass) 
+Elvin Jones(drums) 
+
+C) Tete de l'Art, Montreal 63 
+
+6. Up 'Gainst the Wall (7:42)
+7. Impressions # (cut) (7:57)
+
+quality: sbd? B
+
+personnel:
+John Coltrane (soprano sax, tenor sax) 
+McCoy Tyner (piano) 
+Jimmy Garrison (bass) 
+Donald Bailey(drums) 
+
+
+lineage: 
+fm/sbd > ? >cd-r> eac(secure mode)> wav> flac(7)(asb)
+
+312 MB
+
+ffp
+JC57-Miles-01.flac:cec4319bd42102bfab7a266ce89f6e57
+JC57-Miles-02.flac:d6a77835c96f8f23856ea36c9fd6e48f
+JC62-03.flac:09d4ea633956ceea2259dfe014acd051
+JC62-04.flac:33c972def1865eb0986d5b754c3118d1
+JC62-05.flac:a1e4946a5a466d44be09f008ab49b090
+JC63-06.flac:f1dd96c9849d21f30779f2609419423c
+JC63-07.flac:0c61146e30f5d0b69ea5ced0ea0b1229
+
+md5
+1f9fe85f495d0d4ff707e70533f6f791 *JC62-04.flac
+d358b6c3ed4a4bab71c815df507697b1 *JC62-05.flac
+5a15cc7ecf81eb82603b6d9e36525a76 *JC63-06.flac
+30d2dff38972301fe380f0166b1d46c3 *JC63-07.flac
+7752523ab025dac46949e67e42424982 *JC57-Miles-01.flac
+f220a953d5a7fb62096d5c4e22103999 *JC57-Miles-02.flac
+63a602b084f87df04d728e2070a1127f *JC62-03.flac
+
+enjoy! 
+Nocturnal_n productions© 4:41 PM 22/02/2005
+(RESEED 10:47 AM 16/07/2005)

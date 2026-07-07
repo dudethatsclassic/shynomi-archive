@@ -5,6 +5,7 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1998,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Rancid - Turning Rebellion Into Money {RNCD01} (1998) [Silver].txt"
   }
 ];

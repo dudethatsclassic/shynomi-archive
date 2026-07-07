@@ -1,0 +1,74 @@
+foobar2000 1.4.1 / Dynamic Range Meter 1.1.1
+log date: 2019-08-01 23:07:08
+
+--------------------------------------------------------------------------------
+Analyzed: Michael Jackson / Transmission Impossible
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR9       -0.13 dB   -12.01 dB      3:22 01-(You Were Made) Especially for Me
+DR11      -0.11 dB   -14.43 dB      2:39 02-It's Too Late to Change the Time
+DR11      -0.43 dB   -13.91 dB      1:50 03-Never Can Say Goodbye
+DR12      -0.16 dB   -15.53 dB      4:35 04-Papa Was a Rolling Stone
+DR11      -0.09 dB   -15.10 dB      4:28 05-Happy
+DR12      -0.88 dB   -16.33 dB      5:53 06-I Am Love
+DR11      -0.40 dB   -16.69 dB      2:20 07-Randy Introduces the Band
+DR11      -0.42 dB   -13.75 dB      2:08 08-Rockin' Robin
+DR11      -0.07 dB   -13.65 dB      2:18 09-The Life of the Party
+DR11      -0.02 dB   -14.02 dB      5:26 10-Forever Comes Today
+DR13      -1.64 dB   -18.39 dB      2:42 11-Music and Me
+DR12      -1.72 dB   -17.45 dB      3:01 12-Ben
+DR10      -0.94 dB   -14.82 dB      2:13 13-I'll Be There
+DR10      -0.29 dB   -12.88 dB      3:26 14-I Want You Back / ABC / The Love You Save
+DR13      -0.16 dB   -16.57 dB      6:36 15-Tito Guitar Solo
+DR13      -6.91 dB   -23.43 dB      4:30 16-One Day in Your Life
+DR12      -0.80 dB   -16.80 dB      0:50 17-Michael Introduces the Family
+DR12      -0.01 dB   -14.31 dB      5:50 18-Dancing Machine
+DR11      -2.14 dB   -15.01 dB      2:54 19-Body Language
+DR10       0.00 dB   -11.77 dB      7:01 01-Working Day and Night
+DR10      -1.11 dB   -12.44 dB      4:00 02-Rock with You
+DR10       0.00 dB   -13.15 dB      3:40 03-Off the Wall
+DR11       0.00 dB   -14.93 dB      4:18 04-She's Out of My Life
+DR10       0.00 dB   -12.53 dB      4:25 05-Human Nature
+DR10       0.00 dB   -11.01 dB      5:39 06-Wanna Be Startin' Somethin'
+DR10       0.00 dB   -11.00 dB      6:25 07-Beat It
+DR10       0.00 dB   -13.62 dB      6:35 08-I Just Can't Stop Loving You
+DR10       0.00 dB   -11.72 dB      6:17 09-Bad
+DR12       0.00 dB   -14.04 dB      9:06 10-Billie Jean
+DR10      -0.33 dB   -12.44 dB      4:15 11-The Way You Make Me Feel
+DR11       0.00 dB   -13.15 dB      6:27 12-Smooth Criminal
+DR11       0.00 dB   -12.37 dB      4:00 13-Black or White
+DR10      -0.35 dB   -13.03 dB      6:06 14-Thriller
+DR10       0.00 dB   -11.34 dB      3:16 01-ABC (American Bandstand, 21st February 1970)
+DR12       0.00 dB   -12.60 dB      2:05 02-There Was a Time (American Bandstand, 21st February 1970)
+DR11       0.00 dB   -13.29 dB      3:49 03-Dancing Machine (Tonight Show with Johnny Carson, 4th April 1974)
+DR11       0.00 dB   -14.53 dB      4:04 04-Push Me Away (Soul Train, 3rd February 1979)
+DR10      -0.73 dB   -11.71 dB      5:09 05-Rock with You (Diana Ross TV Special, 5th February 1981)
+DR10      -0.03 dB   -11.36 dB      1:47 06-Ease on Down the Road (Diana Ross TV Special, 5th February 1981)
+DR12       0.00 dB   -13.84 dB      2:43 07-I Want You Back - The Love You Save (Motown 25, 5th March 1983)
+DR11      -0.01 dB   -13.30 dB      0:58 08-Never Can Say Goodbye (Motown 25, 5th March 1983)
+DR12      -0.01 dB   -14.60 dB      3:54 09-I'll Be There (Motown 25, 5th March 1983)
+DR10      -5.50 dB   -16.84 dB      4:58 10-Billie Jean (Motown 25, 5th March 1983)
+DR13       0.00 dB   -15.73 dB      3:21 11-The Way You Make Me Feel (30th Annual Grammy Awards, 2nd March 1988)
+DR13       0.00 dB   -15.24 dB      6:37 12-Man in the Mirror (30th Annual Grammy Awards, 2nd March 1988)
+DR10       0.00 dB   -12.61 dB      2:55 13-Jam (Super Bowl XXVII Halftime Show, 31st January 1993)
+DR10      -0.04 dB   -10.75 dB      1:02 14-Billie Jean (Super Bowl XXVII Halftime Show, 31st January 1993)
+DR9        0.00 dB   -10.10 dB      3:38 15-Black or White (Super Bowl XXVII Halftime Show, 31st January 1993)
+DR9        0.00 dB   -10.81 dB      0:59 16-We Are the World (Super Bowl XXVII Halftime Show, 31st January 1993)
+DR8        0.00 dB    -8.86 dB      4:17 17-Heal the World (Super Bowl XXVII Halftime Show, 31st January 1993)
+DR11      -0.01 dB   -14.31 dB      5:41 18-You Are Not Alone (Soul Train Music Awards, 13th March 1995)
+DR12       0.00 dB   -13.63 dB      5:39 19-Smooth Criminal (2DF in Concert, Munich, Germany, 6th July 1997)
+DR11       0.00 dB   -11.71 dB      6:40 20-Thriller (2DF in Concert, Munich, Germany, 6th July 1997)
+--------------------------------------------------------------------------------
+
+Number of tracks:  53
+Official DR value: DR11
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           903 kbps
+Codec:             FLAC
+================================================================================
+

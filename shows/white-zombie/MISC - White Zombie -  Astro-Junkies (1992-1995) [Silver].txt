@@ -1,0 +1,32 @@
+White Zombie
+Astro-Junkies 1995
+
+tracks 1-6 Donnington Festie UK Aug 26th 95 
+tracks 7-12 bizarre festie Cologne Germany 19 aug 95 
+tracks 13-16 Palladium, hollywood, 1992
+
+Source: CD > ? > wav  > FlacFrontend (level 7, SB's alligned, verify) > FLAC > Tag&Rename 3.15 > FLAC
+
+1.electric head pt1 
+2.super charger heaven 
+3.real solution no 9 
+4.more human than human 
+5.electric head pt 2 
+6.thunder kiss 65 
+7.super charger heaven 
+8.real solution no 9 
+9.welcome to planet motherfucker/psychoholic slag 
+10.electric head pt 2 
+11.more human than human 
+12. thunder kiss 65 
+13. grindhouse a go go 
+14.cosmic monsters inc 
+15. spider baby (yeah, yeah, yeah) 
+16.I am legend 
+
+Notes:
+This was seeded at EZT w. no info as .wav, so i FLAC'd and tagged, generated .m3u, .ffp, .md5, this .txt, and attached the art. 
+Thanks to "Gastronomix" for the original wavs.
+
+tall_leaping4afrog@yahoo.com
+2004-10-28

@@ -455,7 +455,7 @@ const ARTIST_DATA = {
       "notes": "Piazza",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1992-07-03 - Lagano, Switzerland - Estival Jazz - Piazza Della Riforma [SBD].txt"
+      "textFile": "1992-07-03 - CLagano, Switzerland - Estival Jazz - Piazza Della Riforma (Swissbird) [SBD].txt"
     },
     {
       "year": 1992,
@@ -469,7 +469,7 @@ const ARTIST_DATA = {
       "notes": "Piazza \u00b7 swissbird",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1992-07-03 - CLagano, Switzerland - Estival Jazz - Piazza Della Riforma (Swissbird) [SBD].txt"
+      "textFile": "1992-07-03 - Lagano, Switzerland - Estival Jazz - Piazza Della Riforma [SBD].txt"
     },
     {
       "year": 1993,

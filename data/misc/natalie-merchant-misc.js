@@ -5,6 +5,7 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1995,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Natalie Merchant - Solo Sessions 94-95 {PD081} (1995) [FLAC].txt"
   }
 ];

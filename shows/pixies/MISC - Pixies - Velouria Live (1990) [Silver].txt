@@ -1,0 +1,64 @@
+PIXIES 
+'tracks 1 to 9'
+September 25, 1990
+Muziekcentrum Vredenburg
+Utrecht, The Netherlands
+
+'tracks 10 to 16'
+August 10, 1989
+Cabaret Metro
+Chicago, IL
+
+DISC #1/1 (41:10)
+-----------------
+01) Monkey Gone To Heaven
+02) Isla De Encanta
+03) Velouria
+04) Wave Of Mutilation
+05) Where Is My Mind?
+06) Ed Is Dead
+07) Allison
+08) Broken Face
+09) Tony's Theme
+10) Bone Machine
+11) Cactus
+12) Debaser
+13) Gigantic
+14) Gouge Away
+15) The Holiday Song
+16) Nimrod's Son
+
+GENERATION
+-----------------
+CD[Velouria Live] > FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+soundboard > unknown
+
+TRANSFER
+-----------------
+HL-DT-STDVDRAM GP57ES40 > Exact Audio Copy V1.6
+
+FLAC FINGERPRINTS
+-----------------
+01 - Monkey Gone To Heaven.flac:6c34c6506cbd910dd97bf335d199fa6c
+02 - Isla De Encanta.flac:79d6e2306af281a729050e7496883223
+03 - Velouria.flac:efe91e71e8370d4bd3c4bc9097c02df9
+04 - Wave Of Mutilation.flac:e579f2b8a7e8fe834d66c26fcff7300f
+05 - Where Is My Mind.flac:000accd4b7cea463ea940bf5edba108a
+06 - Ed Is Dead.flac:a5224cfc8f0bcc98ada65a60dc1061d6
+07 - Allison.flac:dfc1704a0d0d7c150637632fb5015ff6
+08 - Broken Face.flac:9ef1e6aeae6c5dba8d7a593359d771e9
+09 - Tony's Theme.flac:c005b77f132e9da3f9c828f81a10b4d8
+10 - Bone Machine.flac:4bc38607e18b9d58f857272a6fd3aaea
+11 - Cactus.flac:ebf94412a94f842c10a0f8716a9716e0
+12 - Debaser.flac:ade8b353239a546ccfa27980c5e21149
+13 - Gigantic.flac:887f5d8f972bafa825ca253ef44c1cfd
+14 - Gouge Away.flac:9679f310727b07b06a19e2dcaea0e75b
+15 - The Holiday Song.flac:66ff30752c301d038707b3b30d8682ff
+16 - Nimrods Son.flac:a91698613342a3ae861e11d05c2f8b90
+
+
+Extracted by Chris Jonasson
+DO NOT SELL!

@@ -1,0 +1,10 @@
+Equipment:
+RCM: Nitty Gritty Record Master I
+Table: VPI HW-19 MKIII with corian plinth on sorbothane pucks
+Motor: VPI HW-19 SAMA
+Tonearm: Rega RB-250 w/ cardas rewire
+Cartridge: Ortofon Kontrapunkt B
+Pre-Amp: Ray Samuels F-117
+Interface: Apogee Duet 2
+Computer: 2.2 GHz Intel Core i7; Mac OS 10.9.2
+Software: Logic 10.0.6 / iZotope RX 3 / Amadeus Pro 2.1.5 / XLD 20140504

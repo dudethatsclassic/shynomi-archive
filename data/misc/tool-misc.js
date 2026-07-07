@@ -166,23 +166,78 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Tool - Live & Rare v1 1997-2006 (EC666) (24-48)",
     "version": "Compilation",
-    "format": "FLAC 24"
+    "format": "FLAC 24",
+    "textFile": "MISC - Tool - Live & Rare v1 1997-2006 (EC666) (24-48).txt"
   },
   {
     "type": "release",
     "label": "Tool - Live & Rare v2 2006-2019 (EC666) (24-48)",
     "version": "Compilation",
-    "format": "FLAC 24"
+    "format": "FLAC 24",
+    "textFile": "MISC - Tool - Live & Rare v2 2006-2019 (EC666) (24-48).txt"
   },
   {
     "type": "release",
     "label": "Tool - Live & Rare v3 2006-2019 (EC666) (24-48)",
     "version": "Compilation",
-    "format": "FLAC 24"
+    "format": "FLAC 24",
+    "textFile": "MISC - Tool - Live & Rare v3 2006-2019 (EC666) (24-48).txt"
   },
   {
     "type": "label",
     "label": "Tool - Limited Editon Promo (Live) (1993)",
     "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "07-XX - Sylvia Massey Video",
+    "year": 1992,
+    "format": "DVD",
+    "textFile": "MISC - 1992-07-XX - Sylvia Massey Video [DVD].txt"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - Undertow Outtakes",
+    "year": 1992
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - Van Nuys, CA - The Sylvia Massy Outtakes - Bottom at Sound City Studios - DAT(M)",
+    "year": 1992,
+    "format": "SBD",
+    "textFile": "MISC - 1992-XX-XX - Van Nuys, CA - The Sylvia Massy Outtakes - Bottom at Sound City Studios - DAT(M) [SBD].txt"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - Van Nuys, CA - The Sylvia Massy Outtakes - Guitar Drum at Sound City Studios - DAT(M)",
+    "year": 1992,
+    "format": "SBD",
+    "textFile": "MISC - 1992-XX-XX - Van Nuys, CA - The Sylvia Massy Outtakes - Guitar Drum at Sound City Studios - DAT(M) [SBD].txt"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - Van Nuys, CA - The Sylvia Massy Outtakes - Sound FX at Sound City Studios - DAT(M)",
+    "year": 1992,
+    "format": "SBD",
+    "textFile": "MISC - 1992-XX-XX - Van Nuys, CA - The Sylvia Massy Outtakes - Sound FX at Sound City Studios - DAT(M) [SBD].txt"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - D'Amour Demos",
+    "year": 1995,
+    "textFile": "MISC - 1995-XX-XX - D'Amour Demos.txt"
+  },
+  {
+    "type": "release",
+    "label": "Silvers"
+  },
+  {
+    "type": "release",
+    "label": "Tool - Live Covers + Alternate Versions",
+    "textFile": "MISC - Tool - Live Covers + Alternate Versions.txt"
+  },
+  {
+    "type": "release",
+    "label": "Tool Art"
   }
 ];

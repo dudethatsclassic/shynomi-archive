@@ -5,7 +5,8 @@ const ARTIST_MISC_DATA = [
     "version": "LP",
     "format": "FLAC",
     "year": 1955,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Chuck Berry - America's Hottest Wax (Studio 1955-1963) [Vinyl].txt"
   },
   {
     "type": "release",
@@ -39,5 +40,30 @@ const ARTIST_MISC_DATA = [
     "version": "FM",
     "format": "FLAC",
     "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Chuck Berry - Boulder, CO - KBCO Radio Show",
+    "format": "FM",
+    "textFile": "MISC - Chuck Berry - Boulder, CO - KBCO Radio Show [FM].txt"
+  },
+  {
+    "type": "release",
+    "label": "Chuck Berry - French Broadcasts from 1965-2004",
+    "format": "FM",
+    "textFile": "MISC - Chuck Berry - French Broadcasts from 1965-2004 [FM].txt"
+  },
+  {
+    "type": "release",
+    "label": "Chuck Berry - More Rock 'n Roll Rarities"
+  },
+  {
+    "type": "release",
+    "label": "Chuck Berry - Rock 'n Roll Rarities"
+  },
+  {
+    "type": "release",
+    "label": "Chuck Berry - Six Two Five",
+    "textFile": "MISC - Chuck Berry - Six Two Five.txt"
   }
 ];

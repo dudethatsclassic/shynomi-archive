@@ -1,0 +1,63 @@
+PIXIES 
+July 31, 1989
+Malibu Night Club
+Lido Beach, NY
+
+DISC #1/1 (45:44)
+-----------------
+01) Bone Machine
+02) Cactus
+03) Caribou
+04) Crackity Jones
+05) Dead
+06) Debaser
+07) Gigantic
+08) Gouge Away
+09) Hey
+10) I Bleed
+11) Isla De Encanta
+12) Levitate Me
+13) Mr. Grieves
+14) Monkey Gone To Heaven
+15) Wave Of Mutilation
+16) Where Is My Mind?
+
+GENERATION
+-----------------
+CD[This Was My Life] > FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+soundboard > unknown
+
+TRANSFER
+-----------------
+HL-DT-STDVD-RAM GHC0N > Exact Audio Copy V1.5
+
+NOTES
+-----------------
+CRC mismatch on track 16
+Disc is scratched and has digital glitches on parts of track 16
+
+FLAC FINGERPRINTS
+-----------------
+01 Bone Machine.flac:6a1e84a72d471bbf4ce758c4cb810114
+02 Cactus.flac:9351454ec7f9ccf06d31021ea641bcb8
+03 Caribou.flac:7ccd9f1bfbb1a1379352aaed0e944a92
+04 Crackity Jones.flac:5908bb607b76ee82f8e00ae5ad90984b
+05 Dead.flac:1165f472594e418617cd810a43342ba4
+06 Debaser.flac:2370598ba4a672e64cb4a47a697f353f
+07 Gigantic.flac:36ca1a55903d3b7c6a378373ae44edc7
+08 Gouge Away.flac:a0f67429b0855543b706d55af686d2ff
+09 Hey.flac:2c5e3c6bbb1754ef003028aec5961b27
+10 I Bleed.flac:a7cdaf398a3b63cd468a75e25a3453e4
+11 Isla De Encanta.flac:f3ee86bad648ac0051054d470aedca5b
+12 Levitate Me.flac:2232536d67f4497e9e408753a6f88869
+13 Mr Grieves.flac:d0388791118ebf1ef70211824e3e5ba3
+14 Monkey Gone to Heaven.flac:62f0f1d0d190a42c0f6ec7cbee598831
+15 Wave of Mutilation.flac:ea57efdc500de82a9582b74ac39317c8
+16 Wheres My Mind.flac:f2a9de543c49b2981e337be78be9e307
+
+
+Extracted by Chris Jonasson
+DO NOT SELL!

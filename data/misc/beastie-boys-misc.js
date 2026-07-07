@@ -46,7 +46,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1994,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Beastie Boys - Shake Your Rump {SE-460} (1994) [Silver].txt"
   },
   {
     "type": "release",
@@ -54,7 +55,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1994,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Beastie Boys - Hip-Hop Sampler (SPRO 79481) (1994) [Silver].txt"
   },
   {
     "type": "release",
@@ -70,7 +72,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1995,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Beastie Boys - Ultra Tuff Tracks (1995) (BMCD38) [Silver].txt"
   },
   {
     "type": "release",
@@ -78,7 +81,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1996,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Beastie Boys - Fight for Tibet (BLZD 148) [Silver].txt"
   },
   {
     "type": "release",
@@ -102,7 +106,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2003,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Beastie Boys - Beastie Show Breaks (2003) (BB-SV-5) [Silver].txt"
   },
   {
     "type": "release",
@@ -111,5 +116,41 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 1994,
     "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - Desperado (Unreleased Studio Version)",
+    "year": 1988,
+    "textFile": "MISC - 1988-XX-XX - Desperado (Unreleased Studio Version).txt"
+  },
+  {
+    "type": "release",
+    "label": "Beastie Boys - 1994-1995 - Turning Japanese",
+    "version": "Silver CD",
+    "textFile": "MISC - Beastie Boys - 1994-1995 - Turning Japanese [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Beastie Boys - Hip-Hop Sampler (Bootleg) 1994",
+    "version": "Silver CD",
+    "textFile": "MISC - Beastie Boys - Hip-Hop Sampler (Bootleg) 1994 [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Beastie Boys - Nastie Beastie Bootie (Hellfire TMOQ) (1998)",
+    "year": 1998,
+    "version": "Silver CD",
+    "textFile": "MISC - Beastie Boys - Nastie Beastie Bootie (Hellfire TMOQ) (1998) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Beastie Boys - Original Ill",
+    "version": "Silver CD",
+    "textFile": "MISC - Beastie Boys - Original Ill [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Beastie Boys - Pauls Demos.flac",
+    "textFile": "MISC - Beastie Boys - Pauls Demos.flac.txt"
   }
 ];

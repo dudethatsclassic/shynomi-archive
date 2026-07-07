@@ -1,0 +1,17 @@
+
+The Flaming Lips - BBC 6 Music Interviews and Sessions
+
+01 Andrew Collins interviews WAYNE COYNE  
+02 Yoshimi Battles The Pink Robots  
+03 Yoshimi Becomes A Pink Robot  
+04 Satellite Of You  
+05 The Colossal Gray Sunshine  
+06 All We Have Is Now  
+07 Wayne Coyne talks to Gideon Coe about Yoshimi and much more ... 
+ 
+source:
+http://www.bbc.co.uk/6music/artists/flaminglips/
+
+transfer:
+RealAudio stream direct to WAV file via Winamp/Tara AV input plug-in/Nullsoft diskwriter
+WAV->SHN via MKWAct (seek files appended)

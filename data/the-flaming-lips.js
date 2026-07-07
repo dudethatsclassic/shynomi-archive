@@ -780,7 +780,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-11-17 - Cambridge, MA - Newbury Comics [AUD].txt"
+      "textFile": "1994-11-17 - Cambridge, MA - Newbury Comics (Sony WM-D6) (manofstealth) [AUD24].txt"
     },
     {
       "year": 1994,
@@ -794,7 +794,7 @@ const ARTIST_DATA = {
       "notes": "Sony WM-D6 \u00b7 manofstealth",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1994-11-17 - Cambridge, MA - Newbury Comics (Sony WM-D6) (manofstealth) [AUD24].txt"
+      "textFile": "1994-11-17 - Cambridge, MA - Newbury Comics [AUD].txt"
     },
     {
       "year": 1995,

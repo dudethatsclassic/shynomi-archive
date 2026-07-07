@@ -1,0 +1,9 @@
+    length     expanded size   cdr  WAVE problems filename
+     3:25.66       36317276    ---   --   -----   Chuck_Berry1_KBCO_Live_D1T01.wav
+     5:26.32       57581708    ---   --   -----   Chuck_Berry1_KBCO_Live_D1T02.wav
+     5:35.02       59098748    ---   --   -----   Chuck_Berry1_KBCO_Live_D1T03.wav
+     5:03.04       53458652    ---   --   -----   Chuck_Berry1_KBCO_Live_D1T04.wav
+    12:25.11      131443916    ---   --   -----   Chuck_Berry1_KBCO_Live_D1T05.wav
+     2:27.14       25963772    ---   --   -----   Chuck_Berry1_KBCO_Live_D1T06.wav
+     2:34.18       27207980    ---   --   -----   Chuck_Berry1_KBCO_Live_D1T07.wav
+    36:56.72      391072052 B                     (totals for 7 files, 1.0000 overall compression ratio)
