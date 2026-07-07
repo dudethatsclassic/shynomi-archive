@@ -114,7 +114,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -155,7 +155,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Knitting Factory",
-      "notes": "Sony WM-D3 \u00b7 manofstealth",
+      "notes": "Sony WM-D3 · manofstealth",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2005-08-07 - Los Angeles, CA - Knitting Factory (Sony WM-D3) (manofstealth) [AUD24].txt"
@@ -169,7 +169,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
-      "notes": "ECM-909a \u00b7 steve hanna",
+      "notes": "ECM-909a · steve hanna",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-07-26 - Carrboro, NC - Cat's Cradle (ECM-909a) (steve hanna) [AUD].txt"
@@ -183,7 +183,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Glanusk Park",
       "venue": "Wales, UK / Green Man Festival",
-      "notes": "Far \u00b7 SP-CMC-2s \u00b7 rayrad",
+      "notes": "Far · SP-CMC-2s · rayrad",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-08-22 - Glanusk Park - Wales, UK - Green Man Festival - Far Out Tent (SP-CMC-2s) (rayrad) [AUD].txt"
@@ -197,7 +197,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Pumpehuset",
-      "notes": "CA-14 \u00b7 unk",
+      "notes": "CA-14 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-04-25 - Copenhagen, Denmark - Pumpehuset (CA-14) (unk) [AUD].txt"
@@ -211,7 +211,7 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "San Sebastian, Spain",
       "venue": "Victoria Eugenia",
-      "notes": "Yamaha PR7 \u00b7 unaesfingelunar",
+      "notes": "Yamaha PR7 · unaesfingelunar",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-10-15 - San Sebastian, Spain - Victoria Eugenia (Yamaha PR7) (unaesfingelunar) [AUD].txt"
@@ -225,7 +225,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Mississippi Studios",
-      "notes": "DPA 4061s \u00b7 tim kahn",
+      "notes": "DPA 4061s · tim kahn",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-05-12 - Portland, OR - Mississippi Studios (DPA 4061s) (tim kahn) [AUD24].txt"
@@ -239,7 +239,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Mississippi Studios",
-      "notes": "DPA 4061s \u00b7 tim kahn",
+      "notes": "DPA 4061s · tim kahn",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-05-13 - Portland, OR - Mississippi Studios (DPA 4061s) (tim kahn) [AUD24].txt"
@@ -253,7 +253,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Filmore",
-      "notes": "Schoeps MK4 \u00b7 loughney",
+      "notes": "Schoeps MK4 · loughney",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-05-16 - San Francisco, CA - The Filmore (Schoeps MK4) (loughney) [AUD24].txt"
@@ -267,7 +267,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Teragram Ballroom",
-      "notes": "CA-11 \u00b7 manofstealth",
+      "notes": "CA-11 · manofstealth",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-05-18 - Los Angeles, CA - Teragram Ballroom (CA-11) (manofstealth) [AUD24].txt"
@@ -281,7 +281,7 @@ const ARTIST_DATA = {
       "state": "Argentina",
       "location": "Buenos Aires, Argentina",
       "venue": "C Art Media",
-      "notes": "MM-MCSM-4 \u00b7 rony kohn",
+      "notes": "MM-MCSM-4 · rony kohn",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-09-09 - Buenos Aires, Argentina - C Art Media (MM-MCSM-4) (rony kohn) [AUD].txt"
