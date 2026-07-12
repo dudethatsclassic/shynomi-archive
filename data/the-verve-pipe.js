@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "the-verve-pipe",
   "name": "The Verve Pipe",
   "drive": "B",
-  "showCount": 30,
+  "showCount": 31,
   "firstYear": 1997,
   "lastYear": 2026,
   "years": [
@@ -382,6 +382,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-01-17 - Wadsworth, OH - The Celestia Theater (CA-14) (live2cd) [AUD24].txt"
+    },
+    {
+      "year": 2026,
+      "month": 3,
+      "day": 15,
+      "dateStr": "3-15-2026",
+      "city": "Orlando",
+      "state": "FL",
+      "location": "Orlando, FL",
+      "venue": "The Plaza Live",
+      "notes": "Panasonic MM-BSM7 · kevdogg",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2026,
