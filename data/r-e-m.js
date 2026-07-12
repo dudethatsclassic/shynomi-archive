@@ -6287,7 +6287,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Nippon Budokan",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "",
       "textFile": "1995-02-01 - Tokyo, Japan - Nippon Budokan [AUD].txt"
@@ -6301,7 +6301,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Nippon Budokan",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": ""
     },
@@ -6314,7 +6314,7 @@ const ARTIST_DATA = {
       "state": "Taiwan",
       "location": "Taipei, Taiwan",
       "venue": "Plenary Hall",
-      "notes": "Taipei",
+      "notes": "Taipei · M · Aiwa mic · milesian",
       "version": "AUD",
       "format": "",
       "textFile": "1995-02-04 - Taipei, Taiwan - Plenary Hall - Taipei International Convention Center [AUD].txt"
@@ -6328,7 +6328,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Toulon, France",
       "venue": "Zenith Omega",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "",
       "textFile": "1995-02-19 - Toulon, France - Zenith Omega [AUD].txt"
@@ -6342,7 +6342,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Turin, Italy",
       "venue": "Palastampa",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "",
       "textFile": "1995-02-20 - Turin, Italy - Palastampa [AUD].txt"
