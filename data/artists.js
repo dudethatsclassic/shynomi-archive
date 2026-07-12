@@ -296,7 +296,7 @@ const ARTISTS = [
   {
     "id": "blind-melon",
     "name": "Blind Melon",
-    "showCount": 49,
+    "showCount": 48,
     "firstYear": 1990,
     "lastYear": 2013
   },
