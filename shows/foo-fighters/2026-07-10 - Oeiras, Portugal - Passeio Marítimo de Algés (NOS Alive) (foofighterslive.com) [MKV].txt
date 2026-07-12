@@ -1,0 +1,52 @@
+Foo Fighters
+July 10th, 2026
+Passeio Marítimo de Algés (NOS Alive)
+Oeiras, Portugal
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+N_m3u8DL-RE 20251029 > shaka-packager v3.4.2-c819dea-release > VideoReDo Pro 6.93.7.836 > MKVToolNixGUI v93.0
+
+GENERATION:
+Live Webstream > MKV (1080p H.264/AAC Stereo 192kbps)
+
+NOTES:
+- Direct copy of the webstream, no re-encoding, no errors.
+
+TRACKS:
+01. All My Life
+02. The Pretender
+03. Times Like These
+04. Rope
+05. Stacked Actors
+06. My Hero
+07. Learn To Fly
+08. These Days
+09. Walk
+10. This Is A Call
+11. No Son Of Mine (w/ Motorhead's 'Ace Of Spades' interlude)
+12. Wheels
+13. Marigold
+14. Big Me
+15. La Dee Da
+16. Run
+17. Invincible (partial)
+18. Seven (partial)
+19. One Headlight (partial)
+20. Manimal (partial)
+21. Tap Dancing In A Minefield (partial)
+22. Monkey Wrench
+23. Breakout
+24. The Sky Is A Neighborhood
+25. Aurora
+26. Best Of You
+27. Exhausted
+28. Everlong
+
+MD5 FINGERPRINTS:
+5ddc7da3629ef1c6e2d263668ce42ef7 *2026-07-10_FF_NosAlive_PRO1_WEBSTREAM_1080p_Stereo.mkv
+
+CAPTURED BY:
+FooFightersLive.com

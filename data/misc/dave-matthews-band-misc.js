@@ -257,8 +257,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "003 - 2000-08-27 -  Hartford, CT - Meadows Music Theatre - Live Trax Vol. 03 (WEB)",
     "format": "FLAC",
-    "category": "LIVE TRAX SERIES",
-    "textFile": "MISC - 003 - 2000-08-27 -  Hartford, CT - Meadows Music Theatre - Live Trax Vol. 03 (WEB) [FLAC].txt"
+    "category": "LIVE TRAX SERIES"
   },
   {
     "type": "release",
@@ -282,8 +281,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "006 - 2006-07-06+7 - Boston, MA - Fenway Park - Live Trax Vol. 6",
     "format": "FLAC",
-    "category": "LIVE TRAX SERIES",
-    "textFile": "MISC - 006 - 2006-07-06+7 - Boston, MA - Fenway Park - Live Trax Vol. 6 [FLAC].txt"
+    "category": "LIVE TRAX SERIES"
   },
   {
     "type": "release",
@@ -403,15 +401,13 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "026 - 2003-07-30 - Marysville, CA - Sleep Train Amphitheatre - Live Trax Vol. 26",
     "format": "FLAC",
-    "category": "LIVE TRAX SERIES",
-    "textFile": "MISC - 026 - 2003-07-30 - Marysville, CA - Sleep Train Amphitheatre - Live Trax Vol. 26 [FLAC].txt"
+    "category": "LIVE TRAX SERIES"
   },
   {
     "type": "release",
     "label": "027 - 2010-10-14 - Buenos Aires, Argentina - Luna Park - Live Trax, Vol. 27",
     "format": "FLAC",
-    "category": "LIVE TRAX SERIES",
-    "textFile": "MISC - 027 - 2010-10-14 - Buenos Aires, Argentina - Luna Park - Live Trax, Vol. 27 [FLAC].txt"
+    "category": "LIVE TRAX SERIES"
   },
   {
     "type": "release",
@@ -423,8 +419,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "029 - 2013-06-01 - Cuyahoga Falls, OH - Blossom Music Center - Live Trax Vol. 29",
     "format": "FLAC",
-    "category": "LIVE TRAX SERIES",
-    "textFile": "MISC - 029 - 2013-06-01 - Cuyahoga Falls, OH - Blossom Music Center - Live Trax Vol. 29 [FLAC].txt"
+    "category": "LIVE TRAX SERIES"
   },
   {
     "type": "release",
@@ -436,8 +431,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "031 - 2001-06-23 - Camden, NJ - Tweeter Center - Live Trax, Vol. 31",
     "format": "FLAC",
-    "category": "LIVE TRAX SERIES",
-    "textFile": "MISC - 031 - 2001-06-23 - Camden, NJ - Tweeter Center - Live Trax, Vol. 31 [FLAC].txt"
+    "category": "LIVE TRAX SERIES"
   },
   {
     "type": "release",
@@ -485,8 +479,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "039 - 1998-10-31 - Oakland, CA - The Arena - Live Trax Vol. 39",
     "format": "FLAC",
-    "category": "LIVE TRAX SERIES",
-    "textFile": "MISC - 039 - 1998-10-31 - Oakland, CA - The Arena - Live Trax Vol. 39 [FLAC].txt"
+    "category": "LIVE TRAX SERIES"
   },
   {
     "type": "release",
@@ -498,15 +491,13 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "042 - 2007-09-14 - West Palm Beach, FL - Sound Advice Amphitheatre - Live Trax Vol. 42",
     "format": "FLAC",
-    "category": "LIVE TRAX SERIES",
-    "textFile": "MISC - 042 - 2007-09-14 - West Palm Beach, FL - Sound Advice Amphitheatre - Live Trax Vol. 42 [FLAC].txt"
+    "category": "LIVE TRAX SERIES"
   },
   {
     "type": "release",
     "label": "043 - 2004-07-27 - Atlanta, GA - HiFi Buys Amphitheatre - Live Trax Vol. 43",
     "format": "FLAC",
-    "category": "LIVE TRAX SERIES",
-    "textFile": "MISC - 043 - 2004-07-27 - Atlanta, GA - HiFi Buys Amphitheatre - Live Trax Vol. 43 [FLAC].txt"
+    "category": "LIVE TRAX SERIES"
   },
   {
     "type": "release",
@@ -603,32 +594,27 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "10-21 - Mixtape (Compilation)",
     "year": 1991,
-    "format": "SBD",
-    "textFile": "MISC - 1991-10-21 - Mixtape (Compilation) [SBD].txt"
+    "format": "SBD"
   },
   {
     "type": "release",
     "label": "XX-XX - Grannys Demo",
     "year": 1991,
-    "format": "SBD",
-    "textFile": "MISC - 1991-XX-XX - Grannys Demo [SBD].txt"
+    "format": "SBD"
   },
   {
     "type": "release",
     "label": "06-XX - Ardent Studio Demos",
     "year": 1992,
-    "format": "SBD",
-    "textFile": "MISC - 1992-06-XX - Ardent Studio Demos [SBD].txt"
+    "format": "SBD"
   },
   {
     "type": "release",
     "label": "Dave Matthews - Mother's Night Tape (1989)",
-    "year": 1989,
-    "textFile": "MISC - Dave Matthews - Mother's Night Tape (1989).txt"
+    "year": 1989
   },
   {
     "type": "release",
-    "label": "Dave Matthews Band - 1990-93 Demos",
-    "textFile": "MISC - Dave Matthews Band - 1990-93 Demos.txt"
+    "label": "Dave Matthews Band - 1990-93 Demos"
   }
 ];

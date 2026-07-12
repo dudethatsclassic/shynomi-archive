@@ -1948,13 +1948,13 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Mashed Potatoes (thir13en remaster)",
     "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - Mashed Potatoes (thir13en remaster).txt"
+    "textFile": "MISC - The Smashing Pumpkins - Machina II (thir13en remaster).txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Off Their Rawkers (thir13en remaster)",
     "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - Reel Time Sessions (thir13en remaster).txt"
+    "textFile": "MISC - The Smashing Pumpkins - Mashed Potatoes (thir13en remaster).txt"
   },
   {
     "type": "release",

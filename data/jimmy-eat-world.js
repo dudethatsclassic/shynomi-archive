@@ -89,7 +89,7 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Vienna, Austria",
       "venue": "Gasometer",
-      "notes": "CSB · wzbw88",
+      "notes": "CSB \u00b7 wzbw88",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-02-10 - Vienna, Austria - Gasometer (CSB) (wzbw88) [AUD].txt"
@@ -130,7 +130,7 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Wichita, KS",
       "venue": "The Cotillion Ballroom",
-      "notes": "Zoom H1 · penguin",
+      "notes": "Zoom H1 \u00b7 penguin",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-05-21 - Wichita, KS - The Cotillion Ballroom (Zoom H1) (penguin) [AUD].txt"
@@ -158,7 +158,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Im Wizemann",
-      "notes": "Schoeps MK4 · unk",
+      "notes": "Schoeps MK4 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2016-11-12 - Stuttgart, Germany - Im Wizemann (Schoeps MK4) (unk) [AUD].txt"
@@ -186,7 +186,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Huxley's Neue Welt",
-      "notes": "Roland CS-10EM · unk",
+      "notes": "Roland CS-10EM \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2017-06-28 - Berlin, Germany - Huxley's Neue Welt (Roland CS-10EM) (unk) [AUD].txt"
@@ -200,7 +200,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "DPA 4061 · inc",
+      "notes": "DPA 4061 \u00b7 inc",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -241,7 +241,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Napa, CA",
       "venue": "Bottlerock Festival",
-      "notes": "SP-CMC-8 · unk",
+      "notes": "SP-CMC-8 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-09-05 - Napa, CA - Bottlerock Festival (SP-CMC-8) (unk) [AUD].txt"
@@ -297,7 +297,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "KEMBA Live",
-      "notes": "AT853U · charles dewey cole",
+      "notes": "AT853U \u00b7 charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-09-09 - Columbus, OH - KEMBA Live (AT853U) (charles dewey cole) [AUD].txt"
@@ -311,7 +311,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riot Fest",
-      "notes": "Schoeps MK4s · ryanj",
+      "notes": "Schoeps MK4s \u00b7 ryanj",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-09-18 - Chicago, IL - Riot Fest (Schoeps MK4s) (ryanj) [AUD24].txt"
@@ -325,7 +325,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Rod Laver Arena",
-      "notes": "Zoom H1n · claire laura fredriksson",
+      "notes": "Zoom H1n \u00b7 claire laura fredriksson",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-03-17 - Melbourne, Australia - Rod Laver Arena (Zoom H1n) (claire laura fredriksson) [AUD24].txt"
@@ -339,7 +339,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "West Springfield, MA",
       "venue": "The Big E Arena",
-      "notes": "MZR50 · unk",
+      "notes": "MZR50 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-09-16 - West Springfield, MA - The Big E Arena (MZR50) (unk) [AUD].txt"
@@ -353,7 +353,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-03-04 - Anaheim, CA - Honda Center (DPA 4081) (faninor) [AUD24].txt"
@@ -367,7 +367,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Columbiahalle",
-      "notes": "Roland CS-10EM · unk",
+      "notes": "Roland CS-10EM \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-11-07 - Berlin, Germany - Columbiahalle (Roland CS-10EM) (unk) [AUD24].txt"
@@ -381,7 +381,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Main Stage",
-      "notes": "Coachella · 1080p",
+      "notes": "Coachella \u00b7 1080p",
       "version": "WEB",
       "format": "MP4",
       "textFile": "2025-04-19 - Indio, CA - Main Stage - Coachella Weekend Two (1080p) [WEB].txt"
@@ -391,14 +391,14 @@ const ARTIST_DATA = {
       "month": 6,
       "day": 20,
       "dateStr": "6-20-2025",
-      "city": "Scheeßel",
+      "city": "Schee\u00dfel",
       "state": "Eichenring",
-      "location": "Scheeßel, Eichenring",
+      "location": "Schee\u00dfel, Eichenring",
       "venue": "Hurricane Festival",
-      "notes": "magentamusik.de · 1080",
+      "notes": "magentamusik.de \u00b7 1080",
       "version": "WEB",
       "format": "TS",
-      "textFile": "2025-06-20 - Scheeßel, Eichenring - Hurricane Festival (magentamusik.de) (1080) [TS].txt"
+      "textFile": "2025-06-20 - Schee\u00dfel, Eichenring - Hurricane Festival (magentamusik.de) (1080) [TS].txt"
     },
     {
       "year": 2026,
@@ -409,9 +409,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Brooklyn Paramount",
-      "notes": "unk · petersconcerts",
+      "notes": "unk \u00b7 petersconcerts",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2026-06-16 - Brooklyn, NY - Brooklyn Paramount (petersconcerts) [AUD].txt"
     }
   ]
 };

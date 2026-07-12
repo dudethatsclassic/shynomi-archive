@@ -1,0 +1,35 @@
+Herbie Hancock & The Headhunters
+Music Inn
+Lenox, MA, USA
+August 31, 1974
+
+A Goody Speed/Pitch-adjusted Remaster, v.2
+
+AUD > ?? > CDR > EAC > FLAC > 
+
+Goody's additional lineage:
+TLH (WAV) > Audition (Pitch Bender, Various amounts) >
+TLH (FLAC Level 8; Align sector boundaries; .ffp) > foobar2000 (tags)
+
+Tracklist:
+01 Watermelon Man (6:40)
+02 Sly (11:56)
+03 Butterfly (12:47)
+04 Spank-A-Lee (12:12)
+05 Improvisation (9:53)
+06 Chameleon (16:04)
+07 Palm Grease (9:58)
+
+Runtime: 79:31
+
+Lineup:
+Herbie Hancock - Fender Rhodes, Clavinet, Synthesizers
+Bennie Maupin - Reeds, Percussion
+Paul Jackson - Electric Bass
+Mike Clark - Drums
+Bill Summers - Percussion
+
+Original seeder's notes: The show was part of Mike Azarin’s concert series called “Twilight Concerts on the Lawn”. Opening up that night was Larry Coryell’s Eleventh House with Alphonse Mouzon on drums before the Headhunters took the stage in front of 4500 people. The rendition of "Palm Grease" seems to be the earliest floating around at the moment - the band had cut the "Thrust" album earlier the same month. Enjoy and seed - and any more Headhunters or Mwandishi music would be really appreciated!
+
+
+Text updated for this edition 3/18/21.

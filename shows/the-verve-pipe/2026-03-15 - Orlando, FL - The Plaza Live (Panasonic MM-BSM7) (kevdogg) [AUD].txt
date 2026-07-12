@@ -1,0 +1,36 @@
+The Verve Pipe
+The Plaza Live
+Orlando, FL
+March 15, 2026
+
+Lineage:
+Panasonic MM-BSM7's >Tascam DR-05X >44.1khz, 16bit wave 
+>SanDisk microSD card >Audition 1.5 (e.q., hard limit, fades, tracks) 
+>wave >TLH >FLAC(level 8). 
+
+Location: 
+GA Floor, 2nd from rail, in line with right array.
+
+Taper: 
+kevdogg 
+
+Set/Track List:
+1. Photograph
+2. Seven Bridges Road
+3. Cup of Tea
+4. Dust
+5. Villains
+6. Colorful
+7. Medicate Myself
+8. The Freshmen
+9. Black Hole Sun
+
+Notes:
+Opening for Our Lady Peace on the OLP 30th anniversary tour. 
+Great performance to a packed house. It was a rainy evening in Orlando
+with a tornado watch as well. Well behaved crowd with no recording issues.
+I only used the e.q. to slightly increase the highs. I was about 15' from the
+subs so nothing else was necessary. Many thanks to The Verve Pipe for
+stopping in Florida and to all the tapers and fans making it to the shows.
+-kevdogg
+

@@ -207,7 +207,7 @@ const ARTIST_DATA = {
       "notes": "Nakamichi 700 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-08-02 - Minneapolis, MN - First Avenue [AUD].txt"
+      "textFile": "1993-08-02 - Minneapolis, MN - First Avenue (Nakamichi 700) (unk) [AUD].txt"
     },
     {
       "year": 1993,
@@ -277,7 +277,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-09-22 - Toronto, Canada - Maple Leaf Gardens [AUD].txt"
+      "textFile": "1993-09-22 - Toronto, ON - Maple Leaf Gardens (unk) (five transfer) [AUD].txt"
     },
     {
       "year": 1993,
@@ -361,7 +361,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1993-12-12 - Los Angeles, CA - Universal Theatre [FM].txt"
+      "textFile": "1993-12-12 - Los Angeles, CA - KROQ Almost Acoustic Xmas - Universal Amphitheater (unk) [FM].txt"
     },
     {
       "year": 1994,

@@ -825,7 +825,7 @@ const ARTIST_DATA = {
       "notes": "Panasonic MM-BSM7s \u00b7 kevdogg",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2026-03-15 - Orlando, FL - The Plaza Live (Panasonic MM-BSM7s) (kevdogg) [AUD].txt"
+      "textFile": "2026-03-15 - Orlando, FL - The Plaza Live (Panasonic MM-BSM7) (kevdogg) [AUD].txt"
     },
     {
       "year": 2026,

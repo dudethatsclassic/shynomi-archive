@@ -55,7 +55,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Waterbury, CT",
       "venue": "Brass City Records",
-      "notes": "In-store · unk",
+      "notes": "In-store \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-05-14 - Waterbury, CT - Brass City Records (In-store) (unk) [AUD].txt"
@@ -111,7 +111,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "notes": "AT8022 · scott simpson",
+      "notes": "AT8022 \u00b7 scott simpson",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-07-17 - New York, NY - Irving Plaza (AT8022) (scott simpson) [AUD].txt"
@@ -235,7 +235,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Spokane, WA",
       "venue": "The Big Dipper",
-      "notes": "unk · luke freteluco",
+      "notes": "unk \u00b7 luke freteluco",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-09-10 - Spokane, WA - The Big Dipper (unk) (luke freteluco) [AUD].txt"
@@ -249,7 +249,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Wiltern",
-      "notes": "SP-CMC-4U · unk",
+      "notes": "SP-CMC-4U \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-04-09 - Los Angeles, CA - The Wiltern (SP-CMC-4U) (unk) [AUD24].txt"
@@ -263,7 +263,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Las Vegas Events Center",
-      "notes": "Zoom H1n · unk",
+      "notes": "Zoom H1n \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-10-12 - Las Vegas, NV - Las Vegas Events Center (Zoom H1n) (unk) [AUD].txt"
@@ -277,7 +277,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Victoria Park",
-      "notes": "Outbreak · DPA 4061s · gambra",
+      "notes": "Outbreak \u00b7 DPA 4061s \u00b7 gambra",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-06-13 - London, UK - Victoria Park - Outbreak Fest (DPA 4061s) (gambra) [AUD].txt"
@@ -291,7 +291,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Ace Of Spades",
-      "notes": "SP-CMC-4U · vibrioidxire",
+      "notes": "SP-CMC-4U \u00b7 vibrioidxire",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-09-08 - Sacramento, CA - Ace Of Spades (SP-CMC-4U) (vibrioidxire) [AUD24].txt"

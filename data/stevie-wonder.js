@@ -83,7 +83,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berkeley CA",
       "venue": "Berkeley Community Theater",
-      "notes": "BGP SBD · Open Reel · algert",
+      "notes": "BGP SBD \u00b7 Open Reel \u00b7 algert",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1973-03-04 - Berkeley CA - Berkeley Community Theater (BGP SBD) (Open Reel) (algert) [SBD].txt"
@@ -167,7 +167,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hollywood CA",
       "venue": "The Roxy",
-      "notes": "Nakamichi CM-300 · robert collins",
+      "notes": "Nakamichi CM-300 \u00b7 robert collins",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1980-08-24 - Hollywood CA - The Roxy (Nakamichi CM-300) (robert collins) [AUD].txt"
@@ -181,7 +181,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Cow Palace",
-      "notes": "ANA(M) · Nakamichi CM300 · unk",
+      "notes": "ANA(M) \u00b7 Nakamichi CM300 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1980-12-07 - San Francisco, CA - Cow Palace - ANA(M) (Nakamichi CM300) (unk) [AUD].txt"
@@ -195,7 +195,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "New Haven Coliseum",
-      "notes": "ANA(M) · unk · commander",
+      "notes": "ANA(M) \u00b7 unk \u00b7 commander",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1981-01-17 - New Haven, CT - New Haven Coliseum - ANA(M) (unk) (commander) [AUD].txt"
@@ -223,7 +223,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall (Two Of Us Master Series Volume 292)",
-      "notes": "ANA(M) · Shure Mic",
+      "notes": "ANA(M) \u00b7 Shure Mic",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1983-10-18 - New York, NY - Radio City Music Hall (Two Of Us Master Series Volume 292) - ANA(M) (Shure Mic) [AUD].txt"
@@ -237,7 +237,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
-      "notes": "Late · Two Of Us Master Series Volume 293 · M · Shure Mic",
+      "notes": "Late \u00b7 Two Of Us Master Series Volume 293 \u00b7 M \u00b7 Shure Mic",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1983-10-22 - New York, NY - Radio City Music Hall - Late Show (Two Of Us Master Series Volume 293) - ANA(M) (Shure Mic) [AUD].txt"
@@ -251,7 +251,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Carlos, CA",
       "venue": "Circle Star Theatre (Early)",
-      "notes": "ANA(M) · Clip-on mic · ice cube slim",
+      "notes": "ANA(M) \u00b7 Clip-on mic \u00b7 ice cube slim",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1983-12-17 - San Carlos, CA - Circle Star Theatre (Early) - ANA(M) (Clip-on mic) (ice cube slim) [AUD].txt"
@@ -293,7 +293,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Palasport di San Siro",
-      "notes": "ANA(1) · unk · wes meyette",
+      "notes": "ANA(1) \u00b7 unk \u00b7 wes meyette",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1984-09-01 - Milan, Italy - Palasport di San Siro - ANA(1) (unk) (wes meyette) [AUD].txt"
@@ -307,7 +307,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Udine, Italy",
       "venue": "Palasport Primo Carnera",
-      "notes": "ANA(2) · Sony PCM-M10 · wes meyette",
+      "notes": "ANA(2) \u00b7 Sony PCM-M10 \u00b7 wes meyette",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1984-09-05 - Udine, Italy - Palasport Primo Carnera - ANA(2) (Sony PCM-M10) (wes meyette) [AUD].txt"
@@ -321,7 +321,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Onondaga County War Memorial",
-      "notes": "Nakamichi 100s · unk",
+      "notes": "Nakamichi 100s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1986-09-19 - Syracuse, NY - Onondaga County War Memorial (Nakamichi 100s) (unk) [AUD].txt"
@@ -405,7 +405,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Wang Center",
-      "notes": "ME-80s · doc fried, rama",
+      "notes": "ME-80s \u00b7 doc fried, rama",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-01-03 - Boston, MA - Wang Center (ME-80s) (doc fried, rama) [AUD].txt"
@@ -419,7 +419,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Ravens Stadium",
-      "notes": "Schoeps MK4 · unk",
+      "notes": "Schoeps MK4 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-09-05 - Baltimore, MD - Ravens Stadium (Schoeps MK4) (unk) [AUD].txt"
@@ -447,7 +447,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York City, NY",
       "venue": "Apollo Theater",
-      "notes": "DPA 4060 · john jay hance",
+      "notes": "DPA 4060 \u00b7 john jay hance",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-08-11 - New York City, NY - Apollo Theater (DPA 4060) (john jay hance) [AUD].txt"
@@ -503,7 +503,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Saratoga, CA",
       "venue": "Mountain Winery",
-      "notes": "DAT(M) · Neumann KM140s · unk",
+      "notes": "DAT(M) \u00b7 Neumann KM140s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-09-04 - Saratoga, CA - Mountain Winery - DAT(M) (Neumann KM140s) (unk) [AUD].txt"
@@ -517,7 +517,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Greek Theater",
-      "notes": "Neumann K-140 · unk",
+      "notes": "Neumann K-140 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-09-05 - Los Angeles, CA - Greek Theater (Neumann K-140) (unk) [AUD].txt"
@@ -531,7 +531,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Charter One Pavilion",
-      "notes": "Schoeps CCM4 · john hubert",
+      "notes": "Schoeps CCM4 \u00b7 john hubert",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-09-11 - Chicago, IL - Charter One Pavilion (Schoeps CCM4) (john hubert) [AUD].txt"
@@ -545,7 +545,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Pier 6 Pavillion",
-      "notes": "Schoeps MKV · unk",
+      "notes": "Schoeps MKV \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-09-16 - Baltimore, MD - Pier 6 Pavillion (Schoeps MKV) (unk) [AUD].txt"
@@ -559,7 +559,7 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Montreal, Canada",
       "venue": "Bell Centre",
-      "notes": "SP-CMC-4s · micromagnon",
+      "notes": "SP-CMC-4s \u00b7 micromagnon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-10-25 - Montreal, Canada - Bell Centre (SP-CMC-4s) (micromagnon) [AUD].txt"
@@ -573,7 +573,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Uncasville, CT",
       "venue": "Mohegan Sun Arena",
-      "notes": "ECM-719 · unk",
+      "notes": "ECM-719 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-11-14 - Uncasville, CT - Mohegan Sun Arena (ECM-719) (unk) [AUD].txt"
@@ -587,7 +587,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Glendale, AZ",
       "venue": "Jobing.com Arean",
-      "notes": "AT831 · unk",
+      "notes": "AT831 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-12-09 - Glendale, AZ - Jobing.com Arean (AT831) (unk) [AUD].txt"
@@ -601,7 +601,7 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Jazzfest",
-      "notes": "Schoeps MK21 · unk",
+      "notes": "Schoeps MK21 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-05-01 - New Orleans, LA - Jazzfest (Schoeps MK21) (unk) [AUD].txt"
@@ -629,7 +629,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Comcast Center",
-      "notes": "DPA 4022 · unk",
+      "notes": "DPA 4022 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-06-22 - Mansfield, MA - Comcast Center (DPA 4022) (unk) [AUD].txt"
@@ -643,7 +643,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "Schoeps CCM4 · calrust",
+      "notes": "Schoeps CCM4 \u00b7 calrust",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-07-05 - Mountain View, CA - Shoreline Amphitheater (Schoeps CCM4) (calrust) [AUD].txt"
@@ -657,7 +657,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Bowl",
-      "notes": "Schoeps MK41s · josephine",
+      "notes": "Schoeps MK41s \u00b7 josephine",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-07-07 - Hollywood, CA - Hollywood Bowl (Schoeps MK41s) (josephine) [AUD].txt"
@@ -671,7 +671,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Sleep Train Pavilion",
-      "notes": "Neumann KM-140 · robert collins",
+      "notes": "Neumann KM-140 \u00b7 robert collins",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-07-08 - Concord, CA - Sleep Train Pavilion (Neumann KM-140) (robert collins) [AUD].txt"
@@ -685,7 +685,7 @@ const ARTIST_DATA = {
       "state": "Netherlands",
       "location": "Rotterdam, Netherlands",
       "venue": "Sportpaleis Ahoy",
-      "notes": "Sony ECM-719 · miles",
+      "notes": "Sony ECM-719 \u00b7 miles",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-09-14 - Rotterdam, Netherlands - Sportpaleis Ahoy (Sony ECM-719) (miles) [AUD].txt"
@@ -699,7 +699,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Cologne Arena",
-      "notes": "Sony ECM-CS10 · unk",
+      "notes": "Sony ECM-CS10 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-09-22 - Cologne, Germany - Cologne Arena (Sony ECM-CS10) (unk) [AUD].txt"
@@ -713,7 +713,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Datchforum",
-      "notes": "Tascam DR1 · loveandsoul",
+      "notes": "Tascam DR1 \u00b7 loveandsoul",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-09-26 - Milan, Italy - Datchforum (Tascam DR1) (loveandsoul) [AUD].txt"
@@ -727,7 +727,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Palais Omnisport de Bercy",
-      "notes": "Sony ECM-719 · miles",
+      "notes": "Sony ECM-719 \u00b7 miles",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-09-28 - Paris, France - Palais Omnisport de Bercy (Sony ECM-719) (miles) [AUD].txt"
@@ -741,7 +741,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheater",
-      "notes": "Summerfest · Zoom H2 · unk",
+      "notes": "Summerfest \u00b7 Zoom H2 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-06-28 -  Milwaukee, WI - Marcus Amphitheater - Summerfest (Zoom H2) (unk) [AUD].txt"
@@ -783,7 +783,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Little Caesars Arena",
-      "notes": "DPA 4080 · mitaper78",
+      "notes": "DPA 4080 \u00b7 mitaper78",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-10-22 - Detroit, MI - Little Caesars Arena (DPA 4080) (mitaper78) [AUD].txt"

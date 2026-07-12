@@ -96,7 +96,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "London Rough Trade East",
-      "notes": "Roland R-09 · unk",
+      "notes": "Roland R-09 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-01-16 - London, UK - London Rough Trade East (Roland R-09) (unk) [AUD].txt"
@@ -138,7 +138,7 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Melkweg",
-      "notes": "Zoom H4N · tarquin",
+      "notes": "Zoom H4N \u00b7 tarquin",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-02-01 - Amsterdam, The Netherlands - Melkweg (Zoom H4N) (tarquin) [AUD].txt"
@@ -152,7 +152,7 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "Paris, FR",
       "venue": "Le Cabaret Sauvage",
-      "notes": "SP-CMC-8 · inconnu",
+      "notes": "SP-CMC-8 \u00b7 inconnu",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-02-05 - Paris, FR - Le Cabaret Sauvage (SP-CMC-8) (inconnu) [AUD].txt"
@@ -208,7 +208,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Manchester Gorilla",
-      "notes": "Sony ECM-CS10 · swintonboy",
+      "notes": "Sony ECM-CS10 \u00b7 swintonboy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-11-22 - Manchester, UK - Manchester Gorilla (Sony ECM-CS10) (swintonboy) [AUD].txt"
@@ -222,7 +222,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "London Islington Assembly Hall",
-      "notes": "Tascam DR-05X · swintonboy",
+      "notes": "Tascam DR-05X \u00b7 swintonboy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-11-23 - London, UK - London Islington Assembly Hall (Tascam DR-05X) (swintonboy) [AUD].txt"
@@ -236,7 +236,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Metropol",
-      "notes": "Roland CS-10EM Omnis · unk",
+      "notes": "Roland CS-10EM Omnis \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-12-02 - Berlin, Germany - Metropol (Roland CS-10EM Omnis) (unk) [AUD24].txt"
@@ -250,7 +250,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "A&R Music Bar",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-05-03 - Columbus, OH - A&R Music Bar (SP-CMC-8) (live2cd) [AUD].txt"

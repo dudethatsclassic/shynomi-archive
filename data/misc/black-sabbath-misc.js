@@ -12,13 +12,11 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Black Sabbath - Dehumanizer Rehearsals 1991-1992 [FLAC}",
-    "format": "FLAC",
-    "textFile": "MISC - Black Sabbath - Dehumanizer Rehearsals 1991-1992 [FLAC}.txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
     "label": "Black Sabbath - Earth Studio Sessions",
-    "format": "FLAC",
-    "textFile": "MISC - Black Sabbath - Earth Studio Sessions [FLAC].txt"
+    "format": "FLAC"
   }
 ];

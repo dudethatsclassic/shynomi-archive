@@ -347,7 +347,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-07-31 - Stuttgart, Germany - Freilichtbühne Killesberg [AUD].txt"
+      "textFile": "2012-07-31 - Stuttgart, Germany - Freilichtbu\u0308hne Killesberg [AUD].txt"
     },
     {
       "year": 2012,
@@ -431,7 +431,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Webcast",
       "format": "MKV",
-      "textFile": "2019-07-21 - Gräfenhainichen, Germany' - Melt Festival [WEB].mkv.txt"
+      "textFile": "2019-07-21 - Gra\u0308fenhainichen, Germany' - Melt Festival [WEB].mkv.txt"
     },
     {
       "year": 2019,

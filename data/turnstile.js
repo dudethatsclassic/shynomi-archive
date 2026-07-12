@@ -34,7 +34,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "BMO Stadium",
-      "notes": "SP-CMC-4U · ijwthstd",
+      "notes": "SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-06-16 - Los Angeles, CA - BMO Stadium (SP-CMC-4U) (ijwthstd) [AUD].txt"
@@ -62,7 +62,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Douglass Park",
-      "notes": "Riot · Schoeps MK41s · tj",
+      "notes": "Riot \u00b7 Schoeps MK41s \u00b7 tj",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-09-15 - Chicago, IL - Douglass Park - Riot Fest (Schoeps MK41s) (tj) [AUD24].txt"
@@ -76,7 +76,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Discovery Park",
-      "notes": "Schoeps MK4s · tj",
+      "notes": "Schoeps MK4s \u00b7 tj",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-10-07 - Sacramento, CA - Discovery Park (Schoeps MK4s) (tj) [AUD24].txt"
@@ -90,7 +90,7 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Rosendal Garden Party",
-      "notes": "Instamic Pro Plus · unk",
+      "notes": "Instamic Pro Plus \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-06-14 - Stockholm, SWE - Rosendal Garden Party (Instamic Pro Plus) (unk) [AUD24].txt"
@@ -104,7 +104,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Outbreak Fest, Victoria Park",
-      "notes": "DPA 4061 · jgsound",
+      "notes": "DPA 4061 \u00b7 jgsound",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-06-13 - London, UK - Outbreak Fest, Victoria Park (DPA 4061)   (jgsound) [AUD].txt"
@@ -118,7 +118,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Pilton, UK",
       "venue": "Glastonbury Festival",
-      "notes": "Other · BBC iPlayer · 1080p",
+      "notes": "Other \u00b7 BBC iPlayer \u00b7 1080p",
       "version": "PRO",
       "format": "MP4",
       "textFile": "2025-06-29 - Pilton, UK  - Glastonbury Festival - Other Stage (BBC iPlayer) (1080p) [MP4].txt"
@@ -132,7 +132,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Discovery Park",
-      "notes": "Aftershock · Schoeps MK4s · tj",
+      "notes": "Aftershock \u00b7 Schoeps MK4s \u00b7 tj",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-10-03 - Sacramento, CA - Discovery Park - Aftershock Festival (Schoeps MK4s) (tj) [AUD24].txt"
@@ -146,7 +146,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Expo Park",
-      "notes": "SP-CMC-8 · unk",
+      "notes": "SP-CMC-8 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-10-04 - Los Angeles, CA - Expo Park (SP-CMC-8) (unk) [AUD24].txt"

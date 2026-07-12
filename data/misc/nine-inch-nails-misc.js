@@ -17,13 +17,11 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "NIN - Pretty Hate Machine Demos (Remastered)",
-    "textFile": "MISC - NIN - Pretty Hate Machine Demos (Remastered).txt"
+    "label": "NIN - Pretty Hate Machine Demos (Remastered)"
   },
   {
     "type": "release",
     "label": "nin1991-09-10.silver.killerinstinct.0.flac1644",
-    "version": "Silver CD",
-    "textFile": "MISC - nin1991-09-10.silver.killerinstinct.0.flac1644.txt"
+    "version": "Silver CD"
   }
 ];

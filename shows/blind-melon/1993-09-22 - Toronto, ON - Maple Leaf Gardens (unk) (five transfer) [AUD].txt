@@ -1,0 +1,49 @@
+Blind Melon
+September 22, 1993
+Maple Leaf Gardens 
+Toronto, ON, Canada
+
+Source: ?mics > ?recorder > Maxell XL-II Cass(2)  
+Transfer: Aiwa AD-F810 3-Head Cassette Deck > SB PCI > CEP2.1 (tracking, cutting, no fx) > FLAC (level 8, verify enabled)
+Taper: Unknown
+Transfer: Five
+
+01: I Wonder
+02: Time
+03: Change
+04: Paper Scratcher
+05: Dear Ol' Dad
+06: Deserted
+07: No Rain
+08: Soak The Sin
+
+Notes: Transferred 2004-06-16.  This tape has been circulated before, I have one mp3 from this show that I got somewhere in p2p land, this transfer sounds much better.  Overall, not the best-sounding recording but far from the worst.  The taper flips at the end of No Rain.
+
+Complete show. Thanks to Andymon for providing the source. This txt file updated by Five 2007-01-30, files renamed "the etree way", tagged & checksums added. The audio content has not been altered in any way.
+
+http://db.etree.org/lookup_show.php?shows_key=60954
+
+****************************
+NOT FOR SALE!!! TRADE ONLY!!
+MP3 ONLY FOR PERSONAL USE!!!
+****************************
+
+e9e81d845ca83091d4925a637d7f52a6  [shntool]  bmelon1993-09-22t01.flac
+0fb7a1d00bab2f69f1d74bf5651e29d7  [shntool]  bmelon1993-09-22t02.flac
+e53404570b2042353f74f8092e441bda  [shntool]  bmelon1993-09-22t03.flac
+e8b9f211ed218947ce118530ea5390f7  [shntool]  bmelon1993-09-22t04.flac
+c01f2dae232c489f52ac2cc8e9fb2c99  [shntool]  bmelon1993-09-22t05.flac
+a763e28254de74c807c45809afb2acb0  [shntool]  bmelon1993-09-22t06.flac
+5b8e1207856b070d7931ade6d4ae2e5a  [shntool]  bmelon1993-09-22t07.flac
+6c86cf30fa20a79bf3845134efd4e298  [shntool]  bmelon1993-09-22t08.flac
+
+    length     expanded size   cdr  WAVE problems filename
+     7:04.25       74852444    ---   --   ---xx   bmelon1993-09-22t01.flac
+     8:22.52       88675148    ---   --   ---xx   bmelon1993-09-22t02.flac
+     6:24.65       67890524    ---   --   ---xx   bmelon1993-09-22t03.flac
+     5:22.65       56953724    ---   --   ---xx   bmelon1993-09-22t04.flac
+     3:31.11       37246316    ---   --   ---xx   bmelon1993-09-22t05.flac
+     7:09.09       75696812    ---   --   ---xx   bmelon1993-09-22t06.flac
+     4:40.72       49561388    ---   --   ---xx   bmelon1993-09-22t07.flac
+     7:20.51       77735996    ---   --   ---xx   bmelon1993-09-22t08.flac
+    49:56.50      528612352 B                     (totals for 8 files, 0.6584 overall compression ratio)
