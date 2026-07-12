@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "herbie-hancock",
   "name": "Herbie Hancock",
   "drive": "B",
-  "showCount": 14,
+  "showCount": 15,
   "firstYear": 1971,
   "lastYear": 1987,
   "years": [
@@ -83,6 +83,19 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "FLAC",
       "textFile": "1973-10-28 - East Lansing, MI - Fairfield Theatre [FM].txt"
+    },
+    {
+      "year": 1974,
+      "month": 8,
+      "day": 31,
+      "dateStr": "8-31-1974",
+      "city": "Lenox",
+      "state": "MA",
+      "location": "Lenox, MA",
+      "venue": "Music Inn",
+      "notes": "unk · goody remaster",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1974,
