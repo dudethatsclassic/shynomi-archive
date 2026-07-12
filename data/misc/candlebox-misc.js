@@ -27,5 +27,15 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 1993,
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Candlebox - Both Ends Burning",
+    "version": "Silver CD"
+  },
+  {
+    "type": "release",
+    "label": "Candlebox - Into The Flame",
+    "version": "Silver CD"
   }
 ];

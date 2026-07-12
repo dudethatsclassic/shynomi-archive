@@ -93,9 +93,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Lenox, MA",
       "venue": "Music Inn",
-      "notes": "unk · goody remaster",
+      "notes": "unk \u00b7 goody remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1974-08-31 - Lenox, MA - Music Inn (unk) (goody remaster) [AUD].txt"
     },
     {
       "year": 1974,

@@ -22,9 +22,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Lifestyle Communities Pavilion",
-      "notes": "Aiwa CM-30A · unk",
+      "notes": "Aiwa CM-30A \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-05-13 - Columbus, OH - Lifestyle Communities Pavilion (Aiwa CM-30A) (unk) [AUD].txt"
     },
     {
       "year": 2022,
@@ -77,9 +78,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Scheebel, Germany",
       "venue": "Hurricane Festival",
-      "notes": "Forest · magentamusik",
+      "notes": "Forest \u00b7 magentamusik",
       "version": "WEB",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2026-06-20 - Schee\u00dfel, Germany - Hurricane Festival - Forest Stage (magentamusik) (Livestream) [MP4].txt"
     }
   ]
 };
