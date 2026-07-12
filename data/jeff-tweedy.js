@@ -105,7 +105,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
-      "notes": "",
+      "notes": "DAT(M) · Microtech-Gefell SMS2000 · unk",
       "version": "AUD",
       "format": ""
     },
