@@ -1756,7 +1756,7 @@ const ARTIST_DATA = {
       "notes": "Concert \u00b7 w/ Vedder & Yorke \u00b7 COS-11sBP",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2002-02-26 - Los Angeles, CA - Wiltern Theatre (DPA 4061\u2019s - Sony PCM-M1) [AUD].txt"
+      "textFile": "2002-02-26 - Los Angeles, CA - Wiltern Theatre (DPA 4061’s - Sony PCM-M1) [AUD].txt"
     },
     {
       "year": 2002,

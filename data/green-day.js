@@ -563,7 +563,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "FLAC 24",
-      "textFile": "1991-10-27 - Hamburg, Germany - Sto\u0308rtebeker [AUD #1].txt"
+      "textFile": "1991-10-27 - Hamburg, Germany - Störtebeker [AUD #1].txt"
     },
     {
       "year": 1991,
@@ -4621,7 +4621,7 @@ const ARTIST_DATA = {
       "notes": "Edirol R09-HR \u00b7 coli",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-07-02 - Paris, France - La De\u0301fense Arena (Edirol R09-HR) (coli) [AUD].txt"
+      "textFile": "2022-07-02 - Paris, France - La Défense Arena (Edirol R09-HR) (coli) [AUD].txt"
     },
     {
       "year": 2023,
@@ -4691,7 +4691,7 @@ const ARTIST_DATA = {
       "notes": "iPhone SE \u00b7 unaesfingelunar",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-06-01 - Caja Ma\u0301gica, Madrid - Road to Rio Babel (iPhone SE) (unaesfingelunar) [AUD24].txt"
+      "textFile": "2024-06-01 - Caja Mágica, Madrid - Road to Rio Babel (iPhone SE) (unaesfingelunar) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -4733,7 +4733,7 @@ const ARTIST_DATA = {
       "notes": "Zoom H1n \u00b7 red john",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-06-07 - Nurnberg, Germany - Rock im Park Nu\u0308rnberg (Zoom H1n) (red john) [AUD24].txt"
+      "textFile": "2024-06-07 - Nurnberg, Germany - Rock im Park Nürnberg (Zoom H1n) (red john) [AUD24].txt"
     },
     {
       "year": 2024,

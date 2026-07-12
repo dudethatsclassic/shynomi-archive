@@ -25,7 +25,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "",
       "format": "FLAC",
-      "textFile": "1954-02-06 - Mu\u0308nchen, Germany - Private Acetate Made for Vivian Liberto Studio.txt"
+      "textFile": "1954-02-06 - München, Germany - Private Acetate Made for Vivian Liberto Studio.txt"
     },
     {
       "year": 1968,

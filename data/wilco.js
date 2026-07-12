@@ -9446,7 +9446,7 @@ const ARTIST_DATA = {
       "notes": "Rolling",
       "version": "AUD",
       "format": "",
-      "textFile": "2011-11-11 - Wangels, Germany -  Ferienpark Weissenha\u0308user Strand - Rolling Stone Weekender [AUD].txt"
+      "textFile": "2011-11-11 - Wangels, Germany -  Ferienpark Weissenhäuser Strand - Rolling Stone Weekender [AUD].txt"
     },
     {
       "year": 2011,

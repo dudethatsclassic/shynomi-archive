@@ -936,7 +936,7 @@ const ARTIST_DATA = {
       "notes": "Zermatt \u00b7 Zoom H1n \u00b7 jc gendly",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-04-09 - Zermatt, Switzerland - Zeltbu\u0308hne - Zermatt Unplugged (Zoom H1n) (jc gendly) [AUD24].txt"
+      "textFile": "2022-04-09 - Zermatt, Switzerland - Zeltbühne - Zermatt Unplugged (Zoom H1n) (jc gendly) [AUD24].txt"
     },
     {
       "year": 2024,

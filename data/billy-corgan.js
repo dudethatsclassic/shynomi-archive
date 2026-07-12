@@ -762,7 +762,7 @@ const ARTIST_DATA = {
       "notes": "Fan meetup acoustic set",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2005-04-23 - Paris, FR - Parvis du Sacre\u0301 Coeur (Fan meetup acoustic set) [AUD].txt"
+      "textFile": "2005-04-23 - Paris, FR - Parvis du Sacré Coeur (Fan meetup acoustic set) [AUD].txt"
     },
     {
       "year": 2005,

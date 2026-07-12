@@ -302,7 +302,7 @@ const ARTIST_DATA = {
       "notes": "Teriyaki \u00b7 pl",
       "version": "SBD #2b",
       "format": "FLAC",
-      "textFile": "1988-01-23 - SBD #2b - CD-FLAC [Various Artists - Teriyaki Asthma Vol. 1\u20135].txt"
+      "textFile": "1988-01-23 - SBD #2b - CD-FLAC [Various Artists - Teriyaki Asthma Vol. 1–5].txt"
     },
     {
       "year": 1988,
@@ -1807,7 +1807,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1989-11-08 - Rose Club, Ko\u0308ln, DE [AUD #1].txt"
+      "textFile": "1989-11-08 - Rose Club, Köln, DE [AUD #1].txt"
     },
     {
       "year": 1989,
@@ -6036,7 +6036,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 ks",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1991-09-21 - Foufounes E\u0301lectriques ~ Montre\u0301al QC, Canada [AMT#1] DVD.txt"
+      "textFile": "1991-09-21 - Foufounes Électriques ~ Montréal QC, Canada [AMT#1] DVD.txt"
     },
     {
       "year": 1991,
@@ -9810,7 +9810,7 @@ const ARTIST_DATA = {
       "notes": "Master",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1992-06-28 - Kalv\u00f8yafestivalen - Sandvika, Norway (AMT1-DVD).txt"
+      "textFile": "1992-06-28 - Kalvøyafestivalen - Sandvika, Norway (AMT1-DVD).txt"
     },
     {
       "year": 1992,
@@ -9880,7 +9880,7 @@ const ARTIST_DATA = {
       "notes": "TV-VHS(x)",
       "version": "PRO Clip #1a",
       "format": "AVI",
-      "textFile": "1992-06-30 - Sjo\u0308historiska Museet, Stockholm, Sweden [PRO Clip #1a].txt"
+      "textFile": "1992-06-30 - Sjöhistoriska Museet, Stockholm, Sweden [PRO Clip #1a].txt"
     },
     {
       "year": 1992,
@@ -10855,7 +10855,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M)",
       "version": "SBD #1",
       "format": "FLAC",
-      "textFile": "1993-01-16 - Esta\u0301dio Ci\u0301cero Pompeu de Toledo, Sa\u0303o Paulo, BR PRO_3b.txt"
+      "textFile": "1993-01-16 - Estádio Cícero Pompeu de Toledo, São Paulo, BR PRO_3b.txt"
     },
     {
       "year": 1993,
@@ -11190,7 +11190,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 anonymous",
       "version": "SBD #1a",
       "format": "FLAC",
-      "textFile": "1993-01-23 - Rio de Janeiro, Brazil - Prac\u0327a da Apoteose (Hollywood Rock Festival).txt"
+      "textFile": "1993-01-23 - Rio de Janeiro, Brazil - Praça da Apoteose (Hollywood Rock Festival).txt"
     },
     {
       "year": 1993,
@@ -11218,7 +11218,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 anonymous",
       "version": "SBD #1c",
       "format": "FLAC",
-      "textFile": "1993-01-23 - Rio de Janeiro, Brazil - Prac\u0327a da Apoteose (Hollywood Rock Festival).txt"
+      "textFile": "1993-01-23 - Rio de Janeiro, Brazil - Praça da Apoteose (Hollywood Rock Festival).txt"
     },
     {
       "year": 1993,

@@ -761,7 +761,7 @@ const ARTIST_DATA = {
       "notes": "Source 1 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1984-11-25 - Nice, FRA - The\u0301a\u0302tre De Verdure (Source 1) [AUD].txt"
+      "textFile": "1984-11-25 - Nice, FRA - Théâtre De Verdure (Source 1) [AUD].txt"
     },
     {
       "year": 1984,
@@ -1244,7 +1244,7 @@ const ARTIST_DATA = {
       "notes": "Loreley \u00b7 x",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1985-09-14 - St. Goarshausen, Germany - Freilichtbu\u0308hne Loreley - Loreley Metal Hammer Festival [AUD].txt"
+      "textFile": "1985-09-14 - St. Goarshausen, Germany - Freilichtbühne Loreley - Loreley Metal Hammer Festival [AUD].txt"
     },
     {
       "year": 1985,
@@ -2641,7 +2641,7 @@ const ARTIST_DATA = {
       "notes": "Old Icehall",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1988-10-15 - Helsinki, Finland - Ja\u0308a\u0308halli (Old Icehall) [AUD].txt"
+      "textFile": "1988-10-15 - Helsinki, Finland - Jäähalli (Old Icehall) [AUD].txt"
     },
     {
       "year": 1988,
@@ -3545,7 +3545,7 @@ const ARTIST_DATA = {
       "notes": "Source 2 \u00b7 bubba420",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1989-10-06 - Sa\u0303o Paulo, BRA - Gina\u0301sio Estadual Geraldo Jose\u0301 De Almeida (Source 2) (bubba420) [AUD].txt"
+      "textFile": "1989-10-06 - São Paulo, BRA - Ginásio Estadual Geraldo José De Almeida (Source 2) (bubba420) [AUD].txt"
     },
     {
       "year": 1990,
@@ -7190,7 +7190,7 @@ const ARTIST_DATA = {
       "notes": "krw_co",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1996-11-27 - Copenhagen, Denmark - Forum K\u00f8benhavn (krw_co) [FM].txt"
+      "textFile": "1996-11-27 - Copenhagen, Denmark - Forum København (krw_co) [FM].txt"
     },
     {
       "year": 1996,
@@ -7713,7 +7713,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1999-04-30 - Ciudad De Me\u0301xico, Mexico - Foro Sol [AUD].txt"
+      "textFile": "1999-04-30 - Ciudad De México, Mexico - Foro Sol [AUD].txt"
     },
     {
       "year": 1999,
@@ -7931,7 +7931,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1999-06-29 - Tallinn, Estonia - Lauluva\u0308ljak (unk) [AUD].txt"
+      "textFile": "1999-06-29 - Tallinn, Estonia - Lauluväljak (unk) [AUD].txt"
     },
     {
       "year": 1999,
@@ -8398,7 +8398,7 @@ const ARTIST_DATA = {
       "notes": "Source 2",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "2003-06-08 - Nu\u0308rburg, Germany - Nu\u0308rburgring - Live It Or Lie It! (Source 2) [SBD].txt"
+      "textFile": "2003-06-08 - Nürburg, Germany - Nürburgring - Live It Or Lie It! (Source 2) [SBD].txt"
     },
     {
       "year": 2003,
@@ -8412,7 +8412,7 @@ const ARTIST_DATA = {
       "notes": "Source 1",
       "version": "TV",
       "format": "FLAC",
-      "textFile": "2003-06-08 - Nu\u0308rburg, Germany - Nu\u0308rburgring (Source 1) [TV].txt"
+      "textFile": "2003-06-08 - Nürburg, Germany - Nürburgring (Source 1) [TV].txt"
     },
     {
       "year": 2003,
@@ -8604,7 +8604,7 @@ const ARTIST_DATA = {
       "notes": "ECM 717",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-12-16 - Cologne, Germany - Ko\u0308lnarena (ECM 717) [AUD].txt"
+      "textFile": "2003-12-16 - Cologne, Germany - Kölnarena (ECM 717) [AUD].txt"
     },
     {
       "year": 2004,
@@ -10717,7 +10717,7 @@ const ARTIST_DATA = {
       "notes": "Source 2 \u00b7 metalandi",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-05-28 - Chorzo\u0301w, Poland - Silesian Stadium (Source 2) (metalandi) [AUD].txt"
+      "textFile": "2008-05-28 - Chorzów, Poland - Silesian Stadium (Source 2) (metalandi) [AUD].txt"
     },
     {
       "year": 2008,
@@ -15503,7 +15503,7 @@ const ARTIST_DATA = {
       "notes": "Source 2",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2015-09-14 - Que\u0301bec City, Quebec - Colise\u0301e Pepsi (Source 2) [FM].txt"
+      "textFile": "2015-09-14 - Québec City, Quebec - Colisée Pepsi (Source 2) [FM].txt"
     },
     {
       "year": 2015,
@@ -15530,7 +15530,7 @@ const ARTIST_DATA = {
       "notes": "CA-11 \u00b7 Source 2 \u00b7 porcelmc",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-09-16 - Que\u0301bec City, Quebec - Centre Vide\u0301otron (CA-11) (Source 2) (porcelmc) [AUD].txt"
+      "textFile": "2015-09-16 - Québec City, Quebec - Centre Vidéotron (CA-11) (Source 2) (porcelmc) [AUD].txt"
     },
     {
       "year": 2015,
@@ -18325,7 +18325,7 @@ const ARTIST_DATA = {
       "notes": "Sony PCM-M10 \u00b7 nielsen81",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-06-15 - Copenhell, Denmark - K\u00f8benhavn (Sony PCM-M10) (nielsen81) [AUD].txt"
+      "textFile": "2022-06-15 - Copenhell, Denmark - København (Sony PCM-M10) (nielsen81) [AUD].txt"
     },
     {
       "year": 2022,

@@ -379,7 +379,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "iRiver iHP-120 \u00b7 dsanchez",
-      "textFile": "2014-08-03 - Katowice, Poland - Dolina Trzech Stawo\u0301w (iRiver iHP-120) (dsanchez) [AUD].txt"
+      "textFile": "2014-08-03 - Katowice, Poland - Dolina Trzech Stawów (iRiver iHP-120) (dsanchez) [AUD].txt"
     },
     {
       "year": 2014,
@@ -743,7 +743,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Zoom H4n \u00b7 minimax",
-      "textFile": "2024-01-18 - Ko\u0308ln, Germany - Live Music Hall (Zoom H4n) (minimax) [AUD.txt"
+      "textFile": "2024-01-18 - Köln, Germany - Live Music Hall (Zoom H4n) (minimax) [AUD.txt"
     },
     {
       "year": 2024,
@@ -910,7 +910,7 @@ const ARTIST_DATA = {
       "version": "WEB",
       "format": "FLAC",
       "notes": "",
-      "textFile": "2024-08-15 - Saint-Pe\u0300re, FRA - La Route du Rock festival [WEB].txt"
+      "textFile": "2024-08-15 - Saint-Père, FRA - La Route du Rock festival [WEB].txt"
     },
     {
       "year": 2024,

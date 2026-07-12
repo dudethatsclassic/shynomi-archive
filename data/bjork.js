@@ -681,7 +681,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-01-06 - ReykjavI\u0300k, Iceland - The Nordic House [AUD].txt"
+      "textFile": "2011-01-06 - ReykjavÌk, Iceland - The Nordic House [AUD].txt"
     },
     {
       "year": 2015,

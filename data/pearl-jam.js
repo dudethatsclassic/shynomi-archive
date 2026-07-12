@@ -3509,7 +3509,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 blink eye projects",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "pj1993-06-28 - Stockholm, Sweden - Sjo\u0308historiska Museet - VHS(1) (blink eye projects) [DVD].txt"
+      "textFile": "pj1993-06-28 - Stockholm, Sweden - Sjöhistoriska Museet - VHS(1) (blink eye projects) [DVD].txt"
     },
     {
       "year": 1993,
@@ -3551,7 +3551,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 travisbickle1963 2022 transfer",
       "version": "AMT #1",
       "format": "MKV",
-      "textFile": "pj1993-06-28 - Stockholm, Sweden - Sjo\u0308historiska Museet - VHS(1) (travisbickle1963 2022 transfer) (AMT #1) [MKV].txt"
+      "textFile": "pj1993-06-28 - Stockholm, Sweden - Sjöhistoriska Museet - VHS(1) (travisbickle1963 2022 transfer) (AMT #1) [MKV].txt"
     },
     {
       "year": 1993,
@@ -13207,7 +13207,7 @@ const ARTIST_DATA = {
       "notes": "jahrastafari",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "pj2003-07-19 - Me\u0301xico City [DVD-TV].txt"
+      "textFile": "pj2003-07-19 - México City [DVD-TV].txt"
     },
     {
       "year": 2003,
@@ -17144,7 +17144,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2009-08-11 - London, UK - Shephard\u2019s Bush Empire .txt",
+      "textFile": "2009-08-11 - London, UK - Shephard’s Bush Empire .txt",
       "official": true
     },
     {
@@ -21549,7 +21549,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC HD",
-      "textFile": "2016-05-05 - Quebec City, QB - Centre Vide\u0301otron .txt",
+      "textFile": "2016-05-05 - Quebec City, QB - Centre Vidéotron .txt",
       "official": true
     },
     {

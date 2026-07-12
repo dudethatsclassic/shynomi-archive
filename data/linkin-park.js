@@ -2065,7 +2065,7 @@ const ARTIST_DATA = {
       "notes": "Cellphone \u00b7 extremecode",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-07-19\u00a0- Shenzhen, China -  Guangdong [AUD].txt"
+      "textFile": "2015-07-19 - Shenzhen, China -  Guangdong [AUD].txt"
     },
     {
       "year": 2015,
@@ -2107,7 +2107,7 @@ const ARTIST_DATA = {
       "notes": "Download \u00b7 CA-14 \u00b7 rabepic",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2017-06-09 - Bre\u0301tigny-sur-Orge, France - Base Aerienne 217 - Download Festival [AUD].txt"
+      "textFile": "2017-06-09 - Brétigny-sur-Orge, France - Base Aerienne 217 - Download Festival [AUD].txt"
     },
     {
       "year": 2017,
@@ -2345,7 +2345,7 @@ const ARTIST_DATA = {
       "notes": "magentamusik",
       "version": "WEB",
       "format": "TS",
-      "textFile": "2026-06-05 - Nu\u0308rburg, Germany - Rock am Ring (magentamusik) (Livestream) [TS].txt"
+      "textFile": "2026-06-05 - Nürburg, Germany - Rock am Ring (magentamusik) (Livestream) [TS].txt"
     }
   ]
 };

@@ -44,7 +44,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "WEB",
       "format": "FLAC",
-      "textFile": "2004-11-16 - Toronto, ON - Lee\u2019s Palace [WEB].txt"
+      "textFile": "2004-11-16 - Toronto, ON - Lee’s Palace [WEB].txt"
     },
     {
       "year": 2005,
@@ -408,7 +408,7 @@ const ARTIST_DATA = {
       "notes": "CA-11 \u00b7 rairun",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-09-29 - Barcelona, Spain - Auditori Fo\u0300rum [AUD].txt"
+      "textFile": "2015-09-29 - Barcelona, Spain - Auditori Fòrum [AUD].txt"
     },
     {
       "year": 2015,

@@ -5197,7 +5197,7 @@ const ARTIST_DATA = {
       "notes": "MD(M) \u00b7 loughney transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-12-05 - Rennes, France - Le Liberte\u0301 - MD(M) (loughney transfer) [AUD].txt"
+      "textFile": "1997-12-05 - Rennes, France - Le Liberté - MD(M) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1997,
@@ -11658,7 +11658,7 @@ const ARTIST_DATA = {
       "notes": "MD(M) \u00b7 glenn nielsen",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2011-06-21 - Copenhagen, Denmark - Refshale\u00f8en [AUD #1].txt"
+      "textFile": "2011-06-21 - Copenhagen, Denmark - Refshaleøen [AUD #1].txt"
     },
     {
       "year": 2011,
@@ -13945,7 +13945,7 @@ const ARTIST_DATA = {
       "notes": "nielsen81",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2019-05-26 - Horsens, Denmark - F\u00e6ngslet [AUD].txt"
+      "textFile": "2019-05-26 - Horsens, Denmark - Fængslet [AUD].txt"
     },
     {
       "year": 2019,
@@ -14630,7 +14630,7 @@ const ARTIST_DATA = {
       "notes": "CA-14 \u00b7 rasensteine",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-06-04 - Nu\u0308rnberg, Germany - Rock im Park  (Zoom H1n) (roy t) [AUD24].txt"
+      "textFile": "2023-06-04 - Nürnberg, Germany - Rock im Park  (Zoom H1n) (roy t) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -15008,7 +15008,7 @@ const ARTIST_DATA = {
       "notes": "NOS Alive",
       "version": "PRO #1",
       "format": "MKV",
-      "textFile": "2026-07-10 - Oeiras, Portugal - Passeio Mari\u0301timo de Alge\u0301s (NOS Alive) (foofighterslive.com) [MKV].txt"
+      "textFile": "2026-07-10 - Oeiras, Portugal - Passeio Marítimo de Algés (NOS Alive) (foofighterslive.com) [MKV].txt"
     }
   ]
 };

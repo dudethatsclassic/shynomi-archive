@@ -398,7 +398,7 @@ const ARTIST_DATA = {
       "notes": "magentamusik.de \u00b7 1080",
       "version": "WEB",
       "format": "TS",
-      "textFile": "2025-06-20 - Schee\u00dfel, Eichenring - Hurricane Festival (magentamusik.de) (1080) [TS].txt"
+      "textFile": "2025-06-20 - Scheeßel, Eichenring - Hurricane Festival (magentamusik.de) (1080) [TS].txt"
     },
     {
       "year": 2026,

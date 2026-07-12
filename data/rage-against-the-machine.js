@@ -434,7 +434,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-06-07 - Paris, France - Le Ze\u0301nith [LOSSY].txt"
+      "textFile": "1993-06-07 - Paris, France - Le Zénith [LOSSY].txt"
     },
     {
       "year": 1993,
@@ -1134,7 +1134,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 rn",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "1996-05-16 - Copenhagen, Denmark - Den Grl\u0301 Hall [DVD].txt"
+      "textFile": "1996-05-16 - Copenhagen, Denmark - Den Grĺ Hall [DVD].txt"
     },
     {
       "year": 1996,
@@ -2349,7 +2349,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2000-02-03 - Paris, France - Le Ze\u0301nith [AUD].txt"
+      "textFile": "2000-02-03 - Paris, France - Le Zénith [AUD].txt"
     },
     {
       "year": 2000,

@@ -400,7 +400,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-08-24 - Montreal, PQ - Les Foufounes E\u0301lectriques [AUD].txt"
+      "textFile": "1990-08-24 - Montreal, PQ - Les Foufounes Électriques [AUD].txt"
     },
     {
       "year": 1990,

@@ -776,7 +776,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2012-11-19 - Du\u0308sseldorf, Germany - Mitsubishi Electric Halle [FM].txt"
+      "textFile": "2012-11-19 - Düsseldorf, Germany - Mitsubishi Electric Halle [FM].txt"
     },
     {
       "year": 2012,
@@ -846,7 +846,7 @@ const ARTIST_DATA = {
       "notes": "CA-14 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2020-02-24 - Amsterdam, Netherlands - Koninklijk Theater Carre\u0301 (CA-14) [AUD24].txt"
+      "textFile": "2020-02-24 - Amsterdam, Netherlands - Koninklijk Theater Carré (CA-14) [AUD24].txt"
     },
     {
       "year": 2021,

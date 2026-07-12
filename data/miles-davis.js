@@ -2485,7 +2485,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1974-06-02b - Sa\u0303o Paulo, Brazil - Teatro Municpal [AUD].txt"
+      "textFile": "1974-06-02b - São Paulo, Brazil - Teatro Municpal [AUD].txt"
     },
     {
       "year": 1975,

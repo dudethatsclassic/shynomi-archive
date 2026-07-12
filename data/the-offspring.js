@@ -996,7 +996,7 @@ const ARTIST_DATA = {
       "notes": "CA-14 \u00b7 losslessjoel",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2018-07-02 - Stockholm, Sweden - Gro\u0308na Lund [AUD].txt"
+      "textFile": "2018-07-02 - Stockholm, Sweden - Gröna Lund [AUD].txt"
     },
     {
       "year": 2018,
@@ -1108,7 +1108,7 @@ const ARTIST_DATA = {
       "notes": "Rock",
       "version": "Webcast",
       "format": "MKV",
-      "textFile": "2022-06-03 - Nu\u0308rburg, Germany - Nu\u0308rburgring - Rock am Ring [WEBCAST].txt"
+      "textFile": "2022-06-03 - Nürburg, Germany - Nürburgring - Rock am Ring [WEBCAST].txt"
     },
     {
       "year": 2022,
@@ -1136,7 +1136,7 @@ const ARTIST_DATA = {
       "notes": "sbr1z",
       "version": "Webcast",
       "format": "MKV",
-      "textFile": "2022-06-25 - Mu\u0308nster, Germany - Vainstream Rockfest (sbr1z) [WEBCAST].txt"
+      "textFile": "2022-06-25 - Münster, Germany - Vainstream Rockfest (sbr1z) [WEBCAST].txt"
     },
     {
       "year": 2022,

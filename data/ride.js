@@ -325,7 +325,7 @@ const ARTIST_DATA = {
       "version": "Webcast",
       "format": "TS",
       "notes": "Unknown",
-      "textFile": "2017-06-10 - Aarhus, Denmark - Northside Festival, A\u030adalen (unk) [WEBCAST].txt"
+      "textFile": "2017-06-10 - Aarhus, Denmark - Northside Festival, Ådalen (unk) [WEBCAST].txt"
     },
     {
       "year": 2017,

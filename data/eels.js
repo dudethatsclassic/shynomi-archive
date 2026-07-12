@@ -178,7 +178,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1998-10-05 - Stockholm, Sweden - So\u0308dra Teatern [FM].txt"
+      "textFile": "1998-10-05 - Stockholm, Sweden - Södra Teatern [FM].txt"
     },
     {
       "year": 1998,

@@ -528,7 +528,7 @@ const ARTIST_DATA = {
       "notes": "Auto\u0301dromo",
       "version": "WEB",
       "format": "MKV",
-      "textFile": "2023-11-19 - Mexico City, Mexico - Corona Capital - Auto\u0301dromo Hermanos Rodri\u0301guez [WEB].txt"
+      "textFile": "2023-11-19 - Mexico City, Mexico - Corona Capital - Autódromo Hermanos Rodríguez [WEB].txt"
     },
     {
       "year": 2023,

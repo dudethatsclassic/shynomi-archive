@@ -706,7 +706,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "2002-05-17 - Nu\u0308rburgring, Germany - Rock Am Ring Festival [DVD].txt"
+      "textFile": "2002-05-17 - Nürburgring, Germany - Rock Am Ring Festival [DVD].txt"
     },
     {
       "year": 2002,
@@ -1139,7 +1139,7 @@ const ARTIST_DATA = {
       "notes": "Rock",
       "version": "Webcast",
       "format": "MKV",
-      "textFile": "2022-06-05 - Nu\u0308rburg, Germany - Nu\u0308rburgring - Rock am Ring [WEBCAST].txt"
+      "textFile": "2022-06-05 - Nürburg, Germany - Nürburgring - Rock am Ring [WEBCAST].txt"
     },
     {
       "year": 2023,
@@ -1307,7 +1307,7 @@ const ARTIST_DATA = {
       "notes": "Utopia \u00b7 unk",
       "version": "PRO",
       "format": "MP4",
-      "textFile": "2026-06-05 - Nu\u0308rburg, Germany - Rock Am Ring - Utopia Stage (unk) [MP4].txt"
+      "textFile": "2026-06-05 - Nürburg, Germany - Rock Am Ring - Utopia Stage (unk) [MP4].txt"
     }
   ]
 };

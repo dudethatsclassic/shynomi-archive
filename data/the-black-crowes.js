@@ -1386,7 +1386,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sony ECM \u00b7 Evie_np",
-      "textFile": "1997-02-19 - Paris, France - Elyse\u0301e Montmartre - MD(M) (Sony ECM) (evie_np) [AUD] .txt"
+      "textFile": "1997-02-19 - Paris, France - Elysée Montmartre - MD(M) (Sony ECM) (evie_np) [AUD] .txt"
     },
     {
       "year": 1997,
@@ -1610,7 +1610,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sony ECM \u00b7 Evie_np",
-      "textFile": "1998-10-28 - Paris, France - Elyse\u0301e Montmartre - MD(M) (Sony ECM) (evie_np) [AUD] .txt"
+      "textFile": "1998-10-28 - Paris, France - Elysée Montmartre - MD(M) (Sony ECM) (evie_np) [AUD] .txt"
     },
     {
       "year": 1999,

@@ -5165,7 +5165,7 @@ const ARTIST_DATA = {
       "notes": "Mandora \u00b7 magentamusik \u00b7 Livestream",
       "version": "Webcast",
       "format": "MP4",
-      "textFile": "2026-06-07 - Nu\u0308rburg, Germany - Rock Am Ring - Mandora Stage (magentamusik) (Livestream) [MP4].txt"
+      "textFile": "2026-06-07 - Nürburg, Germany - Rock Am Ring - Mandora Stage (magentamusik) (Livestream) [MP4].txt"
     }
   ]
 };

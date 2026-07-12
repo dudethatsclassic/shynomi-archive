@@ -327,7 +327,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sony ECM 155 \u00b7 The Mailman",
-      "textFile": "1992-11-17 - Copenhagen, Denmark - Den Gra\u030a Hal (Sony ECM 155) (the mailman) [AUD].txt"
+      "textFile": "1992-11-17 - Copenhagen, Denmark - Den Grå Hal (Sony ECM 155) (the mailman) [AUD].txt"
     },
     {
       "year": 1992,
@@ -885,7 +885,7 @@ const ARTIST_DATA = {
       "version": "SBD",
       "format": "FLAC",
       "notes": "Unknown",
-      "textFile": "1997-04-03 - Cologne, DEU - Bu\u0308rgerhaus Stollwerck (unk) [SBD].txt"
+      "textFile": "1997-04-03 - Cologne, DEU - Bürgerhaus Stollwerck (unk) [SBD].txt"
     },
     {
       "year": 1997,
@@ -1374,7 +1374,7 @@ const ARTIST_DATA = {
       "version": "Webcast",
       "format": "MKV",
       "notes": "Indykid",
-      "textFile": "2022-06-02 - Barcelona, Spain - Primavera Sound - Parc del Fo\u0300rum (indykid) [WEBCAST].txt"
+      "textFile": "2022-06-02 - Barcelona, Spain - Primavera Sound - Parc del Fòrum (indykid) [WEBCAST].txt"
     },
     {
       "year": 2022,

@@ -224,7 +224,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Unknown",
-      "textFile": "1995-12-12 - Seattle, WA - Moe\u2019s (unk) [AUD].txt"
+      "textFile": "1995-12-12 - Seattle, WA - Moe’s (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -406,7 +406,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Unknown",
-      "textFile": "1996-04-03 - Paris, France - Elyse\u0301e Montmartre - MD(M) (Sony ECM-717) (evie_np) [AUD].txt"
+      "textFile": "1996-04-03 - Paris, France - Elysée Montmartre - MD(M) (Sony ECM-717) (evie_np) [AUD].txt"
     },
     {
       "year": 1996,
@@ -949,7 +949,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Unknown",
-      "textFile": "1998-05-15 - Combined Locks, WI - Ryan\u2019s Ballroom (unk) [AUD].txt"
+      "textFile": "1998-05-15 - Combined Locks, WI - Ryan’s Ballroom (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -1285,7 +1285,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Unknown",
-      "textFile": "1998-07-07 - Correggio, Italy - Festa Dell\u2019Unita (unk) [AUD].txt"
+      "textFile": "1998-07-07 - Correggio, Italy - Festa Dell’Unita (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -1466,7 +1466,7 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "FLAC",
       "notes": "",
-      "textFile": "1998-09-28 - Santa Monica, CA - King\u2019s Head Pub - KROQ Radio Acoustic Session [FM].txt"
+      "textFile": "1998-09-28 - Santa Monica, CA - King’s Head Pub - KROQ Radio Acoustic Session [FM].txt"
     },
     {
       "year": 1998,
@@ -1927,7 +1927,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Aiwa Minidisc \u00b7 Evie_np",
-      "textFile": "1999-01-27 - Paris, France - Ze\u0301nith - MD(M) (Aiwa Minidisc) (evie_np) [AUD].txt"
+      "textFile": "1999-01-27 - Paris, France - Zénith - MD(M) (Aiwa Minidisc) (evie_np) [AUD].txt"
     },
     {
       "year": 1999,
@@ -5075,7 +5075,7 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "FLAC",
       "notes": "",
-      "textFile": "2016-08-10 - Luhmu\u0308hlen, Germany - A Summer's Tale Festival [FM].txt"
+      "textFile": "2016-08-10 - Luhmühlen, Germany - A Summer's Tale Festival [FM].txt"
     },
     {
       "year": 2016,

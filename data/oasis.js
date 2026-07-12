@@ -911,7 +911,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-11-28 - Bru\u0308ssel, Belgium - Botanieve [AUD].txt"
+      "textFile": "1994-11-28 - Brüssel, Belgium - Botanieve [AUD].txt"
     },
     {
       "year": 1994,
@@ -1497,7 +1497,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-07-09 - Du\u0308ren, Germany - Badesee [AUD].txt"
+      "textFile": "1995-07-09 - Düren, Germany - Badesee [AUD].txt"
     },
     {
       "year": 1995,
@@ -1874,7 +1874,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-11-12 - Ko\u0308ln, Cologne, Germany - Live Music Hall [AUD].txt"
+      "textFile": "1995-11-12 - Köln, Cologne, Germany - Live Music Hall [AUD].txt"
     },
     {
       "year": 1995,
@@ -2404,7 +2404,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-03-27 - Mu\u0308nchen, Germany - Terminal 1 [AUD].txt"
+      "textFile": "1996-03-27 - München, Germany - Terminal 1 [AUD].txt"
     },
     {
       "year": 1996,
@@ -2556,7 +2556,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-08-07 - Stockholm, Sweden - Sjo\u0308historiska Museet [AUD].txt"
+      "textFile": "1996-08-07 - Stockholm, Sweden - Sjöhistoriska Museet [AUD].txt"
     },
     {
       "year": 1996,
@@ -4545,7 +4545,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2000-03-21 - Paris, France - Bataclan - I Can See A Rock N\u00b4Roll Star [AUD & SBD].txt"
+      "textFile": "2000-03-21 - Paris, France - Bataclan - I Can See A Rock N´Roll Star [AUD & SBD].txt"
     },
     {
       "year": 2000,
@@ -4615,7 +4615,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "TV",
       "format": "FLAC",
-      "textFile": "2000-03-25 - Ko\u0308ln, Germany - E-Werk [TV].txt"
+      "textFile": "2000-03-25 - Köln, Germany - E-Werk [TV].txt"
     },
     {
       "year": 2000,
@@ -4629,7 +4629,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2000-03-25 - Ko\u0308ln, Germany - E-Werk [AUD].txt"
+      "textFile": "2000-03-25 - Köln, Germany - E-Werk [AUD].txt"
     },
     {
       "year": 2000,
@@ -5076,7 +5076,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2000-06-11 - Nu\u0308rnberg, Germany - Rock im Park [FM].txt"
+      "textFile": "2000-06-11 - Nürnberg, Germany - Rock im Park [FM].txt"
     },
     {
       "year": 2000,
@@ -5090,7 +5090,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2000-06-11 - Nu\u0308rnberg, Germany - Rock im Park [AUD].txt"
+      "textFile": "2000-06-11 - Nürnberg, Germany - Rock im Park [AUD].txt"
     },
     {
       "year": 2000,
@@ -5394,7 +5394,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2000-08-04 - Benica\u0300ssim, Spain - Festival [FM].txt"
+      "textFile": "2000-08-04 - Benicàssim, Spain - Festival [FM].txt"
     },
     {
       "year": 2000,
@@ -7109,7 +7109,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2002-11-25 - Zu\u0308rich, Switzerland - Hallenstadion [AUD].txt"
+      "textFile": "2002-11-25 - Zürich, Switzerland - Hallenstadion [AUD].txt"
     },
     {
       "year": 2002,
@@ -7249,7 +7249,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-03-09 - Du\u0308sseldorf, Germany - Philipshalle [AUD].txt"
+      "textFile": "2003-03-09 - Düsseldorf, Germany - Philipshalle [AUD].txt"
     },
     {
       "year": 2003,
@@ -7263,7 +7263,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-03-11 - Mu\u0308nchen, Germany - Zenith [AUD].txt"
+      "textFile": "2003-03-11 - München, Germany - Zenith [AUD].txt"
     },
     {
       "year": 2003,
@@ -7610,7 +7610,7 @@ const ARTIST_DATA = {
       "notes": "FM Mix",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2005-06-04 - Bru\u0308ssel, Belgium - Ancienne Belgique [FM, Studiobrussel & PureFM].txt"
+      "textFile": "2005-06-04 - Brüssel, Belgium - Ancienne Belgique [FM, Studiobrussel & PureFM].txt"
     },
     {
       "year": 2005,
@@ -8655,7 +8655,7 @@ const ARTIST_DATA = {
       "notes": "antoine v.",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-01-12 - Nantes, France - Ze\u0301nith de Nantes (antoine v.) [AUD].txt"
+      "textFile": "2009-01-12 - Nantes, France - Zénith de Nantes (antoine v.) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8669,7 +8669,7 @@ const ARTIST_DATA = {
       "notes": "boywiththeblues",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-01-13 - Bru\u0308ssels, Belgium - Forest National (BoyWithTheBlues) [AUD].txt"
+      "textFile": "2009-01-13 - Brüssels, Belgium - Forest National (BoyWithTheBlues) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8683,7 +8683,7 @@ const ARTIST_DATA = {
       "notes": "m2ts-rip",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-01-13 - Bru\u0308ssels, Belgium - Forest National [AUD].txt"
+      "textFile": "2009-01-13 - Brüssels, Belgium - Forest National [AUD].txt"
     },
     {
       "year": 2009,
@@ -8697,7 +8697,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-01-13 - Bru\u0308ssels, Belgium. - Forest National (m2ts-rip) [AUD].txt"
+      "textFile": "2009-01-13 - Brüssels, Belgium. - Forest National (m2ts-rip) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8850,7 +8850,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-02-04 - Du\u0308sseldorf, Germany - Philipshalle (Sony ECM-717) [AUD].txt"
+      "textFile": "2009-02-04 - Düsseldorf, Germany - Philipshalle (Sony ECM-717) [AUD].txt"
     },
     {
       "year": 2009,
@@ -8905,7 +8905,7 @@ const ARTIST_DATA = {
       "notes": "AT-943 \u00b7 j.mart",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-02-15 - Lisbon, Portugal - Pavilha\u0303o Atla\u0302ntico (j.mart) (AT943) [AUD].txt"
+      "textFile": "2009-02-15 - Lisbon, Portugal - Pavilhão Atlântico (j.mart) (AT943) [AUD].txt"
     },
     {
       "year": 2009,
@@ -9606,7 +9606,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "WEB",
       "format": "FLAC",
-      "textFile": "2009-07-19 - Gra\u0308fenhainichen, Germany - Melt Festival (boywiththeblues) [WEB].txt"
+      "textFile": "2009-07-19 - Gräfenhainichen, Germany - Melt Festival (boywiththeblues) [WEB].txt"
     },
     {
       "year": 2009,

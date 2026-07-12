@@ -508,7 +508,7 @@ const ARTIST_DATA = {
       "notes": "Summercase \u00b7 CSB",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-07-19 - Barcelona, Spain - Parc del Fo\u0300rum - Summercase Festival) (CSB) [AUD].txt"
+      "textFile": "2008-07-19 - Barcelona, Spain - Parc del Fòrum - Summercase Festival) (CSB) [AUD].txt"
     },
     {
       "year": 2009,

@@ -141,7 +141,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1970-10-28 - Paris, France - The\u0301a\u0302tre National Populaire du Palais de Chaillot [FM].txt"
+      "textFile": "1970-10-28 - Paris, France - Théâtre National Populaire du Palais de Chaillot [FM].txt"
     },
     {
       "year": 1970,

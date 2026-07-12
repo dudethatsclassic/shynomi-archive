@@ -144,7 +144,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1991-05-01 - Montreal, Quebec - Le\u00a0Foufounes E\u0301lectriques (Interview with Penny Patterson on CKUT 90.3 FM [FM].txt"
+      "textFile": "1991-05-01 - Montreal, Quebec - Le Foufounes Électriques (Interview with Penny Patterson on CKUT 90.3 FM [FM].txt"
     },
     {
       "year": 1991,
@@ -1690,7 +1690,7 @@ const ARTIST_DATA = {
       "notes": "MD(M) \u00b7 Sony ECM \u00b7 evie_np",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1999-06-22 - Paris, France - Ze\u0301nith - MD(M) (Sony ECM) (evie_np) [AUD].txt"
+      "textFile": "1999-06-22 - Paris, France - Zénith - MD(M) (Sony ECM) (evie_np) [AUD].txt"
     },
     {
       "year": 1999,

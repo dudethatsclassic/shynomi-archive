@@ -2600,7 +2600,7 @@ const ARTIST_DATA = {
       "notes": "WBR 94-9600",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "1993-09-03 - Mu\u0308nchen, Germany - Alabamahalle - Soul Sacrifice [Silver].txt"
+      "textFile": "1993-09-03 - München, Germany - Alabamahalle - Soul Sacrifice [Silver].txt"
     },
     {
       "year": 1993,
@@ -4179,7 +4179,7 @@ const ARTIST_DATA = {
       "notes": "SS \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-05-22 - Nurburg, DE - Nu\u0308rburgring .txt"
+      "textFile": "1994-05-22 - Nurburg, DE - Nürburgring .txt"
     },
     {
       "year": 1994,
@@ -6499,7 +6499,7 @@ const ARTIST_DATA = {
       "notes": "DAT(1) \u00b7 Marantz EM-8",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-04-28 - Nantes, France - La Trocardie\u0300re.txt"
+      "textFile": "1996-04-28 - Nantes, France - La Trocardière.txt"
     },
     {
       "year": 1996,
@@ -17430,7 +17430,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2007-08-16 - Saint-Pe\u0300re, France -Fort Saint-Pe\u0300re.txt"
+      "textFile": "2007-08-16 - Saint-Père, France -Fort Saint-Père.txt"
     },
     {
       "year": 2007,
@@ -22034,7 +22034,7 @@ const ARTIST_DATA = {
       "notes": "trebor",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2013-07-21 - Dour, Belgium - La Plaine de La Machine a\u0300 Feu [FM].txt"
+      "textFile": "2013-07-21 - Dour, Belgium - La Plaine de La Machine à Feu [FM].txt"
     },
     {
       "year": 2013,
@@ -24879,7 +24879,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4U \u00b7 qew",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-08-20 - Stockholm, SWE - Gro\u0308na Lund.txt"
+      "textFile": "2025-08-20 - Stockholm, SWE - Gröna Lund.txt"
     },
     {
       "year": 2025,

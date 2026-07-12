@@ -81,7 +81,7 @@ const ARTIST_DATA = {
       "notes": "Forest \u00b7 magentamusik",
       "version": "WEB",
       "format": "MP4",
-      "textFile": "2026-06-20 - Schee\u00dfel, Germany - Hurricane Festival - Forest Stage (magentamusik) (Livestream) [MP4].txt"
+      "textFile": "2026-06-20 - Scheeßel, Germany - Hurricane Festival - Forest Stage (magentamusik) (Livestream) [MP4].txt"
     }
   ]
 };

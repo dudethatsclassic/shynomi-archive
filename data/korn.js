@@ -246,7 +246,7 @@ const ARTIST_DATA = {
       "notes": "MD(M) \u00b7 Giant Squid Labs \u00b7 dkisback",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-04-05 - Sa\u0303o Paulo, Brasil - Esta\u0301dio Palestra Ita\u0301lia - MD(M) (Giant Squid Labs) (dkisback) [AUD].txt"
+      "textFile": "2008-04-05 - São Paulo, Brasil - Estádio Palestra Itália - MD(M) (Giant Squid Labs) (dkisback) [AUD].txt"
     },
     {
       "year": 2009,
@@ -573,7 +573,7 @@ const ARTIST_DATA = {
       "notes": "Sziget",
       "version": "TV",
       "format": "AVI",
-      "textFile": "2013-08-09 - Budapest, Hungary - O\u0301budai-Sziget - Sziget Festival [TV].txt"
+      "textFile": "2013-08-09 - Budapest, Hungary - Óbudai-Sziget - Sziget Festival [TV].txt"
     },
     {
       "year": 2015,

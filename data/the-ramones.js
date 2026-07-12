@@ -224,7 +224,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AM",
       "format": "FLAC",
-      "textFile": "1980-02-20 - Paris, FR - The\u0301atre Le Palace (AM Radio) 48KHZ [AM].txt"
+      "textFile": "1980-02-20 - Paris, FR - Théatre Le Palace (AM Radio) 48KHZ [AM].txt"
     },
     {
       "year": 1981,

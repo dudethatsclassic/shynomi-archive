@@ -339,7 +339,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1983-10-28 - Mu\u0308nchen, Germany - Alabama Halle - ANA(x) (unk) [AUD] .txt"
+      "textFile": "1983-10-28 - München, Germany - Alabama Halle - ANA(x) (unk) [AUD] .txt"
     },
     {
       "year": 1983,
@@ -409,7 +409,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1983-11-04 - Zu\u0308rich, Switzerland - Rote Fabrik (Source 1) - ANA(x) (unk) [AUD].txt"
+      "textFile": "1983-11-04 - Zürich, Switzerland - Rote Fabrik (Source 1) - ANA(x) (unk) [AUD].txt"
     },
     {
       "year": 1983,
@@ -423,7 +423,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1983-11-04 - Zu\u0308rich, Switzerland - Rote Fabrik (Source 2) - ANA(x) (unk) [AUD].txt"
+      "textFile": "1983-11-04 - Zürich, Switzerland - Rote Fabrik (Source 2) - ANA(x) (unk) [AUD].txt"
     },
     {
       "year": 1983,
@@ -1172,7 +1172,7 @@ const ARTIST_DATA = {
       "notes": "Sony Walkman \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1989-03-27 - Du\u0308sseldorf, West Germany - Philipshalle (Sony Walkman) (unk) [AUD].txt"
+      "textFile": "1989-03-27 - Düsseldorf, West Germany - Philipshalle (Sony Walkman) (unk) [AUD].txt"
     },
     {
       "year": 1989,
@@ -1186,7 +1186,7 @@ const ARTIST_DATA = {
       "notes": "seethelight7",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1989-03-30 - Unterfo\u0308hring, West Germany - Theaterfabrik (seethelight7) [FM].txt"
+      "textFile": "1989-03-30 - Unterföhring, West Germany - Theaterfabrik (seethelight7) [FM].txt"
     },
     {
       "year": 1989,
@@ -1702,7 +1702,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 Sony ECM-155",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-11-17 - Freetown Christiania, Denmark - Den Gra\u030a Hal - DAT(M) (Sony ECM-155) [AUD].txt"
+      "textFile": "1992-11-17 - Freetown Christiania, Denmark - Den Grå Hal - DAT(M) (Sony ECM-155) [AUD].txt"
     },
     {
       "year": 1992,
@@ -2691,7 +2691,7 @@ const ARTIST_DATA = {
       "notes": "TV \u00b7 sonictrasher author",
       "version": "TV",
       "format": "DVD",
-      "textFile": "1998-06-20 Freilichtbu\u0308hne Loreley, St. Goarshausen, Germany [Video].txt"
+      "textFile": "1998-06-20 Freilichtbühne Loreley, St. Goarshausen, Germany [Video].txt"
     },
     {
       "year": 1998,
@@ -2761,7 +2761,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1998-07-02 Ze\u0301nith de Nancy, Maxe\u0301ville, France.txt"
+      "textFile": "1998-07-02 Zénith de Nancy, Maxéville, France.txt"
     },
     {
       "year": 1998,
@@ -3460,7 +3460,7 @@ const ARTIST_DATA = {
       "notes": "Aiwa CM-P11 \u00b7 karsten siebert",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2002-07-10 Gro\u00dfe Freiheit 36, Hamburg, Germany.txt"
+      "textFile": "2002-07-10 Große Freiheit 36, Hamburg, Germany.txt"
     },
     {
       "year": 2002,
@@ -3947,7 +3947,7 @@ const ARTIST_DATA = {
       "notes": "Accelerator \u00b7 species",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2005-07-05 Folkets Park, Malmo\u0308, Sweden.txt"
+      "textFile": "2005-07-05 Folkets Park, Malmö, Sweden.txt"
     },
     {
       "year": 2005,
@@ -4059,7 +4059,7 @@ const ARTIST_DATA = {
       "notes": "Fort \u00b7 SP-CMC-8",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2007-08-17 - Saint-Malo, France - La Route du Rock - Fort de Saint-Pe\u0300re (SP CMC 8) [AUD].txt"
+      "textFile": "2007-08-17 - Saint-Malo, France - La Route du Rock - Fort de Saint-Père (SP CMC 8) [AUD].txt"
     },
     {
       "year": 2007,

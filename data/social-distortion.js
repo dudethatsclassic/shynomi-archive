@@ -434,7 +434,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1997-03-17 - Stuttgart, Germany - Ro\u0308hre [SBD].txt"
+      "textFile": "1997-03-17 - Stuttgart, Germany - Röhre [SBD].txt"
     },
     {
       "year": 1997,
@@ -934,7 +934,7 @@ const ARTIST_DATA = {
       "notes": "Pitka\u0308",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-06-27 - Helsinki, Finland - Suvilahti - Pitka\u0308 Kuuma Kesa\u0308 Festival (Zoom H2) [AUD].txt"
+      "textFile": "2009-06-27 - Helsinki, Finland - Suvilahti - Pitkä Kuuma Kesä Festival (Zoom H2) [AUD].txt"
     },
     {
       "year": 2009,
@@ -1256,7 +1256,7 @@ const ARTIST_DATA = {
       "notes": "Mandora \u00b7 magentamusik \u00b7 Livestream",
       "version": "Webcast",
       "format": "MP4",
-      "textFile": "2026-06-07 - Nu\u0308rburg, Germany - Rock Am Ring - Mandora Stage (magentamusik) (Livestream) [MP4].txt"
+      "textFile": "2026-06-07 - Nürburg, Germany - Rock Am Ring - Mandora Stage (magentamusik) (Livestream) [MP4].txt"
     }
   ]
 };

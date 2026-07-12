@@ -153,7 +153,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "CA-14 \u00b7 Unknown",
-      "textFile": "2021-11-26 - Den Gra\u030a Hal, Denmark - Freetown Christiania (CA-14) (unk) [AUD].txt"
+      "textFile": "2021-11-26 - Den Grå Hal, Denmark - Freetown Christiania (CA-14) (unk) [AUD].txt"
     }
   ]
 };

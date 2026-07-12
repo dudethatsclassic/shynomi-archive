@@ -136,7 +136,7 @@ const ARTIST_DATA = {
       "notes": "DPA4061 + IEMs \u00b7 anonymous",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "2022-06-08 - Lyon, France - The\u0301a\u0302tre Antique de Fourvie\u0300re  (DPA4061 + IEMs) (anonymous) [MIX].txt"
+      "textFile": "2022-06-08 - Lyon, France - Théâtre Antique de Fourvière  (DPA4061 + IEMs) (anonymous) [MIX].txt"
     },
     {
       "year": 2022,
