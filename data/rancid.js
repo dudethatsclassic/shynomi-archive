@@ -20,7 +20,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Wetlands Preserve",
-      "notes": "ANA(x) \u00b7 unk",
+      "notes": "ANA(x) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-09-24 - New York, NY - Wetlands Preserve - ANA(x) (unk) [AUD].txt"
@@ -34,7 +34,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "DV8",
-      "notes": "ANA(x) \u00b7 unk",
+      "notes": "ANA(x) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-10-11 - Seattle, WA - DV8 - ANA(x) (unk) [AUD].txt"
@@ -48,7 +48,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Asbury Park, NJ",
       "venue": "The Stone Pony",
-      "notes": "Sony D-6C \u00b7 unk",
+      "notes": "Sony D-6C · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-03-27 - Asbury Park, NJ - Stone Pony (Sony D-6C) (unk) [AUD].txt"
