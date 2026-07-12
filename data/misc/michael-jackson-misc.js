@@ -12,11 +12,5 @@ const ARTIST_MISC_DATA = [
     "label": "Michael Jackson - Dangerous Tour Rehearsals",
     "format": "DVD",
     "category": "OTHER"
-  },
-  {
-    "type": "release",
-    "label": "Michael Jackson - Transmission Impossible (2017)",
-    "year": 2017,
-    "version": "Silver CD"
   }
 ];
