@@ -7306,7 +7306,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Thomas & Mack Center",
-      "notes": "",
+      "notes": "ANA(M) · milocampo",
       "version": "AUD",
       "format": "",
       "textFile": "1995-10-27 - Las Vegas, NV - Thomas + Mack Center [AUD].txt"
