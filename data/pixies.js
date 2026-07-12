@@ -26,7 +26,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Rat",
-      "notes": "Aiwa Clip-on \u00b7 unk",
+      "notes": "Aiwa Clip-on · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1987-05-06 - Boston, MA - The Rat (Aiwa Clip-on) (unk) [AUD].txt"
@@ -40,7 +40,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "Nightstage",
-      "notes": "Aiwa Clip-on \u00b7 harwilmer",
+      "notes": "Aiwa Clip-on · harwilmer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1987-07-12 - Cambridge, MA - Nightstage (Aiwa Clip-on) (harwilmer) [AUD].txt"
@@ -54,7 +54,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "TT the Bear's",
-      "notes": "Aiwa Clip-on \u00b7 unk",
+      "notes": "Aiwa Clip-on · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1987-07-30 - Cambridge, MA - TT the Bear's (Aiwa Clip-on) (unk) [AUD].txt"
@@ -68,7 +68,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Green Street Station",
-      "notes": "Aiwa Clip-on \u00b7 unk",
+      "notes": "Aiwa Clip-on · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1987-09-19 - Boston, MA - Green Street Station (Aiwa Clip-on) (unk) [AUD].txt"
@@ -235,7 +235,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Pumpehuset",
-      "notes": "Sony WMD3 \u00b7 willer",
+      "notes": "Sony WMD3 · willer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1989-06-26 - Copenhagen, Denmark - Pumpehuset (Sony WMD3) (willer) [AUD].txt"
@@ -263,7 +263,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Fox Theatre",
-      "notes": "Sony Hand-held \u00b7 unk",
+      "notes": "Sony Hand-held · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1989-09-16 - Detroit, MI - Fox Theatre (Sony Hand-held) (unk) [AUD].txt"
@@ -280,7 +280,7 @@ const ARTIST_DATA = {
       "notes": "Toshiba KT-4087",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-03-24 - Irvine, CA - University Of California, Crawford Hall  (Toshiba KT-4087) [AUD].txt"
+      "textFile": "1990-03-24 - Irvine, CA - University Of California, Crawford Hall - CASS(M) (Source 2) [AUD].txt"
     },
     {
       "year": 1990,
@@ -291,7 +291,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "University Of California, Crawford Hall",
-      "notes": "CASS(M) \u00b7 Source 2",
+      "notes": "CASS(M) · Source 2",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-03-24 - Irvine, CA - University Of California, Crawford Hall - CASS(M) (Source 2) [AUD].txt"
@@ -333,7 +333,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Ritz",
-      "notes": "SS-DSM-3 \u00b7 unk",
+      "notes": "SS-DSM-3 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-11-23 - New York, NY - The Ritz (SS-DSM-3) (unk) [AUD].txt"
@@ -347,7 +347,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theater",
-      "notes": "SS-DSM \u00b7 legendary e.c.p.",
+      "notes": "SS-DSM · legendary e.c.p.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-12-17 - Seattle, WA - Moore Theater (SS-DSM) (legendary e.c.p.) [AUD].txt"
@@ -389,7 +389,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "notes": "SS mics \u00b7 unk",
+      "notes": "SS mics · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1992-01-26 - Minneapolis, MN - First Avenue (SS mics) (unk) [AUD].txt"
@@ -403,7 +403,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "notes": "SS mics \u00b7 unk",
+      "notes": "SS mics · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1992-01-27 - Minneapolis, MN - First Avenue (SS mics) (unk) [AUD].txt"
@@ -417,7 +417,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Grounds",
-      "notes": "Coachella \u00b7 PRO #1 \u00b7 danderson",
+      "notes": "Coachella · PRO #1 · danderson",
       "version": "Webcast",
       "format": "TS",
       "textFile": "2014-04-12 - Indio, CA - Empire Polo Grounds - Coachella (PRO #1) (danderson) [WEBCAST].txt"
@@ -431,7 +431,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "SOMA",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-10-01 - San Diego, CA - SOMA (DPA 4081) (faninor) [AUD24].txt"
@@ -445,7 +445,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Bridgeport, CT",
       "venue": "Hartford HealthCare Amphitheater",
-      "notes": "Shure MV88 \u00b7 km",
+      "notes": "Shure MV88 · km",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-08-24 - Bridgeport, CT - Hartford HealthCare Amphitheater (Shure MV88) (km) [AUD24].txt"
