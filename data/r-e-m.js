@@ -6184,13 +6184,13 @@ const ARTIST_DATA = {
     {
       "year": 1995,
       "month": 1,
-      "day": 16,
-      "dateStr": "1-16-1995",
+      "day": 19,
+      "dateStr": "1-19-1995",
       "city": "Adelaide",
       "state": "Australia",
       "location": "Adelaide, Australia",
       "venue": "Adelaide Entertainment Centre",
-      "notes": "TCD-D8 · slipkid master",
+      "notes": "M · SS-DSM6 · slipkid",
       "version": "AUD",
       "format": ""
     },
@@ -6203,7 +6203,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Entertainment Centre",
-      "notes": "",
+      "notes": "unk · drumsboy transfer",
       "version": "AUD",
       "format": "",
       "textFile": "1995-01-19 - Sydney, Australia - Entertainment Centre [AUD].txt"
@@ -6217,7 +6217,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Entertainment Centre",
-      "notes": "",
+      "notes": "unk · drumsboy transfer",
       "version": "AUD",
       "format": "",
       "textFile": "1995-01-20 - Sydney, NSW (slipkid68 master + 2020 JEMS transfer) [AUD].txt"
@@ -6231,7 +6231,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Entertainment Centre",
-      "notes": "",
+      "notes": "DAT(M) · SS DSM-6 · slipkid · jems 2020 transfer",
       "version": "AUD",
       "format": "",
       "textFile": "1995-01-20 - Sydney, NSW (slipkid68 master + 2020 JEMS transfer) [AUD].txt"
@@ -6245,7 +6245,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Brisbane, Australia",
       "venue": "Main Arena",
-      "notes": "Brisbane",
+      "notes": "Brisbane · unk",
       "version": "AUD",
       "format": "",
       "textFile": "1995-01-22 - Brisbane, Australia - Main Arena - Brisbane Entertainment Centre [AUD].txt"
@@ -6259,7 +6259,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Myer Music Bowl",
-      "notes": "",
+      "notes": "unk · drumsboy transfer",
       "version": "AUD",
       "format": "",
       "textFile": "1995-01-25 - Melbourne, Australia - Myer Music Bowl [AUD].txt"
@@ -6273,7 +6273,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Sidney Myer Music Bowl",
-      "notes": "",
+      "notes": "M · unk · slipkid68",
       "version": "AUD",
       "format": "",
       "textFile": "1995-01-26 - Melbourne, Australia - Sidney Myer Music Bowl [AUD].txt"
