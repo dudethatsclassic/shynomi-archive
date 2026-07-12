@@ -7292,7 +7292,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Crisler Arena",
-      "notes": "",
+      "notes": "DAT(M) · CSB · notorious t.i.m.",
       "version": "AUD",
       "format": "",
       "textFile": "1995-10-22 - Ann Arbor, MI - Crisler Arena (Notorious T.I.M.) [AUD].txt"
