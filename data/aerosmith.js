@@ -166,11 +166,11 @@ const ARTIST_DATA = {
       "city": "Rio de Janeiro",
       "state": "Brazil",
       "location": "Rio de Janeiro, Brazil",
-      "venue": "Praça da Apoteose *Struttin' My Stuff",
+      "venue": "Praça da Apoteose *Struttin' My Stuff",
       "notes": "KTS 292-293",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "1994-01-21 - Rio de Janeiro, Brazil - Praça da Apoteose - Struttin' My Stuff (KTS 292-293) [Silver].txt"
+      "textFile": "1994-01-21 - Rio de Janeiro, Brazil - Praça da Apoteose - Struttin' My Stuff (KTS 292-293) [Silver].txt"
     },
     {
       "year": 1994,

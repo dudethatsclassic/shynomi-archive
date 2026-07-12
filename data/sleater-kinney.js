@@ -100,14 +100,14 @@ const ARTIST_DATA = {
       "month": 8,
       "day": 20,
       "dateStr": "8-20-2024",
-      "city": "Köln",
+      "city": "Köln",
       "state": "Germany",
-      "location": "Köln, Germany",
-      "venue": "Bürgerhaus Stollwerck",
+      "location": "Köln, Germany",
+      "venue": "Bürgerhaus Stollwerck",
       "notes": "Zoom H4N · minimax",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2024-08-20 - Köln, Germany - Bürgerhaus Stollwerck (Zoom H4N) (minimax) [AUD].txt"
+      "textFile": "2024-08-20 - Köln, Germany - Bürgerhaus Stollwerck (Zoom H4N) (minimax) [AUD].txt"
     },
     {
       "year": 2024,

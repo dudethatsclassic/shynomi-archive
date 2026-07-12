@@ -61,11 +61,11 @@ const ARTIST_DATA = {
       "city": "Hilversum",
       "state": "Netherlands",
       "location": "Hilversum, Netherlands",
-      "venue": "ëBacklineí",
+      "venue": "ëBacklineí",
       "notes": "VPRO-FM · notsaved",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1986-04-30 - Hilversum, Netherlands - ëBacklineí - VPRO-FM (notsaved) [FM].txt"
+      "textFile": "1986-04-30 - Hilversum, Netherlands - ëBacklineí - VPRO-FM (notsaved) [FM].txt"
     },
     {
       "year": 1996,

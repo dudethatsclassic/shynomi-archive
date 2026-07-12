@@ -71,14 +71,14 @@ const ARTIST_DATA = {
       "month": 5,
       "day": 27,
       "dateStr": "5-27-2023",
-      "city": "Liège",
+      "city": "Liège",
       "state": "Belgium",
-      "location": "Liège, Belgium",
+      "location": "Liège, Belgium",
       "venue": "Classic 21 Festival 2023",
       "notes": "Country",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2023-05-27 - Liège, Belgium - Classic 21 Festival 2023 - Country Hall [FM].txt"
+      "textFile": "2023-05-27 - Liège, Belgium - Classic 21 Festival 2023 - Country Hall [FM].txt"
     },
     {
       "year": 2023,

@@ -104,11 +104,11 @@ const ARTIST_DATA = {
       "city": "Paris",
       "state": "FR",
       "location": "Paris, FR",
-      "venue": "Le Zénith",
+      "venue": "Le Zénith",
       "notes": "CA-11c · kurddt",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2024-04-29 - Paris, FR - Le Zénith (CA-11c) (kurddt) [AUD].txt"
+      "textFile": "2024-04-29 - Paris, FR - Le Zénith (CA-11c) (kurddt) [AUD].txt"
     },
     {
       "year": 2024,

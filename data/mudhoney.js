@@ -435,7 +435,7 @@ const ARTIST_DATA = {
       "city": "Braunschweig",
       "state": "Germany",
       "location": "Braunschweig, Germany",
-      "venue": "Freizeit- und Bildungszentrum Bürgerpark",
+      "venue": "Freizeit- und Bildungszentrum Bürgerpark",
       "notes": "ANA(x) · unk · bobfather",
       "version": "AUD",
       "format": "FLAC"

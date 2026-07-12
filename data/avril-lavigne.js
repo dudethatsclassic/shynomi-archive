@@ -269,7 +269,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-06-18 - Düsseldorf, Germany - Phillipshalle unk [AUD].txt"
+      "textFile": "2008-06-18 - Düsseldorf, Germany - Phillipshalle unk [AUD].txt"
     },
     {
       "year": 2008,

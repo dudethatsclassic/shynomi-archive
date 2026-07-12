@@ -103,7 +103,7 @@ const ARTIST_DATA = {
       "city": "L'Isle Jourdain",
       "state": "France",
       "location": "L'Isle Jourdain, France",
-      "venue": "Mégafolies Festival",
+      "venue": "Mégafolies Festival",
       "notes": "MD(M) · Sony ECM · evie_np",
       "version": "AUD",
       "format": "FLAC"
