@@ -56,20 +56,5 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 1993,
     "category": "OTHER"
-  },
-  {
-    "type": "release",
-    "label": "XX-XX - Various Dates - Every Monday Night 1992 & 1993 Sin-e Cafe",
-    "year": 1992,
-    "format": "AUD"
-  },
-  {
-    "type": "release",
-    "label": "09-XX  - Grace Outtakes",
-    "year": 1993
-  },
-  {
-    "type": "release",
-    "label": "Jeff Buckley Demos (1990-1997)"
   }
 ];
