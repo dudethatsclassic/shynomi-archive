@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "r-e-m",
   "name": "R.E.M.",
   "drive": "G",
-  "showCount": 822,
+  "showCount": 823,
   "firstYear": 1980,
   "lastYear": 2989,
   "years": [
@@ -7208,7 +7208,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Buffalo Memorial Auditorium",
-      "notes": "",
+      "notes": "unk · chopper7",
       "version": "AUD",
       "format": "",
       "textFile": "1995-09-29 - Buffalo, NY - Buffalo Memorial Auditorium [AUD].txt"
@@ -7222,7 +7222,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Hershey, PA",
       "venue": "Hershey Park",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "",
       "textFile": "1995-09-30 - Hershey, PA - Hershey Park [AUD].txt"
@@ -7236,7 +7236,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "The Meadows Music Theatre",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "",
       "textFile": "1995-10-01 - Hartford, CT - The Meadows Music Theatre [AUD].flac.txt"
@@ -7250,7 +7250,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "FleetCenter",
-      "notes": "",
+      "notes": "ANA(M) · unk · rob r",
       "version": "AUD",
       "format": "",
       "textFile": "1995-10-03 - Boston, MA - FleetCenter [AUD].txt"
@@ -7264,9 +7264,23 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "CoreStates Spectrum",
-      "notes": "",
+      "notes": "VHS(x) · unk",
       "version": "AUD",
-      "format": "2 sources",
+      "format": "",
+      "textFile": "1995-10-13 - Philadelphia, PA - CoreStates Spectrum (Night 2) [DVD].txt"
+    },
+    {
+      "year": 1995,
+      "month": 10,
+      "day": 13,
+      "dateStr": "10-13-1995",
+      "city": "Philadelphia",
+      "state": "PA",
+      "location": "Philadelphia, PA",
+      "venue": "CoreStates Spectrum",
+      "notes": "VHS(x) · srb151 transfer",
+      "version": "AUD",
+      "format": "",
       "textFile": "1995-10-13 - Philadelphia, PA - CoreStates Spectrum (Night 2) [DVD].txt"
     },
     {
@@ -7278,7 +7292,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Riverfront Coliseum",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "",
       "textFile": "1995-10-21 - Cincinnati, OH - Riverfront Coliseum [AUD].flac.txt"
