@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "candlebox",
   "name": "Candlebox",
   "drive": "B",
-  "showCount": 96,
+  "showCount": 97,
   "firstYear": 1994,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1994,
     1995,
@@ -30,7 +30,8 @@ const ARTIST_DATA = {
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -70,7 +71,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Bernardino, CA",
       "venue": "Glen Helen Blockbuster Pavilion",
-      "notes": "SS-DSM-6P \u00b7 steve hagar",
+      "notes": "SS-DSM-6P · steve hagar",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-07-24 - San Bernardino, CA - Glen Helen Blockbuster Pavilion [AUD].txt"
@@ -84,7 +85,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saugerties, NY",
       "venue": "Woodstock",
-      "notes": "SS-DSM-6P \u00b7 steve hagar",
+      "notes": "SS-DSM-6P · steve hagar",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-08-12 - Saugerties, NY - Woodstock 1994 [AUD].txt"
@@ -98,7 +99,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Bicentennial Park",
-      "notes": "Sony TCM 5000EV \u00b7 floridian",
+      "notes": "Sony TCM 5000EV · floridian",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-08-21 - Miami, FL - Bicentennial Park [AUD].txt"
@@ -285,7 +286,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Masquerade",
-      "notes": "unk \u00b7 live showz",
+      "notes": "unk · live showz",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-03-24 - Atlanta, GA - The Masquerade (live showz) [AUD].txt"
@@ -327,7 +328,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Webster Theatre",
-      "notes": "DPA 4060 \u00b7 james bonaiuto",
+      "notes": "DPA 4060 · james bonaiuto",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2006-07-28 - Hartford, CT - Webster Theatre [AUD24].txt"
@@ -341,7 +342,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "notes": "Sony ECM-717 \u00b7 ukj69",
+      "notes": "Sony ECM-717 · ukj69",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -354,7 +355,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Moore Square Park *Downtown Live",
-      "notes": "ECM909 \u00b7 genuine space jewel",
+      "notes": "ECM909 · genuine space jewel",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-08-05 - Raleigh, NC - Moore Square Park [AUD].txt"
@@ -368,7 +369,7 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Charleston, SC",
       "venue": "Music Farm",
-      "notes": "Octava MC012 \u00b7 todd trego",
+      "notes": "Octava MC012 · todd trego",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -381,7 +382,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Coca-Cola Roxy",
-      "notes": "ADK TL \u00b7 lee geddy",
+      "notes": "ADK TL · lee geddy",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -394,7 +395,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Fort Worth, TX",
       "venue": "Ridglea Theater",
-      "notes": "SC-BMC-12 \u00b7 caddie",
+      "notes": "SC-BMC-12 · caddie",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -407,7 +408,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Sauget, IL",
       "venue": "Pop's",
-      "notes": "SP-BMC-2 \u00b7 cptncrash76",
+      "notes": "SP-BMC-2 · cptncrash76",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-09-08 - Sauget, IL - Pop's (SP-BMC-2) (cptncrash76) [AUD].aud.txt"
@@ -421,7 +422,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Roseland Theater",
-      "notes": "AKG 463s \u00b7 jcrab66",
+      "notes": "AKG 463s · jcrab66",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-09-26 - Portland, OR - Roseland Theater [AUD].txt"
@@ -435,7 +436,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
-      "notes": "ECM-717 \u00b7 kevdogg",
+      "notes": "ECM-717 · kevdogg",
       "version": "AUD",
       "format": "MP3"
     },
@@ -448,7 +449,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "Headliners",
-      "notes": "DPA 4060 \u00b7 live2cd",
+      "notes": "DPA 4060 · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-07-08 - Toledo, OH - Headliners [AUD].txt"
@@ -462,7 +463,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Fort Wayne, IN",
       "venue": "Headwaters Park",
-      "notes": "DPA 4060 \u00b7 charles dewey cole",
+      "notes": "DPA 4060 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-07-12 - Fort Wayne, IN - Headwaters Park [AUD].txt"
@@ -476,7 +477,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Borders",
-      "notes": "DSM6 \u00b7 itwthstd",
+      "notes": "DSM6 · itwthstd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-07-22 - Hollywood, CA - Borders (DSM6) (itwthstd) [AUD].txt"
@@ -490,7 +491,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
-      "notes": "ECM-717 \u00b7 kevdogg",
+      "notes": "ECM-717 · kevdogg",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -503,7 +504,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Blondies",
-      "notes": "DPA 4060 \u00b7 charles dewey cole",
+      "notes": "DPA 4060 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-11-29 - Detroit, MI - Blondies [AUD].txt"
@@ -517,7 +518,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Neumos",
-      "notes": "SP-CMC4 \u00b7 kris.",
+      "notes": "SP-CMC4 · kris.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-03-20 -  Seattle, WA - Neumos [AUD].txt"
@@ -531,7 +532,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Toad's Place",
-      "notes": "DPA 4022 \u00b7 james bonaiuto",
+      "notes": "DPA 4022 · james bonaiuto",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-06-06 - New Haven, CT - Toad's Place [AUD].txt"
@@ -545,7 +546,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Toad's Place",
-      "notes": "DPA 4022 \u00b7 james bonaiuto",
+      "notes": "DPA 4022 · james bonaiuto",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2009-06-20 - New Haven, CT - Toad's Place [AUD24].txt"
@@ -559,7 +560,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "South Bend, IN",
       "venue": "Club Fever",
-      "notes": "DPA 4060 \u00b7 charles dewey cole",
+      "notes": "DPA 4060 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-07-15 - South Bend, IN - Club Fever [AUD].txt"
@@ -573,7 +574,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
-      "notes": "DPA 4060 \u00b7 charles dewey cole",
+      "notes": "DPA 4060 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-09-03 - Cleveland, OH - House of Blues [AUD].txt"
@@ -587,7 +588,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Pontiac, MI",
       "venue": "Phoenix Plaza Amphitheatre",
-      "notes": "Arts, \u00b7 DPA 4060 \u00b7 charles dewey cole",
+      "notes": "Arts, · DPA 4060 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-09-04 - Pontiac, MI - Phoenix Plaza Amphitheatre [AUD].txt"
@@ -601,7 +602,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Richardson, TX",
       "venue": "Wildflower Festival",
-      "notes": "MetroPCS \u00b7 AT853 \u00b7 david sell",
+      "notes": "MetroPCS · AT853 · david sell",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-05-14 - Richardson, TX - Wildflower Festival [AUD].txt"
@@ -615,7 +616,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Chillicothe, OH",
       "venue": "Ross County Fairgrounds",
-      "notes": "DPA 4060 \u00b7 charles dewey cole",
+      "notes": "DPA 4060 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-09-04 - Chillicothe, OH - Ross County Fairgrounds [AUD].txt"
@@ -629,7 +630,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Military Park",
-      "notes": "SP-CMC-2 \u00b7 test for echo",
+      "notes": "SP-CMC-2 · test for echo",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-09-05 - Indianapolis, IN - Military Park [AUD].txt"
@@ -643,7 +644,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "KSHE Pig Roast",
-      "notes": "Verizon \u00b7 Sony ECM-717 \u00b7 cptncrash76",
+      "notes": "Verizon · Sony ECM-717 · cptncrash76",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-09-18 - Maryland Heights, MO - KSHE Pig Roast - Verizon Wireless Amphitheater (Sony ECM-717) (cptncrash76) [AUD].aud.txt"
@@ -657,7 +658,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Soldier's Memorial",
-      "notes": "Sony ECM-717 \u00b7 sundeep",
+      "notes": "Sony ECM-717 · sundeep",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-05-29 - St. Louis, MO - Soldier's Memorial (Sony ECM-717) [AUD].txt"
@@ -671,7 +672,7 @@ const ARTIST_DATA = {
       "state": "NM",
       "location": "Albuquerque, NM",
       "venue": "Hard Rock Casino",
-      "notes": "Sony PCM-D50 \u00b7 unk",
+      "notes": "Sony PCM-D50 · unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -684,7 +685,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Broad Ripple Super Fest",
-      "notes": "SP-CMC-2 \u00b7 tst4eko",
+      "notes": "SP-CMC-2 · tst4eko",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-02-04 - Indianapolis, IN - Broad Ripple Super Fest (SP-CMC-2) (tst4eko) [AUD].txt"
@@ -698,7 +699,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "The Fillmore",
-      "notes": "unk \u00b7 omaha vike",
+      "notes": "unk · omaha vike",
       "version": "IEM",
       "format": "FLAC"
     },
@@ -711,7 +712,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Mount Clemens, MI",
       "venue": "Emerald Theater",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2012-05-19 - Mount Clemens, MI - Emerald Theater (CA-14) (live2cd) [AUD24].txt"
@@ -725,7 +726,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2012-05-23 - Cincinnati, OH - Bogart's (CA-14) (live2cd) [AUD24].txt"
@@ -739,7 +740,7 @@ const ARTIST_DATA = {
       "state": "SD",
       "location": "Sioux Falls, SD",
       "venue": "Falls Park",
-      "notes": "CSB \u00b7 alzeppelin",
+      "notes": "CSB · alzeppelin",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-08-18 - Sioux Falls, SD - Falls Park (CSB) (alzeppelin) [AUD].txt"
@@ -781,7 +782,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Cubby Bear",
-      "notes": "CSB \u00b7 auger3d",
+      "notes": "CSB · auger3d",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -794,7 +795,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "The Vouge Theater",
-      "notes": "SP-CMC-2 \u00b7 tst4eko",
+      "notes": "SP-CMC-2 · tst4eko",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2013-02-05 - Indianapolis, IN - The Vouge Theater (SP-CMC-2) (tst4eko) [AUD].txt"
@@ -808,7 +809,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "St. Andrews Hall",
-      "notes": "HEB DPA4060 \u00b7 live2cd",
+      "notes": "HEB DPA4060 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2013-02-08 - Detroit, MI - St. Andrews Hall (HEB DPA4060) (live2cd) [AUD24].txt"
@@ -822,7 +823,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rockford, IL",
       "venue": "District Bar and Grill",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2013-02-14 - Rockford, IL - District Bar and Grill (CA-14) (live2cd) [AUD24].txt"
@@ -836,7 +837,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Leesburg, FL",
       "venue": "City Hall",
-      "notes": "Bikefest \u00b7 Sony ECM-DS70P",
+      "notes": "Bikefest · Sony ECM-DS70P",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2013-04-27 - Leesburg, FL - City Hall - Bikefest [AUD].txt"
@@ -850,7 +851,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Dayton, OH",
       "venue": "McGuffy's House of Rock",
-      "notes": "HEB DPA 4060 \u00b7 live2cd",
+      "notes": "HEB DPA 4060 · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2013-06-11 - Dayton, OH - McGuffy's House of Rock (HEB DPA 4060) (live2cd) [AUD].txt"
@@ -864,7 +865,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Bloomington, IL",
       "venue": "The Castle Theater",
-      "notes": "KAM MC3 \u00b7 dan olker",
+      "notes": "KAM MC3 · dan olker",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2013-06-18 - Bloomington, IL - The Castle Theater (KAM MC3) (dan olker) [AUD24].txt"
@@ -878,7 +879,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Taylor, MI",
       "venue": "All Around Bar",
-      "notes": "Kevin Martin & Adam Curry \u00b7 HEB DPA 4060 \u00b7 charles dewey cole",
+      "notes": "Kevin Martin & Adam Curry · HEB DPA 4060 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-11-14 - Taylor, MI - All Around Bar (Kevin Martin & Adam Curry) (HEB DPA 4060) (charles dewey cole) [AUD].txt"
@@ -892,7 +893,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "Hollywood Casino",
-      "notes": "Kevin Martin & Adam Curry \u00b7 CA-14s \u00b7 charles dewey cole",
+      "notes": "Kevin Martin & Adam Curry · CA-14s · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-11-15 - Toledo, OH - Hollywood Casino (Kevin Martin & Adam Curry) (CA-14s) (charles dewey cole) [AUD].txt"
@@ -906,7 +907,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "A&R Music Bar",
-      "notes": "Kevin Martin & Adam Curry \u00b7 DPA 4060 \u00b7 charles dewey cole",
+      "notes": "Kevin Martin & Adam Curry · DPA 4060 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2015-05-08 - Columbus, OH - A&R Music Bar (Kevin Martin & Adam Curry) (DPA 4060) (charles dewey cole) [AUD24].txt"
@@ -920,7 +921,7 @@ const ARTIST_DATA = {
       "state": "OH.",
       "location": "Cleveland, OH.",
       "venue": "Flats East Bank",
-      "notes": "CSB \u00b7 charles dewey cole",
+      "notes": "CSB · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2015-11-07 - Cleveland, OH. - Flats East Bank (CSB) (charles dewey cole) [AUD24].txt"
@@ -934,7 +935,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Mount Pocono, PA",
       "venue": "Mt. Airy Casino",
-      "notes": "Gypsies \u00b7 unk \u00b7 livesoldier1",
+      "notes": "Gypsies · unk · livesoldier1",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -947,7 +948,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Warrendale, PA",
       "venue": "Jergel's",
-      "notes": "AT853s \u00b7 charles dewey cole",
+      "notes": "AT853s · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2016-05-21 - Warrendale, PA - Jergel's (AT853s) (charles dewey cole) [AUD24].txt"
@@ -961,7 +962,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Music Box Supper Club",
-      "notes": "CA-14 \u00b7 charles dewey cole",
+      "notes": "CA-14 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2017-03-16 - Cleveland, OH - Music Box Supper Club (CA-14) (charles dewey cole) [AUD24].txt"
@@ -975,7 +976,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Fall River, MA",
       "venue": "Narrows Center for the Arts",
-      "notes": "SP-CMC-8C \u00b7 farve4",
+      "notes": "SP-CMC-8C · farve4",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2017-03-25 - Fall River, MA - Narrows Center for the Arts (SP-CMC-8C) (farve4) [AUD].txt"
@@ -989,7 +990,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "St. Andrews Hall",
-      "notes": "HEB DPA 4060 \u00b7 charles dewey cole",
+      "notes": "HEB DPA 4060 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2018-01-26 - Detroit, MI - St. Andrews Hall (HEB DPA 4060) (charles dewey cole) [AUD24].txt"
@@ -1003,7 +1004,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Northfield Park, OH",
       "venue": "Hard Rock Rocksino",
-      "notes": "CA-14s \u00b7 charles dewey cole",
+      "notes": "CA-14s · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2018-01-27 - Northfield Park, OH - Hard Rock Rocksino (CA-14s) (charles dewey cole) [AUD24].txt"
@@ -1017,7 +1018,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Boardman, OH",
       "venue": "Southern Park Mall",
-      "notes": "HEB DPA 4060 \u00b7 charles dewey cole",
+      "notes": "HEB DPA 4060 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-06-29 - Boardman, OH - Southern Park Mall (HEB DPA 4060) (charles dewey cole) [AUD].txt"
@@ -1031,7 +1032,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Washington, PA",
       "venue": "The Meadows Racetrack and Casino",
-      "notes": "CA-14s \u00b7 charles dewey cole",
+      "notes": "CA-14s · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2018-06-30 - Washington, PA - The Meadows Racetrack and Casino (CA-14s) (charles dewey cole) [AUD24].txt"
@@ -1045,7 +1046,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Paramount Theater",
-      "notes": "AKG CK63 \u00b7 john hermsen",
+      "notes": "AKG CK63 · john hermsen",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2018-07-21 - Seattle, WA - Paramount Theater (AKG CK63) (john hermsen) [AUD24].txt"
@@ -1059,7 +1060,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Paramount Theatre",
-      "notes": "AT853s \u00b7 charles dewey cole",
+      "notes": "AT853s · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2018-07-21 - Seattle, WA - Paramount Theatre (AT853s) (charles dewey cole) [AUD24].txt"
@@ -1073,7 +1074,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Paramount Theatre",
-      "notes": "AT853s \u00b7 charles dewey cole",
+      "notes": "AT853s · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2018-07-22 - Seattle, WA - Paramount Theatre (AT853s) (charles dewey cole) [AUD24].txt"
@@ -1087,7 +1088,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Peoria, IL",
       "venue": "The Monarch",
-      "notes": "CA-11c \u00b7 cptncrash76",
+      "notes": "CA-11c · cptncrash76",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-10-18 - Peoria, IL - The Monarch (CA-11c) (cptncrash76) [AUD].txt"
@@ -1101,7 +1102,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Versailles, OH",
       "venue": "BMI Indoor Speedway",
-      "notes": "CA-14s \u00b7 charles dewey cole",
+      "notes": "CA-14s · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2018-10-20 - Versailles, OH - BMI Indoor Speedway (CA-14s) (charles dewey cole) [AUD24].txt"
@@ -1115,7 +1116,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant",
-      "notes": "AKG P170 \u00b7 cptncrash76",
+      "notes": "AKG P170 · cptncrash76",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-02-10 - St. Louis, MO - The Pageant (AKG P170) (cptncrash76) [AUD].txt"
@@ -1129,7 +1130,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Fillmore",
-      "notes": "AT853 \u00b7 charles dewey cole",
+      "notes": "AT853 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2019-02-16 - Detroit, MI - The Fillmore (AT853) (charles dewey cole) [AUD24].txt"
@@ -1143,7 +1144,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Northfield Park, OH",
       "venue": "Hard Rock Casino",
-      "notes": "CA-14s \u00b7 charles dewey cole",
+      "notes": "CA-14s · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2019-02-17 - Northfield Park, OH - Hard Rock Casino (CA-14s) (charles dewey cole) [AUD24].txt"
@@ -1157,7 +1158,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The Bluestone",
-      "notes": "CA-14s \u00b7 charles dewey cole",
+      "notes": "CA-14s · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2019-07-11 - Columbus, OH - The Bluestone (CA-14) (charles dewey cole) [AUD24].txt"
@@ -1171,7 +1172,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Austintown, OH",
       "venue": "Hollywood Gaming at Mahoning Valley Race Course",
-      "notes": "CA-14 \u00b7 charles dewey cole",
+      "notes": "CA-14 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2019-07-12 - Austintown, OH - Hollywood Gaming at Mahoning Valley Race Course (CA-14) (charles dewey cole) [AUD].txt"
@@ -1185,7 +1186,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Turner Ballroom",
-      "notes": "DPA 4011 \u00b7 analog4011",
+      "notes": "DPA 4011 · analog4011",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-11-13 - Milwaukee, WI - Turner Ballroom (DPA 4011) (analog4011) [AUD].txt"
@@ -1199,7 +1200,7 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "Mac's Place",
-      "notes": "Stageit \u00b7 charles dewey cole",
+      "notes": "Stageit · charles dewey cole",
       "version": "WEB",
       "format": "FLAC 24",
       "textFile": "2021-01-30 - Salt Lake City, UT - Mac's Place - Stageit Webstream (charles dewey cole) [WEB24].txt"
@@ -1213,7 +1214,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "The Vogue",
-      "notes": "CA-14s \u00b7 charles dewey cole",
+      "notes": "CA-14s · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2021-09-21 - Indianapolis, IN - The Vogue (CA-14s) (charles dewey cole) [AUD24].txt"
@@ -1227,7 +1228,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Memorial Hall OTR",
-      "notes": "CA-14 \u00b7 charles dewey cole",
+      "notes": "CA-14 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-04-20 - Cincinnati, OH - Memorial Hall OTR (CA-14) (charles dewey cole) [AUD24].txt"
@@ -1241,7 +1242,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Beverly, MA",
       "venue": "The Cabot",
-      "notes": "Mandolin Webstream \u00b7 charles dewey cole",
+      "notes": "Mandolin Webstream · charles dewey cole",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2022-05-06 - Beverly, MA - The Cabot (Mandolin Webstream) (charles dewey cole) [WEB].txt"
@@ -1255,7 +1256,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Belleville, IL",
       "venue": "Lincoln Theater",
-      "notes": "CA-11s \u00b7 unk",
+      "notes": "CA-11s · unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1268,7 +1269,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "New Berlin, IL",
       "venue": "Sangamon County Fair Grandstand",
-      "notes": "Schoeps MK22 \u00b7 brad downen",
+      "notes": "Schoeps MK22 · brad downen",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-06-17 - New Berlin, IL - Sangamon County Fair Grandstand (Schoeps MK22) (brad downen) [AUD24].txt"
@@ -1282,7 +1283,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "MGM Music Hall",
-      "notes": "Fenway \u00b7 SP-CMC-8C \u00b7 farve4",
+      "notes": "Fenway · SP-CMC-8C · farve4",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-02-14 - Boston, MA - MGM Music Hall - Fenway (SP-CMC-8C) (farve4) [AUD].txt"
@@ -1296,7 +1297,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
-      "notes": "SP-CMC-8 \u00b7 live2cd",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-07-06 - Cincinnati, OH - Bogart's (SP-CMC-8) (live2cd) [AUD24].txt"
@@ -1310,7 +1311,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Delmar Hall",
-      "notes": "CA14 \u00b7 cap'n crash",
+      "notes": "CA14 · cap'n crash",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-08-13 - St. Louis, MO - Delmar Hall (CA14) (cap'n crash) [AUD24].txt"
@@ -1324,7 +1325,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Jacobs Pavilion at Nautica",
-      "notes": "CA-14s \u00b7 live2cd",
+      "notes": "CA-14s · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-08-13 - Cleveland, OH - Jacobs Pavilion at Nautica (CA-14s) (live2cd) [AUD24].txt"
@@ -1338,7 +1339,7 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Huntsville, AL",
       "venue": "South Star Music Festival",
-      "notes": "Schoeps MK4 \u00b7 jesse mc",
+      "notes": "Schoeps MK4 · jesse mc",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-09-28 - Huntsville, AL - South Star Music Festival (Schoeps MK4) (jesse mc) [AUD24].txt"
@@ -1352,10 +1353,23 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Climate Pledge Arena",
-      "notes": "DPA 4080 \u00b7 john hermsen",
+      "notes": "DPA 4080 · john hermsen",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-09-25 - Seattle, WA - Climate Pledge Arena (DPA 4080) (john hermsen) [AUD24].txt"
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "day": 3,
+      "dateStr": "7-3-2026",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "location": "Fort Wayne, IN",
+      "venue": "Clyde Theatre",
+      "notes": "SP-CMC-8 Cardioids · charlesdeweycoleiv",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
