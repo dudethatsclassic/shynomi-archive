@@ -404,6 +404,12 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
+    "label": "R.E.M. - Shiny Happy People {W 0027 CD} (1991)",
+    "year": 1991,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
     "label": "R.E.M. - Everybody Hurts {9 40989-2} (1993)",
     "year": 1993,
     "category": "OTHER"
@@ -438,80 +444,79 @@ const ARTIST_MISC_DATA = [
     "category": "OTHER"
   },
   {
-    "type": "label",
-    "label": "2-17-1983 / Reflection Studio"
-  },
-  {
     "type": "release",
-    "label": "Half A World Away Part 1: 1988-1991 (MONG CD007A)",
-    "year": 1988,
-    "category": "OTHER",
-    "textFile": "MISC - Half A World Away Part One 1988-1991 (MONG CD007A).txt"
-  },
-  {
-    "type": "release",
-    "label": "Life's Rich Pageant and More (WAI 022)",
-    "category": "OTHER",
-    "textFile": "MISC - Lifes Rich Pageant And More (WAI 022).txt"
-  },
-  {
-    "type": "release",
-    "label": "Low",
+    "label": "R.E.M. - 2-17-1983 / Reflection Studio",
+    "year": 1983,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Monster - Completely Live Through the Years (1995-2008)",
+    "label": "R.E.M. - Half A World Away Part 1: 1988-1991 (MONG CD007A)",
+    "year": 1988,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Life's Rich Pageant and More {WAI 022}",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Low",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Monster - Completely Live Through the Years (1995-2008)",
     "year": 1995,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Murmur - Completely Live Through the Years (1981-2008)",
+    "label": "R.E.M. - Murmur - Completely Live Through the Years (1981-2008)",
     "year": 1981,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Night Time Session (3-13-1991)",
+    "label": "R.E.M. - Night Time Session (3-13-1991)",
     "version": "SBD",
     "year": 1991,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Nightswimming - Greatest Hits Live",
+    "label": "R.E.M. - Nightswimming - Greatest Hits Live",
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Poets of the Wheat (4-29-1989) Miami + Orlando, FL",
+    "label": "R.E.M. - Poets of the Wheat (4-29-1989) Miami + Orlando, FL",
     "version": "preFM",
     "year": 1989,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "R.E.M.nants - The Complete Rarities Collection (12CD)",
+    "label": "R.E.M. - R.E.M.nants - The Complete Rarities Collection (12CD)",
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Ultra Rare Trax",
+    "label": "R.E.M. - Ultra Rare Trax",
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Unreleased Live LP (1984)",
+    "label": "R.E.M. - Unreleased Live LP (1984)",
     "version": "SBD",
     "year": 1984,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "REMTV (6xDVD) 2014-1",
+    "label": "R.E.M. - REMTV (6xDVD) 2014-1",
     "year": 2014,
-    "category": "OTHER",
-    "textFile": "MISC - REMTV (6xDVD) 2014-1 [DVD].txt"
+    "category": "OTHER"
   }
 ];
