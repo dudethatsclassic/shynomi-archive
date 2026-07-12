@@ -1,7 +1,7 @@
 const ARTIST_DATA = {
   "id": "michael-stipe",
   "name": "Michael Stipe",
-  "drive": "",
+  "drive": "G",
   "showCount": 5,
   "firstYear": 2014,
   "lastYear": 2015,
