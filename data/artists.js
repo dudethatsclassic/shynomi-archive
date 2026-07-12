@@ -2144,7 +2144,7 @@ const ARTISTS = [
   {
     "id": "r-e-m",
     "name": "R.E.M.",
-    "showCount": 823,
+    "showCount": 824,
     "firstYear": 1980,
     "lastYear": 2989
   },
