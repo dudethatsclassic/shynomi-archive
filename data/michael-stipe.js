@@ -80,6 +80,5 @@ const ARTIST_DATA = {
       "format": "",
       "textFile": "2015-12-30 - San Francisco, CA - Fillmore [AUD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
