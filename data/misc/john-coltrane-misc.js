@@ -13,10 +13,5 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 1956,
     "category": "OTHER"
-  },
-  {
-    "type": "release",
-    "label": "62-63 - Coltrane Rarities",
-    "year": 1956
   }
 ];
