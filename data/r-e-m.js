@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "r-e-m",
   "name": "R.E.M.",
   "drive": "G",
-  "showCount": 823,
+  "showCount": 824,
   "firstYear": 1980,
   "lastYear": 2989,
   "years": [
@@ -7096,7 +7096,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "St. Petersburg, FL",
       "venue": "Thunderdome",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "",
       "textFile": "1995-09-09 - St. Petersburg, FL - Thunderdome [AUD].txt"
@@ -7110,7 +7110,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Antioch, TN",
       "venue": "Starwood Amphitheatre",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "",
       "textFile": "1995-09-11 - Antioch, TN - Starwood Amphitheatre [AUD].txt"
@@ -7124,7 +7124,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "The Woodlands, TX",
       "venue": "Cynthia Woods Mitchell Pavilion",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "",
       "textFile": "1995-09-15 - The Woodlands, TX - Cynthia Woods Mitchell Pavilion [AUD].flac.txt"
@@ -7138,7 +7138,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Southpark Meadows",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "",
       "textFile": "1995-09-17 - Austin, TX - Southpark Meadows [AUD].txt"
@@ -7152,7 +7152,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Coca-Cola Starplex Amphitheatre",
-      "notes": "",
+      "notes": "DAT(M) · SS-DSM6 · chris m.",
       "version": "AUD",
       "format": "",
       "textFile": "1995-09-20 - Dallas, TX - Coca-Cola Starplex Amphitheatre [AUD].txt"
@@ -7166,7 +7166,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Tinley Park, IL",
       "venue": "New World Music Theatre",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "",
       "textFile": "1995-09-24 - Tinley Park, IL - New World Music Theatre [AUD].flac.txt"
@@ -7180,7 +7180,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Deer Creek Music Center",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "",
       "textFile": "1995-09-26 - Noblesville, IN - Deer Creek Music Center [AUD].txt"
@@ -7194,7 +7194,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "East Lansing, MI",
       "venue": "Jack Breslin Student Events Center",
-      "notes": "MSU",
+      "notes": "MSU · unk",
       "version": "AUD",
       "format": "",
       "textFile": "1995-09-27 - East Lansing, MI - Jack Breslin Student Events Center - MSU [AUD].txt"
@@ -7532,8 +7532,21 @@ const ARTIST_DATA = {
       "venue": "The Omni",
       "notes": "",
       "version": "SBD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1995-11-18 - Atlanta, GA - Omni [AUD].txt"
+    },
+    {
+      "year": 1995,
+      "month": 11,
+      "day": 18,
+      "dateStr": "11-18-1995",
+      "city": "Atlanta",
+      "state": "GA",
+      "location": "Atlanta, GA",
+      "venue": "The Omni",
+      "notes": "unk · chuck",
+      "version": "AUD",
+      "format": ""
     },
     {
       "year": 1995,
