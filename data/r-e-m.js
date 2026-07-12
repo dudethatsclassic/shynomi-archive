@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "r-e-m",
   "name": "R.E.M.",
   "drive": "G",
-  "showCount": 821,
+  "showCount": 822,
   "firstYear": 1980,
   "lastYear": 2989,
   "years": [
@@ -7307,6 +7307,20 @@ const ARTIST_DATA = {
       "location": "Las Vegas, NV",
       "venue": "Thomas & Mack Center",
       "notes": "",
+      "version": "AUD",
+      "format": "",
+      "textFile": "1995-10-27 - Las Vegas, NV - Thomas + Mack Center [AUD].txt"
+    },
+    {
+      "year": 1995,
+      "month": 10,
+      "day": 27,
+      "dateStr": "10-27-1995",
+      "city": "Las Vegas",
+      "state": "NV",
+      "location": "Las Vegas, NV",
+      "venue": "Thomas & Mack Center",
+      "notes": "DAT(M) · jefftak",
       "version": "AUD",
       "format": "",
       "textFile": "1995-10-27 - Las Vegas, NV - Thomas + Mack Center [AUD].txt"
