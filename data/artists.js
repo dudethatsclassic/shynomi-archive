@@ -394,9 +394,9 @@ const ARTISTS = [
   {
     "id": "candlebox",
     "name": "Candlebox",
-    "showCount": 96,
+    "showCount": 97,
     "firstYear": 1994,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "carole-king",
