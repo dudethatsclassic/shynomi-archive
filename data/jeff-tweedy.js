@@ -2511,8 +2511,8 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Lyons, CO",
       "venue": "Rocky Mountain Folks Festival",
-      "notes": "",
-      "version": "AUD",
+      "notes": "unk",
+      "version": "AUD #1",
       "format": ""
     },
     {
@@ -2524,8 +2524,8 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Lyons, CO",
       "venue": "Rocky Mountain Folks Festival",
-      "notes": "",
-      "version": "AUD",
+      "notes": "unk",
+      "version": "AUD #2",
       "format": ""
     },
     {
