@@ -79,7 +79,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Ine\u0301dits (Promo CD) (France, SPCD 2111)",
+    "label": "Inédits (Promo CD) (France, SPCD 2111)",
     "year": 1997,
     "category": "SINGLES + EPS"
   },
@@ -1077,62 +1077,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "04-XX - Seattle, WA - Laundry Room Studios",
-    "year": 1992,
-    "format": "SBD #1"
-  },
-  {
-    "type": "release",
-    "label": "XX-XX - In Your Honor (Instrumental)",
-    "year": 2005
-  },
-  {
-    "type": "release",
-    "label": "Dave Grohl - 1992-93 - Demos"
-  },
-  {
-    "type": "release",
-    "label": "Dave Grohl - Demo Tapes"
-  },
-  {
-    "type": "release",
-    "label": "Early Demos (1990-1994)"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - 1994 Demos.flac"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - 1995 - Radio Broadcasts"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Odds And Ends 2",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Odds And Ends 3",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Odds And Ends",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Various - Nulle Part Ailleurs Compilation",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Garage Tour - Documentary",
-    "format": "MP4"
-  },
-  {
-    "type": "release",
     "label": "01. October 1988 - Laundry Room Studio",
     "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
   },
@@ -1465,7 +1409,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Foo Fighters \u2013 Rope (Deadmau5 Mix Edit) (2011)",
+    "label": "Foo Fighters – Rope (Deadmau5 Mix Edit) (2011)",
     "format": "FLAC",
     "year": 2011,
     "category": "OTHER"
@@ -2070,10 +2014,5 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC HD",
     "year": 2025,
     "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Foo Fighters - Pocketwatch (EMCD09)",
-    "textFile": "MISC - Foo Fighters - Pocketwatch (EMCD09).txt"
   }
 ];
