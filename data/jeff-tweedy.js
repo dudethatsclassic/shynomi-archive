@@ -2232,7 +2232,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": ""
     },
