@@ -905,7 +905,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-11-27 - Lisbon, Portugal - Pavilhão Os Belenenses [AUD].txt"
+      "textFile": "1993-11-27 - Lisbon, Portugal - Pavilh\u00e3o Os Belenenses [AUD].txt"
     },
     {
       "year": 1993,
@@ -919,7 +919,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2)",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "1993-11-27 - Lisbon, Portugal - Pavilhão dos Belenenses [DVD].txt"
+      "textFile": "1993-11-27 - Lisbon, Portugal - Pavilh\u00e3o dos Belenenses [DVD].txt"
     },
     {
       "year": 1993,
@@ -1071,7 +1071,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-05-22 - Nürburgring, Germany - Rock Am Ring - Köln [AUD].txt"
+      "textFile": "1994-05-22 - N\u00fcrburgring, Germany - Rock Am Ring - K\u00f6ln [AUD].txt"
     },
     {
       "year": 1994,
@@ -6547,7 +6547,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 DPA 4061s \u00b7 ed davis",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2000-10-20 - Los Angeles, CA - Greek Theatre (DPA 4061’s - Sony PCM-M1) [AUD].txt"
+      "textFile": "2000-10-20 - Los Angeles, CA - Greek Theatre (DPA 4061\u2019s - Sony PCM-M1) [AUD].txt"
     },
     {
       "year": 2000,
@@ -8899,7 +8899,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "WEB",
       "format": "MP4",
-      "textFile": "2003-07-04 - Belfort, France - Eurockéennes (unk) [WEB].txt"
+      "textFile": "2003-07-04 - Belfort, France - Eurock\u00e9ennes (unk) [WEB].txt"
     },
     {
       "year": 2003,
@@ -11569,7 +11569,7 @@ const ARTIST_DATA = {
       "notes": "UC \u00b7 M \u00b7 Schoeps CCM4s \u00b7 theman \u00b7 inez edit",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-06-24 - Berkeley, CA - Greek Theatre - UC Berkeley (Schoeps CCM4’s - Sony PCM-M1) [AUD].txt"
+      "textFile": "2006-06-24 - Berkeley, CA - Greek Theatre - UC Berkeley (Schoeps CCM4\u2019s - Sony PCM-M1) [AUD].txt"
     },
     {
       "year": 2006,
@@ -16588,7 +16588,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "MP4",
-      "textFile": "2018-04-22 - São Paulo, Brazil - Soundhearts Festival - Allianz Parque [WEBCAST].txt"
+      "textFile": "2018-04-22 - S\u00e3o Paulo, Brazil - Soundhearts Festival - Allianz Parque [WEBCAST].txt"
     },
     {
       "year": 2018,

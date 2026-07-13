@@ -8,7 +8,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Counting Crows - Behind The Music 2",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Counting Crows - Behind The Music 2 [DVD].txt"
   },
   {
     "type": "label",
@@ -29,7 +30,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Counting Crows - SNSM TV Appearances",
     "version": "TV",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Counting Crows - Demos 1992.txt"
   },
   {
     "type": "label",
@@ -54,27 +56,32 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "One For Sorrow - AAEA Live Compilation",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - One For Sorrow - AAEA Live Compilation.txt"
   },
   {
     "type": "label",
     "label": "1994-2000 - 8 European Broadcasts",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - 1994-2000 - 8 European Broadcasts.txt"
   },
   {
     "type": "label",
     "label": "Acoustic in Europe",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Acoustic In Europe.txt"
   },
   {
     "type": "label",
     "label": "Carving Out Our Names - Live Compilation",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Carving Out Our Names - Live Compilation.txt"
   },
   {
     "type": "label",
     "label": "These Desert Lives",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - These Desert Lives [FLAC].txt"
   },
   {
     "type": "label",
@@ -84,12 +91,14 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Adam Duritz - Twitter Tracks",
-    "format": "MP3"
+    "format": "MP3",
+    "textFile": "MISC - Adam Duritz - Twitter Tracks [MP3].txt"
   },
   {
     "type": "label",
     "label": "Back to the Himalayans",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Back to the Himalayans [FLAC].txt"
   },
   {
     "type": "label",
@@ -153,7 +162,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Live on Letterman",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Live on Letterman [FLAC].txt"
   },
   {
     "type": "label",
@@ -178,17 +188,20 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Merry Christmas Mr. Jones",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Merry Christmas Mr. Jones [FLAC].txt"
   },
   {
     "type": "label",
     "label": "Other Perfect Things (2001 Compilation)",
-    "format": "WAV"
+    "format": "WAV",
+    "textFile": "MISC - Other Perfect Things (2001) Compilation [FLAC].txt"
   },
   {
     "type": "label",
     "label": "Out On the Radio Starting to Change",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Out On The Radio Starting To Change [FLAC].txt"
   },
   {
     "type": "label",
@@ -223,42 +236,50 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Songs from the Nest",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Songs From The Nest [FLAC].rtf"
   },
   {
     "type": "label",
     "label": "The A Murder of One Collection",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - The A Murder Of One Collection [FLAC].txt"
   },
   {
     "type": "label",
     "label": "The A Murder of One Collection Classics",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - The A Murder Of One Collection-Classics [FLAC].txt"
   },
   {
     "type": "label",
     "label": "The Covers Album",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - The Covers Album [FLAC].txt"
   },
   {
     "type": "label",
     "label": "The Goodnight Elisabeth Collection",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - The Goodnight Elisabeth Collection [FLAC].txt"
   },
   {
     "type": "label",
     "label": "The Goodnight Elisabeth Collection Classics",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - The Goodnight Elisabeth Collection-Classics [FLAC].txt"
   },
   {
     "type": "label",
     "label": "The Rain King Collection",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - The Rain King Collection [FLAC].txt"
   },
   {
     "type": "label",
     "label": "The Ultimate Round Here Collection",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - The Ultimate Round Here Collection [FLAC].txt"
   },
   {
     "type": "label",
@@ -288,37 +309,43 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Warfield and Friends",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Warfield And Friends [FLAC].txt"
   },
   {
     "type": "release",
     "label": "Counting Crows - Live Collection Vol. 1 (foggonthetyne production)",
     "version": "Compilation",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Counting Crows - Live Collection Vol. 1 (foggonthetyne production) [DVD].txt"
   },
   {
     "type": "release",
     "label": "Counting Crows - Live Collection Vol. 2 (foggonthetyne production)",
     "version": "Compilation",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Counting Crows - Live Collection Vol. 10 (foggonthetyne production) [DVD].txt"
   },
   {
     "type": "release",
     "label": "Counting Crows - Live Collection Vol. 3 (foggonthetyne production)",
     "version": "Compilation",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Counting Crows - Live Collection Vol. 11 (foggonthetyne production) [DVD].txt"
   },
   {
     "type": "release",
     "label": "Counting Crows - Live Collection Vol. 4 (foggonthetyne production)",
     "version": "Compilation",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Counting Crows - Live Collection Vol. 12 (foggonthetyne production) [DVD].txt"
   },
   {
     "type": "release",
     "label": "Counting Crows - Live Collection Vol. 5 (foggonthetyne production)",
     "version": "Compilation",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Counting Crows - Live Collection Vol. 13 (foggonthetyne production) [DVD].txt"
   },
   {
     "type": "release",
@@ -330,43 +357,50 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Counting Crows - Live Collection Vol. 7 (foggonthetyne production)",
     "version": "Compilation",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Counting Crows - Live Collection Vol. 3 (foggonthetyne production) [DVD].txt"
   },
   {
     "type": "release",
     "label": "Counting Crows - Live Collection Vol. 8 (foggonthetyne production)",
     "version": "Compilation",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Counting Crows - Live Collection Vol. 4 (foggonthetyne production) [DVD].txt"
   },
   {
     "type": "release",
     "label": "Counting Crows - Live Collection Vol. 9 (foggonthetyne production)",
     "version": "Compilation",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Counting Crows - Live Collection Vol. 5 (foggonthetyne production) [DVD].txt"
   },
   {
     "type": "release",
     "label": "Counting Crows - Live Collection Vol. 10 (foggonthetyne production)",
     "version": "Compilation",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Counting Crows - Live Collection Vol. 6 (foggonthetyne production) [DVD].txt"
   },
   {
     "type": "release",
     "label": "Counting Crows - Live Collection Vol. 11 (foggonthetyne production)",
     "version": "Compilation",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Counting Crows - Live Collection Vol. 7 (foggonthetyne production) [DVD].txt"
   },
   {
     "type": "release",
     "label": "Counting Crows - Live Collection Vol. 12 (foggonthetyne production)",
     "version": "Compilation",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Counting Crows - Live Collection Vol. 8 (foggonthetyne production) [DVD].txt"
   },
   {
     "type": "release",
     "label": "Counting Crows - Live TV Extras Compilation",
     "version": "Compilation",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Counting Crows - Live TV Extras Compilation [DVD].txt"
   },
   {
     "type": "label",
@@ -381,17 +415,20 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "The David Fanning Interview with Adam Duritz",
-    "format": "TS"
+    "format": "TS",
+    "textFile": "MISC - The David Fanning Interview with Adam Duritz [TS].txt"
   },
   {
     "type": "label",
     "label": "The Story Of Counting Crows - Much More Music",
-    "format": "MKV"
+    "format": "MKV",
+    "textFile": "MISC - The Story Of Counting Crows - Much More Music [MKV].txt"
   },
   {
     "type": "label",
     "label": "Waking Up Maria - AAEA Videography",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Waking Up Maria - AAEA Videography [DVD].txt"
   },
   {
     "type": "label",
@@ -410,16 +447,19 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "By the Time We Got to Woodstock"
+    "label": "By the Time We Got to Woodstock",
+    "textFile": "MISC - By the Time We Got to Woodstock.txt"
   },
   {
     "type": "release",
     "label": "Counting Crows - August Demos 1992",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Counting Crows - August Demos 1992 [FLAC].txt"
   },
   {
     "type": "release",
-    "label": "Counting Crows - Demos 1992"
+    "label": "Counting Crows - Demos 1992",
+    "textFile": "MISC - Counting Crows - Candy Coated [VCD].txt"
   },
   {
     "type": "release",
@@ -429,31 +469,37 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Counting Crows - Live Collection Vol. 13 (foggonthetyne production)",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Counting Crows - Live Collection Vol. 9 (foggonthetyne production) [DVD].txt"
   },
   {
     "type": "release",
     "label": "Distances Between Yesterday And Now",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Distances Between Yesterday And Now [FLAC].txt"
   },
   {
     "type": "release",
     "label": "Fantasy Flight 1 & 2",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Fantasy Flight 1 & 2 [FLAC].txt"
   },
   {
     "type": "release",
     "label": "Fantasy Flight 3 & 4",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Fantasy Flight 3 & 4 [FLAC].txt"
   },
   {
     "type": "release",
-    "label": "Flying Demos 1991"
+    "label": "Flying Demos 1991",
+    "textFile": "MISC - Flying Demos 1991.txt"
   },
   {
     "type": "release",
     "label": "Four for Boys - Live HC Compilation",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Four for Boys - Live HC Compilation [FLAC].txt"
   },
   {
     "type": "release",
@@ -464,13 +510,15 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Gimme the Thunder, Gimme the Rain",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Gimme the Thunder, Gimme the Rain [FLAC].txt"
   },
   {
     "type": "release",
     "label": "Here Comes the Rain King (1998)",
     "year": 1998,
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Here Comes the Rain King (1998) [FLAC].txt"
   },
   {
     "type": "release",
@@ -481,27 +529,32 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Live European Summer Tour - 2000 Commemorative Sampler",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Live European Summer Tour - 2000 Commemorative Sampler [FLAC].txt"
   },
   {
     "type": "release",
     "label": "Live Forever",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Live Forever [FLAC].txt"
   },
   {
     "type": "release",
     "label": "Matt Malley Intro",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Matt Malley Intro [FLAC].txt"
   },
   {
     "type": "release",
     "label": "May and Nothing Before (1994)",
     "year": 1994,
-    "format": "M4A"
+    "format": "M4A",
+    "textFile": "MISC - May and Nothing Before (1994) [M4A].txt"
   },
   {
     "type": "release",
-    "label": "Official Bootleg (These Desert Lives)"
+    "label": "Official Bootleg (These Desert Lives)",
+    "textFile": "MISC - Official Bootleg (These Desert Lives).txt"
   },
   {
     "type": "release",
@@ -516,7 +569,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Rarities (The Rare & Unreleased Compilation)"
+    "label": "Rarities (The Rare & Unreleased Compilation)",
+    "textFile": "MISC - Rarities (The Rare & Unreleased Compilation).txt"
   },
   {
     "type": "release",
@@ -526,7 +580,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Round Here Collection",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Round Here Collection [FLAC].txt"
   },
   {
     "type": "release",
@@ -551,6 +606,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Two for Joy - Live Compilation"
+    "label": "Two for Joy - Live Compilation",
+    "textFile": "MISC - Two for Joy - Live Compilation.txt"
   }
 ];

@@ -3,7 +3,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Radiohead - Unplugged",
     "version": "Silver CD",
-    "format": "SHN"
+    "format": "SHN",
+    "textFile": "MISC - Radiohead - Unplugged [Silver].txt"
   },
   {
     "type": "release",
@@ -55,12 +56,14 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "1994-1996 Radiotick Demos",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - 1994-1996 - Radiotick Demos.txt"
   },
   {
     "type": "label",
     "label": "1994 - Slower Demo",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - 1994 - Slower Demo.txt"
   },
   {
     "type": "release",
@@ -78,7 +81,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Radiohead - Never Run Away (The Pablo Honey Tour) (choc-eclaire / fuzzbluerain)",
     "version": "Compilation",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Radiohead - Never Run Away (The Pablo Honey Tour) (choc-eclaire - fuzzbluerain) [COMPILATION].txt"
   },
   {
     "type": "label",
@@ -89,7 +93,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Radiohead - 2003-08-13 - Mansfield, MA - Tweeter Center - Eloquent Metaphors",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Radiohead - 2003-08-13 - Mansfield, MA - Tweeter Center - Eloquent Metaphors [Silver].txt"
   },
   {
     "type": "release",
@@ -101,7 +106,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Radiohead - Hail To The Thief (leaked demo mix)",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Radiohead - Hail To The Thief (Leaked Demo Mix) [SIlver].txt"
   },
   {
     "type": "label",
@@ -163,13 +169,15 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Radiohead - Secrets to Be Told (A Collection 1990-2012)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Radiohead - Secrets To Be Told - A Collection (1990-2012).txt"
   },
   {
     "type": "release",
     "label": "Radiohead - Remembering - Kid A mnesiac Live (2021)",
     "version": "Comp",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Radiohead - Remembering - Kid A mnesiac Live (2021).txt"
   },
   {
     "type": "release",
@@ -186,12 +194,14 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "1995-2001 - Old Dutch Stuff (DVD)",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - 1995-2001 - Old Dutch Stuff (Fixed) [DVD].txt"
   },
   {
     "type": "label",
     "label": "Radiohead - 2000 Live Promos",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Radiohead - 2000 Live Promos.txt"
   },
   {
     "type": "label",
@@ -230,7 +240,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "1994-1996-XX-XX - Kill Me Sarah [DVD]",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - 1994-1996-XX-XX - Kill Me Sarah [DVD].txt"
   },
   {
     "type": "label",
@@ -1173,13 +1184,15 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "1995 - Black Sessions",
     "year": 1993,
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - 1993-1995 - Black Sessions [Silver].txt"
   },
   {
     "type": "release",
     "label": "2001 - NPA Live (Wild Child Records)",
     "year": 1993,
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - 1993-2001 - NPA Live (Wild Child Records) [Silver].txt"
   },
   {
     "type": "release",
@@ -1212,7 +1225,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "07+08-XX - Iberian Tour Compilation",
-    "year": 2002
+    "year": 2002,
+    "textFile": "MISC - 2002-07+08-XX - Iberian Tour Compilation.txt"
   },
   {
     "type": "release",
@@ -1222,7 +1236,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "04-21 - The Radiohead Story on BBC World Service",
-    "year": 2003
+    "year": 2003,
+    "textFile": "MISC - 2003-04-21 - The Radiohead Story on BBC World Service.txt"
   },
   {
     "type": "release",
@@ -1232,7 +1247,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "11-07 - Andi Watson Daydreaming Of Radiohead Stream Cap",
-    "year": 2018
+    "year": 2018,
+    "textFile": "MISC - 2018-11-07 - Andi Watson Daydreaming Of Radiohead Stream Cap.txt"
   },
   {
     "type": "release",
@@ -1244,7 +1260,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Radiohead - After The Head Rush EP (Neil Young Covers)"
+    "label": "Radiohead - After The Head Rush EP (Neil Young Covers)",
+    "textFile": "MISC - Radiohead - After The Head Rush EP (Neil Young Covers).txt"
   },
   {
     "type": "release",
@@ -1280,7 +1297,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Radiohead - Slipped Away (the Kid A Tour) (choc_eclaire)"
+    "label": "Radiohead - Slipped Away (the Kid A Tour) (choc_eclaire)",
+    "textFile": "MISC - Radiohead - Slipped Away (the Kid A Tour) (choc_eclaire).txt"
   },
   {
     "type": "release",
@@ -1289,6 +1307,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Radiohead - The Golden Unplugged Abum",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - Radiohead - The Golden Unplugged Abum [Silver].txt"
   }
 ];

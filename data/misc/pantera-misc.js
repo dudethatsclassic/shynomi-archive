@@ -13,7 +13,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Pantera - 1992-1994 preFM Radio (1992-06-26 & 1994-05-04) [Silver].txt"
   },
   {
     "type": "release",
@@ -83,6 +84,14 @@ const ARTIST_MISC_DATA = [
     "label": "Dimebag Darrell - Whiskey Road Demo",
     "version": "WEB",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Dimebag Darrell - Whiskey Road Demo [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Pantera - 1992 - WW1 Absolutely Live High Voltage",
+    "version": "preFM",
+    "format": "preFM",
+    "textFile": "MISC - Pantera - 1992 - WW1 Absolutely Live High Voltage [preFM].txt"
   }
 ];

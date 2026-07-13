@@ -49,7 +49,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-12-03 - San José, CA - Cactus Club (unk) [AUD].txt"
+      "textFile": "1992-12-03 - San Jos\u00e9, CA - Cactus Club (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -1325,7 +1325,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2000-06-17 - Seinäjoki, Finland - Provinssirock Festival [SBD].txt"
+      "textFile": "2000-06-17 - Sein\u00e4joki, Finland - Provinssirock Festival [SBD].txt"
     },
     {
       "year": 2000,
@@ -1754,7 +1754,7 @@ const ARTIST_DATA = {
       "notes": "Rock",
       "version": "PRO #1",
       "format": "DVD",
-      "textFile": "2001-01-21 – Rio de Janeiro, Brazil - Cidade do Rock - Rock In Rio [PRO #1].txt"
+      "textFile": "2001-01-21 \u2013 Rio de Janeiro, Brazil - Cidade do Rock - Rock In Rio [PRO #1].txt"
     },
     {
       "year": 2001,
@@ -3100,7 +3100,7 @@ const ARTIST_DATA = {
       "notes": "Edirol R09-HR \u00b7 coli",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-08-29 - Charleville-Mézières, France - Le Cabaret Vert-Square Bayard (Edirol R09-HR) (coli) [AUD] .txt"
+      "textFile": "2009-08-29 - Charleville-M\u00e9zi\u00e8res, France - Le Cabaret Vert-Square Bayard (Edirol R09-HR) (coli) [AUD] .txt"
     },
     {
       "year": 2010,
@@ -3239,7 +3239,7 @@ const ARTIST_DATA = {
       "notes": "inc \u00b7 Zoom H2 \u00b7 bootlegottawa",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-05-04 - Montréal, Canada - The Metropolis (inc) (Zoom H2) (bootlegottawa) [AUD].txt"
+      "textFile": "2011-05-04 - Montr\u00e9al, Canada - The Metropolis (inc) (Zoom H2) (bootlegottawa) [AUD].txt"
     },
     {
       "year": 2011,

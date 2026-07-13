@@ -8,7 +8,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "1967 BBC DAT Masters (2CD)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - 1967 - BBC DAT Masters - 2CD.txt"
   },
   {
     "type": "label",
@@ -32,7 +33,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Alfred E Newman On Bass 17",
     "version": "AUD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Alfred E. Newman On Bass 17.txt"
   },
   {
     "type": "release",
@@ -44,7 +46,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Are You Experienced (Acetates/Demos/Remixes)",
     "version": "Cassette",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Are You Experienced - Acetates, Demos & Remixes.txt"
   },
   {
     "type": "label",
@@ -74,7 +77,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "BBC DAT Masters",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - BBC DAT Masters.txt"
   },
   {
     "type": "label",
@@ -84,7 +88,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Black Devil",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Black Devil.txt"
   },
   {
     "type": "label",
@@ -94,7 +99,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Blues at Midnight",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Blues At Midnight.txt"
   },
   {
     "type": "label",
@@ -141,7 +147,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Caruso Insult - Room Full of Mirrors Poetry Recital - Bob Terry Tape",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Caruso Insult - Room Full Of Mirrors Poetry Recital - Bob Terry Tape.txt"
   },
   {
     "type": "label",
@@ -197,22 +204,26 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Drone Blues",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Drone Blues.txt"
   },
   {
     "type": "label",
     "label": "Echo Tape",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Echo Tape.txt"
   },
   {
     "type": "label",
     "label": "Electric Gypsy's",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Electric Gypsy's.txt"
   },
   {
     "type": "label",
     "label": "Electric Ladyland Outtakes",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Electric Ladyland Outtakes.txt"
   },
   {
     "type": "label",
@@ -241,7 +252,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Freak Out Jam",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Freak Out Jam.txt"
   },
   {
     "type": "label",
@@ -342,7 +354,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Philharmonic Plus",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Philharmonic Plus.txt"
   },
   {
     "type": "label",
@@ -384,7 +397,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Jimi Hendrix & Love - Blue Thumb Acetate",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Jimi Hendrix & Love - Blue Thumb Acetate.txt"
   },
   {
     "type": "release",
@@ -401,7 +415,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Jimi Hendrix - Reputations The Man They Made God",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Jimi Hendrix - Reputations The Man They Made God.txt"
   },
   {
     "type": "label",
@@ -432,7 +447,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Jimi Hendrix - Out In The Sun",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Jimi Hendrix - Out In The Sun [FLAC].txt"
   },
   {
     "type": "label",
@@ -452,7 +468,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Jimi Hendrix - Smash Alternates",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Jimi Hendrix - Smash Alternates.txt"
   },
   {
     "type": "label",
@@ -462,7 +479,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Jimi Hendrix - Band of Gypsies - Live at the Fillmore East (1999) (VHS Transfer)",
-    "format": "MKV"
+    "format": "MKV",
+    "textFile": "MISC - Jimi Hendrix - Band of Gypsies - Live at the Fillmore East (1999) (VHS Transfer) [MKV].txt"
   },
   {
     "type": "label",
@@ -472,7 +490,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Jimi Hendrix - Electric Church (DVD)",
-    "format": "MKV"
+    "format": "MKV",
+    "textFile": "MISC - Jimi Hendrix - The Electric Church.txt"
   },
   {
     "type": "label",
@@ -507,13 +526,15 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Jimi Hendrix - Winterland 3",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Jimi Hendrix - Winterland 3.txt"
   },
   {
     "type": "release",
     "label": "Jimi Hendrix - Kick Ass Live - Vol. 1",
     "version": "Compilation",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Jimi Hendrix - Kick Ass Live - Vol. 1 [COMPILATION].txt"
   },
   {
     "type": "label",
@@ -540,7 +561,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Jimi Hendrix - Zomby Blues - Bob Terry Tape #19",
     "version": "SBD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Jimi Hendrix - Zomby Blues - Bob Terry Tape #19.txt"
   },
   {
     "type": "release",
@@ -565,7 +587,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Unsorted Hendrix Pics",
-    "category": "THE PICTURES"
+    "category": "THE PICTURES",
+    "textFile": "MISC - Unsorted Hendrix Pics.txt"
   },
   {
     "type": "release",
@@ -579,17 +602,20 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "In The Beginning",
-    "year": 1966
+    "year": 1966,
+    "textFile": "MISC - 1966 - In The Beginning.txt"
   },
   {
     "type": "release",
     "label": "1967 - European Broadcasts",
-    "year": 1966
+    "year": 1966,
+    "textFile": "MISC - 1966-1967 - European Broadcasts.txt"
   },
   {
     "type": "release",
     "label": "1970 'Astro Man' Box Set (Orig. Silvers) Outtakes & Live",
-    "year": 1966
+    "year": 1966,
+    "textFile": "MISC - 1966-1970 'Astro Man' Box Set (Orig. Silvers) Outtakes & Live.txt"
   },
   {
     "type": "release",
@@ -599,7 +625,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "00-00 - Jimi Hendrix Experience - Out Of The Studio - Demo's From 1967",
-    "year": 1967
+    "year": 1967,
+    "textFile": "MISC - 1967-00-00 - Jimi Hendrix Experience - Out Of The Studio - Demo's From 1967.txt"
   },
   {
     "type": "release",
@@ -609,7 +636,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "10-10, 11, 12 - The Complete Winterland Reels",
-    "year": 1968
+    "year": 1968,
+    "textFile": "MISC - 1968-10-10, 11, 12 - The Complete Winterland Reels.txt"
   },
   {
     "type": "release",
@@ -619,7 +647,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "07-XX - Jimi Hendrix - Woodstock Rehearsals",
-    "year": 1969
+    "year": 1969,
+    "textFile": "MISC - 1969-07-XX - Jimi Hendrix - Woodstock Rehearsals.txt"
   },
   {
     "type": "release",
@@ -630,15 +659,18 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "02-XX - Jimi Hendrix - KROQ FM Documentary",
-    "year": 1985
+    "year": 1985,
+    "textFile": "MISC - 1985-02-XX - Jimi Hendrix - KROQ FM Documentary.txt"
   },
   {
     "type": "release",
-    "label": "500,000 Halos"
+    "label": "500,000 Halos",
+    "textFile": "MISC - 500,000 Halos.txt"
   },
   {
     "type": "release",
-    "label": "51st Anniversary"
+    "label": "51st Anniversary",
+    "textFile": "MISC - 51st Anniversary.txt"
   },
   {
     "type": "release",
@@ -658,7 +690,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Band Of Gypsys - Capitol Record - 180 Gram Classic Vinyl"
+    "label": "Band Of Gypsys - Capitol Record - 180 Gram Classic Vinyl",
+    "textFile": "MISC - Band Of Gypsys - Capitol Record - 180 Gram Classic Vinyl.txt"
   },
   {
     "type": "release",
@@ -694,11 +727,13 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Everyway to Paradise"
+    "label": "Everyway to Paradise",
+    "textFile": "MISC - Everyway to Paradise.txt"
   },
   {
     "type": "release",
-    "label": "FTO 005 February 1969 Sessions"
+    "label": "FTO 005 February 1969 Sessions",
+    "textFile": "MISC - FTO 005 February 1969 Sessions.txt"
   },
   {
     "type": "release",
@@ -710,7 +745,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Hendrix in Scandinavia - Vol 1&2"
+    "label": "Hendrix in Scandinavia - Vol 1&2",
+    "textFile": "MISC - Hendrix in Scandinavia - Vol 1&2.txt"
   },
   {
     "type": "release",
@@ -739,7 +775,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Interview for Rolling Stone"
+    "label": "Interview for Rolling Stone",
+    "textFile": "MISC - Interview for Rolling Stone.txt"
   },
   {
     "type": "release",
@@ -771,7 +808,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Jimi Hendrix - 1968 Studio Leftovers"
+    "label": "Jimi Hendrix - 1968 Studio Leftovers",
+    "textFile": "MISC - Jimi Hendrix - 1968 Studio Leftovers.txt"
   },
   {
     "type": "release",
@@ -780,31 +818,37 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Jimi Hendrix - Am I Blue"
+    "label": "Jimi Hendrix - Am I Blue",
+    "textFile": "MISC - Jimi Hendrix - Am I Blue.txt"
   },
   {
     "type": "release",
     "label": "Jimi Hendrix - Are You Experienced (2009)  (Deluxe Edition) (needledrop)",
     "year": 2009,
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - Jimi Hendrix - Are You Experienced (2009)  (Deluxe Edition) (needledrop) [Silver].txt"
   },
   {
     "type": "release",
     "label": "Jimi Hendrix - Axis Bold As Love Deluxe Edition (needledrop)",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - Jimi Hendrix - Axis Bold As Love Deluxe Edition (needledrop) [Silver].txt"
   },
   {
     "type": "release",
     "label": "Jimi Hendrix - Berkeley Rehearsals",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - Jimi Hendrix - Berkeley Rehearsals [Silver].rtf"
   },
   {
     "type": "release",
-    "label": "Jimi Hendrix - Black Gold - SBD"
+    "label": "Jimi Hendrix - Black Gold - SBD",
+    "textFile": "MISC - Jimi Hendrix - Black Gold - SBD.txt"
   },
   {
     "type": "release",
-    "label": "Jimi Hendrix - Both Sides Of The Sky"
+    "label": "Jimi Hendrix - Both Sides Of The Sky",
+    "textFile": "MISC - Jimi Hendrix - Both Sides Of The Sky.txt"
   },
   {
     "type": "release",
@@ -816,15 +860,18 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Jimi Hendrix - De Lane Demos - Jimi Hendrix"
+    "label": "Jimi Hendrix - De Lane Demos - Jimi Hendrix",
+    "textFile": "MISC - Jimi Hendrix - De Lane Demos - Jimi Hendrix.txt"
   },
   {
     "type": "release",
-    "label": "Jimi Hendrix - Diamonds In The Dust"
+    "label": "Jimi Hendrix - Diamonds In The Dust",
+    "textFile": "MISC - Jimi Hendrix - Diamonds In The Dust.txt"
   },
   {
     "type": "release",
-    "label": "Jimi Hendrix - Eyes And Imagination"
+    "label": "Jimi Hendrix - Eyes And Imagination",
+    "textFile": "MISC - Jimi Hendrix - Eyes And Imagination.txt"
   },
   {
     "type": "release",
@@ -854,29 +901,35 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Jimi Hendrix - It's Only A Paper Moon"
+    "label": "Jimi Hendrix - It's Only A Paper Moon",
+    "textFile": "MISC - Jimi Hendrix - It's Only A Paper Moon.txt"
   },
   {
     "type": "release",
-    "label": "Jimi Hendrix - Jazz Stuff"
+    "label": "Jimi Hendrix - Jazz Stuff",
+    "textFile": "MISC - Jimi Hendrix - Jazz Stuff.txt"
   },
   {
     "type": "release",
-    "label": "Jimi Hendrix - Jewel Box"
+    "label": "Jimi Hendrix - Jewel Box",
+    "textFile": "MISC - Jimi Hendrix - Jewel Box.txt"
   },
   {
     "type": "release",
     "label": "Jimi Hendrix - Laughing Dice (Documentary) DVD",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Jimi Hendrix - Laughing Dice (Documentary) DVD.txt"
   },
   {
     "type": "release",
     "label": "Jimi Hendrix - Lifelines",
-    "format": "4CD"
+    "format": "4CD",
+    "textFile": "MISC - Jimi Hendrix - Lifelines [4CD].txt"
   },
   {
     "type": "release",
-    "label": "Jimi Hendrix - Ludes"
+    "label": "Jimi Hendrix - Ludes",
+    "textFile": "MISC - Jimi Hendrix - Ludes.txt"
   },
   {
     "type": "release",
@@ -885,7 +938,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Jimi Hendrix - Multi Coloured Blues",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - Jimi Hendrix - Multi Coloured Blues [Silver].txt"
   },
   {
     "type": "release",
@@ -893,7 +947,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Jimi Hendrix - Original Studio Backup Tracks"
+    "label": "Jimi Hendrix - Original Studio Backup Tracks",
+    "textFile": "MISC - Jimi Hendrix - Original Studio Backup Tracks.txt"
   },
   {
     "type": "release",
@@ -902,7 +957,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Jimi Hendrix - Silver Blue To Bloody Red",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - Jimi Hendrix - Silver Blue To Bloody Red [Silver].txt"
   },
   {
     "type": "release",
@@ -911,20 +967,24 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Jimi Hendrix - Sotheby's Auction Tapes",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Jimi Hendrix - Sotheby's Auction Tapes [FLAC].txt"
   },
   {
     "type": "release",
-    "label": "Jimi Hendrix - Stages"
+    "label": "Jimi Hendrix - Stages",
+    "textFile": "MISC - Jimi Hendrix - Stages.txt"
   },
   {
     "type": "release",
     "label": "Jimi Hendrix - Strate Ahead",
-    "format": "unreleased album"
+    "format": "unreleased album",
+    "textFile": "MISC - Jimi Hendrix - Strate Ahead [unreleased album].txt"
   },
   {
     "type": "release",
-    "label": "Jimi Hendrix - The Capricorn Tape Complete"
+    "label": "Jimi Hendrix - The Capricorn Tape Complete",
+    "textFile": "MISC - Jimi Hendrix - The Capricorn Tape Complete.txt"
   },
   {
     "type": "release",
@@ -946,23 +1006,28 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Jimi Hendrix Experience - Electric Ladyland Revisited"
+    "label": "Jimi Hendrix Experience - Electric Ladyland Revisited",
+    "textFile": "MISC - Jimi Hendrix Experience - Electric Ladyland Revisited.txt"
   },
   {
     "type": "release",
-    "label": "Mixdown Masters"
+    "label": "Mixdown Masters",
+    "textFile": "MISC - Mixdown Masters.txt"
   },
   {
     "type": "release",
-    "label": "Reclamation 1967-1970"
+    "label": "Reclamation 1967-1970",
+    "textFile": "MISC - Reclamation 1967-1970.txt"
   },
   {
     "type": "release",
-    "label": "Soundboard Series 1 (1967-68)"
+    "label": "Soundboard Series 1 (1967-68)",
+    "textFile": "MISC - Soundboard Series 1 (1967-68).txt"
   },
   {
     "type": "release",
-    "label": "Swedish Shows 1-7"
+    "label": "Swedish Shows 1-7",
+    "textFile": "MISC - Swedish Shows 1-7.txt"
   },
   {
     "type": "release",
@@ -970,11 +1035,13 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "The Jimi Hendrix Experience - Fire - The Swingin' Pick - TSP-CD-018"
+    "label": "The Jimi Hendrix Experience - Fire - The Swingin' Pick - TSP-CD-018",
+    "textFile": "MISC - The Jimi Hendrix Experience - Fire - The Swingin' Pick - TSP-CD-018.txt"
   },
   {
     "type": "release",
-    "label": "Unsurpassed Masters"
+    "label": "Unsurpassed Masters",
+    "textFile": "MISC - Unsurpassed Masters.txt"
   },
   {
     "type": "release",
@@ -982,7 +1049,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Voodoo Child Sessions"
+    "label": "Voodoo Child Sessions",
+    "textFile": "MISC - Voodoo Child Sessions.txt"
   },
   {
     "type": "release",

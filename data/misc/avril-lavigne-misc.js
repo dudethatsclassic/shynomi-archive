@@ -6,7 +6,7 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2003,
     "category": "OTHER",
-    "textFile": "MISC - Avril Lavigne - F✱✱kin' Sk8er Girl {W.B. 065} (2003) [Silver].txt"
+    "textFile": "MISC - Avril Lavigne - F\u2731\u2731kin' Sk8er Girl {W.B. 065} (2003) [Silver].txt"
   },
   {
     "type": "release",
@@ -31,7 +31,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2014,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Avril Lavigne - Summer Sonic 2014 Tokyo (2014) [Silver].txt"
   },
   {
     "type": "release",
@@ -39,7 +40,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2014,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Avril Lavigne - Summer Sonic 2014 Tokyo (PRO CDR) [Silver].txt"
   },
   {
     "type": "release",
@@ -65,7 +67,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2022,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Avril Lavigne - Yokohama 2022 (PRO CDR) [Silver].txt"
   },
   {
     "type": "release",
@@ -73,6 +76,13 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2014,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Avril Lavigne- Yokohama 2014 (PRO CDR) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Avril Lavigne - Do The Best",
+    "version": "Silver CD",
+    "textFile": "MISC - Avril Lavigne - Do The Best [Silver].txt"
   }
 ];

@@ -3,7 +3,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Incubus - The Morning View Sessions (2001)",
     "version": "Official",
-    "format": "MKV"
+    "format": "MKV",
+    "textFile": "MISC - Incubus - Morning View (Best Buy Deluxe Edition) {EK 86259} (2001) [FLAC].txt"
   },
   {
     "type": "release",

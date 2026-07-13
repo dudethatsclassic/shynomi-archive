@@ -3,7 +3,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Deftones - Deftones (1992)",
     "version": "Cassette",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Deftones - Deftones (1992) [FLAC].txt"
   },
   {
     "type": "release",
@@ -15,7 +16,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Deftones - Engine Number Nine - 7 Words (Demo Tape) (1993)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Deftones - Engine Number Nine - 7 Words (Demo Tape) (1993) [FLAC].txt"
   },
   {
     "type": "label",
@@ -25,7 +27,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Deftones - Root - Nosebleed (Advance Cassette) (1994)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Deftones - Root - Nosebleed (Advance Cassette) (1994) [FLAC].txt"
   },
   {
     "type": "label",

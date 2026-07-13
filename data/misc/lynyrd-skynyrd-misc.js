@@ -11,7 +11,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Lynyrd Skynyrd - The Quinvy Demos & More",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Lynyrd Skynyrd - The Quinvy Demos & More.txt"
   },
   {
     "type": "release",
@@ -25,7 +26,8 @@ const ARTIST_MISC_DATA = [
     "label": "Lynyrd Skynyrd - Muscle Shoals Demos (1990-1991)",
     "format": "FLAC",
     "year": 1990,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Lynyrd Skynyrd - Muscle Shoals Demos (1990-1991).txt"
   },
   {
     "type": "release",
@@ -33,6 +35,13 @@ const ARTIST_MISC_DATA = [
     "version": "TV",
     "format": "TS",
     "year": 1975,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Lynyrd Skynrd - Old Grey Whistle Test (1975) [TV].txt"
+  },
+  {
+    "type": "release",
+    "label": "Lynyrd Skynyrd - Double Trouble",
+    "version": "Silver CD",
+    "textFile": "MISC - Lynyrd Skynyrd - Double Trouble [Silver].txt"
   }
 ];
