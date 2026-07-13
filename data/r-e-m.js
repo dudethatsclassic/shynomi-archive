@@ -286,7 +286,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Viceroy Park",
-      "notes": "",
+      "notes": "Nakamichi 550 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1981-11-07 - Charlotte, NC - Viceroy Park [AUD].txt"
@@ -300,7 +300,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Viceroy Park",
-      "notes": "M1 Audio · dream remaster",
+      "notes": "Nakamichi 550 · dream remaster",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1981-11-07 - Charlotte, NC - Viceroy Park [AUD].txt"
@@ -328,7 +328,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Merlyns",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1981-11-24 - Madison, WI - Merlyns [AUD #2].txt"
@@ -342,7 +342,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Merlyns",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD #2",
       "format": "FLAC",
       "textFile": "1981-11-24 - Madison, WI - Merlyns [AUD].txt"
@@ -356,7 +356,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "notes": "",
+      "notes": "inc · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1981-11-26 - Minneapolis, MN - First Avenue [AUD].txt"
