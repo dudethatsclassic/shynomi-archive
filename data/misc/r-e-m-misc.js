@@ -167,15 +167,51 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "R.E.M.nants The Complete Rarities Collection 1981\u20132004 (12 CDs)",
+    "label": "R.E.M.nants The Complete Rarities Collection 1981–2004 (12 CDs)",
     "category": "VARIOUS",
-    "textFile": "MISC - R.E.M.nants The Complete Rarities Collection 1981\u20132004 (12 CDs).txt"
+    "textFile": "MISC - R.E.M.nants The Complete Rarities Collection 1981–2004 (12 CDs).txt"
   },
   {
     "type": "release",
     "label": "Unreleased Live LP 1984 (sbd)",
     "category": "VARIOUS",
     "textFile": "MISC - Unreleased Live LP 1984 (sbd).txt"
+  },
+  {
+    "type": "release",
+    "label": "Black Session (WCRS-2001-001)",
+    "category": "VARIOUS",
+    "textFile": "MISC - Black Session (WCRS-2001-001).txt"
+  },
+  {
+    "type": "release",
+    "label": "Half A World Away Part One 1988-1991 (MONG CD007A)",
+    "category": "VARIOUS",
+    "textFile": "MISC - Half A World Away Part One 1988-1991 (MONG CD007A).txt"
+  },
+  {
+    "type": "release",
+    "label": "Lifes Rich Pageant And More (WAI 022)",
+    "category": "VARIOUS",
+    "textFile": "MISC - Lifes Rich Pageant And More (WAI 022).txt"
+  },
+  {
+    "type": "release",
+    "label": "Low",
+    "category": "VARIOUS",
+    "textFile": "MISC - Low.txt"
+  },
+  {
+    "type": "release",
+    "label": "Nightswimming - Greatest Hits Live",
+    "category": "VARIOUS",
+    "textFile": "MISC - Nightswimming - Greatest Hits Live.txt"
+  },
+  {
+    "type": "release",
+    "label": "Ultra Rare Trax",
+    "category": "VARIOUS",
+    "textFile": "MISC - Ultra Rare Trax.txt"
   },
   {
     "type": "release",
@@ -229,54 +265,5 @@ const ARTIST_MISC_DATA = [
     "version": "PRO",
     "format": "DVD",
     "category": "OTHER"
-  },
-  {
-    "type": "release",
-    "label": "Black Session (WCRS-2001-001)",
-    "category": "VARIOUS",
-    "textFile": "MISC - Black Session (WCRS-2001-001).txt"
-  },
-  {
-    "type": "release",
-    "label": "Half A World Away Part One 1988-1991 (MONG CD007A)",
-    "category": "VARIOUS",
-    "textFile": "MISC - Half A World Away Part One 1988-1991 (MONG CD007A).txt"
-  },
-  {
-    "type": "release",
-    "label": "Lifes Rich Pageant And More (WAI 022)",
-    "category": "VARIOUS",
-    "textFile": "MISC - Lifes Rich Pageant And More (WAI 022).txt"
-  },
-  {
-    "type": "release",
-    "label": "Low",
-    "category": "VARIOUS",
-    "textFile": "MISC - Low.txt"
-  },
-  {
-    "type": "release",
-    "label": "Nightswimming - Greatest Hits Live",
-    "category": "VARIOUS",
-    "textFile": "MISC - Nightswimming - Greatest Hits Live.txt"
-  },
-  {
-    "type": "release",
-    "label": "Ultra Rare Trax",
-    "category": "VARIOUS",
-    "textFile": "MISC - Ultra Rare Trax.txt"
-  },
-  {
-    "type": "release",
-    "label": "02-17 - Reflection Studio",
-    "year": 1983,
-    "format": "FLAC",
-    "textFile": "MISC - 1983-02-17 - Reflection Studio [FLAC].txt"
-  },
-  {
-    "type": "release",
-    "label": "REMTV (6xDVD) 2014-1",
-    "format": "DVD",
-    "textFile": "MISC - REMTV (6xDVD) 2014-1 [DVD].txt"
   }
 ];
