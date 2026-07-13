@@ -35,7 +35,7 @@ const ARTIST_DATA = {
       "venue": "Webster Hall",
       "notes": "",
       "version": "AUD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "2014-12-30 - New, York, NY - Webster Hall (iPhone) [AUD].txt"
     },
     {
