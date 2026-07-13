@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "r-e-m",
   "name": "R.E.M.",
   "drive": "G",
-  "showCount": 824,
+  "showCount": 874,
   "firstYear": 1980,
-  "lastYear": 2989,
+  "lastYear": 2009,
   "years": [
     1980,
     1981,
@@ -30,8 +30,7 @@ const ARTIST_DATA = {
     2006,
     2007,
     2008,
-    2009,
-    2989
+    2009
   ],
   "shows": [
     {
@@ -531,8 +530,21 @@ const ARTIST_DATA = {
       "venue": "The Strand Cabaret *Do the Strand",
       "notes": "",
       "version": "Silver CD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1982-07-02 - Marietta, GA - Strand Cabaret [AUD].txt"
+    },
+    {
+      "year": 1982,
+      "month": 7,
+      "day": 2,
+      "dateStr": "7-2-1982",
+      "city": "Marietta",
+      "state": "GA",
+      "location": "Marietta, GA",
+      "venue": "The Strand Cabaret",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1982,
@@ -655,9 +667,22 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Trenton, NJ",
       "venue": "City Gardens",
+      "notes": "Radio",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 1982,
+      "month": 10,
+      "day": 2,
+      "dateStr": "10-2-1982",
+      "city": "Trenton",
+      "state": "NJ",
+      "location": "Trenton, NJ",
+      "venue": "City Gardens",
       "notes": "Radio · speed corrected",
       "version": "FM",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1982-10-02 - Trenton, NJ - City Gardens (Speed Corrected) [FM].txt"
     },
     {
@@ -684,8 +709,21 @@ const ARTIST_DATA = {
       "location": "Raleigh, NC",
       "venue": "Rave On",
       "notes": "The",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 1982,
+      "month": 10,
+      "day": 10,
+      "dateStr": "10-10-1982",
+      "city": "Raleigh",
+      "state": "NC",
+      "location": "Raleigh, NC",
+      "venue": "Rave On",
+      "notes": "The",
       "version": "AUD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1982-10-10 - Raleigh, NC - Rave On - The Pier [AUD].txt"
     },
     {
@@ -908,8 +946,21 @@ const ARTIST_DATA = {
       "venue": "Spize Club",
       "notes": "",
       "version": "AUD",
-      "format": "Remaster",
+      "format": "",
       "textFile": "1983-04-26 - Farmingdale, NY - Spize (Reworked) [AUD].txt"
+    },
+    {
+      "year": 1983,
+      "month": 4,
+      "day": 26,
+      "dateStr": "4-26-1983",
+      "city": "Farmingdale",
+      "state": "NY",
+      "location": "Farmingdale, NY",
+      "venue": "Spize Club",
+      "notes": "Remaster",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1983,
@@ -1104,8 +1155,34 @@ const ARTIST_DATA = {
       "venue": "Larry's Hideaway",
       "notes": "",
       "version": "Silver CD",
-      "format": "3 sources",
+      "format": "",
       "textFile": "1983-07-09 - Toronto, Canada - Larry's Hideaway (Remastered) [Silver].txt"
+    },
+    {
+      "year": 1983,
+      "month": 7,
+      "day": 9,
+      "dateStr": "7-9-1983",
+      "city": "Toronto",
+      "state": "Ontario",
+      "location": "Toronto, Ontario",
+      "venue": "Larry's Hideaway",
+      "notes": "",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 1983,
+      "month": 7,
+      "day": 9,
+      "dateStr": "7-9-1983",
+      "city": "Toronto",
+      "state": "Ontario",
+      "location": "Toronto, Ontario",
+      "venue": "Larry's Hideaway",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1983,
@@ -1314,8 +1391,34 @@ const ARTIST_DATA = {
       "venue": "Wadsworth Gymnasium Colby College",
       "notes": "",
       "version": "AUD",
-      "format": "3 sources",
+      "format": "",
       "textFile": "1983-10-15 - Waterville, ME - Wadsworth Gymnasium Colby College (Psycherelics) [AUD24].txt"
+    },
+    {
+      "year": 1983,
+      "month": 10,
+      "day": 15,
+      "dateStr": "10-15-1983",
+      "city": "Waterville",
+      "state": "ME",
+      "location": "Waterville, ME",
+      "venue": "Wadsworth Gymnasium Colby College",
+      "notes": "",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 1983,
+      "month": 10,
+      "day": 15,
+      "dateStr": "10-15-1983",
+      "city": "Waterville",
+      "state": "ME",
+      "location": "Waterville, ME",
+      "venue": "Wadsworth Gymnasium Colby College",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1983,
@@ -1369,8 +1472,21 @@ const ARTIST_DATA = {
       "venue": "Peppermint Lounge",
       "notes": "",
       "version": "AUD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1983-10-31 - New York, NY - Peppermint Lounge (Version 3) [AUD].txt"
+    },
+    {
+      "year": 1983,
+      "month": 10,
+      "day": 31,
+      "dateStr": "10-31-1983",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Peppermint Lounge",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1983,
@@ -1579,8 +1695,21 @@ const ARTIST_DATA = {
       "venue": "Capital Theatre",
       "notes": "",
       "version": "SBD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1984-06-09 - Passaic, NJ - Capital Theater [AUD].txt"
+    },
+    {
+      "year": 1984,
+      "month": 6,
+      "day": 9,
+      "dateStr": "6-9-1984",
+      "city": "Passaic",
+      "state": "NJ",
+      "location": "Passaic, NJ",
+      "venue": "Capital Theatre",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1984,
@@ -2068,8 +2197,21 @@ const ARTIST_DATA = {
       "venue": "Page Auditorium",
       "notes": "Duke",
       "version": "SBD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1984-09-25 - Durham, NC - Page Auditorium - Duke University [SBD].txt"
+    },
+    {
+      "year": 1984,
+      "month": 9,
+      "day": 25,
+      "dateStr": "9-25-1984",
+      "city": "Durham",
+      "state": "NC",
+      "location": "Durham, NC",
+      "venue": "Page Auditorium",
+      "notes": "Duke",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1984,
@@ -2137,8 +2279,21 @@ const ARTIST_DATA = {
       "location": "Tampa, FL",
       "venue": "USF Soccer Field",
       "notes": "",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 1994,
+      "month": 9,
+      "day": 28,
+      "dateStr": "9-28-1994",
+      "city": "Tampa",
+      "state": "FL",
+      "location": "Tampa, FL",
+      "venue": "USF Soccer Field",
+      "notes": "",
       "version": "SBD",
-      "format": "2 sources"
+      "format": ""
     },
     {
       "year": 1984,
@@ -2151,8 +2306,21 @@ const ARTIST_DATA = {
       "venue": "Florida Atlantic University",
       "notes": "",
       "version": "SBD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1984-09-29 - Boca Raton, FL - Auditorium - University Center - Florida Atlantic University [SBD].txt"
+    },
+    {
+      "year": 1984,
+      "month": 9,
+      "day": 29,
+      "dateStr": "9-29-1984",
+      "city": "Boca Raton",
+      "state": "FL",
+      "location": "Boca Raton, FL",
+      "venue": "Florida Atlantic University",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1984,
@@ -2776,8 +2944,34 @@ const ARTIST_DATA = {
       "venue": "Greek Theatre",
       "notes": "",
       "version": "AUD #1-2",
-      "format": "3 sources",
+      "format": "",
       "textFile": "1985-07-20 - Berkeley, CA - Greek Theatre (2020 Transfer) [AUD].txt"
+    },
+    {
+      "year": 1985,
+      "month": 7,
+      "day": 20,
+      "dateStr": "7-20-1985",
+      "city": "Berkeley",
+      "state": "CA",
+      "location": "Berkeley, CA",
+      "venue": "Greek Theatre",
+      "notes": "",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 1985,
+      "month": 7,
+      "day": 20,
+      "dateStr": "7-20-1985",
+      "city": "Berkeley",
+      "state": "CA",
+      "location": "Berkeley, CA",
+      "venue": "Greek Theatre",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1985,
@@ -3181,8 +3375,21 @@ const ARTIST_DATA = {
       "venue": "Paradiso",
       "notes": "",
       "version": "FM",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1985-10-01 - Amsterdam, Netherlands - Paradiso (Partial) [FM].txt"
+    },
+    {
+      "year": 1985,
+      "month": 10,
+      "day": 1,
+      "dateStr": "10-1-1985",
+      "city": "Amsterdam",
+      "state": "Holland",
+      "location": "Amsterdam, Holland",
+      "venue": "Paradiso",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1985,
@@ -3335,8 +3542,34 @@ const ARTIST_DATA = {
       "venue": "Alte Feuerwache",
       "notes": "",
       "version": "AUD #1",
-      "format": "3 sources",
+      "format": "",
       "textFile": "1985-10-18 - Mannheim, Germany - Alte Feuerwache (Stuart Percy) [AUD #1].txt"
+    },
+    {
+      "year": 1985,
+      "month": 10,
+      "day": 18,
+      "dateStr": "10-18-1985",
+      "city": "Mannheim",
+      "state": "Germany",
+      "location": "Mannheim, Germany",
+      "venue": "Alte Feuerwache",
+      "notes": "",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 1985,
+      "month": 10,
+      "day": 18,
+      "dateStr": "10-18-1985",
+      "city": "Mannheim",
+      "state": "Germany",
+      "location": "Mannheim, Germany",
+      "venue": "Alte Feuerwache",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1985,
@@ -3391,8 +3624,21 @@ const ARTIST_DATA = {
       "venue": "Powerhouse",
       "notes": "",
       "version": "AUD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1985-10-27 - Birmingham, UK - Powerhouse [AUD].txt"
+    },
+    {
+      "year": 1985,
+      "month": 10,
+      "day": 27,
+      "dateStr": "10-27-1985",
+      "city": "Birmingham",
+      "state": "UK",
+      "location": "Birmingham, UK",
+      "venue": "Powerhouse",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1985,
@@ -3433,8 +3679,21 @@ const ARTIST_DATA = {
       "venue": "Hammersmith Palais Ballroom",
       "notes": "",
       "version": "SBD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1985-10-29 - London , UK - Hammersmith Palais Ballrooom [SBD].txt"
+    },
+    {
+      "year": 1985,
+      "month": 10,
+      "day": 29,
+      "dateStr": "10-29-1985",
+      "city": "London",
+      "state": "UK",
+      "location": "London, UK",
+      "venue": "Hammersmith Palais Ballroom",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1985,
@@ -5761,21 +6020,48 @@ const ARTIST_DATA = {
       "venue": "Pacific Coliseum",
       "notes": "",
       "version": "AUD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1989-10-14 - Vancouver, BC - Pacific Coliseum (Source 2) [AUD].txt"
     },
     {
-      "year": 2989,
+      "year": 1989,
+      "month": 10,
+      "day": 14,
+      "dateStr": "10-14-1989",
+      "city": "Vancouver",
+      "state": "Canada",
+      "location": "Vancouver, Canada",
+      "venue": "Pacific Coliseum",
+      "notes": "",
+      "version": "AUD",
+      "format": "",
+      "textFile": "1989-10-14 - Vancouver, BC - Pacific Coliseum (Source 2) [AUD].txt"
+    },
+    {
+      "year": 1989,
       "month": 10,
       "day": 20,
-      "dateStr": "10-20-2989",
+      "dateStr": "10-20-1989",
       "city": "Concord",
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Concord Pavilion",
       "notes": "",
       "version": "AUD",
-      "format": "2 sources"
+      "format": ""
+    },
+    {
+      "year": 1989,
+      "month": 10,
+      "day": 20,
+      "dateStr": "10-20-1989",
+      "city": "Concord",
+      "state": "CA",
+      "location": "Concord, CA",
+      "venue": "Concord Pavilion",
+      "notes": "",
+      "version": "AUD",
+      "format": ""
     },
     {
       "year": 1989,
@@ -5788,8 +6074,21 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "",
       "version": "SBD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1989-10-21 - Mountain View, CA - Shoreline Amphitheatre [AUD].txt"
+    },
+    {
+      "year": 1989,
+      "month": 10,
+      "day": 21,
+      "dateStr": "10-21-1989",
+      "city": "Mountain View",
+      "state": "CA",
+      "location": "Mountain View, CA",
+      "venue": "Shoreline Amphitheatre",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1989,
@@ -5857,8 +6156,21 @@ const ARTIST_DATA = {
       "venue": "2 Meter Sessies",
       "notes": "",
       "version": "FM",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1991-03-12 - Nederhorst den Berg, Holland - 2 Meter Sessies [FM].txt"
+    },
+    {
+      "year": 1991,
+      "month": 3,
+      "day": 12,
+      "dateStr": "3-12-1991",
+      "city": "Nederhorst den Berg",
+      "state": "Holland",
+      "location": "Nederhorst den Berg, Holland",
+      "venue": "2 Meter Sessies",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1991,
@@ -5913,8 +6225,21 @@ const ARTIST_DATA = {
       "venue": "Shocking Club",
       "notes": "",
       "version": "AUD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1991-03-22 - Milan, Italy - Shocking Club [DVD].txt"
+    },
+    {
+      "year": 1991,
+      "month": 3,
+      "day": 22,
+      "dateStr": "3-22-1991",
+      "city": "Milano",
+      "state": "Italy",
+      "location": "Milano, Italy",
+      "venue": "Shocking Club",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1991,
@@ -5969,8 +6294,21 @@ const ARTIST_DATA = {
       "venue": "KCRW Studios *Half A World Away Part 1",
       "notes": "",
       "version": "Silver CD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1991-04-03 - Santa Monica, CA - KCRW Studios - Half A World Away Part 1 [Silver].txt"
+    },
+    {
+      "year": 1991,
+      "month": 4,
+      "day": 3,
+      "dateStr": "4-3-1991",
+      "city": "Santa Monica",
+      "state": "CA",
+      "location": "Santa Monica, CA",
+      "venue": "KCRW Studios",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1991,
@@ -6065,7 +6403,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Athens, GA",
       "venue": "40 Watt Club",
-      "notes": "",
+      "notes": "inc",
       "version": "AUD",
       "format": "",
       "textFile": "1991-06-15 - Athens, GA - 40 Watt Club (inc) [AUD].txt"
@@ -6109,8 +6447,21 @@ const ARTIST_DATA = {
       "venue": "40 Watt Club *Automatically Live",
       "notes": "",
       "version": "Silver CD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1992-11-19  - Athens, GA - 40 Watt Club - Automatically Live [Silver].txt"
+    },
+    {
+      "year": 1992,
+      "month": 11,
+      "day": 19,
+      "dateStr": "11-19-1992",
+      "city": "Athens",
+      "state": "GA",
+      "location": "Athens, GA",
+      "venue": "40 Watt Club",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1993,
@@ -7615,8 +7966,21 @@ const ARTIST_DATA = {
       "venue": "Bowery Ballroom",
       "notes": "",
       "version": "SBD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1998-10-21  - New York, NY - Bowery Ballroom [DVD].txt"
+    },
+    {
+      "year": 1998,
+      "month": 10,
+      "day": 21,
+      "dateStr": "10-21-1998",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Bowery Ballroom",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1998,
@@ -8005,8 +8369,21 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows *The Ultimate Irvine",
       "notes": "",
       "version": "AUD",
-      "format": "Remaster",
+      "format": "",
       "textFile": "1999-08-11 - Irvine, CA - Irvine Meadows (drumsboy remaster 2020) [AUD].txt"
+    },
+    {
+      "year": 1999,
+      "month": 8,
+      "day": 11,
+      "dateStr": "8-11-1999",
+      "city": "Irving",
+      "state": "CA",
+      "location": "Irving, CA",
+      "venue": "Irvine Meadows *The Ultimate Irvine",
+      "notes": "Remaster",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1999,
@@ -8019,8 +8396,21 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "",
       "version": "AUD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "1999-08-13 - Mountain View, CA - Shoreline Amphitheatre (mk5) [AUD].txt"
+    },
+    {
+      "year": 1999,
+      "month": 8,
+      "day": 13,
+      "dateStr": "8-13-1999",
+      "city": "Mountain View",
+      "state": "CA",
+      "location": "Mountain View, CA",
+      "venue": "Shoreline Amphitheatre",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1999,
@@ -8116,8 +8506,34 @@ const ARTIST_DATA = {
       "venue": "Music Entertainment Center",
       "notes": "",
       "version": "SBD",
-      "format": "3 sources",
+      "format": "",
       "textFile": "1999-09-05 - Camden, NJ - Blockbuster Sony Music Center (drumsboy remaster 2020) [AUD].txt"
+    },
+    {
+      "year": 1999,
+      "month": 9,
+      "day": 5,
+      "dateStr": "9-5-1999",
+      "city": "Camden",
+      "state": "NJ",
+      "location": "Camden, NJ",
+      "venue": "Music Entertainment Center",
+      "notes": "",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 1999,
+      "month": 9,
+      "day": 5,
+      "dateStr": "9-5-1999",
+      "city": "Camden",
+      "state": "NJ",
+      "location": "Camden, NJ",
+      "venue": "Music Entertainment Center",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1999,
@@ -8158,8 +8574,34 @@ const ARTIST_DATA = {
       "venue": "Rock City",
       "notes": "Rock",
       "version": "SBD",
-      "format": "3 sources",
+      "format": "",
       "textFile": "2001-01-13 - Rio De Janeiro, Brazil - Rock City - Rock In Rio (REM In Rio) [SBD].txt"
+    },
+    {
+      "year": 2001,
+      "month": 1,
+      "day": 13,
+      "dateStr": "1-13-2001",
+      "city": "Rio De Janeiro",
+      "state": "Brazil",
+      "location": "Rio De Janeiro, Brazil",
+      "venue": "Rock City",
+      "notes": "Rock",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 2001,
+      "month": 1,
+      "day": 13,
+      "dateStr": "1-13-2001",
+      "city": "Rio De Janeiro",
+      "state": "Brazil",
+      "location": "Rio De Janeiro, Brazil",
+      "venue": "Rock City",
+      "notes": "Rock",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2001,
@@ -9350,8 +9792,21 @@ const ARTIST_DATA = {
       "venue": "Gund Arena",
       "notes": "Vote",
       "version": "MTX",
-      "format": "2 sources",
+      "format": "",
       "textFile": "2004-10-02 - Cleveland, OH - Gund Arena (Laying The Sidewalks) [MTX].txt"
+    },
+    {
+      "year": 2004,
+      "month": 10,
+      "day": 2,
+      "dateStr": "10-2-2004",
+      "city": "Cleveland",
+      "state": "OH",
+      "location": "Cleveland, OH",
+      "venue": "Gund Arena",
+      "notes": "Vote",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2004,
@@ -9490,8 +9945,21 @@ const ARTIST_DATA = {
       "venue": "Auditorium Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "2004-10-25 - Chicago, IL - Auditorium Theatre [AUD].txt"
+    },
+    {
+      "year": 2004,
+      "month": 10,
+      "day": 25,
+      "dateStr": "10-25-2004",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Auditorium Theatre",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2004,
@@ -9949,8 +10417,21 @@ const ARTIST_DATA = {
       "venue": "Hammersmith Apollo",
       "notes": "",
       "version": "AUD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "2005-02-19 - London, England - Carling Apollo Hammersmith (Mark B) [AUD].txt"
+    },
+    {
+      "year": 2005,
+      "month": 2,
+      "day": 19,
+      "dateStr": "2-19-2005",
+      "city": "London",
+      "state": "UK",
+      "location": "London, UK",
+      "venue": "Hammersmith Apollo",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2005,
@@ -10114,8 +10595,21 @@ const ARTIST_DATA = {
       "venue": "Entertainment Centre",
       "notes": "",
       "version": "AUD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "2005-03-29 - Brisbane, Australia - Entertainment Centre [AUD].txt"
+    },
+    {
+      "year": 2005,
+      "month": 3,
+      "day": 29,
+      "dateStr": "3-29-2005",
+      "city": "Brisbane",
+      "state": "Australia",
+      "location": "Brisbane, Australia",
+      "venue": "Entertainment Centre",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2005,
@@ -10153,11 +10647,11 @@ const ARTIST_DATA = {
       "city": "Sydney",
       "state": "Australia",
       "location": "Sydney, Australia",
-      "venue": "Entertainment Centre",
-      "notes": "amy",
+      "venue": "Sydney Entertainment Centre",
+      "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2005-04-01 - Sydney, Australia - Sydney Entertainment Centre (2nd Show with pics and video) [AUD].txt"
+      "textFile": "2005-04-01 - Sydney, Australia - Entertainment Centre (amy) [AUD].txt"
     },
     {
       "year": 2005,
@@ -10170,8 +10664,34 @@ const ARTIST_DATA = {
       "venue": "Rod Laver Arena",
       "notes": "",
       "version": "AUD",
-      "format": "3 sources",
+      "format": "",
       "textFile": "2005-04-03 - Melbourne, Australia - Rod Laver Arena (Amy) [AUD].txt"
+    },
+    {
+      "year": 2005,
+      "month": 4,
+      "day": 3,
+      "dateStr": "4-3-2005",
+      "city": "Melbourne",
+      "state": "Australia",
+      "location": "Melbourne, Australia",
+      "venue": "Rod Laver Arena",
+      "notes": "",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 2005,
+      "month": 4,
+      "day": 3,
+      "dateStr": "4-3-2005",
+      "city": "Melbourne",
+      "state": "Australia",
+      "location": "Melbourne, Australia",
+      "venue": "Rod Laver Arena",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2005,
@@ -10477,8 +10997,34 @@ const ARTIST_DATA = {
       "venue": "Hyde Park",
       "notes": "",
       "version": "MTX",
-      "format": "FM",
+      "format": "",
       "textFile": "2005-07-16 - London, UK - Hyde Park [AUD].txt"
+    },
+    {
+      "year": 2005,
+      "month": 7,
+      "day": 16,
+      "dateStr": "7-16-2005",
+      "city": "London",
+      "state": "UK",
+      "location": "London, UK",
+      "venue": "Hyde Park",
+      "notes": "",
+      "version": "FM",
+      "format": ""
+    },
+    {
+      "year": 2005,
+      "month": 7,
+      "day": 16,
+      "dateStr": "7-16-2005",
+      "city": "London",
+      "state": "UK",
+      "location": "London, UK",
+      "venue": "Hyde Park",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2005,
@@ -10491,8 +11037,21 @@ const ARTIST_DATA = {
       "venue": "Kingpin Bowling Alley",
       "notes": "",
       "version": "SBD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "2005-10-08 - Athens, GA - Kingpin Bowling Alley [SBD].txt"
+    },
+    {
+      "year": 2005,
+      "month": 10,
+      "day": 8,
+      "dateStr": "10-8-2005",
+      "city": "Athens",
+      "state": "GA",
+      "location": "Athens, GA",
+      "venue": "Kingpin Bowling Alley",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2006,
@@ -10603,8 +11162,34 @@ const ARTIST_DATA = {
       "venue": "Stubb's BBQ",
       "notes": "SXSW",
       "version": "AUD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "2008-03-12 - Austin, TX - Stubbs Barbecue (SXSW) [AUD].txt"
+    },
+    {
+      "year": 2008,
+      "month": 3,
+      "day": 12,
+      "dateStr": "3-12-2008",
+      "city": "Austin",
+      "state": "TX",
+      "location": "Austin, TX",
+      "venue": "Stubb's BBQ",
+      "notes": "SXSW",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 2008,
+      "month": 3,
+      "day": 13,
+      "dateStr": "3-13-2008",
+      "city": "Austin",
+      "state": "TX",
+      "location": "Austin, TX",
+      "venue": "Studio 6A Jesse H Jones Communications Center",
+      "notes": "Austin",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2008,
@@ -10617,7 +11202,7 @@ const ARTIST_DATA = {
       "venue": "Studio 6A Jesse H Jones Communications Center",
       "notes": "Austin",
       "version": "TV",
-      "format": "2 sources",
+      "format": "",
       "textFile": "2008-03-13 - Austin, TX - Studio 6A Jesse H Jones Communications Center - Austin City Limits [TV].txt"
     },
     {
@@ -10757,8 +11342,21 @@ const ARTIST_DATA = {
       "venue": "Greek Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "2 sources",
+      "format": "",
       "textFile": "2008-05-31 - Berkeley, CA - Greek Theatre (CCM4s) [AUD].txt"
+    },
+    {
+      "year": 2008,
+      "month": 5,
+      "day": 31,
+      "dateStr": "5-31-2008",
+      "city": "Berkeley",
+      "state": "CA",
+      "location": "Berkeley, CA",
+      "venue": "Greek Theatre",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2008,
@@ -10966,8 +11564,21 @@ const ARTIST_DATA = {
       "venue": "Elbufer",
       "notes": "",
       "version": "WEB",
-      "format": "2 sources",
+      "format": "",
       "textFile": "2008-07-15 - Dresden, Germany - Elbufer (Incomplete) [WEB].txt"
+    },
+    {
+      "year": 2008,
+      "month": 7,
+      "day": 15,
+      "dateStr": "7-15-2008",
+      "city": "Dresden",
+      "state": "Germany",
+      "location": "Dresden, Germany",
+      "venue": "Elbufer",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2008,
@@ -10980,8 +11591,21 @@ const ARTIST_DATA = {
       "venue": "Waldbuhne",
       "notes": "",
       "version": "FM",
-      "format": "2 sources",
+      "format": "",
       "textFile": "2008-07-16 - Berlin, Germany - Waldbuhne [AUD].txt"
+    },
+    {
+      "year": 2008,
+      "month": 7,
+      "day": 16,
+      "dateStr": "7-16-2008",
+      "city": "Berlin",
+      "state": "Germany",
+      "location": "Berlin, Germany",
+      "venue": "Waldbuhne",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2008,
@@ -11148,8 +11772,21 @@ const ARTIST_DATA = {
       "venue": "Lancashire County Cricket Club",
       "notes": "",
       "version": "AUD #1",
-      "format": "AUD #2",
+      "format": "",
       "textFile": "2008-08-24 - Manchester, UK - Lancashire County Cricket Club (ECM-719) [AUD #2].txt"
+    },
+    {
+      "year": 2008,
+      "month": 8,
+      "day": 24,
+      "dateStr": "8-24-2008",
+      "city": "Manchester",
+      "state": "UK",
+      "location": "Manchester, UK",
+      "venue": "Lancashire County Cricket Club",
+      "notes": "",
+      "version": "AUD #2",
+      "format": ""
     },
     {
       "year": 2008,
@@ -11456,8 +12093,21 @@ const ARTIST_DATA = {
       "venue": "Movistar Arena",
       "notes": "Night 1",
       "version": "AUD",
-      "format": "PRO",
+      "format": "",
       "textFile": "2008-11-03 - Santiago, Chile - Arena Santiago [PRO].txt"
+    },
+    {
+      "year": 2008,
+      "month": 11,
+      "day": 3,
+      "dateStr": "11-3-2008",
+      "city": "Santiago",
+      "state": "Chile",
+      "location": "Santiago, Chile",
+      "venue": "Movistar Arena",
+      "notes": "Night 1",
+      "version": "PRO",
+      "format": ""
     },
     {
       "year": 2008,
