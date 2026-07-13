@@ -121,11 +121,10 @@ const ARTIST_DATA = {
       "city": "Athens",
       "state": "GA",
       "location": "Athens, GA",
-      "venue": "Tyrone's",
+      "venue": "Tyrone's *Tyrone's Athens 1981",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1981-04-10 - Athens, GA - Tyrone's [SBD].C.txt"
+      "format": "FLAC"
     },
     {
       "year": 1981,
@@ -135,11 +134,10 @@ const ARTIST_DATA = {
       "city": "Athens",
       "state": "GA",
       "location": "Athens, GA",
-      "venue": "Tyrone's *That Beat in Time",
+      "venue": "Tyrone's *That Beat in Time {OMKCD001}",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1981-05-12 - Athens, GA - Tyrones - That Beat In Time [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1981,
@@ -150,7 +148,7 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Columbia, SC",
       "venue": "Von Henmon's",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1981-06-02 - Columbia, SC - Von Henmon's [AUD].txt"
@@ -178,7 +176,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Pilgrim Theatre",
-      "notes": "2nd gen",
+      "notes": "ANA(2) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1981-09-16 - New York, NY - Pilgrim Theatre [AUD].txt"
@@ -205,11 +203,10 @@ const ARTIST_DATA = {
       "city": "Athens",
       "state": "GA",
       "location": "Athens, GA",
-      "venue": "Tyrone's O.C.",
+      "venue": "Tyrone's O.C. w/ Soundcheck",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1981-09-23 - Athens, GA - Tyrone's O.C. [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1981,
@@ -220,7 +217,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Athens, GA",
       "venue": "Tyrone's",
-      "notes": "remaster",
+      "notes": "i.d.s.i.d. remaster",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1981-10-22 - Athens, GA - Tyrones (Remaster) [AUD].txt"
@@ -234,7 +231,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Zappas",
-      "notes": "",
+      "notes": "ANA(2) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1981-10-23 - Brooklyn, NY - Zappas [AUD].txt"
@@ -248,7 +245,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Zappas",
-      "notes": "",
+      "notes": "ANA(2) · unk · mike c. · 2020 eckythump remaster",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1981-10-23 - Brooklyn, NY - Zappas [AUD].txt"
@@ -261,11 +258,10 @@ const ARTIST_DATA = {
       "city": "Greensboro",
       "state": "NC",
       "location": "Greensboro, NC",
-      "venue": "Friday's",
+      "venue": "Friday's *T.G.I.F.",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1981-11-06 - Greensboro, NC - Friday's (Dream Remaster) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1981,
