@@ -166,9 +166,9 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "R.E.M.nants The Complete Rarities Collection 1981\u20132004 (12 CDs)",
+    "label": "R.E.M.nants The Complete Rarities Collection 1981–2004 (12 CDs)",
     "category": "VARIOUS",
-    "textFile": "MISC - R.E.M.nants The Complete Rarities Collection 1981\u20132004 (12 CDs).txt"
+    "textFile": "MISC - R.E.M.nants The Complete Rarities Collection 1981–2004 (12 CDs).txt"
   },
   {
     "type": "release",
@@ -210,59 +210,6 @@ const ARTIST_MISC_DATA = [
     "label": "Ultra Rare Trax",
     "category": "VARIOUS",
     "textFile": "MISC - R.E.M. - The Real Ultra Rare Tracks {NBN 1} [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "R.E.M. - 1980-1981 - Garage Years",
-    "format": "FLAC",
-    "year": 1980,
-    "category": "OTHER",
-    "textFile": "MISC - R.E.M. - 1980-1981 - Garage Years.txt"
-  },
-  {
-    "type": "release",
-    "label": "R.E.M. - 1981-1982-XX-XX - Down South",
-    "version": "Vinyl",
-    "format": "FLAC",
-    "year": 1981,
-    "category": "OTHER",
-    "textFile": "MISC - R.E.M. - Down South (1981-1982) [Vinyl].txt"
-  },
-  {
-    "type": "label",
-    "label": "XX-XX-1984 / Little America",
-    "textFile": "MISC - R.E.M. - 1984-XX-XX - Little America [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "R.E.M. Cassette Set - April 1991 (Studio)",
-    "format": "FLAC",
-    "year": 1991,
-    "category": "OTHER",
-    "textFile": "MISC - R.E.M. - Cassette Set - April 1991 (Studio).txt"
-  },
-  {
-    "type": "release",
-    "label": "R.E.M. - 1988-1996 - Fanclub Singles V1",
-    "format": "FLAC",
-    "year": 1988,
-    "category": "OTHER",
-    "textFile": "MISC - R.E.M. - 1988-1996 - Fanclub Singles V1.txt"
-  },
-  {
-    "type": "release",
-    "label": "R.E.M. - 1997-2004 - Fanclub Singles V2",
-    "format": "FLAC",
-    "year": 1997,
-    "category": "OTHER",
-    "textFile": "MISC - R.E.M. - 1997-2004 - Fanclub Singles v2.txt"
-  },
-  {
-    "type": "release",
-    "label": "R.E.M. - Accelerating Backwards",
-    "version": "PRO",
-    "format": "DVD",
-    "category": "OTHER"
   },
   {
     "type": "release",
@@ -389,8 +336,50 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "R.E.M. - 1983-02-17 - Reflection Studio",
+    "label": "R.E.M. - 1980-1981 - Garage Years",
     "format": "FLAC",
-    "textFile": "MISC - R.E.M. - 1983-02-17 - Reflection Studio [FLAC].txt"
+    "year": 1980,
+    "category": "OTHER",
+    "textFile": "MISC - R.E.M. - 1980-1981 - Garage Years.txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - 1981-1982-XX-XX - Down South",
+    "version": "Vinyl",
+    "format": "FLAC",
+    "year": 1981,
+    "category": "OTHER",
+    "textFile": "MISC - R.E.M. - Down South (1981-1982) [Vinyl].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. Cassette Set - April 1991 (Studio)",
+    "format": "FLAC",
+    "year": 1991,
+    "category": "OTHER",
+    "textFile": "MISC - R.E.M. - Cassette Set - April 1991 (Studio).txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - 1988-1996 - Fanclub Singles V1",
+    "format": "FLAC",
+    "year": 1988,
+    "category": "OTHER",
+    "textFile": "MISC - R.E.M. - 1988-1996 - Fanclub Singles V1.txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - 1997-2004 - Fanclub Singles V2",
+    "format": "FLAC",
+    "year": 1997,
+    "category": "OTHER",
+    "textFile": "MISC - R.E.M. - 1997-2004 - Fanclub Singles v2.txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Accelerating Backwards",
+    "version": "PRO",
+    "format": "DVD",
+    "category": "OTHER"
   }
 ];
