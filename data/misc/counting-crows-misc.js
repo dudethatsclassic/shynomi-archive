@@ -108,7 +108,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Counting Crows - Face the Promised Land (1999)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Maximum Counting Crows (1999) [FLAC].txt"
   },
   {
     "type": "label",
@@ -608,5 +609,117 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Two for Joy - Live Compilation",
     "textFile": "MISC - Two for Joy - Live Compilation.txt"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows & BL\u00d8F - Holiday in Spain (CD1) {0602498625705} (2004)",
+    "year": 2004,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows & BL\u00d8F - Holiday in Spain (CD2) {0602498626009} (2004)",
+    "year": 2004,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows & BL\u00d8F - Holiday in Spain (CD3) {0602498626016} (2004)",
+    "year": 2004,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - A Long December {GFSTD 22190} (1996)",
+    "year": 1996,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - American Girls (UK CD1) {497 745-2} (2002)",
+    "year": 2002,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - American Girls (UK CD2) {497 740-2} (2002)",
+    "year": 2002,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - American Girls {UK CCCDP1} (2002)",
+    "year": 2002,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - Angels Of The Silences {GFSTD 22182} (1996)",
+    "year": 1996,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - August and Everything After (Amazon Original) (2019)",
+    "year": 2019,
+    "format": "FLAC",
+    "category": "SINGLES",
+    "textFile": "MISC - Counting Crows - Everything After August [VCD].txt"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - Big Yellow Taxi {497 830-2} (2003)",
+    "year": 2003,
+    "format": "FLAC",
+    "category": "SINGLES",
+    "textFile": "MISC - Counting Crows - Big Yellow Taxi {497 830-2} (2003) [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - Big Yellow Taxi {497 849-2} (2003)",
+    "year": 2003,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - If I Could Give All My Love (UK CDS 1) (2003) {GED9806830}",
+    "year": 2003,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - If I Could Give All My Love (UK CDS 2) (2003) {GED9806831}",
+    "year": 2003,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - Rain King {GFSTD 82} (1994)",
+    "year": 1994,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - Round Here {GFSTD 74} (1994)",
+    "year": 1994,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Old",
+    "category": "SINGLES"
   }
 ];
