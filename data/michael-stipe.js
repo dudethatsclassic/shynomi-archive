@@ -21,7 +21,7 @@ const ARTIST_DATA = {
       "venue": "Webster Hall",
       "notes": "AKG Blueline's SE 300B · mike b.",
       "version": "AUD #1",
-      "format": "",
+      "format": "FLAC",
       "textFile": "2014-12-29 - New, York, NY - Webster Hall [AUD1].txt"
     },
     {
@@ -35,7 +35,7 @@ const ARTIST_DATA = {
       "venue": "Webster Hall",
       "notes": "iPhone · unk",
       "version": "AUD",
-      "format": "",
+      "format": "FLAC",
       "textFile": "2014-12-30 - New, York, NY - Webster Hall (iPhone) [AUD].txt"
     },
     {
@@ -49,7 +49,7 @@ const ARTIST_DATA = {
       "venue": "Webster Hall",
       "notes": "AKG Blueline's SE 300B · mike b.",
       "version": "AUD #1",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -62,7 +62,7 @@ const ARTIST_DATA = {
       "venue": "Fillmore",
       "notes": "CA-11 · leifh",
       "version": "AUD",
-      "format": "",
+      "format": "FLAC",
       "textFile": "2015-12-29 - San Francisco, CA - Fillmore [AUD].txt"
     },
     {
@@ -76,7 +76,7 @@ const ARTIST_DATA = {
       "venue": "Fillmore",
       "notes": "Schoeps CCM4s · unk · blg mastering",
       "version": "AUD",
-      "format": "",
+      "format": "FLAC",
       "textFile": "2015-12-30 - San Francisco, CA - Fillmore [AUD].txt"
     }
   ]
