@@ -336,11 +336,10 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "R.E.M. - 1980-1981 - Garage Years",
+    "label": "R.E.M. - 2-17-1983 - Reflection Studio",
     "format": "FLAC",
-    "year": 1980,
-    "category": "OTHER",
-    "textFile": "MISC - R.E.M. - 1980-1981 - Garage Years.txt"
+    "year": 1983,
+    "category": "OTHER"
   },
   {
     "type": "release",
