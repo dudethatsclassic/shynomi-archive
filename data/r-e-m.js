@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "r-e-m",
   "name": "R.E.M.",
   "drive": "G",
-  "showCount": 874,
+  "showCount": 873,
   "firstYear": 1980,
   "lastYear": 2009,
   "years": [
@@ -95,19 +95,6 @@ const ARTIST_DATA = {
       "city": "Athens",
       "state": "GA",
       "location": "Athens, GA",
-      "venue": "Tyrone's O.C. *That Beat in Time {OMKCD001}",
-      "notes": "",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1981,
-      "month": null,
-      "day": null,
-      "dateStr": "XX-XX-1981",
-      "city": "Athens",
-      "state": "GA",
-      "location": "Athens, GA",
       "venue": "Tyrone's O.C. *The Peter Buck Tape",
       "notes": "",
       "version": "SBD",
@@ -122,7 +109,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Unknown Venue",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "MP4"
     },
