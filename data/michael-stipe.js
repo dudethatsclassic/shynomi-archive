@@ -19,7 +19,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Webster Hall",
-      "notes": "",
+      "notes": "AKG Blueline's SE 300B · mike b.",
       "version": "AUD #1",
       "format": "",
       "textFile": "2014-12-29 - New, York, NY - Webster Hall [AUD1].txt"
@@ -48,9 +48,9 @@ const ARTIST_DATA = {
       "location": "New York, NY",
       "venue": "Webster Hall",
       "notes": "",
-      "version": "",
+      "version": "AUD",
       "format": "",
-      "textFile": "2014-12-30 - New, York, NY - Webster Hall [AUD1].txt"
+      "textFile": "2014-12-30 - New, York, NY - Webster Hall (iPhone) [AUD].txt"
     },
     {
       "year": 2015,
