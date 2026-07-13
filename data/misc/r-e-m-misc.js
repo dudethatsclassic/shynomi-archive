@@ -139,79 +139,77 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Cassette Set 1981",
     "category": "VARIOUS",
-    "textFile": "MISC - Cassette Set 1981.txt"
+    "textFile": "MISC - R.E.M. - Cassette Set 1981 (Spring '81) [FLAC].txt"
   },
   {
     "type": "release",
     "label": "Monster - Completely live through the years 1995-2008",
     "category": "VARIOUS",
-    "textFile": "MISC - Monster - Completely live through the years 1995-2008.txt"
+    "textFile": "MISC - R.E.M. - Monster - Completely Live Through The Years 1995-2008 [COMP].txt"
   },
   {
     "type": "release",
     "label": "Murmur - Completely live through the years 1981-2008",
     "category": "VARIOUS",
-    "textFile": "MISC - Murmur - Completely live through the years 1981-2008.txt"
+    "textFile": "MISC - R.E.M. - Murmur - Completely Live Through The Years 1981-2008 [COMP].txt"
   },
   {
     "type": "release",
     "label": "Night Time Session 1991-03-13 (sbd)",
     "category": "VARIOUS",
-    "textFile": "MISC - Night Time Session 1991-03-13 (sbd).txt"
+    "textFile": "MISC - R.E.M. - Night Time Session {Not On Label} (1991) [Silver].txt"
   },
   {
     "type": "release",
     "label": "Poets of the Wheat - 1989-04-29 Miami + 1989-04-30 Orlando (pre-fm)",
-    "category": "VARIOUS",
-    "textFile": "MISC - Poets of the Wheat - 1989-04-29 Miami + 1989-04-30 Orlando (pre-fm).txt"
+    "category": "VARIOUS"
   },
   {
     "type": "release",
-    "label": "R.E.M.nants The Complete Rarities Collection 1981–2004 (12 CDs)",
+    "label": "R.E.M.nants The Complete Rarities Collection 1981\u20132004 (12 CDs)",
     "category": "VARIOUS",
-    "textFile": "MISC - R.E.M.nants The Complete Rarities Collection 1981–2004 (12 CDs).txt"
+    "textFile": "MISC - R.E.M.nants The Complete Rarities Collection 1981\u20132004 (12 CDs).txt"
   },
   {
     "type": "release",
     "label": "Unreleased Live LP 1984 (sbd)",
-    "category": "VARIOUS",
-    "textFile": "MISC - Unreleased Live LP 1984 (sbd).txt"
+    "category": "VARIOUS"
   },
   {
     "type": "release",
     "label": "Black Session (WCRS-2001-001)",
     "category": "VARIOUS",
-    "textFile": "MISC - Black Session (WCRS-2001-001).txt"
+    "textFile": "MISC - R.E.M. - Black Session {WCRS-2001-001} (2001) [Silver].txt"
   },
   {
     "type": "release",
     "label": "Half A World Away Part One 1988-1991 (MONG CD007A)",
     "category": "VARIOUS",
-    "textFile": "MISC - Half A World Away Part One 1988-1991 (MONG CD007A).txt"
+    "textFile": "MISC - R.E.M. - Half A World Away Part One {MONG CD007A} (1991) [Silver].txt"
   },
   {
     "type": "release",
     "label": "Lifes Rich Pageant And More (WAI 022)",
     "category": "VARIOUS",
-    "textFile": "MISC - Lifes Rich Pageant And More (WAI 022).txt"
+    "textFile": "MISC - R.E.M. - Lifes Rich Pageant And More {WAI 022} (1994) [Silver].txt"
   },
   {
     "type": "release",
     "label": "Low",
     "category": "VARIOUS",
-    "textFile": "MISC - Low.txt"
+    "textFile": "MISC - R.E.M. - Low {TCD-28} (1991) [Silver].txt"
   },
   {
     "type": "release",
     "label": "Nightswimming - Greatest Hits Live",
     "category": "VARIOUS",
-    "textFile": "MISC - Nightswimming - Greatest Hits Live.txt"
+    "textFile": "MISC - R.E.M. - Nightswimming - Greatest Hits Live {LLRCD 228} (1993) [Silver].txt"
   },
   {
     "type": "release",
     "label": "Ultra Rare Trax",
     "category": "VARIOUS",
-    "textFile": "MISC - Ultra Rare Trax.txt"
+    "textFile": "MISC - R.E.M. - The Real Ultra Rare Tracks {NBN 1} [Silver].txt"
   },
   {
     "type": "release",
@@ -228,7 +226,7 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 1981,
     "category": "OTHER",
-    "textFile": "MISC - 1981-1982-XX-XX - Down South [Vinyl].txt"
+    "textFile": "MISC - R.E.M. - Down South (1981-1982) [Vinyl].txt"
   },
   {
     "type": "label",
@@ -249,7 +247,7 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 1988,
     "category": "OTHER",
-    "textFile": "MISC - 1988-1996 - Fanclub Singles V1.txt"
+    "textFile": "MISC - R.E.M. - 1988-1996 - Fanclub Singles V1.txt"
   },
   {
     "type": "release",
@@ -257,7 +255,7 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 1997,
     "category": "OTHER",
-    "textFile": "MISC - 1997-2004 - Fanclub Singles v2.txt"
+    "textFile": "MISC - R.E.M. - 1997-2004 - Fanclub Singles v2.txt"
   },
   {
     "type": "release",
@@ -265,5 +263,134 @@ const ARTIST_MISC_DATA = [
     "version": "PRO",
     "format": "DVD",
     "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - 1981-XX-XX - Athens, GA - Tyrone's O.C. - That Beat in Time {OMKCD001}",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - R.E.M. - 1981-XX-XX - Athens, GA - Tyrone's O.C. - That Beat in Time {OMKCD001} [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Acoustic '87 {NUN 004} (1992)",
+    "year": 1992,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - R.E.M. - Acoustic '87 {NUN 004} (1992) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Covering Them {PSCD-1260} (1992)",
+    "year": 1992,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - R.E.M. - Covering Them {PSCD-1260} (1992) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Freak Marmalade {KRCD 12} (1996)",
+    "year": 1996,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - R.E.M. - Freak Marmalade {KRCD 12} (1996) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Hitting The Note  {BKCD076} (1994)",
+    "year": 1994,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - R.E.M. - Hitting The Note  {BKCD076} (1994) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Losing My Religion (Vol. 3) {BAN-042-C} (1993)",
+    "year": 1993,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - R.E.M. - Losing My Religion (Vol. 3) {BAN-042-C} (1993) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Poets of the Wheat {BM 049-2} (1991)",
+    "year": 1991,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - R.E.M. - Poets of the Wheat {BM 049-2} (1991) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Rock Perugia {IST 11} (1991)",
+    "year": 1991,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - R.E.M. - Rock Perugia {IST 11} (1991) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - The Dream {RPCD 1028} (1991)",
+    "year": 1991,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - R.E.M. - The Dream {RPCD 1028} (1991) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Ultra Rare Trax {RUCD 4742} (1993)",
+    "year": 1993,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - R.E.M. - Ultra Rare Trax {RUCD 4742} (1993) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Unfettered {UFCD 1098} (1998)",
+    "year": 1998,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - R.E.M. - Unfettered {UFCD 1098} (1998) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Unreleased Live LP",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - R.E.M. - Unreleased Live LP [SIlver].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Unreleased Live LP {UM 029) (1993)",
+    "year": 1993,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - R.E.M. - Unreleased Live LP {UM 029) (1993) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Everybody Hurts {9 40989-2} (1993)",
+    "year": 1993,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Everybody Hurts {9362-40867-9} (1993)",
+    "year": 1993,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Everybody Hurts {W0169CD1} (1993)",
+    "year": 1993,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - 1983-02-17 - Reflection Studio",
+    "format": "FLAC",
+    "textFile": "MISC - R.E.M. - 1983-02-17 - Reflection Studio [FLAC].txt"
   }
 ];

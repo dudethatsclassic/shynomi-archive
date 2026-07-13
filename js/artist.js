@@ -43,7 +43,7 @@ function renderMiscSection(miscItems) {
   const releases = miscItems.filter(i => i.type !== 'show');
 
   // Group releases by category; items without a category go under 'OTHER'
-  const CAT_ORDER = ['OTHER', 'SILVERS', 'OFFICIAL RELEASES', 'SINGLES'];
+  const CAT_ORDER = ['DEMOS', 'OUTTAKES', 'VARIOUS', 'SILVERS', 'SINGLES', 'OFFICIAL RELEASES', 'OTHER'];
   const groups = {};
   releases.forEach(item => {
     const cat = item.category || 'OTHER';
@@ -52,10 +52,13 @@ function renderMiscSection(miscItems) {
   });
 
   const CAT_LABELS = {
-    'OTHER':            'Other — Demos & Compilations',
+    'DEMOS':            'Demos',
+    'OUTTAKES':         'Outtakes',
+    'VARIOUS':          'Various',
     'SILVERS':          'Silver CDs',
-    'OFFICIAL RELEASES':'Official Releases',
     'SINGLES':          'Singles',
+    'OFFICIAL RELEASES':'Official Releases',
+    'OTHER':            'Other',
   };
 
   // Render a release item as a compact list row

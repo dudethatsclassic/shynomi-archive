@@ -108,8 +108,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Counting Crows - Face the Promised Land (1999)",
-    "format": "FLAC",
-    "textFile": "MISC - Maximum Counting Crows (1999) [FLAC].txt"
+    "format": "FLAC"
   },
   {
     "type": "label",
@@ -671,8 +670,7 @@ const ARTIST_MISC_DATA = [
     "label": "Counting Crows - August and Everything After (Amazon Original) (2019)",
     "year": 2019,
     "format": "FLAC",
-    "category": "SINGLES",
-    "textFile": "MISC - Counting Crows - Everything After August [VCD].txt"
+    "category": "SINGLES"
   },
   {
     "type": "release",
@@ -721,5 +719,20 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Old",
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - Daylight Fading (CD2) {GFSXD 22247} (1997)",
+    "year": 1997,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Counting Crows - Hanginaround (UK CD2) {497 188-2} (1999)",
+    "year": 1999,
+    "format": "FLAC",
+    "category": "SINGLES",
+    "textFile": "MISC - Maximum Counting Crows (1999) [FLAC].txt"
   }
 ];
