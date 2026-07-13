@@ -2144,9 +2144,9 @@ const ARTISTS = [
   {
     "id": "r-e-m",
     "name": "R.E.M.",
-    "showCount": 824,
+    "showCount": 874,
     "firstYear": 1980,
-    "lastYear": 2989
+    "lastYear": 2009
   },
   {
     "id": "radiohead",
