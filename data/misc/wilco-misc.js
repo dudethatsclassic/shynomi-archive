@@ -1277,44 +1277,5 @@ const ARTIST_MISC_DATA = [
     "label": "Wilco - War on War (CDS) {75597 96402-8} (2002)",
     "year": 2002,
     "category": "SINGLES"
-  },
-  {
-    "type": "release",
-    "label": "Billy Bragg and Wilco - Mermaid Avenue Demos - Chicago, IL (1998)",
-    "year": 1998
-  },
-  {
-    "type": "release",
-    "label": "Wilco - A Ghost Is Born (Deluxe Edition) (2025)",
-    "year": 2025,
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Wilco - AGIB Tour Compilation"
-  },
-  {
-    "type": "release",
-    "label": "Wilco - Alpha Romeo Tango"
-  },
-  {
-    "type": "release",
-    "label": "Wilco - Wilco Live (Yellow) (2026)",
-    "year": 2026,
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Wilco - YHF Demos (2002)",
-    "year": 2002,
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Wilco - Yankee Hotel Foxtrot - Super Deluxe - Version 2"
-  },
-  {
-    "type": "release",
-    "label": "Wilco - Yankee Hotel Foxtrot Complete Demos"
   }
 ];
