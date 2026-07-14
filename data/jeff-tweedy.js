@@ -105,7 +105,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
-      "notes": "DAT(M) \u00b7 Microtech-Gefell SMS2000 \u00b7 unk",
+      "notes": "DAT(M) · Microtech-Gefell SMS2000 · unk",
       "version": "AUD",
       "format": ""
     },
@@ -118,7 +118,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Mercury Lounge",
-      "notes": "DAT(M) \u00b7 Core Sound Cardiods \u00b7 dan lynch",
+      "notes": "DAT(M) · Core Sound Cardiods · dan lynch",
       "version": "AUD",
       "format": "",
       "textFile": "1997-11-23 - New York, NY - Mercury Lounge [AUD].txt"
@@ -132,7 +132,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Mercury Lounge",
-      "notes": "Two Of Us Master Volume 174 \u00b7 Shure WMD6 \u00b7 mjk5510 + two of us",
+      "notes": "Two Of Us Master Volume 174 · Shure WMD6 · mjk5510 + two of us",
       "version": "MIX",
       "format": ""
     },
@@ -453,7 +453,7 @@ const ARTIST_DATA = {
       "state": "CA - Great American Music Hall",
       "location": "San Francisco, CA - Great American Music Hall",
       "venue": "DAT",
-      "notes": "M \u00b7 Schoeps MK5 \u00b7 unk",
+      "notes": "M · Schoeps MK5 · unk",
       "version": "AUD",
       "format": "",
       "textFile": "2001-03-08 - San Francisco, CA - Great American Music Hall - DAT(M) (Schoeps MK5) (unk) [AUD].txt"
@@ -467,7 +467,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "notes": "DAT(M) \u00b7 Schoeps MK5 \u00b7 unk",
+      "notes": "DAT(M) · Schoeps MK5 · unk",
       "version": "AUD",
       "format": "",
       "textFile": "2001-03-09 - San Francisco, CA - Great American Music Hall - DAT(M) (Schoeps MK5) (unk) [AUD].txt"
@@ -481,7 +481,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Knitting Factory",
-      "notes": "Marcsounds \u00b7 markp",
+      "notes": "Marcsounds · markp",
       "version": "AUD",
       "format": "",
       "textFile": "2001-03-10 - Hollywood, CA - Knitting Factory [AUD].txt"
@@ -789,7 +789,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tribeca Performing Arts Center",
-      "notes": "Tweedy \u00b7 FOH Series",
+      "notes": "Tweedy · FOH Series",
       "version": "SBD",
       "format": ""
     },
@@ -942,7 +942,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Fonda Theatre",
-      "notes": "DAT(M) \u00b7 ryanj transfer",
+      "notes": "DAT(M) · ryanj transfer",
       "version": "SBD",
       "format": "",
       "textFile": "2006-02-12 - Hollywood, CA - The Fonda Theatre - DAT(M) (ryanj transfer) [SBD].txt"
@@ -972,7 +972,8 @@ const ARTIST_DATA = {
       "venue": "Henry Fonda Theater",
       "notes": "FOH Series",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "2006-02-13 - Los Angeles, CA - Henry Fonda Theater [SBD].txt"
     },
     {
       "year": 2006,
@@ -1014,7 +1015,7 @@ const ARTIST_DATA = {
       "notes": "Iowa",
       "version": "AUD",
       "format": "",
-      "textFile": "2006-02-19 - Iowa City, IA - University of Iowa - Iowa Memorial Union (Octava) [AUD].txt"
+      "textFile": "2006-02-19 - Iowa City, IA - University of Iowa - Iowa Memorial Union (PA-6) [AUD].txt"
     },
     {
       "year": 2006,
@@ -1042,7 +1043,7 @@ const ARTIST_DATA = {
       "notes": "Mandel",
       "version": "SBD",
       "format": "",
-      "textFile": "2006-02-25 - Chicago, IL - University of Chicago - Mandel Hall  [AUD].txt"
+      "textFile": "2006-02-25 - Chicago, IL - University of Chicago - Mandel Hall (Webstream) [SBD].txt"
     },
     {
       "year": 2006,
@@ -1182,7 +1183,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2007-01-27 - Birmingham, AL - Alabama Theatre (KM120) [AUD].txt"
+      "textFile": "2007-01-27 - Birmingham, AL - Alabama Theatre (MK4) [AUD].txt"
     },
     {
       "year": 2007,
@@ -1699,7 +1700,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2013-12-05 - Denver, CO - Paramount Theater (DPA 4022) [AUD].txt"
+      "textFile": "2013-12-05 - Denver, CO - Paramount Theater (Zoom H2) [AUD].txt"
     },
     {
       "year": 2013,
@@ -1885,7 +1886,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "notes": "Jeff Tweedy \u00b7 Roadcase 031",
+      "notes": "Jeff Tweedy · Roadcase 031",
       "version": "SBD",
       "format": ""
     },
@@ -1898,7 +1899,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "notes": "Jeff Tweedy \u00b7 Roadcase 032",
+      "notes": "Jeff Tweedy · Roadcase 032",
       "version": "SBD",
       "format": ""
     },
@@ -2049,7 +2050,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Wangels, Germany",
       "venue": "Rolling Stone Weekender",
-      "notes": "NDR Blue DVB-C \u00b7 unk",
+      "notes": "NDR Blue DVB-C · unk",
       "version": "FM",
       "format": "",
       "textFile": "2014-11-08 - Wangels, Germany - Rolling Stone Weekender (NDR Blue DVB-C) (unk) [FM].txt"
@@ -2080,7 +2081,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2014-11-10 - Oslo, Norway - Sentrum Scene (AT933C) [AUD].txt"
+      "textFile": "2014-11-10 - Oslo, Norway - Sentrum Scene (MK4) [AUD].txt"
     },
     {
       "year": 2014,
@@ -2108,7 +2109,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2014-11-15 - Leuven, Belgium - Het Depot (CAC) [AUD].txt"
+      "textFile": "2014-11-15 - Leuven, Belgium - Het Depot (CSB) [AUD].txt"
     },
     {
       "year": 2014,
@@ -2136,7 +2137,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2015-01-28 - Dublin, Ireland - Vicar Street (CA14s) [AUD].txt"
+      "textFile": "2015-01-28 - Dublin, Ireland - Vicar Street (Zoom) [AUD].txt"
     },
     {
       "year": 2015,
@@ -2248,7 +2249,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2015-06-28 - North Adams, MA - Solid Sound Festival (KM184) [AUD].txt"
+      "textFile": "2015-06-28 - North Adams, MA - Solid Sound Festival (MC930) [AUD].txt"
     },
     {
       "year": 2015,
@@ -2276,7 +2277,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2015-07-19 - Louisville, KY - Forecastle Festival (MK21) [AUD].txt"
+      "textFile": "2015-07-19 - Louisville, KY - Forecastle Festival (MK4) [AUD].txt"
     },
     {
       "year": 2015,
@@ -2359,7 +2360,8 @@ const ARTIST_DATA = {
       "venue": "Vic Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2016-05-13 - Chicago, IL - Vic Theatre (R09) [AUD].txt"
     },
     {
       "year": 2016,
@@ -2386,7 +2388,8 @@ const ARTIST_DATA = {
       "venue": "Vic Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2016-05-14 - Chicago, IL - Vic Theatre (R09) [AUD].txt"
     },
     {
       "year": 2017,
@@ -2549,7 +2552,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Spokane, WA",
       "venue": "Bing Crosby Theater",
-      "notes": "Tascam DR-44WL \u00b7 nick71",
+      "notes": "Tascam DR-44WL · nick71",
       "version": "AUD",
       "format": "",
       "textFile": "2018-09-26 - Spokane, WA - Bing Crosby Theater (Tascam DR-44WL) (nick71) [AUD].txt"
@@ -2577,7 +2580,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Theatre At Ace Hotel",
-      "notes": "Jeff Tweedy \u00b7 Roadcase 071",
+      "notes": "Jeff Tweedy · Roadcase 071",
       "version": "SBD",
       "format": ""
     },
@@ -2621,7 +2624,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2019-02-28 - St. Louis, MO - The Pageant (C4) [AUD].txt"
+      "textFile": "2019-02-28 - St. Louis, MO - The Pageant (MK4) [AUD].txt"
     },
     {
       "year": 2019,
@@ -2730,7 +2733,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2019-05-20 - Sydney, Australia - Metro Theatre (CA14) [AUD].txt"
+      "textFile": "2019-05-20 - Sydney, Australia - Metro Theatre (Nokia) [AUD].txt"
     },
     {
       "year": 2019,
@@ -2866,7 +2869,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Bridgeview, IL",
       "venue": "Jeff Tweedy at SeatGeek Stadium",
-      "notes": "Parking \u00b7 FOH Series",
+      "notes": "Parking · FOH Series",
       "version": "SBD",
       "format": ""
     },
@@ -2879,7 +2882,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Charlton, MA",
       "venue": "Tree House Brewing Company",
-      "notes": "Schoeps CMC641 \u00b7 unk",
+      "notes": "Schoeps CMC641 · unk",
       "version": "AUD",
       "format": "",
       "textFile": "2021-07-19 - Charlton, MA - Tree House Brewing Company (Schoeps CMC641) (unk) [AUD].txt"
@@ -2893,7 +2896,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "Schoeps CCM4s \u00b7 blg mastering",
+      "notes": "Schoeps CCM4s · blg mastering",
       "version": "AUD (48k)",
       "format": "",
       "textFile": "2022-02-22 - San Francisco, CA - The Fillmore (Schoeps CCM4s) (blg mastering) (48k) [AUD].txt"
@@ -2934,7 +2937,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Largo at the Coronet",
-      "notes": "CA-11 \u00b7 manofstealth",
+      "notes": "CA-11 · manofstealth",
       "version": "AUD",
       "format": "",
       "textFile": "2023-01-05 - Los Angeles, CA - Largo at the Coronet (CA-11) (manofstealth) [AUD24].txt"
@@ -2948,7 +2951,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Solid Sound Festival",
-      "notes": "Jeff Tweedy \u00b7 Roadcase 104",
+      "notes": "Jeff Tweedy · Roadcase 104",
       "version": "SBD",
       "format": ""
     },
@@ -2961,7 +2964,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Joe's Field",
-      "notes": "Solid \u00b7 2 sets of DPA 4061s \u00b7 km",
+      "notes": "Solid · 2 sets of DPA 4061s · km",
       "version": "MIX",
       "format": "",
       "textFile": "2024-06-30 - North Adams, MA - Joe's Field - Solid Sound Festival (2 sets of DPA 4061s) (km) [MIX24].txt"
@@ -2975,7 +2978,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Woodstock, NY",
       "venue": "Bearsville Theatre",
-      "notes": "DPA MMA-A 4061s \u00b7 km",
+      "notes": "DPA MMA-A 4061s · km",
       "version": "AUD",
       "format": "",
       "textFile": "2024-10-12 - Woodstock, NY - Bearsville Theatre (DPA MMA-A 4061s) (km) [AUD24].txt"
@@ -2989,7 +2992,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Champaign, IL",
       "venue": "Virginia Theater",
-      "notes": "DPA 4061 \u00b7 john dacar, rob o'brien",
+      "notes": "DPA 4061 · john dacar, rob o'brien",
       "version": "AUD",
       "format": "",
       "textFile": "2024-10-18 - Champaign, IL - Virginia Theater (DPA 4061) (john dacar, rob o'brien) [AUD].txt"
@@ -3031,7 +3034,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "The Concert Hall",
-      "notes": "SP-CMC-8 \u00b7 burnboy",
+      "notes": "SP-CMC-8 · burnboy",
       "version": "AUD",
       "format": "",
       "textFile": "2025-10-10 - Toronto, ON - The Concert Hall  (SP-CMC-8) (burnboy) [AUD24].txt"
@@ -3059,7 +3062,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Norwalk, CT",
       "venue": "District Musica Hall",
-      "notes": "DPA4061s \u00b7 km",
+      "notes": "DPA4061s · km",
       "version": "AUD",
       "format": "",
       "textFile": "2025-10-17 - Norwalk, CT - District Musica Hall (DPA4061s) (km) [AUD24].txt"
@@ -3073,7 +3076,7 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "930 Club",
-      "notes": "CA-14 \u00b7 alex leary",
+      "notes": "CA-14 · alex leary",
       "version": "AUD",
       "format": "",
       "textFile": "2025-10-27 - Washington, DC - 930 Club (CA-14) (alex leary) [AUD24].txt"
@@ -3087,7 +3090,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Kansas City, CA",
       "venue": "Liberty Hall",
-      "notes": "SP-CMC-08 \u00b7 sonictooth",
+      "notes": "SP-CMC-08 · sonictooth",
       "version": "AUD",
       "format": "",
       "textFile": "2025-11-08 - Kansas City, CA - Liberty Hall (SP-CMC-08) (sonictooth) [AUD24].txt"
@@ -3101,7 +3104,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Largo at the Coronet",
-      "notes": "Edirol R-07 \u00b7 nobody",
+      "notes": "Edirol R-07 · nobody",
       "version": "AUD",
       "format": "",
       "textFile": "2026-01-05 - Los Angeles, CA - Largo at the Coronet (Edirol R-07) (nobody) [AUD24].txt"
@@ -3115,7 +3118,7 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "San Sebastian, Spain",
       "venue": "Auditorio Kursaal",
-      "notes": "iPhpne SE \u00b7 unaesfingelunar",
+      "notes": "iPhpne SE · unaesfingelunar",
       "version": "AUD",
       "format": "",
       "textFile": "2026-02-10 - San Sebastian, Spain - Auditorio Kursaal (iPhpne SE) (unaesfingelunar) [AUD24].txt"
@@ -3129,7 +3132,7 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Barcelona, Spain",
       "venue": "Parallel 62",
-      "notes": "Edirol R05 \u00b7 l.c.",
+      "notes": "Edirol R05 · l.c.",
       "version": "AUD",
       "format": "",
       "textFile": "2026-02-12 - Barcelona, Spain - Parallel 62 (Edirol R05) (l.c.) [AUD].txt"
@@ -3143,7 +3146,7 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Borgerhout, Belgium",
       "venue": "De Roma",
-      "notes": "CSB \u00b7 thelonious",
+      "notes": "CSB · thelonious",
       "version": "AUD",
       "format": "",
       "textFile": "2026-02-17 - Borgerhout, Belgium - De Roma (CSB) (thelonious) [AUD24].txt"
@@ -3157,7 +3160,7 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Utrecht, The Netherlands",
       "venue": "TivoliVredenburg",
-      "notes": "CSB \u00b7 thelonious",
+      "notes": "CSB · thelonious",
       "version": "AUD",
       "format": "",
       "textFile": "2026-02-18 - Utrecht, The Netherlands - TivoliVredenburg (CSB) (thelonious) [AUD24].txt"
@@ -3171,7 +3174,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Islington Assembly Hall",
-      "notes": "CA-11 \u00b7 rairun",
+      "notes": "CA-11 · rairun",
       "version": "AUD",
       "format": "",
       "textFile": "2026-02-20 - London, UK - Islington Assembly Hall (CA-11) (rairun) [AUD].txt"
@@ -3185,7 +3188,7 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Des Moines, IA",
       "venue": "Hoyt Sherman Place",
-      "notes": "DPA 4061 \u00b7 robotaper",
+      "notes": "DPA 4061 · robotaper",
       "version": "AUD",
       "format": "",
       "textFile": "2026-03-10 - Des Moines, IA - Hoyt Sherman Place (DPA 4061) (robotaper) [AUD24].txt"
@@ -3199,7 +3202,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Victoria, BC",
       "venue": "Royal Theatre",
-      "notes": "iPhone 7 \u00b7 chris lawrence",
+      "notes": "iPhone 7 · chris lawrence",
       "version": "AUD",
       "format": "",
       "textFile": "2026-04-05 - Victoria, BC - Royal Theatre (iPhone 7) (chris lawrence) [AUD24].txt"
@@ -3213,7 +3216,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Vic",
-      "notes": "CA-14 \u00b7 km",
+      "notes": "CA-14 · km",
       "version": "AUD",
       "format": "",
       "textFile": "2026-05-30 - Chicago, IL - The Vic (CA-14) (km) [AUD24].txt"
@@ -3227,7 +3230,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Solid Sound Festival",
-      "notes": "MASS \u00b7 AKG CK-63 \u00b7 km",
+      "notes": "MASS · AKG CK-63 · km",
       "version": "AUD",
       "format": "",
       "textFile": "2026-06-28 - North Adams, MA - Solid Sound Festival - MASS MoCA (AKG CK-63) (km) [AUD24].txt"
