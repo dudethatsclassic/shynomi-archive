@@ -386,14 +386,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Damaged Justice Japan Tour 1989 {ZODIAC 374} (2020)",
-    "version": "Silver CD",
-    "format": "FLAC",
-    "year": 1989,
-    "category": "SILVERS"
-  },
-  {
-    "type": "release",
     "label": "Metallica - Demolition {POET 9208} (1992)",
     "version": "Silver CD",
     "format": "FLAC",
@@ -434,7 +426,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Enter Sandman (Vol.2) (1993) (BAN-032-B)",
+    "label": "Metallica - Enter Sandman (Vol.2) {BAN-032-B} (1993)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
@@ -442,7 +434,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Enter The Monsters (1991) (MMM001)",
+    "label": "Metallica - Enter The Monsters {MMM001} (1991)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1991,
@@ -709,6 +701,14 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Damaged Justice Japan Tour 1989 {ZODIAC 374} (2020)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1989,
     "category": "SILVERS"
   },
   {
