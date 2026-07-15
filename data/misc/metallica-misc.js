@@ -354,7 +354,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Calling All Destroyers (1991) (IC 001)",
+    "label": "Metallica - Calling All Destroyers {IC 001} (1991)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1991,
@@ -362,7 +362,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Caught In The Act (1990) (TCC 018)",
+    "label": "Metallica - Caught In The Act {TCC 018} (1990)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1990,
@@ -370,7 +370,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Creeping Death (1991) (HM 002)",
+    "label": "Metallica - Creeping Death {HM 002} (1991)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1991,
@@ -378,14 +378,14 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Damaged Justice (M5131 M5132)",
+    "label": "Metallica - Damaged Justice {M5131 M5132}",
     "version": "Silver CD",
     "format": "FLAC",
     "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - Damaged Justice Japan Tour 1989 (2020) (ZODIAC 374)",
+    "label": "Metallica - Damaged Justice Japan Tour 1989 {ZODIAC 374} (2020)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1989,
@@ -393,7 +393,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Demolition (1992) (POET 9208)",
+    "label": "Metallica - Demolition {POET 9208} (1992)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
@@ -401,7 +401,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Detroit Bad Boys (1992) (MIK 022-023)",
+    "label": "Metallica - Detroit Bad Boys {MIK 022-023} (1992)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
@@ -409,7 +409,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Don't Treat On Us (1992) (MIK 017)",
+    "label": "Metallica - Don't Treat On Us  {MIK 017} (1992)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
@@ -417,7 +417,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Enter Mainhattan (1993) (MORBY 092)",
+    "label": "Metallica - Enter Mainhattan {MORBY 092} (1993)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
@@ -425,7 +425,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Enter Sandman (Vol.1) (1993) (BAN-032-A)",
+    "label": "Metallica - Enter Sandman (Vol.1) {BAN-032-A} (1993)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
