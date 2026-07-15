@@ -169,6 +169,13 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
+    "label": "Our Lady Peace - OLP30 Live {712758989390} (2026)",
+    "format": "FLAC 24",
+    "year": 2026,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
     "label": "Our Lady Peace - Naveed {RPROCD0372} (Promo) (1995)",
     "format": "FLAC",
     "year": 1995,
