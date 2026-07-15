@@ -22,7 +22,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "notes": "unk · neekrive",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -35,7 +35,7 @@ const ARTIST_DATA = {
       "venue": "930 Club",
       "notes": "unk",
       "version": "AUD",
-      "format": "",
+      "format": "FLAC",
       "textFile": "2007-05-17 - Washington, DC - 930 Club (unk) [AUD].txt"
     },
     {
@@ -49,7 +49,7 @@ const ARTIST_DATA = {
       "venue": "Pearl Street Ballroom (Zoom H2) (bcc32065) (2025 remaster) [",
       "notes": "",
       "version": "AUD",
-      "format": "",
+      "format": "FLAC 24",
       "textFile": "2009-09-19 - Northampton, MA - Pearl Street Ballroom (Zoom H2) (bcc32065) (2025 remaster) [AUD24].txt"
     }
   ]
