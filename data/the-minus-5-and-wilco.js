@@ -26,7 +26,7 @@ const ARTIST_DATA = {
       "venue": "Lounge Ax",
       "notes": "",
       "version": "SBD",
-      "format": "",
+      "format": "FLAC",
       "textFile": "2000-01-09 - Chicago, IL - Lounge Ax [SBD].txt"
     },
     {
@@ -40,7 +40,7 @@ const ARTIST_DATA = {
       "venue": "The Showbox",
       "notes": "",
       "version": "SBD",
-      "format": "",
+      "format": "FLAC",
       "textFile": "2000-11-04 - Seattle, WA - The Showbox [SBD].txt"
     },
     {
@@ -54,7 +54,7 @@ const ARTIST_DATA = {
       "venue": "Abbey Pub",
       "notes": "",
       "version": "AUD",
-      "format": "",
+      "format": "FLAC",
       "textFile": "2001-09-15 - Chicago, IL - Abbey Pub [AUD].txt"
     },
     {
@@ -68,7 +68,7 @@ const ARTIST_DATA = {
       "venue": "John Anson Ford Theatre",
       "notes": "DAT(M) · anonymous",
       "version": "SBD",
-      "format": "",
+      "format": "FLAC",
       "textFile": "2002-09-09 - Los Angeles, CA - John Anson Ford Theatre - DAT(M) (anonymous) [SBD].txt"
     },
     {
@@ -82,7 +82,7 @@ const ARTIST_DATA = {
       "venue": "Abbey Pub",
       "notes": "",
       "version": "AUD",
-      "format": "",
+      "format": "FLAC",
       "textFile": "2003-04-17 - Chicago, IL - Abbey Pub [AUD].txt"
     },
     {
@@ -96,7 +96,7 @@ const ARTIST_DATA = {
       "venue": "World Cafe WXPN",
       "notes": "",
       "version": "FM",
-      "format": "",
+      "format": "FLAC",
       "textFile": "2003-04-30 - Philadelphia, PA - World Cafe WXPN [FM].txt"
     },
     {
@@ -110,7 +110,7 @@ const ARTIST_DATA = {
       "venue": "Cocoanut Grove Ballroom",
       "notes": "SP-CMC-25 · robert mullen",
       "version": "AUD",
-      "format": "",
+      "format": "FLAC",
       "textFile": "2015-03-19 - Santa Cruz, CA - Cocoanut Grove Ballroom (SP-CMC-25) (robert mullen) [AUD].txt"
     },
     {
@@ -124,7 +124,7 @@ const ARTIST_DATA = {
       "venue": "Capitol Theater",
       "notes": "unk",
       "version": "AUD",
-      "format": "",
+      "format": "FLAC",
       "textFile": "2022-08-04 - Olympia, WA - Capitol Theater (unk) [AUD].txt"
     },
     {
@@ -138,7 +138,7 @@ const ARTIST_DATA = {
       "venue": "Doug Fir Lounge",
       "notes": "Core Sounds Cards · rob gronotte",
       "version": "AUD",
-      "format": "",
+      "format": "FLAC",
       "textFile": "2022-08-05 - Portland, OR - Doug Fir Lounge (Core Sounds Cards) (rob gronotte) [AUD].txt"
     },
     {
@@ -152,7 +152,7 @@ const ARTIST_DATA = {
       "venue": "The Hamilton",
       "notes": "Gefell MV400L-M41 · alex leary",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC 24"
     }
   ]
 };
