@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "uncle-tupelo",
   "name": "Uncle Tupelo",
   "drive": "E",
-  "showCount": 77,
+  "showCount": 79,
   "firstYear": 1988,
   "lastYear": 1994,
   "years": [
@@ -26,7 +26,7 @@ const ARTIST_DATA = {
       "venue": "Blue Note",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1988,
@@ -39,7 +39,7 @@ const ARTIST_DATA = {
       "venue": "Blue Note",
       "notes": "shane stacy",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -52,7 +52,7 @@ const ARTIST_DATA = {
       "venue": "Cicero's",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -65,7 +65,7 @@ const ARTIST_DATA = {
       "venue": "Cicero's",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -78,7 +78,7 @@ const ARTIST_DATA = {
       "venue": "Cicero's",
       "notes": "shane stacy",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -91,7 +91,7 @@ const ARTIST_DATA = {
       "venue": "Cicero's",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -104,7 +104,7 @@ const ARTIST_DATA = {
       "venue": "KCOU Studios",
       "notes": "",
       "version": "FM",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -117,7 +117,7 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -130,7 +130,7 @@ const ARTIST_DATA = {
       "venue": "WFMU",
       "notes": "Acoustic",
       "version": "FM",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -143,7 +143,7 @@ const ARTIST_DATA = {
       "venue": "Off Broadway",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -156,7 +156,7 @@ const ARTIST_DATA = {
       "venue": "Jake's",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -169,7 +169,7 @@ const ARTIST_DATA = {
       "venue": "Cat's Cradle",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -182,7 +182,7 @@ const ARTIST_DATA = {
       "venue": "Cicero's",
       "notes": "Audio Technica",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -195,7 +195,7 @@ const ARTIST_DATA = {
       "venue": "KCOU Radio",
       "notes": "",
       "version": "FM",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -208,7 +208,7 @@ const ARTIST_DATA = {
       "venue": "The Blue Note",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -221,7 +221,20 @@ const ARTIST_DATA = {
       "venue": "The Blue Note",
       "notes": "",
       "version": "SBD",
-      "format": "Upgrade"
+      "format": "FLAC"
+    },
+    {
+      "year": 1991,
+      "month": 2,
+      "day": 16,
+      "dateStr": "2-16-1991",
+      "city": "Columbia",
+      "state": "MO",
+      "location": "Columbia, MO",
+      "venue": "The Blue Note",
+      "notes": "Upgrade",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -234,7 +247,7 @@ const ARTIST_DATA = {
       "venue": "WMBR",
       "notes": "Acoustic",
       "version": "FM",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -247,7 +260,7 @@ const ARTIST_DATA = {
       "venue": "88.1",
       "notes": "",
       "version": "FM",
-      "format": ""
+      "format": "FLAC 24"
     },
     {
       "year": 1991,
@@ -260,7 +273,7 @@ const ARTIST_DATA = {
       "venue": "KDHX Studios",
       "notes": "",
       "version": "FM",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -273,7 +286,7 @@ const ARTIST_DATA = {
       "venue": "Live at Mississippi",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -286,7 +299,7 @@ const ARTIST_DATA = {
       "venue": "Trax",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -299,7 +312,7 @@ const ARTIST_DATA = {
       "venue": "Lounge Ax",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -312,7 +325,7 @@ const ARTIST_DATA = {
       "venue": "Charlie's Tap",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -325,7 +338,7 @@ const ARTIST_DATA = {
       "venue": "Jake's",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -338,7 +351,7 @@ const ARTIST_DATA = {
       "venue": "Club Lingerie",
       "notes": "JEMS 2021 transfer",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -351,7 +364,7 @@ const ARTIST_DATA = {
       "venue": "Lafayette's",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -364,7 +377,7 @@ const ARTIST_DATA = {
       "venue": "Lafayette's",
       "notes": "mr pember",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -377,7 +390,7 @@ const ARTIST_DATA = {
       "venue": "Gabe's",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -390,7 +403,7 @@ const ARTIST_DATA = {
       "venue": "The Paradise",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -403,7 +416,7 @@ const ARTIST_DATA = {
       "venue": "Club Babyhead",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -416,7 +429,7 @@ const ARTIST_DATA = {
       "venue": "Toad's Place",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -429,7 +442,7 @@ const ARTIST_DATA = {
       "venue": "Staches",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -442,7 +455,7 @@ const ARTIST_DATA = {
       "venue": "Mississippi Nights",
       "notes": "tennessee jed",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -455,7 +468,7 @@ const ARTIST_DATA = {
       "venue": "Beloit College",
       "notes": "mr. pember upgrade",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -468,7 +481,7 @@ const ARTIST_DATA = {
       "venue": "Lounge Ax",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -481,7 +494,7 @@ const ARTIST_DATA = {
       "venue": "Lounge Ax",
       "notes": "jeff s.",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -494,7 +507,7 @@ const ARTIST_DATA = {
       "venue": "Rocks",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -507,7 +520,7 @@ const ARTIST_DATA = {
       "venue": "Loppen",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -520,7 +533,7 @@ const ARTIST_DATA = {
       "venue": "Batschkapp",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -533,7 +546,7 @@ const ARTIST_DATA = {
       "venue": "Nachtwork",
       "notes": "andreas · with interview",
       "version": "FM",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -546,7 +559,7 @@ const ARTIST_DATA = {
       "venue": "Nachtwork",
       "notes": "andreas · mr. pember upgrade",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -559,7 +572,7 @@ const ARTIST_DATA = {
       "venue": "Stadthalle",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -572,7 +585,7 @@ const ARTIST_DATA = {
       "venue": "Melkweg",
       "notes": "ANA(1) · unk",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -585,7 +598,7 @@ const ARTIST_DATA = {
       "venue": "Lounge Ax",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -598,7 +611,7 @@ const ARTIST_DATA = {
       "venue": "Kridthuset",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -611,7 +624,7 @@ const ARTIST_DATA = {
       "venue": "Roskilde Festival",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -624,7 +637,7 @@ const ARTIST_DATA = {
       "venue": "Roskilde Festival",
       "notes": "presented by Jan Poulsen",
       "version": "FM",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -637,7 +650,7 @@ const ARTIST_DATA = {
       "venue": "Roskilde Festival",
       "notes": "shane stacy",
       "version": "FM",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -650,7 +663,7 @@ const ARTIST_DATA = {
       "venue": "Villa Delle Rose",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -663,7 +676,7 @@ const ARTIST_DATA = {
       "venue": "Papeigojevej",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -676,7 +689,7 @@ const ARTIST_DATA = {
       "venue": "Papeigojevej",
       "notes": "unk",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -689,7 +702,7 @@ const ARTIST_DATA = {
       "venue": "Tonder Festival",
       "notes": "unk",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -702,7 +715,7 @@ const ARTIST_DATA = {
       "venue": "Rytmeposten",
       "notes": "unk",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -715,7 +728,7 @@ const ARTIST_DATA = {
       "venue": "Kafe Rust",
       "notes": "Aiwa mics · andreas",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -728,7 +741,7 @@ const ARTIST_DATA = {
       "venue": "Kafe Rust",
       "notes": "ECM-S220 + ECM-155",
       "version": "MIX",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -741,7 +754,7 @@ const ARTIST_DATA = {
       "venue": "Cafe Rust",
       "notes": "ECM-S220 + Aiwa Mics",
       "version": "MIX",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -754,7 +767,7 @@ const ARTIST_DATA = {
       "venue": "Scotty's Pub",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -767,7 +780,7 @@ const ARTIST_DATA = {
       "venue": "Vic Theatre",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -780,7 +793,7 @@ const ARTIST_DATA = {
       "venue": "Slim's",
       "notes": "ANA(M) · ECM-909 · tjcruz",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -793,7 +806,7 @@ const ARTIST_DATA = {
       "venue": "Slim's",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -806,7 +819,7 @@ const ARTIST_DATA = {
       "venue": "Mississippi Nights",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -819,7 +832,7 @@ const ARTIST_DATA = {
       "venue": "Trax",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -832,7 +845,7 @@ const ARTIST_DATA = {
       "venue": "Toad's Place",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -845,7 +858,7 @@ const ARTIST_DATA = {
       "venue": "Lounge Ax",
       "notes": "jeff s.",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -858,7 +871,20 @@ const ARTIST_DATA = {
       "venue": "Lounge Ax *Halls of Shame",
       "notes": "",
       "version": "FM",
-      "format": "2 sources"
+      "format": "FLAC"
+    },
+    {
+      "year": 1994,
+      "month": 3,
+      "day": 24,
+      "dateStr": "3-24-1994",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Lounge Ax *Halls of Shame",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -871,7 +897,7 @@ const ARTIST_DATA = {
       "venue": "World Cafe",
       "notes": "",
       "version": "FM",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -884,7 +910,7 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "notes": "inc",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -897,7 +923,7 @@ const ARTIST_DATA = {
       "venue": "The Quad",
       "notes": "ANA(1) · unk",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -910,7 +936,7 @@ const ARTIST_DATA = {
       "venue": "The Blue Note",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -923,7 +949,7 @@ const ARTIST_DATA = {
       "venue": "The Blue Note",
       "notes": "DAT(M) · CSB · mrpember · remaster",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -936,7 +962,7 @@ const ARTIST_DATA = {
       "venue": "The Blue Note",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -949,7 +975,7 @@ const ARTIST_DATA = {
       "venue": "The Blue Note",
       "notes": "new SBD-AUD mix",
       "version": "MIX",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -962,7 +988,7 @@ const ARTIST_DATA = {
       "venue": "Mississippi Nights",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -975,7 +1001,7 @@ const ARTIST_DATA = {
       "venue": "Mississippi Nights",
       "notes": "",
       "version": "",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -988,7 +1014,7 @@ const ARTIST_DATA = {
       "venue": "Mississippi Night",
       "notes": "new sbd-aud mix · mrpember",
       "version": "MTX",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -1001,7 +1027,7 @@ const ARTIST_DATA = {
       "venue": "Mississippi Nights",
       "notes": "Final Show",
       "version": "SBD",
-      "format": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -1014,7 +1040,7 @@ const ARTIST_DATA = {
       "venue": "Mississippi Nights",
       "notes": "new sbd-aud mix · mrpember",
       "version": "MTX",
-      "format": ""
+      "format": "FLAC"
     }
   ]
 };
