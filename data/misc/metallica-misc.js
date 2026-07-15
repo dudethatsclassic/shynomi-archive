@@ -529,7 +529,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Live USA (2 Disc) (1993) (Imtrat - 920.026)",
+    "label": "Metallica - Live USA (2 Disc) {Imtrat - 920.026} (1993)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
@@ -537,7 +537,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Live USA (1990) (imt 900.034)",
+    "label": "Metallica - Live USA {imt 900.034} (1990)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1990,
@@ -545,7 +545,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Live Vol.2 (1993) (JOK-010-B)",
+    "label": "Metallica - Live Vol. 2 {JOK-010-B} (1993)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
@@ -553,7 +553,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Metal Masters (1992) (BC-200)",
+    "label": "Metallica - Metal Masters {BC-200} (1992)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
@@ -561,7 +561,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Metalian Winter 1988-89 (1992) (POET 9206)",
+    "label": "Metallica - Metalian Winter 1988-89 {POET 9206} (1992)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1988,
@@ -569,7 +569,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Motorcity Madness (1992) (MIK 042-043)",
+    "label": "Metallica - Motorcity Madness {MIK 042-043} (1992)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
@@ -577,7 +577,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - New Skulls For The Old Ceremony (The Cover Versions) (1993)",
+    "label": "Metallica - New Skulls For The Old Ceremony (The Cover Versions) {SJR-X} (1993)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
@@ -585,7 +585,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - No Limits No Laws (1994) (KTS 306)",
+    "label": "Metallica - No Limits No Laws {KTS 306} (1994)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1994,
@@ -593,7 +593,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Nuremberg Trials (1992) (BC-35)",
+    "label": "Metallica - Nuremberg Trials {BC-35} (1992)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
@@ -601,7 +601,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Riffs (1994) (PPL 520)",
+    "label": "Metallica - Riffs {PPL 520} (1994)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1994,
@@ -609,7 +609,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Roaming In Sweden 921212 (1993) (CMR 001-002)",
+    "label": "Metallica - Roaming In Sweden 921212 {CMR 001-002} (1993)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
@@ -617,7 +617,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Rough Justice (1993) (BM1)",
+    "label": "Metallica - Rough Justice {BM1} (1993)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
@@ -625,7 +625,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Sanatorium (1991) (RR 001)",
+    "label": "Metallica - Sanatorium {RR 001} (1991)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1991,
@@ -633,7 +633,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Stone Cold Crazy (1992) (MK 001-002)",
+    "label": "Metallica - Stone Cold Crazy {MK 001-002} (1992)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
@@ -641,15 +641,15 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Storm At Walhalla (1991) (FWD 2000)",
+    "label": "Metallica - Storm At Walhalla {FWD 2000} (1991)",
     "version": "Silver CD",
     "format": "FLAC",
-    "year": 1991,
+    "year": 2000,
     "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - Texas 1989 (1992) (PSCD 1172)",
+    "label": "Metallica - Texas 1989 {PSCD 1172} (1992)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1989,
@@ -657,7 +657,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - The Early Days (1997) (OTR 1100060)",
+    "label": "Metallica - The Early Days {OTR 1100060} (1997)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1997,
@@ -665,7 +665,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - The Four Sandmen (1991) (MIK 004)",
+    "label": "Metallica - The Four Sandmen {MIK 004} (1991)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1991,
@@ -673,7 +673,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - The Metal Masters (1991) (Flash 12.91.0165)",
+    "label": "Metallica - The Metal Masters {Flash 12.91.0165} (1991)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1991,
@@ -681,7 +681,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - The Metal Masters (Repress) (1991) (Flash 12.91.0165)",
+    "label": "Metallica - The Metal Masters (Repress) {Flash 12.91.0165} (1991)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1991,
@@ -689,7 +689,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Totally Destroy Canada (1992) (KTS 077-078)",
+    "label": "Metallica - Totally Destroy Canada {KTS 077-078} (1992)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
@@ -697,7 +697,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - World Tour '93 (1993) (OHM 29)",
+    "label": "Metallica - World Tour '93 {OHM 29} (1993)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
@@ -733,13 +733,14 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Masters of Metal (DVD)",
+    "label": "Metallica - Masters of Metal (2014)",
     "format": "MKV",
+    "year": 2014,
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Metallica S&M - 1999",
+    "label": "Metallica - S&M (1999)",
     "format": "MKV",
     "year": 1999,
     "category": "OFFICIAL RELEASES"
