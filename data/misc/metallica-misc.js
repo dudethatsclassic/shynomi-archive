@@ -1,56 +1,73 @@
 const ARTIST_MISC_DATA = [
   {
-    "type": "label",
+    "type": "release",
     "label": "Sucking My Love (Studio Demos & Soundboard Recordings)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "1981-1982 - The Real No Life Til Leather",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1981,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "1982-1983 - In For the Kill 199x (IMP007)",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1982,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "1982-1983 - Obsession (Judah)",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1982,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "1983-1984 - Tales from the Cliff - Kill 'Em All & Ride the Lightning Demos",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1983,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "1982 Riff Tape from Ron McGovney",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1982,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "1982 Jam Tape",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1982,
+    "category": "OTHER"
   },
   {
     "type": "label",
     "label": "1982-XX-XX - Las Angeles, CA / *One Last Visit"
   },
   {
-    "type": "label",
-    "label": "Metallica - April 1982 - Power Metal Demo"
+    "type": "release",
+    "label": "Metallica - April 1982 - Power Metal Demo",
+    "year": 1982,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Metallica - 1982 - No Life 'Til Power (SET 1014)",
     "version": "Silver CD",
     "format": "FLAC",
+    "year": 1982,
+    "category": "OTHER",
     "textFile": "MISC - Metallica - 1982 - No Life 'Til Power (SET 1014) [Silver].txt"
   },
   {
@@ -58,314 +75,805 @@ const ARTIST_MISC_DATA = [
     "label": "Metallica - 1982-83 - Studio Outtakes - Fight Fire With Fire (MUS 10)",
     "version": "Silver CD",
     "format": "FLAC",
+    "year": 1982,
+    "category": "OTHER",
     "textFile": "MISC - Metallica - 1982-83 - Studio Outtakes - Fight Fire With Fire (MUS 10) [Silver].txt"
   },
   {
     "type": "release",
     "label": "Bay Area Trashers",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "1987-1988 - Rough Justice - ...And Justice For All (Demos)",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1987,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Damaged Justice '88-'89 (2CD)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Ride the Lightning Demo (1984)",
     "version": "Vinyl",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1984,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Metallica - Master Of Puppets Demos (1985-07-14)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1985,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Metallica - Load Boxset - On the Air TV Appearances (From Load Boxset)",
-    "format": "FLAC 24"
+    "format": "FLAC 24",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Metallica - Studio Shit - November 1995",
-    "format": "FLAC 24"
+    "format": "FLAC 24",
+    "year": 1995,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Early Demos",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "For Fans Only 1992-1996",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1992,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Garage Days Part II (1996)",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1996,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Horsemen Of The Apokalypse (1982-83)",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1982,
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Tested and Covered",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "The Complete Demo Collection (1982-1988) -2CD",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1982,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Fan Can (1-5)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Thirteen Year Stretch (1984-1997)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1984,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Fan Can 6 - Copenhagen (DVD)",
-    "format": "MKV"
+    "format": "MKV",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Metallica - The Broadcast Archive",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Metallica - Middle Shit (1994)",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1994,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Metallica - Death Magnetic - Moderus III.2",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "Metallica - Acoustic Metal (CDX 1596416)",
     "version": "Silver CD",
     "format": "FLAC",
+    "category": "OTHER",
     "textFile": "MISC - Metallica - Acoustic Metal (CDX 1596416) 1997-12-18 [Silver].txt"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Metallica - The Unforgiven II",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Metallica - Live In Chile (1993 \u2013 2017) Master Upgrade (Hi-res)",
+    "label": "Metallica - Live In Chile (1993 – 2017) Master Upgrade (Hi-res)",
     "version": "SBD",
-    "format": "FLAC HD"
+    "format": "FLAC HD",
+    "year": 1993,
+    "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Metallica - Live In Brazil (1993 \u2013 2017) MQA (Hi-Res)",
+    "label": "Metallica - Live In Brazil (1993 – 2017) MQA (Hi-Res)",
     "version": "SBD",
-    "format": "FLAC HD"
+    "format": "FLAC HD",
+    "year": 1993,
+    "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Metallica - Live In Argentina (1993 \u2013 2017)",
+    "label": "Metallica - Live In Argentina (1993 – 2017)",
     "version": "SBD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1993,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Metallica - www.metjitf.com Exclusive - Enter Sandman (2021 Remastered CD Single)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 2021,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Metallica - www.metjitf.com Exclusive - Enter Sandman (2021 Remastered Pockit-CD)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 2021,
+    "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "-1982 - Metallica - The Real No Life Til Leather",
-    "year": 1981
+    "label": "Metallica - Abso-fucking-lutely Live! {ME 003-4} (1993)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Jam Tape",
-    "year": 1982
+    "label": "Metallica - After The Sandman Is Gone {POET 9216} (1992)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1992,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Riff Tape from Ron McGovney",
-    "year": 1982
+    "label": "Metallica - All Hell Breaks Loose {CM 009-10} (1993)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "-1983 - Metallica - In For the Kill 199X -",
-    "year": 1982,
-    "format": "IMPERIUM - IMP007"
+    "label": "Metallica - All Things Must Come To An End {MM 90041} (1992)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1992,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "-1983 - Metallica - Obsession - (Judah)",
-    "year": 1982,
-    "format": "SBD"
+    "label": "Metallica - Angels From Hell {WI-80336} (1990)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1990,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "XX-XX - Los Angeles, CA (One Last Visit)",
-    "year": 1982,
-    "format": "SBD"
+    "label": "Metallica - At Den Bosch Brabanthallen 7-12-92 Vol. 1 (CRC mismatch) {SR 012} (1993)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "1984 - Metallica - Tales From The Cliff - Kill 'Em All & Ride The Lightning Demos",
-    "year": 1983
+    "label": "Metallica - At Den Bosch Brabanthallen 7-12-92 Vol. 2 (CRC mismatch) {SR 013} (1993)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "09-12 - Death Magnetic - Moderus III.2",
-    "year": 2008
+    "label": "Metallica - At Den Bosch Brabanthallen 7-12-92 Vol. 3 {SR 014} (1993)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Fan Can 1"
+    "label": "Metallica - Bay Area Thrashers {CRANCH 1} (1998)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1998,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Fan Can 2"
+    "label": "Metallica - Birmingham Bondage Part Two (CRC mismatch) {BHAM 002} (1993)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Fan Can 3"
+    "label": "Metallica - Blood Truckers {BGS 041} (1995)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Fan Can 4"
+    "label": "Metallica - Calling All Destroyers (1991) (IC 001)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1991,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Fan Can 5"
+    "label": "Metallica - Caught In The Act (1990) (TCC 018)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1990,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Fan Can 6 - Copenhagen",
-    "format": "DVD"
+    "label": "Metallica - Creeping Death (1991) (HM 002)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1991,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - 1985-07-14 Master Of Puppets Demos (Studio)"
+    "label": "Metallica - Damaged Justice (M5131 M5132)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - April 1982 - Power Metal Demo"
+    "label": "Metallica - Damaged Justice Japan Tour 1989 (2020) (ZODIAC 374)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1989,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - Bay Area Trashers"
+    "label": "Metallica - Demolition (1992) (POET 9208)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1992,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - Damaged Justice 88-89"
+    "label": "Metallica - Detroit Bad Boys (1992) (MIK 022-023)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1992,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - Early Demos"
+    "label": "Metallica - Don't Treat On Us (1992) (MIK 017)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1992,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - For Fans Only 1992-1996"
+    "label": "Metallica - Enter Mainhattan (1993) (MORBY 092)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - Garage Days Pt. II (1996)",
-    "year": 1996
+    "label": "Metallica - Enter Sandman (Vol.1) (1993) (BAN-032-A)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - Horsemen Of The Apokalypse"
+    "label": "Metallica - Enter Sandman (Vol.2) (1993) (BAN-032-B)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - Live In Argentina (1993 \u2013 2017)"
+    "label": "Metallica - Enter The Monsters (1991) (MMM001)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1991,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - Live In Brazil (1993 \u2013 2017) MQA (Hi-Res)"
+    "label": "Metallica - Fanatic Battery (Meta 2001-2)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 2001,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - Live In Chile (1993 \u2013 2017) Master Upgrade (Hi-res)",
-    "format": "FLAC24"
+    "label": "Metallica - Four Horsemen In Brooklyn (1993) (MMR 9207 CD)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - Load Boxset - On the Air TV Appearances (24bit)",
-    "format": "FLAC"
+    "label": "Metallica - Garage Sessions Vol. 2 (KRHM 14)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - Middle Shit (1994)",
-    "year": 1994
+    "label": "Metallica - In The Flesh (1992) (CD-EYE-13)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1992,
+    "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - Ride the Lightning Demo (1984)",
+    "label": "Metallica - Infernal Gods (1993) (BGS 008-2)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - L.A. For a Fuckin' Beer (1992) (NG-100192)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1992,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Live At Great Western Forum (1997) (METUS1CD) (METUS2CD)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1997,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Live At The Stadium (1994) (P 910084-85)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1994,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Live Before Death Vol. One (1990) (GSCD 1017)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1990,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Live In Concert (1992) (TS-CD 001)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1992,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Live Long Island 20.12.91 (1992) (Ackon 9201)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1992,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Live USA (2 Disc) (1993) (Imtrat - 920.026)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Live USA (1990) (imt 900.034)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1990,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Live Vol.2 (1993) (JOK-010-B)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Metal Masters (1992) (BC-200)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1992,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Metalian Winter 1988-89 (1992) (POET 9206)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1988,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Motorcity Madness (1992) (MIK 042-043)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1992,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - New Skulls For The Old Ceremony (The Cover Versions) (1993)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - No Limits No Laws (1994) (KTS 306)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1994,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Nuremberg Trials (1992) (BC-35)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1992,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Riffs (1994) (PPL 520)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1994,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Roaming In Sweden 921212 (1993) (CMR 001-002)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Rough Justice (1993) (BM1)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Sanatorium (1991) (RR 001)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1991,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Stone Cold Crazy (1992) (MK 001-002)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1992,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Storm At Walhalla (1991) (FWD 2000)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1991,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Texas 1989 (1992) (PSCD 1172)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1989,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - The Early Days (1997) (OTR 1100060)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1997,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - The Four Sandmen (1991) (MIK 004)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1991,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - The Metal Masters (1991) (Flash 12.91.0165)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1991,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - The Metal Masters (Repress) (1991) (Flash 12.91.0165)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1991,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Totally Destroy Canada (1992) (KTS 077-078)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1992,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - World Tour '93 (1993) (OHM 29)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1993,
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Quebec Magnetic - DVD",
+    "format": "MKV",
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Through the Never (2013)",
+    "format": "MKV",
+    "year": 2013,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Some Kind of Monster (2004)",
+    "format": "MKV",
+    "year": 2004,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Masters of Metal (DVD)",
+    "format": "MKV",
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Metallica S&M - 1999",
+    "format": "MKV",
+    "year": 1999,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Kill 'Em All (1983) (Remastered) (2020) (24/96)",
+    "format": "FLAC HD",
+    "year": 1983,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Ride the Lightning (Remastered) (1984) (2020) (24/96)",
+    "format": "FLAC HD",
     "year": 1984,
-    "format": "FLAC"
+    "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Metallica - Sucking My Love"
+    "label": "Metallica - Master Of Puppets (1986) (2016) (24/96)",
+    "format": "FLAC HD",
+    "year": 1986,
+    "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Metallica - Tested And Covered"
+    "label": "Metallica - The 598 EP - Garage Days Re-Revisited (Remastered) (1987) (24/96)",
+    "format": "FLAC HD",
+    "year": 1987,
+    "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Metallica - The Broadcast Archive"
+    "label": "Metallica - Black Album (1991) (2020) (24/48)",
+    "format": "FLAC HD",
+    "year": 1991,
+    "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Metallica - The Complete Demo Collection"
+    "label": "Metallica - Metallica (HDTracks 24-96) (1991)",
+    "format": "FLAC HD",
+    "year": 1991,
+    "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Metallica - The Unforgiven II"
+    "label": "Metallica - Live Shit - Binge & Purge (24/96) (1993)",
+    "format": "FLAC HD",
+    "year": 1993,
+    "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Metallica - Thirteen Year Stretch (1984 - 1997)"
+    "label": "Metallica - Load (1994) (2020) (24/96)",
+    "format": "FLAC HD",
+    "year": 1994,
+    "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Metallica Napster Case (2001)",
-    "year": 2001
+    "label": "Metallica - Reload (1997) (2020) (24/96)",
+    "format": "FLAC HD",
+    "year": 1997,
+    "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Metallica - Studio Shit - November 1995 (24bit)",
-    "format": "FLAC"
+    "label": "Metallica - Garage Inc (1998) (24/96)",
+    "format": "FLAC HD",
+    "year": 1998,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - S&M (2016, Blackened, Reissue) (24/96) (1999)",
+    "format": "FLAC HD",
+    "year": 2016,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - St. Anger (2003) (2020) (24/88.2)",
+    "format": "FLAC HD",
+    "year": 2003,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Some Kind Of Monster (2004) (24/44.1)",
+    "format": "FLAC HD",
+    "year": 2004,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Death Magnetic (2008) (2020) (24/96)",
+    "format": "FLAC HD",
+    "year": 2008,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Beyond Magnetic (2011) (24/44.1)",
+    "format": "FLAC HD",
+    "year": 2011,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Through The Never (Music From The Motion Picture) (2013) (24/44.1)",
+    "format": "FLAC HD",
+    "year": 2013,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Lords Of Summer (2014) (24/48)",
+    "format": "FLAC HD",
+    "year": 2014,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Hardwired...To Self-Destruct (2016) (2020) (24/44.1)",
+    "format": "FLAC HD",
+    "year": 2016,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - S&M2 (2020) (24/48)",
+    "format": "FLAC HD",
+    "year": 2020,
+    "category": "OFFICIAL RELEASES"
   }
 ];
