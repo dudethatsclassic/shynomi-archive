@@ -378,9 +378,10 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Damaged Justice {M5131 M5132}",
+    "label": "Metallica - Damaged Justice {M5131 M5132} (1991)",
     "version": "Silver CD",
     "format": "FLAC",
+    "year": 1991,
     "category": "SILVERS"
   },
   {
