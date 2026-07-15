@@ -442,7 +442,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Fanatic Battery (Meta 2001-2)",
+    "label": "Metallica - Fanatic Battery {Meta 2001-2}",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2001,
@@ -450,7 +450,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Four Horsemen In Brooklyn (1993) (MMR 9207 CD)",
+    "label": "Metallica - Four Horsemen In Brooklyn {MMR 9207 CD} (1993)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
@@ -458,14 +458,14 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Garage Sessions Vol. 2 (KRHM 14)",
+    "label": "Metallica - Garage Sessions Vol. 2 {KRHM 14}",
     "version": "Silver CD",
     "format": "FLAC",
     "category": "SILVERS"
   },
   {
     "type": "release",
-    "label": "Metallica - In The Flesh (1992) (CD-EYE-13)",
+    "label": "Metallica - In The Flesh {CD-EYE-13} (1992)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
@@ -473,7 +473,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Infernal Gods (1993) (BGS 008-2)",
+    "label": "Metallica - Infernal Gods {BGS 008-2} (1993)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
@@ -481,7 +481,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - L.A. For a Fuckin' Beer (1992) (NG-100192)",
+    "label": "Metallica - L.A. For a Fuckin' Beer {NG-100192} (1992)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
@@ -489,7 +489,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Live At Great Western Forum (1997) (METUS1CD) (METUS2CD)",
+    "label": "Metallica - Live At Great Western Forum {METUS1CD-METUS2CD} (1997)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1997,
@@ -497,7 +497,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Live At The Stadium (1994) (P 910084-85)",
+    "label": "Metallica - Live At The Stadium {P 910084-85} (1994)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1994,
@@ -505,7 +505,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Live Before Death Vol. One (1990) (GSCD 1017)",
+    "label": "Metallica - Live Before Death Vol. One {GSCD 1017} (1990)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1990,
@@ -513,7 +513,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Live In Concert (1992) (TS-CD 001)",
+    "label": "Metallica - Live In Concert {TS-CD 001} (1992)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
@@ -521,7 +521,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Live Long Island 20.12.91 (1992) (Ackon 9201)",
+    "label": "Metallica - Live Long Island 20.12.91 {Ackon 9201} (1992)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
