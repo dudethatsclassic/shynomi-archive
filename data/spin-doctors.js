@@ -2,14 +2,28 @@ const ARTIST_DATA = {
   "id": "spin-doctors",
   "name": "Spin Doctors",
   "drive": "E",
-  "showCount": 5,
-  "firstYear": 1991,
+  "showCount": 6,
+  "firstYear": 1990,
   "lastYear": 1992,
   "years": [
+    1990,
     1991,
     1992
   ],
   "shows": [
+    {
+      "year": 1990,
+      "month": 12,
+      "day": 20,
+      "dateStr": "12-20-1990",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Wetlands Preserve (davemallick",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
     {
       "year": 1991,
       "month": 6,
