@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "sponge",
   "name": "Sponge",
   "drive": "F",
-  "showCount": 18,
+  "showCount": 19,
   "firstYear": 1995,
   "lastYear": 2026,
   "years": [
@@ -264,6 +264,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-04-23 - Edwardsville, IL - The Wildey Theatre (Sony PCM-A10) (shanecalhoon) [AUD24].txt"
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "day": 4,
+      "dateStr": "7-4-2026",
+      "city": "Greenfield",
+      "state": "IN",
+      "location": "Greenfield, IN",
+      "venue": "Depot Street Park",
+      "notes": "Freedom · CA-14 Omni · charlesdeweycoleiv",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
