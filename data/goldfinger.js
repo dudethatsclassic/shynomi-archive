@@ -20,7 +20,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bill Graham Civic Auditorium",
-      "notes": "unk \u00b7 inc",
+      "notes": "unk · inc",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-05-07 - San Francisco, CA - Bill Graham Civic Auditorium (unk) (inc) [AUD].txt"
@@ -34,7 +34,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -47,7 +47,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "UCF Arena",
-      "notes": "MD(M) \u00b7 CSB \u00b7 dunebug81",
+      "notes": "MD(M) · CSB · dunebug81",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-11-03 - Orlando, FL - UCF Arena - MD(M) (CSB) (dunebug81) [AUD].txt"
