@@ -765,7 +765,7 @@ const ARTISTS = [
   {
     "id": "elastica",
     "name": "Elastica",
-    "showCount": 3,
+    "showCount": 4,
     "firstYear": 1995,
     "lastYear": 1999
   },
