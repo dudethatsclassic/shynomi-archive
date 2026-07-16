@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "elastica",
   "name": "Elastica",
   "drive": "E",
-  "showCount": 3,
+  "showCount": 4,
   "firstYear": 1995,
   "lastYear": 1999,
   "years": [
@@ -23,6 +23,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-03-17 - Austin, TX - Liberty Lunch SXSW Festival (MarcSounds) (markp) [AUD].txt"
+    },
+    {
+      "year": 1995,
+      "month": 6,
+      "day": 14,
+      "dateStr": "6-14-1995",
+      "city": "Denver",
+      "state": "CO",
+      "location": "Denver, CO",
+      "venue": "Mercury Cafe",
+      "notes": "DAT(M) · binaural mics · marcr",
+      "version": "AUD",
+      "format": "FLAC 24"
     },
     {
       "year": 1995,
