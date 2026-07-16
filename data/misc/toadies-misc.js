@@ -18,11 +18,5 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2018,
     "category": "OTHER"
-  },
-  {
-    "type": "release",
-    "label": "Toadies - Best Of Toadies Live From Paradise (2002)",
-    "year": 2002,
-    "format": "FLAC"
   }
 ];
