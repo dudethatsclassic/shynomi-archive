@@ -47,7 +47,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Skyway Theatre",
-      "notes": "CCM41 \u00b7 guy of the north",
+      "notes": "CCM41 · guy of the north",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2016-06-15 - Minneapolis, MN - Skyway Theatre [AUD].txt"
@@ -75,7 +75,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Fillmore",
-      "notes": "SP-CMC-8 \u00b7 bcironmaiden",
+      "notes": "SP-CMC-8 · bcironmaiden",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2016-08-31 - Philadelphia, PA - The Fillmore [AUD].txt"
@@ -117,7 +117,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "College Street",
-      "notes": "Schoeps CCM41's \u00b7 michael buzzeo",
+      "notes": "Schoeps CCM41's · michael buzzeo",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-04-13 - New Haven, CT - College Street [AUD].txt"
@@ -145,7 +145,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
-      "notes": "CA-11 \u00b7 opsopcopolis",
+      "notes": "CA-11 · opsopcopolis",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-04-17 - Washington, D.C. - 930 Club [AUD].txt"
@@ -159,7 +159,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "Zoom H1 \u00b7 majintrunkz",
+      "notes": "Zoom H1 · majintrunkz",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2019-04-19 - Asheville, NC - The Orange Peel [AUD].txt"
@@ -173,10 +173,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Centennial Olympic Park",
-      "notes": "Sweetwater \u00b7 Schoeps MK4V'S>CMC6 \u00b7 z-man",
+      "notes": "Sweetwater · Schoeps MK4V'S>CMC6 · z-man",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2019-04-21 - Atlanta, GA - Cenntenial Olympic Park (Schoeps) [AUD].txt"
+      "textFile": "2019-04-21 - Atlanta, GA - Centennial Olympic Park (SPS200) [AUD24].txt"
     },
     {
       "year": 2019,
@@ -187,7 +187,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Centennial Olympic Park",
-      "notes": "Sweetwater \u00b7 Soundfield SPS200 \u00b7 daniel kopp",
+      "notes": "Sweetwater · Soundfield SPS200 · daniel kopp",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2019-04-21 - Atlanta, GA - Centennial Olympic Park (SPS200) [AUD24].txt"
@@ -201,7 +201,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant",
-      "notes": "Nokia Lumia 920 \u00b7 shane e. calhoun",
+      "notes": "Nokia Lumia 920 · shane e. calhoun",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-04-23 - St. Louis, MO - The Pageant [AUD].txt"
@@ -243,7 +243,7 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Covington, KY",
       "venue": "Madison Theater",
-      "notes": "DPA 4011s \u00b7 unk",
+      "notes": "DPA 4011s · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-04-30 - Covington, KY - Madison Theater (DPA 4011s) (unk) [AUD].txt"
@@ -257,7 +257,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Commodore Ballroom",
-      "notes": "CA-11 \u00b7 leifh",
+      "notes": "CA-11 · leifh",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-06-25 - Vancouver, BC - Commodore Ballroom [AUD].txt"
@@ -271,7 +271,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Farm Bureau Insurance Lawn at White River State Park",
-      "notes": "AT943s \u00b7 ironchef",
+      "notes": "AT943s · ironchef",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-07-26 - Indianapolis, Indiana - White River State Park [AUD].txt"
@@ -285,7 +285,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Lewiston, NY",
       "venue": "Artpark",
-      "notes": "CA-14s \u00b7 binko",
+      "notes": "CA-14s · binko",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-07-27 - Lewiston, NY - Artpark [AUD].txt"
@@ -313,7 +313,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Utica, NY",
       "venue": "Saranac Brewery",
-      "notes": "Sennheiser MKE \u00b7 beatkilla",
+      "notes": "Sennheiser MKE · beatkilla",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-08-02 - Utica, NY - Saranac Brewery [AUD].txt"
@@ -327,7 +327,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Emo's",
-      "notes": "Schoeps MK4 \u00b7 seedy",
+      "notes": "Schoeps MK4 · seedy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-08-13 - Austin, TX - Emo's [AUD].txt"
@@ -341,7 +341,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Madrid Theater",
-      "notes": "AT 853 \u00b7 kc moejoe",
+      "notes": "AT 853 · kc moejoe",
       "version": "AUD",
       "format": "",
       "textFile": "2019-08-14 - Kansas City, MO - Madrid Theater [AUD].txt"
