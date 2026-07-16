@@ -35,10 +35,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "Schoeps MK4 \u00b7 unk",
+      "notes": "Schoeps MK4 · unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2001-11-02 - Chicago, IL - Aragon Ballroom (Schoeps MK4) (unk) [AUD].flac.txt"
+      "textFile": "2001-11-02 - Chicago, IL - Aragon Ballroom [AUD].txt"
     },
     {
       "year": 2001,
@@ -49,7 +49,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "KM-140 \u00b7 matt lazor",
+      "notes": "KM-140 · matt lazor",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-11-02 - Chicago, IL - Aragon Ballroom [AUD].txt"
@@ -63,7 +63,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "West Lafayette, IN",
       "venue": "Edward C. Elliot Hall of Music",
-      "notes": "DAT(M) \u00b7 Neumann KM140 \u00b7 matt lazor",
+      "notes": "DAT(M) · Neumann KM140 · matt lazor",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-11-03 - West Lafayette, IN - Edward C. Elliot Hall of Music [AUD].txt"
@@ -77,7 +77,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Hill Auditorium",
-      "notes": "KM-140 \u00b7 matt lazor",
+      "notes": "KM-140 · matt lazor",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-11-04 - Ann Arbor, MI - Hill Auditorium [AUD].txt"
@@ -105,7 +105,7 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Toronto, Canada",
       "venue": "Massey Hall",
-      "notes": "DAT(M) \u00b7 Schoeps CCM4s \u00b7 duncan oldham",
+      "notes": "DAT(M) · Schoeps CCM4s · duncan oldham",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-11-07 - Toronto, Ontario - Massey Hall  [AUD].txt"
@@ -119,7 +119,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Utica, NY",
       "venue": "Utica Memorial Auditoriium",
-      "notes": "DAT(M) \u00b7 Schoeps CCM4s \u00b7 duncan oldham",
+      "notes": "DAT(M) · Schoeps CCM4s · duncan oldham",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-11-09 - Utica, NY - Utica Memorial Auditorium [AUD].txt"
@@ -147,7 +147,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "Asheville Civic Center",
-      "notes": "DAT(M) \u00b7 KM-140 \u00b7 matt lazor",
+      "notes": "DAT(M) · KM-140 · matt lazor",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-11-17 - Asheville, NC - Asheville Civic Center [AUD].txt"
@@ -161,7 +161,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "Civic Center",
-      "notes": "AKG483 \u00b7 c. cage",
+      "notes": "AKG483 · c. cage",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-11-17 - Asheville, NC - Civic Center (AKG483) (c. cage) [AUD].txt"
@@ -175,7 +175,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Manchester, TN",
       "venue": "Bonnaroo Festival",
-      "notes": "What \u00b7 DPA 4027 \u00b7 scott schneider",
+      "notes": "What · DPA 4027 · scott schneider",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-06-16 - Manchester, TN - Bonnaroo [AUD].txt"
@@ -189,7 +189,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Sweetwater 420 Festival",
-      "notes": "Sweetwater \u00b7 Schoeps CCM4vs \u00b7 z-man",
+      "notes": "Sweetwater · Schoeps CCM4vs · z-man",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-05-01 - Atlanta, GA - Sweetwater 420 Festival - Sweetwater Stage (Schoeps CCM4vs) (z-man) [AUD].txt"
