@@ -13,7 +13,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "1985-XX-XX - Incessant Mace (Demo)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - 1985-XX-XX - Incessant Mace (Demo).txt"
   },
   {
     "type": "label",
@@ -59,8 +60,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Soundgarden - Stingray (1994) (CR-5)",
     "version": "Silver CD",
-    "format": "FLAC",
-    "textFile": "MISC - Soundgarden - Stingray (1994) (CR-5) [Silver].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
@@ -93,12 +93,14 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Rage Against the Machine feat Chris Cornell \u2013 Civilian (The Demos)",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - Rage Against the Machine feat Chris Cornell \u2013 Civilian (The Demos) [Silver].txt"
   },
   {
     "type": "release",
     "label": "Soundgarden - 1989-1991 - In Concert - High Voltage",
-    "format": "Hollywood Radio Show"
+    "format": "Hollywood Radio Show",
+    "textFile": "MISC - Soundgarden - 1989-1991 - In Concert - High Voltage [Hollywood Radio Show].txt"
   },
   {
     "type": "release",
@@ -109,16 +111,19 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Soundgarden - Digging The Garden Of Sound",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - Soundgarden - Digging The Garden Of Sound [Silver].txt"
   },
   {
     "type": "release",
-    "label": "Soundgarden - Fresh Deadly Rarities"
+    "label": "Soundgarden - Fresh Deadly Rarities",
+    "textFile": "MISC - Soundgarden - Fresh Deadly Rarities.txt"
   },
   {
     "type": "release",
     "label": "Soundgarden - Live Rarities and a Demo",
-    "format": "Compilation"
+    "format": "Compilation",
+    "textFile": "MISC - Soundgarden - Live Rarities and a Demo [Compilation].txt"
   },
   {
     "type": "release",
@@ -128,6 +133,75 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Soundgarden - Stolen Prayers",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - Soundgarden - Stolen Prayers [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Soundgarden - Burden in My Hand {581 807-2} (1996)",
+    "year": 1996,
+    "format": "FLAC",
+    "category": "SINGLES",
+    "textFile": "MISC - Soundgarden - Burden in My Hand {581 807-2} (1996) [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Soundgarden - Burden in My Hand {581 855-2} (1996)",
+    "year": 1996,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Soundgarden - Outshined (Australasia) {AMCD 0102} (1992)",
+    "year": 1992,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Soundgarden - Outshined {AMCD 0102, 580102-2} (1992)",
+    "year": 1992,
+    "format": "FLAC",
+    "category": "SINGLES",
+    "textFile": "MISC - Soundgarden - 1989-1992 [preFM Compilation].txt"
+  },
+  {
+    "type": "release",
+    "label": "Soundgarden - Rusty Cage {390 874-2} (1992)",
+    "year": 1992,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Soundgarden - Rusty Cage {580 022-2 Australia} (1991)",
+    "year": 1991,
+    "format": "FLAC",
+    "category": "SINGLES",
+    "textFile": "MISC - Soundgarden - Rusty Cage {580 022-2 Australia} (1991) [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Soundgarden - Spoonman {580 526-2} (1994)",
+    "year": 1994,
+    "format": "FLAC",
+    "category": "SINGLES",
+    "textFile": "MISC - Soundgarden - Sony Music TV (1994) [TV].txt"
+  },
+  {
+    "type": "release",
+    "label": "Soundgarden - Spoonman {580 539-2} (1994)",
+    "year": 1994,
+    "format": "FLAC",
+    "category": "SINGLES",
+    "textFile": "MISC - Soundgarden - Spoonman {580 539-2} (1994) [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Soundgarden - Ty Cobb {5822112} (1997)",
+    "year": 1997,
+    "format": "FLAC",
+    "category": "SINGLES"
   }
 ];

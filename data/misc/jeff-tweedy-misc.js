@@ -4,7 +4,8 @@ const ARTIST_MISC_DATA = [
     "label": "1997-2003 - The Collected Jeff Tweedy (Compilation)",
     "format": "FLAC",
     "year": 1997,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 1997-2003 - The Collected Jeff Tweedy [COMPILATION].txt"
   },
   {
     "type": "release",

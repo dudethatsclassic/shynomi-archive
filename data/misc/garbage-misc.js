@@ -2,7 +2,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Garbage - Hollywood Is Garbage (Slavesound Omnis) (mixter_)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Garbage - Hollywood Is Garbage (Slavesound Omnis) (mixter_) [AUD].txt"
   },
   {
     "type": "label",

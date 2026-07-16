@@ -3665,7 +3665,7 @@ const ARTIST_DATA = {
       "notes": "Rock",
       "version": "TV",
       "format": "DVD",
-      "textFile": "2012-06-01 - Nurburg, Germany - Nürburgring - Rock am Ring [TV].txt"
+      "textFile": "2012-06-01 - Nurburg, Germany - N\u00fcrburgring - Rock am Ring [TV].txt"
     },
     {
       "year": 2012,
@@ -3679,7 +3679,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 \u00b7 dagobert",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-06-03- Nürnberg, Germany - Rock im Park (SP-CMC-8) (dagobert) [AUD].txt"
+      "textFile": "2012-06-03- N\u00fcrnberg, Germany - Rock im Park (SP-CMC-8) (dagobert) [AUD].txt"
     },
     {
       "year": 2012,
@@ -4388,7 +4388,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2014-07-13 - Montreal, Quebec - Le MÈtropolis [AUD].txt"
+      "textFile": "2014-07-13 - Montreal, Quebec - Le M\u00c8tropolis [AUD].txt"
     },
     {
       "year": 2014,

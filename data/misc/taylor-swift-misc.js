@@ -5,6 +5,7 @@ const ARTIST_MISC_DATA = [
     "version": "TV",
     "format": "TS",
     "year": 2010,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Taylor Swift- Today Show 2010 [TV].txt"
   }
 ];

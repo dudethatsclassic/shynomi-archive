@@ -5,7 +5,8 @@ const ARTIST_MISC_DATA = [
     "version": "Cassette",
     "format": "FLAC HD",
     "year": 1986,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Primus - Primus Sucks Demo Tape (1986) 24-96 [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -19,7 +20,8 @@ const ARTIST_MISC_DATA = [
     "label": "XX-XX-1988 - Sausage Demos",
     "format": "FLAC",
     "year": 1988,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 1988-XX-XX - Sausage Demos.txt"
   },
   {
     "type": "release",
@@ -51,7 +53,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1990,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 1990-11-XX - Rome, Italy - Master Of Puppies [Silver].txt"
   },
   {
     "type": "release",
@@ -59,13 +62,15 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1990,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 1990-11-XX - Rome, Italy - 91 Tour [Silver].txt"
   },
   {
     "type": "release",
     "label": "Rarities Compilation",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Primus - Rarities Compilation.txt"
   },
   {
     "type": "release",
@@ -110,21 +115,24 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Primus - Videoplasty (VHS Rip) [WMV]",
     "format": "WMV",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Primus - Videoplasty (VHS Rip) [WMV].txt"
   },
   {
     "type": "release",
     "label": "Primus - Hallucino-Genetics (2004)",
     "format": "DVD",
     "year": 2004,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Primus - Hallucino-Genetics (2004) [DVD].txt"
   },
   {
     "type": "release",
     "label": "Primus - Blame It On The Fish (2006)",
     "format": "DVD",
     "year": 2006,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Primus - Blame It On The Fish (2006) [DVD].txt"
   },
   {
     "type": "release",
@@ -159,7 +167,8 @@ const ARTIST_MISC_DATA = [
     "label": "Primus - Miscellaneous Debris (1992) (2018) (24/192)",
     "format": "FLAC HD",
     "year": 1992,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Primus - 1992 - Miscellaneous Debris (2018) (24_192) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -263,7 +272,8 @@ const ARTIST_MISC_DATA = [
     "label": "Primus - Primus & the Chocolate Factory With the Fungi Ensemble (2014) [ATO 0250]",
     "format": "FLAC",
     "year": 2014,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Primus - Primus & the Chocolate Factory With the Fungi Ensemble (2014) (24_44.1) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -277,7 +287,8 @@ const ARTIST_MISC_DATA = [
     "label": "Primus - Primus & the Chocolate Factory With the Fungi Ensemble (2014) (24/44.1)",
     "format": "FLAC HD",
     "year": 2014,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Primus - Primus & the Chocolate Factory With the Fungi Ensemble (2014) [ATO0250] [CD FLAC].txt"
   },
   {
     "type": "release",
@@ -291,6 +302,33 @@ const ARTIST_MISC_DATA = [
     "label": "Primus - The Desaturating Seven (2017) (24/44.1)",
     "format": "FLAC HD",
     "year": 2017,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Primus - The Desaturating Seven (2017) [ATO 0404] [CD FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Primus - First In Line (Live!) (1994) (EXX-52522)",
+    "year": 1994,
+    "version": "Silver CD",
+    "textFile": "MISC - Primus - First In Line (Live!) (1994) (EXX-52522) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Primus - Masters Of Puppies (1990 Tour) (1992) (LM02)",
+    "year": 1992,
+    "version": "Silver CD",
+    "textFile": "MISC - Primus - Masters Of Puppies (1990 Tour) (1992) (LM02) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Primus - Paradiso Amsterdam 1990 (1994) (HJ 009-10)",
+    "year": 1994,
+    "version": "Silver CD",
+    "textFile": "MISC - Primus - Paradiso Amsterdam 1990 (1994) (HJ 009-10) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Primus - Welcome To This World (Demo)",
+    "format": "MP3-LOSSY"
   }
 ];

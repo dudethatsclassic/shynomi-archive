@@ -5,6 +5,7 @@ const ARTIST_MISC_DATA = [
     "version": "FM",
     "format": "FLAC",
     "year": 1995,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Belly - Chicago 1995 & Annapolis 1996 - CASS(M) (stevemtl transfer) [FM].txt"
   }
 ];

@@ -32,7 +32,8 @@ const ARTIST_MISC_DATA = [
     "label": "03-27 - London, UK - Shepherd's Bush Empire (FOH Series)",
     "year": 1999,
     "format": "SBD",
-    "category": "FRONT OF HOUSE SERIES"
+    "category": "FRONT OF HOUSE SERIES",
+    "textFile": "MISC - 1999-03-27 - London, UK - Shepherd's Bush Empire (FOH Series) [SBD].txt"
   },
   {
     "type": "release",
@@ -60,7 +61,8 @@ const ARTIST_MISC_DATA = [
     "label": "12-03 - San Francisco, CA - Fillmore (FOH Series)",
     "year": 2001,
     "format": "SBD",
-    "category": "FRONT OF HOUSE SERIES"
+    "category": "FRONT OF HOUSE SERIES",
+    "textFile": "MISC - 2001-12-03 - San Francisco, CA - Fillmore (FOH Series) [SBD].txt"
   },
   {
     "type": "release",
@@ -88,7 +90,8 @@ const ARTIST_MISC_DATA = [
     "label": "06-28 - Philadelphia, PA - Festival Pier at Penn's Landing (FOH Series)",
     "year": 2003,
     "format": "SBD",
-    "category": "FRONT OF HOUSE SERIES"
+    "category": "FRONT OF HOUSE SERIES",
+    "textFile": "MISC - 2003-06-28 - Philadelphia, PA - Festival Pier at Penn's Landing (FOH Series) [SBD].txt"
   },
   {
     "type": "release",
@@ -109,21 +112,24 @@ const ARTIST_MISC_DATA = [
     "label": "12-31 - New York, NY - Madison Square Garden (FOH Series)",
     "year": 2004,
     "format": "SBD",
-    "category": "FRONT OF HOUSE SERIES"
+    "category": "FRONT OF HOUSE SERIES",
+    "textFile": "MISC - 2004-12-31 - New York, NY - Madison Square Garden (FOH Series) [SBD].txt"
   },
   {
     "type": "release",
     "label": "09-08 - Cologne, DE - Live Music Hall (FOH Series)",
     "year": 2005,
     "format": "SBD",
-    "category": "FRONT OF HOUSE SERIES"
+    "category": "FRONT OF HOUSE SERIES",
+    "textFile": "MISC - 2005-09-08 - Cologne, DE - Live Music Hall (FOH Series) [SBD].txt"
   },
   {
     "type": "release",
     "label": "11-17 - New York, NY - Tribeca Performing Arts Center (Tweedy) (FOH Series)",
     "year": 2005,
     "format": "SBD",
-    "category": "FRONT OF HOUSE SERIES"
+    "category": "FRONT OF HOUSE SERIES",
+    "textFile": "MISC - 2005-11-17 - New York, NY - Tribeca Performing Arts Center (Tweedy) (FOH Series) [SBD].txt"
   },
   {
     "type": "release",
@@ -144,7 +150,8 @@ const ARTIST_MISC_DATA = [
     "label": "07-13 - Fredericton, NB - The Playhouse (FOH Series)",
     "year": 2006,
     "format": "SBD",
-    "category": "FRONT OF HOUSE SERIES"
+    "category": "FRONT OF HOUSE SERIES",
+    "textFile": "MISC - 2006-07-13 - Fredericton, NB - The Playhouse (FOH Series) [SBD].txt"
   },
   {
     "type": "release",
@@ -172,7 +179,8 @@ const ARTIST_MISC_DATA = [
     "label": "03-09 - Des Moines, IA - Val Air Ballroom (FOH Series)",
     "year": 2008,
     "format": "SBD",
-    "category": "FRONT OF HOUSE SERIES"
+    "category": "FRONT OF HOUSE SERIES",
+    "textFile": "MISC - 2008-03-09 - Des Moines, IA - Val Air Ballroom (FOH Series) [SBD].txt"
   },
   {
     "type": "release",
@@ -207,14 +215,16 @@ const ARTIST_MISC_DATA = [
     "label": "04-02 - Montclair, NJ - Wellmont Theatre (FOH Series)",
     "year": 2010,
     "format": "SBD",
-    "category": "FRONT OF HOUSE SERIES"
+    "category": "FRONT OF HOUSE SERIES",
+    "textFile": "MISC - 2010-04-02 - Montclair, NJ - Wellmont Theatre (FOH Series) [SBD].txt"
   },
   {
     "type": "release",
     "label": "04-03 - Montclair, NJ -Wellmont Theatre (FOH Series)",
     "year": 2010,
     "format": "SBD",
-    "category": "FRONT OF HOUSE SERIES"
+    "category": "FRONT OF HOUSE SERIES",
+    "textFile": "MISC - 2010-04-03 - Montclair, NJ -Wellmont Theatre (FOH Series) [SBD].txt"
   },
   {
     "type": "release",
@@ -291,7 +301,8 @@ const ARTIST_MISC_DATA = [
     "label": "03-13 - Brisbane, AUS - The Princess Theater (FOH Series)",
     "year": 2024,
     "format": "SBD",
-    "category": "FRONT OF HOUSE SERIES"
+    "category": "FRONT OF HOUSE SERIES",
+    "textFile": "MISC - 2024-03-13 - Brisbane, AUS - The Princess Theater (FOH Series) [SBD].txt"
   },
   {
     "type": "release",
@@ -1119,19 +1130,22 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Wilco - Summerteeth Demos",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Wilco - Summerteeth Demos.txt"
   },
   {
     "type": "release",
     "label": "Wilco - Yankee Hotel Foxtrot - Super Deluxe (Version 2)",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Wilco - Yankee Hotel Foxtrot - Super Deluxe - Version 2.txt"
   },
   {
     "type": "release",
     "label": "Wilco - Yankee Hotel Foxtrot - Complete Demos",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Wilco - Yankee Hotel Foxtrot Complete Demos.txt"
   },
   {
     "type": "release",
@@ -1152,7 +1166,8 @@ const ARTIST_MISC_DATA = [
     "label": "Billy Bragg and Wilco - Mermaid Avenue Demos - Chicago, IL 1998",
     "format": "FLAC",
     "year": 1998,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Billy Bragg and Wilco - Mermaid Avenue Demos - Chicago, IL (1998).txt"
   },
   {
     "type": "release",
@@ -1187,14 +1202,16 @@ const ARTIST_MISC_DATA = [
     "label": "Wilco - A Ghost Is Born Fundamentals (Tracked) (2025)",
     "format": "FLAC",
     "year": 2025,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Wilco - A Ghost Is Born Fundamentals (Tracked) (2025) [FLAC].txt"
   },
   {
     "type": "release",
     "label": "Wilco - The Collected Wilco 1995-2002 (4 CD)",
     "format": "FLAC",
     "year": 1995,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Wilco - YHF Demos (2002) [FLAC].txt"
   },
   {
     "type": "release",
@@ -1306,5 +1323,10 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2002,
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Wilco - AGIB Tour Compilation",
+    "textFile": "MISC - Wilco - AGIB Tour Compilation.txt"
   }
 ];

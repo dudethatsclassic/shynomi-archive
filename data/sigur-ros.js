@@ -64,7 +64,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "",
-      "textFile": "1999-06-12 - Reyjkavík, Iceland - Icelandic Opera House [SBD].txt"
+      "textFile": "1999-06-12 - Reyjkav\u00edk, Iceland - Icelandic Opera House [SBD].txt"
     },
     {
       "year": 1999,
@@ -686,7 +686,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "TV",
       "format": "",
-      "textFile": "2001-12-14 - Craig Kilborn Show - Njósnavélin [TV].rtf"
+      "textFile": "2001-12-14 - Craig Kilborn Show - Nj\u00f3snav\u00e9lin [TV].rtf"
     },
     {
       "year": 2002,
@@ -2038,7 +2038,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2006-07-02 - Belfort, France - Les Eurockéennes de Belfort (ECM 719) [AUD].txt"
+      "textFile": "2006-07-02 - Belfort, France - Les Eurock\u00e9ennes de Belfort (ECM 719) [AUD].txt"
     },
     {
       "year": 2006,
@@ -2094,7 +2094,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2006-07-12 - Luxembourg, Luxembourg - Neumünster Abbey [AUD].txt"
+      "textFile": "2006-07-12 - Luxembourg, Luxembourg - Neum\u00fcnster Abbey [AUD].txt"
     },
     {
       "year": 2006,
@@ -2497,7 +2497,7 @@ const ARTIST_DATA = {
       "notes": "Fort",
       "version": "AUD",
       "format": "",
-      "textFile": "2008-08-15 - Saint-Malo, France - La Route du Rock - Fort de Saint-Père (DPA 4061) [AUD24].txt"
+      "textFile": "2008-08-15 - Saint-Malo, France - La Route du Rock - Fort de Saint-P\u00e8re (DPA 4061) [AUD24].txt"
     },
     {
       "year": 2008,
@@ -2679,7 +2679,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2008-11-15 - Paris, France - Le Zénith (AT943) [AUD].txt"
+      "textFile": "2008-11-15 - Paris, France - Le Z\u00e9nith (AT943) [AUD].txt"
     },
     {
       "year": 2008,
@@ -3321,7 +3321,7 @@ const ARTIST_DATA = {
       "notes": "Junge",
       "version": "WEB",
       "format": "",
-      "textFile": "2013-06-19 - Dresden, Germany - Freilichtbühne Großer Garten - Junge Garde [WEB].txt"
+      "textFile": "2013-06-19 - Dresden, Germany - Freilichtb\u00fchne Gro\u00dfer Garten - Junge Garde [WEB].txt"
     },
     {
       "year": 2013,
@@ -3335,7 +3335,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Webcast",
       "format": "",
-      "textFile": "2013-06-21 - Scheeßel, Germany - Eichenring - Hurricane Festival [WEBCAST].txt"
+      "textFile": "2013-06-21 - Schee\u00dfel, Germany - Eichenring - Hurricane Festival [WEBCAST].txt"
     },
     {
       "year": 2013,
@@ -4299,7 +4299,7 @@ const ARTIST_DATA = {
       "notes": "Line Audio CM4 \u00b7 pieteker",
       "version": "AUD",
       "format": "",
-      "textFile": "2025-10-05 - Amsterdam, NL - Royal Theatre Carré (Line Audio CM4) (pieteker) [AUD].txt"
+      "textFile": "2025-10-05 - Amsterdam, NL - Royal Theatre Carr\u00e9 (Line Audio CM4) (pieteker) [AUD].txt"
     },
     {
       "year": 2025,

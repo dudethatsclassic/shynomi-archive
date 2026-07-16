@@ -5,6 +5,7 @@ const ARTIST_MISC_DATA = [
     "version": "FM",
     "format": "FLAC",
     "year": 1992,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Sebadoh - BBC Sessions 1992-1995 [FM].txt"
   }
 ];
