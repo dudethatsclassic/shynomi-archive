@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "superdrag",
   "name": "Superdrag",
   "drive": "E",
-  "showCount": 9,
+  "showCount": 10,
   "firstYear": 1996,
   "lastYear": 2026,
   "years": [
@@ -137,6 +137,19 @@ const ARTIST_DATA = {
       "location": "Madison, TN",
       "venue": "Eastside Bowl",
       "notes": "CA-14 Cardioids · charlesdeweycoleiv",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 27,
+      "dateStr": "6-27-2026",
+      "city": "Madison",
+      "state": "TN",
+      "location": "Madison, TN",
+      "venue": "Eastside Bowl",
+      "notes": "CA-14 · charlesdeweycoleiv",
       "version": "AUD",
       "format": "FLAC"
     }
