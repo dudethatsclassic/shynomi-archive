@@ -289,7 +289,7 @@ const ARTISTS = [
   {
     "id": "blake-babies",
     "name": "Blake Babies",
-    "showCount": 1,
+    "showCount": 2,
     "firstYear": 1991,
     "lastYear": 1991
   },
@@ -2543,8 +2543,8 @@ const ARTISTS = [
   {
     "id": "spin-doctors",
     "name": "Spin Doctors",
-    "showCount": 5,
-    "firstYear": 1991,
+    "showCount": 6,
+    "firstYear": 1990,
     "lastYear": 1992
   },
   {
@@ -2662,7 +2662,7 @@ const ARTISTS = [
   {
     "id": "superdrag",
     "name": "Superdrag",
-    "showCount": 9,
+    "showCount": 10,
     "firstYear": 1996,
     "lastYear": 2026
   },
