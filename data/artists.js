@@ -2550,7 +2550,7 @@ const ARTISTS = [
   {
     "id": "sponge",
     "name": "Sponge",
-    "showCount": 18,
+    "showCount": 19,
     "firstYear": 1995,
     "lastYear": 2026
   },
