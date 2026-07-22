@@ -72,9 +72,9 @@ const ARTISTS = [
   {
     "id": "all-time-low",
     "name": "All Time Low",
-    "showCount": 3,
-    "firstYear": 2022,
-    "lastYear": 2025
+    "showCount": 5,
+    "firstYear": 2009,
+    "lastYear": 2026
   },
   {
     "id": "american-football",
@@ -1066,7 +1066,7 @@ const ARTISTS = [
   {
     "id": "herbie-hancock",
     "name": "Herbie Hancock",
-    "showCount": 14,
+    "showCount": 17,
     "firstYear": 1971,
     "lastYear": 1987
   },
@@ -1556,7 +1556,7 @@ const ARTISTS = [
   {
     "id": "low",
     "name": "Low",
-    "showCount": 10,
+    "showCount": 11,
     "firstYear": 1993,
     "lastYear": 2016
   },
@@ -1612,7 +1612,7 @@ const ARTISTS = [
   {
     "id": "mammoth",
     "name": "Mammoth",
-    "showCount": 18,
+    "showCount": 19,
     "firstYear": 2023,
     "lastYear": 2026
   },
@@ -1654,9 +1654,9 @@ const ARTISTS = [
   {
     "id": "matthew-good",
     "name": "Matthew Good",
-    "showCount": 4,
+    "showCount": 5,
     "firstYear": 2005,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "matthew-sweet",
@@ -1941,7 +1941,7 @@ const ARTISTS = [
   {
     "id": "old-97-s",
     "name": "Old 97's",
-    "showCount": 8,
+    "showCount": 9,
     "firstYear": 1996,
     "lastYear": 2026
   },
@@ -2298,9 +2298,9 @@ const ARTISTS = [
   {
     "id": "sarah-mclachlan",
     "name": "Sarah McLachlan",
-    "showCount": 7,
-    "firstYear": 2004,
-    "lastYear": 2025
+    "showCount": 9,
+    "firstYear": 2003,
+    "lastYear": 2026
   },
   {
     "id": "satchel",
@@ -2368,7 +2368,7 @@ const ARTISTS = [
   {
     "id": "sepultura",
     "name": "Sepultura",
-    "showCount": 5,
+    "showCount": 7,
     "firstYear": 1990,
     "lastYear": 1996
   },
@@ -2676,9 +2676,9 @@ const ARTISTS = [
   {
     "id": "swell-season",
     "name": "Swell Season",
-    "showCount": 23,
+    "showCount": 24,
     "firstYear": 2006,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "swervedriver",
