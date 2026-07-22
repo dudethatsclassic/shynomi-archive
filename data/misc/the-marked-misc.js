@@ -1,36 +1,44 @@
 const ARTIST_MISC_DATA = [
   {
-    "type": "label",
+    "type": "release",
     "label": "The Marked - Joliet Demos",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "The Marked - Demos (August-September 1986)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1986,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "The Marked - August '86 Demos",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "The Marked - Attic Rehearsal",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Corgan & Roesing Demos (1985-1987)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 1985,
+    "category": "OTHER"
   },
   {
     "type": "label",
     "label": "XX-XX-1986 / The Marked - Nothing Ever Changes (dave asselin source)"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "The Marked - Music Videos (VHS Transfer)",
-    "format": "DVD"
+    "format": "DVD",
+    "category": "OTHER"
   }
 ];
