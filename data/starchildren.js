@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Double Door (NSPAA)",
-      "notes": "ANA(M) \u00b7 Realistic",
+      "notes": "ANA(M) · Realistic",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-06-18 - Chicago, IL - Double Door (NSPAA) - ANA(M) (Realistic) [AUD].txt"
