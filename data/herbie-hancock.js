@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "herbie-hancock",
   "name": "Herbie Hancock",
   "drive": "B",
-  "showCount": 15,
+  "showCount": 17,
   "firstYear": 1971,
   "lastYear": 1987,
   "years": [
@@ -11,6 +11,7 @@ const ARTIST_DATA = {
     1974,
     1975,
     1977,
+    1978,
     1987
   ],
   "shows": [
@@ -51,7 +52,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Mwandishi Band",
-      "notes": "Jazz \u00b7 WBCN FM",
+      "notes": "Jazz · WBCN FM",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1973-03-21 - Boston, MA - Mwandishi Band - Jazz Workshop [FM].txt"
@@ -65,7 +66,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Hempstead, NY",
       "venue": "Ultrasonic Studios",
-      "notes": "mr_mags \u00b7 goody pitch adjusted",
+      "notes": "mr_mags · goody pitch adjusted",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1973-10-01 - Hempstead, NY - Ultrasonic Studios (mr_mags) (goody pitch adjusted) [FM].txt"
@@ -93,7 +94,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Lenox, MA",
       "venue": "Music Inn",
-      "notes": "unk \u00b7 goody remaster",
+      "notes": "unk · goody remaster",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1974-08-31 - Lenox, MA - Music Inn (unk) (goody remaster) [AUD].txt"
@@ -111,6 +112,19 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "FLAC",
       "textFile": "1974-10-16 - Kansas City, MO - Uptown Theater  [FM].txt"
+    },
+    {
+      "year": 1974,
+      "month": 11,
+      "day": null,
+      "dateStr": "11-XX-1974",
+      "city": "Bremen",
+      "state": "Germany",
+      "location": "Bremen, Germany",
+      "venue": "Musikladen",
+      "notes": "TV-VHS",
+      "version": "TV",
+      "format": "DVD"
     },
     {
       "year": 1974,
@@ -204,8 +218,21 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theatre",
-      "notes": "VSOP \u00b7 Hubbard, Shorter, Williams, Carter",
+      "notes": "VSOP · Hubbard, Shorter, Williams, Carter",
       "version": "FM",
+      "format": "FLAC"
+    },
+    {
+      "year": 1978,
+      "month": 9,
+      "day": 28,
+      "dateStr": "9-28-1978",
+      "city": "Tokyo",
+      "state": "Japan",
+      "location": "Tokyo, Japan",
+      "venue": "Sun Plaza",
+      "notes": "unk",
+      "version": "AUD",
       "format": "FLAC"
     },
     {
