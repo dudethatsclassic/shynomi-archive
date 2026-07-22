@@ -33,7 +33,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Sports Arena",
-      "notes": "Realistic Walkman \u00b7 michael cariola",
+      "notes": "Realistic Walkman · michael cariola",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-06-03 - San Diego, CA - Sports Arena (Realistic Walkman) (michael cariola) [AUD] .txt"
@@ -47,7 +47,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Sphere",
-      "notes": "DPA 4061 \u00b7 opsopcopolis",
+      "notes": "DPA 4061 · opsopcopolis",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-06-12 - Las Vegas, NV - Sphere (DPA 4061) (opsopcopolis) [AUD24].txt"
