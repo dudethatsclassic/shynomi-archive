@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "wilco",
   "name": "Wilco",
   "drive": "E",
-  "showCount": 1271,
+  "showCount": 1273,
   "firstYear": 1994,
   "lastYear": 2026,
   "years": [
@@ -13580,6 +13580,19 @@ const ARTIST_DATA = {
       "city": "Raleigh",
       "state": "NC",
       "location": "Raleigh, NC",
+      "venue": "Museum Of Art",
+      "notes": "FOH Series",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2014,
+      "month": 10,
+      "day": 25,
+      "dateStr": "10-25-2014",
+      "city": "Raleigh",
+      "state": "NC",
+      "location": "Raleigh, NC",
       "venue": "NC Museum of Art",
       "notes": "",
       "version": "AUD",
@@ -17689,6 +17702,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-06-27 - North Adams, MA - Solid Sound Festival - MASS MoCA (AKG CK-63) (km) [AUD24].txt"
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "day": 14,
+      "dateStr": "7-14-2026",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "location": "Virginia Beach, VA",
+      "venue": "The Dome",
+      "notes": "Zoom Insta-mic Stereo · unk",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
   ]
 };
