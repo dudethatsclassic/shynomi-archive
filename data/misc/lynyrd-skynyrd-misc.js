@@ -37,11 +37,5 @@ const ARTIST_MISC_DATA = [
     "year": 1975,
     "category": "OTHER",
     "textFile": "MISC - Lynyrd Skynrd - Old Grey Whistle Test (1975) [TV].txt"
-  },
-  {
-    "type": "release",
-    "label": "Lynyrd Skynyrd - Double Trouble",
-    "version": "Silver CD",
-    "textFile": "MISC - Lynyrd Skynyrd - Double Trouble [Silver].txt"
   }
 ];
