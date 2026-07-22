@@ -3,71 +3,88 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "30 Days With Billy Corgan (YouTube 1080 rip)",
     "version": "WEB",
-    "format": "MP4"
+    "format": "MP4",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "William Patrick Corgan - Ogilala Live Box",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Billy Corgan - Now and Then (Alternate Version)",
-    "format": "MP3"
+    "format": "MP3",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "The Frogs - Fruit Bat Salad (Vol. 2)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Billy Corgan - Answering Machine Message To Mike Potential",
-    "format": "MP3"
+    "format": "MP3",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Billy Corgan - 2004-04-19 - Chicago Songs",
-    "format": "FLAC"
+    "format": "FLAC",
+    "year": 2004,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Billy Corgan - Tilt (Lossless)",
-    "format": "WAV"
+    "format": "WAV",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Billy Corgan - TheFutureEmbrace Short Film (Full [MP4]",
-    "format": "MP4"
+    "format": "MP4",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Billy Corgan - Walking Shade [MPG]",
-    "format": "MPG"
+    "format": "MPG",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Billy Corgan - Pillbox [MP4]",
-    "format": "MP4"
+    "format": "MP4",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Billy Corgan - 'Neath The Darkest Eves'",
-    "format": "MP4"
+    "format": "MP4",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Billy Corgan - Billy Corgan Programming Rage + Videos (2005-08-27)",
-    "format": "DVD"
+    "format": "DVD",
+    "year": 2005,
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Billy Corgan - Through the Night with Billy Corgan (2008-02-25)",
-    "format": "DVD"
+    "format": "DVD",
+    "year": 2008,
+    "category": "OTHER"
   },
   {
-    "type": "label",
-    "label": "NEW ORDER (Billy Corgan on bass)"
+    "type": "release",
+    "label": "NEW ORDER (Billy Corgan on bass)",
+    "category": "OTHER"
   },
   {
     "type": "show",
@@ -79,7 +96,7 @@ const ARTIST_MISC_DATA = [
     "state": "UK",
     "location": "Liverpool, UK",
     "venue": "Olympia",
-    "notes": "unk \u00b7 ukkevinl transfer",
+    "notes": "unk · ukkevinl transfer",
     "version": "AUD",
     "format": "FLAC"
   },
@@ -121,7 +138,7 @@ const ARTIST_MISC_DATA = [
     "state": "WA",
     "location": "George, WA",
     "venue": "Gorge Ampitheater",
-    "notes": "unk \u00b7 swinburn",
+    "notes": "unk · swinburn",
     "version": "AUD",
     "format": "FLAC"
   },
@@ -152,5 +169,26 @@ const ARTIST_MISC_DATA = [
     "notes": "thir13en remaster",
     "version": "SBD",
     "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "William Patrick Corgan - AEGEA (2014)",
+    "format": "FLAC",
+    "year": 2014,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "William Patrick Corgan - Ogilala  (2017)",
+    "format": "FLAC",
+    "year": 2017,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "William Patrick Corgan - Cotillions (2019)",
+    "format": "FLAC",
+    "year": 2019,
+    "category": "OFFICIAL RELEASES"
   }
 ];
