@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "sepultura",
   "name": "Sepultura",
   "drive": "A",
-  "showCount": 5,
+  "showCount": 7,
   "firstYear": 1990,
   "lastYear": 1996,
   "years": [
@@ -45,6 +45,19 @@ const ARTIST_DATA = {
       "month": 11,
       "day": 16,
       "dateStr": "11-16-1993",
+      "city": "Sesto San Giovanni",
+      "state": "Italy",
+      "location": "Sesto San Giovanni, Italy",
+      "venue": "PalaSesto *Welcome To The End Of The World {KTS 289}",
+      "notes": "",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1993,
+      "month": 11,
+      "day": 16,
+      "dateStr": "11-16-1993",
       "city": "Giovanni",
       "state": "Italy - Live at PalaSesto",
       "location": "Giovanni, Italy - Live at PalaSesto, Sesto San *Live and Alive",
@@ -78,6 +91,19 @@ const ARTIST_DATA = {
       "venue": "Monsters of Rock",
       "notes": "Donington",
       "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1996,
+      "month": 12,
+      "day": 15,
+      "dateStr": "12-15-1996",
+      "city": "San Colombano al Lambro",
+      "state": "Italy",
+      "location": "San Colombano al Lambro, Italy",
+      "venue": "Canguro Music Box (thrash) {RZCD 080}",
+      "notes": "",
+      "version": "Silver CD",
       "format": "FLAC"
     }
   ]
