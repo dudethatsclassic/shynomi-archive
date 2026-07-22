@@ -34,7 +34,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "World's Fair Park",
-      "notes": "ANA(M) \u00b7 GE VSP \u00b7 bobc",
+      "notes": "ANA(M) · GE VSP · bobc",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-08-25 - Knoxville, TN - World's Fair Park - ANA(M) (GE VSP) (bobc) [AUD].txt"
@@ -48,7 +48,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "Bridge \u00b7 unk \u00b7 neekrive",
+      "notes": "Bridge · unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -61,7 +61,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Wilkesboro, NC",
       "venue": "Merlefest",
-      "notes": "DAT(M) \u00b7 Sony D8 \u00b7 unk",
+      "notes": "DAT(M) · Sony D8 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-04-29 - Wilkesboro, NC - Merlefest - DAT(M) (Sony D8) (unk) [AUD].txt"
@@ -75,7 +75,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Bethel, NY",
       "venue": "Bethel Woods Center for the Arts",
-      "notes": "Schoeps MK41vs \u00b7 radio_w_b",
+      "notes": "Schoeps MK41vs · radio_w_b",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-06-27 - Bethel, NY - Bethel Woods Center for the Arts (Schoeps MK41vs) (radio_w_b) [AUD].txt"
