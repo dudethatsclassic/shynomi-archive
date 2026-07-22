@@ -42,10 +42,5 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2000,
     "category": "SINGLES"
-  },
-  {
-    "type": "release",
-    "label": "Goo Goo Dolls - Live in Buffalo 2004",
-    "format": "MKV"
   }
 ];
