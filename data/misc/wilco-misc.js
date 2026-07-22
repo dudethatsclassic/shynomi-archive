@@ -1323,10 +1323,5 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2002,
     "category": "SINGLES"
-  },
-  {
-    "type": "release",
-    "label": "Wilco - AGIB Tour Compilation",
-    "textFile": "MISC - Wilco - AGIB Tour Compilation.txt"
   }
 ];
