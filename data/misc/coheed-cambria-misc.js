@@ -5,10 +5,5 @@ const ARTIST_MISC_DATA = [
     "version": "Official",
     "format": "DVD",
     "category": "OTHER"
-  },
-  {
-    "type": "release",
-    "label": "Coheed and Cambria - Live at the Starland Ballroom",
-    "format": "DVD"
   }
 ];
