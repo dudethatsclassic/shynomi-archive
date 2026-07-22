@@ -14,11 +14,5 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC HD",
     "year": 2024,
     "category": "OTHER"
-  },
-  {
-    "type": "release",
-    "label": "Collective Soul - Live At The Print Shop (2024)",
-    "year": 2024,
-    "format": "FLAC HD"
   }
 ];
