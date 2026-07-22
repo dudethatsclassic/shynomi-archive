@@ -1199,7 +1199,7 @@ const ARTISTS = [
   {
     "id": "jeff-tweedy",
     "name": "Jeff Tweedy",
-    "showCount": 243,
+    "showCount": 242,
     "firstYear": 1994,
     "lastYear": 2026
   },
@@ -3215,7 +3215,7 @@ const ARTISTS = [
   {
     "id": "wilco",
     "name": "Wilco",
-    "showCount": 1271,
+    "showCount": 1273,
     "firstYear": 1994,
     "lastYear": 2026
   },
