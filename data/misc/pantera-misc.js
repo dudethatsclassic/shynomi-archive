@@ -86,12 +86,5 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "category": "OTHER",
     "textFile": "MISC - Dimebag Darrell - Whiskey Road Demo [FLAC].txt"
-  },
-  {
-    "type": "release",
-    "label": "Pantera - 1992 - WW1 Absolutely Live High Voltage",
-    "version": "preFM",
-    "format": "preFM",
-    "textFile": "MISC - Pantera - 1992 - WW1 Absolutely Live High Voltage [preFM].txt"
   }
 ];
