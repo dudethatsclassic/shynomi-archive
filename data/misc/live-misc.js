@@ -92,15 +92,5 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2007,
     "category": "OTHER"
-  },
-  {
-    "type": "release",
-    "label": "XX-XX - Columbia, PA - Throwing Copper Churchbox Demo",
-    "year": 1993
-  },
-  {
-    "type": "release",
-    "label": "Live - 2000-04-XX - The Acoustic Sessions - Jack Flash Records JFR 006) (inc)",
-    "format": "FM"
   }
 ];
