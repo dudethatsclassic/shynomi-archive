@@ -20,7 +20,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Abbey Pub",
-      "notes": "DAT(M) \u00b7 unk \u00b7 aadam jacobs",
+      "notes": "DAT(M) · unk · aadam jacobs",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2002-02-23 - Chicago, IL - Abbey Pub - DAT(M) (unk) (aadam jacobs) [AUD24].txt"
@@ -34,7 +34,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Schubas Tavern",
-      "notes": "DAT(M) \u00b7 unk \u00b7 aadam jacobs",
+      "notes": "DAT(M) · unk · aadam jacobs",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2002-11-08 - Chicago, IL - Schubas Tavern - DAT(M) (unk) (aadam jacobs) [AUD24].txt"
@@ -48,7 +48,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver , BC",
       "venue": "Venue Nightclub",
-      "notes": "CM-54 \u00b7 dennis orr",
+      "notes": "CM-54 · dennis orr",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2015-05-01 - Vancouver , BC - Venue Nightclub (CM-54) (dennis orr) [AUD24].txt"
@@ -62,7 +62,7 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Hamilton",
-      "notes": "LG V60 \u00b7 hemisphire",
+      "notes": "LG V60 · hemisphire",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-02-02 - Washington, DC - The Hamilton (LG V60) (hemisphire) [AUD].txt"
