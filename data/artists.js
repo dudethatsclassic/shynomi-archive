@@ -2893,7 +2893,7 @@ const ARTISTS = [
   {
     "id": "the-offspring",
     "name": "The Offspring",
-    "showCount": 102,
+    "showCount": 103,
     "firstYear": 1991,
     "lastYear": 2026
   },
