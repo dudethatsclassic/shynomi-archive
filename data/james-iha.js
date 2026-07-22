@@ -73,7 +73,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Mercury Lounge",
-      "notes": "MD \u00b7 CSB \u00b7 spfreak77",
+      "notes": "MD · CSB · spfreak77",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-03-31 - New York, NY - Mercury Lounge (CSB) [AUD].txt"
@@ -87,7 +87,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Mercury Lounge",
-      "notes": "ANA(?) \u00b7 CSBmod",
+      "notes": "ANA(?) · CSBmod",
       "version": "",
       "format": "FLAC",
       "textFile": "1998-03-31 - New York, NY - Mercury Lounge [AUD].txt"
@@ -101,7 +101,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Saitama, Japan",
       "venue": "EMI Rocks",
-      "notes": "Saitama \u00b7 unk",
+      "notes": "Saitama · unk",
       "version": "AUD",
       "format": "MP3"
     },
@@ -114,7 +114,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Unknown",
-      "notes": "CA-14s \u00b7 spfreak77",
+      "notes": "CA-14s · spfreak77",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-10-07 - Philadelphia, PA - World Cafe Live [AUD].txt"
@@ -128,7 +128,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "World Cafe",
-      "notes": "CSB \u00b7 spfreak77",
+      "notes": "CSB · spfreak77",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-11-23 - Philadelphia, PA - World Cafe Live [AUD].txt"
