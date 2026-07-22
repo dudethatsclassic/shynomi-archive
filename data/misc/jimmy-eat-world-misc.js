@@ -5,15 +5,5 @@ const ARTIST_MISC_DATA = [
     "version": "Official",
     "format": "DVD",
     "category": "OTHER"
-  },
-  {
-    "type": "release",
-    "label": "Jimmy Eat World - Believe In What You Want",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Jimmy Eat World - One, Two, Three, Four (24-44.1)",
-    "format": "FLAC24"
   }
 ];
