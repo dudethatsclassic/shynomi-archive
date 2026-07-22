@@ -35,10 +35,5 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2007,
     "category": "SINGLES"
-  },
-  {
-    "type": "release",
-    "label": "Matchbox 20 - 666 AM",
-    "version": "Silver CD"
   }
 ];
