@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "jeff-tweedy",
   "name": "Jeff Tweedy",
   "drive": "E",
-  "showCount": 243,
+  "showCount": 242,
   "firstYear": 1994,
   "lastYear": 2026,
   "years": [
@@ -2204,19 +2204,6 @@ const ARTIST_DATA = {
       "location": "Buffalo, NY",
       "venue": "The Town Ballroom",
       "notes": "Roadcase 035",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2014,
-      "month": 10,
-      "day": 25,
-      "dateStr": "10-25-2014",
-      "city": "Raleigh",
-      "state": "NC",
-      "location": "Raleigh, NC",
-      "venue": "Museum Of Art",
-      "notes": "FOH Series",
       "version": "SBD",
       "format": "FLAC"
     },
