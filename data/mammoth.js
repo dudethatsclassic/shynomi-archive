@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "mammoth",
   "name": "Mammoth",
   "drive": "E",
-  "showCount": 18,
+  "showCount": 19,
   "firstYear": 2023,
   "lastYear": 2026,
   "years": [
@@ -104,11 +104,10 @@ const ARTIST_DATA = {
       "city": "Paris",
       "state": "FR",
       "location": "Paris, FR",
-      "venue": "Le Zénith",
+      "venue": "Le Zénith",
       "notes": "CA-11c · kurddt",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2024-04-29 - Paris, FR - Le Zénith (CA-11c) (kurddt) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -263,6 +262,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-04-01 - Cincinnati, OH - Bogart's (SP-CMC-8) (live2cd) [AUD].txt"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 27,
+      "dateStr": "6-27-2026",
+      "city": "Cardiff",
+      "state": "Wales",
+      "location": "Cardiff, Wales",
+      "venue": "Blackbird Festival- Cardiff Castle",
+      "notes": "Edirol R-07 · welshylad",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
