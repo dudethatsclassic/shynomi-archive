@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "old-97-s",
   "name": "Old 97's",
   "drive": "E",
-  "showCount": 8,
+  "showCount": 9,
   "firstYear": 1996,
   "lastYear": 2026,
   "years": [
@@ -42,6 +42,19 @@ const ARTIST_DATA = {
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1998-04-18 - Madison, WI - Rathskeller - University of WI [SBD].txt"
+    },
+    {
+      "year": 1998,
+      "month": 11,
+      "day": 5,
+      "dateStr": "11-5-1998",
+      "city": "Berkeley",
+      "state": "CA",
+      "location": "Berkeley, CA",
+      "venue": "Starry Plough",
+      "notes": "DAT(M) · mhg",
+      "version": "SBD",
+      "format": "FLAC"
     },
     {
       "year": 2008,
