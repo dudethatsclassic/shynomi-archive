@@ -435,16 +435,5 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2015,
     "category": "SINGLES"
-  },
-  {
-    "type": "release",
-    "label": "The Offspring - 1986-7 Songs (Demo Cassette) (24-96)",
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "The Offspring - Baghdad EP (1991)",
-    "year": 1991,
-    "format": "Vinyl"
   }
 ];
