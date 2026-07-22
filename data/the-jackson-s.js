@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Stadium",
-      "notes": "ANA(M) \u00b7 jems transfer",
+      "notes": "ANA(M) · jems transfer",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1981-09-05 - Chicago, IL - Chicago Stadium - ANA(M) (jems transfer) [SBD].txt"
