@@ -162,14 +162,13 @@ const ARTIST_DATA = {
       "month": 6,
       "day": 28,
       "dateStr": "6-28-2017",
-      "city": "Norrköping",
+      "city": "Norrköping",
       "state": "Sweden",
-      "location": "Norrköping, Sweden",
-      "venue": "Bråvalla Festival",
+      "location": "Norrköping, Sweden",
+      "venue": "Bråvalla Festival",
       "notes": "M · CA STC-11 · pata63",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2017-06-28 - Norrköping, Sweden - Bråvalla Festival (M) (CA STC-11) (pata63) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2018,
