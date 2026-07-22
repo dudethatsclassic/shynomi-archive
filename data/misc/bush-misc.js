@@ -56,6 +56,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Gavin's Birthday Party",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - Gavin's Birthday Party [Silver].txt"
   }
 ];

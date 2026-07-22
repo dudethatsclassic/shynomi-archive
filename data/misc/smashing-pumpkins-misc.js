@@ -18,13 +18,15 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Live At The Viper Room 1.15.1998 (2021)",
     "year": 2021,
     "format": "VINYL",
-    "category": "ARCHIVAL RELEASES"
+    "category": "ARCHIVAL RELEASES",
+    "textFile": "MISC - The Smashing Pumpkins - Live At The Viper Room 1.15.1998 (2021) [VINYL].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Live at Kawasaki 2.24.92",
     "format": "VINYL",
-    "category": "ARCHIVAL RELEASES"
+    "category": "ARCHIVAL RELEASES",
+    "textFile": "MISC - The Smashing Pumpkins - Live at Kawasaki 2.24.92 [VINYL].txt"
   },
   {
     "type": "release",
@@ -65,7 +67,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - 1993 Compilation",
     "format": "DVD",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - 1993 Compilation [DVD].txt"
   },
   {
     "type": "release",
@@ -77,54 +80,63 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 1994-XX-XX - Mashed Potatoes",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - 1994-XX-XX - Mashed Potatoes.txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 1998-XX-XX - Adore Compilation (1998-05-18, 1998-06-05) (Pro-shot)",
     "format": "DVD",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - 1998-XX-XX - Adore Compilation (1998-05-18, 1998-06-05) (Pro-shot) [DVD].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 1998-XX-XX - Adore Compilation (1998-05-23, 1998-06-01)",
     "format": "DVD",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - 1998-XX-XX - Adore Compilation (1998-05-23, 1998-06-01) [DVD].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 2001 - Sacred & Profane Tour Soundboard",
     "format": "Compilation",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - 2001 - Sacred & Profane Tour Soundboard  [Compilation].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 2007-XX-XX - Zeitgeist Tour Compilation",
     "format": "DVD",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - 2007-XX-XX - Zeitgeist Tour Compilation [DVD].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 90s TV Compilation Vol. 1",
     "format": "DVD",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - 90s TV Compilation Vol. 1 [DVD].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - ADORE LIVE (soniclovenoize compilation)",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - ADORE LIVE (soniclovenoize compilation).txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Arcane Night Music",
     "format": "Bootleg Box Set 1988-2000",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - Arcane Night Music [Bootleg Box Set 1988-2000].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Best of The Orange Peel (Acoustic)",
     "format": "Compilation",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - Best of The Orange Peel (Acoustic) [Compilation].txt"
   },
   {
     "type": "release",
@@ -137,12 +149,14 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Crystallization",
     "format": "DVD",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - Crystallization [DVD].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - David Mead Compilation",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - David Mead Compilation.txt"
   },
   {
     "type": "release",
@@ -154,7 +168,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Fruit Bat Salad - Vol. 2",
     "format": "DVD",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - Fruit Bat Salad - Vol. 2 [DVD].txt"
   },
   {
     "type": "release",
@@ -172,26 +187,30 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - MTV and More TV Footage",
     "format": "DVD",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - MTV and More TV Footage [DVD].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - New Songs (2007)",
     "year": 2007,
     "format": "Compilation",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - New Songs (2007) [Compilation].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Nulle Part Ailleurs Appearances (1998-2000)",
     "format": "Compilation",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - Nulle Part Ailleurs Appearances (1998-2000) [Compilation].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Psycho Tape",
     "format": "DVD",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - Psycho Tape [DVD].txt"
   },
   {
     "type": "release",
@@ -203,7 +222,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Sacred and Profane",
     "format": "SBD Compilation",
-    "category": "COMPILATIONS"
+    "category": "COMPILATIONS",
+    "textFile": "MISC - The Smashing Pumpkins - Sacred and Profane [SBD Compilation].txt"
   },
   {
     "type": "release",
@@ -233,19 +253,22 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "XX-XX - Snaketrain Demo Tape",
     "year": 1988,
-    "category": "DEMOS"
+    "category": "DEMOS",
+    "textFile": "MISC - 1988-XX-XX - Snaketrain Demo Tape.txt"
   },
   {
     "type": "release",
     "label": "XX-XX - Adore Demos",
     "year": 1997,
-    "category": "DEMOS"
+    "category": "DEMOS",
+    "textFile": "MISC - 1997-XX-XX - Adore Demos.txt"
   },
   {
     "type": "release",
     "label": "XX-XX - Adore Demos II",
     "year": 1997,
-    "category": "DEMOS"
+    "category": "DEMOS",
+    "textFile": "MISC - 1997-XX-XX - Adore Demos II.txt"
   },
   {
     "type": "release",
@@ -258,13 +281,15 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "MCIS Demos II (1994)",
     "year": 1994,
-    "category": "DEMOS"
+    "category": "DEMOS",
+    "textFile": "MISC - MCIS Demos II (1994).txt"
   },
   {
     "type": "release",
     "label": "MCIS Demos III - Demos For D'arcy (1994)",
     "year": 1994,
-    "category": "DEMOS"
+    "category": "DEMOS",
+    "textFile": "MISC - MCIS Demos III - Demos For D'arcy (1994).txt"
   },
   {
     "type": "release",
@@ -281,14 +306,16 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Smashing Pumpkins - 1995-05-31 - The Mellon Collie and the Infinite Sadness Sequence IV (eq'd with freefilter)",
-    "category": "DEMOS"
+    "category": "DEMOS",
+    "textFile": "MISC - Smashing Pumpkins - 1995-05-31 - The Mellon Collie and the Infinite Sadness Sequence IV (eq'd with freefilter).txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Adore Demos (1997)",
     "year": 1997,
     "format": "FLAC",
-    "category": "DEMOS"
+    "category": "DEMOS",
+    "textFile": "MISC - The Smashing Pumpkins - Adore Demos (1997) [FLAC].txt"
   },
   {
     "type": "release",
@@ -305,23 +332,27 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Moon Demo Tape (Virgin In-house Promo Cassette)",
-    "category": "DEMOS"
+    "category": "DEMOS",
+    "textFile": "MISC - The Smashing Pumpkins - Moon Demo Tape (Virgin In-house Promo Cassette).txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - The Ignoffo Tape",
     "format": "FLAC",
-    "category": "DEMOS"
+    "category": "DEMOS",
+    "textFile": "MISC - The Smashing Pumpkins - The Ignoffo Tape [FLAC].txt"
   },
   {
     "type": "release",
     "label": "XX-XX-1989 - Moon Demo Tape",
-    "category": "DEMOS"
+    "category": "DEMOS",
+    "textFile": "MISC - XX-XX-1989 - Moon Demo Tape.txt"
   },
   {
     "type": "release",
     "label": "XX-XX-1994 - Gravity Studios",
-    "category": "DEMOS"
+    "category": "DEMOS",
+    "textFile": "MISC - XX-XX-1994 - Gravity Studios.txt"
   },
   {
     "type": "release",
@@ -332,19 +363,22 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins & Billy Corgan - US TV Performances (2005-2012) (HDTV SOURCE)",
     "format": "DVD",
-    "category": "DVDS"
+    "category": "DVDS",
+    "textFile": "MISC - The Smashing Pumpkins & Billy Corgan - US TV Performances (2005-2012) (HDTV SOURCE) [DVD].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 1996-XX-XX - Vieuphoria 2",
     "format": "DVD",
-    "category": "DVDS"
+    "category": "DVDS",
+    "textFile": "MISC - The Smashing Pumpkins - 1996-XX-XX - Vieuphoria 2 [DVD].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Graceful Swans Of Never",
     "format": "MP4",
-    "category": "DVDS"
+    "category": "DVDS",
+    "textFile": "MISC - The Smashing Pumpkins - Graceful Swans Of Never [MP4].txt"
   },
   {
     "type": "release",
@@ -357,13 +391,15 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - MTV's Rockumentary",
     "format": "MP4",
-    "category": "DVDS"
+    "category": "DVDS",
+    "textFile": "MISC - The Smashing Pumpkins - MTV's Rockumentary [MP4].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - The 666 Tapes",
     "format": "MP4",
-    "category": "DVDS"
+    "category": "DVDS",
+    "textFile": "MISC - The Smashing Pumpkins - The 666 Tapes [MP4].txt"
   },
   {
     "type": "release",
@@ -597,13 +633,15 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "09-XX - London, England - Hotel Room",
     "year": 1991,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 1991-09-XX - London, England - Hotel Room.txt"
   },
   {
     "type": "release",
     "label": "XX-XX - The Friends and Enemies of Modern Music",
     "year": 2000,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 2000-XX-XX - The Friends and Enemies of Modern Music.txt"
   },
   {
     "type": "release",
@@ -615,18 +653,21 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Machina II - Virgin Records Promo",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Machina II - Virgin Records Promo.txt"
   },
   {
     "type": "release",
     "label": "Machina II Reissue Updates (Billy-IG)",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Machina II Reissue Updates (Billy-IG).txt"
   },
   {
     "type": "release",
     "label": "Pisces Iscariot + Friends (Side A & B)",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Pisces Iscariot + Friends (Side A & B) [FLAC].txt"
   },
   {
     "type": "release",
@@ -652,13 +693,15 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 3 Songs O' Rarities",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - The Smashing Pumpkins - 3 Songs O' Rarities.txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - 666 Tape - 1995-XX-XX (PRO)",
     "format": "DVD",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - The Smashing Pumpkins - 666 Tape - 1995-XX-XX (PRO) [DVD].txt"
   },
   {
     "type": "release",
@@ -670,7 +713,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - B-Sides Tape (Virgin Promo)",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - The Smashing Pumpkins - B-Sides Tape (Virgin Promo) [FLAC].txt"
   },
   {
     "type": "release",
@@ -720,7 +764,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Smashing Pumpkins - In Ashes (Animated Series)",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - The Smashing Pumpkins - In Ashes (Animated Series).txt"
   },
   {
     "type": "release",
@@ -739,7 +784,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - MCIS Rough Mix 7-25-95",
     "format": "16 bit",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - The Smashing Pumpkins - MCIS Rough Mix 7-25-95 [16 bit].txt"
   },
   {
     "type": "release",
@@ -774,7 +820,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Reel Time Studios (1989)",
     "year": 1989,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - The Smashing Pumpkins - Reel Time Studios (1989).txt"
   },
   {
     "type": "release",
@@ -791,7 +838,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Smashing Pumpkins - The Smashing Pumpkins Tape",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - The Smashing Pumpkins - Live Bonus EP [FLAC].txt"
   },
   {
     "type": "release",
@@ -851,13 +899,15 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Kitty Kat (Original Mix)",
-    "category": "SPRC RELEASES"
+    "category": "SPRC RELEASES",
+    "textFile": "MISC - The Smashing Pumpkins - Kitty Kat (Original Mix).txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - SPRC - Web Releases",
     "format": "FLAC",
-    "category": "SPRC RELEASES"
+    "category": "SPRC RELEASES",
+    "textFile": "MISC - The Smashing Pumpkins - The Smashing Pumpkins Tape.txt"
   },
   {
     "type": "release",
@@ -893,8 +943,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Adore - Live (thir13en)",
-    "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - Adore - Live (thir13en).txt"
+    "category": "THIR13EN"
   },
   {
     "type": "release",
@@ -911,26 +960,23 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Smashing Pumpkins - MCIS Demos II (thir13en remaster)",
-    "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - Gravity Demos (thir13en remaster).txt"
+    "category": "THIR13EN"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Machina II (thir13en remaster)",
-    "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - MCIS Demos I (thir13en remaster).txt"
+    "category": "THIR13EN"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Moon Demo (thir13en remaster)",
     "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - MCIS Demos II (thir13en remaster).txt"
+    "textFile": "MISC - The Smashing Pumpkins - The SP & the Moon Tapes (Digitally Remastered) [Silver].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Reel Time Sessions (thir13en remaster)",
-    "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - Machina Acoustic Demos (thir13en remaster) [FLAC].txt"
+    "category": "THIR13EN"
   },
   {
     "type": "release",
@@ -951,7 +997,8 @@ const ARTIST_MISC_DATA = [
     "label": "XX-XX - Rhinoceros (Alt. Video)",
     "year": 1989,
     "format": "FLV",
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1989-XX-XX - Rhinoceros (Alt. Video) [FLV].txt"
   },
   {
     "type": "release",
@@ -971,7 +1018,8 @@ const ARTIST_MISC_DATA = [
     "label": "06-22 - Chicago, IL - Reckless Records",
     "year": 1991,
     "format": "MKV",
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1991-06-22 - Chicago, IL - Reckless Records [MP4] [MKV].txt"
   },
   {
     "type": "release",
@@ -1011,7 +1059,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "11-27 - Cincinnati Gardens, Cincinnati, OH, US",
     "year": 1991,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1991-11-27 - Cincinnati Gardens, Cincinnati, OH, US.txt"
   },
   {
     "type": "release",
@@ -1077,7 +1126,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "xx-xx - On The Road",
     "year": 1992,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1992-xx-xx - On The Road.txt"
   },
   {
     "type": "release",
@@ -1089,7 +1139,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "01-xx - Triclops Sound Studios, Altanta, GA, US",
     "year": 1993,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1993-01-xx - Triclops Sound Studios, Altanta, GA, US.txt"
   },
   {
     "type": "release",
@@ -1191,7 +1242,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "02-05 - Big Day Out, Mount Smart Stadium, Auckland, NZ",
     "year": 1994,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1994-02-05 - Big Day Out, Mount Smart Stadium, Auckland, NZ.txt"
   },
   {
     "type": "release",
@@ -1227,7 +1279,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "04-15 - William & Mary Hall, Williamsburg, VA, US",
     "year": 1994,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1994-04-15 - William & Mary Hall, Williamsburg, VA, US.txt"
   },
   {
     "type": "release",
@@ -1245,19 +1298,22 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "07-07 - 120mins, Sam Boyd Stadium, Las Vegas, NV, US",
     "year": 1994,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1994-07-07 - 120mins, Sam Boyd Stadium, Las Vegas, NV, US.txt"
   },
   {
     "type": "release",
     "label": "07-07 - Sam Boyd Stadium, Las Vegas, NV, US",
     "year": 1994,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1994-07-07 - Sam Boyd Stadium, Las Vegas, NV, US.txt"
   },
   {
     "type": "release",
     "label": "08-10 - 1994-08-11 - Vieuphoria Lost Tapes",
     "year": 1994,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1994-08-10 - 1994-08-11 - Vieuphoria Lost Tapes.txt"
   },
   {
     "type": "release",
@@ -1281,19 +1337,22 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "08-23 - SFX Centre, Dublin, IE",
     "year": 1995,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1995-08-23 - SFX Centre, Dublin, IE.txt"
   },
   {
     "type": "release",
     "label": "08-25 - Reading Festival, Reading, UK",
     "year": 1995,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1995-08-25 - Reading Festival, Reading, UK.txt"
   },
   {
     "type": "release",
     "label": "11-11 - SNL, NBC Studios New York City, NY, US",
     "year": 1995,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1995-11-11 - SNL, NBC Studios New York City, NY, US.txt"
   },
   {
     "type": "release",
@@ -1317,25 +1376,29 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "01-03 - Phoenix, Toronto, CA",
     "year": 1996,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1996-01-03 - Phoenix, Toronto, CA.txt"
   },
   {
     "type": "release",
     "label": "01-30 - Soma, San Diego, CA, US",
     "year": 1996,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1996-01-30 - Soma, San Diego, CA, US.txt"
   },
   {
     "type": "release",
     "label": "04-12 - Spektrum, Oslo, NO",
     "year": 1996,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1996-04-12 - Spektrum, Oslo, NO.txt"
   },
   {
     "type": "release",
     "label": "04-24 - Palatrussardi, Milan, IT",
     "year": 1996,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1996-04-24 - Palatrussardi, Milan, IT.txt"
   },
   {
     "type": "release",
@@ -1359,7 +1422,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "05-06 - Bercy, Paris, FR",
     "year": 1996,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1996-05-06 - Bercy, Paris, FR.txt"
   },
   {
     "type": "release",
@@ -1383,7 +1447,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "09-04 - MTV Video Music Awards, New York City, NY, US",
     "year": 1996,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1996-09-04 - MTV Video Music Awards, New York City, NY, US.txt"
   },
   {
     "type": "release",
@@ -1491,13 +1556,15 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "07-21 - Blossom Music Theater, Cuyahoga Falls, OH, US",
     "year": 1998,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1998-07-21 - Blossom Music Theater, Cuyahoga Falls, OH, US.txt"
   },
   {
     "type": "release",
     "label": "07-22 - Riverbend Music Center, Cincinnati, OH, US",
     "year": 1998,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 1998-07-22 - Riverbend Music Center, Cincinnati, OH, US.txt"
   },
   {
     "type": "release",
@@ -1599,7 +1666,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "02-23 - FYE (Colonie Center), Albany, NY, US",
     "year": 2000,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 2000-02-23 - FYE (Colonie Center), Albany, NY, US.txt"
   },
   {
     "type": "release",
@@ -1623,13 +1691,15 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "05-08 - Hard Rock Live, Orlando, FL, US",
     "year": 2000,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 2000-05-08 - Hard Rock Live, Orlando, FL, US.txt"
   },
   {
     "type": "release",
     "label": "05-12 - Bronco Bowl, Dallas, TX, US",
     "year": 2000,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 2000-05-12 - Bronco Bowl, Dallas, TX, US.txt"
   },
   {
     "type": "release",
@@ -1659,7 +1729,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "11-29 - The Lab, United Center After Party, Chicago, IL, US",
     "year": 2000,
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - 2000-11-29 - The Lab, United Center After Party, Chicago, IL, US.txt"
   },
   {
     "type": "release",
@@ -1716,7 +1787,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Final Fantasy - Smashing Pumpkins",
-    "category": "VIDEO CLIPS"
+    "category": "VIDEO CLIPS",
+    "textFile": "MISC - The Smashing Pumpkins - Bury Me [Silver].txt"
   },
   {
     "type": "release",
@@ -1829,7 +1901,8 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - ATUM (2023) (24-96)",
     "year": 2023,
     "format": "VINYL",
-    "category": "VINYL RIPS"
+    "category": "VINYL RIPS",
+    "textFile": "MISC - The Smashing Pumpkins - ATUM - A Rock Opera in Three Acts (2023) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -1878,8 +1951,7 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Mellon Collie & the Infinite Sadness (HUTLP30) (No. 15339) (1995)",
     "year": 1995,
     "format": "VINYL",
-    "category": "VINYL RIPS",
-    "textFile": "MISC - The Smashing Pumpkins - Mellon Collie & the Infinite Sadness (HUTLP30) (No. 15339) (1995) [VINYL].txt"
+    "category": "VINYL RIPS"
   },
   {
     "type": "release",
@@ -1942,24 +2014,1075 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Zodeon At Crystal Hall (24-192) (2025)",
     "year": 2025,
     "format": "VINYL",
-    "category": "VINYL RIPS"
+    "category": "VINYL RIPS",
+    "textFile": "MISC - The Smashing Pumpkins - Zodeon At Crystal Hall (24-192) (2025) [VINYL].txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Mashed Potatoes (thir13en remaster)",
     "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - Machina II (thir13en remaster).txt"
+    "textFile": "MISC - The Smashing Pumpkins - Gravity Demos (thir13en remaster).txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Off Their Rawkers (thir13en remaster)",
     "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - Mashed Potatoes (thir13en remaster).txt"
+    "textFile": "MISC - The Smashing Pumpkins - MCIS Demos I (thir13en remaster).txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Off Their Rawkers II (The Covers) (thir13en)",
     "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - Off Their Rawkers II (The Covers) (thir13en).txt"
+    "textFile": "MISC - The Smashing Pumpkins - Adore - Live (thir13en).txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - 17 Seconds (CDX 1596420MPH)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Another 17 Seconds [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - 1997 (Moonraker 245:46)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - 3 Feet High (KTS 264)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - A Kiss Of This (ROCKS 92123)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - A La Mode Vol. 1 (DMX 003)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - A La Mode Vol. 1 (DMX 003) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Acoustic Daze (CFC 008)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Acoustic Melon Songs (Flashback 04.96.0271)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Acoustic Series (SH 69023)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Acoustic Series (SH 69023) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Adore Us Live 1998",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Ava Adore (DVL-012) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Aliens (T Rex Records)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Be My Whore (QR Records) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Astoria '94 (PMCD 054)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Atomic Energy (TUCD 014).flac",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Atomic Energy (TUCD 014) [Silver].flac.txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Automatic {EB 42:2} (2000)",
+    "year": 2000,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - From The Vault [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Beautiful As The Sun (SUMO 05)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Beautiful People (BB1998003)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Beautiful People (BB1998003) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Benefit With Beautiful People (BA-006)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Berlin Bullet",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Live In Chicago 95 (SM 69) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Billy The Kid (FTCD 079)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Black Sessions (AK020)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Blackout (KTS 492)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Brixton (Moonraker 198)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Bruised Angel Wings {Cargo} (2015)",
+    "year": 2015,
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - California Nightmare (EXP026)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Children Of Gotham",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Children Of Gotham [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Coming Down (HGR-0019)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Dawn (Moonraker 104)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Daydream Kisses (HAWK 013)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Turpentine Kisses [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Despite All Our Rage, We're Just Like Rats In A Cage (FP-024)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Disarm the Pumpkins (T 9414)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Disarm the Pumpkins (T 9414) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Disconnect (OXY-046)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Disconnect (OXY-046)  [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Do The Riot Thing",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - VERSIONS [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Dream (Moonraker 138)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Drown (KTS208)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Dublin Olympia",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Dusk (Moonraker 063:64)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Early 1989 Demos",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Early 1989 Demos [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Eighty Nine (BA-007)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Electronic Overload {FP 033} (1996)",
+    "year": 1996,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Electronic Overload {FP 033} (1996) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Enter Adore (Thunder 041)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Enter Adore (Thunder 041) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Everlasting (MMM56101)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Everlasting (MMM56101) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Exit Mellon Collie (TB-011)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Exit Under Burning Skies (WSCD 001)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Exit Under Burning Skies (WSCD 001) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Feeling Like A Smashed Pumpkin (Flashback 01.94.0226)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Festive Bootleg",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Live Divine Bootleg (MOONRAKER 142) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Fishing Blue (1993) (MC 150)",
+    "year": 1993,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Fishing Blue (1993) (MC 150) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Five Night Stand",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Forgotten Songs, Part I {IMP 010} (1992)",
+    "year": 1992,
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Freedom (BLZD 149)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - From The Mixing Desk (SP 101)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Fully Illustrated Book & Interview Disc {SAM 7019} (1996)",
+    "year": 1996,
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Halloween Party (HR-5925-1)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Halloween Party (HR-5925-1) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Halloween Tools (COP 008)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Halloween Tools (COP 008) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Hot Lolla! (BZCD 040)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - In Conversation - Volume 2 {CBAK4130} (2000)",
+    "year": 2000,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Once In A Lifetime (2000) (SPOAL) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - In Conversation {CBACK 4092} (1995)",
+    "year": 1995,
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - In The Belly Of The Beast (SBC005)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - In The Belly Of The Beast (SBC005) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - In Their Own Words (2001) (CDHUTIV 70)",
+    "year": 2001,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - In Their Own Words (2001) (CDHUTIV 70) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - In the Zone (WW1 In Concert)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Westwood One In Concert #98-47 (preFM) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Insincere & Insolent (TB-049)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Intimate & Interactive (SOTB)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Kick Start '96",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Knock On Wood (SPA CD 01)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Knock On Wood (SPA CD 01) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Live At Budokan (IMA-104253)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Live In Hamburg (SMAPUHA 14598)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Live In Hamburg (SMAPUHA 14598) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Live Machina {TB 115:16} (2000)",
+    "year": 2000,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - We Love You (2000) (SPWLY) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - MTV Unplugged (CM0298)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - MTV Unplugged (CM0298) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Man of Light (IBR 2525)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Man of Light (IBR 2525) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Mayonaise Dream (KTS261)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Mayonaise Dream (KTS261) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Mellon Collie At The Max (SP-003)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Mellon Collie Disc Three (OEX-001)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Mellow, Jolly And The Infinite Madness (SHED 69)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Melodies (MTM 043)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Melodies (MTM 043) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Melon-Collie and the Infinite Ga Ga Goo Goo (FH004)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Melon-Collie and the Infinite Ga Ga Goo Goo (FH004) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - NPA (OPT 64)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - NPA (OPT 64) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - New Songs - Live At The Riviera (PM-004)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Out Of Focus (HAWK-043)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Party All Night (IBR-2095)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Perfect In Houston",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Pluggelectric (SWN 034)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Pluggelectric (SWN 034) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Pl\u00e6nen Tivoli",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Pohoda Festival (CD-130701808)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Pohoda Festival (CD-130701808) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Pumpkin Seeds (SP-001)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Pumpkin Seeds (SP-001) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Radio Love Transmission (DNAR-19598)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Rawk (92095)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Redrum (DDD-280-0269)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Retrospective (SC 52019:20)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Retrospective (SC 52019_20) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Rhinoceros Daydreams",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Rhinoceros Daydreams [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Rhinocerous (DUCD-03)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Secret Destroyers (OXY 076)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Secret Destroyers (OXY 076) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Secret Gig (PBS-21)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Secrets Of Your Dreams (KTS-545)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Shhhh! (TRCD 073)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Shhhh! (TRCD 073) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Shine (CD-EYE-05)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Shine (CD-EYE-05) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Shoot Out The Lights (PD-105)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Siamese Whispers",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Siamese Dream (1993) (US) [VINYL].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Slaphead's Revenge (KRCD 25:2)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Slaphead's Revenge (KRCD 25_2) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Smashing the Puppets (STR 002)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Smashing the Puppets (STR 002) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Sorrow And Pity (RTT-032)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Soul Sacrifice (WBR-94-9600)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Sounds Of Turnips",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Spaceboy (Live Storm 51517)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Spaceboy (Live Storm 51517) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Spaceboys (LLRCD 243)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Spaceboys (LLRCD 243) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Squashed Zucchini (Rupert 9688)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Star Profile {Mastertone 8080} (1997)",
+    "year": 1997,
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Starlight (Live at Riviera Theatre) (MOONRAKER 028:29)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Starlight (Live at Riviera Theatre) (MOONRAKER 028_29) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Sunshine Of Your Love (TNT-010)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Tears In University (GM 027)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Tears In University (GM 027) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Thank You For Participating (BCCD 78652-2500-2)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - The Berlin Bullet (Moonraker 124:25)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - The Covers & Rare Stuff Vol. 1 (SMP 001)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - The Cutting Edge (BKCD077)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - The Cutting Edge (BKCD077) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - The GM Place (Optimum 06:07)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - The Great Pumpkin That Never Arrived {DIST004} (1995)",
+    "year": 1995,
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - The Greatest Day (Hawk037)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - The Greatest Day (Hawk037) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - The Mellon Collie Demos (MOONRAKER 123)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - The Mellon Collie Demos (MOONRAKER 123) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - The Mother of All Unplugged Collections (Halloween Recordings)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - The Mother of All Unplugged Collections (Halloween Recordings) [SIlver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - The Rare Stuff Vol. 2 (SMP 002)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - The Second to Last Gig Ever! {SP20001129} (2001)",
+    "year": 2001,
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - The World Is a Vampire (SP 01)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - The World Is a Vampire (SP 01) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - The World Is a Vampire {OXY020} (1995)",
+    "year": 1995,
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - The Years Burn (BWJ Records)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Transmission (TB-042:043)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Transmissions (6CD)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Tribute to B.O.C. (LSCD 51510)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Tribute to B.O.C. (LSCD 51510) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Tune In, Turn On, Rawk Out (MOONRAKER 115)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Tune In, Turn On, Rawk Out (MOONRAKER 115) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Twilight (Amsterdam 95)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Twilight (MOONRAKER 039)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Twilight (MOONRAKER 039) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Ultra Rare Trax (S.P.S. 01)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Unbereable (LBR-018)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Under the Covers {SP9000CD} (2001)",
+    "year": 2001,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Under the Covers {SP9000CD} (2001) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Unplugged (Pure Acoustic Performances) (SB014)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Unplugged (Pure Acoustic Performances) (SB014) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Untitled (IMM 40.90310)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Untitled (IMM 40.90310) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Vast Oceans (FLD1002)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Vast Oceans (FLD1002) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Virgins (Red Robin Records)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Wanna Go for a Ride {MOONRAKER 116} (1995)",
+    "year": 1995,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Wanna Go for a Ride {MOONRAKER 116} (1995) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - We Are From Another Planet (MTM040)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - We Are From Another Planet (MTM040) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - We Can Work It Out (VSP 51009)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - We Can Work It Out (VSP 51009) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Wrapped Up In The Pleasures Of The World (KTS-542)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Zero Gravity (Hurr 049)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Zero Gravity (Hurr 049) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - 1979 (7 2438-38534-2-7) (1996)",
+    "year": 1996,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Anno Satana, Birch Grove (2020) (Single)",
+    "year": 2020,
+    "format": "FLAC HD",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Chrome Jets {199538527582Z} (2025)",
+    "year": 2025,
+    "format": "FLAC HD",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Cyr, The Colour Of Love (2020) (Single)",
+    "year": 2020,
+    "format": "FLAC HD",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Disarm (CD1) (1994)",
+    "year": 1994,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Disarm (CD2) (1994)",
+    "year": 1994,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - I Am One (1992)",
+    "year": 1992,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Rocket (1994)",
+    "year": 1994,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Stand Inside Your Love (CD1) (2000)",
+    "year": 2000,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Stand Inside Your Love (CD2) (2000)",
+    "year": 2000,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Tarantula (2007)",
+    "year": 2007,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - That's The Way (My Love Is) CDS (2007)",
+    "year": 2007,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Thirty-Three (1996)",
+    "year": 1996,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - To Sheila {DPRO-13674} (1999)",
+    "year": 1999,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Today (1993)",
+    "year": 1993,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Tonight, Tonight (CDS) (HUTCD 69 England) (1996)",
+    "year": 1996,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Try, Try, Try (2000)",
+    "year": 2000,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "YUNGBLUD & The Smashing Pumpkins - Zombie {0199957235143} (24-96) (2026)",
+    "year": 2026,
+    "format": "FLAC HD",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Machina Acoustic Demos (thir13en remaster)",
+    "format": "FLAC",
+    "category": "THIR13EN",
+    "textFile": "MISC - The Smashing Pumpkins - Machina II (thir13en remaster).txt"
   }
 ];

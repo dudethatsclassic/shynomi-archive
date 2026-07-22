@@ -7,12 +7,14 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Rapology -12 (1998)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Rapology -12 (1998).txt"
   },
   {
     "type": "label",
     "label": "Linkin_Park - Underground v9.0 (WMG Acetate) (2009)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Linkin_Park - Underground v9.0 (WMG Acetate) (2009).txt"
   },
   {
     "type": "label",
@@ -37,7 +39,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Linkin Park - Xero - Demo Tape (1997)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Linkin Park - Xero - Demo Tape (1997).txt"
   },
   {
     "type": "label",
@@ -52,7 +55,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Linkin Park - Hybrid Theory - Demos - 2 Track (1999)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Linkin Park - Hybrid Theory - Demos - 8 Track (1999).txt"
   },
   {
     "type": "label",

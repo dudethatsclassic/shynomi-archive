@@ -1,0 +1,36 @@
+﻿The Offspring 2026-06-19 Scheeßel Eichenring Hurricane Festival
+
+Lineage : MagentaMusik livestream > yt-dlp > .mp4
+Editing : ffmpeg for cutting + concat (3 segments)
+
+Video : MPEG4 Video (H264) 1920x1080 16:9 7235 Kbps 50.00 fps
+Audio : AAC 128 Kbps 48 KHz stereo
+
+Length : 70:13
+
+Setlist : (from setlist.fm)
+
+SUPERCHARGED Intro (played from tape)
+Come Out and Play
+All I Want
+Want You Bad
+Staring at the Sun
+Hammerhead
+Bad Habit
+Paranoid (Black Sabbath cover - first verse only)
+Crazy Train (Ozzy Osbourne cover)
+In the Hall of the Mountain King (Edvard Grieg cover)
+Love Story (Taylor Swift cover)
+Hit That / Original Prankster
+Gotta Get Away (with drum solo ending)
+Why Don't You Get a Job?
+Pretty Fly (for a White Guy)
+The Kids Aren't Alright
+
+Encore:
+Lullaby (played from tape)
+You're Gonna Go Far, Kid
+Self Esteem
+
+Notes : There's a small cut at the start of the show, and another 2-3 minute cut around the 24-minute mark
+

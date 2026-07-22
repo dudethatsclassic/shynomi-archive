@@ -27,7 +27,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Schubas",
-      "notes": "M · unk · aadam jacobs",
+      "notes": "M \u00b7 unk \u00b7 aadam jacobs",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-10-24 - Chicago, IL - Schubas (M) (unk) (aadam jacobs) [AUD].txt"
@@ -69,7 +69,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "notes": "unk · justagirl",
+      "notes": "unk \u00b7 justagirl",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-12-19 - Chicago, IL - Vic Theatre (unk) (justagirl) [AUD].txt"
@@ -83,7 +83,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "El Rey Theatre",
-      "notes": "AT853 · markp",
+      "notes": "AT853 \u00b7 markp",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-08-01 - Los Angeles, CA - El Rey Theatre (AT853) (markp) [AUD].txt"
@@ -97,7 +97,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Grand Ballroom at the Regency Center",
-      "notes": "DAT(M (SBD + Schoeps CCM4s) · blg",
+      "notes": "DAT(M (SBD + Schoeps CCM4s) \u00b7 blg",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2007-11-08 - San Francisco, CA - The Grand Ballroom at the Regency Center - DAT(M (SBD + Schoeps CCM4s) (blg) [MIX].txt"
@@ -111,7 +111,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Grand Ballroom at the Regency Center",
-      "notes": "DAT(M) · SBD+Schoeps CCM4s · blg",
+      "notes": "DAT(M) \u00b7 SBD+Schoeps CCM4s \u00b7 blg",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2007-11-09 - San Francisco, CA - The Grand Ballroom at the Regency Center - DAT(M) (SBD+Schoeps CCM4s) (blg) [MIX].txt"
@@ -139,7 +139,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Telluride, CO",
       "venue": "Town Park",
-      "notes": "Telluride · KM84 · john r",
+      "notes": "Telluride \u00b7 KM84 \u00b7 john r",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -152,7 +152,7 @@ const ARTIST_DATA = {
       "state": "Netherlands",
       "location": "The Hague, Netherlands",
       "venue": "Koninklijke Schouwburg",
-      "notes": "Edirol R09 · dutch masters",
+      "notes": "Edirol R09 \u00b7 dutch masters",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-11-21 - The Hague, Netherlands - Koninklijke Schouwburg (Edirol R09) (dutch masters) [AUD].txt"
@@ -194,7 +194,7 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "House of Blues",
-      "notes": "Sony ECM-DS70P · ryan fisher",
+      "notes": "Sony ECM-DS70P \u00b7 ryan fisher",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-11-12 - New Orleans, LA - House of Blues (Sony ECM-DS70P) (ryan fisher) [AUD].txt"
@@ -208,7 +208,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theatre",
-      "notes": "AT831s · justagirl",
+      "notes": "AT831s \u00b7 justagirl",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-12-03 - Chicago, IL - Auditorium Theatre (AT831s) (justagirl) [AUD].txt"
@@ -222,7 +222,7 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Barcelona, Spain",
       "venue": "Sala Apolo",
-      "notes": "DPA 4061s · fortylicks",
+      "notes": "DPA 4061s \u00b7 fortylicks",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-02-27 - Barcelona, Spain - Sala Apolo (DPA 4061s) (fortylicks) [AUD].txt"
@@ -236,7 +236,7 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Barcelona, Spain",
       "venue": "Sala 1 Pau Casals",
-      "notes": "L'Auditori · DPA 4061s · fortylicks",
+      "notes": "L'Auditori \u00b7 DPA 4061s \u00b7 fortylicks",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-10-15 - Barcelona, Spain - Sala 1 Pau Casals - L'Auditori (DPA 4061s) (fortylicks) [AUD].txt"
@@ -250,7 +250,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Cadillac Palace Theater",
-      "notes": "Sony PCM-A10 · ryan fisher",
+      "notes": "Sony PCM-A10 \u00b7 ryan fisher",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-03-12 - Chicago, IL - Cadillac Palace Theater (Sony PCM-A10) (ryan fisher) [AUD].txt"
@@ -264,7 +264,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Wang Theatre",
-      "notes": "Schoeps MK4V · jim kelly",
+      "notes": "Schoeps MK4V \u00b7 jim kelly",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -291,7 +291,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Salt Shed",
-      "notes": "AT831s · tapeworm48",
+      "notes": "AT831s \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-08-18 - Chicago, IL - The Salt Shed (AT831s) (tapeworm48) [AUD].txt"
@@ -305,7 +305,7 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Brienz, Switzerland",
       "venue": "Reusser Guitars",
-      "notes": "Glen Hansard IG Livestream · ryan fisher",
+      "notes": "Glen Hansard IG Livestream \u00b7 ryan fisher",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2024-11-23 - Brienz, Switzerland - Reusser Guitars (IG Livestream) (ryan fisher) [WEB].txt"
@@ -319,7 +319,7 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Filene Center At Wolf Trap",
-      "notes": "AT853s · lostbrook",
+      "notes": "AT853s \u00b7 lostbrook",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-07-11 - Vienna, VA - Filene Center At Wolf Trap (AT853s) (lostbrook) [AUD24].txt"
@@ -333,7 +333,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Tyneside, UK",
       "venue": "The Glasshouse Gateshead",
-      "notes": "Tascam DR40 · unk",
+      "notes": "Tascam DR40 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-09-29 - Tyneside, UK - The Glasshouse Gateshead (Tascam DR40) (unk) [AUD].txt"
@@ -349,7 +349,8 @@ const ARTIST_DATA = {
       "venue": "Space",
       "notes": "lowlight10",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2026-03-31 - Evanston, IL - Space (lowlight10) [SBD].txt"
     }
   ]
 };

@@ -4,6 +4,7 @@ const ARTIST_MISC_DATA = [
     "label": "Stevie Wonder - Songs In the Key of Life (1976) HDTracks (24:192)",
     "year": 1976,
     "format": "FLAC HD",
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Stevie Wonder - Songs In the Key of Life (1976) HDTracks (24_192) [FLAC HD].txt"
   }
 ];

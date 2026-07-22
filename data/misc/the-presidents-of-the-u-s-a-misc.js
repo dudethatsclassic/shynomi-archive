@@ -20,11 +20,13 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "12-17 - No Strings Attached",
     "year": 1995,
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - 1995-12-17 - No Strings Attached [Silver].txt"
   },
   {
     "type": "release",
-    "label": "PUSA - Froggystyle (EP)"
+    "label": "PUSA - Froggystyle (EP)",
+    "textFile": "MISC - PUSA - Froggystyle (EP).txt"
   },
   {
     "type": "release",

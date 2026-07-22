@@ -26,7 +26,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Live - 1992-XX-XX - Playin' Back 'ome [Silver].txt"
   },
   {
     "type": "release",
@@ -42,7 +43,8 @@ const ARTIST_MISC_DATA = [
     "label": "Live - 1998-07-15 - New Stuff (Studio Demos)",
     "format": "FLAC",
     "year": 1998,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Live - 1998-07-15 - New Stuff (Studio Demos).txt"
   },
   {
     "type": "release",
@@ -50,7 +52,8 @@ const ARTIST_MISC_DATA = [
     "version": "FM",
     "format": "FLAC",
     "year": 2000,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Live - 2000-04-XX - The Acoustic Sessions - Jack Flash Records JFR 006) (inc) [FM].txt"
   },
   {
     "type": "release",
@@ -75,7 +78,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1999,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Live - The Distance To Den Haag 1999 (1999) [Silver].txt"
   },
   {
     "type": "release",
@@ -92,5 +96,11 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2007,
     "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - Columbia, PA - Throwing Copper Churchbox Demo",
+    "year": 1993,
+    "textFile": "MISC - 1993-XX-XX - Columbia, PA - Throwing Copper Churchbox Demo.txt"
   }
 ];

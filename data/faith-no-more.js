@@ -246,7 +246,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-05-07 - Düsseldorf, Germany - Tor 3 [AUD].txt"
+      "textFile": "1990-05-07 - D\u00fcsseldorf, Germany - Tor 3 [AUD].txt"
     },
     {
       "year": 1990,
@@ -274,7 +274,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-05-19 - Paris, France - Élysée Montmartre [AUD].txt"
+      "textFile": "1990-05-19 - Paris, France - \u00c9lys\u00e9e Montmartre [AUD].txt"
     },
     {
       "year": 1990,
@@ -316,7 +316,7 @@ const ARTIST_DATA = {
       "notes": "Sony WM D6",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-06-26 - Saarbrücken, Germany - Garage [AUD].txt"
+      "textFile": "1990-06-26 - Saarbr\u00fccken, Germany - Garage [AUD].txt"
     },
     {
       "year": 1990,
@@ -539,7 +539,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-06-20 - Würzburg, Germany - Talavera Mainwiesen [AUD].txt"
+      "textFile": "1992-06-20 - W\u00fcrzburg, Germany - Talavera Mainwiesen [AUD].txt"
     },
     {
       "year": 1992,
@@ -899,7 +899,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-12-15 - Nice, France - Théâtre de Verdure [AUD].txt"
+      "textFile": "1992-12-15 - Nice, France - Th\u00e9\u00e2tre de Verdure [AUD].txt"
     },
     {
       "year": 1992,
@@ -1862,7 +1862,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-08-16 - Budapest,  Hungary - Óbudai-Sziget, Sziget Festival [AUD].txt"
+      "textFile": "2009-08-16 - Budapest,  Hungary - \u00d3budai-Sziget, Sziget Festival [AUD].txt"
     },
     {
       "year": 2009,
@@ -2125,7 +2125,7 @@ const ARTIST_DATA = {
       "notes": "SWU \u00b7 jahrastafari",
       "version": "TV",
       "format": "FLAC",
-      "textFile": "2011-11-14 - São Paulo, Brazil - Paulínia, SWU Music and Arts Festival [TV].txt"
+      "textFile": "2011-11-14 - S\u00e3o Paulo, Brazil - Paul\u00ednia, SWU Music and Arts Festival [TV].txt"
     },
     {
       "year": 2012,
@@ -2430,7 +2430,7 @@ const ARTIST_DATA = {
       "notes": "soberonez",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-06-08 - Cracow, Poland - Kraków Arena [AUD].txt"
+      "textFile": "2015-06-08 - Cracow, Poland - Krak\u00f3w Arena [AUD].txt"
     },
     {
       "year": 2015,
@@ -2472,7 +2472,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-06-26 - Norrköping, Sweden - Bråvalla Flygfottilj [AUD].txt"
+      "textFile": "2015-06-26 - Norrk\u00f6ping, Sweden - Br\u00e5valla Flygfottilj [AUD].txt"
     },
     {
       "year": 2015,

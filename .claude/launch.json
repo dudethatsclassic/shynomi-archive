@@ -4,7 +4,7 @@
     {
       "name": "live-archive",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "/Users/natescottsmith/Desktop/Claude Code/Shynomi Live Archive/live-archive"],
+      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "/Users/nsmith/Desktop/Claude Code/Shynomi Live Archive/live-archive"],
       "port": 8765
     }
   ]

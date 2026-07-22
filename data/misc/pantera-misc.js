@@ -5,7 +5,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Pantera - 1992 - WW1 Absolutely Live High Voltage [preFM].txt"
   },
   {
     "type": "release",

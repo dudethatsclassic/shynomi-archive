@@ -1,0 +1,41 @@
+Matthew Good and His Band
+Wildhorse Saloon
+Calgary, Alberta, Canada
+2026-07-06  9:35 pm
+
+Source: Core Sound Stealthy Cardioid microphones> CA-9200 preamp> Roland R-05
+Location: Floor center, near front of stage
+Recorded Format: 16 bit, 48 kHz
+Transfer: Audacity > r8brain (converting 16/48 to 16/44.1) > CD Wave (tracking) > Traders Little Helper (Flac 8) > Foobar2000 (tagging)
+Final Format: 16 bit, 44.1 kHz
+By: Sharon
+
+Setlist:
+01  Intro
+02  Garden of Knives
+03  Everything Is Automatic
+04  Rico
+05  Apparitions
+06  Hello Time Bomb
+07  Born Losers
+08  Advertising on Police Cars
+09  Alert Status Red
+10  Symbolistic White Walls
+11  Pledge of Allegiance 
+12  Load Me Up
+13  Weapon
+Encore: 
+14  Giant
+15  Alabama Motel Room
+
+Notes:
+I've been to this concert venue a few times, and I've noticed that their sound system isn't good. This seems to be the case with another Stampede tent venue as well. The non-musical portions of the concert have been omitted in this version.
+
+Matthew Good: lead vocals
+Paul Fonseca: bass guitar
+Jimmy Reid: guitar
+Blake Manning: drums
+Tom Juhas: guitar
+
+Support the artists by seeing them live and buying their official merchandise.
+https://www.matthewgood.org 

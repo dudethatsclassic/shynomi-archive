@@ -52,7 +52,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Mwandishi Band",
-      "notes": "Jazz · WBCN FM",
+      "notes": "Jazz \u00b7 WBCN FM",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1973-03-21 - Boston, MA - Mwandishi Band - Jazz Workshop [FM].txt"
@@ -66,7 +66,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Hempstead, NY",
       "venue": "Ultrasonic Studios",
-      "notes": "mr_mags · goody pitch adjusted",
+      "notes": "mr_mags \u00b7 goody pitch adjusted",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1973-10-01 - Hempstead, NY - Ultrasonic Studios (mr_mags) (goody pitch adjusted) [FM].txt"
@@ -94,7 +94,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Lenox, MA",
       "venue": "Music Inn",
-      "notes": "unk · goody remaster",
+      "notes": "unk \u00b7 goody remaster",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1974-08-31 - Lenox, MA - Music Inn (unk) (goody remaster) [AUD].txt"
@@ -218,7 +218,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theatre",
-      "notes": "VSOP · Hubbard, Shorter, Williams, Carter",
+      "notes": "VSOP \u00b7 Hubbard, Shorter, Williams, Carter",
       "version": "FM",
       "format": "FLAC"
     },
@@ -233,7 +233,8 @@ const ARTIST_DATA = {
       "venue": "Sun Plaza",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1978-09-28 - Tokyo, Japan - Sun Plaza (unk) [AUD].txt"
     },
     {
       "year": 1987,

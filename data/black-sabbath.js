@@ -227,7 +227,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Zoom H2 \u00b7 Davemurray",
-      "textFile": "2013-11-26 - Copenhagen, Denmark  - Forum København (Zoom H2) (davemurray) [AUD].txt"
+      "textFile": "2013-11-26 - Copenhagen, Denmark  - Forum K\u00f8benhavn (Zoom H2) (davemurray) [AUD].txt"
     },
     {
       "year": 2025,

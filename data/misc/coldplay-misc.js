@@ -7,7 +7,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "2001-2003 - Hollywood Free Shows - Virgin Megastore",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - 2001-2003 - Hollywood Free Shows - Virgin Megastore.txt"
   },
   {
     "type": "label",
@@ -52,12 +53,14 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "When We Were Young (The Early Days Compilation)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - When We Were Young - The Early Days Compilation.txt"
   },
   {
     "type": "label",
     "label": "Yellow (Acoustic) - From Starbucks, Every Mother Counts CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Yellow (Acoustic) (from Starbucks, Every Mother Counts CD).txt"
   },
   {
     "type": "label",
@@ -79,7 +82,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Coldplay - Rarities (Box-set Collection)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Coldplay - Rarities (Box-set Collection) [COMP].txt"
   },
   {
     "type": "label",
@@ -94,7 +98,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Coldplay - Twisted Logic In Copenhagen [Silver]",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Coldplay - Twisted Logic In Copenhagen [Silver].txt"
   },
   {
     "type": "label",
@@ -159,7 +164,8 @@ const ARTIST_MISC_DATA = [
     "label": "Coldplay - A Rush of Blood to the Head (7243 5 40504 2 8)",
     "year": 2002,
     "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - 2002 Coldplay - A Rush of Blood to the Head (7243 5 40504 2 8) [FLAC].txt"
   },
   {
     "type": "release",
@@ -446,7 +452,8 @@ const ARTIST_MISC_DATA = [
     "label": "The Chainsmokers & Coldplay - Something Just Like This",
     "year": 2017,
     "format": "FLAC",
-    "category": "SINGLES"
+    "category": "SINGLES",
+    "textFile": "MISC - 2017 - The Chainsmokers & Coldplay - Something Just Like This (Remix Pack) [FLAC].txt"
   },
   {
     "type": "release",
@@ -486,7 +493,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Coldplay - Early Days 2000",
-    "format": "COMPILATION"
+    "format": "COMPILATION",
+    "textFile": "MISC - Coldplay - Early Days 2000 [COMPILATION].txt"
   },
   {
     "type": "release",
@@ -652,7 +660,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Coldplay - How You See The World No.2 (Previously Unreleased)"
+    "label": "Coldplay - How You See The World No.2 (Previously Unreleased)",
+    "textFile": "MISC - Coldplay - How You See The World No.2 (Previously Unreleased).txt"
   },
   {
     "type": "release",
@@ -675,7 +684,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Coldplay - Spies (Demo Version) Industry Only"
+    "label": "Coldplay - Spies (Demo Version) Industry Only",
+    "textFile": "MISC - Coldplay - Spies (Demo Version) Industry Only.txt"
   },
   {
     "type": "release",
@@ -688,7 +698,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Coldplay - Viva La Vida (Demos and Outtakes)"
+    "label": "Coldplay - Viva La Vida (Demos and Outtakes)",
+    "textFile": "MISC - Coldplay - Viva La Vida (Demos and Outtakes).txt"
   },
   {
     "type": "release",
@@ -907,5 +918,12 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Yellow (Acoustic) (from Starbucks, Every Mother Counts CD)"
+  },
+  {
+    "type": "release",
+    "label": "Higher Power (Acoustic Version) (24:48)",
+    "year": 2021,
+    "format": "FLAC HD",
+    "category": "SINGLES"
   }
 ];

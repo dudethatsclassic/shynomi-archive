@@ -20,7 +20,8 @@ const ARTIST_MISC_DATA = [
     "label": "The Offspring - 1986-87 Songs (Demo Cassette) (24-96)",
     "format": "FLAC",
     "year": 1986,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - The Offspring - 1986-7 Songs (Demo Cassette) (24-96) [FLAC].txt"
   },
   {
     "type": "release",

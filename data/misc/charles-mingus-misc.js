@@ -9,6 +9,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "1962 - Complete Birdland Broadcasts",
     "year": 1961,
-    "format": "FM"
+    "format": "FM",
+    "textFile": "MISC - 1961-1962 - Complete Birdland Broadcasts [FM].txt"
   }
 ];

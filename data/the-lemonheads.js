@@ -36,7 +36,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Gammelsdorf, Germany",
       "venue": "Zirkus",
-      "notes": "ANA(1) · unk · mark l.",
+      "notes": "ANA(1) \u00b7 unk \u00b7 mark l.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1989-06-16 - Gammelsdorf, Germany - Zirkus - ANA(1) (unk) (mark l.) [AUD].rtf"
@@ -92,7 +92,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Uebach Palenberg, Germany",
       "venue": "Rockfabrik",
-      "notes": "ANA(1) · unk · bobfather",
+      "notes": "ANA(1) \u00b7 unk \u00b7 bobfather",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-05-28 - Uebach Palenberg, Germany - Rockfabrik - ANA(1) (unk) (bobfather) [AUD].txt"
@@ -189,7 +189,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera",
-      "notes": "ECM-S220 · jb",
+      "notes": "ECM-S220 \u00b7 jb",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1992-11-13 - Chicago, IL - Riviera (ECM-S220) (jb) [AUD].txt"
@@ -203,7 +203,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera",
-      "notes": "ECM-S220 · jb",
+      "notes": "ECM-S220 \u00b7 jb",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -271,7 +271,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "McCabe's Guitar Shop (Evan Dando Acoustic Show) (Late Show)",
-      "notes": "DAT(M) · SS-DSM-6P · jems",
+      "notes": "DAT(M) \u00b7 SS-DSM-6P \u00b7 jems",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-11-06  - Santa Monica, CA - McCabe's Guitar Shop (Acoustic Show) (Late Show) - DAT(M) (SS-DSM-6P) (jems) [AUD].txt"
@@ -354,7 +354,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Kiamesha Lake",
-      "notes": "DAT(x) · gary watson transfer",
+      "notes": "DAT(x) \u00b7 gary watson transfer",
       "version": "SBD #1",
       "format": "FLAC",
       "textFile": "1994-03-20 - New York, NY - Kiamesha Lake [AUD].txt"
@@ -424,7 +424,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Perth, Australia",
       "venue": "Mudslinger Festival",
-      "notes": "Murdoch · M · Sony ECM-909a · franger",
+      "notes": "Murdoch \u00b7 M \u00b7 Sony ECM-909a \u00b7 franger",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-01-04 - Perth, Australia - Mudslinger Festival - Murdoch University (M) (Sony ECM-909a) (franger) [AUD].txt"
@@ -522,7 +522,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "The Macbeth (Evan Dando)",
-      "notes": "WAV(M) · gary watson",
+      "notes": "WAV(M) \u00b7 gary watson",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2009-05-13 - London, England - The Macbeth (Evan Dando) - WAV(M) (gary watson) (24bit) [SBD #1].txt"
@@ -550,7 +550,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Faiffield, CT",
       "venue": "The Warehouse",
-      "notes": "Edirol R-7 · lucca",
+      "notes": "Edirol R-7 \u00b7 lucca",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-05-02 - Faiffield, CT - The Warehouse (Edirol R-7) (lucca) [AUD].txt"
@@ -564,7 +564,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Brisbane, Australia",
       "venue": "The Zoo",
-      "notes": "CA-11s · audiowhore",
+      "notes": "CA-11s \u00b7 audiowhore",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-12-11 - Brisbane, Australia - The Zoo (CA-11s) (audiowhore) [AUD].txt"
@@ -578,7 +578,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Generac Power Stage",
-      "notes": "Summerfest · Edirol R-07 · lucca",
+      "notes": "Summerfest \u00b7 Edirol R-07 \u00b7 lucca",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-09-18 - Milwaukee, WI - Generac Power Stage - Summerfest (Edirol R-07) (lucca) [AUD].txt"
@@ -592,7 +592,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Thalia Hall",
-      "notes": "Edirol R-07 · lucca",
+      "notes": "Edirol R-07 \u00b7 lucca",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-11-11 - Chicago, IL - Thalia Hall (Edirol R-07) (lucca) [AUD].txt"
@@ -606,7 +606,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Cudahy, WI",
       "venue": "Xray Arcade",
-      "notes": "Edirol R-07 · lucca",
+      "notes": "Edirol R-07 \u00b7 lucca",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-11-17 - Cudahy, WI  - Xray Arcade (Edirol R-07) (lucca) [AUD].txt"
@@ -620,7 +620,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubbs",
-      "notes": "SXSW · SP-CMC-8 · unk",
+      "notes": "SXSW \u00b7 SP-CMC-8 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-03-17 - Austin, TX - Stubbs - SXSW 2022 (SP-CMC-8) [AUD24].txt"
@@ -634,7 +634,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Gruenspan",
-      "notes": "CA-14s · rcm",
+      "notes": "CA-14s \u00b7 rcm",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-04-28 - Hamburg, Germany - Gruenspan (CA-14s) (rcm) [AUD24].txt"
@@ -648,7 +648,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Mannheim, Germany",
       "venue": "Alte Feuerwache",
-      "notes": "Zoom H5 · wannerl",
+      "notes": "Zoom H5 \u00b7 wannerl",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-05-13 - Mannheim, Germany - Alte Feuerwache (Zoom H5) (wannerl) [AUD].txt"
@@ -662,7 +662,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Pumpehuset",
-      "notes": "CA14s · unk",
+      "notes": "CA14s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-05-23 - Copenhagen, Denmark - Pumpehuset (CA14s) (unk) [AUD].txt"
@@ -676,7 +676,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Saint Andrew's Hall",
-      "notes": "Shure MV88 · adavici",
+      "notes": "Shure MV88 \u00b7 adavici",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-12-11 - Detroit, MI - Saint Andrew's Hall (Shure MV88) (adavici) [AUD24].txt"
@@ -690,7 +690,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Le Poisson Rouge",
-      "notes": "Roland CS-10EM · phideaux3",
+      "notes": "Roland CS-10EM \u00b7 phideaux3",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-12-15 - New York, NY - Le Poisson Rouge (Roland CS-10) (phideaux3) [AUD24].txt"
@@ -704,7 +704,7 @@ const ARTIST_DATA = {
       "state": "NS",
       "location": "Halifax, NS",
       "venue": "Lighthouse Arts Centre",
-      "notes": "Tascam DR2d · colin waldschutz",
+      "notes": "Tascam DR2d \u00b7 colin waldschutz",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-03-30 - Halifax, NS - Lighthouse Arts Centre (Tascam DR2d) (colin waldschutz) [AUD].txt"
@@ -718,7 +718,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Swedish American Hall",
-      "notes": "Evan Dando Solo · Schoeps MK4s · loughney",
+      "notes": "Evan Dando Solo \u00b7 Schoeps MK4s \u00b7 loughney",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-03-02 - San Francisco, CA - Swedish American Hall (Evan Dando Solo) (Schoeps MK4s) (loughney) [AUD24].txt"
@@ -732,7 +732,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Islington Assembly Hall",
-      "notes": "Evan Dando · Sennheiser AMBEO · greg caliquette",
+      "notes": "Evan Dando \u00b7 Sennheiser AMBEO \u00b7 greg caliquette",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-10-30 - London, England - Islington Assembly Hall (Evan Dando) (Sennheiser AMBEO) (greg caliquette) [AUD24].txt"
@@ -746,7 +746,7 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Debaser",
-      "notes": "Line Audio CM4 · pata63",
+      "notes": "Line Audio CM4 \u00b7 pata63",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-08-29 - Stockholm, SWE - Debaser (Line Audio CM4) (pata63) [AUD].txt"
@@ -760,7 +760,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Loppen",
-      "notes": "DPA 4061 · tw",
+      "notes": "DPA 4061 \u00b7 tw",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-09-04 - Copenhagen, Denmark - Loppen (DPA 4061) (tw) [AUD24].txt"

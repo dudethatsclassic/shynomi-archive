@@ -637,7 +637,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 Sony ECM-155 \u00b7 mailman",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-08-31 - Copenhagen, Denmark - Christiania Den Grå Hal [AUD].txt"
+      "textFile": "1996-08-31 - Copenhagen, Denmark - Christiania Den Gr\u00e5 Hal [AUD].txt"
     },
     {
       "year": 1996,
@@ -3667,7 +3667,7 @@ const ARTIST_DATA = {
       "notes": "Rock",
       "version": "Webcast",
       "format": "MKV",
-      "textFile": "2022-06-03 - Nürburg, Germany - Nürburgring - Rock am Ring [WEBCAST].txt"
+      "textFile": "2022-06-03 - N\u00fcrburg, Germany - N\u00fcrburgring - Rock am Ring [WEBCAST].txt"
     },
     {
       "year": 2022,

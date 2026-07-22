@@ -14,14 +14,14 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Red Hot Chili Peppers - Flea\u00b4s Birthday Suit {AR161095} (1995)",
     "version": "Silver CD",
-    "format": "FLAC",
-    "textFile": "MISC - Red Hot Chili Peppers - Flea\u00b4s Birthday Suit {AR161095} (1995) [Silver].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
     "label": "Red Hot Chili Peppers - Coverin' {COW 107}",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Red Hot Chili Peppers - By the Way (2015) (24_96) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -34,21 +34,19 @@ const ARTIST_MISC_DATA = [
     "label": "Red Hot Chili Peppers - One Hot Globe {FAAB 0006-1}",
     "version": "Silver CD",
     "format": "FLAC",
-    "textFile": "MISC - Red Hot Chili Peppers - One Hot Globe (FAAB 0006-1) [Silver].txt"
+    "textFile": "MISC - Red Hot Chili Peppers - I'm With You (2015) (24_96) [FLAC HD].txt"
   },
   {
     "type": "release",
     "label": "Red Hot Chili Peppers - Christmas Party '91 {KTS 104} (1992)",
     "version": "Silver CD",
-    "format": "FLAC",
-    "textFile": "MISC - Red Hot Chili Peppers - Christmas Party '91 (1992) (KTS 104) [Silver].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
     "label": "Red Hot Chili Peppers - Holland 1991 {RFCD 1184} (1992)",
     "version": "Silver CD",
-    "format": "FLAC",
-    "textFile": "MISC - Red Hot Chili Peppers - Holland 1991 (1992) (RFCD 1184) [Silver].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
@@ -66,7 +64,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Red Hot Chili Peppers - Funk Off (Paris 90/Milan 92) {SKCD1078}",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Red Hot Chili Peppers - Coverin' [Silver].txt"
   },
   {
     "type": "release",
@@ -105,7 +104,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Red Hot Chili Peppers - Off the Map (2001)",
-    "format": "MKV"
+    "format": "MKV",
+    "textFile": "MISC - Red Hot Chili Peppers - Stadium Arcadium (2015) (24_96) [FLAC HD].txt"
   },
   {
     "type": "label",
@@ -199,7 +199,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "- Mother's Milk - Rough Instrumentals",
     "format": "1989",
-    "category": "RHCP ARCHIVE - NOVEMBER 2018"
+    "category": "RHCP ARCHIVE - NOVEMBER 2018",
+    "textFile": "MISC - [1989] - Mother's Milk - Rough Instrumentals.txt"
   },
   {
     "type": "release",
@@ -330,7 +331,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "RHCP - A Definitive Collection of Raw Material",
-    "format": "PRO"
+    "format": "PRO",
+    "textFile": "MISC - RHCP - A Definitive Collection of Raw Material [PRO].txt"
   },
   {
     "type": "release",
@@ -339,7 +341,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "RHCP - Flea (Demos)"
+    "label": "RHCP - Flea (Demos)",
+    "textFile": "MISC - RHCP - Flea (Demos).txt"
   },
   {
     "type": "release",
@@ -355,20 +358,24 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "RHCP - Milafornication",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - RHCP - Milafornication [Silver].txt"
   },
   {
     "type": "release",
-    "label": "RHCP - UMPP Instrumental Demos (13)"
+    "label": "RHCP - UMPP Instrumental Demos (13)",
+    "textFile": "MISC - RHCP - UMPP Instrumental Demos (13).txt"
   },
   {
     "type": "release",
-    "label": "RHCP - Westwood One 1989-1991"
+    "label": "RHCP - Westwood One 1989-1991",
+    "textFile": "MISC - RHCP - Westwood One 1989-1991.txt"
   },
   {
     "type": "release",
     "label": "Red Hot Chili Peppers - Coverin'",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - Red Hot Chili Peppers - Californication (2015) (24_96) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -391,7 +398,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Red Hot Chili Peppers - Live in Paris (2016)",
     "year": 2016,
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Red Hot Chili Peppers - One Hot Minute (2015) (24_96) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -420,5 +428,91 @@ const ARTIST_MISC_DATA = [
     "label": "Red Hot Chili Peppers - Transmission Impossible (2016)",
     "year": 2016,
     "version": "Silver CD"
+  },
+  {
+    "type": "release",
+    "label": "Give It Away EP (Warner Bros WPCP-4750 JP)",
+    "year": 1992,
+    "format": "FLAC",
+    "category": "SINGLES",
+    "textFile": "MISC - 1992 - Give It Away EP (Warner Bros WPCP-4750 JP) [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Under the Bridge (Warner Bros 9362-40358-2 EU)",
+    "year": 1992,
+    "format": "FLAC",
+    "category": "SINGLES",
+    "textFile": "MISC - 1992 - Under the Bridge (Warner Bros 9362-40358-2 EU) [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Soul To Squeeze (Coneheads album version) (Warner PRO-CD-6393)",
+    "year": 1993,
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Red Hot Chili Peppers - My Friends (CDS) {W0317CD}",
+    "year": 1995,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Warped (Warner Bros 9362-43595-2 EU)",
+    "year": 1995,
+    "format": "FLAC",
+    "category": "SINGLES",
+    "textFile": "MISC - 1995 - Warped (Warner Bros 9362-43595-2 EU) [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Californication (Warner Bros 9362 44872-2 EU)",
+    "year": 2000,
+    "format": "FLAC",
+    "category": "SINGLES",
+    "textFile": "MISC - 2000 - Californication (Warner Bros 9362 44872-2 EU) [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Fortune Faded (CDS) {9362 42680 2}",
+    "year": 2003,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Hump De Bump (CDS) {9362499725} (Austria)",
+    "year": 2007,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Monarchy Of Roses (Promo) (PRO16943)",
+    "year": 2011,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Red Hot Chili Peppers - Christmas Party '91 (1992) (KTS 104)",
+    "year": 1992,
+    "version": "Silver CD",
+    "textFile": "MISC - Red Hot Chili Peppers - Christmas Party '91 (1992) (KTS 104) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Red Hot Chili Peppers - Holland 1991 (1992) (RFCD 1184)",
+    "year": 1992,
+    "version": "Silver CD",
+    "textFile": "MISC - Red Hot Chili Peppers - Holland 1991 (1992) (RFCD 1184) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Red Hot Chili Peppers - One Hot Globe (FAAB 0006-1)",
+    "version": "Silver CD",
+    "textFile": "MISC - Red Hot Chili Peppers - Outtakes and Demos - 1985-1988.txt"
   }
 ];

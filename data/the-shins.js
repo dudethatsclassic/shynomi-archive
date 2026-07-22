@@ -144,7 +144,7 @@ const ARTIST_DATA = {
       "notes": "Tra\u0308dga\u030ar'n",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2004-07-07 - Gothenburg, Sweden - Accelerator Festival - Trädgår'n [SBD].txt"
+      "textFile": "2004-07-07 - Gothenburg, Sweden - Accelerator Festival - Tr\u00e4dg\u00e5r'n [SBD].txt"
     },
     {
       "year": 2004,

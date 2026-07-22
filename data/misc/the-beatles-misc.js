@@ -17,7 +17,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "label",
-    "label": "1969 Beatles - Jamming With Heather"
+    "label": "1969 Beatles - Jamming With Heather",
+    "textFile": "MISC - 1969 - Beatles - Jamming With Heather.txt"
   },
   {
     "type": "label",
@@ -56,7 +57,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Black Album (Different Version)",
-    "version": "Sllver CD"
+    "version": "Sllver CD",
+    "textFile": "MISC - The Black Album (Different Version).txt"
   },
   {
     "type": "label",
@@ -123,7 +125,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Ultimate Beatles' Christmas Collection [Vigotone]",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - The Ultimate Beatles' Christmas Collection [Vigotone].txt"
   },
   {
     "type": "release",
@@ -151,12 +154,14 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "label",
-    "label": "The Beatles - Winter of Discontent"
+    "label": "The Beatles - Winter of Discontent",
+    "textFile": "MISC - The Beatles - Winter of Discontent [DVD].txt"
   },
   {
     "type": "release",
     "label": "The Beatles (1992) - Vintage Songs (Limited Edition)",
-    "version": "SBD"
+    "version": "SBD",
+    "textFile": "MISC - Beatles (1992) - Vintage Songs (Limited Edition).txt"
   },
   {
     "type": "label",
@@ -184,11 +189,13 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "label",
-    "label": "RMW 629 - Secret Songs In Pepperland (Remasters Workshop)"
+    "label": "RMW 629 - Secret Songs In Pepperland (Remasters Workshop)",
+    "textFile": "MISC - RMW 629 - Secret Songs In Pepperland (Remasters Workshop).txt"
   },
   {
     "type": "label",
-    "label": "RMW 629 - 1966-06-30 Tokyo, Japan - Budokan (Remasters Workshop)"
+    "label": "RMW 629 - 1966-06-30 Tokyo, Japan - Budokan (Remasters Workshop)",
+    "textFile": "MISC - RMW 629 1966-06-30 Tokyo, Japan - Budokan (Remasters Workshop).txt"
   },
   {
     "type": "label",
@@ -240,7 +247,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "label",
-    "label": "Condor 1991 - Sessions"
+    "label": "Condor 1991 - Sessions",
+    "textFile": "MISC - (Condor 1991) Sessions.txt"
   },
   {
     "type": "label",
@@ -693,11 +701,13 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "label",
-    "label": "Ultra Rare Trax Volume 1 [Swingin' Pig]"
+    "label": "Ultra Rare Trax Volume 1 [Swingin' Pig]",
+    "textFile": "MISC - Ultra Rare Trax Volume 1 [Swingin' Pig].txt"
   },
   {
     "type": "label",
-    "label": "Ultra Rare Trax Volume 2 [Swingin' Pig]"
+    "label": "Ultra Rare Trax Volume 2 [Swingin' Pig]",
+    "textFile": "MISC - Ultra Rare Trax Volume 2 [Swingin' Pig].txt"
   },
   {
     "type": "label",
@@ -709,7 +719,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "label",
-    "label": "Ultra Rare Trax Volume 5 [Swingin' Pig]"
+    "label": "Ultra Rare Trax Volume 5 [Swingin' Pig]",
+    "textFile": "MISC - Ultra Rare Trax Volume 5 [Swingin' Pig].txt"
   },
   {
     "type": "label",
@@ -1058,8 +1069,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "(Condor 1991) Sessions",
-    "textFile": "MISC - (Condor 1991) Sessions.txt"
+    "label": "(Condor 1991) Sessions"
   },
   {
     "type": "release",
@@ -1164,17 +1174,20 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 BRG01 - Tuned To A Natural E v1",
-    "category": "Beatles Remixers Group (BRG)"
+    "category": "Beatles Remixers Group (BRG)",
+    "textFile": "MISC - beatles0000-00-00.flac16 BRG01 - Tuned To A Natural E v1.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 BRG02 - Rubber Sounds",
-    "category": "Beatles Remixers Group (BRG)"
+    "category": "Beatles Remixers Group (BRG)",
+    "textFile": "MISC - beatles0000-00-00.flac16 BRG02 - Rubber Sounds.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 BRG05 - Tuned To A Natural E v2",
-    "category": "Beatles Remixers Group (BRG)"
+    "category": "Beatles Remixers Group (BRG)",
+    "textFile": "MISC - beatles0000-00-00.flac16 BRG05 - Tuned To A Natural E v2.txt"
   },
   {
     "type": "release",
@@ -1184,7 +1197,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 BRG07 - Tuned To A Natural E v3",
-    "category": "Beatles Remixers Group (BRG)"
+    "category": "Beatles Remixers Group (BRG)",
+    "textFile": "MISC - beatles0000-00-00.flac16 BRG07 - Tuned To A Natural E v3.txt"
   },
   {
     "type": "release",
@@ -1194,22 +1208,26 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 BRG10 - Tuned To A Natural E v4",
-    "category": "Beatles Remixers Group (BRG)"
+    "category": "Beatles Remixers Group (BRG)",
+    "textFile": "MISC - beatles0000-00-00.flac16 BRG10 - Tuned To A Natural E v4.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 BRG12 - Tuned To A Natural E v5",
-    "category": "Beatles Remixers Group (BRG)"
+    "category": "Beatles Remixers Group (BRG)",
+    "textFile": "MISC - beatles0000-00-00.flac16 BRG12 - Tuned To A Natural E v5.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 BRG14 - Tuned To A Natural E v6 - The Remixes",
-    "category": "Beatles Remixers Group (BRG)"
+    "category": "Beatles Remixers Group (BRG)",
+    "textFile": "MISC - beatles0000-00-00.flac16 BRG14 - Tuned To A Natural E v6 - The Remixes.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 BRG15 - Tuned To A Natural E v6 - The Mashups",
-    "category": "Beatles Remixers Group (BRG)"
+    "category": "Beatles Remixers Group (BRG)",
+    "textFile": "MISC - beatles0000-00-00.flac16 BRG15 - Tuned To A Natural E v6 - The Mashups.txt"
   },
   {
     "type": "release",
@@ -1219,27 +1237,32 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 BRG18 - Tuned To A Natural E v7",
-    "category": "Beatles Remixers Group (BRG)"
+    "category": "Beatles Remixers Group (BRG)",
+    "textFile": "MISC - beatles0000-00-00.flac16 BRG18 - Tuned To A Natural E v7.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 BRG22 - Tuned To A Natural E v8",
-    "category": "Beatles Remixers Group (BRG)"
+    "category": "Beatles Remixers Group (BRG)",
+    "textFile": "MISC - beatles0000-00-00.flac16 BRG22 - Tuned To A Natural E v8.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Complilation - 1965 Rubber Soul Recording Sessions",
-    "category": "Compilation"
+    "category": "Compilation",
+    "textFile": "MISC - beatles0000-00-00.flac16 Complilation - 1965 Rubber Soul Recording Sessions.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Complilation - 1968 Primal Colours Unreleased",
-    "category": "Compilation"
+    "category": "Compilation",
+    "textFile": "MISC - beatles0000-00-00.flac16 Complilation - 1968 Primal Colours Unreleased.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Complilation - 1969-01-xx More Rhine River and Final Rhine River",
-    "category": "Compilation"
+    "category": "Compilation",
+    "textFile": "MISC - beatles0000-00-00.flac16 Complilation - 1969-01-xx More Rhine River and Final Rhine River.txt"
   },
   {
     "type": "release",
@@ -1249,7 +1272,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Complilation - Magical Mystery Demos (Parlophone)",
-    "category": "Compilation"
+    "category": "Compilation",
+    "textFile": "MISC - beatles0000-00-00.flac16 Complilation - Magical Mystery Demos (Parlophone).txt"
   },
   {
     "type": "release",
@@ -1390,7 +1414,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "PC 060 - Meet The Threetles - Purple Chick Compilation",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 060 - Meet The Threetles - Purple Chick Compilation.txt"
   },
   {
     "type": "release",
@@ -1401,58 +1426,69 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "PC 068 - Strong Before Our Birth",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 068 - Strong Before Our Birth.txt"
   },
   {
     "type": "release",
     "label": "PC 102 - 103 Please Please Me",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 102 - 103 Please Please Me.txt"
   },
   {
     "type": "release",
     "label": "PC 104 - 106 With The Beatles",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 104 - 106 With The Beatles.txt"
   },
   {
     "type": "release",
     "label": "PC 107 - 109 A Hard Day's Night",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 107 - 109 A Hard Day's Night.txt"
   },
   {
     "type": "release",
     "label": "PC 110 - 112 Beatles For Sale",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 110 - 112 Beatles For Sale.txt"
   },
   {
     "type": "release",
     "label": "PC 113 - 115 Deluxe Edition - Help!",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 113 - 115 Deluxe Edition - Help!.txt"
   },
   {
     "type": "release",
     "label": "PC 116 - 118 Deluxe Edition - Rubber Soul",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 116 - 118 Deluxe Edition - Rubber Soul.txt"
   },
   {
     "type": "release",
     "label": "PC 119 - 121 Deluxe Edition - Revolver",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 119 - 121 Deluxe Edition - Revolver.txt"
   },
   {
     "type": "release",
     "label": "PC 122 - 125 and PC 153 Deluxe Edition - Sgt Pepper",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 122 - 125 and PC 153 Deluxe Edition - Sgt Pepper.txt"
   },
   {
     "type": "release",
     "label": "PC 127 - 130 Deluxe Edition - Magical Mystery Year",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 127 - 130 Deluxe Edition - Magical Mystery Year.txt"
   },
   {
     "type": "release",
     "label": "PC 131 - 142 Deluxe Edition 10 - The Beatles",
     "format": "Purple Chick 131-142",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 131 - 142 Deluxe Edition 10 - The Beatles [Purple Chick 131-142].txt"
   },
   {
     "type": "release",
@@ -1464,38 +1500,45 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "PC 149 - 151 Deluxe Edition 12 - Abbey Road",
     "format": "Purple Chick 149-151",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 149 - 151 Deluxe Edition 12 - Abbey Road [Purple Chick 149-151].txt"
   },
   {
     "type": "release",
     "label": "PC 152 - Deluxe Edition 13 - From Then To You",
     "format": "Purple Chick 152",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 152 - Deluxe Edition 13 - From Then To You [Purple Chick 152].txt"
   },
   {
     "type": "release",
     "label": "PC 154 - Deluxe - Songs The Beatles Gave Away",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 154 - Deluxe - Songs The Beatles Gave Away.txt"
   },
   {
     "type": "release",
     "label": "PC 155 - 156 Live At The Hollywood Bowl",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 155 - 156 Live At The Hollywood Bowl.txt"
   },
   {
     "type": "release",
     "label": "PC 157-158 - Live 01 - 1962 Star Club",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 157-158 - Live 01 - 1962 Star Club.txt"
   },
   {
     "type": "release",
     "label": "PC 159-160 - Live 02 - 1963 Before America",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 159-160 - Live 02 - 1963 Before America.txt"
   },
   {
     "type": "release",
     "label": "PC 161-162 - Live 03 - 1964 Conquering America",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 161-162 - Live 03 - 1964 Conquering America.txt"
   },
   {
     "type": "release",
@@ -1505,37 +1548,44 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "PC 165-166 - Live 05 - 1965 Seattle Down Now",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 165-166 - Live 05 - 1965 Seattle Down Now.txt"
   },
   {
     "type": "release",
     "label": "PC 167-168 - Live 06 - 1965 Convention Hall Wisdom",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 167-168 - Live 06 - 1965 Convention Hall Wisdom.txt"
   },
   {
     "type": "release",
     "label": "PC 169-170 - Live 07 - 1965 Les beatles en europe",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 169-170 - Live 07 - 1965 Les beatles en europe.txt"
   },
   {
     "type": "release",
     "label": "PC 171-172 - Live 08 - 1965 Sheaken not stirred",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 171-172 - Live 08 - 1965 Sheaken not stirred.txt"
   },
   {
     "type": "release",
     "label": "PC 173-174 - Live 09 - 1965 Bowled Over",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 173-174 - Live 09 - 1965 Bowled Over.txt"
   },
   {
     "type": "release",
     "label": "PC 175-176 - Live 10 - Far East Men",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 175-176 - Live 10 - Far East Men.txt"
   },
   {
     "type": "release",
     "label": "PC 177-178 - Live 11 - The Last Tour",
-    "category": "Purple Chick Label Editions"
+    "category": "Purple Chick Label Editions",
+    "textFile": "MISC - PC 177-178 - Live 11 - The Last Tour.txt"
   },
   {
     "type": "release",
@@ -1555,7 +1605,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 RMW 661 - Unsurpassed Masters v1 (Remasters Workshop)",
-    "category": "Remasters Workshop"
+    "category": "Remasters Workshop",
+    "textFile": "MISC - beatles0000-00-00.flac16 RMW 661 - Unsurpassed Masters v1 (Remasters Workshop).txt"
   },
   {
     "type": "release",
@@ -1605,22 +1656,26 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS005 - Anthropology",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS005 - Anthropology.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS006 - Farewell To Clubland",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS006 - Farewell To Clubland.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS025 - In Concert - Liverpool 1963-12-07 - Washington 1964-02-11",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS025 - In Concert - Liverpool 1963-12-07 - Washington 1964-02-11.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS047-48 - In Concert - Hamburg 1962-12-25 - Hamburg 1962-12-28 - Hamburg 1962-12-31",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS047-48 - In Concert - Hamburg 1962-12-25 - Hamburg 1962-12-28 - Hamburg 1962-12-31.txt"
   },
   {
     "type": "release",
@@ -1630,12 +1685,14 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS057-58 - One Before 911",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS057-58 - One Before 911.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS064 - Stereo '65",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS064 - Stereo '65.txt"
   },
   {
     "type": "release",
@@ -1650,32 +1707,38 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS076-77 - Complete Home Recordings v1 1958-62",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS076-77 - Complete Home Recordings v1 1958-62.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS078 - Complete Home Recordings v2 1963",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS078 - Complete Home Recordings v2 1963.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS079 - Complete Home Recordings v3 1964-66",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS079 - Complete Home Recordings v3 1964-66.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS080 - Complete Home Recordings v4 1967-68",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS080 - Complete Home Recordings v4 1967-68.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS081 - Complete Home Recordings v5 1968",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS081 - Complete Home Recordings v5 1968.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS082 - Complete Home Recordings v6 1968-69",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS082 - Complete Home Recordings v6 1968-69.txt"
   },
   {
     "type": "release",
@@ -1700,42 +1763,50 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS102 -103 - Sessionography One",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS102 -103 - Sessionography One.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS117 -118 - Playback One",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS117 -118 - Playback One.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS119 -120 - Playback Two",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS119 -120 - Playback Two.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS121 -122 - Playback Three",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS121 -122 - Playback Three.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS123 -124 - Playback Four",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS123 -124 - Playback Four.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS129 -130 - Sessionography Two",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS129 -130 - Sessionography Two.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS131 -132 - Sessionography Three",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS131 -132 - Sessionography Three.txt"
   },
   {
     "type": "release",
     "label": "beatles0000-00-00.flac16 Silent Sea SS133 -134 - Sessionography Four",
-    "category": "Silent Sea"
+    "category": "Silent Sea",
+    "textFile": "MISC - beatles0000-00-00.flac16 Silent Sea SS133 -134 - Sessionography Four.txt"
   },
   {
     "type": "release",
@@ -1797,7 +1868,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "05-XX - Acoustic Esher Demos.flac",
-    "year": 1968
+    "year": 1968,
+    "textFile": "MISC - 1968-05-XX - Acoustic Esher Demos.flac.txt"
   },
   {
     "type": "release",
@@ -1851,7 +1923,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Beatles - 1968 Demos"
+    "label": "Beatles - 1968 Demos",
+    "textFile": "MISC - Beatles - 1968 Demos.txt"
   },
   {
     "type": "release",
@@ -1859,16 +1932,19 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Beatles - Alternative Rubber Soul Versions"
+    "label": "Beatles - Alternative Rubber Soul Versions",
+    "textFile": "MISC - Beatles - Alternative Rubber Soul Versions.txt"
   },
   {
     "type": "release",
-    "label": "Beatles - Anthology Plus"
+    "label": "Beatles - Anthology Plus",
+    "textFile": "MISC - Beatles - Anthology Plus.txt"
   },
   {
     "type": "release",
     "label": "Beatles - Arrive Without Aging",
-    "format": "Vigotone VT-6869"
+    "format": "Vigotone VT-6869",
+    "textFile": "MISC - Beatles - Arrive Without Aging [Vigotone VT-6869].txt"
   },
   {
     "type": "release",
@@ -1876,7 +1952,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Beatles - Lost Pepperland Reel & Other Rarities.flac"
+    "label": "Beatles - Lost Pepperland Reel & Other Rarities.flac",
+    "textFile": "MISC - Beatles - Lost Pepperland Reel & Other Rarities.flac.txt"
   },
   {
     "type": "release",
@@ -1894,11 +1971,13 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "The Beatles - Odds and Sods Vol. 3"
+    "label": "The Beatles - Odds and Sods Vol. 3",
+    "textFile": "MISC - The Beatles - Odds and Sods Vol. 3.txt"
   },
   {
     "type": "release",
-    "label": "The Beatles - Turn Me On Dead Man"
+    "label": "The Beatles - Turn Me On Dead Man",
+    "textFile": "MISC - The Beatles - Turn Me On Dead Man.txt"
   },
   {
     "type": "release",
@@ -1915,7 +1994,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "The Other Way Of Crossing"
+    "label": "The Other Way Of Crossing",
+    "textFile": "MISC - The Other Way Of Crossing.txt"
   },
   {
     "type": "release",
@@ -1936,10 +2016,12 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "We've Got Combs"
+    "label": "We've Got Combs",
+    "textFile": "MISC - We've Got Combs.txt"
   },
   {
     "type": "release",
-    "label": "You Become Naked (Medusa)"
+    "label": "You Become Naked (Medusa)",
+    "textFile": "MISC - You Become Naked (Medusa).txt"
   }
 ];

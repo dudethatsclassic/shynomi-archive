@@ -231,7 +231,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Savvis Center",
-      "notes": "Core Sound Stealthy Cardiods · shane e. calhoon",
+      "notes": "Core Sound Stealthy Cardiods \u00b7 shane e. calhoon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-04-27 - St. Louis, MO - Savvis Center (Core Sound Stealthy Cardiods) (shane e. calhoon) [AUD].txt"
@@ -245,7 +245,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Gund Arena",
-      "notes": "SP-CMC-7 · saltshaker",
+      "notes": "SP-CMC-7 \u00b7 saltshaker",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2003-05-06 - Cleveland, OH - Gund Arena (SP-CMC-7) (saltshaker) [AUD24].txt"
@@ -287,7 +287,7 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Brisbane, AUS",
       "venue": "Brisbane Entertainment Centre",
-      "notes": "Sony Stereo mic · unk",
+      "notes": "Sony Stereo mic \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-08-02 - Brisbane, AUS - Brisbane Entertainment Centre (Sony Stereo mic) (unk) [AUD].txt"
@@ -385,7 +385,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Darien Lake, NY",
       "venue": "Performing Arts Center",
-      "notes": "AT831s · binko",
+      "notes": "AT831s \u00b7 binko",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2017-09-11 - Darien Lake, NY - Performing Arts Center (AT831s) (binko) [AUD].txt"
@@ -399,7 +399,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Bowl",
-      "notes": "SP-CMC-4U · ijwthstd",
+      "notes": "SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-05-22 - Hollywood, CA - Hollywood Bowl (SP-CMC-4U) (ijwthstd) [AUD].txt"
@@ -426,7 +426,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Fort Myers, FL",
       "venue": "Hammond Stadium",
-      "notes": "Roland Edirol R09 · unk",
+      "notes": "Roland Edirol R09 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-10-07 - Fort Myers, FL - Hammond Stadium (Roland Edirol R09) (unk) [AUD].txt"
@@ -440,7 +440,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Darien Lake, NY",
       "venue": "Performing Arts Center",
-      "notes": "AT mics · binko",
+      "notes": "AT mics \u00b7 binko",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-08-01 - Darien Lake, NY - Performing Arts Center (AT mics) (binko) [AUD] .txt"

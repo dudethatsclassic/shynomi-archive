@@ -31,11 +31,13 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Candlebox - Both Ends Burning",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - Candlebox - Both Ends Burning [Silver].txt"
   },
   {
     "type": "release",
     "label": "Candlebox - Into The Flame",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - Candlebox - Into The Flame [Silver].txt"
   }
 ];

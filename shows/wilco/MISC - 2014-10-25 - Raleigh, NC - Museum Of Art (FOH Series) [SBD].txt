@@ -1,0 +1,178 @@
+Title: Wilco - 2014-10-25 North Carolina Museum of Art, Raleigh, NC [48993]-REDUNDANT
+Artist: Wilco
+Venue: North Carolina Museum of Art, Raleigh, NC
+Date: 2014-10-25
+Release: https://play.nugs.net/release/48993
+
+Setlist:
+
+Set 1:
+  01. Ashes Of American Flags
+  02. Either Way
+  03. I Am Trying To Break Your Heart
+  04. Art Of Almost
+  05. At Least That's What You Said
+  06. Hell Is Chrome
+  07. Handshake Drugs
+  08. Side With The Seeds
+  09. Pot Kettle Black
+  10. Cars Can't Escape
+  11. Spiders (Kidsmoke)
+  12. She's A Jar
+  13. You and I
+  14. Hummingbird
+  15. A Magazine Called Sunset
+  16. Via Chicago
+  17. Whole Love
+  18. Impossible Germany
+  19. Passenger Side
+  20. Theologians
+  21. Jesus, Etc.
+  22. Box Full Of Letters
+  23. Heavy Metal Drummer
+  24. I'm The Man Who Loves You
+
+Set 2:
+  25. Kingpin
+  26. Red-Eyed And Blue
+  27. Outtasite (Outta Mind)
+
+Encore:
+  28. Misunderstood
+  29. New Madrid
+  30. California Stars
+
+Show Notes:
+
+Songs: 30
+Sets: 3 (with encore)
+
+-------------------------------
+mediainfo:
+
+{
+    "track": [
+        {
+            "@type": "General",
+            "Count": "348",
+            "StreamCount": "1",
+            "StreamKind": "General",
+            "StreamKind_String": "General",
+            "StreamKindID": "0",
+            "AudioCount": "1",
+            "Audio_Format_List": "FLAC",
+            "Audio_Format_WithHint_List": "FLAC",
+            "Audio_Codec_List": "FLAC",
+            "Format": "FLAC",
+            "Format_String": "FLAC",
+            "Format_Info": "Free Lossless Audio Codec",
+            "Format_Url": "https://xiph.org/flac/",
+            "Format_Extensions": "fla flac",
+            "Format_Commercial": "FLAC",
+            "InternetMediaType": "audio/x-flac",
+            "FileSize": "31558428",
+            "FileSize_String": "30.1 MiB",
+            "FileSize_String1": "30 MiB",
+            "FileSize_String2": "30 MiB",
+            "FileSize_String3": "30.1 MiB",
+            "FileSize_String4": "30.10 MiB",
+            "Duration": "366.173",
+            "Duration_String": "6 min 6 s",
+            "Duration_String1": "6 min 6 s 173 ms",
+            "Duration_String2": "6 min 6 s",
+            "Duration_String3": "00:06:06.173",
+            "Duration_String5": "00:06:06.173",
+            "OverallBitRate_Mode": "VBR",
+            "OverallBitRate_Mode_String": "Variable",
+            "OverallBitRate": "689476",
+            "OverallBitRate_String": "689 kb/s",
+            "StreamSize": "0",
+            "StreamSize_String": "0.00 Byte (0%)",
+            "StreamSize_String1": " Byte0",
+            "StreamSize_String2": "0.0 Byte",
+            "StreamSize_String3": "0.00 Byte",
+            "StreamSize_String4": "0.000 Byte",
+            "StreamSize_String5": "0.00 Byte (0%)",
+            "StreamSize_Proportion": "0.00000",
+            "Title": "Whole Love",
+            "Album": "10/25/14 North Carolina Museum of Art, Raleigh, NC ",
+            "Album_Performer": "Wilco",
+            "Part": "1",
+            "Track": "Whole Love",
+            "Track_Position": "17",
+            "Track_Position_Total": "30",
+            "Performer": "Wilco",
+            "Genre": "Rock",
+            "Description": "powered by nugs.net",
+            "Recorded_Date": "2014-10-25",
+            "Encoded_Application": "Lavf59.27.100",
+            "Encoded_Application_String": "Lavf59.27.100",
+            "Copyright": "2014, Wilco",
+            "Cover": "Yes",
+            "Cover_Description": "\"Album cover\"",
+            "Cover_Mime": "image/jpeg",
+            "extra": {
+                "VENUE": "North Carolina Museum of Art, Raleigh, NC"
+            }
+        },
+        {
+            "@type": "Audio",
+            "Count": "286",
+            "StreamCount": "1",
+            "StreamKind": "Audio",
+            "StreamKind_String": "Audio",
+            "StreamKindID": "0",
+            "Format": "FLAC",
+            "Format_String": "FLAC",
+            "Format_Info": "Free Lossless Audio Codec",
+            "Format_Url": "https://xiph.org/flac/",
+            "Format_Commercial": "FLAC",
+            "InternetMediaType": "audio/x-flac",
+            "Duration": "366.173",
+            "Duration_String": "6 min 6 s",
+            "Duration_String1": "6 min 6 s 173 ms",
+            "Duration_String2": "6 min 6 s",
+            "Duration_String3": "00:06:06.173",
+            "Duration_String5": "00:06:06.173",
+            "BitRate_Mode": "VBR",
+            "BitRate_Mode_String": "Variable",
+            "BitRate": "684090",
+            "BitRate_String": "684 kb/s",
+            "Channels": "2",
+            "Channels_String": "2 channels",
+            "ChannelPositions": "Front: L R",
+            "ChannelPositions_String2": "2/0/0",
+            "ChannelLayout": "L R",
+            "SamplingRate": "44100",
+            "SamplingRate_String": "44.1 kHz",
+            "SamplingCount": "16148244",
+            "BitDepth": "16",
+            "BitDepth_String": "16 bits",
+            "Compression_Mode": "Lossless",
+            "Compression_Mode_String": "Lossless",
+            "StreamSize": "31311894",
+            "StreamSize_String": "29.9 MiB (99%)",
+            "StreamSize_String1": "30 MiB",
+            "StreamSize_String2": "30 MiB",
+            "StreamSize_String3": "29.9 MiB",
+            "StreamSize_String4": "29.86 MiB",
+            "StreamSize_String5": "29.9 MiB (99%)",
+            "StreamSize_Proportion": "0.99219",
+            "Encoded_Library": "Lavf59.27.100",
+            "Encoded_Library_String": "Lavf59.27.100",
+            "extra": {
+                "MD5_Unencoded": "12524E12E7275DE6CF13A998DAD360A1"
+            }
+        }
+    ]
+}
+-------------------------------
+
+
+====================================================================
+      ____  __________  __  ___   ______  ___    _   ________
+     / __ \/ ____/ __ \/ / / / | / / __ \/   |  / | / /_  __/
+    / /_/ / __/ / / / / / / /  |/ / / / / /| | /  |/ / / /   
+   / _, _/ /___/ /_/ / /_/ / /|  / /_/ / ___ |/ /|  / / /    
+  /_/ |_/_____/_____/\____/_/ |_/_____/_/  |_/_/ |_/ /_/
+====================================================================

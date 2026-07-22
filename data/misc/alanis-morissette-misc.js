@@ -49,7 +49,8 @@ const ARTIST_MISC_DATA = [
     "label": "Alanis Morissette - Jagged Little Pill Live {7599-38476-2} (1997)",
     "format": "DVD",
     "year": 1997,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Alanis Morissette - Jagged Little Pill (Acoustic) (2015) (24_96) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -113,7 +114,8 @@ const ARTIST_MISC_DATA = [
     "label": "Alanis Morissette - Jagged Little Pill (Acoustic) (2015) (24/96)",
     "format": "FLAC HD",
     "year": 2015,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Alanis Morissette - Jagged Little Pill (2015) (24_44.1) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -241,6 +243,13 @@ const ARTIST_MISC_DATA = [
     "label": "Alanis Morissette - Head Over Feet {9362437192 Australia} (1995)",
     "format": "FLAC",
     "year": 1995,
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Alanis Morissette - Head Over Feet {9362437192} (1995)",
+    "year": 1995,
+    "format": "FLAC",
     "category": "SINGLES"
   }
 ];

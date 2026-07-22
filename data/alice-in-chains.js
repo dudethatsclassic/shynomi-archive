@@ -1478,7 +1478,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-03-08 - Paris, France - Elysée Montmartre (Aiwa CM-30) (stephane) [AUD].txt"
+      "textFile": "1993-03-08 - Paris, France - Elys\u00e9e Montmartre (Aiwa CM-30) (stephane) [AUD].txt"
     },
     {
       "year": 1993,
@@ -1492,7 +1492,7 @@ const ARTIST_DATA = {
       "notes": "Aiwa CM-30 \u00b7 stephane",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-03-08 - Paris, France - Elysée Montmartre [AUD].txt"
+      "textFile": "1993-03-08 - Paris, France - Elys\u00e9e Montmartre [AUD].txt"
     },
     {
       "year": 1993,
@@ -1898,7 +1898,7 @@ const ARTIST_DATA = {
       "notes": "Aiwa CM-30 \u00b7 stephane",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-10-15 - Paris, France - Elysée Montmartre (Aiwa CM30) (stephane) [AUD].txt"
+      "textFile": "1993-10-15 - Paris, France - Elys\u00e9e Montmartre (Aiwa CM30) (stephane) [AUD].txt"
     },
     {
       "year": 1993,
@@ -2191,7 +2191,7 @@ const ARTIST_DATA = {
       "notes": "Rock \u00b7 PRO \u00b7 freezed",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "2006-06-02 - Nürburg, DE - Nürburgring - Rock am Ring (PRO) (freezed) [DVD].txt"
+      "textFile": "2006-06-02 - N\u00fcrburg, DE - N\u00fcrburgring - Rock am Ring (PRO) (freezed) [DVD].txt"
     },
     {
       "year": 2006,

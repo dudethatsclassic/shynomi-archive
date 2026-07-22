@@ -12,7 +12,8 @@ const ARTIST_MISC_DATA = [
     "label": "Goo Goo Dolls - Superstar Car Wash Demos (1992)",
     "format": "FLAC",
     "year": 1992,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Goo Goo Dolls - Superstar Car Wash Demos (1992) .txt"
   },
   {
     "type": "release",

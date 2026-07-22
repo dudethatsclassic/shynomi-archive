@@ -1,0 +1,51 @@
+Low
+March 27, 1999
+Miramar Theatre, Milwaukee, WI, USA
+Recorded and Mastered by kkchome
+
+RECORDING INFO:
+AKG460(CK61 Cardioid Caps - ORTF Configuration FOB/DFC @ 10') >
+AKG B-18 Phantom Power >
+Zefiro Inbox 20 Bit A/D Converter & Mic Preamp >
+Sony TDC D8 DAT Recorder>
+DAT Master @ 16/44.1kHz
+
+MASTERING INFO:
+DAT Master @ 16/44.1kHz
+Tascam DA-302 DAT Deck >
+M-Audio Audiophile 24/96 USB >
+WAV @ 16/44.1kHz >
+CD Wave for Track IDs>
+FLAC
+
+1. I Remember
+2. Starfire
+3. Don't Understand
+4. Weight Of Water
+5. Violence
+6. Shame
+7. Fear 
+8. Lust
+9. Immune
+10. Lion/Lamb
+11. Soon
+12. Home
+13. No Need
+14. Cut
+15. Missouri
+
+
+Original Notes:
+I originally planned to up some MFSL stuff. However, given the uniqueness of this tracker, I thought I would up stuff that would not be allowed on the main tracker. I've decided to start working on a series of live recordings that I personally recorded and mastered. I've made hundreds of live recordings going back to the early 1980's. I'll only be uploading my favorites in terms of sound quality and performance.
+
+I'll kick things off with a show that blew me away. The stars were lined up properly that night and the crowd was very low key, quiet and respectable so as to not ruin a wonderful, passionate and dynamic performance by Low. 
+
+I hope you all enjoy this recording and I hope to see some comments regarding the performance and the sound quality of my recording.
+
+
+Update by tunic on January 10 2010:
+- Found this show on Soulseek, hopefully the taper doesn't mind that I'm spreading this a bit more widely. Thanks very much for a very fine recording!
+- Renamed files according to etree naming standards
+- Split track 7 into tracks  7 (Fear) and track 8 (Lust). So additional lineage for these tracks is: Flac > Trader's Little Helper > CD Wave > Trader's Little Helper > Flac level 6
+- Added tags with MP3Tag
+- Updated info file and creation of checksums

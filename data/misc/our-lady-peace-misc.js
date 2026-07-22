@@ -53,14 +53,16 @@ const ARTIST_MISC_DATA = [
     "label": "Our Lady Peace - Happiness... Is Not a Fish That You Can Catch {CK 63707} (1999)",
     "format": "FLAC",
     "year": 1999,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Our Lady Peace - Happiness... Is Not a Fish That You Can Catch {CK 63707} (1999) [FLAC].txt"
   },
   {
     "type": "release",
     "label": "Our Lady Peace - Happiness Is Not A Fish You Can Catch - Deluxe Edition (w/ Bonus CD) {CK 63899} (1999)",
     "format": "FLAC",
     "year": 1999,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Our Lady Peace - Happiness Is Not A Fish You Can Catch (Deluxe Edition) {CK 63899} (1999) [FLAC]  .txt"
   },
   {
     "type": "release",
@@ -123,7 +125,8 @@ const ARTIST_MISC_DATA = [
     "label": "Our Lady Peace - Burn Burn Burn (Deluxe Edition) {OLP2-520561} (2009)",
     "format": "FLAC",
     "year": 2009,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Our Lady Peace - Burn Burn Burn (Deluxe Edition) {OLP2-520561} (2009) [FLAC].txt"
   },
   {
     "type": "release",
@@ -250,5 +253,25 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2002,
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Our Lady Peace - Clumsy {EPC 665131 1} (1997)",
+    "year": 1997,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Our Lady Peace - Clumsy {EPC 665131-2} (1998)",
+    "year": 1998,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Our Lady Peace - Live 1995 (Promo) {cdnk 001122} (1995)",
+    "year": 1995,
+    "format": "FLAC"
   }
 ];

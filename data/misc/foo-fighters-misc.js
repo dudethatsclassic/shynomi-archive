@@ -17,7 +17,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "06. April 1992 & November 8th 1992 - Laundry Room Studio",
-    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings"
+    "category": "1988-1994 - Dave Grohl Solo Studio Demos & Recordings",
+    "textFile": "MISC - 06. April 1992 & November 8th 1992 - Laundry Room Studio.txt"
   },
   {
     "type": "release",
@@ -79,7 +80,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Inédits (Promo CD) (France, SPCD 2111)",
+    "label": "Ine\u0301dits (Promo CD) (France, SPCD 2111)",
     "year": 1997,
     "category": "SINGLES + EPS"
   },
@@ -243,7 +244,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Razor (Live) (Digital)",
     "year": 2005,
-    "category": "SINGLES + EPS"
+    "category": "SINGLES + EPS",
+    "textFile": "MISC - 2005 Razor (Live) (Digital).txt"
   },
   {
     "type": "release",
@@ -279,25 +281,29 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Cheer Up, Boys (Your Make Up Is Running) (Digital)",
     "year": 2008,
-    "category": "SINGLES + EPS"
+    "category": "SINGLES + EPS",
+    "textFile": "MISC - 2008 Cheer Up, Boys (Your Make Up Is Running) (Digital).txt"
   },
   {
     "type": "release",
     "label": "Let It Die EP (Digital)",
     "year": 2008,
-    "category": "SINGLES + EPS"
+    "category": "SINGLES + EPS",
+    "textFile": "MISC - 2008 Let It Die EP (Digital).txt"
   },
   {
     "type": "release",
     "label": "a Songs from the Laundry Room EP (WEB)",
     "year": 2015,
-    "category": "SINGLES + EPS"
+    "category": "SINGLES + EPS",
+    "textFile": "MISC - 2015a Songs from the Laundry Room EP (WEB).txt"
   },
   {
     "type": "release",
     "label": "b Saint Cecilia EP (Digital)",
     "year": 2015,
-    "category": "SINGLES + EPS"
+    "category": "SINGLES + EPS",
+    "textFile": "MISC - 2015b Saint Cecilia EP (Digital).txt"
   },
   {
     "type": "release",
@@ -401,7 +407,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "a Songs from the Laundry Room EP (WEB)",
     "year": 2015,
-    "category": "SINGLES + EPS"
+    "category": "SINGLES + EPS",
+    "textFile": "MISC - 1992-04-XX - Seattle, WA - Laundry Room Studios [SBD #1].txt"
   },
   {
     "type": "release",
@@ -1309,13 +1316,15 @@ const ARTIST_MISC_DATA = [
     "label": "Early Demos (1990-1994)",
     "format": "FLAC",
     "year": 1990,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Early Demos (1990-1994).txt"
   },
   {
     "type": "release",
     "label": "Dave Grohl - Demo Tapes",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Dave Grohl - Demo Tapes.txt"
   },
   {
     "type": "release",
@@ -1355,38 +1364,44 @@ const ARTIST_MISC_DATA = [
     "label": "Foo Fighters - Brain Damage (Live from 2 shows)",
     "version": "SBD",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Foo Fighters - Brain Damage [Silver].txt"
   },
   {
     "type": "release",
     "label": "Foo Fighters - VH1 Storytellers",
     "format": "DVD",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Foo Fighters - 1994 Demos.flac.txt"
   },
   {
     "type": "release",
     "label": "Foo Fighters - Live Odds and Ends",
     "format": "DVD",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Foo Fighters - Odds And Ends 2 [DVD].txt"
   },
   {
     "type": "release",
     "label": "Foo Fighters - Live Odds and Ends 2",
     "format": "DVD",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Foo Fighters - Odds And Ends 3 [DVD].txt"
   },
   {
     "type": "release",
     "label": "Foo Fighters - Live Odds and Ends 3",
     "format": "DVD",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Foo Fighters - Odds And Ends [DVD].txt"
   },
   {
     "type": "release",
     "label": "Dave Grohl - 1992-93 Demos",
     "format": "FLAC 24",
     "year": 1992,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Dave Grohl - 1992-93 - Demos.txt"
   },
   {
     "type": "release",
@@ -1398,18 +1413,20 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Foo Fighters - Various - Nulle Part Ailleurs Compilation (DVD)",
     "format": "DVD",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Foo Fighters - Various - Nulle Part Ailleurs Compilation [DVD].txt"
   },
   {
     "type": "release",
     "label": "Foo Fighters - In Your Honor (Instrumental)",
     "version": "SBD #1f",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 2005-XX-XX - In Your Honor (Instrumental).txt"
   },
   {
     "type": "release",
-    "label": "Foo Fighters – Rope (Deadmau5 Mix Edit) (2011)",
+    "label": "Foo Fighters \u2013 Rope (Deadmau5 Mix Edit) (2011)",
     "format": "FLAC",
     "year": 2011,
     "category": "OTHER"
@@ -1497,7 +1514,8 @@ const ARTIST_MISC_DATA = [
     "label": "Foo Fighters - Late! Pocketwatch Demo (JWB Remaster)",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Late Pocketwatch Demo (JWB REMASTER) [Silver].txt"
   },
   {
     "type": "release",
@@ -1593,14 +1611,16 @@ const ARTIST_MISC_DATA = [
     "label": "Foo Fighters - We Will Rock You",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - We Will Rock You [Silver].txt"
   },
   {
     "type": "release",
     "label": "Foo Fighters - Star For Station",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - Star For Station [Silver].txt"
   },
   {
     "type": "release",
@@ -1614,14 +1634,16 @@ const ARTIST_MISC_DATA = [
     "label": "Foo Fighters - Tough Fighters",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - Tough Fighters [Silver].txt"
   },
   {
     "type": "release",
     "label": "Foo Fighters - We Ain't No Baby",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - We Ain't No Baby [Silver].txt"
   },
   {
     "type": "release",
@@ -1635,21 +1657,24 @@ const ARTIST_MISC_DATA = [
     "label": "Foo Fighters - Low Like These",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - Low Like These [Silver].txt"
   },
   {
     "type": "release",
     "label": "Foo Fighters - Mine Is Yours and Yours Is Mine",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - Mine is Yours and Yours is Mine [Silver].txt"
   },
   {
     "type": "release",
     "label": "Foo Fighters - Fooking Great",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Foo Fighters - Fooking Great [Silver].txt"
   },
   {
     "type": "release",
@@ -2014,5 +2039,15 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC HD",
     "year": 2025,
     "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Pocketwatch (EMCD09)",
+    "textFile": "MISC - Foo Fighters - Pocketwatch (EMCD09).txt"
+  },
+  {
+    "type": "release",
+    "label": "Garage Tour - Documentary",
+    "format": "MP4"
   }
 ];

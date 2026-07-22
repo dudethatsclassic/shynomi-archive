@@ -38,7 +38,8 @@ const ARTIST_MISC_DATA = [
     "label": "Alice In Chains - Facelift DVD (1991)",
     "format": "DVD",
     "year": 1991,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Alice In Chains - Live Facelift (1991) [DVD].txt"
   },
   {
     "type": "release",
@@ -78,7 +79,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Alice In Chains - Alice In Bed (Remastered)",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Alice In Chains - Alice in Bed (Remastered).txt"
   },
   {
     "type": "release",
@@ -115,7 +117,8 @@ const ARTIST_MISC_DATA = [
     "label": "Alice In Chains - Westwood One Absolutely Live In Concert #01-36",
     "version": "preFM",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Alice In Chains - Westwood One Absolutely Live In Concert #01-36 [preFM].txt"
   },
   {
     "type": "release",
@@ -123,7 +126,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1989,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - 1989-XX-XX -  Is Layne Still In Rehab - Studio - Seattle, WA [Silver].txt"
   },
   {
     "type": "release",
@@ -245,7 +249,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1994,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Alice In Chains - Little Red Rooster (CRC Mismatch) [ONCD-2290} (1994) [Silver].txt"
   },
   {
     "type": "release",
@@ -434,12 +439,14 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Sweet Alice Demos (Speed corrected)",
-    "year": 1989
+    "year": 1989,
+    "textFile": "MISC - 1989 - Sweet Alice Demos (Speed corrected).txt"
   },
   {
     "type": "release",
     "label": "Tasty White Powder Demos",
-    "year": 1990
+    "year": 1990,
+    "textFile": "MISC - 1990 - Tasty White Powder Demos.txt"
   },
   {
     "type": "release",
@@ -453,7 +460,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Alice In Chains - Heroin (Demos & Live Stuff)",
-    "version": "COMP"
+    "version": "COMP",
+    "textFile": "MISC - Alice In Chains - Heroin (Demos & Live Stuff) [COMP].txt"
   },
   {
     "type": "release",
@@ -481,7 +489,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Alice in Chains - 1990-1992",
     "version": "preFM",
-    "format": "preFM"
+    "format": "preFM",
+    "textFile": "MISC - Alice in Chains - 1990-1992 [preFM COMP].txt"
   },
   {
     "type": "release",
@@ -492,7 +501,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Over Easy and Super Slezy Heavy Metal",
-    "version": "COMP"
+    "version": "COMP",
+    "textFile": "MISC - Over Easy and Super Slezy Heavy Metal [COMP].txt"
   },
   {
     "type": "release",
@@ -556,5 +566,26 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Over Easy and Super Slezy Heavy Metal",
     "version": "COMP"
+  },
+  {
+    "type": "release",
+    "label": "Alice In Chains - 1993-02-19 - Paris, France Come And Save Me {MECD 1194} (1995)",
+    "year": 1995,
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "Heaven Beside You (Columbia 662916 2} (Australia CD2)",
+    "year": 1996,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Get Born Again {667514 2}",
+    "year": 1999,
+    "format": "FLAC",
+    "category": "SINGLES"
   }
 ];

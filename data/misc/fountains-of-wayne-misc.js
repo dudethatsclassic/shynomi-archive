@@ -2,7 +2,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Fountains of Wayne - Pinwheel Sessions and Loftypops Demos",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Fountains of Wayne - Pinwheel Sessions and Loftypops Demos.txt"
   },
   {
     "type": "label",
@@ -219,5 +220,25 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Fountains of Wayne - Pinwheel Sessions and Loftypops Demos"
+  },
+  {
+    "type": "release",
+    "label": "Fountains Of Wayne - Survival Car {AT0004CD}",
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Fountains of Wayne - I Want an Alien for Christmas {AT0020CD} (1997)",
+    "year": 1997,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Fountains of Wayne - Stacy's Mom {VSCDX1860} (2004)",
+    "year": 2004,
+    "format": "FLAC",
+    "category": "SINGLES"
   }
 ];

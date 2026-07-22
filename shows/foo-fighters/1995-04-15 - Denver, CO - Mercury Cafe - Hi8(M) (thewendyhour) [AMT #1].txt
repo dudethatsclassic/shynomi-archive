@@ -1,0 +1,41 @@
+Foo Fighters
+April 15th, 1995
+Mercury Cafe
+Denver, CO, United States
+
+SOURCE (AMT #1):
+unknown > unknown (Hi8)
+
+TRANSFER:
+Sony DCR-TRV730 > Datavideo TBC 6000 > ATI TV Wonder 600 USB > VirtualDub > Avisynth+ 3.7.5 > x264 core 164 r3156+57M dac90dd t_mod_New > Adobe Audition 2025 > flac
+
+GENERATION:
+Hi8(M) > AVI [UtVideo] > MKV [480p/59.94fps H.264 / AAC 2.0 256kbps / FLAC Stereo]
+
+NOTES:
+- First audio track is AAC 256kbps for broad compatibility. Second audio track is FLAC at 48khz/16-bit.
+- There are a few small cuts between songs, all music is mostly intact save a few bars.
+
+LENGTH:
+38:07
+
+TRACKS:
+01. Winnebago
+02. This Is A Call
+03. I'll Stick Around
+04. Big Me
+05. Wattershed
+06. For All The Cows
+07. Alone + Easy Target
+08. Good Grief
+09. Podunk
+10. Exhausted
+
+MD5 FINGERPRINTS:
+0d17bac1a2f47507c3f854b42044233b *1995-04-15_FF_MercuryCafe_AMT1_VID8M_480p_Stereo.mkv
+
+RECORDED BY:
+TheWendyHour
+
+TRANSFERRED BY:
+Nicholas Serra Tapes

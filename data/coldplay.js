@@ -267,7 +267,7 @@ const ARTIST_DATA = {
       "notes": "ducky",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2000-07-07 - Belfort, France - Festival des EurockÈennes [FM].txt"
+      "textFile": "2000-07-07 - Belfort, France - Festival des Eurock\u00c8ennes [FM].txt"
     },
     {
       "year": 2000,
@@ -3495,7 +3495,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "2003-03-30 - Paris, France - Le Zénith [AUD].txt"
+      "textFile": "2003-03-30 - Paris, France - Le Z\u00e9nith [AUD].txt"
     },
     {
       "year": 2003,
@@ -3537,7 +3537,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 SP-CMC-10 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-04-02 - Münster, Germany - Münsterland [AUD].txt"
+      "textFile": "2003-04-02 - M\u00fcnster, Germany - M\u00fcnsterland [AUD].txt"
     },
     {
       "year": 2003,
@@ -4278,7 +4278,7 @@ const ARTIST_DATA = {
       "notes": "Sony mics",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-09-03 - São Paulo, Brazil - Via Funchal [AUD].txt"
+      "textFile": "2003-09-03 - S\u00e3o Paulo, Brazil - Via Funchal [AUD].txt"
     },
     {
       "year": 2003,
@@ -4735,7 +4735,7 @@ const ARTIST_DATA = {
       "notes": "Wuhlheide \u00b7 CSC",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2005-06-19 - Berlin, Germany - Kindl-Buhne, Wuhlheide [AUD].txt"
+      "textFile": "2005-06-19 - Berlin, Germany - Kindl-Bu\u0081hne, Wuhlheide [AUD].txt"
     },
     {
       "year": 2005,
@@ -5262,7 +5262,7 @@ const ARTIST_DATA = {
       "notes": "jenoyend",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2005-11-18 - Toulouse, France - Le Zénith (ECM 719) [AUD].txt"
+      "textFile": "2005-11-18 - Toulouse, France - Le Z\u00e9nith (ECM 719) [AUD].txt"
     },
     {
       "year": 2005,
@@ -6768,7 +6768,7 @@ const ARTIST_DATA = {
       "notes": "1st Source \u00b7 redbeard",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-05-17 - Atlanta, GA - Aaron’s Amphitheatre at Lakewood (1st Source) [AUD].txt"
+      "textFile": "2009-05-17 - Atlanta, GA - Aaron\u2019s Amphitheatre at Lakewood (1st Source) [AUD].txt"
     },
     {
       "year": 2009,
@@ -6782,7 +6782,7 @@ const ARTIST_DATA = {
       "notes": "2nd Source \u00b7 SP-BMC-3",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-05-17 - Atlanta, GA - Aaron’s Amphitheatre at Lakewood (2nd Source) [AUD].txt"
+      "textFile": "2009-05-17 - Atlanta, GA - Aaron\u2019s Amphitheatre at Lakewood (2nd Source) [AUD].txt"
     },
     {
       "year": 2009,
@@ -7144,7 +7144,7 @@ const ARTIST_DATA = {
       "notes": "ol remaster",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-08-27 - Düsseldorf, Germany - Esprit Arena - Viva Dusseldorf [AUD].txt"
+      "textFile": "2009-08-27 - D\u00fcsseldorf, Germany - Esprit Arena - Viva Dusseldorf [AUD].txt"
     },
     {
       "year": 2009,
@@ -8119,7 +8119,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-05-18 - Porto, Portugal - Estádio do Dragão [AUD].txt"
+      "textFile": "2012-05-18 - Porto, Portugal - Est\u00e1dio do Drag\u00e3o [AUD].txt"
     },
     {
       "year": 2012,
@@ -8133,7 +8133,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-05-20 - Madrid, Spain - Estadio Vicente Calderón [AUD].txt"
+      "textFile": "2012-05-20 - Madrid, Spain - Estadio Vicente Calder\u00f3n [AUD].txt"
     },
     {
       "year": 2012,
@@ -8343,7 +8343,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-09-04 - Köln, Germany - Rhein Energie Stadion [AUD].txt"
+      "textFile": "2012-09-04 - K\u00f6ln, Germany - Rhein Energie Stadion [AUD].txt"
     },
     {
       "year": 2012,
@@ -9012,7 +9012,7 @@ const ARTIST_DATA = {
       "notes": "jjs",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2016-04-13 - Bogotá, Colombia - Estadio el Campin [AUD].txt"
+      "textFile": "2016-04-13 - Bogot\u00e1, Colombia - Estadio el Campin [AUD].txt"
     },
     {
       "year": 2016,
@@ -10392,7 +10392,7 @@ const ARTIST_DATA = {
       "notes": "howdo",
       "version": "WEB",
       "format": "MP4",
-      "textFile": "2024-05-27 - Luton, England  - Radio 1’s Big Weekend (howdo) [MP4].txt"
+      "textFile": "2024-05-27 - Luton, England  - Radio 1\u2019s Big Weekend (howdo) [MP4].txt"
     },
     {
       "year": 2024,
@@ -10462,7 +10462,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061+Sennheiser EK 2000 \u00b7 unk",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "2024-07-23 - Düsseldorf, Germany - Merkur-Spiel Arena (DPA 4061+Sennheiser EK 2000) (unk) [MIX].txt"
+      "textFile": "2024-07-23 - D\u00fcsseldorf, Germany - Merkur-Spiel Arena (DPA 4061+Sennheiser EK 2000) (unk) [MIX].txt"
     },
     {
       "year": 2024,
@@ -10476,7 +10476,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-25 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2024-07-23 - Düsseldorf, DE - Merkur Spiel Arena (DPA4061SGs) (grigio) [AUD].txt"
+      "textFile": "2024-07-23 - D\u00fcsseldorf, DE - Merkur Spiel Arena (DPA4061SGs) (grigio) [AUD].txt"
     },
     {
       "year": 2024,

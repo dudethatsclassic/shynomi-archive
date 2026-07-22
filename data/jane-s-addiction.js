@@ -908,7 +908,7 @@ const ARTIST_DATA = {
       "notes": "Version 2",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1989-03-04 - Ottawa, Canada - Barrymore’s (Version 2) [SBD].txt"
+      "textFile": "1989-03-04 - Ottawa, Canada - Barrymore\u2019s (Version 2) [SBD].txt"
     },
     {
       "year": 1989,

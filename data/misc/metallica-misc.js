@@ -11,7 +11,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1981,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 1981--1982 - Metallica - The Real No Life Til Leather.txt"
   },
   {
     "type": "release",
@@ -19,7 +20,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1982,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 1982--1983 - Metallica - In For the Kill 199X - [IMPERIUM - IMP007].txt"
   },
   {
     "type": "release",
@@ -27,7 +29,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1982,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 1982--1983 - Metallica - Obsession - (Judah) [SBD].txt"
   },
   {
     "type": "release",
@@ -42,7 +45,8 @@ const ARTIST_MISC_DATA = [
     "label": "1982 Riff Tape from Ron McGovney",
     "format": "FLAC",
     "year": 1982,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 1982 Riff Tape from Ron McGovney.txt"
   },
   {
     "type": "release",
@@ -53,13 +57,15 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "label",
-    "label": "1982-XX-XX - Las Angeles, CA / *One Last Visit"
+    "label": "1982-XX-XX - Las Angeles, CA / *One Last Visit",
+    "textFile": "MISC - 1982-XX-XX - Los Angeles, CA (One Last Visit) [SBD].txt"
   },
   {
     "type": "release",
     "label": "Metallica - April 1982 - Power Metal Demo",
     "year": 1982,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Metallica - April 1982 - Power Metal Demo.txt"
   },
   {
     "type": "release",
@@ -84,7 +90,8 @@ const ARTIST_MISC_DATA = [
     "label": "Bay Area Trashers",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Metallica - Bay Area Trashers.txt"
   },
   {
     "type": "release",
@@ -98,7 +105,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Damaged Justice '88-'89 (2CD)",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Metallica - Damaged Justice 88-89.txt"
   },
   {
     "type": "release",
@@ -106,14 +114,16 @@ const ARTIST_MISC_DATA = [
     "version": "Vinyl",
     "format": "FLAC",
     "year": 1984,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Metallica - Ride the Lightning Demo (1984) [FLAC].txt"
   },
   {
     "type": "release",
     "label": "Metallica - Master Of Puppets Demos (1985-07-14)",
     "format": "FLAC",
     "year": 1985,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Metallica - 1985-07-14 Master Of Puppets Demos (Studio).txt"
   },
   {
     "type": "release",
@@ -133,14 +143,16 @@ const ARTIST_MISC_DATA = [
     "label": "Early Demos",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Metallica - Early Demos.txt"
   },
   {
     "type": "release",
     "label": "For Fans Only 1992-1996",
     "format": "FLAC",
     "year": 1992,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Metallica - For Fans Only 1992-1996.txt"
   },
   {
     "type": "release",
@@ -148,7 +160,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1996,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Metallica - Garage Days Pt. II (1996).txt"
   },
   {
     "type": "release",
@@ -156,14 +169,16 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1982,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Metallica - Horsemen Of The Apokalypse.txt"
   },
   {
     "type": "release",
     "label": "Tested and Covered",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Metallica - Tested And Covered.txt"
   },
   {
     "type": "release",
@@ -177,26 +192,30 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Fan Can (1-5)",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Fan Can 1.txt"
   },
   {
     "type": "release",
     "label": "Thirteen Year Stretch (1984-1997)",
     "format": "FLAC",
     "year": 1984,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Metallica - Thirteen Year Stretch (1984 - 1997).txt"
   },
   {
     "type": "release",
     "label": "Fan Can 6 - Copenhagen (DVD)",
     "format": "MKV",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Fan Can 2.txt"
   },
   {
     "type": "release",
     "label": "Metallica - The Broadcast Archive",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Metallica - The Broadcast Archive.txt"
   },
   {
     "type": "release",
@@ -204,7 +223,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1994,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Metallica - Middle Shit (1994).txt"
   },
   {
     "type": "release",
@@ -228,7 +248,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Live In Chile (1993 – 2017) Master Upgrade (Hi-res)",
+    "label": "Metallica - Live In Chile (1993 \u2013 2017) Master Upgrade (Hi-res)",
     "version": "SBD",
     "format": "FLAC HD",
     "year": 1993,
@@ -236,15 +256,16 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Live In Brazil (1993 – 2017) MQA (Hi-Res)",
+    "label": "Metallica - Live In Brazil (1993 \u2013 2017) MQA (Hi-Res)",
     "version": "SBD",
     "format": "FLAC HD",
     "year": 1993,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Metallica - Live In Brazil (1993 \u2013 2017) MQA (Hi-Res).txt"
   },
   {
     "type": "release",
-    "label": "Metallica - Live In Argentina (1993 – 2017)",
+    "label": "Metallica - Live In Argentina (1993 \u2013 2017)",
     "version": "SBD",
     "format": "FLAC",
     "year": 1993,
@@ -270,7 +291,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Abso-fucking-lutely Live! {ME 003-4} (1993) [Silver].txt"
   },
   {
     "type": "release",
@@ -278,7 +300,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - After The Sandman Is Gone {POET 9216} (1992) [Silver].txt"
   },
   {
     "type": "release",
@@ -286,7 +309,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - All Hell Breaks Loose {CM 009-10} (1993) [Silver].txt"
   },
   {
     "type": "release",
@@ -294,7 +318,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - All Things Must Come To An End (1992) (MM 90041) [Silver].txt"
   },
   {
     "type": "release",
@@ -302,7 +327,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1990,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Angels From Hell {WI-80336} (1990) [SIlver].txt"
   },
   {
     "type": "release",
@@ -310,7 +336,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - At Den Bosch Brabanthallen 7-12-92 Vol. 1 (CRC mismatch) (1993) (SR 012) [Silver].txt"
   },
   {
     "type": "release",
@@ -318,7 +345,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - At Den Bosch Brabanthallen 7-12-92 Vol. 2 (CRC mismatch) (1993) (SR 013) [Silver].txt"
   },
   {
     "type": "release",
@@ -326,7 +354,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - At Den Bosch Brabanthallen 7-12-92 Vol. 3 (1993) (SR 014) [Silver].txt"
   },
   {
     "type": "release",
@@ -334,7 +363,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1998,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Bay Area Thrashers {CRANCH 1} (1998) [Silver].txt"
   },
   {
     "type": "release",
@@ -342,7 +372,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Birmingham Bondage Part Two (CRC mismatch) (1993) (BHAM 002) [Silver].txt"
   },
   {
     "type": "release",
@@ -350,7 +381,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1995,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Blood Truckers {BGS 041} (1995) [Silver].txt"
   },
   {
     "type": "release",
@@ -358,7 +390,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1991,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Calling All Destroyers (1991) (IC 001) [Silver].txt"
   },
   {
     "type": "release",
@@ -366,7 +399,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1990,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Caught In The Act (1990) (TCC 018) [Silver].txt"
   },
   {
     "type": "release",
@@ -374,7 +408,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1991,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Creeping Death (1991) (HM 002) [Silver].txt"
   },
   {
     "type": "release",
@@ -382,7 +417,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1991,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Damaged Justice (M5131 M5132) [Silver].txt"
   },
   {
     "type": "release",
@@ -390,7 +426,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Demolition (1992) (POET 9208) [Silver].txt"
   },
   {
     "type": "release",
@@ -398,7 +435,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Detroit Bad Boys (1992) (MIK 022-023) [Silver].txt"
   },
   {
     "type": "release",
@@ -406,7 +444,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Don't Treat On Us (1992) (MIK 017) [Silver].txt"
   },
   {
     "type": "release",
@@ -414,7 +453,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Enter Mainhattan (1993) (MORBY 092) [Silver].txt"
   },
   {
     "type": "release",
@@ -422,7 +462,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Enter Sandman (Vol.1) (1993) (BAN-032-A) [Silver].txt"
   },
   {
     "type": "release",
@@ -430,7 +471,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Enter Sandman (Vol.2) (1993) (BAN-032-B) [Silver].txt"
   },
   {
     "type": "release",
@@ -438,7 +480,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1991,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Enter The Monsters (1991) (MMM001) [Silver].txt"
   },
   {
     "type": "release",
@@ -446,7 +489,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2001,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Fanatic Battery (Meta 2001-2) [Silver].txt"
   },
   {
     "type": "release",
@@ -454,14 +498,16 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Four Horsemen In Brooklyn (1993) (MMR 9207 CD) [Silver].txt"
   },
   {
     "type": "release",
     "label": "Metallica - Garage Sessions Vol. 2 {KRHM 14}",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Garage Sessions Vol. 2 (KRHM 14) [Silver].txt"
   },
   {
     "type": "release",
@@ -469,7 +515,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - In The Flesh (1992) (CD-EYE-13) [Silver].txt"
   },
   {
     "type": "release",
@@ -477,7 +524,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Infernal Gods (1993) (BGS 008-2) [Silver].txt"
   },
   {
     "type": "release",
@@ -485,7 +533,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - L.A. For a Fuckin' Beer (1992) (NG-100192) [Silver].txt"
   },
   {
     "type": "release",
@@ -501,7 +550,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1994,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Live At The Stadium (1994) (P 910084-85) [Silver].txt"
   },
   {
     "type": "release",
@@ -509,7 +559,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1990,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Live Before Death Vol. One (1990) (GSCD 1017) [Silver].txt"
   },
   {
     "type": "release",
@@ -517,7 +568,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Live In Concert (1992) (TS-CD 001) [Silver].txt"
   },
   {
     "type": "release",
@@ -525,7 +577,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Live Long Island 20.12.91 (1992) (Ackon 9201) [Silver].txt"
   },
   {
     "type": "release",
@@ -533,7 +586,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Live USA (2 Disc) (1993) (Imtrat - 920.026) [Silver].txt"
   },
   {
     "type": "release",
@@ -541,7 +595,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1990,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Live USA (1990) (imt 900.034) [Silver].txt"
   },
   {
     "type": "release",
@@ -549,7 +604,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Live Vol.2 (1993) (JOK-010-B) [Silver].txt"
   },
   {
     "type": "release",
@@ -565,7 +621,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1988,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Metalian Winter 1988-89 (1992) (POET 9206) [Silver].txt"
   },
   {
     "type": "release",
@@ -573,7 +630,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Motorcity Madness (1992) (MIK 042-043) [Silver].txt"
   },
   {
     "type": "release",
@@ -581,7 +639,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - New Skulls For The Old Ceremony (The Cover Versions) (1993) [Silver].txt"
   },
   {
     "type": "release",
@@ -589,7 +648,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1994,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - No Limits No Laws (1994) (KTS 306) [Silver].txt"
   },
   {
     "type": "release",
@@ -597,7 +657,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Nuremberg Trials (1992) (BC-35) [Silver].txt"
   },
   {
     "type": "release",
@@ -605,7 +666,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1994,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Riffs (1994) (PPL 520) [Silver].txt"
   },
   {
     "type": "release",
@@ -613,7 +675,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Roaming In Sweden 921212 (1993) (CMR 001-002) [Silver].txt"
   },
   {
     "type": "release",
@@ -629,7 +692,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1991,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Sanatorium (1991) (RR 001) [Silver].txt"
   },
   {
     "type": "release",
@@ -637,7 +701,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Stone Cold Crazy (1992) (MK 001-002) [Silver].txt"
   },
   {
     "type": "release",
@@ -645,7 +710,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2000,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Storm At Walhalla (1991) (FWD 2000) [Silver].txt"
   },
   {
     "type": "release",
@@ -653,7 +719,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1989,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Texas 1989 (1992) (PSCD 1172) [Silver].txt"
   },
   {
     "type": "release",
@@ -661,7 +728,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1997,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - The Early Days (1997) (OTR 1100060) [Silver].txt"
   },
   {
     "type": "release",
@@ -669,7 +737,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1991,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - The Four Sandmen (1991) (MIK 004) [Silver].txt"
   },
   {
     "type": "release",
@@ -677,7 +746,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1991,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - The Metal Masters (1991) (Flash 12.91.0165) [Silver].txt"
   },
   {
     "type": "release",
@@ -685,7 +755,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1991,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - The Metal Masters (Repress) (1991) (Flash 12.91.0165) [Silver].txt"
   },
   {
     "type": "release",
@@ -693,7 +764,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Totally Destroy Canada (1992) (KTS 077-078) [Silver].txt"
   },
   {
     "type": "release",
@@ -701,7 +773,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1993,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - World Tour '93 (1993) (OHM 29) [Silver].txt"
   },
   {
     "type": "release",
@@ -709,7 +782,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1989,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Damaged Justice Japan Tour 1989 (2020) (ZODIAC 374) [Silver].txt"
   },
   {
     "type": "release",
@@ -729,14 +803,16 @@ const ARTIST_MISC_DATA = [
     "label": "Metallica - Some Kind of Monster (2004)",
     "format": "MKV",
     "year": 2004,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Metallica - Some Kind Of Monster (2004) (24_44.1) [FLAC HD].txt"
   },
   {
     "type": "release",
     "label": "Metallica - Masters of Metal (2014)",
     "format": "MKV",
     "year": 2014,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Metallica - Metal Masters (1992) (BC-200) [Silver].txt"
   },
   {
     "type": "release",
@@ -771,7 +847,8 @@ const ARTIST_MISC_DATA = [
     "label": "Metallica - The 598 EP - Garage Days Re-Revisited (Remastered) (1987) (24/96)",
     "format": "FLAC HD",
     "year": 1987,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Metallica - The 598 EP - Garage Days Re-Revisited (Remastered) (1987) (24_96) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -877,5 +954,46 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC HD",
     "year": 2020,
     "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Live At Great Western Forum (1997) (METUS1CD) (METUS2CD)",
+    "year": 1997,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Live At Great Western Forum (1997) (METUS1CD) (METUS2CD) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Rough Justice (1993) (BM1)",
+    "year": 1993,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - Metallica - Rough Justice (1993) (BM1) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Fan Can 3",
+    "textFile": "MISC - Fan Can 4.txt"
+  },
+  {
+    "type": "release",
+    "label": "Fan Can 5",
+    "textFile": "MISC - Fan Can 5.txt"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - Sucking My Love",
+    "textFile": "MISC - Metallica - Sucking My Love.txt"
+  },
+  {
+    "type": "release",
+    "label": "Metallica - The Complete Demo Collection",
+    "textFile": "MISC - Metallica - The Complete Demo Collection.txt"
+  },
+  {
+    "type": "release",
+    "label": "Metallica Napster Case (2001)",
+    "year": 2001
   }
 ];

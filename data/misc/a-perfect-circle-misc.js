@@ -85,10 +85,12 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Inside 13 Steps"
+    "label": "Inside 13 Steps",
+    "textFile": "MISC - Inside 13 Steps.txt"
   },
   {
     "type": "release",
-    "label": "Inside eMOTIVE"
+    "label": "Inside eMOTIVE",
+    "textFile": "MISC - Inside eMOTIVE.txt"
   }
 ];

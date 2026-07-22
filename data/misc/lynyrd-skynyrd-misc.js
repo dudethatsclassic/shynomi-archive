@@ -5,7 +5,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1973,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Lynyrd Skynyrd - Double Trouble [Silver].txt"
   },
   {
     "type": "release",

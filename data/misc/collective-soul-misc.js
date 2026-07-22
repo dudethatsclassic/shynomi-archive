@@ -5,7 +5,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2004,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Collective Soul - 2004 Youth Movement Broadcast [Silver].txt"
   },
   {
     "type": "release",

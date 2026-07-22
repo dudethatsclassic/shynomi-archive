@@ -44,7 +44,8 @@ const ARTIST_MISC_DATA = [
     "label": "Beck - Early Rarities (2017)",
     "format": "FLAC",
     "year": 2017,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Beck - Early Rarities (2017) [FLAC].txt"
   },
   {
     "type": "release",

@@ -256,7 +256,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sony DAT \u00b7 Stephane",
-      "textFile": "1991-09-11 - Ludwigsburg, Germany - Rockfabrik (Sony DAT)  (stephane) [AUD].txt"
+      "textFile": "1991-09-11 - Ludwigsburg, Germany - Rockfabrik (Aiwa CM-30A) (gmannof) [AUD].txt"
     },
     {
       "year": 1991,

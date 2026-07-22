@@ -343,7 +343,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2012-11-12 - Wangels, Germany - Ferienpark Weissenhäuser Strand [FM].txt"
+      "textFile": "2012-11-12 - Wangels, Germany - Ferienpark Weissenh\u00e4user Strand [FM].txt"
     },
     {
       "year": 2018,

@@ -3,7 +3,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Toadies - Slaphead",
     "format": "SHN",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Toadies - Slaphead.txt"
   },
   {
     "type": "release",

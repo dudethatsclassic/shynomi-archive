@@ -28,16 +28,19 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "10-XX - The Cranberries - Songs Against War",
     "year": 1994,
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - 1994-10-XX - The Cranberries - Songs Against War [Silver].txt"
   },
   {
     "type": "release",
     "label": "The Cranberries - Be With You",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - The Cranberries - Be With You [Silver].txt"
   },
   {
     "type": "release",
     "label": "The Cranberries - Thoughts That Linger",
-    "version": "Silver CD"
+    "version": "Silver CD",
+    "textFile": "MISC - The Cranberries - Thoughts That Linger [Silver].txt"
   }
 ];

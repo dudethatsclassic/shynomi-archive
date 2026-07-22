@@ -15,7 +15,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Hole - Argentina Demos Tape",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Hole - Argentina Demos Tape.txt"
   },
   {
     "type": "release",
@@ -46,7 +47,8 @@ const ARTIST_MISC_DATA = [
     "label": "Hole - Sugar Coma",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Hole - Sugar Coma [Silver].txt"
   },
   {
     "type": "release",
@@ -207,7 +209,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "06-XX - Courtney Love - Behind the Music",
     "year": 2010,
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - 2010-06-XX - Courtney Love - Behind the Music [DVD].txt"
   },
   {
     "type": "release",
@@ -216,7 +219,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Hole - Cover Me (1995)",
-    "year": 1995
+    "year": 1995,
+    "textFile": "MISC - Hole - Cover Me (1995).txt"
   },
   {
     "type": "release",

@@ -35,7 +35,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Aphex Twin - Peel Sessions",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Aphex Twin - Peel Sessions [FM].txt"
   },
   {
     "type": "release",
@@ -53,12 +54,14 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "XX-XX - Analogue Bubblebath 5",
-    "year": 1995
+    "year": 1995,
+    "textFile": "MISC - 1995-XX-XX - Analogue Bubblebath 5.txt"
   },
   {
     "type": "release",
     "label": "XX-XX - Melodies from Mars",
-    "year": 1995
+    "year": 1995,
+    "textFile": "MISC - 1995-XX-XX - Melodies from Mars.txt"
   },
   {
     "type": "release",

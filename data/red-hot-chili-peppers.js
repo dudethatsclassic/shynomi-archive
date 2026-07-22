@@ -1899,7 +1899,7 @@ const ARTIST_DATA = {
       "notes": "Hollywood \u00b7 FM",
       "version": "SBD #1",
       "format": "FLAC",
-      "textFile": "1993-01-22 - Rio de Janeiro, Brazil - Praça da Apoteose - Hollywood Rock Festival [SBD #1].txt"
+      "textFile": "1993-01-22 - Rio de Janeiro, Brazil - Pra\u00e7a da Apoteose - Hollywood Rock Festival [SBD #1].txt"
     },
     {
       "year": 1993,
@@ -7140,7 +7140,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "2007-07-03 - Silesia Stadium, Chorzów - Silesian Stadium [PRO].txt"
+      "textFile": "2007-07-03 - Silesia Stadium, Chorz\u00f3w - Silesian Stadium [PRO].txt"
     },
     {
       "year": 2007,
@@ -12422,7 +12422,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 \u00b7 toshi",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-06-26 - Mannheim, Germany - Maimarktgelände (Zoom iQ7) (pompor) [AUD24].txt"
+      "textFile": "2023-06-26 - Mannheim, Germany - Maimarktgel\u00e4nde (Zoom iQ7) (pompor) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -12478,7 +12478,7 @@ const ARTIST_DATA = {
       "notes": "CA-14s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-07-11 - Décines-Charpieu, France - Groupama Stadium (CA-14s) (unk) [AUD].txt"
+      "textFile": "2023-07-11 - D\u00e9cines-Charpieu, France - Groupama Stadium (CA-14s) (unk) [AUD].txt"
     },
     {
       "year": 2023,
