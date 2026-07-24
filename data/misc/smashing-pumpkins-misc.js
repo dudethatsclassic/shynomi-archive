@@ -759,7 +759,8 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Guitar Center Sessions (2013)",
     "year": 2013,
     "format": "TS",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - The Smashing Pumpkins - Guitar Center Sessions (2013) [TS].txt"
   },
   {
     "type": "release",
@@ -960,12 +961,14 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "The Smashing Pumpkins - MCIS Demos II (thir13en remaster)",
-    "category": "THIR13EN"
+    "category": "THIR13EN",
+    "textFile": "MISC - The Smashing Pumpkins - Gravity Demos (thir13en remaster).txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Machina II (thir13en remaster)",
-    "category": "THIR13EN"
+    "category": "THIR13EN",
+    "textFile": "MISC - The Smashing Pumpkins - MCIS Demos I (thir13en remaster).txt"
   },
   {
     "type": "release",
@@ -1909,7 +1912,8 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Adore (7243 8 45879 1 8) (1998)",
     "year": 1998,
     "format": "VINYL",
-    "category": "VINYL RIPS"
+    "category": "VINYL RIPS",
+    "textFile": "MISC - The Smashing Pumpkins - Adore Us Live 1998 [Silver].txt"
   },
   {
     "type": "release",
@@ -2021,13 +2025,13 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Mashed Potatoes (thir13en remaster)",
     "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - Gravity Demos (thir13en remaster).txt"
+    "textFile": "MISC - The Smashing Pumpkins - MCIS Demos II (thir13en remaster).txt"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Off Their Rawkers (thir13en remaster)",
     "category": "THIR13EN",
-    "textFile": "MISC - The Smashing Pumpkins - MCIS Demos I (thir13en remaster).txt"
+    "textFile": "MISC - The Smashing Pumpkins - Machina Acoustic Demos (thir13en remaster) [FLAC].txt"
   },
   {
     "type": "release",
@@ -2039,8 +2043,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - 17 Seconds (CDX 1596420MPH)",
     "version": "Silver CD",
-    "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - Another 17 Seconds [Silver].txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -2090,15 +2093,14 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Adore Us Live 1998",
     "version": "Silver CD",
-    "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - Ava Adore (DVL-012) [Silver].txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
     "label": "The Smashing Pumpkins - Aliens (T Rex Records)",
     "version": "Silver CD",
     "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - Be My Whore (QR Records) [Silver].txt"
+    "textFile": "MISC - The Smashing Pumpkins - Aliens (T Rex Records) [Silver].txt"
   },
   {
     "type": "release",
@@ -2118,8 +2120,7 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Automatic {EB 42:2} (2000)",
     "year": 2000,
     "version": "Silver CD",
-    "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - From The Vault [Silver].txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -2144,8 +2145,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Berlin Bullet",
     "version": "Silver CD",
-    "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - Live In Chicago 95 (SM 69) [Silver].txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -2207,8 +2207,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Daydream Kisses (HAWK 013)",
     "version": "Silver CD",
-    "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - Turpentine Kisses [Silver].txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -2235,7 +2234,7 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Do The Riot Thing",
     "version": "Silver CD",
     "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - VERSIONS [Silver].txt"
+    "textFile": "MISC - The Smashing Pumpkins - Do The Riot Thing [Silver].txt"
   },
   {
     "type": "release",
@@ -2320,7 +2319,7 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Festive Bootleg",
     "version": "Silver CD",
     "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - Live Divine Bootleg (MOONRAKER 142) [Silver].txt"
+    "textFile": "MISC - The Smashing Pumpkins - Festive Bootleg [Silver].txt"
   },
   {
     "type": "release",
@@ -2388,7 +2387,7 @@ const ARTIST_MISC_DATA = [
     "year": 2000,
     "version": "Silver CD",
     "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - Once In A Lifetime (2000) (SPOAL) [Silver].txt"
+    "textFile": "MISC - The Smashing Pumpkins - From The Vault [Silver].txt"
   },
   {
     "type": "release",
@@ -2417,7 +2416,7 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - In the Zone (WW1 In Concert)",
     "version": "Silver CD",
     "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - Westwood One In Concert #98-47 (preFM) [Silver].txt"
+    "textFile": "MISC - The Smashing Pumpkins - In the Zone (WW1 In Concert) [Silver].txt"
   },
   {
     "type": "release",
@@ -2462,8 +2461,7 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Live Machina {TB 115:16} (2000)",
     "year": 2000,
     "version": "Silver CD",
-    "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - We Love You (2000) (SPWLY) [Silver].txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -2547,7 +2545,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Perfect In Houston",
     "version": "Silver CD",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Live In Chicago 95 (SM 69) [Silver].txt"
   },
   {
     "type": "release",
@@ -2657,8 +2656,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Siamese Whispers",
     "version": "Silver CD",
-    "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - Siamese Dream (1993) (US) [VINYL].txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -2717,7 +2715,8 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Star Profile {Mastertone 8080} (1997)",
     "year": 1997,
     "version": "Silver CD",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - The End Is The Beginning Is The End [The Remixes] (1997) [FLAC].txt"
   },
   {
     "type": "release",
@@ -2829,7 +2828,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - The Years Burn (BWJ Records)",
     "version": "Silver CD",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Be My Whore (QR Records) [Silver].txt"
   },
   {
     "type": "release",
@@ -2874,7 +2874,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Ultra Rare Trax (S.P.S. 01)",
     "version": "Silver CD",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - NSPAA Bonus Trax [SBD].txt"
   },
   {
     "type": "release",
@@ -2887,8 +2888,7 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Under the Covers {SP9000CD} (2001)",
     "year": 2001,
     "version": "Silver CD",
-    "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - Under the Covers {SP9000CD} (2001) [Silver].txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -2930,7 +2930,7 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - We Are From Another Planet (MTM040)",
     "version": "Silver CD",
     "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - We Are From Another Planet (MTM040) [Silver].txt"
+    "textFile": "MISC - The Smashing Pumpkins - Another 17 Seconds [Silver].txt"
   },
   {
     "type": "release",
@@ -3013,7 +3013,8 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Stand Inside Your Love (CD1) (2000)",
     "year": 2000,
     "format": "FLAC",
-    "category": "SINGLES"
+    "category": "SINGLES",
+    "textFile": "MISC - The Smashing Pumpkins - We Love You (2000) (SPWLY) [Silver].txt"
   },
   {
     "type": "release",
@@ -3048,7 +3049,8 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - To Sheila {DPRO-13674} (1999)",
     "year": 1999,
     "format": "FLAC",
-    "category": "SINGLES"
+    "category": "SINGLES",
+    "textFile": "MISC - The Smashing Pumpkins - VERSIONS [Silver].txt"
   },
   {
     "type": "release",
@@ -3084,5 +3086,137 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "category": "THIR13EN",
     "textFile": "MISC - The Smashing Pumpkins - Machina II (thir13en remaster).txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Ava Adore (DVL-012)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Ava Adore (DVL-012) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Butterfly Wings (EMCD29)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Exit Under Burning Skies",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Under the Covers {SP9000CD} (2001) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Live Divine Bootleg (MOONRAKER 142)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Live Divine Bootleg (MOONRAKER 142) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Once In A Lifetime (2000) (SPOAL)",
+    "year": 2000,
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Once In A Lifetime (2000) (SPOAL) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Tivoli (Sumo 10:11)",
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Turpentine Kisses",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Turpentine Kisses [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Unplugged in LA and Chicago (1993)",
+    "year": 1993,
+    "version": "Silver CD",
+    "category": "SILVERS"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Westwood One In Concert #98-47 (preFM)",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Westwood One In Concert #98-47 (preFM) [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Confessions Of A Dopamine Addict (2020) (Single)",
+    "year": 2020,
+    "format": "FLAC HD",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Muzzle (Promo) {DPRO-11555} (1996)",
+    "year": 1996,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Perfect (CD1) (HUTDX 106) (1998)",
+    "year": 1998,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Perfect (CD3) (1998)",
+    "year": 1998,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Tarantula - Single (2007)",
+    "year": 2007,
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - The End Is The Beginning Is The End (1997)",
+    "year": 1997,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Today {Japanese CD Single} (1994)",
+    "year": 1994,
+    "format": "FLAC",
+    "category": "SINGLES",
+    "textFile": "MISC - The Smashing Pumpkins - Pisces Iscariot (1994) (US) [VINYL].txt"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Tonight, Tonight (1996)",
+    "year": 1996,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Try, Try, Try (Single) (HUTCD140) (2000)",
+    "year": 2000,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Zero (1996)",
+    "year": 1996,
+    "format": "FLAC",
+    "category": "SINGLES"
   }
 ];

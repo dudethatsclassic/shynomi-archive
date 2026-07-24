@@ -151,5 +151,40 @@ const ARTIST_MISC_DATA = [
     "year": 1998,
     "format": "Single",
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Faith No More - Falling To Pieces",
+    "year": 1989,
+    "format": "Single",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Faith No More - Everything's Ruined CD 2",
+    "year": 1992,
+    "format": "Single",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Faith No More - Ashes To Ashes (Gold on Maroon)",
+    "year": 1997,
+    "format": "Single",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Faith No More - Ashes To Ashes",
+    "year": 1997,
+    "format": "Single",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Faith No More - Superhero",
+    "year": 2015,
+    "format": "Single",
+    "category": "SINGLES"
   }
 ];

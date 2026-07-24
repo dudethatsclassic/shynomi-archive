@@ -3372,7 +3372,7 @@ const ARTIST_DATA = {
       "notes": "iPhone 7 · chris lawrence",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2026-04-05 - Victoria, BC - Royal Theatre (iPhone 7) (chris lawrence) [AUD24].txt"
+      "textFile": "2026-04-05 - Victoria, BC - Royal Theatre (Sony ECM DS70P) (unk) [AUD].txt"
     },
     {
       "year": 2026,

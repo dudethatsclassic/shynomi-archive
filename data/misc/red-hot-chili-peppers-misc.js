@@ -27,7 +27,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Red Hot Chili Peppers - Transmission Impossible (3CD)",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Red Hot Chili Peppers - Stadium Arcadium (2015) (24_96) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -104,8 +105,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "label",
     "label": "Red Hot Chili Peppers - Off the Map (2001)",
-    "format": "MKV",
-    "textFile": "MISC - Red Hot Chili Peppers - Stadium Arcadium (2015) (24_96) [FLAC HD].txt"
+    "format": "MKV"
   },
   {
     "type": "label",
@@ -398,8 +398,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Red Hot Chili Peppers - Live in Paris (2016)",
     "year": 2016,
-    "format": "FLAC",
-    "textFile": "MISC - Red Hot Chili Peppers - One Hot Minute (2015) (24_96) [FLAC HD].txt"
+    "format": "FLAC"
   },
   {
     "type": "release",
@@ -499,20 +498,18 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Red Hot Chili Peppers - Christmas Party '91 (1992) (KTS 104)",
     "year": 1992,
-    "version": "Silver CD",
-    "textFile": "MISC - Red Hot Chili Peppers - Christmas Party '91 (1992) (KTS 104) [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",
     "label": "Red Hot Chili Peppers - Holland 1991 (1992) (RFCD 1184)",
     "year": 1992,
-    "version": "Silver CD",
-    "textFile": "MISC - Red Hot Chili Peppers - Holland 1991 (1992) (RFCD 1184) [Silver].txt"
+    "version": "Silver CD"
   },
   {
     "type": "release",
     "label": "Red Hot Chili Peppers - One Hot Globe (FAAB 0006-1)",
     "version": "Silver CD",
-    "textFile": "MISC - Red Hot Chili Peppers - Outtakes and Demos - 1985-1988.txt"
+    "textFile": "MISC - Red Hot Chili Peppers - One Hot Minute (2015) (24_96) [FLAC HD].txt"
   }
 ];
