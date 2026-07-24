@@ -1114,6 +1114,14 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
+    "label": "10-25 - Raleigh, NC - Museum Of Art (FOH Series)",
+    "year": 2014,
+    "format": "SBD",
+    "category": "FRONT OF HOUSE SERIES",
+    "textFile": "MISC - 2014-10-25 - Raleigh, NC - Museum Of Art (FOH Series) [SBD].txt"
+  },
+  {
+    "type": "release",
     "label": "2004 \"A Ghost Is Born\" Tour Compilation (4CD)",
     "format": "FLAC",
     "year": 2004,
@@ -1323,18 +1331,5 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2002,
     "category": "SINGLES"
-  },
-  {
-    "type": "release",
-    "label": "10-25 - Raleigh, NC - Museum Of Art (FOH Series)",
-    "year": 2014,
-    "format": "SBD",
-    "category": "FRONT OF HOUSE SERIES",
-    "textFile": "MISC - 2014-10-25 - Raleigh, NC - Museum Of Art (FOH Series) [SBD].txt"
-  },
-  {
-    "type": "release",
-    "label": "Wilco - AGIB Tour Compilation",
-    "textFile": "MISC - Wilco - AGIB Tour Compilation.txt"
   }
 ];
