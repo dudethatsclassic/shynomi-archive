@@ -1,516 +1,5 @@
 const ARTIST_MISC_DATA = [
   {
-    "type": "label",
-    "label": "Nirvana/Hole Tape",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - A Better Box (JWB REMASTER)",
-    "format": "FLAC",
-    "textFile": "MISC - Nirvana - A Better Box (JWB REMASTER).txt"
-  },
-  {
-    "type": "label",
-    "label": "1992 (Winter) / Seattle, WA / Unidentified Hotel *Hit So Hard (2011)",
-    "format": "MKV",
-    "textFile": "MISC - 1992 (Winter) - Seattle, WA - Unidentified Hotel (Hit So Hard 2011).txt"
-  },
-  {
-    "type": "release",
-    "label": "Kurt Cobain - Montage of Heck",
-    "version": "Official",
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Kurt Cobain - Montage of Heck",
-    "version": "Official",
-    "format": "MP4"
-  },
-  {
-    "type": "label",
-    "label": "Kurt Cobain - Montage of Heck 2: The Home Recordings",
-    "format": "FLAC",
-    "textFile": "MISC - Kurt Cobain - Montage of Heck 2 - The Home Recordings (V1.3).txt"
-  },
-  {
-    "type": "label",
-    "label": "The Elmo Collection",
-    "format": "FLAC"
-  },
-  {
-    "type": "show",
-    "year": 1989,
-    "month": 4,
-    "day": 21,
-    "dateStr": "4-21-1989",
-    "city": "Olympia",
-    "state": "WA",
-    "location": "Olympia, WA",
-    "venue": "Garage",
-    "notes": "Vail \u00b7 Go Team",
-    "version": "SBD",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "10-XX-1990 / Tour Footage"
-  },
-  {
-    "type": "show",
-    "year": 1990,
-    "month": 10,
-    "day": null,
-    "dateStr": "10-xx-1990",
-    "city": "Portland",
-    "state": "OR",
-    "location": "Portland, OR",
-    "venue": "(Earth) Smegma Studios",
-    "notes": "",
-    "version": "SBD #2a",
-    "format": "FLAC"
-  },
-  {
-    "type": "show",
-    "year": 1990,
-    "month": 10,
-    "day": null,
-    "dateStr": "10-xx-1990",
-    "city": "Portland",
-    "state": "OR",
-    "location": "Portland, OR",
-    "venue": "(Earth) Smegma Studios",
-    "notes": "",
-    "version": "SBD #2b",
-    "format": "FLAC"
-  },
-  {
-    "type": "show",
-    "year": 1992,
-    "month": 11,
-    "day": null,
-    "dateStr": "11-xx-1992",
-    "city": "Seatlle",
-    "state": "WA",
-    "location": "Seatlle, WA",
-    "venue": "Laundry Room Studio",
-    "notes": "",
-    "version": "SBD #1",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "1986-1990 / Early Nirvana",
-    "format": "FLAC",
-    "textFile": "MISC - 1986-1990 - Early Nirvana.txt"
-  },
-  {
-    "type": "release",
-    "label": "American Journal Excerpt with clip from 1-24-1988 \"Paper Cuts\"",
-    "version": "TV",
-    "format": "FLAC"
-  },
-  {
-    "type": "show",
-    "year": 1990,
-    "month": 4,
-    "day": null,
-    "dateStr": "4-XX-1990",
-    "city": "Chad Channing's Tape - Studio A Smart Studios",
-    "state": "",
-    "location": "Chad Channing's Tape - Studio A Smart Studios",
-    "venue": "Madison, WI",
-    "notes": "",
-    "version": "",
-    "format": "FLAC"
-  },
-  {
-    "type": "show",
-    "year": 1990,
-    "month": 4,
-    "day": null,
-    "dateStr": "4-XX-1990",
-    "city": "Top Secret Tape - Studio A Smart Studios",
-    "state": "",
-    "location": "Top Secret Tape - Studio A Smart Studios",
-    "venue": "Madison, WI",
-    "notes": "",
-    "version": "",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Kurt Cobain - Spring 91 - Fall 92 (Old Age)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana Special \"Rage Interview\" + SolidRock Special - TV-VHS(x) (ns)",
-    "format": "MKV"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - Into the Black (5 Disc Box Set)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Kurt Cobain - Moments That Shook Music Documentary (2024)",
-    "format": "MP4"
-  },
-  {
-    "type": "label",
-    "label": "Kurdt's Tape Side A",
-    "format": "FLAC",
-    "textFile": "MISC - Kurdt's Tape Side A.txt"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - Nevermind Rough Mix / Los Angeles, CA / Sound City Studios",
-    "format": "FLAC",
-    "textFile": "MISC - Nirvana - Los Angeles, CA - Sound City Studios - Nevermind Rough Mix.txt"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - Nevermind - Rough Mix (Speed Corrected) (Kurt Stream 2025 Transfer)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - Pizza Spaghetti & Mandolino",
-    "format": "FLAC",
-    "textFile": "MISC - Nirvana - Pizza Spaghetti & Mandolino [FLAC].txt"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - Amsterdam Paradise (2003)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Nevermind Sessions",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Kurdts Kassette aka Touch and Go Demo aka Kurdt Kobane Tape",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Pay to Play (Performance Compilation)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Loose Ends (Studio/Radio Sessions Compilation)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Loose Ends (Bonus)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Sliver (Alternate Mix)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Sliver Single Phone Conversation (Krist-Poneman)",
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Total Fucking Godhead 7\" / April 2-6, 1990 / Studio A, Smart Studios / Madison, WI",
-    "version": "SBD #4",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Victoria Clarke Tapes",
-    "format": "FLAC",
-    "textFile": "MISC - 1992-10-XX - Victoria Clarke Tapes.txt"
-  },
-  {
-    "type": "label",
-    "label": "In The Shadows of the Sun (kts release)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "MTV Unplugged (Uncut)",
-    "format": "MPG"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - The Chosen Rejects DVD",
-    "format": "DVD",
-    "textFile": "MISC - Nirvana - The Chosen Rejects [Silver].txt"
-  },
-  {
-    "type": "label",
-    "label": "The First and Last Performances of Incesticide",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Cobain and Crover - 3 songs from Fecal Matter Demo (jwb remaster)",
-    "format": "FLAC",
-    "textFile": "MISC - Cobain & Crover - 3 Songs from 'Fecal Matter' demo (JWB REMASTER).txt"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana Live! Tonight! Sold Out!! (1994)",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana: Live and Loud",
-    "version": "Official",
-    "format": "MKV"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana: Live at the Paramount",
-    "version": "Official",
-    "format": "MKV"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana: Live at Reading",
-    "version": "Official",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "Kurt & Courtney",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "Kurt Cobain - King 5 - Seattle News",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "Kurt Cobain - Death Reports",
-    "format": "DVD",
-    "textFile": "MISC - Kurt Cobain - Death Reports.txt"
-  },
-  {
-    "type": "release",
-    "label": "Unsolved Mysteries Compilation",
-    "version": "TV"
-  },
-  {
-    "type": "label",
-    "label": "The Death of Kurt Cobain",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "The Secret Life of Kurt Cobain",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana 94 PRO",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - La Deux",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "1987-1988 Cobain Residence / Aberdeen, WA",
-    "version": "SBD #1b",
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "1987-1988 Cobain Residence / Aberdeen, WA",
-    "version": "SBD #1f",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "1984 - The Horror Movies",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "Kurt - Home Movies",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "Music Video Outtakes",
-    "format": "MPG"
-  },
-  {
-    "type": "label",
-    "label": "1991 Interviews Compilation",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "TMF EXIT 4-5-2004",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "MTV 120 Minutes Promo",
-    "format": "MKV"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - Classic Albums: Nevermind",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "The Story of Nirvana",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "No Nirvana: The Late Show Special",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "Kurt Cobain - The Beginning Of Grunge - ANA(1)",
-    "format": "FLAC",
-    "textFile": "MISC - Kurt Cobain - The Beginning Of Grunge - ANA(1).txt"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - The Rise & Rise Of Kurt Cobain - TV-DVDR(4) (Reauthored)",
-    "format": "DVD",
-    "textFile": "MISC - Nirvana - The Rise & Rise Of Kurt Cobain - TV-DVDR(4) (Reauthored) [DVD].txt"
-  },
-  {
-    "type": "label",
-    "label": "Mari Earl - Various Recordings - ANA(1)",
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - MTV News Compilation",
-    "version": "TV",
-    "format": "MP4"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - MTV VMA's 1993 (Pre-show & After show included)",
-    "version": "TV",
-    "format": "DVD"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - Broke Our Mirrors (Live California '91) (2021)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - Hairspray Queen (Live) (2019)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - Saturday Night Not-So Live (2015) [24bit Vinyl Rip]",
-    "format": "FLAC",
-    "textFile": "MISC - Nirvana - Saturday Night Not-So Live (2015) [24bit Vinyl Rip].txt"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - Seattle Grunge Years (2019)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - The Masquerade (1996)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - Under The Covers (2019)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - Up In Smoke (1996)",
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Interviews Archive (April 2021)",
-    "version": "Compilation",
-    "format": "FLAC + MP4"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Outcesticide 2022 - CD(M)",
-    "version": "Compilation",
-    "format": "FLAC",
-    "textFile": "MISC - Nirvana - Outcesticide 2022.txt"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Broke Our Mirrors - Live California '91 (2021)",
-    "version": "WEB",
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Jam On Sunset (Live 1990) {Carnival 5059806072259} (2021)",
-    "version": "WEB",
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Madrid 1992 {Zip City} (2021)",
-    "version": "WEB",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - Seattle Grunge Years {LM4791} (2019)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Nirvana - Classic Airwaves {SMC2443} (2005)",
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - The '90s The Last Great Decade (Documentary)",
-    "version": "TV",
-    "format": "TS",
-    "textFile": "MISC - Nirvana - The '90s The Last Great Decade (DOCUMENTARY) [TS].txt"
-  },
-  {
-    "type": "label",
-    "label": "Kurt Cobain - About A Son [2006]",
-    "format": "MP4"
-  },
-  {
-    "type": "label",
-    "label": "Various Artists - Screaming Life {SUB PROCD#39} (1995)",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "Various Artists - The Grunge Years {SP112b} (1994)",
-    "format": "FLAC"
-  },
-  {
     "type": "release",
     "label": "XX-XX - Cobain Boombox Demos - Cobain's House, Aberdeen, WA",
     "year": 1988,
@@ -870,10 +359,10 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Nirvana - Where Were You In \u00b489 (MIK 035)",
+    "label": "Nirvana - Where Were You In ´89 (MIK 035)",
     "version": "Silver CD",
     "category": "Silvers",
-    "textFile": "MISC - Nirvana - Where Were You In \u00b489 (MIK 035) [Silver].txt"
+    "textFile": "MISC - Nirvana - Where Were You In ´89 (MIK 035) [Silver].txt"
   },
   {
     "type": "release",
@@ -943,241 +432,622 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "XX-XX - Montage Of Heck",
-    "year": 1985,
-    "textFile": "MISC - 1985-XX-XX - Montage Of Heck.txt"
-  },
-  {
-    "type": "release",
-    "label": "1990 - Early Nirvana",
-    "year": 1986
-  },
-  {
-    "type": "release",
-    "label": "01-24 Radio Shack, Aberdeen, WA (american journal excerpt)",
-    "year": 1988,
-    "textFile": "MISC - 1988-01-24 Radio Shack, Aberdeen, WA (american journal excerpt).txt"
-  },
-  {
-    "type": "release",
-    "label": "04-21 - (Go Team) - Garage, Vail Residence, Olympia, WA",
-    "year": 1989
-  },
-  {
-    "type": "release",
-    "label": "198X-XX-XX - Aberdeen, WA - Cobain Residence (SBD#1b)",
-    "textFile": "MISC - 198X-XX-XX - Aberdeen, WA - Cobain Residence (SBD#1b).txt"
-  },
-  {
-    "type": "release",
-    "label": "198X-XX-XX - Aberdeen, WA - Cobain Residence (SBD1f)",
-    "textFile": "MISC - 198X-XX-XX - Aberdeen, WA - Cobain Residence (SBD1f).txt"
-  },
-  {
-    "type": "release",
-    "label": "04-XX - Chad Channing's Tape",
-    "year": 1990
-  },
-  {
-    "type": "release",
-    "label": "04-XX - Top Secret Tape",
-    "year": 1990
-  },
-  {
-    "type": "release",
-    "label": "10-XX - (Earth) Smegma Studios, Portland, OR",
-    "year": 1990
-  },
-  {
-    "type": "release",
-    "label": "(Winter) - Seattle, WA - Unidentified Hotel (Hit So Hard 2011)",
-    "year": 1992
-  },
-  {
-    "type": "release",
-    "label": "10-XX - Victoria Clarke Tapes",
-    "year": 1992
-  },
-  {
-    "type": "release",
-    "label": "11-XX - Laundry Room Studios, Seattle, WA",
-    "year": 1992
-  },
-  {
-    "type": "release",
-    "label": "Cobain & Crover - 3 Songs from 'Fecal Matter' demo (JWB REMASTER)"
-  },
-  {
-    "type": "release",
-    "label": "Cobain - Spring 1991 - Fall 1992 Old Age",
-    "textFile": "MISC - Cobain - Spring 1991 - Fall 1992 Old Age.txt"
-  },
-  {
-    "type": "release",
-    "label": "Kurt & Courtney (1998)",
-    "year": 1998
-  },
-  {
-    "type": "release",
-    "label": "Kurt Cobain - About A Son",
-    "format": "2006"
-  },
-  {
-    "type": "release",
-    "label": "Kurt Cobain - Moments That Shook Music Documentary",
-    "format": "MP4"
-  },
-  {
-    "type": "release",
-    "label": "Kurt Cobain - Montage of Heck (2015)",
-    "year": 2015,
-    "format": "1080p"
-  },
-  {
-    "type": "release",
-    "label": "Kurt Cobain - Montage of Heck 2 - The Home Recordings (V1.3)"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Chosen Rejects DVD - Various",
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Classic Albums. Nevermind"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Hollywood Rock Festival - Rio De Janeiro, Brazil, January 23rd, 1993 {Doxy} (2016)",
-    "year": 2016,
+    "label": "Nirvana/Hole Tape",
     "format": "FLAC",
-    "textFile": "MISC - Nirvana - Hollywood Rock Festival - Rio De Janeiro, Brazil, January 23rd, 1993 {Doxy} (2016) [FLAC].txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Nirvana - In The Shadows Of The Sun",
-    "format": "KTS 577"
+    "label": "Nirvana - A Better Box (JWB REMASTER)",
+    "format": "FLAC",
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - A Better Box (JWB REMASTER).txt"
   },
   {
     "type": "release",
-    "label": "Nirvana - Kurdts Kassette.flac",
-    "textFile": "MISC - Nirvana - Kurdts Kassette.flac.txt"
+    "label": "1992 (Winter) / Seattle, WA / Unidentified Hotel *Hit So Hard (2011)",
+    "format": "MKV",
+    "year": 1992,
+    "category": "OTHER",
+    "textFile": "MISC - 1992 (Winter) - Seattle, WA - Unidentified Hotel (Hit So Hard 2011).txt"
   },
   {
     "type": "release",
-    "label": "Nirvana - Live And Loud (1993)",
-    "year": 1993,
-    "format": "MKV"
+    "label": "Kurt Cobain - Montage of Heck",
+    "version": "Official",
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Nirvana - Live at Reading",
-    "format": "DVD"
+    "label": "Kurt Cobain - Montage of Heck",
+    "version": "Official",
+    "format": "MP4",
+    "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Nirvana - Live at the Paramount (1991)",
-    "year": 1991
+    "label": "Kurt Cobain - Montage of Heck 2: The Home Recordings",
+    "format": "FLAC",
+    "category": "OTHER",
+    "textFile": "MISC - Kurt Cobain - Montage of Heck 2 - The Home Recordings (V1.3).txt"
   },
   {
     "type": "release",
-    "label": "Nirvana - Live! Tonight! Sold Out!! (1994)",
-    "year": 1994,
-    "format": "MKV"
+    "label": "The Elmo Collection",
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "release",
-    "label": "Nirvana - Live! Tonight! Sold Out!!",
-    "format": "MKV"
+    "type": "show",
+    "year": 1989,
+    "month": 4,
+    "day": 21,
+    "dateStr": "4-21-1989",
+    "city": "Olympia",
+    "state": "WA",
+    "location": "Olympia, WA",
+    "venue": "Garage",
+    "notes": "Vail · Go Team",
+    "version": "SBD",
+    "format": "FLAC"
   },
   {
-    "type": "release",
-    "label": "Nirvana - Loose Ends (Bonus).flac",
-    "textFile": "MISC - Nirvana - Loose Ends (Bonus).flac.txt"
+    "type": "label",
+    "label": "10-XX-1990 / Tour Footage"
   },
   {
-    "type": "release",
-    "label": "Nirvana - Loose Ends.flac",
-    "textFile": "MISC - Nirvana - Loose Ends.flac.txt"
+    "type": "show",
+    "year": 1990,
+    "month": 10,
+    "day": null,
+    "dateStr": "10-xx-1990",
+    "city": "Portland",
+    "state": "OR",
+    "location": "Portland, OR",
+    "venue": "(Earth) Smegma Studios",
+    "notes": "",
+    "version": "SBD #2a",
+    "format": "FLAC"
   },
   {
-    "type": "release",
-    "label": "Nirvana - Los Angeles, CA - Sound City Studios - Nevermind Rough Mix"
+    "type": "show",
+    "year": 1990,
+    "month": 10,
+    "day": null,
+    "dateStr": "10-xx-1990",
+    "city": "Portland",
+    "state": "OR",
+    "location": "Portland, OR",
+    "venue": "(Earth) Smegma Studios",
+    "notes": "",
+    "version": "SBD #2b",
+    "format": "FLAC"
   },
   {
-    "type": "release",
-    "label": "Nirvana - MTV Unplugged in NY (Uncut)"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - MTV Video Music Awards 1993 + Pre & After Show",
-    "format": "DVD",
-    "textFile": "MISC - Nirvana - MTV Video Music Awards 1993 + Pre & After Show [DVD].txt"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Nevermind - Rough Mix - Speed Corrected",
-    "textFile": "MISC - Nirvana - Nevermind - Rough Mix - Speed Corrected.txt"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Nevermind Sessions",
-    "textFile": "MISC - Nirvana - Nevermind Sessions.txt"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Outcesticide 2022"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Pay to Play",
-    "textFile": "MISC - Nirvana - Pay to Play.txt"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Saturday Night Not-So Live (2015)",
-    "year": 2015,
-    "format": "24bit Vinyl Rip"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Saturday Night Not-So-Live (2018)",
-    "year": 2018,
-    "format": "VINYL"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Sliver Alternate Mix.flac",
-    "textFile": "MISC - Nirvana - Sliver Alternate Mix.flac.txt"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Sliver single phone conversation.flac",
-    "textFile": "MISC - Nirvana - Sliver single phone conversation.flac.txt"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - The Elmo Collection - A Better Box (V1.0)",
-    "textFile": "MISC - Nirvana - The Elmo Collection - A Better Box (V1.0).txt"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - The First & Last Live Performances Of Incesticide",
-    "textFile": "MISC - Nirvana - The First & Last Live Performances Of Incesticide.txt"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - The Rare Recordings {Lilith} (2016)",
-    "year": 2016,
+    "type": "show",
+    "year": 1992,
+    "month": 11,
+    "day": null,
+    "dateStr": "11-xx-1992",
+    "city": "Seatlle",
+    "state": "WA",
+    "location": "Seatlle, WA",
+    "venue": "Laundry Room Studio",
+    "notes": "",
+    "version": "SBD #1",
     "format": "FLAC"
   },
   {
     "type": "release",
-    "label": "Nirvana Hole Tape"
+    "label": "1986-1990 / Early Nirvana",
+    "format": "FLAC",
+    "year": 1986,
+    "category": "OTHER",
+    "textFile": "MISC - 1986-1990 - Early Nirvana.txt"
   },
   {
     "type": "release",
-    "label": "Total Fucking Godhead 7''",
-    "textFile": "MISC - Total Fucking Godhead 7''.txt"
+    "label": "American Journal Excerpt with clip from 1-24-1988 \"Paper Cuts\"",
+    "version": "TV",
+    "format": "FLAC",
+    "year": 1988,
+    "category": "OTHER"
+  },
+  {
+    "type": "show",
+    "year": 1990,
+    "month": 4,
+    "day": null,
+    "dateStr": "4-XX-1990",
+    "city": "Chad Channing's Tape - Studio A Smart Studios",
+    "state": "",
+    "location": "Chad Channing's Tape - Studio A Smart Studios",
+    "venue": "Madison, WI",
+    "notes": "",
+    "version": "",
+    "format": "FLAC"
+  },
+  {
+    "type": "show",
+    "year": 1990,
+    "month": 4,
+    "day": null,
+    "dateStr": "4-XX-1990",
+    "city": "Top Secret Tape - Studio A Smart Studios",
+    "state": "",
+    "location": "Top Secret Tape - Studio A Smart Studios",
+    "venue": "Madison, WI",
+    "notes": "",
+    "version": "",
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Kurt Cobain - Spring 91 - Fall 92 (Old Age)",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana Special \"Rage Interview\" + SolidRock Special - TV-VHS(x) (ns)",
+    "format": "MKV",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Into the Black (5 Disc Box Set)",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Kurt Cobain - Moments That Shook Music Documentary (2024)",
+    "format": "MP4",
+    "year": 2024,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Kurdt's Tape Side A",
+    "format": "FLAC",
+    "category": "OTHER",
+    "textFile": "MISC - Kurdt's Tape Side A.txt"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Nevermind Rough Mix / Los Angeles, CA / Sound City Studios",
+    "format": "FLAC",
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - Los Angeles, CA - Sound City Studios - Nevermind Rough Mix.txt"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Nevermind - Rough Mix (Speed Corrected) (Kurt Stream 2025 Transfer)",
+    "format": "FLAC",
+    "year": 2025,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Pizza Spaghetti & Mandolino",
+    "format": "FLAC",
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - Pizza Spaghetti & Mandolino [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Amsterdam Paradise (2003)",
+    "format": "FLAC",
+    "year": 2003,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nevermind Sessions",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Kurdts Kassette aka Touch and Go Demo aka Kurdt Kobane Tape",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Pay to Play (Performance Compilation)",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Loose Ends (Studio/Radio Sessions Compilation)",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Loose Ends (Bonus)",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Sliver (Alternate Mix)",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Sliver Single Phone Conversation (Krist-Poneman)",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Total Fucking Godhead 7\" / April 2-6, 1990 / Studio A, Smart Studios / Madison, WI",
+    "version": "SBD #4",
+    "format": "FLAC",
+    "year": 1990,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Victoria Clarke Tapes",
+    "format": "FLAC",
+    "category": "OTHER",
+    "textFile": "MISC - 1992-10-XX - Victoria Clarke Tapes.txt"
+  },
+  {
+    "type": "release",
+    "label": "In The Shadows of the Sun (kts release)",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "MTV Unplugged (Uncut)",
+    "format": "MPG",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - The Chosen Rejects DVD",
+    "format": "DVD",
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - The Chosen Rejects [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "The First and Last Performances of Incesticide",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Cobain and Crover - 3 songs from Fecal Matter Demo (jwb remaster)",
+    "format": "FLAC",
+    "category": "OTHER",
+    "textFile": "MISC - Cobain & Crover - 3 Songs from 'Fecal Matter' demo (JWB REMASTER).txt"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana Live! Tonight! Sold Out!! (1994)",
+    "format": "DVD",
+    "year": 1994,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana: Live and Loud",
+    "version": "Official",
+    "format": "MKV",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana: Live at the Paramount",
+    "version": "Official",
+    "format": "MKV",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana: Live at Reading",
+    "version": "Official",
+    "format": "DVD",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Kurt & Courtney",
+    "format": "DVD",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Kurt Cobain - King 5 - Seattle News",
+    "format": "DVD",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Kurt Cobain - Death Reports",
+    "format": "DVD",
+    "category": "OTHER",
+    "textFile": "MISC - Kurt Cobain - Death Reports.txt"
+  },
+  {
+    "type": "release",
+    "label": "Unsolved Mysteries Compilation",
+    "version": "TV",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "The Death of Kurt Cobain",
+    "format": "DVD",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "The Secret Life of Kurt Cobain",
+    "format": "DVD",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana 94 PRO",
+    "format": "DVD",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - La Deux",
+    "format": "DVD",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "1987-1988 Cobain Residence / Aberdeen, WA",
+    "version": "SBD #1b",
+    "format": "FLAC",
+    "year": 1987,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "1987-1988 Cobain Residence / Aberdeen, WA",
+    "version": "SBD #1f",
+    "format": "FLAC",
+    "year": 1987,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "1984 - The Horror Movies",
+    "format": "DVD",
+    "year": 1984,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Kurt - Home Movies",
+    "format": "DVD",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Music Video Outtakes",
+    "format": "MPG",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "1991 Interviews Compilation",
+    "format": "DVD",
+    "year": 1991,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "TMF EXIT 4-5-2004",
+    "format": "DVD",
+    "year": 2004,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "MTV 120 Minutes Promo",
+    "format": "MKV",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Classic Albums: Nevermind",
+    "format": "DVD",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "The Story of Nirvana",
+    "format": "DVD",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "No Nirvana: The Late Show Special",
+    "format": "DVD",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Kurt Cobain - The Beginning Of Grunge - ANA(1)",
+    "format": "FLAC",
+    "category": "OTHER",
+    "textFile": "MISC - Kurt Cobain - The Beginning Of Grunge - ANA(1).txt"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - The Rise & Rise Of Kurt Cobain - TV-DVDR(4) (Reauthored)",
+    "format": "DVD",
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - The Rise & Rise Of Kurt Cobain - TV-DVDR(4) (Reauthored) [DVD].txt"
+  },
+  {
+    "type": "release",
+    "label": "Mari Earl - Various Recordings - ANA(1)",
+    "format": "FLAC",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - MTV News Compilation",
+    "version": "TV",
+    "format": "MP4",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - MTV VMA's 1993 (Pre-show & After show included)",
+    "version": "TV",
+    "format": "DVD",
+    "year": 1993,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Broke Our Mirrors (Live California '91) (2021)",
+    "format": "FLAC",
+    "year": 2021,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Hairspray Queen (Live) (2019)",
+    "format": "FLAC",
+    "year": 2019,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Saturday Night Not-So Live (2015) [24bit Vinyl Rip]",
+    "format": "FLAC",
+    "year": 2015,
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - Saturday Night Not-So Live (2015) [24bit Vinyl Rip].txt"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Seattle Grunge Years (2019)",
+    "format": "FLAC",
+    "year": 2019,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - The Masquerade (1996)",
+    "format": "FLAC",
+    "year": 1996,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Under The Covers (2019)",
+    "format": "FLAC",
+    "year": 2019,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Up In Smoke (1996)",
+    "format": "FLAC",
+    "year": 1996,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Interviews Archive (April 2021)",
+    "version": "Compilation",
+    "format": "FLAC + MP4",
+    "year": 2021,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Outcesticide 2022 - CD(M)",
+    "version": "Compilation",
+    "format": "FLAC",
+    "year": 2022,
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - Outcesticide 2022.txt"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Broke Our Mirrors - Live California '91 (2021)",
+    "version": "WEB",
+    "format": "FLAC",
+    "year": 2021,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Jam On Sunset (Live 1990) {Carnival 5059806072259} (2021)",
+    "version": "WEB",
+    "format": "FLAC",
+    "year": 1990,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Madrid 1992 {Zip City} (2021)",
+    "version": "WEB",
+    "format": "FLAC",
+    "year": 1992,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Seattle Grunge Years {LM4791} (2019)",
+    "format": "FLAC",
+    "year": 2019,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Classic Airwaves {SMC2443} (2005)",
+    "format": "FLAC",
+    "year": 2005,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - The '90s The Last Great Decade (Documentary)",
+    "version": "TV",
+    "format": "TS",
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - The '90s The Last Great Decade (DOCUMENTARY) [TS].txt"
+  },
+  {
+    "type": "release",
+    "label": "Kurt Cobain - About A Son [2006]",
+    "format": "MP4",
+    "year": 2006,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Various Artists - Screaming Life {SUB PROCD#39} (1995)",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Various Artists - The Grunge Years {SP112b} (1994)",
+    "format": "FLAC",
+    "year": 1994,
+    "category": "OTHER"
   }
 ];
