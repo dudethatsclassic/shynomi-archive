@@ -2,12 +2,13 @@ const ARTIST_DATA = {
   "id": "the-melvins",
   "name": "The Melvins",
   "drive": "A",
-  "showCount": 21,
+  "showCount": 23,
   "firstYear": 1985,
   "lastYear": 2022,
   "years": [
     1985,
     1986,
+    1987,
     1990,
     1991,
     1993,
@@ -32,7 +33,7 @@ const ARTIST_DATA = {
       "state": "Manitoba",
       "location": "Winnipeg, Manitoba, CA",
       "venue": "Wellington's",
-      "notes": "ANA(x) \u00b7 unk",
+      "notes": "ANA(x) · unk",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -58,8 +59,21 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Olympia, WA",
       "venue": "G.E.S.C.C.O.",
-      "notes": "ANA(x) \u00b7 unk",
+      "notes": "ANA(x) · unk",
       "version": "AUD #1",
+      "format": "FLAC"
+    },
+    {
+      "year": 1987,
+      "month": 9,
+      "day": 12,
+      "dateStr": "9-12-1987",
+      "city": "Bremerton",
+      "state": "WA",
+      "location": "Bremerton, WA",
+      "venue": "Natacha's",
+      "notes": "unk",
+      "version": "AUD",
       "format": "FLAC"
     },
     {
@@ -97,7 +111,7 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Foufounes Electriques",
-      "notes": "ANA(M) \u00b7 Sony WM-D6 \u00b7 unk",
+      "notes": "ANA(M) · Sony WM-D6 · unk",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -137,6 +151,19 @@ const ARTIST_DATA = {
       "location": "Milan, Italy",
       "venue": "Palatrussardi",
       "notes": "",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1994,
+      "month": 4,
+      "day": 19,
+      "dateStr": "4-19-1994",
+      "city": "Carrboro",
+      "state": "NC",
+      "location": "Carrboro, NC",
+      "venue": "Cat's Cradle",
+      "notes": "Realistic SCP-29 · lantzbarb",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -188,7 +215,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Vintage Vinyl",
-      "notes": "DAT(M) \u00b7 CSB \u00b7 jlizard",
+      "notes": "DAT(M) · CSB · jlizard",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -201,7 +228,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
-      "notes": "DAT(M) \u00b7 CSB \u00b7 jlizard",
+      "notes": "DAT(M) · CSB · jlizard",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -227,7 +254,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Showbox",
-      "notes": "DAT(M) \u00b7 cps transfer",
+      "notes": "DAT(M) · cps transfer",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -279,7 +306,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Ana, CA",
       "venue": "The Observatory",
-      "notes": "DSCM6 \u00b7 unk",
+      "notes": "DSCM6 · unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -292,7 +319,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Westcott Theater",
-      "notes": "AKG CK63 \u00b7 beatkilla",
+      "notes": "AKG CK63 · beatkilla",
       "version": "AUD",
       "format": "FLAC"
     }
