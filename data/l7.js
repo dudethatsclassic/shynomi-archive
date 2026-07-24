@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "l7",
   "name": "L7",
   "drive": "A",
-  "showCount": 13,
+  "showCount": 15,
   "firstYear": 1989,
   "lastYear": 2024,
   "years": [
@@ -103,8 +103,21 @@ const ARTIST_DATA = {
       "city": "L'Isle Jourdain",
       "state": "France",
       "location": "L'Isle Jourdain, France",
-      "venue": "Mégafolies Festival",
+      "venue": "Mégafolies Festival",
       "notes": "MD(M) · Sony ECM · evie_np",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1995,
+      "month": 9,
+      "day": 2,
+      "dateStr": "9-2-1995",
+      "city": "Seattle",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "Mainstage Bumbershoot",
+      "notes": "Sony Walkman F45 · unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -185,7 +198,19 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4s · loughney",
       "version": "AUD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2024,
+      "month": 9,
+      "day": 15,
+      "dateStr": "9-15-2024",
+      "city": "Victoria",
+      "state": "BC",
+      "location": "Victoria, BC",
+      "venue": "Rifflandia Festival",
+      "notes": "iPhone 7 · chrislawrence",
+      "version": "AUD",
+      "format": "FLAC"
     }
-  ],
-  "misc": []
+  ]
 };
