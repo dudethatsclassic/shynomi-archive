@@ -1395,7 +1395,7 @@ const ARTISTS = [
   {
     "id": "l7",
     "name": "L7",
-    "showCount": 13,
+    "showCount": 15,
     "firstYear": 1989,
     "lastYear": 2024
   },
@@ -1906,7 +1906,7 @@ const ARTISTS = [
   {
     "id": "nirvana",
     "name": "Nirvana",
-    "showCount": 1034,
+    "showCount": 1033,
     "firstYear": 1969,
     "lastYear": 2025
   },
@@ -2858,7 +2858,7 @@ const ARTISTS = [
   {
     "id": "the-melvins",
     "name": "The Melvins",
-    "showCount": 21,
+    "showCount": 23,
     "firstYear": 1985,
     "lastYear": 2022
   },
