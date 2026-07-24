@@ -45,9 +45,9 @@ const ARTIST_DATA = {
       "month": 11,
       "day": 8,
       "dateStr": "11-8-1989",
-      "city": "Köln",
+      "city": "Köln",
       "state": "Germany",
-      "location": "Köln, Germany",
+      "location": "Köln, Germany",
       "venue": "Rose Club",
       "notes": "",
       "version": "AUD",
@@ -261,6 +261,5 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC"
     }
-  ],
-  "misc": []
+  ]
 };
