@@ -2049,7 +2049,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - 1997 (Moonraker 245:46)",
     "version": "Silver CD",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - The End Is The Beginning Is The End [The Remixes] (1997) [FLAC].txt"
   },
   {
     "type": "release",
@@ -2545,8 +2546,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Perfect In Houston",
     "version": "Silver CD",
-    "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - Live In Chicago 95 (SM 69) [Silver].txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -2715,8 +2715,7 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Star Profile {Mastertone 8080} (1997)",
     "year": 1997,
     "version": "Silver CD",
-    "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - The End Is The Beginning Is The End [The Remixes] (1997) [FLAC].txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -3104,8 +3103,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Exit Under Burning Skies",
     "version": "Silver CD",
-    "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - Under the Covers {SP9000CD} (2001) [Silver].txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -3119,8 +3117,7 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Once In A Lifetime (2000) (SPOAL)",
     "year": 2000,
     "version": "Silver CD",
-    "category": "SILVERS",
-    "textFile": "MISC - The Smashing Pumpkins - Once In A Lifetime (2000) (SPOAL) [Silver].txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -3140,7 +3137,8 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Unplugged in LA and Chicago (1993)",
     "year": 1993,
     "version": "Silver CD",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - The Smashing Pumpkins - Live In Chicago 95 (SM 69) [Silver].txt"
   },
   {
     "type": "release",
@@ -3195,8 +3193,7 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Today {Japanese CD Single} (1994)",
     "year": 1994,
     "format": "FLAC",
-    "category": "SINGLES",
-    "textFile": "MISC - The Smashing Pumpkins - Pisces Iscariot (1994) (US) [VINYL].txt"
+    "category": "SINGLES"
   },
   {
     "type": "release",
@@ -3216,6 +3213,40 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Smashing Pumpkins - Zero (1996)",
     "year": 1996,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Bullet with Butterfly Wings (1995)",
+    "year": 1995,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - Cherub Rock (1993)",
+    "year": 1993,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - G.L.O.W. (2008)",
+    "year": 2008,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - That's The Way (My Love Is) - Single (2007)",
+    "year": 2007,
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "The Smashing Pumpkins - The Everlasting Gaze (Promo) (2000)",
+    "year": 2000,
     "format": "FLAC",
     "category": "SINGLES"
   }

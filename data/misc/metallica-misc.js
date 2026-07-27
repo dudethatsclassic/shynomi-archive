@@ -999,6 +999,7 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Fan Can 6 - Copenhagen",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - Fan Can 5.txt"
   }
 ];

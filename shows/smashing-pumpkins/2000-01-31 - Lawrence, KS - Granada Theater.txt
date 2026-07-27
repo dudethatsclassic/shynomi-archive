@@ -1,42 +1,81 @@
 Smashing Pumpkins
-January 31st, 2000
-Granada Theater
+January 31st 2000
+Granada Theatre
 Lawrence, KS, US
 
-Source: (??Built-in??)>HSJS175W
-Transfer: ANA-?>CDR-? (from DE)>EAC>dEdit>FLAC
+SOURCE (AUD#1)
+built-in mics > HS-JS175W
 
-01. Rock On [Essex] - 6:15
-02. Zero - 3:24
-03. Glass and the Ghost Children (false start) - 0:44
-04. I of the Mourning - 5:59
-05. Glass and the Ghost Children - 11:11
-06. banter - 1:10
-07. Age of Innocence - 3:48
-08. I Am One - 7:50
-09. Ava Adore - 6:56
-10. Blue Skies Brings Tears - 5:25
-11. Pale Scales - 2:25
-12. The Everlasting Gaze - 3:40
-13. Heavy Metal Machine - 6:00
-14. To Sheila - 6:51
-15. Cherub Rock - 5:19
-Encore One:
-16. banter - 1:01
-17. 1979 - 5:53
-18. Disarm - 3:39
-Encore Two:
-19. Paranoid [Black Sabbath] (tease) - 0:53
-20. Glass' Theme - 1:45
-21. Bullet with Butterfly Wings - 6:46
-Encore Three:
-22. X.Y.U. > metal jam > Jumpin' Jack Flash [The Rolling Stones] (tease) - 15:27
-23. We Love You - 6:03
+TRANSFER:
+CDR > EAC > WAV > FLAC
 
--first date of the Resume the Pose tour
--EAC logs included
--small file size is due to the recording being in dual-mono
--editing consisted of joining/splitting a few tracks in Audacity and CDWave
+GENERATION:
+ANA(M) > CDR(X) > WAV > FLAC
 
-Don't sell, etc
-Rhinowing
+LENGTH:
+118:10
+
+SETLIST:
+01. Rock On [Essex]
+02. Zero
+03. Glass and the Ghost Children (false start)
+04. I of the Mourning
+05. Glass and the Ghost Children
+06. Age of Innocence
+07. I Am One (with rant)
+08. Ava Adore
+09. Blue Skies Bring Tears
+10. Pale Scales
+11. The Everlasting Gaze
+12. Heavy Metal Machine
+13. To Sheila
+14. Cherub Rock
+
+ENCORE ONE:
+15. (encore break)
+16. 1979
+17. Disarm
+
+ENCORE TWO:
+18. (encore break) > Paranoid [Black Sabbath] (tease)
+19. Glass' Theme
+20. Bullet With Butterfly Wings
+
+ENCORE THREE:
+21. (encore break)
+22. X.Y.U. > (jam) > Jumpin' Jack Flash [The Rolling Stones] (tease)
+23. We Love You
+
+NOTES:
+Thanks to traveller03 for sending over. Minor upgrade on circulating ANA(X) > CDR > FLAC
+
+Mic issue before Cherub Rock resulting in mono signal for 15 seconds. Normalized to 98%
+
+MD5 FINGERPRINTS:
+f57ffe431b64398af3294c3eade8ac09 *Smashing Pumpkins 2000-01-31 AUD1 t01 Rock On [Essex].flac
+90a803d08b10e322640f50dd9f40c12e *Smashing Pumpkins 2000-01-31 AUD1 t02 Zero.flac
+4c9f23cff35a01ea2dcf0de2a419f477 *Smashing Pumpkins 2000-01-31 AUD1 t03 Glass and the Ghost Children (false start).flac
+9b5e4ea7e2e1809817386a238457c79a *Smashing Pumpkins 2000-01-31 AUD1 t04 I of the Mourning.flac
+63130ce5dd7c1ed3baf160d59a8be295 *Smashing Pumpkins 2000-01-31 AUD1 t05 Glass and the Ghost Children.flac
+058572c92dffce47e4b1d7f88e4b8035 *Smashing Pumpkins 2000-01-31 AUD1 t06 Age of Innocence.flac
+b12c7e70fb3c68997a822a082cb9ae02 *Smashing Pumpkins 2000-01-31 AUD1 t07 I Am One (with rant).flac
+caa3b8bd17b1b5a8242cf2abdd205e2c *Smashing Pumpkins 2000-01-31 AUD1 t08 Ava Adore.flac
+1739e73d0de3ba2351254b01443409dc *Smashing Pumpkins 2000-01-31 AUD1 t09 Blue Skies Bring Tears.flac
+3953a132a49fff1302d4d6128a8de877 *Smashing Pumpkins 2000-01-31 AUD1 t10 Pale Scales.flac
+4eab8d1e62f0dea98d54f56db21e9d99 *Smashing Pumpkins 2000-01-31 AUD1 t11 The Everlasting Gaze.flac
+0a1c0a3518718c59f0f8d82c21cc9a23 *Smashing Pumpkins 2000-01-31 AUD1 t12 Heavy Metal Machine.flac
+f1c51cb35ea413e9a986b7982b659f4b *Smashing Pumpkins 2000-01-31 AUD1 t13 To Sheila.flac
+b1720b616cb8d6124c12943e7ec07e05 *Smashing Pumpkins 2000-01-31 AUD1 t14 Cherub Rock.flac
+4c101088029a3fbfde1016076dca97e9 *Smashing Pumpkins 2000-01-31 AUD1 t15 (encore break).flac
+f1eba14fb929fd45937dcda3651b89ce *Smashing Pumpkins 2000-01-31 AUD1 t16 1979.flac
+4aaadd2787c8901e50aa2142c2c3a33e *Smashing Pumpkins 2000-01-31 AUD1 t17 Disarm.flac
+7323723c69909c3e6bec1218a105c507 *Smashing Pumpkins 2000-01-31 AUD1 t18 (encore break).flac
+474b9ef476fc9c640c9d4d5b2d837dfa *Smashing Pumpkins 2000-01-31 AUD1 t19 Glass' Theme.flac
+aa32aef7459e7faa326072fd1dd5cf6a *Smashing Pumpkins 2000-01-31 AUD1 t20 Bullet With Butterfly Wings.flac
+7623de17ffbbc4c3d5d78ac03cd4b398 *Smashing Pumpkins 2000-01-31 AUD1 t21 (encore break).flac
+602bdc07a7e0c15fa9b52b67faf8bfbe *Smashing Pumpkins 2000-01-31 AUD1 t22 X.Y.U..flac
+83b804951543273d722403013c2e519e *Smashing Pumpkins 2000-01-31 AUD1 t23 We Love You.flac
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2026-07-21

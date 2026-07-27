@@ -320,7 +320,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Nirvana - The Chosen Rejects",
     "version": "Silver CD",
-    "category": "Silvers"
+    "category": "Silvers",
+    "textFile": "MISC - Nirvana - The Chosen Rejects [Silver].txt"
   },
   {
     "type": "release",
@@ -359,10 +360,10 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Nirvana - Where Were You In ´89 (MIK 035)",
+    "label": "Nirvana - Where Were You In \u00b489 (MIK 035)",
     "version": "Silver CD",
     "category": "Silvers",
-    "textFile": "MISC - Nirvana - Where Were You In ´89 (MIK 035) [Silver].txt"
+    "textFile": "MISC - Nirvana - Where Were You In \u00b489 (MIK 035) [Silver].txt"
   },
   {
     "type": "release",
@@ -456,7 +457,8 @@ const ARTIST_MISC_DATA = [
     "label": "Kurt Cobain - Montage of Heck",
     "version": "Official",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 1985-XX-XX - Montage Of Heck.txt"
   },
   {
     "type": "release",
@@ -476,7 +478,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Elmo Collection",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - The Elmo Collection - A Better Box (V1.0).txt"
   },
   {
     "type": "show",
@@ -488,7 +491,7 @@ const ARTIST_MISC_DATA = [
     "state": "WA",
     "location": "Olympia, WA",
     "venue": "Garage",
-    "notes": "Vail · Go Team",
+    "notes": "Vail \u00b7 Go Team",
     "version": "SBD",
     "format": "FLAC"
   },
@@ -586,7 +589,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Kurt Cobain - Spring 91 - Fall 92 (Old Age)",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Cobain - Spring 1991 - Fall 1992 Old Age.txt"
   },
   {
     "type": "release",
@@ -626,7 +630,8 @@ const ARTIST_MISC_DATA = [
     "label": "Nirvana - Nevermind - Rough Mix (Speed Corrected) (Kurt Stream 2025 Transfer)",
     "format": "FLAC",
     "year": 2025,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - Nevermind - Rough Mix - Speed Corrected.txt"
   },
   {
     "type": "release",
@@ -646,7 +651,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Nevermind Sessions",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - Nevermind Sessions.txt"
   },
   {
     "type": "release",
@@ -658,7 +664,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Pay to Play (Performance Compilation)",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - Pay to Play.txt"
   },
   {
     "type": "release",
@@ -670,19 +677,22 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Loose Ends (Bonus)",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - Loose Ends (Bonus).flac.txt"
   },
   {
     "type": "release",
     "label": "Sliver (Alternate Mix)",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - Sliver Alternate Mix.flac.txt"
   },
   {
     "type": "release",
     "label": "Sliver Single Phone Conversation (Krist-Poneman)",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - Sliver single phone conversation.flac.txt"
   },
   {
     "type": "release",
@@ -715,14 +725,14 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Nirvana - The Chosen Rejects DVD",
     "format": "DVD",
-    "category": "OTHER",
-    "textFile": "MISC - Nirvana - The Chosen Rejects [Silver].txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
     "label": "The First and Last Performances of Incesticide",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - The First & Last Live Performances Of Incesticide.txt"
   },
   {
     "type": "release",
@@ -814,7 +824,8 @@ const ARTIST_MISC_DATA = [
     "version": "SBD #1b",
     "format": "FLAC",
     "year": 1987,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 198X-XX-XX - Aberdeen, WA - Cobain Residence (SBD#1b).txt"
   },
   {
     "type": "release",
@@ -822,7 +833,8 @@ const ARTIST_MISC_DATA = [
     "version": "SBD #1f",
     "format": "FLAC",
     "year": 1987,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 198X-XX-XX - Aberdeen, WA - Cobain Residence (SBD1f).txt"
   },
   {
     "type": "release",
@@ -914,7 +926,8 @@ const ARTIST_MISC_DATA = [
     "version": "TV",
     "format": "DVD",
     "year": 1993,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Nirvana - MTV Video Music Awards 1993 + Pre & After Show [DVD].txt"
   },
   {
     "type": "release",
@@ -1049,5 +1062,75 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 1994,
     "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "01-24 Radio Shack, Aberdeen, WA (american journal excerpt)",
+    "year": 1988,
+    "textFile": "MISC - 1988-01-24 Radio Shack, Aberdeen, WA (american journal excerpt).txt"
+  },
+  {
+    "type": "release",
+    "label": "04-21 - (Go Team) - Garage, Vail Residence, Olympia, WA",
+    "year": 1989
+  },
+  {
+    "type": "release",
+    "label": "04-XX - Chad Channing's Tape",
+    "year": 1990
+  },
+  {
+    "type": "release",
+    "label": "04-XX - Top Secret Tape",
+    "year": 1990
+  },
+  {
+    "type": "release",
+    "label": "10-XX - (Earth) Smegma Studios, Portland, OR",
+    "year": 1990
+  },
+  {
+    "type": "release",
+    "label": "11-XX - Laundry Room Studios, Seattle, WA",
+    "year": 1992
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Hollywood Rock Festival - Rio De Janeiro, Brazil, January 23rd, 1993 {Doxy} (2016)",
+    "year": 2016,
+    "format": "FLAC",
+    "textFile": "MISC - Nirvana - Hollywood Rock Festival - Rio De Janeiro, Brazil, January 23rd, 1993 {Doxy} (2016) [FLAC].txt"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Kurdts Kassette.flac",
+    "textFile": "MISC - Nirvana - Kurdts Kassette.flac.txt"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Live! Tonight! Sold Out!!",
+    "format": "MKV"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Loose Ends.flac",
+    "textFile": "MISC - Nirvana - Loose Ends.flac.txt"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - Saturday Night Not-So-Live (2018)",
+    "year": 2018,
+    "format": "VINYL"
+  },
+  {
+    "type": "release",
+    "label": "Nirvana - The Rare Recordings {Lilith} (2016)",
+    "year": 2016,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Total Fucking Godhead 7''",
+    "textFile": "MISC - Total Fucking Godhead 7''.txt"
   }
 ];

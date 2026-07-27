@@ -186,5 +186,19 @@ const ARTIST_MISC_DATA = [
     "year": 2015,
     "format": "Single",
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Faith No More - Ricochet",
+    "year": 1995,
+    "format": "Single",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Faith No More - Motherfucker",
+    "year": 2014,
+    "format": "Single",
+    "category": "SINGLES"
   }
 ];
