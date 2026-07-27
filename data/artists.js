@@ -1801,7 +1801,7 @@ const ARTISTS = [
   {
     "id": "mudhoney",
     "name": "Mudhoney",
-    "showCount": 172,
+    "showCount": 173,
     "firstYear": 1988,
     "lastYear": 2025
   },
