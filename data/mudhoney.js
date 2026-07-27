@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "mudhoney",
   "name": "Mudhoney",
   "drive": "A",
-  "showCount": 172,
+  "showCount": 173,
   "firstYear": 1988,
   "lastYear": 2025,
   "years": [
@@ -25,6 +25,7 @@ const ARTIST_DATA = {
     2006,
     2007,
     2008,
+    2009,
     2010,
     2011,
     2012,
@@ -1895,6 +1896,19 @@ const ARTIST_DATA = {
       "notes": "Edirol R-09 · unk",
       "version": "AUD #1",
       "format": "FLAC"
+    },
+    {
+      "year": 2009,
+      "month": 1,
+      "day": 19,
+      "dateStr": "1-19-2009",
+      "city": "Shibuya",
+      "state": "Japan",
+      "location": "Shibuya, Japan",
+      "venue": "Club Quattro",
+      "notes": "Zoom H2 · fantomos1",
+      "version": "AUD",
+      "format": "MP3"
     },
     {
       "year": 2010,
