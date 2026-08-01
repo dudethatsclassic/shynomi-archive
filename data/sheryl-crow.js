@@ -2,12 +2,13 @@ const ARTIST_DATA = {
   "id": "sheryl-crow",
   "name": "Sheryl Crow",
   "drive": "A",
-  "showCount": 4,
+  "showCount": 5,
   "firstYear": 1994,
   "lastYear": 2025,
   "years": [
     1994,
     1995,
+    1999,
     2001,
     2025
   ],
@@ -39,6 +40,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-03-11 - Las Vegas, NV - Hardrock's The Joint (M) (Sony ECM 909A) (marco moir) [AUD].txt"
+    },
+    {
+      "year": 1999,
+      "month": 4,
+      "day": 12,
+      "dateStr": "4-12-1999",
+      "city": "Oakland",
+      "state": "CA",
+      "location": "Oakland, CA",
+      "venue": "Paramount Theatre",
+      "notes": "DAT(M) · unk · jefftak",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2001,
