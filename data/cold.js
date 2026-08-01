@@ -2,14 +2,28 @@ const ARTIST_DATA = {
   "id": "cold",
   "name": "Cold",
   "drive": "F",
-  "showCount": 2,
-  "firstYear": 2023,
+  "showCount": 3,
+  "firstYear": 2003,
   "lastYear": 2024,
   "years": [
+    2003,
     2023,
     2024
   ],
   "shows": [
+    {
+      "year": 2003,
+      "month": 4,
+      "day": 27,
+      "dateStr": "4-27-2003",
+      "city": "Winston-Salem",
+      "state": "NC/ Ziggys (M) (Canon ZR45) (shynomi)",
+      "location": "Winston-Salem, NC/ Ziggys (M) (Canon ZR45) (shynomi)",
+      "venue": "",
+      "notes": "",
+      "version": "AMT #1",
+      "format": "MKV"
+    },
     {
       "year": 2023,
       "month": 5,
