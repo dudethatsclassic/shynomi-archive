@@ -12,6 +12,7 @@ const ARTIST_MISC_DATA = [
     "label": "1956-62-63 - Coltrane Rarities",
     "format": "FLAC",
     "year": 1956,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 1956-62-63 - Coltrane Rarities.txt"
   }
 ];

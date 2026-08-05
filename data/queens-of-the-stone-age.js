@@ -246,7 +246,7 @@ const ARTIST_DATA = {
       "notes": "P3 \u00b7 qew",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2002-11-06 - Stockholm, Sweden - Münchenbryggeriet - P3 Swedish Radio [FM].txt"
+      "textFile": "2002-11-06 - Stockholm, Sweden - M\u00fcnchenbryggeriet - P3 Swedish Radio [FM].txt"
     },
     {
       "year": 2002,

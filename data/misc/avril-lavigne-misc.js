@@ -6,7 +6,7 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2003,
     "category": "OTHER",
-    "textFile": "MISC - Avril Lavigne - F✱✱kin' Sk8er Girl {W.B. 065} (2003) [Silver].txt"
+    "textFile": "MISC - Avril Lavigne - F\u2731\u2731kin' Sk8er Girl {W.B. 065} (2003) [Silver].txt"
   },
   {
     "type": "release",
@@ -23,7 +23,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2008,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Avril Lavigne - Do The Best [Silver].txt"
   },
   {
     "type": "release",

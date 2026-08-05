@@ -163,8 +163,7 @@ const ARTIST_MISC_DATA = [
     "label": "Soundgarden - Outshined {AMCD 0102, 580102-2} (1992)",
     "year": 1992,
     "format": "FLAC",
-    "category": "SINGLES",
-    "textFile": "MISC - Soundgarden - 1989-1992 [preFM Compilation].txt"
+    "category": "SINGLES"
   },
   {
     "type": "release",
@@ -186,8 +185,7 @@ const ARTIST_MISC_DATA = [
     "label": "Soundgarden - Spoonman {580 526-2} (1994)",
     "year": 1994,
     "format": "FLAC",
-    "category": "SINGLES",
-    "textFile": "MISC - Soundgarden - Sony Music TV (1994) [TV].txt"
+    "category": "SINGLES"
   },
   {
     "type": "release",

@@ -18,21 +18,21 @@ const ARTIST_MISC_DATA = [
     "year": 1986,
     "format": "Demos",
     "category": "DEMOS",
-    "textFile": "MISC - 1986-XX-XX - Athens, GA - Life's Rich Pageant & More [Demos].txt"
+    "textFile": "MISC - R.E.M. - 1986-XX-XX - Athens, GA - Life's Rich Pageant & More [Demos].txt"
   },
   {
     "type": "release",
     "label": "XX-XX - Atlanta, GA - John Keane Studios (Green Demos Upgrade)",
     "year": 1986,
     "category": "DEMOS",
-    "textFile": "MISC - 1986-XX-XX - Atlanta, GA - John Keane Studios (Green Demos Upgrade).txt"
+    "textFile": "MISC - R.E.M. - 1986-XX-XX - Atlanta, GA - John Keane Studios (Green Demos Upgrade).txt"
   },
   {
     "type": "release",
     "label": "XX-XX - The Complete Green Demos (Upgraded)",
     "year": 1988,
     "category": "DEMOS",
-    "textFile": "MISC - 1988-XX-XX - The Complete Green Demos (Upgraded).txt"
+    "textFile": "MISC - R.E.M. - 1988-XX-XX - The Complete Green Demos (Upgraded).txt"
   },
   {
     "type": "release",
@@ -73,7 +73,7 @@ const ARTIST_MISC_DATA = [
     "label": "R.E.M. - The Essential Demos Vol. 1",
     "version": "Silver CD",
     "category": "DEMOS",
-    "textFile": "MISC - R.E.M. - The Essential Demos Vol. 1 [Silver].txt"
+    "textFile": "MISC - R.E.M. - The Essential Demos Vol. 1 {SPQR04CD} (1994) [Silver].txt"
   },
   {
     "type": "release",
@@ -166,9 +166,9 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "R.E.M.nants The Complete Rarities Collection 1981–2004 (12 CDs)",
+    "label": "R.E.M.nants The Complete Rarities Collection 1981\u20132004 (12 CDs)",
     "category": "VARIOUS",
-    "textFile": "MISC - R.E.M.nants The Complete Rarities Collection 1981–2004 (12 CDs).txt"
+    "textFile": "MISC - R.E.M. - R.E.M.nants - The Complete Rarities Collection 1981\u20132004 [COMP].txt"
   },
   {
     "type": "release",
@@ -339,7 +339,8 @@ const ARTIST_MISC_DATA = [
     "label": "R.E.M. - 2-17-1983 - Reflection Studio",
     "format": "FLAC",
     "year": 1983,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - R.E.M. - 1983-02-17 - Reflection Studio [FLAC].txt"
   },
   {
     "type": "release",
@@ -355,8 +356,7 @@ const ARTIST_MISC_DATA = [
     "label": "R.E.M. Cassette Set - April 1991 (Studio)",
     "format": "FLAC",
     "year": 1991,
-    "category": "OTHER",
-    "textFile": "MISC - R.E.M. - Cassette Set - April 1991 (Studio).txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
@@ -364,7 +364,7 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 1988,
     "category": "OTHER",
-    "textFile": "MISC - R.E.M. - 1988-1996 - Fanclub Singles V1.txt"
+    "textFile": "MISC - R.E.M. - 1988-1996 - Fanclub Singles V1 [FLAC].txt"
   },
   {
     "type": "release",
@@ -372,13 +372,41 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 1997,
     "category": "OTHER",
-    "textFile": "MISC - R.E.M. - 1997-2004 - Fanclub Singles v2.txt"
+    "textFile": "MISC - R.E.M. - 1997-2004 - Fanclub Singles v2 [FLAC].txt"
   },
   {
     "type": "release",
     "label": "R.E.M. - Accelerating Backwards",
     "version": "PRO",
     "format": "DVD",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - R.E.M. - Accelerating Backwards [DVD].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - 1980-1981 - Garage Years Boxset",
+    "version": "COMP",
+    "category": "COMPILATIONS",
+    "textFile": "MISC - R.E.M. - 1980-1981 - Garage Years Boxset [COMP].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - 1981-1984 - Demos - Volume 1 {REM-40}",
+    "category": "DEMOS",
+    "textFile": "MISC - R.E.M. - 1981-1984 - Demos - Volume 1 {REM-40}.txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - 1984-XX-XX - Little America",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - R.E.M. - 1984-XX-XX - Little America [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Shiny Happy People {W 0027 CD} (1991)",
+    "year": 1991,
+    "format": "FLAC",
+    "category": "SINGLES"
   }
 ];

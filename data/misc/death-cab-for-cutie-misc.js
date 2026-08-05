@@ -24,6 +24,7 @@ const ARTIST_MISC_DATA = [
     "label": "Death Cab For Cutie & MagikMagik Orchestra - Live 2012 (2014) (24-96)",
     "format": "VINYL",
     "year": 2012,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Death Cab For Cutie & MagikMagik Orchestra - Live 2012 (2014) (24-96) [VINYL].txt"
   }
 ];

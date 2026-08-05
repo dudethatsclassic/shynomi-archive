@@ -4,7 +4,8 @@ const ARTIST_MISC_DATA = [
     "label": "1980-XX-XX - Various Demos & Live - The Mike's Tape (1980)",
     "format": "FLAC",
     "year": 1980,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Meat Puppets - Various Demos & Live - The Mike's Tape (1980) .txt"
   },
   {
     "type": "release",
@@ -12,7 +13,8 @@ const ARTIST_MISC_DATA = [
     "version": "SBD",
     "format": "FLAC",
     "year": 1987,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 1987-01-XX - Mirage Instrumental Sessions (loughney transfer) [SBD].txt"
   },
   {
     "type": "release",
@@ -20,14 +22,16 @@ const ARTIST_MISC_DATA = [
     "version": "SBD",
     "format": "FLAC",
     "year": 1987,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 1987-XX-XX - Huevos Instrumental Sessions [SBD].txt"
   },
   {
     "type": "release",
     "label": "Meat Puppets - Too High To Die Demos",
     "version": "SBD",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Meat Puppets - Too High To Die Demos [SBD].txt"
   },
   {
     "type": "release",

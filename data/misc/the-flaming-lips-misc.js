@@ -17,7 +17,8 @@ const ARTIST_MISC_DATA = [
     "label": "The Flaming Lips - Fearless Freaks Bootleg",
     "version": "Promo",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - The Flaming Lips - Fearless Freaks Bootleg.txt"
   },
   {
     "type": "release",
@@ -82,7 +83,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Flaming Lips - Sweet Jesus [TOR 16]",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - The Flaming Lips - Sweet Jesus.txt"
   },
   {
     "type": "release",
@@ -114,7 +116,8 @@ const ARTIST_MISC_DATA = [
     "label": "The Flaming Lips - Yoshimi Wins! - Live Radio Sessions SHN",
     "version": "Promo",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - The Flaming Lips - Yoshimi Wins! - Live Radio Sessions SHN.txt"
   },
   {
     "type": "release",
@@ -139,7 +142,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Duck Dodgers - Theme Song",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Duck Dodgers - Theme Song.txt"
   },
   {
     "type": "release",
@@ -153,7 +157,8 @@ const ARTIST_MISC_DATA = [
     "label": "Imagene Peise Atlas Eets Christmas [RTW-044]",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Imagene Peise Atlas Eets Christmas [RTW-044].txt"
   },
   {
     "type": "release",
@@ -205,12 +210,14 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Flaming Lips - BBC 6 Music Interviews and Sessions"
+    "label": "Flaming Lips - BBC 6 Music Interviews and Sessions",
+    "textFile": "MISC - Flaming Lips - BBC 6 Music Interviews and Sessions.txt"
   },
   {
     "type": "release",
     "label": "I am not on Drugs... Yet (Comp. DVD)",
-    "format": "DVD"
+    "format": "DVD",
+    "textFile": "MISC - I am not on Drugs... Yet (Comp. DVD).txt"
   },
   {
     "type": "release",
@@ -220,11 +227,13 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "KCRW's - Brave New World",
-    "format": "1996"
+    "format": "1996",
+    "textFile": "MISC - KCRW's - Brave New World [1996].txt"
   },
   {
     "type": "release",
-    "label": "Mushroom & Priest Demos"
+    "label": "Mushroom & Priest Demos",
+    "textFile": "MISC - Mushroom & Priest Demos.txt"
   },
   {
     "type": "release",
@@ -232,7 +241,8 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "The Flaming Lips - Circuit 3 (Audio)"
+    "label": "The Flaming Lips - Circuit 3 (Audio)",
+    "textFile": "MISC - The Flaming Lips - Circuit 3 (Audio).txt"
   },
   {
     "type": "release",
@@ -262,6 +272,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "The Flaming Lips - Zaireeka and Soft Bulletin Unmastered Tracks"
+    "label": "The Flaming Lips - Zaireeka and Soft Bulletin Unmastered Tracks",
+    "textFile": "MISC - The Flaming Lips - Zaireeka and Soft Bulletin Unmastered Tracks.txt"
   }
 ];

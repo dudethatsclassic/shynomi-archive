@@ -24,7 +24,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Chuck Berry Vinyl Bootlegs - Vol. 2 *Six Two Five",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Chuck Berry - Six Two Five.txt"
   },
   {
     "type": "release",
@@ -32,13 +33,15 @@ const ARTIST_MISC_DATA = [
     "version": "FM",
     "format": "FLAC",
     "year": 1965,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Chuck Berry - French Broadcasts from 1965-2004 [FM].txt"
   },
   {
     "type": "release",
     "label": "Live FM Radio Show - KBCO FM Boulder, CO",
     "version": "FM",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Chuck Berry - Boulder, CO - KBCO Radio Show [FM].txt"
   }
 ];

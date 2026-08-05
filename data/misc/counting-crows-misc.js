@@ -732,7 +732,6 @@ const ARTIST_MISC_DATA = [
     "label": "Counting Crows - Hanginaround (UK CD2) {497 188-2} (1999)",
     "year": 1999,
     "format": "FLAC",
-    "category": "SINGLES",
-    "textFile": "MISC - Maximum Counting Crows (1999) [FLAC].txt"
+    "category": "SINGLES"
   }
 ];

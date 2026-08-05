@@ -116,7 +116,8 @@ const ARTIST_MISC_DATA = [
     "label": "Green Day - Attack of Insomnia {MOONRAKER 013} (1995)",
     "year": 1995,
     "version": "Silver CD",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Green Day - Insomniac 1995 (2016) (24_96) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -196,7 +197,8 @@ const ARTIST_MISC_DATA = [
     "label": "Green Day - Sonic Punch {LOOSE 025} (2000)",
     "year": 2000,
     "version": "Silver CD",
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Green Day - Warning (2000) (24_192) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -259,8 +261,7 @@ const ARTIST_MISC_DATA = [
     "label": "Green Day - Longview {WO287CDX EU} (1994)",
     "year": 1994,
     "format": "FLAC",
-    "category": "SINGLES",
-    "textFile": "MISC - Green Day - Woodstock 1994 (2019) [Vinyl Rip].txt"
+    "category": "SINGLES"
   },
   {
     "type": "release",
@@ -275,5 +276,13 @@ const ARTIST_MISC_DATA = [
     "year": 1997,
     "format": "FLAC",
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Green Day - Basket Case {WO279CDX} (1994)",
+    "year": 1994,
+    "format": "FLAC",
+    "category": "SINGLES",
+    "textFile": "MISC - Green Day - Woodstock 1994 (2019) [Vinyl Rip].txt"
   }
 ];

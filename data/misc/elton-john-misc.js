@@ -12,6 +12,7 @@ const ARTIST_MISC_DATA = [
     "label": "Elton John - Piano Demos 1968-1971",
     "format": "FLAC",
     "year": 1968,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Elton John - Piano Demos 1968-1971 [FLAC].txt"
   }
 ];

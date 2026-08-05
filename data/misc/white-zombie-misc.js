@@ -5,7 +5,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - White Zombie -  Astro-Junkies (1992-1995) [Silver].txt"
   },
   {
     "type": "release",
