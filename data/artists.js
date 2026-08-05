@@ -1645,6 +1645,13 @@ const ARTISTS = [
     "lastYear": 2023
   },
   {
+    "id": "material-issue",
+    "name": "Material Issue",
+    "showCount": 1,
+    "firstYear": 1990,
+    "lastYear": 1990
+  },
+  {
     "id": "matt-pond-pa",
     "name": "Matt Pond PA",
     "showCount": 4,
@@ -2067,7 +2074,7 @@ const ARTISTS = [
   {
     "id": "pixies",
     "name": "Pixies",
-    "showCount": 31,
+    "showCount": 32,
     "firstYear": 1987,
     "lastYear": 2023
   },
