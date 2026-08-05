@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "meat-puppets",
   "name": "Meat Puppets",
   "drive": "D",
-  "showCount": 52,
+  "showCount": 54,
   "firstYear": 1980,
   "lastYear": 2022,
   "years": [
@@ -22,6 +22,7 @@ const ARTIST_DATA = {
     2007,
     2009,
     2014,
+    2015,
     2022
   ],
   "shows": [
@@ -733,6 +734,32 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-11-01 - Brooklyn, NY - Rough Trade (SP-CMC-8) (nitcomb) [AUD].txt"
+    },
+    {
+      "year": 2015,
+      "month": 6,
+      "day": 18,
+      "dateStr": "6-18-2015",
+      "city": "Washington",
+      "state": "DC",
+      "location": "Washington, DC",
+      "venue": "9-30 Club",
+      "notes": "Core Sound HEB BBox · emmanuel",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2015,
+      "month": 9,
+      "day": 5,
+      "dateStr": "9-5-2015",
+      "city": "Birmingham",
+      "state": "UK",
+      "location": "Birmingham, UK",
+      "venue": "The Institute 3",
+      "notes": "Core Sound HEB BBox · emmanuel",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2022,
