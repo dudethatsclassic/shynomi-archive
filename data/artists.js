@@ -3061,7 +3061,7 @@ const ARTISTS = [
   {
     "id": "tom-petty-the-heartbreakers",
     "name": "Tom Petty & the Heartbreakers",
-    "showCount": 324,
+    "showCount": 325,
     "firstYear": 1973,
     "lastYear": 2017
   },
