@@ -2,18 +2,22 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Traveling Wilburys - Recovered Treasures",
-    "version": "SBD"
+    "version": "SBD",
+    "category": "OTHER"
   },
   {
-    "type": "label",
-    "label": "Traveling Wilburys - Family Tree (Volume I)"
+    "type": "release",
+    "label": "Traveling Wilburys - Family Tree (Volume I)",
+    "category": "OTHER"
   },
   {
-    "type": "label",
-    "label": "Traveling Wilburys - Family Tree (Volume II)"
+    "type": "release",
+    "label": "Traveling Wilburys - Family Tree (Volume II)",
+    "category": "OTHER"
   },
   {
-    "type": "label",
-    "label": "Traveling Wilburys - The Unreleased Masters (Captain Acid Remaster)"
+    "type": "release",
+    "label": "Traveling Wilburys - The Unreleased Masters (Captain Acid Remaster)",
+    "category": "OTHER"
   }
 ];
