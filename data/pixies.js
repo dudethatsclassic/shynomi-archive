@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "pixies",
   "name": "Pixies",
   "drive": "D",
-  "showCount": 31,
+  "showCount": 32,
   "firstYear": 1987,
   "lastYear": 2023,
   "years": [
@@ -253,6 +253,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1989-07-27 - Los Angeles, CA - The Palace - CASS(M) [AUD].txt"
+    },
+    {
+      "year": 1989,
+      "month": 8,
+      "day": 10,
+      "dateStr": "8-10-1989",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Cabaret Metro",
+      "notes": "Aiwa CM-30A · aadamjacobs",
+      "version": "AUD",
+      "format": "FLAC 24"
     },
     {
       "year": 1989,
