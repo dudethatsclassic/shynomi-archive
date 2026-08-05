@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "pinback",
   "name": "Pinback",
   "drive": "F",
-  "showCount": 39,
+  "showCount": 41,
   "firstYear": 2000,
   "lastYear": 2015,
   "years": [
@@ -15,6 +15,7 @@ const ARTIST_DATA = {
     2006,
     2007,
     2008,
+    2009,
     2010,
     2011,
     2013,
@@ -415,6 +416,19 @@ const ARTIST_DATA = {
       "textFile": "2008-10-12 - Chicago, IL - The Bottom Lounge (AKG Perception 170's) (john f) [AUD].aud.txt"
     },
     {
+      "year": 2009,
+      "month": 11,
+      "day": 3,
+      "dateStr": "11-3-2009",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Bottom Lounge",
+      "notes": "aadam jacobs",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
       "year": 2010,
       "month": 7,
       "day": 3,
@@ -441,6 +455,19 @@ const ARTIST_DATA = {
       "version": "SBD",
       "format": "FLAC",
       "textFile": "2011-01-01 - San Francisco, CA - Bottom of the Hill (chris bellew) [SBD].txt"
+    },
+    {
+      "year": 2011,
+      "month": 4,
+      "day": 24,
+      "dateStr": "4-24-2011",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Bottom Lounge",
+      "notes": "aadam.jacobs · brandonremaster",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2011,
