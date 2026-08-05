@@ -14,11 +14,5 @@ const ARTIST_MISC_DATA = [
     "format": "MP3",
     "year": 2000,
     "category": "OTHER"
-  },
-  {
-    "type": "release",
-    "label": "03-09 - Loveline",
-    "year": 2003,
-    "format": "FM-LOSSY"
   }
 ];
