@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "system-of-a-down",
   "name": "System of a Down",
   "drive": "A",
-  "showCount": 18,
+  "showCount": 19,
   "firstYear": 2000,
   "lastYear": 2024,
   "years": [
@@ -239,6 +239,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-05-13 - Las Vegas, NV - Festival Grounds - Sick New World Festival (Schoeps MK4s) (tj) [AUD24].txt"
+    },
+    {
+      "year": 2024,
+      "month": 7,
+      "day": 2,
+      "dateStr": "7-2-2024",
+      "city": "Paris",
+      "state": "France",
+      "location": "Paris, France",
+      "venue": "Le Stade de France",
+      "notes": "parenlive",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2024,
