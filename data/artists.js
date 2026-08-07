@@ -1549,9 +1549,9 @@ const ARTISTS = [
   {
     "id": "lori-mckenna",
     "name": "Lori McKenna",
-    "showCount": 1,
+    "showCount": 2,
     "firstYear": 2024,
-    "lastYear": 2024
+    "lastYear": 2025
   },
   {
     "id": "low",
@@ -1612,7 +1612,7 @@ const ARTISTS = [
   {
     "id": "mammoth",
     "name": "Mammoth",
-    "showCount": 19,
+    "showCount": 20,
     "firstYear": 2023,
     "lastYear": 2026
   },
@@ -1661,7 +1661,7 @@ const ARTISTS = [
   {
     "id": "matthew-good",
     "name": "Matthew Good",
-    "showCount": 5,
+    "showCount": 6,
     "firstYear": 2005,
     "lastYear": 2026
   },
