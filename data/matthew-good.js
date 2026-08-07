@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "matthew-good",
   "name": "Matthew Good",
   "drive": "C",
-  "showCount": 5,
+  "showCount": 6,
   "firstYear": 2005,
   "lastYear": 2026,
   "years": [
@@ -81,6 +81,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-07-06 - Calgary, AB - Wildhorse Saloon (CSC) (sharon) [AUD].txt"
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "day": 22,
+      "dateStr": "7-22-2026",
+      "city": "Peterborough",
+      "state": "ON",
+      "location": "Peterborough, ON",
+      "venue": "Peterborough MusicFest, Del Crary Park",
+      "notes": "Zoom H1n · unk",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
