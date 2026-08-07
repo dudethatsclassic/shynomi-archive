@@ -21,7 +21,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Champaign, IL",
       "venue": "Pygmalion Festival",
-      "notes": "Highdive \u00b7 SP-BMC-2 \u00b7 rhinowing",
+      "notes": "Highdive · SP-BMC-2 · rhinowing",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2014-09-28 - Champaign, IL - Pygmalion Festival - Highdive Outdoor Annex [AUD24].txt"
@@ -35,7 +35,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Champaign, IL",
       "venue": "Foellinger Auditorium",
-      "notes": "SP-BMC-2 \u00b7 rhinowing",
+      "notes": "SP-BMC-2 · rhinowing",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2016-12-04 - Champaign, IL - Foellinger Auditorium [AUD].txt"
@@ -63,7 +63,7 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Barcelona, Spain",
       "venue": "Primavera Sound",
-      "notes": "Twitch Webcast \u00b7 1080",
+      "notes": "Twitch Webcast · 1080",
       "version": "Webcast",
       "format": "TS",
       "textFile": "2024-06-01 - Barcelona, Spain - Primavera Sound (Twitch Webcast) (1080) [TS].txt"
@@ -77,7 +77,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Best Friends Forever Festival",
-      "notes": "Zoom H1n \u00b7 unk",
+      "notes": "Zoom H1n · unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-10-11 - Las Vegas, NV - Best Friends Forever Festival (Zoom H1n) (unk) [AUD24].txt"
