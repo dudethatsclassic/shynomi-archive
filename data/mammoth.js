@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "mammoth",
   "name": "Mammoth",
   "drive": "E",
-  "showCount": 19,
+  "showCount": 20,
   "firstYear": 2023,
   "lastYear": 2026,
   "years": [
@@ -220,6 +220,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-11-20 - Columbus, OH - Kemba LIVE (SP-CMC-8) (live2cd) [AUD].txt"
+    },
+    {
+      "year": 2026,
+      "month": 3,
+      "day": 7,
+      "dateStr": "3-7-2026",
+      "city": "Ottawa",
+      "state": "ON",
+      "location": "Ottawa, ON",
+      "venue": "Hard Rock Live",
+      "notes": "iPhone 16 pro internal mics · palm0014",
+      "version": "AUD",
+      "format": "FLAC 24"
     },
     {
       "year": 2026,
