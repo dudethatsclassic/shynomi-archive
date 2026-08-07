@@ -2,11 +2,12 @@ const ARTIST_DATA = {
   "id": "lori-mckenna",
   "name": "Lori McKenna",
   "drive": "E",
-  "showCount": 1,
+  "showCount": 2,
   "firstYear": 2024,
-  "lastYear": 2024,
+  "lastYear": 2025,
   "years": [
-    2024
+    2024,
+    2025
   ],
   "shows": [
     {
@@ -22,6 +23,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-12-21 - Cambridge, MA - Club Passim (Early Show) (Schoeps MK4V) (jim kelly) [AUD24].txt"
+    },
+    {
+      "year": 2025,
+      "month": 9,
+      "day": 11,
+      "dateStr": "9-11-2025",
+      "city": "Newport",
+      "state": "RI",
+      "location": "Newport, RI",
+      "venue": "JPT Film & Event Center",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
