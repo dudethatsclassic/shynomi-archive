@@ -506,8 +506,8 @@ const ARTISTS = [
   {
     "id": "cold",
     "name": "Cold",
-    "showCount": 2,
-    "firstYear": 2023,
+    "showCount": 3,
+    "firstYear": 2003,
     "lastYear": 2024
   },
   {
@@ -2067,7 +2067,7 @@ const ARTISTS = [
   {
     "id": "pinback",
     "name": "Pinback",
-    "showCount": 39,
+    "showCount": 41,
     "firstYear": 2000,
     "lastYear": 2015
   },
@@ -2424,7 +2424,7 @@ const ARTISTS = [
   {
     "id": "sheryl-crow",
     "name": "Sheryl Crow",
-    "showCount": 4,
+    "showCount": 5,
     "firstYear": 1994,
     "lastYear": 2025
   },
@@ -2683,7 +2683,7 @@ const ARTISTS = [
   {
     "id": "swell-season",
     "name": "Swell Season",
-    "showCount": 24,
+    "showCount": 25,
     "firstYear": 2006,
     "lastYear": 2026
   },
@@ -2704,7 +2704,7 @@ const ARTISTS = [
   {
     "id": "system-of-a-down",
     "name": "System of a Down",
-    "showCount": 18,
+    "showCount": 19,
     "firstYear": 2000,
     "lastYear": 2024
   },
