@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "tori-amos",
   "name": "Tori Amos",
   "drive": "E",
-  "showCount": 115,
+  "showCount": 116,
   "firstYear": 1991,
-  "lastYear": 2022,
+  "lastYear": 2026,
   "years": [
     1991,
     1992,
@@ -18,7 +18,8 @@ const ARTIST_DATA = {
     2007,
     2014,
     2017,
-    2022
+    2022,
+    2026
   ],
   "shows": [
     {
@@ -436,7 +437,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "KFOG Studios",
-      "notes": "ANA(x) \u00b7 wally breese",
+      "notes": "ANA(x) · wally breese",
       "version": "FM",
       "format": "",
       "textFile": "1994-02-10 - San Francisco, CA - KFOG Studios - ANA(x) (wally breese) [FM].txt"
@@ -1625,10 +1626,23 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Olympia Theater",
-      "notes": "SP-CMC-8 \u00b7 sufisdance",
+      "notes": "SP-CMC-8 · sufisdance",
       "version": "AUD",
       "format": "",
       "textFile": "2022-03-18 - Dublin, Ireland - Olympia Theater (SP-CMC-8) (sufisdance) [AUD].txt"
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "day": 17,
+      "dateStr": "7-17-2026",
+      "city": "Nashville",
+      "state": "TN",
+      "location": "Nashville, TN",
+      "venue": "Ryman Auditorium",
+      "notes": "AT ES943-933 · u.n.owen",
+      "version": "AUD",
+      "format": ""
     }
   ]
 };
