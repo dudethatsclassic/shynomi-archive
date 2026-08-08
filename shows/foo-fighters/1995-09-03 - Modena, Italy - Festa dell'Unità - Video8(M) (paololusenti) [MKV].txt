@@ -1,0 +1,53 @@
+FOO FIGHTERS
+3rd September, 1995
+Festa de L'Unita (Modena Open Air Festival)
+Modena, Italy
+
+Source
+Amateur Video #1 (FFDB Page)
+
+Generation
+Video8(M) > AVI [HuffYUV Video/48khz/16-Bit/PCM] > MKV [H.264/AAC/FLAC]
+
+Video Transfer
+Sony CCD-TRV66E > S-Video Cable > DataVideo TBC-1000 > ATI TV Wonder 600 USB > VirtualDub 1.10.4 AviSynth+ 3.7.5 > x264 0.165.3214+77M fb6c864 t_mod_New
+
+Audio Transfer
+Sony CCD-TRV66E > Cinch Cable > ATI TV Wonder 600 USB > Adobe Audition 2025 > flac.exe 1.5.0 & Apple AAC encoder q109
+
+Length
+1hr 5min 59s
+
+Video Track
+H.264 MPEG-4 AVC / 576p / 50fps / 7500 kbps VBR / 4:3 / 4:2:0 Chroma / 8-Bit / High Profile Level 3.1
+
+Audio Tracks
+AAC / ~256kbps / 48khz / 2.0
+FLAC 16-bit / 48khz / 2.0
+
+Tracks
+01. Winnebago
+02. I'll Stick Around
+03. Butterflies
+04. Wattershed
+05. Big Me
+06. This Is A Call
+07. Weenie Beenie
+08. For All The Cows
+09. My Hero
+10. Oh, George
+11. Podunk
+12. Alone + Easy Target
+13. Exhausted
+14. X-Static
+15. Good Grief
+16. Down in the Park
+
+Recorded By
+Paolo Lusenti
+
+Transferred By
+David Willhauk
+
+Edited & Encoded By
+FooFightersDB

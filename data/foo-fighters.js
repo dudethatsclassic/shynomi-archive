@@ -1869,7 +1869,7 @@ const ARTIST_DATA = {
       "notes": "Modena Open Air Festival",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-09-03 - Modena, Italy - Fiesta Del Unita (Modena Open Air Festival) [AUD].txt"
+      "textFile": "1995-09-03 - Modena, Italy - Festa dell'Unit\u00e0 - Video8(M) (paololusenti) [MKV].txt"
     },
     {
       "year": 1995,

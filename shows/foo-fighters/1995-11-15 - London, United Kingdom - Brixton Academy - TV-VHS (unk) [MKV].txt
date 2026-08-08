@@ -1,0 +1,46 @@
+FOO FIGHTERS
+15th November, 1995
+Brixton Academy
+London, United Kingdom
+
+Source
+Professional Video #1
+
+Generation
+TV > VHS(1) & Commercial Bootleg CD 'On The Air' > MKV [480p H.264 / Stereo]
+
+Video Transfer
+unknown > AviSynth+ 3.7.5 > x264 core 164 r3156+57M dac90dd t_mod_New
+
+Audio Transfer
+Exact Audio Copy > Adobe Audition 2025 > flac 1.5.0
+
+Length
+40min 18s
+
+Video Track
+H.264 MPEG-4 AVC / 480p / 59.94fps / 3574 kbps VBR / 4:3 / 4:2:0 Chroma / 8-Bit / High Profile Level 3.1
+
+Audio Tracks
+AAC / ~256kbps / 48khz / 2.0
+FLAC 16-bit / 48khz / 2.0
+
+Tracks
+01. Enough Space 
+02. This Is A Call 
+03. Winnebago 
+04. Wattershed 
+05. For All The Cows
+06. Weenie Beenie 
+07. Big Me 
+08. I'll Stick Around 
+09. Alone + Easy Target 
+10. Up In Arms 
+11. Gas Chamber 
+12. Exhausted 
+
+Transferred By
+unknown
+
+Edited & Encoded By
+FooFightersDB

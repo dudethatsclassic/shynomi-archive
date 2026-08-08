@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Club",
-      "notes": "Coachella · Webcast 1080",
+      "notes": "Coachella \u00b7 Webcast 1080",
       "version": "WEB",
       "format": "MP4",
       "textFile": "2023-04-15 - Indio, CA - Empire Polo Club - Coachella Festival (Webcast 1080) [MP4].txt"
@@ -46,7 +46,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Stanford, CA",
       "venue": "Frost Amphitheater",
-      "notes": "Stanford · SP-CMC-4U · huskerdu1972",
+      "notes": "Stanford \u00b7 SP-CMC-4U \u00b7 huskerdu1972",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-06-04 - Stanford, CA - Frost Amphitheater - Stanford University (SP-CMC-4U) (huskerdu1972) [AUD].txt"
@@ -60,7 +60,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Koln, Germany",
       "venue": "Palladium",
-      "notes": "Tascam DR-07X · bobfather",
+      "notes": "Tascam DR-07X \u00b7 bobfather",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-08-16 - Koln, Germany - Palladium (Tascam DR-07X) (bobfather) [AUD].txt"
@@ -74,7 +74,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Kingston upon Thames, UK",
       "venue": "PRYZM",
-      "notes": "Sennheiser AMBEO · thriftynomad",
+      "notes": "Sennheiser AMBEO \u00b7 thriftynomad",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-08-24 - Kingston upon Thames, UK - PRYZM (Sennheiser AMBEO) (thriftynomad) [AUD24].txt"
@@ -88,7 +88,7 @@ const ARTIST_DATA = {
       "state": "Scotland",
       "location": "Edinburgh, Scotland",
       "venue": "Connect Music Festival",
-      "notes": "CA-11 · rairum",
+      "notes": "CA-11 \u00b7 rairum",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-08-27 - Edinburgh, Scotland - Connect Music Festival (CA-11) (rairum) [AUD].txt"
@@ -102,7 +102,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Maida Vale Studios",
-      "notes": "BBC iPlayer Stream · auto_pilot",
+      "notes": "BBC iPlayer Stream \u00b7 auto_pilot",
       "version": "WEB",
       "format": "M4A",
       "textFile": "2023-11-07 - London, UK - BBC Maida Vale Studios (BBC iPlayer Stream) (auto_pilot) [WEB].txt"

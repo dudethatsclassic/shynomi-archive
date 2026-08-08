@@ -21,7 +21,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Ottawa, Ontario",
       "venue": "Zaphod Beeblebrox",
-      "notes": "Sony MZ-N707 · joe kusnir",
+      "notes": "Sony MZ-N707 \u00b7 joe kusnir",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-10-16 - Ottawa, Ontario - Zaphod Beeblebrox (Sony MZ-N707) (joe kusnir) [AUD].txt"
@@ -49,7 +49,7 @@ const ARTIST_DATA = {
       "state": "Alberta",
       "location": "Edmonton, Alberta",
       "venue": "Northern Alberta Jubilee Auditorium",
-      "notes": "SP-CMC-2 · sean gursky",
+      "notes": "SP-CMC-2 \u00b7 sean gursky",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-03-27 - Edmonton, Alberta - Northern Alberta Jubilee Auditorium (SP-CMC-2) (sean gursky) [AUD].flac.txt"
@@ -63,7 +63,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Ottawa, ON",
       "venue": "Bronson Centre",
-      "notes": "iPhone 16 Pro · 613henry",
+      "notes": "iPhone 16 Pro \u00b7 613henry",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-11-18 - Ottawa, ON - Bronson Centre (iPhone 16 Pro) (613henry) [AUD].txt"
@@ -77,7 +77,7 @@ const ARTIST_DATA = {
       "state": "AB",
       "location": "Calgary, AB",
       "venue": "Wildhorse Saloon",
-      "notes": "CSC · sharon",
+      "notes": "CSC \u00b7 sharon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-07-06 - Calgary, AB - Wildhorse Saloon (CSC) (sharon) [AUD].txt"
