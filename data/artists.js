@@ -814,7 +814,7 @@ const ARTISTS = [
   {
     "id": "everclear",
     "name": "Everclear",
-    "showCount": 27,
+    "showCount": 28,
     "firstYear": 1995,
     "lastYear": 2025
   },
@@ -877,7 +877,7 @@ const ARTISTS = [
   {
     "id": "finger-eleven",
     "name": "Finger Eleven",
-    "showCount": 5,
+    "showCount": 6,
     "firstYear": 2025,
     "lastYear": 2026
   },
@@ -2970,7 +2970,7 @@ const ARTISTS = [
   {
     "id": "the-verve-pipe",
     "name": "The Verve Pipe",
-    "showCount": 31,
+    "showCount": 32,
     "firstYear": 1997,
     "lastYear": 2026
   },
