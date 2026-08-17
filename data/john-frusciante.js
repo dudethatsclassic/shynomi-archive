@@ -20,7 +20,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The Borderline",
-      "notes": "inc \u00b7 unk",
+      "notes": "inc · unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -111,7 +111,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pomona, CA",
       "venue": "The Glasshouse",
-      "notes": "unk \u00b7 noizewater",
+      "notes": "unk · noizewater",
       "version": "AMT #1",
       "format": "DVD",
       "textFile": "2004-03-21 - Pomona, CA - The Glasshouse (AMT #1) (noizewater) [DVD].txt"
@@ -142,7 +142,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2005-04-23 - Camber Sands, UK - All Tomorrow's Parties Festival [AUD].txt"
+      "textFile": "2005-04-23 - England, UK - ATP Festival - Pontin's Holiday Camp, Camber Sands [DVD].txt"
     },
     {
       "year": 2005,
@@ -158,6 +158,5 @@ const ARTIST_DATA = {
       "format": "DVD",
       "textFile": "2005-04-23 - England, UK - ATP Festival - Pontin's Holiday Camp, Camber Sands [DVD].txt"
     }
-  ],
-  "misc": []
+  ]
 };
