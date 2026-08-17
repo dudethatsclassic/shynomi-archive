@@ -253,25 +253,5 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2002,
     "category": "SINGLES"
-  },
-  {
-    "type": "release",
-    "label": "Our Lady Peace - Clumsy {EPC 665131 1} (1997)",
-    "year": 1997,
-    "format": "FLAC",
-    "category": "SINGLES"
-  },
-  {
-    "type": "release",
-    "label": "Our Lady Peace - Clumsy {EPC 665131-2} (1998)",
-    "year": 1998,
-    "format": "FLAC",
-    "category": "SINGLES"
-  },
-  {
-    "type": "release",
-    "label": "Our Lady Peace - Live 1995 (Promo) {cdnk 001122} (1995)",
-    "year": 1995,
-    "format": "FLAC"
   }
 ];
