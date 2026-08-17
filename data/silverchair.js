@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "silverchair",
   "name": "Silverchair",
   "drive": "F",
-  "showCount": 90,
+  "showCount": 91,
   "firstYear": 1995,
   "lastYear": 2007,
   "years": [
@@ -219,7 +219,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Santa Monica Pier",
-      "notes": "ANA(M) \u00b7 unk",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-09-17 - Santa Monica, CA - Santa Monica Pier - ANA(M) (unk) [AUD].txt"
@@ -261,7 +261,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "The Warehouse",
-      "notes": "ANA(3) \u00b7 unk",
+      "notes": "ANA(3) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-11-30 - Toronto, ON - The Warehouse - ANA(3) (unk) [AUD].aud.txt"
@@ -288,7 +288,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "NBC Studios",
-      "notes": "SNL \u00b7 Rebroadcast HDTV",
+      "notes": "SNL · Rebroadcast HDTV",
       "version": "TV",
       "format": "TS",
       "textFile": "1995-12-09 - New York, NY - NBC Studios - SNL (Rebroadcast HDTV) [TV].txt"
@@ -330,7 +330,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheatre",
-      "notes": "KROQ \u00b7 FM",
+      "notes": "KROQ · FM",
       "version": "SBD #1",
       "format": "FLAC",
       "textFile": "1995-12-18 - Universal City, CA - Universal Amphitheatre - KROQ Acoustic Xmas (FM) [SBD #1].txt"
@@ -389,7 +389,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-02-04 - Hollywood, CA - Hollywood Palladium - ANA(M) (unk) [AUD].txt"
+      "textFile": "1996-02-04 - Hollywood, CA - Hollywood Palladium [AUD].txt"
     },
     {
       "year": 1996,
@@ -400,7 +400,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Palladium",
-      "notes": "ANA(M) \u00b7 unk",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-02-04 - Hollywood, CA - Hollywood Palladium [AUD].txt"
@@ -428,7 +428,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum",
-      "notes": "ANA(M) \u00b7 unk \u00b7 ukj69",
+      "notes": "ANA(M) · unk · ukj69",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-02-16 - Uniondale, NY - Nassau Coliseum - ANA(M) (unk) (ukj69) [AUD].txt"
@@ -582,7 +582,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Palace",
-      "notes": "ANA(M) \u00b7 unk",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-02-24 - Hollywood, CA - The Palace - ANA(M) (unk) [AUD].txt"
@@ -750,7 +750,7 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Torhout, Belgium",
       "venue": "Torhout Festival",
-      "notes": "MKE-2002 \u00b7 ms",
+      "notes": "MKE-2002 · ms",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-07-04 - Torhout, Belgium - Torhout Festival (MKE-2002) (ms) [AUD].txt"
@@ -1030,7 +1030,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Butzweiler Hof",
-      "notes": "Bizarre \u00b7 WDR-TV",
+      "notes": "Bizarre · WDR-TV",
       "version": "TV",
       "format": "DVD",
       "textFile": "1999-08-20 - Cologne, Germany - Butzweiler Hof - Bizzare Festival [DVD].txt"
@@ -1114,7 +1114,7 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Melbourne, AUS",
       "venue": "Melbourne Showgrounds",
-      "notes": "DAT(M) \u00b7 Sony TCD-D100 \u00b7 unk",
+      "notes": "DAT(M) · Sony TCD-D100 · unk",
       "version": "AUD #1",
       "format": "FLAC",
       "textFile": "2002-01-28 - Melbourne, AUS - Melbourne Showgrounds - DAT(M) (Sony TCD-D100) (unk) [AUD #1].txt"
@@ -1128,7 +1128,7 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Adelaide, AUS",
       "venue": "Adelaide Showgrounds",
-      "notes": "Big \u00b7 unk",
+      "notes": "Big · unk",
       "version": "AUD #1",
       "format": "FLAC",
       "textFile": "2002-02-01 - Adelaide, AUS - Adelaide Showgrounds - Big Day Out (unk) [AUD #1].txt"
@@ -1142,7 +1142,7 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Perth, AUS",
       "venue": "Claremont Showground",
-      "notes": "Big \u00b7 unk",
+      "notes": "Big · unk",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -1169,7 +1169,7 @@ const ARTIST_DATA = {
       "state": "New Zealand",
       "location": "Hamilton, New Zealand",
       "venue": "Waikato Stadium",
-      "notes": "Sony ECM-717 \u00b7 kiwitaper",
+      "notes": "Sony ECM-717 · kiwitaper",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-04-06 - Hamilton, New Zealand - Waikato Stadium (Sony ECM-717) (kiwitaper) [AUD].txt"
@@ -1183,10 +1183,23 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Kool Haus",
-      "notes": "DAT(M) \u00b7 Sennheiser MKE-2002 \u00b7 ms",
+      "notes": "DAT(M) · Sennheiser MKE-2002 · ms",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2003-05-23 - Toronto, ON - Kool Haus - DAT(M) (Sennheiser MKE-2002) (ms) [AUD24].txt"
+    },
+    {
+      "year": 2003,
+      "month": 5,
+      "day": 24,
+      "dateStr": "5-24-2003",
+      "city": "Toronto",
+      "state": "ON",
+      "location": "Toronto, ON",
+      "venue": "Kool Haus",
+      "notes": "Sennheiser MKE-2002 · ms",
+      "version": "AUD",
+      "format": "FLAC 24"
     },
     {
       "year": 2003,
@@ -1210,7 +1223,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Sydney Cricket Ground",
-      "notes": "Waveaid \u00b7 Triple J Radio - FM",
+      "notes": "Waveaid · Triple J Radio - FM",
       "version": "SBD #1",
       "format": "FLAC",
       "textFile": "2005-01-29 - Sydney, Australia - Sydney Cricket Ground (Triple J Radio - FM) [SBD #1].txt"
@@ -1238,7 +1251,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Independent",
-      "notes": "SP-BMC-2 \u00b7 edmann",
+      "notes": "SP-BMC-2 · edmann",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-11-18 - San Francisco, CA - The Independent (SP-BMC-2) (edmann) [AUD].txt"
@@ -1252,7 +1265,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
-      "notes": "DPA 4060 \u00b7 live2cd",
+      "notes": "DPA 4060 · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-12-08 - Cleveland, OH - House of Blues (DPA 4060) (live2cd) [AUD].txt"
@@ -1266,7 +1279,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "The Music Hall",
-      "notes": "HEB DPA 4060 \u00b7 charles dewey cole",
+      "notes": "HEB DPA 4060 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-12-11 - Indianapolis, IN - The Music Hall (HEB DPA 4060) (charles dewey cole) [AUD].txt"
