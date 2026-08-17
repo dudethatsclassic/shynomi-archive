@@ -2844,7 +2844,7 @@ const ARTISTS = [
   {
     "id": "the-lemonheads",
     "name": "The Lemonheads",
-    "showCount": 53,
+    "showCount": 54,
     "firstYear": 1989,
     "lastYear": 2025
   },
