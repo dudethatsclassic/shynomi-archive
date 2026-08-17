@@ -1542,7 +1542,7 @@ const ARTISTS = [
   {
     "id": "local-h",
     "name": "Local H",
-    "showCount": 549,
+    "showCount": 550,
     "firstYear": 1991,
     "lastYear": 2026
   },
