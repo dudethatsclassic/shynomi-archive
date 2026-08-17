@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "the-lemonheads",
   "name": "The Lemonheads",
   "drive": "B",
-  "showCount": 53,
+  "showCount": 54,
   "firstYear": 1989,
   "lastYear": 2025,
   "years": [
@@ -540,6 +540,19 @@ const ARTIST_DATA = {
       "version": "MTX",
       "format": "FLAC",
       "textFile": "2012-02-01 - Colorado Springs, CO - The Black Sheep [MTX].txt"
+    },
+    {
+      "year": 2012,
+      "month": 3,
+      "day": 6,
+      "dateStr": "3-6-2012",
+      "city": "Columbus",
+      "state": "OH",
+      "location": "Columbus, OH",
+      "venue": "The Basement",
+      "notes": "Church Audio Cardioid Microphones · unk",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2019,
