@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "our-lady-peace",
   "name": "Our Lady Peace",
   "drive": "B",
-  "showCount": 58,
+  "showCount": 59,
   "firstYear": 1995,
   "lastYear": 2026,
   "years": [
@@ -40,7 +40,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Trees",
-      "notes": "DAT(M) \u00b7 SS-DSM6 \u00b7 chris m.",
+      "notes": "DAT(M) · SS-DSM6 · chris m.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-05-03 - Dallas, TX - Trees - DAT(M) (SS-DSM6) (chris m.) [AUD].aud.txt"
@@ -54,7 +54,7 @@ const ARTIST_DATA = {
       "state": "MB",
       "location": "Winnipeg, MB",
       "venue": "Rendezvous",
-      "notes": "unk \u00b7 jfaninord",
+      "notes": "unk · jfaninord",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-11-27 - Winnipeg, MB - Rendezvous (unk) (jfaninord) [AUD].txt"
@@ -123,7 +123,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "The Borderline",
-      "notes": "ANA(M) \u00b7 CSB \u00b7 3xc0wb0y",
+      "notes": "ANA(M) · CSB · 3xc0wb0y",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-06-09 - London, England - The Borderline - ANA(M) (CSB) (3xc0wb0y) [AUD].txt"
@@ -137,7 +137,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Lake Buena Vista, FL",
       "venue": "House of Blues",
-      "notes": "CSC \u00b7 jfaninord",
+      "notes": "CSC · jfaninord",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-08-12 - Lake Buena Vista, FL - House of Blues (CSC) (jfaninord) [AUD].aud.txt"
@@ -151,7 +151,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Auburn Hills, MI",
       "venue": "The Palace of Auburn Hills",
-      "notes": "ECM-MS907) \u00b7 live2cd",
+      "notes": "ECM-MS907) · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-10-15 - Auburn Hills, MI - The Palace of Auburn Hills - ECM-MS907) (live2cd) [AUD].txt"
@@ -165,7 +165,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "BC Place",
-      "notes": "DSM-6S \u00b7 faninor",
+      "notes": "DSM-6S · faninor",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2000-08-04 - Vancouver, BC - BC Place (DSM-6S) (faninor) [AUD].txt"
@@ -179,7 +179,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "The Main Event",
-      "notes": "CSB \u00b7 live2cd",
+      "notes": "CSB · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-05-22 - Toledo, OH - The Main Event (CSB) (live2cd) [AUD].txt"
@@ -193,10 +193,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "Hard Hat Cafe",
-      "notes": "CSB \u00b7 charles dewey cole",
+      "notes": "CSB · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2002-07-12 - Toledo, OH - Hard Hat Cafe (CSB) (charles dewey cole) [AUD].txt"
+      "textFile": "2002-07-12 - Toledo, OH - Hard Hat Cafe [AUD].txt"
     },
     {
       "year": 2002,
@@ -207,7 +207,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Water Street Music Hall",
-      "notes": "CSB \u00b7 h.d.",
+      "notes": "CSB · h.d.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-08-12 - Rochester, NY - Water Street Music Hall (CSB) (h.d.) [AUD].txt"
@@ -221,7 +221,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Union of London University",
-      "notes": "DAT(M) \u00b7 Marantz EM-8 \u00b7 gary watson",
+      "notes": "DAT(M) · Marantz EM-8 · gary watson",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-09-04 - London, UK - Union of London University - DAT(M) (Marantz EM-8) (gary watson) [AUD].txt"
@@ -235,7 +235,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Clearwater, FL",
       "venue": "Coachman Park",
-      "notes": "Next \u00b7 unk \u00b7 jfaninord",
+      "notes": "Next · unk · jfaninord",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-12-08 - Clearwater, FL - Coachman Park - Next Big Thing (unk) (jfaninord) [AUD].txt"
@@ -249,7 +249,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Clark Gym",
-      "notes": "Rochester \u00b7 Sony ECM-MS907 \u00b7 mark loj",
+      "notes": "Rochester · Sony ECM-MS907 · mark loj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-02-07 - Rochester, NY - Clark Gym - Rochester Institute of Technology (Sony ECM-MS907) (mark loj) [AUD].aud.txt"
@@ -277,7 +277,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Huntingdon, PA",
       "venue": "Juniata College Memorial Gym",
-      "notes": "CSB \u00b7 xjsb125",
+      "notes": "CSB · xjsb125",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-11-15 - Huntingdon, PA - Juniata College Memorial Gym (CSB) (xjsb125) [AUD].txt"
@@ -291,7 +291,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Centre In Vancouver for Performing Arts",
-      "notes": "CSB + CSC \u00b7 faninor, nikki 4982, xjsb125",
+      "notes": "CSB + CSC · faninor, nikki 4982, xjsb125",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2006-04-27 - Vancouver, BC - Centre In Vancouver for Performing Arts (CSB + CSC) (faninor, nikki 4982, xjsb125) [MIX].txt"
@@ -305,7 +305,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Troubadour",
-      "notes": "DPA 4060s \u00b7 faninor",
+      "notes": "DPA 4060s · faninor",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-07-28 - Hollywood, CA - The Troubadour (DPA 4060s) (faninor) [AUD].txt"
@@ -319,7 +319,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "The Orbit Room",
-      "notes": "DPA 4060 \u00b7 live2cd",
+      "notes": "DPA 4060 · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-09-12 - Grand Rapids, MI - The Orbit Room (DPA 4060) (live2cd) [AUD].txt"
@@ -333,7 +333,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "North Tonawanda, NY",
       "venue": "Riviera Theatre",
-      "notes": "CSB \u00b7 nikki4982",
+      "notes": "CSB · nikki4982",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-03-26 - North Tonawanda, NY - Riviera Theatre (CSB) (nikki4982) [AUD].txt"
@@ -361,7 +361,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Club Infinity",
-      "notes": "SP-CMC-2 \u00b7 hater-high.com",
+      "notes": "SP-CMC-2 · hater-high.com",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-04-06 - Buffalo, NY - Club Infinity (SP-CMC-2) (hater-high.com) [AUD].txt"
@@ -403,7 +403,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
-      "notes": "DPA 4060 \u00b7 charles dewey cole",
+      "notes": "DPA 4060 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2017-10-30 - Cleveland, OH - House of Blues (DPA 4060) (charles dewey cole) [AUD24].txt"
@@ -445,7 +445,7 @@ const ARTIST_DATA = {
       "state": "Alberta",
       "location": "Edmonton, Alberta",
       "venue": "Northern Alberta Jubilee Auditorium",
-      "notes": "Sony PCM-M10 \u00b7 unk",
+      "notes": "Sony PCM-M10 · unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2018-03-27 - Edmonton, Alberta - Northern Alberta Jubilee Auditorium (Sony PCM-M10) (unk) [AUD24].txt"
@@ -473,7 +473,7 @@ const ARTIST_DATA = {
       "state": "Alberta",
       "location": "Calgary, Alberta",
       "venue": "Calgary Stampede",
-      "notes": "Coca-Cola \u00b7 CSC \u00b7 sharon",
+      "notes": "Coca-Cola · CSC · sharon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-07-10 - Calgary, AB, Canada - Calgary Stampede [AUD].txt"
@@ -487,7 +487,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "20 Monroe Live",
-      "notes": "AT853s \u00b7 xjsb115",
+      "notes": "AT853s · xjsb115",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-07-13 - Grand Rapids, MI - 20 Monroe Live (AT853s) (xjsb115) [AUD].txt"
@@ -501,7 +501,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "The Ohio State Reformatory",
-      "notes": "CA-14 \u00b7 charles dewey cole",
+      "notes": "CA-14 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2018-07-14 - Mansfield, MA - The Ohio State Reformatory (CA-14) (charles dewey cole) [AUD24].txt"
@@ -515,7 +515,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Canandaigua, NY",
       "venue": "Marvin Sands Performing Arts Center",
-      "notes": "CA-14s \u00b7 binko",
+      "notes": "CA-14s · binko",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-06-14 - Canandaigua, NY - Marvin Sands Performing Arts Center (CA-14s) (binko) [AUD].txt"
@@ -543,7 +543,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Greek Theatre",
-      "notes": "DPA 4061 \u00b7 faninor",
+      "notes": "DPA 4061 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2019-08-06 - Los Angeles, CA - Greek Theatre (DPA 4061) (faninor) [AUD24].txt"
@@ -557,7 +557,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Costa Mesa, CA",
       "venue": "Pacific Amphitheatre",
-      "notes": "DPA 4060 \u00b7 faninor",
+      "notes": "DPA 4060 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2019-08-10 - Costa Mesa, CA - Pacific Amphitheatre (DPA 4060) (faninor) [AUD24].txt"
@@ -599,7 +599,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Temecula, CA",
       "venue": "Pechanga Summit",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2019-10-20 - Temecula, CA - Pechanga Summit (DPA 4081) (faninor) [AUD24].txt"
@@ -627,7 +627,7 @@ const ARTIST_DATA = {
       "state": "SK",
       "location": "Saskatoon, SK",
       "venue": "Sasktel Grandstand",
-      "notes": "Edirol R-09 \u00b7 auriel",
+      "notes": "Edirol R-09 · auriel",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2021-08-12 - Saskatoon, SK - Sasktel Grandstand (Edirol R-09) (auriel) [AUD24].txt"
@@ -641,7 +641,7 @@ const ARTIST_DATA = {
       "state": "Alberta",
       "location": "Red Deer, Alberta, Canada",
       "venue": "Bo's Ba and Stage",
-      "notes": "Raine Maida & Chantal Kreviazuk \u00b7 CSSC \u00b7 sharon",
+      "notes": "Raine Maida & Chantal Kreviazuk · CSSC · sharon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-11-13 - Red Deer, Alberta, Canada - Bo's Ba and Stage (Raine Maida & Chantal Kreviazuk) (CSSC) (sharon) [AUD].txt"
@@ -655,7 +655,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Solana Beach, CA",
       "venue": "Belly Up",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2021-12-05 - Solana Beach, CA - Belly Up (DPA 4081) (faninor) [AUD24].txt"
@@ -669,7 +669,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Troubadour",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2021-12-06 - West Hollywood, CA - Troubadour (DPA 4081) (faninor) [AUD24].txt"
@@ -683,7 +683,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "notes": "AT853 \u00b7 musicman224",
+      "notes": "AT853 · musicman224",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-12-14 - Boston, MA - Paradise Rock Club (AT853) (musicman224) [AUD].txt"
@@ -697,7 +697,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Big Room Bar",
-      "notes": "CA-14s \u00b7 charles dewey cole",
+      "notes": "CA-14s · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2021-12-16 - Columbus, OH - Big Room Bar (CA-14) (charles dewey cole) [AUD24].txt"
@@ -711,7 +711,7 @@ const ARTIST_DATA = {
       "state": "AB",
       "location": "Calgary, AB, Canada",
       "venue": "Jack Singer Concert Hall",
-      "notes": "Raine Maida & Chantal Kreviazuk \u00b7 Core Sound Stealthy mics \u00b7 sharon",
+      "notes": "Raine Maida & Chantal Kreviazuk · Core Sound Stealthy mics · sharon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-02-20 - Calgary, AB, Canada - Jack Singer Concert Hall (Core Sound Stealthy mics) (sharon) [AUD].txt"
@@ -725,7 +725,7 @@ const ARTIST_DATA = {
       "state": "AB",
       "location": "Calgary, AB",
       "venue": "Bella Concert Hall, Calgary",
-      "notes": "CSSC \u00b7 sharon",
+      "notes": "CSSC · sharon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-06-11 - Calgary, AB - Bella Concert Hall, Calgary (CSSC) (sharon) [AUD].txt"
@@ -739,7 +739,7 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Centre Bell",
-      "notes": "iPhone 11 \u00b7 palm0014",
+      "notes": "iPhone 11 · palm0014",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-10-26 - Montreal, QC - Centre Bell (iPhone 11) (palm0014) [AUD24].txt"
@@ -753,7 +753,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Q101 Lounge",
-      "notes": "Pixel 6A \u00b7 face_sb",
+      "notes": "Pixel 6A · face_sb",
       "version": "AUD",
       "format": "MP3",
       "textFile": "2023-02-07 - Chicago, IL - House of Blues (Zoom iQ7) (josh lichtenfeld) [AUD].txt"
@@ -767,7 +767,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues",
-      "notes": "Zoom iQ7 \u00b7 josh lichtenfeld",
+      "notes": "Zoom iQ7 · josh lichtenfeld",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -780,7 +780,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Ottawa, ON",
       "venue": "Canadian Tire Centre",
-      "notes": "iPhone 16 \u00b7 palm0014",
+      "notes": "iPhone 16 · palm0014",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-03-07 - Ottawa, ON - Canadian Tire Centre (iPhone 16) (palm0014) [AUD24].txt"
@@ -794,7 +794,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Wheatland, CA",
       "venue": "Toyota Amphitheatre",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-07-11 - Wheatland, CA - Toyota Amphitheatre (DPA 4081) (faninor) [AUD24].txt"
@@ -808,7 +808,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Windsor, ON",
       "venue": "The Colosseum at Caesars Windsor",
-      "notes": "SP-CMC-8 \u00b7 live2cd",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-12-05 - Windsor, ON - The Colosseum at Caesars Windsor (SP-CMC-8) (live2cd) [AUD24].txt"
@@ -822,7 +822,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "The Plaza Live",
-      "notes": "Panasonic MM-BSM7s \u00b7 kevdogg",
+      "notes": "Panasonic MM-BSM7s · kevdogg",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-03-15 - Orlando, FL - The Plaza Live (Panasonic MM-BSM7) (kevdogg) [AUD].txt"
@@ -836,10 +836,23 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Fillmore Detroit",
-      "notes": "SP-CMC-8 \u00b7 live2cd",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-04-02 - Detroit, MI - The Fillmore Detroit (SP-CMC-8) (live2cd) [AUD24].txt"
+    },
+    {
+      "year": 2026,
+      "month": 4,
+      "day": 7,
+      "dateStr": "4-7-2026",
+      "city": "Cincinnati",
+      "state": "OH",
+      "location": "Cincinnati, OH",
+      "venue": "Bogart's",
+      "notes": "SP-CMC-8 Cardioids · charlesdeweycoleiv",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
