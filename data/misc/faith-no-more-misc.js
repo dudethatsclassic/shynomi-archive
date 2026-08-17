@@ -200,5 +200,12 @@ const ARTIST_MISC_DATA = [
     "year": 2014,
     "format": "Single",
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Faith No More - Ashes To Ashes 2",
+    "year": 1997,
+    "format": "Single",
+    "category": "SINGLES"
   }
 ];

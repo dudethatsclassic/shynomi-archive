@@ -1,0 +1,33 @@
+﻿THE VERVE PIPE 7/25/26
+618 TAP HOUSE, MARION, IL
+
+01 Spoonful Of Sugar
+02 Photograph
+03 Seven Bridges Road Intro
+04 Cup Of Tea
+05 Dust
+06 Colorful
+07 Never Let You Down
+08 Hero
+09 Villains
+10 Tattoo
+11 Bridges Are Burning
+12 The Freshmen
+13 Medicate Myself
+14 Happiness Is
+15 The Chain
+
+TAPER:
+
+SHANE E. CALHOON
+(tapersec1968(at)gmail(dot)com)
+
+Gear Used:
+
+Source 1: Neumann SKM 184 mics Cardioid caps > Tascam DR-07 Portable recorder
+
+Source 2: SBD > Tascam DR-07 Portable Recorder
+
+Matrix combined sources using:
+
+Sound Forge Pro 17.0 > CDWav > TLH > .flac files

@@ -1,0 +1,22 @@
+Toad The Wet Sprocket  Live at The Performing Arts Pavilion, New Lenox, IL, USA
+
+
+01-Intro.flac
+02-Good Intentions.flac
+03-Whatever I Fear.flac
+04-California Wasted.flac
+05-Hold On.flac
+06-Come Down.flac
+07-Woodburning.flac
+08-Transient Whales.flac
+09-Something's Always Wrong.flac
+10-Desire.flac
+11-Crazy Life.flac
+12-Don't Change (INXS Cover).flac
+13-Fall Down.flac
+14-All I Want.flac
+15-Walk On The Ocean.flac
+
+Lineage FLAC > Audacity  > OpenVino > Flac 
+
+Source iPhone 17 Pro>Dolby ON > FLAC 

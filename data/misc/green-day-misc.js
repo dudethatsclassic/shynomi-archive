@@ -282,7 +282,6 @@ const ARTIST_MISC_DATA = [
     "label": "Green Day - Basket Case {WO279CDX} (1994)",
     "year": 1994,
     "format": "FLAC",
-    "category": "SINGLES",
-    "textFile": "MISC - Green Day - Woodstock 1994 (2019) [Vinyl Rip].txt"
+    "category": "SINGLES"
   }
 ];

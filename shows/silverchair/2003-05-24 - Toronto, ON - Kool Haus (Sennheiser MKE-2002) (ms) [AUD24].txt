@@ -1,0 +1,38 @@
+
+Silverchair
+Kool Haus: Toronto, Ontario
+May 24, 2003
+
+Source: Sennheiser MKE-2002 > Sony TCD-D8 @ 48kHz
+Transfer: DAT Master > Tascam DA-20 > M-Audio Microtrack II > Audacity > xACT 2.50
+Edits/EQ: Left channel x 2
+Taper: MS
+
+Setlist:01 Intro
+02 After All These Years
+03 World Upon Your Shoulders
+04 Emotion Sickness
+05 Without You
+06 Luv Your Life
+07 Tuna in the Brine
+08 Across the Night
+09 The Greatest View
+10 Ana's Song (Open Fire)
+11 Miss You Love
+12 The Door
+13 Anthem for the Year 2000
+14 Israel's Son
+15 -encore break-
+16 Asylum
+17 The Lever
+
+Notes: 2nd of 2 nights in Toronto. Cable/microphone pops present on significant portions of the master tape (right channel). I replicated the left channel on to the right, and applied a 0.025 second offset. I acquired the master DAT in 2009, and transferred it in 2026. Raw transfer with no fades or EQ. 
+
+Archive: Master WAV was archived @ 48kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 7/8/2026
+
+www.tapeworm48.com 
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 
