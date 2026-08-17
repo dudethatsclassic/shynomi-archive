@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "finger-eleven",
   "name": "Finger Eleven",
   "drive": "E",
-  "showCount": 5,
+  "showCount": 6,
   "firstYear": 2025,
   "lastYear": 2026,
   "years": [
@@ -79,6 +79,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-05-03 - Hamilton, ON - TD Coliseum (Zoom H1n) (bowlingron) [AUD].txt"
+    },
+    {
+      "year": 2025,
+      "month": 8,
+      "day": 2,
+      "dateStr": "8-2-2025",
+      "city": "Port Colborne",
+      "state": "ON",
+      "location": "Port Colborne, ON",
+      "venue": "H.H. Knoll Lakeview Park",
+      "notes": "Zoom H1n · unk",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
