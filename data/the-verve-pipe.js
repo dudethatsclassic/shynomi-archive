@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "the-verve-pipe",
   "name": "The Verve Pipe",
   "drive": "B",
-  "showCount": 31,
+  "showCount": 32,
   "firstYear": 1997,
   "lastYear": 2026,
   "years": [
@@ -452,6 +452,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-06-18 - Las Vegas, NV - House of Blues - Mandalay Bay (SP-CMC-8) (charlesdeweycoleiv) [AUD24].txt"
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "day": 25,
+      "dateStr": "7-25-2026",
+      "city": "Marion",
+      "state": "IL",
+      "location": "Marion, IL",
+      "venue": "618 Tap House",
+      "notes": "Neumann SKM 184 · shanecalhoon",
+      "version": "MIX",
+      "format": "FLAC"
     }
   ]
 };
