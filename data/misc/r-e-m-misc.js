@@ -166,9 +166,9 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "R.E.M.nants The Complete Rarities Collection 1981\u20132004 (12 CDs)",
+    "label": "R.E.M.nants The Complete Rarities Collection 1981–2004 (12 CDs)",
     "category": "VARIOUS",
-    "textFile": "MISC - R.E.M. - R.E.M.nants - The Complete Rarities Collection 1981\u20132004 [COMP].txt"
+    "textFile": "MISC - R.E.M. - R.E.M.nants - The Complete Rarities Collection 1981–2004 [COMP].txt"
   },
   {
     "type": "release",
@@ -336,6 +336,33 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
+    "label": "R.E.M. - 1980-1981 - Garage Years Boxset",
+    "version": "COMP",
+    "category": "COMPILATIONS",
+    "textFile": "MISC - R.E.M. - 1980-1981 - Garage Years Boxset [COMP].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - 1981-1984 - Demos - Volume 1 {REM-40}",
+    "category": "DEMOS",
+    "textFile": "MISC - R.E.M. - 1981-1984 - Demos - Volume 1 {REM-40}.txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - 1984-XX-XX - Little America",
+    "version": "Silver CD",
+    "category": "SILVERS",
+    "textFile": "MISC - R.E.M. - 1984-XX-XX - Little America [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "R.E.M. - Shiny Happy People {W 0027 CD} (1991)",
+    "year": 1991,
+    "format": "FLAC",
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
     "label": "R.E.M. - 2-17-1983 - Reflection Studio",
     "format": "FLAC",
     "year": 1983,
@@ -381,32 +408,5 @@ const ARTIST_MISC_DATA = [
     "format": "DVD",
     "category": "OTHER",
     "textFile": "MISC - R.E.M. - Accelerating Backwards [DVD].txt"
-  },
-  {
-    "type": "release",
-    "label": "R.E.M. - 1980-1981 - Garage Years Boxset",
-    "version": "COMP",
-    "category": "COMPILATIONS",
-    "textFile": "MISC - R.E.M. - 1980-1981 - Garage Years Boxset [COMP].txt"
-  },
-  {
-    "type": "release",
-    "label": "R.E.M. - 1981-1984 - Demos - Volume 1 {REM-40}",
-    "category": "DEMOS",
-    "textFile": "MISC - R.E.M. - 1981-1984 - Demos - Volume 1 {REM-40}.txt"
-  },
-  {
-    "type": "release",
-    "label": "R.E.M. - 1984-XX-XX - Little America",
-    "version": "Silver CD",
-    "category": "SILVERS",
-    "textFile": "MISC - R.E.M. - 1984-XX-XX - Little America [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "R.E.M. - Shiny Happy People {W 0027 CD} (1991)",
-    "year": 1991,
-    "format": "FLAC",
-    "category": "SINGLES"
   }
 ];
