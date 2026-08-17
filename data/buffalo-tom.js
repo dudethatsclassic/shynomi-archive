@@ -27,7 +27,7 @@ const ARTIST_DATA = {
       "state": "West Germany",
       "location": "Enger, West Germany",
       "venue": "Forum",
-      "notes": "Sony WM-D3 \u00b7 bobfather \u00b7 2022 transfer",
+      "notes": "Sony WM-D3 · bobfather · 2022 transfer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-06-29 - Enger, West Germany - Forum (Sony WM-D3) (bobfather) (2022 transfer) [AUD].txt"
@@ -41,7 +41,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Bochum, Germany",
       "venue": "Logo",
-      "notes": "Aiwa CM-30 \u00b7 bobfather",
+      "notes": "Aiwa CM-30 · bobfather",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-11-26 - Bochum, Germany - Logo (Aiwa CM-30) (bobfather) [AUD].txt"
@@ -69,7 +69,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Genoa, Italy",
       "venue": "Coccodrillo",
-      "notes": "VHS(1) \u00b7 pluscenti",
+      "notes": "VHS(1) · pluscenti",
       "version": "AUD",
       "format": "MKV",
       "textFile": "1991-04-09 - Genoa, Italy - Coccodrillo - VHS(1) (pluscenti) [MKV].txt"
@@ -97,7 +97,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theater",
-      "notes": "Remaster \u00b7 oceanaudio",
+      "notes": "Remaster · oceanaudio",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-02-26 - Chicago, IL - Vic Theater (Remaster) (oceanaudio) [AUD].txt"
@@ -125,7 +125,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -152,7 +152,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "notes": "Remaster \u00b7 oceanaudio",
+      "notes": "Remaster · oceanaudio",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-10-20 - Chicago, IL - Vic Theatre (Remaster) (oceanaudio) [AUD].txt"
@@ -166,7 +166,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "notes": "Sony ECM-909a \u00b7 manofstealth",
+      "notes": "Sony ECM-909a · manofstealth",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-06-21 - Boston, MA - Paradise Rock Club (Sony ECM-909a) (manofstealth) [AUD].txt"
@@ -180,7 +180,7 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Paradiso",
-      "notes": "Tascam DR-01 \u00b7 mr. wulf",
+      "notes": "Tascam DR-01 · mr. wulf",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-12-02 - Amsterdam, The Netherlands - Paradiso (Tascam DR-01) (mr. wulf) [AUD].txt"
@@ -194,7 +194,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Big Night Live",
-      "notes": "CA-11 \u00b7 steve hanna",
+      "notes": "CA-11 · steve hanna",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-12-03 - Boston, MA - Big Night Live (CA-11) (steve hanna) [AUD].txt"
@@ -208,7 +208,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "notes": "CA-11 \u00b7 manofstealth",
+      "notes": "CA-11 · manofstealth",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-12-02 - Boston, MA - Paradise Rock Club (CA-11) (manofstealth) [AUD24].txt"
@@ -222,7 +222,7 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Eindhoven, The Netherlands",
       "venue": "Grote Zaal",
-      "notes": "Zoom H4N \u00b7 minimax",
+      "notes": "Zoom H4N · minimax",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-10-05 - Eindhoven, The Netherlands - Grote Zaal (Zoom H4N) (minimax) [AUD].txt"
@@ -236,7 +236,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Somerville, MA",
       "venue": "Arts at the Armory",
-      "notes": "SP-CMC-8 \u00b7 manofstealth",
+      "notes": "SP-CMC-8 · manofstealth",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-11-01 - Somerville, MA - Arts at the Armory (SP-CMC-8) (manofstealth) [AUD24].txt"
@@ -250,7 +250,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Somerville, MA",
       "venue": "Arts at the Armory",
-      "notes": "SP-CMC-8 \u00b7 manofstealth",
+      "notes": "SP-CMC-8 · manofstealth",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-11-02 - Somerville, MA - Arts at the Armory (SP-CMC-8) (manofstealth) [AUD24].txt"
