@@ -33,7 +33,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Empty Bottle",
-      "notes": "AT853U \u00b7 charles dewey cole",
+      "notes": "AT853U · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-03-25 - Chicago, IL - Empty Bottle (DPA 4060) (charles dewey cole) [AUD24].txt"
@@ -47,9 +47,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Empty Bottle",
-      "notes": "DPA 4060 \u00b7 charles dewey cole",
+      "notes": "DPA 4060 · charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-03-25 - Chicago, IL - Empty Bottle (DPA 4060) (charles dewey cole) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -60,11 +61,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Skokie, IL",
       "venue": "Skokie Backlot Bash",
-      "notes": "Schoeps MK4s \u00b7 tapeworm48",
+      "notes": "Schoeps MK4s · tapeworm48",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-08-27 - Skokie, IL - Skokie Backlot Bash (Schoeps MK4s) (tapeworm48) [FLAC24].txt"
     }
-  ],
-  "misc": []
+  ]
 };
