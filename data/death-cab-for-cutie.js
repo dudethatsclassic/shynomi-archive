@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "death-cab-for-cutie",
   "name": "Death Cab For Cutie",
   "drive": "D",
-  "showCount": 130,
+  "showCount": 131,
   "firstYear": 1998,
-  "lastYear": 2024,
+  "lastYear": 2026,
   "years": [
     1998,
     1999,
@@ -24,7 +24,8 @@ const ARTIST_DATA = {
     2019,
     2022,
     2023,
-    2024
+    2024,
+    2026
   ],
   "shows": [
     {
@@ -1801,17 +1802,30 @@ const ARTIST_DATA = {
       "textFile": "2024-05-06 - Milwaukee, WI - Miller High Life Theatre (Zoom iQ7) (poul0004) [AUD].txt"
     },
     {
-      "year": 2024,
-      "month": 5,
-      "day": 6,
-      "dateStr": "5-6-2024",
-      "city": "Milwaukee",
-      "state": "WI",
-      "location": "Milwaukee, WI",
-      "venue": "Miller High Life Theatre",
-      "notes": "Zoom iQ7 · poul0004",
-      "version": "",
-      "format": ""
+      "year": 2026,
+      "month": 8,
+      "day": 9,
+      "dateStr": "8-9-2026",
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "Outside Lands Music Festival",
+      "notes": "Sutro · Early Set",
+      "version": "WEB",
+      "format": "TS"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "day": 9,
+      "dateStr": "8-9-2026",
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "Outside Lands Music Festival",
+      "notes": "Sutro · Late Set",
+      "version": "WEB",
+      "format": "TS"
     }
   ]
 };
