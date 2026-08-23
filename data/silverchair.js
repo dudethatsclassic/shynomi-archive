@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "silverchair",
   "name": "Silverchair",
   "drive": "F",
-  "showCount": 103,
+  "showCount": 104,
   "firstYear": 1995,
   "lastYear": 2007,
   "years": [
@@ -615,7 +615,20 @@ const ARTIST_DATA = {
       "venue": "Paradiso",
       "notes": "unk",
       "version": "SBD #1",
-      "format": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1996,
+      "month": 3,
+      "day": 5,
+      "dateStr": "3-5-1996",
+      "city": "Amsterdam",
+      "state": "Netherlands",
+      "location": "Amsterdam, Netherlands",
+      "venue": "The Paradiso *Liveomania",
+      "notes": "",
+      "version": "SBD #1",
+      "format": "FLAC"
     },
     {
       "year": 1996,
