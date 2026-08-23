@@ -274,7 +274,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Greenfield, IN",
       "venue": "Depot Street Park",
-      "notes": "Freedom · CA-14 Omni · charlesdeweycoleiv",
+      "notes": "Freedom \u00b7 CA-14 Omni \u00b7 charlesdeweycoleiv",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-07-04 - Greenfield, IN - Depot Street Park - Freedom Fest 2026 (CA-14 Omni) (charlesdeweycoleiv) [AUD].txt"

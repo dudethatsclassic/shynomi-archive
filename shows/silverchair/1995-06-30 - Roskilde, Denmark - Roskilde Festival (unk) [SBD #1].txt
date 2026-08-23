@@ -1,0 +1,33 @@
+SILVERCHAIR
+June 30, 1995
+Roskilde Festival
+Roskile, DK
+
+DISC #1/1 (15:22)
+-----------------
+01) Findaway
+02) Leave Me Out
+03) Fat Donuts
+04) Pure Massacre
+
+GENERATION
+-----------------
+CD [Teenage Runaway] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+LITE-ON CD-RW SOHR-5238s -> Exact Audio Copy v 0.95 BETA -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+6e7db717c90699b8b91004f60d625def *silverchair1995-06-30t01.flac
+00d48c77d92766a2f13a0a257ff7e4c7 *silverchair1995-06-30t02.flac
+340c5734e84758022a2a28a7aa4309fb *silverchair1995-06-30t03.flac
+fe72d92a1ab72adf2acd2de9fcdfd54e *silverchair1995-06-30t04.flac
+
+Extracted by Krzysziek Nowak.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

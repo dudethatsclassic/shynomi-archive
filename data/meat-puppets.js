@@ -242,7 +242,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Kennel Club",
-      "notes": "VHS(M) · Nakamichi 100s · magister",
+      "notes": "VHS(M) \u00b7 Nakamichi 100s \u00b7 magister",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1988-12-16 - San Francisco, CA - The Kennel Club - VHS(M) (Nakamichi 100s) (magister) [AUD24].txt"
@@ -256,7 +256,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "ANA(M) · fireball",
+      "notes": "ANA(M) \u00b7 fireball",
       "version": "SBD",
       "format": "FLAC 24",
       "textFile": "1991-08-06 - San Francisco, CA - The Warfield - ANA(M) (fireball) [SBD24].txt"
@@ -270,7 +270,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "ANA(M) · fireball",
+      "notes": "ANA(M) \u00b7 fireball",
       "version": "SBD",
       "format": "FLAC 24",
       "textFile": "1991-08-07 - San Francisco, CA - The Warfield - ANA(M) (fireball) [SBD24].txt"
@@ -298,7 +298,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fashion Center",
-      "notes": "ANA(M) · fireball",
+      "notes": "ANA(M) \u00b7 fireball",
       "version": "SBD",
       "format": "FLAC 24",
       "textFile": "1991-10-25 - San Francisco, CA - Fashion Center - ANA(M) (fireball) [SBD24].txt"
@@ -312,7 +312,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "The Catalyst",
-      "notes": "CM300 · markp",
+      "notes": "CM300 \u00b7 markp",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-11-10 - Santa Cruz, CA - The Catalyst (CM300) (markp) [AUD].txt"
@@ -326,7 +326,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "The Catalyst",
-      "notes": "ANA(M) · fireball",
+      "notes": "ANA(M) \u00b7 fireball",
       "version": "SBD",
       "format": "FLAC 24",
       "textFile": "1991-11-10 - Santa Cruz, CA - The Catalyst - ANA(M) (fireball) [SBD24].txt"
@@ -340,7 +340,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "notes": "ANA(M) · fireball",
+      "notes": "ANA(M) \u00b7 fireball",
       "version": "SBD",
       "format": "FLAC 24",
       "textFile": "1991-11-12 - San Francisco, CA - Slim's - ANA(M) (fireball) [SBD24].txt"
@@ -354,7 +354,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "Cactus Club",
-      "notes": "ANA(M) · fireball",
+      "notes": "ANA(M) \u00b7 fireball",
       "version": "SBD",
       "format": "FLAC 24",
       "textFile": "1991-11-13 - San Jose, CA - Cactus Club - ANA(M) (fireball) [SBD24].txt"
@@ -368,7 +368,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Isla Vista, CA",
       "venue": "Anaconda Theatre",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "SBD",
       "format": "FLAC 24",
       "textFile": "1992-05-01 - Isla Vista, CA - Anaconda Theatre - ANA(M) [SBD].txt"
@@ -452,7 +452,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Cattle Club",
-      "notes": "DAT(M) · fireball",
+      "notes": "DAT(M) \u00b7 fireball",
       "version": "SBD",
       "format": "FLAC 24",
       "textFile": "1994-05-23 - Sacramento, CA - Cattle Club - DAT(M) (fireball) [SBD24].txt"
@@ -494,7 +494,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Arco Arena",
-      "notes": "DAT(M) · fireball",
+      "notes": "DAT(M) \u00b7 fireball",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1994-07-24 - Sacramento, CA - Arco Arena - DAT(M) (fireball) [SBD].txt"
@@ -564,7 +564,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Mammoth Events Center",
-      "notes": "MarcR Binaurals · marcr",
+      "notes": "MarcR Binaurals \u00b7 marcr",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1995-12-10 - Denver, CO - Mammoth Events Center (MarcR Binaurals) (marcr) [AUD24].txt"
@@ -592,7 +592,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "notes": "Schoeps CCM4s + SBD · fireball + sneaky bastard",
+      "notes": "Schoeps CCM4s + SBD \u00b7 fireball + sneaky bastard",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2000-10-13 - San Francisco, CA - Slim's (Schoeps CCM4s + SBD) (fireball + sneaky bastard) [MIX].txt"
@@ -619,7 +619,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bottom of the Hill",
-      "notes": "DAT(M) · fireball",
+      "notes": "DAT(M) \u00b7 fireball",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "2001-10-02 - San Francisco, CA - Bottom of the Hill - DAT(M) (fireball) [SBD].txt"
@@ -633,7 +633,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theater",
-      "notes": "CAC · fanofthemule",
+      "notes": "CAC \u00b7 fanofthemule",
       "version": "AUD",
       "format": "DVD",
       "textFile": "2007-05-23 - Boulder, CO - Fox Theater (CAC) (fanofthemule) [DVD].txt"
@@ -647,7 +647,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Luna Lounge",
-      "notes": "AT825 + SBD · ml + dc",
+      "notes": "AT825 + SBD \u00b7 ml + dc",
       "version": "MIX",
       "format": "FLAC 24",
       "textFile": "2007-09-08 - Brooklyn, NY - Luna Lounge (AT825 + SBD) (ml + dc) [MIX24].txt"
@@ -661,7 +661,7 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Lawrence, KS",
       "venue": "Bottleneck",
-      "notes": "DAT(M) · SP831s · sonictooth",
+      "notes": "DAT(M) \u00b7 SP831s \u00b7 sonictooth",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2007-11-12 - Lawrence, KS - Bottleneck - DAT(M) (SP831s) (sonictooth) [AUD24].txt"
@@ -689,7 +689,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Schubas",
-      "notes": "unk · aadams jacobs",
+      "notes": "unk \u00b7 aadams jacobs",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-11-12 - Chicago, IL - Schubas (unk) (aadams jacobs) [AUD].txt"
@@ -703,7 +703,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Schubas",
-      "notes": "unk · aadams jacobs",
+      "notes": "unk \u00b7 aadams jacobs",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-11-13 - Chicago, IL - Schubas (unk) (aadams jacobs) [AUD].txt"
@@ -717,7 +717,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Schubas",
-      "notes": "unk · aadams jacobs",
+      "notes": "unk \u00b7 aadams jacobs",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-11-14 - Chicago, IL - Schubas (unk) (aadams jacobs) [AUD].txt"
@@ -731,7 +731,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Rough Trade",
-      "notes": "SP-CMC-8 · nitcomb",
+      "notes": "SP-CMC-8 \u00b7 nitcomb",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-11-01 - Brooklyn, NY - Rough Trade (SP-CMC-8) (nitcomb) [AUD].txt"
@@ -745,9 +745,10 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "9-30 Club",
-      "notes": "Core Sound HEB BBox · emmanuel",
+      "notes": "Core Sound HEB BBox \u00b7 emmanuel",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-06-18 - Washington, DC - 9-30 Club (Core Sound HEB BBox) (emmanuel) [AUD].txt"
     },
     {
       "year": 2015,
@@ -758,9 +759,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "The Institute 3",
-      "notes": "Core Sound HEB BBox · emmanuel",
+      "notes": "Core Sound HEB BBox \u00b7 emmanuel",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-09-05 - Birmingham, UK - The Institute 3 (Core Sound HEB BBox) (emmanuel) [AUD].txt"
     },
     {
       "year": 2022,
@@ -771,7 +773,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "notes": "DAT(M) · SP-CMC-4U · loughney",
+      "notes": "DAT(M) \u00b7 SP-CMC-4U \u00b7 loughney",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-05-21 - San Francisco, CA - Great American Music Hall - DAT(M) (SP-CMC-4U) (loughney) [AUD].txt"

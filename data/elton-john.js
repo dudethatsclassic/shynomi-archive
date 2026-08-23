@@ -51,7 +51,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Seattle Center Coliseum",
-      "notes": "Sony ECM-22P · jems",
+      "notes": "Sony ECM-22P \u00b7 jems",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1974-10-13 - Seattle, WA - Seattle Center Coliseum (Sony ECM-22P) (jems) [AUD].txt"

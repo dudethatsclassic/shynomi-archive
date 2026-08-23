@@ -1,0 +1,46 @@
+SILVERCHAIR
+January 01, 1996
+Homebake Festival
+Byron Bay, NSW, AU  
+
+DISC #1/1 (38:26)
+-----------------
+01) Radio Introduction
+02) Leave Me Out
+03) Slave
+04) Suicidal Dream
+05) Tomorrow
+06) New Race
+07) Faultline
+08) Learn To Hate
+09) Israel's Son 
+
+GENERATION
+-----------------
+FM -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Unknown -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+NOTE
+-----------------
+- Impossible Music Festival Rebroadcast (2005)
+
+MD5 FINGERPRINTS
+-----------------
+99cf7ae36dda7a09d7a95c697bf89160 *silverchair1996-01-03t01.flac
+e154f7e801b8c46ce0578b50f3fdbce1 *silverchair1996-01-03t02.flac
+2a48ddc29b57c8ee480ba4590e0f9c06 *silverchair1996-01-03t03.flac
+d7edf12303ee02898583eb014fd817e1 *silverchair1996-01-03t04.flac
+c640b970d92986a3dd6d86bc5bf2a112 *silverchair1996-01-03t05.flac
+31c74c8ceb6c289c594c042a8700c7dd *silverchair1996-01-03t06.flac
+21f710d85025a12a05ac4a99697bd6e7 *silverchair1996-01-03t07.flac
+342d94e21e2f7adbca9b3f04eb146fba *silverchair1996-01-03t08.flac
+9ae09635d57b261e2207cc5242f31120 *silverchair1996-01-03t09.flac
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

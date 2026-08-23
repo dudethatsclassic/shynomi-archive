@@ -166,9 +166,9 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "R.E.M.nants The Complete Rarities Collection 1981–2004 (12 CDs)",
+    "label": "R.E.M.nants The Complete Rarities Collection 1981\u20132004 (12 CDs)",
     "category": "VARIOUS",
-    "textFile": "MISC - R.E.M. - R.E.M.nants - The Complete Rarities Collection 1981–2004 [COMP].txt"
+    "textFile": "MISC - R.E.M. - R.E.M.nants - The Complete Rarities Collection 1981\u20132004 [COMP].txt"
   },
   {
     "type": "release",

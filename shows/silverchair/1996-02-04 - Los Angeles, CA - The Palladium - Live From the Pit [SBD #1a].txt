@@ -1,0 +1,44 @@
+SILVERCHAIR
+February 04, 1996
+The Palladium  
+Los Angeles, CA, US
+
+DISC #1/1 (40:19)
+-----------------
+01. Leave Me Out
+02. Slave
+03. Findaway
+04. Suicidal Dream
+05. Nobody Came
+06. Tomorrow
+07. Madman
+08. Faultline
+09. Pure Massacre
+10. Israel's Son
+
+GENERATION
+-----------------
+CD [Live From The Pit] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Sony DVD-ROM DDU1621 -> Exact Audio Copy v 0.95 BETA -> Cool Edit Pro 2.0 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+ab6abf1743b8fcdc1b52a07e42ac3e61 *silverchair1996-02-04t01.flac
+7c8c5042214437942990ca92a1023a68 *silverchair1996-02-04t02.flac
+4017397501ca583e2a665d583e666587 *silverchair1996-02-04t03.flac
+103a0b787f89708e1942d6943d4ddb53 *silverchair1996-02-04t04.flac
+936838ef437c600cad41758b69812d3b *silverchair1996-02-04t05.flac
+859e3d0dee513ea30f0b713c857fa69e *silverchair1996-02-04t06.flac
+e7d586012bf1f77602fe16980cf92ab8 *silverchair1996-02-04t07.flac
+44c0fca43dd7a4ebcf037dc4ccede9f5 *silverchair1996-02-04t08.flac
+8c279f30de1c27fe79514f49b432ef3c *silverchair1996-02-04t09.flac
+c96575f14893569e9a052266bba0b04f *silverchair1996-02-04t10.flac
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

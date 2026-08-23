@@ -33,7 +33,7 @@ const ARTIST_DATA = {
       "notes": "1g",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "1997-11-26 - Irvine, CA - Donald Bren Events Centre - VHS(1) (Handheld) (brownlabel) [DVD].txt"
+      "textFile": "1997-11-26 - Irvine, CA - Donald Bren Events Centre (1g) [DVD].txt"
     },
     {
       "year": 1997,
@@ -44,7 +44,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Donald Bren Events Centre",
-      "notes": "VHS(1) · Handheld · brownlabel",
+      "notes": "VHS(1) \u00b7 Handheld \u00b7 brownlabel",
       "version": "AUD",
       "format": "DVD",
       "textFile": "1997-11-26 - Irvine, CA - Donald Bren Events Centre - VHS(1) (Handheld) (brownlabel) [DVD].txt"
@@ -86,7 +86,7 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Parc Des Iles",
-      "notes": "Warped · M · agrenier",
+      "notes": "Warped \u00b7 M \u00b7 agrenier",
       "version": "AUD",
       "format": "DVD",
       "textFile": "1999-07-23 - Montreal, QC - Parc Des Iles - Warped Tour - Hi8(M) (agrenier) [DVD].txt"
@@ -156,7 +156,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -169,7 +169,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Verizon Wireless Amphitheatre",
-      "notes": "Sony MD · unk",
+      "notes": "Sony MD \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-06-23 - Irvine, CA - Verizon Wireless Amphitheatre (Sony MD) (unk) [AUD].txt"
@@ -183,7 +183,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cuyahoga Falls, OH",
       "venue": "Blossom Music Center",
-      "notes": "CSB · charles dewey cole",
+      "notes": "CSB \u00b7 charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-07-11 - Cuyahoga Falls, OH - Blossom Music Center (CSB) (charles dewey cole) [AUD].txt"
@@ -197,7 +197,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheater",
-      "notes": "KROQ · Sony ECM-DSP70 · the v.u.",
+      "notes": "KROQ \u00b7 Sony ECM-DSP70 \u00b7 the v.u.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-12-14 - Universal City, CA - Universal Amphitheater - KROQ Almost Acoustic Christmas (Sony ECM-DSP70) (the v.u.) [AUD].txt"
@@ -281,7 +281,7 @@ const ARTIST_DATA = {
       "state": "AU",
       "location": "Brisbane, AU",
       "venue": "RNA Showgrounds",
-      "notes": "Soundwave · SP-BMC-1 · shadowfax1007",
+      "notes": "Soundwave \u00b7 SP-BMC-1 \u00b7 shadowfax1007",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2013-02-22 - Brisbane, AU - RNA Showgrounds - Soundwave Festival (SP-BMC-1) (shadowfax1007) [AUD].txt"
@@ -295,7 +295,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Grant Park",
-      "notes": "Lollapalooza · indykid",
+      "notes": "Lollapalooza \u00b7 indykid",
       "version": "Webcast",
       "format": "TS",
       "textFile": "2017-08-04 - Chicago, IL - Grant Park - Lollapalooza (indykid) [WEBCAST].txt"
@@ -309,7 +309,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "notes": "iHeartRadio · indykid",
+      "notes": "iHeartRadio \u00b7 indykid",
       "version": "Webcast",
       "format": "TS",
       "textFile": "2020-01-18 - Inglewood, CA - The Forum - iHeartRadio ALTer EGO '20 (indykid) [Webcast].txt"
@@ -323,7 +323,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Sahara",
-      "notes": "Coachella · YouTube Stream · unk",
+      "notes": "Coachella \u00b7 YouTube Stream \u00b7 unk",
       "version": "Webcast",
       "format": "MKV",
       "textFile": "2023-04-14 - Indio, CA - Sahara - Coachella Week One (YouTube Stream) (unk) [MKV].txt"
@@ -337,7 +337,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Sahara Tent",
-      "notes": "Coachella · SP-CMC-8 · unk",
+      "notes": "Coachella \u00b7 SP-CMC-8 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-04-14 - Indio, CA - Sahara Tent - Coachella (SP-CMC-8) (unk) [AUD24].txt"
@@ -365,7 +365,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella",
-      "notes": "Weekend 2 · SP-CMC-8 · fried_morals",
+      "notes": "Weekend 2 \u00b7 SP-CMC-8 \u00b7 fried_morals",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-04-23 - Indio, CA - Coachella (Weekend 2) (SP-CMC-8) (fried_morals) [AUD24].txt"
@@ -379,7 +379,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "PPG Paints Arena",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-05-17 - Pittsburgh, PA - PPG Paints Arena (SP-CMC-8) (live2cd) [AUD24].txt"
@@ -393,7 +393,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "BMO Stadium",
-      "notes": "SP-CMC-4U · ijwthstd",
+      "notes": "SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-06-16 - Los Angeles, CA - BMO Stadium (SP-CMC-4U) (ijwthstd) [AUD].txt"
@@ -407,7 +407,7 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Brisbane, AUS",
       "venue": "Brisbane Entertainment Centre",
-      "notes": "SP-BMC-12 · bnelive",
+      "notes": "SP-BMC-12 \u00b7 bnelive",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-02-19 - Brisbane, AUS - Brisbane Entertainment Centre (SP-BMC-12) (bnelive) [AUD24].txt"
@@ -421,7 +421,7 @@ const ARTIST_DATA = {
       "state": "Chile",
       "location": "Santiago, Chile",
       "venue": "Cenco Malls Stage",
-      "notes": "Lollapalooza · fstambuk",
+      "notes": "Lollapalooza \u00b7 fstambuk",
       "version": "Webcast",
       "format": "MKV",
       "textFile": "2024-03-16 - Santiago, Chile - Cenco Malls Stage - Lollapalooza (fstambuk) [MKV].txt"
@@ -449,7 +449,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "SoFi Stadium",
-      "notes": "SP-CMC-4U · ijwthstd",
+      "notes": "SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-07-06 - Inglewood, CA - SoFi Stadium (SP-CMC-4U) (ijwthstd) [AUD].txt"
@@ -463,7 +463,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Flushing, NY",
       "venue": "Citi Field",
-      "notes": "Zoom H1n · waymuu",
+      "notes": "Zoom H1n \u00b7 waymuu",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-07-21 - Flushing, NY - Citi Field (Zoom H1n) (waymuu) [AUD].txt"
@@ -477,10 +477,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Flushing, NY",
       "venue": "Citi Field",
-      "notes": "Zoom H4N · peter",
+      "notes": "Zoom H4N \u00b7 peter",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2024-07-21 - Flushing, NY - Citi Field (Zoom H1n) (waymuu) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2024,

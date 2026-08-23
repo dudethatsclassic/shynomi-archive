@@ -725,7 +725,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-09-17 - Chicago, IL - The Empty Bottle [AUD].txt"
+      "textFile": "1994-09-17 - Chicago, IL - Empty Bottle (Realistic) (aadamjacobs) [AUD].txt"
     },
     {
       "year": 1994,

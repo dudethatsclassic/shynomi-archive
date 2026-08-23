@@ -4830,7 +4830,7 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Durham, NH",
       "venue": "Whittemore Center Arena",
-      "notes": "Sony PCM-A10 · darrenphaneuf",
+      "notes": "Sony PCM-A10 \u00b7 darrenphaneuf",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-07-28 - Durham, NH - Whittemore Center Arena (Sony PCM-A10) (darrenphaneuf) [AUD].txt"
@@ -4844,7 +4844,7 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Bangor, ME",
       "venue": "Maine Savings Amphitheater At Bangor Waterfront",
-      "notes": "Sony PCM-A10 · darrenphaneuf · remaster",
+      "notes": "Sony PCM-A10 \u00b7 darrenphaneuf \u00b7 remaster",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-07-29 - Bangor, ME - Maine Savings Amphitheater At Bangor Waterfront (Sony PCM-A10) (darrenphaneuf) (shanecalhoon remaster) [AUD].txt"
@@ -4858,7 +4858,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland Heights, OH",
       "venue": "Cain Park Evans Amphitheater",
-      "notes": "iPhone 17 Pro · g-meyers",
+      "notes": "iPhone 17 Pro \u00b7 g-meyers",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-08-02 - Cleveland Heights, OH - Cain Park Evans Amphitheater (iPhone 17 Pro) (g-meyers) [AUD24].txt"
@@ -4872,7 +4872,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "Meijer Gardens",
-      "notes": "iPhone 17 Pro · g-meyers",
+      "notes": "iPhone 17 Pro \u00b7 g-meyers",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-08-05 - Grand Rapids, MI - Meijer Gardens (iPhone 17 Pro) (g-meyers) [AUD24].txt"
@@ -4886,7 +4886,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "New Lenox, IL",
       "venue": "Performing Arts Pavilion",
-      "notes": "iPhone 17 Pro · dforrrest",
+      "notes": "iPhone 17 Pro \u00b7 dforrrest",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-08-08 - New Lenox, IL - Performing Arts Pavilion (iPhone 17 Pro) (dforrrest) [AUD24].txt"

@@ -1,0 +1,75 @@
+Death Cab for Cutie
+2026-08-09
+Early set
+Outside Lands Music Festival - Sutro Stage
+Golden Gate Park
+San Francisco, CA
+
+Lineage: Twitch LIVE webcast -> yt-dlp -> Avidemux (trimmed on keyframes) -> ts Muxer -> .ts
+Video: MPEG4 Video (H264) 1920x1080 16:9 5345 Kbps 29.970 fps Length 48:12
+Audio: AAC 128 Kbps 48.0 KHz stereo
+
+Death Cab for Cutie performed their album 'Plans' in its entirety during their first set at Outside Lands.
+
+Setlist:
+
+01. Marching Bands of Manhattan
+02. Soul Meets Body
+03. Summer Skin
+04. Different Names for the Same Thing
+05. I Will Follow You Into the Dark
+06. Your Heart Is an Empty Room
+07. Someday You Will Be Loved
+08. Crooked Teeth
+09. What Sarah Said
+10. Brothers on a Hotel Bed
+11. Stable Song
+
+
+
+Attributes of Video:
+
+Format : MPEG-TS
+File size : 1.80 GiB
+Duration : 48 min 12 s
+Overall bit rate mode : Variable
+Overall bit rate : 5 345 kb/s
+
+Video
+ID : 256 (0x100)
+Menu ID : 1 (0x1)
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4
+Format settings : CABAC / 4 Ref Frames
+Format settings, CABAC : Yes
+Format settings, Reference frames : 4 frames
+Codec ID : 27
+Duration : 48 min 12 s
+Bit rate mode : Constant
+Nominal bit rate : 5 000 kb/s
+Width : 1 920 pixels
+Height : 1 080 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Variable
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+
+Audio
+ID : 257 (0x101)
+Menu ID : 1 (0x1)
+Format : AAC LC
+Format/Info : Advanced Audio Codec Low Complexity
+Format version : Version 4
+Muxing mode : ADTS
+Codec ID : 15-2
+Duration : 48 min 12 s
+Bit rate mode : Variable
+Channel(s) : 2 channels
+Channel layout : L R
+Sampling rate : 48.0 kHz
+Frame rate : 46.875 FPS (1024 SPF)
+Compression mode : Lossy
+Delay relative to video : 4 ms

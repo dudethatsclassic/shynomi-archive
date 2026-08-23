@@ -1,0 +1,40 @@
+SILVERCHAIR
+January 03, 1996
+Homebake Festival
+Byron Bay, NSW, AU  
+
+DISC #1/1 (38:26)
+-----------------
+01) Leave Me Out
+02) Slave
+03) Suicidal Dream
+04) Tomorrow
+05) New Race
+06) Faultline
+07) Learn To Hate
+08) Israel's Son  
+
+GENERATION
+-----------------
+CD[Mud Bath At Homebake] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Sony DVD-ROM DDU1621 -> Exact Audio Copy v 0.95 BETA -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+2c3294b3376fe5840165d364fde506f9 *silverchair1996-01-03t01.flac
+e94c192f57b8aa4c5a1c0428e1355935 *silverchair1996-01-03t02.flac
+a5bdb3a4daa03493c6d4d1088f88ac4a *silverchair1996-01-03t03.flac
+5ff135b751eb8d3ba81fe193cff34b9d *silverchair1996-01-03t04.flac
+d1fc1e720f7596637cc51943930c0faa *silverchair1996-01-03t05.flac
+075ccdc1f679f37b6a8c08258a525ca3 *silverchair1996-01-03t06.flac
+32176b8c8b50761c754ec3642ff69c88 *silverchair1996-01-03t07.flac
+a2047a24b6f693049477918144216cdb *silverchair1996-01-03t08.flac
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
