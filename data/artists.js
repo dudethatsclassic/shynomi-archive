@@ -2438,7 +2438,7 @@ const ARTISTS = [
   {
     "id": "silverchair",
     "name": "Silverchair",
-    "showCount": 103,
+    "showCount": 104,
     "firstYear": 1995,
     "lastYear": 2007
   },
