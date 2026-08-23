@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "death-cab-for-cutie",
   "name": "Death Cab For Cutie",
   "drive": "D",
-  "showCount": 129,
+  "showCount": 130,
   "firstYear": 1998,
   "lastYear": 2024,
   "years": [
@@ -1799,6 +1799,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-05-06 - Milwaukee, WI - Miller High Life Theatre (Zoom iQ7) (poul0004) [AUD].txt"
+    },
+    {
+      "year": 2024,
+      "month": 5,
+      "day": 6,
+      "dateStr": "5-6-2024",
+      "city": "Milwaukee",
+      "state": "WI",
+      "location": "Milwaukee, WI",
+      "venue": "Miller High Life Theatre",
+      "notes": "Zoom iQ7 · poul0004",
+      "version": "",
+      "format": ""
     }
   ]
 };
