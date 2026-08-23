@@ -618,7 +618,7 @@ const ARTISTS = [
   {
     "id": "death-cab-for-cutie",
     "name": "Death Cab For Cutie",
-    "showCount": 129,
+    "showCount": 130,
     "firstYear": 1998,
     "lastYear": 2024
   },
