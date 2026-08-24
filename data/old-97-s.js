@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "old-97-s",
   "name": "Old 97's",
   "drive": "E",
-  "showCount": 9,
+  "showCount": 10,
   "firstYear": 1996,
   "lastYear": 2026,
   "years": [
@@ -111,6 +111,19 @@ const ARTIST_DATA = {
       "version": "SBD",
       "format": "FLAC",
       "textFile": "2013-03-15 - Port Chester, NY - Capitol Theatre (unk) [SBD].txt"
+    },
+    {
+      "year": 2013,
+      "month": 5,
+      "day": 24,
+      "dateStr": "5-24-2013",
+      "city": "St. Louis",
+      "state": "MO",
+      "location": "St. Louis, MO",
+      "venue": "The Pageant Theatre",
+      "notes": "Studio Projects C4 · shanecalhoon",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2014,
