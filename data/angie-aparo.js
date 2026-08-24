@@ -23,7 +23,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ferndale, MI",
       "venue": "The Magic Bag",
-      "notes": "CSBs \u00b7 tapersec1968",
+      "notes": "CSBs · tapersec1968",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-04-28 - Ferndale, MI - The Magic Bag (CSBs) (tapersec1968) [AUD].txt"
@@ -37,7 +37,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Annapolis, MD",
       "venue": "Ram's Head Onstage",
-      "notes": "DPA 4061 \u00b7 scott pendleton",
+      "notes": "DPA 4061 · scott pendleton",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-11-14 - Annapolis, MD - Ram's Head Onstage (DPA 4061) (scott pendleton) [AUD].txt"
@@ -51,7 +51,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Annapolis, MD",
       "venue": "Rams Head Tavern",
-      "notes": "SP-SPSM-4b \u00b7 chris webb",
+      "notes": "SP-SPSM-4b · chris webb",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-11-14 - Annapolis, MD - Rams Head Tavern (SP-SPSM-4b) (chris webb) [AUD].txt"
@@ -78,7 +78,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "The Funk Box",
-      "notes": "SP-SPSM-4b \u00b7 chris webb",
+      "notes": "SP-SPSM-4b · chris webb",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-05-14 - Baltimore, MD - The Funk Box (SP-SPSM-4b) (chris webb) [AUD].txt"
@@ -92,7 +92,7 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Greenville, SC",
       "venue": "HandleBar",
-      "notes": "Gefell M300s \u00b7 andrew gresko",
+      "notes": "Gefell M300s · andrew gresko",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-06-10 - Greenville, SC - HandleBar (Gefell M300s) (andrew gresko) [AUD].txt"
@@ -106,7 +106,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Chattanooga, TN",
       "venue": "Rhythm & Brews",
-      "notes": "OKMIIR \u00b7 aa_rocks2005",
+      "notes": "OKMIIR · aa_rocks2005",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-01-29 - Chattanooga, TN - Rhythm & Brews (OKMIIR) (aa_rocks2005) [AUD].txt"
@@ -120,7 +120,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Chattanooga, TN",
       "venue": "Rhythm & Brews",
-      "notes": "AT831 \u00b7 c.h.",
+      "notes": "AT831 · c.h.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-03-31 - Chattanooga, TN - Rhythm & Brews (AT831) (c.h.) [AUD].txt"
@@ -134,7 +134,7 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Jammin' Java",
-      "notes": "miniDV \u00b7 unk",
+      "notes": "miniDV · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-08-19 - Vienna, VA - Jammin' Java (miniDV) (unk) [AUD].txt"
@@ -148,7 +148,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Bethania, NC",
       "venue": "Muddy Creek Music Hall",
-      "notes": "Tascam DR-40 \u00b7 will foy",
+      "notes": "Tascam DR-40 · will foy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-06-02 - Bethania, NC - Muddy Creek Music Hall (Tascam DR-40) (will foy) [AUD].txt"
