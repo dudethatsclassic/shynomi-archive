@@ -35,7 +35,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Pier 17",
-      "notes": "Zoom H1n \u00b7 peter",
+      "notes": "Zoom H1n · peter",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-10-08 - New York, NY - Pier 17 (Zoom H1n) (peter) [AUD].txt"
@@ -49,7 +49,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Garden Grove, CA",
       "venue": "Garden Amphitheatre",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-02-04 - Garden Grove, CA - Garden Amphitheatre (DPA 4081) (faninor) [AUD24].txt"
@@ -63,7 +63,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "YouTube Theater",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-10-03 - Inglewood, CA - YouTube Theater (DPA 4081) (faninor) [AUD24].txt"
@@ -77,7 +77,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Observatory North Park",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-10-15 - San Diego, CA - Observatory North Park (DPA 4081) (faninor) [AUD24].txt"
@@ -91,7 +91,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Wiltern",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-10-16 - Los Angeles, CA - Wiltern  (DPA 4081) (faninor) [AUD24].txt"
