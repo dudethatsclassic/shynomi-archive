@@ -989,7 +989,7 @@ const ARTISTS = [
   {
     "id": "goo-goo-dolls",
     "name": "Goo Goo Dolls",
-    "showCount": 32,
+    "showCount": 33,
     "firstYear": 1990,
     "lastYear": 2026
   },
@@ -1948,7 +1948,7 @@ const ARTISTS = [
   {
     "id": "old-97-s",
     "name": "Old 97's",
-    "showCount": 9,
+    "showCount": 10,
     "firstYear": 1996,
     "lastYear": 2026
   },
