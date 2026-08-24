@@ -19,7 +19,7 @@ const ARTIST_DATA = {
       "state": "NM",
       "location": "Albuquerque, NM",
       "venue": "State Fairgrounds",
-      "notes": "Aiwa HS-J1 \u00b7 langdon",
+      "notes": "Aiwa HS-J1 · langdon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1982-09-16 - Albuquerque, NM - State Fairgrounds (Aiwa HS-J1) (langdon) [AUD].txt"
@@ -33,7 +33,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York City, NY",
       "venue": "Ritz",
-      "notes": "Shure \u00b7 twous",
+      "notes": "Shure · twous",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1989-05-06 - New York City, NY - Ritz (Shure) (twous) [AUD].txt"
