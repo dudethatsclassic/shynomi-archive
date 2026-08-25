@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "foo-fighters",
   "name": "Foo Fighters",
   "drive": "C",
-  "showCount": 1081,
+  "showCount": 1085,
   "firstYear": 1995,
   "lastYear": 2026,
   "years": [
@@ -14583,8 +14583,8 @@ const ARTIST_DATA = {
       "location": "Buenos Aires, Argentina",
       "venue": "Hipódromo de San Isidro",
       "notes": "youtube",
-      "version": "",
-      "format": ""
+      "version": "WE",
+      "format": "MP4"
     },
     {
       "year": 2022,
@@ -15130,6 +15130,58 @@ const ARTIST_DATA = {
       "version": "PRO #1",
       "format": "MKV",
       "textFile": "2026-07-10 - Oeiras, Portugal - Passeio Marítimo de Algés (NOS Alive) (foofighterslive.com) [MKV].txt"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "day": 8,
+      "dateStr": "8-8-2026",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Soldier Field",
+      "notes": "Schoeps MK4s · tapeworm48",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "day": 10,
+      "dateStr": "8-10-2026",
+      "city": "Cleveland",
+      "state": "OH",
+      "location": "Cleveland, OH",
+      "venue": "Huntington Bank Field",
+      "notes": "SP-CMC-8 · unk",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "day": 22,
+      "dateStr": "8-22-2026",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "Hollywood Bowl",
+      "notes": "Celebrating Gustavo at the Bowl · Sound Pro SP-CMC-4U · ijwthstd",
+      "version": "AUD #1",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "day": 24,
+      "dateStr": "8-24-2026",
+      "city": "Toronto",
+      "state": "ON",
+      "location": "Toronto, ON",
+      "venue": "Rogers Stadium",
+      "notes": "Zoom H1n · bowlingron",
+      "version": "AUD #1",
+      "format": "FLAC"
     }
   ]
 };
