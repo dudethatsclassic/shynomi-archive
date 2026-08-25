@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "foo-fighters",
   "name": "Foo Fighters",
   "drive": "C",
-  "showCount": 1076,
+  "showCount": 1081,
   "firstYear": 1995,
   "lastYear": 2026,
   "years": [
@@ -1440,6 +1440,19 @@ const ARTIST_DATA = {
     {
       "year": 1995,
       "month": 8,
+      "day": 8,
+      "dateStr": "8-8-1995",
+      "city": "Toronto",
+      "state": "ON",
+      "location": "Toronto, ON",
+      "venue": "Phoenix Concert Centre",
+      "notes": "VHS(1) · seanfoster",
+      "version": "AMT #1",
+      "format": "MKV"
+    },
+    {
+      "year": 1995,
+      "month": 8,
       "day": 11,
       "dateStr": "8-11-1995",
       "city": "Boston",
@@ -1869,7 +1882,7 @@ const ARTIST_DATA = {
       "notes": "Modena Open Air Festival",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-09-03 - Modena, Italy - Festa dell'Unit\u00e0 - Video8(M) (paololusenti) [MKV].txt"
+      "textFile": "1995-09-03 - Modena, Italy - Festa dell'Unità - Video8(M) (paololusenti) [MKV].txt"
     },
     {
       "year": 1995,
@@ -3574,6 +3587,19 @@ const ARTIST_DATA = {
       "textFile": "1996-07-19 - Stratford-upon-Avon, UK - Long Marston Airfield - Phoenix Fest - DAT(M) (loughney transfer) [SBD].txt"
     },
     {
+      "year": 1996,
+      "month": 7,
+      "day": 19,
+      "dateStr": "7-19-1996",
+      "city": "Long Marston",
+      "state": "United Kingdom",
+      "location": "Long Marston, United Kingdom",
+      "venue": "Long Marston Airfield",
+      "notes": "Phoenix · VHS(x · unk",
+      "version": "AMT #1",
+      "format": "MKV"
+    },
+    {
       "year": 1997,
       "month": 4,
       "day": 1,
@@ -3782,6 +3808,19 @@ const ARTIST_DATA = {
       "version": "AUD #1",
       "format": "FLAC",
       "textFile": "1997-05-28 - London, UK - Astoria Theatre [AUD #1].txt"
+    },
+    {
+      "year": 1997,
+      "month": 5,
+      "day": 28,
+      "dateStr": "5-28-1997",
+      "city": "London",
+      "state": "United Kingdom",
+      "location": "London, United Kingdom",
+      "venue": "Astoria Theatre",
+      "notes": "Hi8(M) · unk",
+      "version": "AMT #1",
+      "format": "MKV"
     },
     {
       "year": 1997,
@@ -6887,6 +6926,19 @@ const ARTIST_DATA = {
       "version": "AUD #2",
       "format": "FLAC",
       "textFile": "2000-05-13 - Providence, RI - Civic Center [AUD #2].txt"
+    },
+    {
+      "year": 2000,
+      "month": 5,
+      "day": 13,
+      "dateStr": "5-13-2000",
+      "city": "Providence",
+      "state": "RI",
+      "location": "Providence, RI",
+      "venue": "Newbury Comics Outdoor",
+      "notes": "TV-VHS(1) · nickserra",
+      "version": "PRO #1",
+      "format": "MKV"
     },
     {
       "year": 2000,
@@ -14520,6 +14572,19 @@ const ARTIST_DATA = {
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2022-03-20 - Buenos Aires, Argentina - Hipodromo de San Isidro - Lollapalooza 2022 (Zoom H1 + YouTube) [MIX].txt"
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 20,
+      "dateStr": "3-20-2022",
+      "city": "Buenos Aires",
+      "state": "Argentina",
+      "location": "Buenos Aires, Argentina",
+      "venue": "Hipódromo de San Isidro",
+      "notes": "youtube",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2022,
