@@ -1113,19 +1113,19 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "B-sides & Rarities",
+    "label": "Weezer - B-sides & Rarities",
     "format": "FLAC",
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Songs from the Black Hole",
+    "label": "Weezer - Songs from the Black Hole",
     "format": "FLAC",
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Reading and Lowlands Festival *Festivals 1996",
+    "label": "Weezer - Reading and Lowlands Festival *Festivals 1996",
     "version": "FM",
     "format": "FLAC",
     "year": 1996,
@@ -1133,7 +1133,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Video Capture Device: Treasures from the Vault 1991-2002 (Official Release)",
+    "label": "Weezer - Video Capture Device: Treasures from the Vault 1991-2002 (Official Release)",
     "format": "DVD",
     "year": 1991,
     "category": "OTHER"
@@ -1156,7 +1156,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "The Extended Midget Tour",
+    "label": "Weezer - The Extended Midget Tour",
     "format": "MP3",
     "category": "OTHER"
   },
@@ -1266,20 +1266,20 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "OK Human (Live Separate Audio Tracks)",
+    "label": "Weezer - OK Human (Live Separate Audio Tracks)",
     "format": "M4A",
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "The Good Life (Sweden Promo CD) (1996)",
+    "label": "Weezer - The Good Life (Sweden Promo CD) (1996)",
     "format": "FLAC",
     "year": 1996,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "The Good Life Radio Single {PRO-CD-1075} (1996)",
+    "label": "Weezer - The Good Life Radio Single {PRO-CD-1075} (1996)",
     "format": "FLAC",
     "year": 1996,
     "category": "OTHER"
@@ -1293,7 +1293,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "The Good Life OZ EP {Geffen GEFDM 22202} (1997)",
+    "label": "Weezer - The Good Life OZ EP {Geffen GEFDM 22202} (1997)",
     "format": "FLAC",
     "year": 1997,
     "category": "OTHER"
@@ -1307,14 +1307,14 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Where Is My Mind - A Tribute to the Pixies (1999)",
+    "label": "Weezer - Where Is My Mind - A Tribute to the Pixies (1999)",
     "format": "FLAC",
     "year": 1999,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Christmas CD {Geffen INTR-10267-2} (2000)",
+    "label": "Weezer - Christmas CD {Geffen INTR-10267-2} (2000)",
     "format": "FLAC",
     "year": 2000,
     "category": "OTHER"
@@ -1328,27 +1328,27 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Hash Pipe (Promo) (2001)",
+    "label": "Weezer - Hash Pipe (Promo) (2001)",
     "format": "FLAC",
     "year": 2001,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Hash Pipe (The Remixes) (2001)",
+    "label": "Weezer - Hash Pipe (The Remixes) (2001)",
     "format": "FLAC",
     "year": 2001,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Hash Pipe Full Album Mispress (Germany INTR-10362-2)",
+    "label": "Weezer - Hash Pipe Full Album Mispress (Germany INTR-10362-2)",
     "format": "FLAC",
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Hashpipe (Unmastered) (2001)",
+    "label": "Weezer - Hash Pipe (Unmastered) (2001)",
     "format": "FLAC",
     "year": 2001,
     "category": "OTHER"
@@ -1393,49 +1393,49 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Washington DC Monster Island Studio Demos (2001.05.27)",
+    "label": "Weezer - Washington DC Monster Island Studio Demos (2001.05.27)",
     "format": "MP3",
     "year": 2001,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Station I.D.s (2001)",
+    "label": "Weezer - Station I.D.s (2001)",
     "format": "MP3",
     "year": 2001,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Sage & Sound Demos SnS (2001.09.06) (2001)",
+    "label": "Weezer - Sage & Sound Demos SnS (2001.09.06) (2001)",
     "format": "MP3",
     "year": 2001,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Photograph (Promo Mix) (2001)",
+    "label": "Weezer - Photograph (Promo Mix) (2001)",
     "format": "FLAC",
     "year": 2001,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Maladroit Demos & Mixes [weezer.com session uploads] (2001)",
+    "label": "Weezer - Maladroit Demos & Mixes [weezer.com session uploads] (2001)",
     "format": "MP3",
     "year": 2001,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Green Album Oddities (2001)",
+    "label": "Weezer - Green Album Oddities (2001)",
     "format": "FLAC",
     "year": 2001,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Weezer.com Exclusives",
+    "label": "Weezer - Weezer.com Exclusives",
     "format": "MP3",
     "category": "OTHER"
   },
@@ -1447,32 +1447,32 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Untitled French Promo (3 Titres Inédits)",
+    "label": "Weezer - Untitled French Promo (3 Titres Inédits)",
     "format": "FLAC",
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Keep Fishin (German Promo CD)",
+    "label": "Weezer - Keep Fishin (German Promo CD)",
     "format": "FLAC",
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Dope Nose (French Promo CD)",
+    "label": "Weezer - Dope Nose (French Promo CD)",
     "format": "FLAC",
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "2002 Randoms",
+    "label": "Weezer - 2002 Randoms",
     "format": "FLAC + MP3",
     "year": 2002,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Buddyhead Presents - Give Me Skelter (2002)",
+    "label": "Weezer - Buddyhead Presents - Give Me Skelter (2002)",
     "format": "FLAC",
     "year": 2002,
     "category": "OTHER"
@@ -1493,49 +1493,49 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "2008 Oddities",
+    "label": "Weezer - 2008 Oddities",
     "format": "MP3",
     "year": 2008,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Christmas With Weezer (2008)",
+    "label": "Weezer - Christmas With Weezer (2008)",
     "format": "FLAC",
     "year": 2008,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Christmas With Weezer (Original Tap Tap Revenge Mixes) (2008)",
+    "label": "Weezer - Christmas With Weezer (Original Tap Tap Revenge Mixes) (2008)",
     "format": "M4A",
     "year": 2008,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Pork and Beans EP (2008)",
+    "label": "Weezer - Pork and Beans EP (2008)",
     "format": "FLAC + M4A",
     "year": 2008,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Red Bonus Tracks (2008)",
+    "label": "Weezer - Red Bonus Tracks (2008)",
     "format": "FLAC",
     "year": 2008,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Troublemaker (The Remixes) (2008)",
+    "label": "Weezer - Troublemaker (The Remixes) (2008)",
     "format": "FLAC",
     "year": 2008,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Troublemaker Remixes 12'' [24bit FLAC 3.18.19 Vinyl Rip] (2008)",
+    "label": "Weezer - Troublemaker Remixes 12'' [24bit FLAC 3.18.19 Vinyl Rip] (2008)",
     "format": "FLAC",
     "year": 2008,
     "category": "OTHER"
@@ -1568,185 +1568,185 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Raditude Digital EP",
+    "label": "Weezer - Raditude Digital EP",
     "format": "MP3",
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Raditude (Jacknife Lee Version)",
+    "label": "Weezer - Raditude (Jacknife Lee Version)",
     "format": "MP3",
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "iTunes Pass The Weezer Raditude Club",
+    "label": "Weezer - iTunes Pass The Weezer Raditude Club",
     "format": "FLAC + M4A",
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "I Want You To (Remixes)",
+    "label": "Weezer - I Want You To (Remixes)",
     "format": "MP3",
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "2009 Oddities",
+    "label": "Weezer - 2009 Oddities",
     "format": "FLAC + MP3",
     "year": 2009,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Like a Good Neighbor (2011)",
+    "label": "Weezer - Like a Good Neighbor (2011)",
     "format": "FLAC",
     "year": 2011,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "2010 Oddities",
+    "label": "Weezer - 2010 Oddities",
     "format": "FLAC + MP3",
     "year": 2010,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Hang On [Single Mix] (2010)",
+    "label": "Weezer - Hang On [Single Mix] (2010)",
     "format": "FLAC",
     "year": 2010,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "iTunes Originals (2010)",
+    "label": "Weezer - iTunes Originals (2010)",
     "format": "FLAC",
     "year": 2010,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Represent (2010)",
+    "label": "Weezer - Represent (2010)",
     "format": "FLAC",
     "year": 2010,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Represent (iTunes Single) (2010)",
+    "label": "Weezer - Represent (iTunes Single) (2010)",
     "format": "M4A",
     "year": 2010,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Rivers Cuomo & The Cathy Santonies (2010)",
+    "label": "Weezer - Rivers Cuomo & The Cathy Santonies (2010)",
     "format": "MP3",
     "year": 2010,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Sirius XM Live in Studio (2010)",
+    "label": "Weezer - Sirius XM Live in Studio (2010)",
     "format": "MP3",
     "year": 2010,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "The Death To False Metal & Pinkerton Deluxe Sampler (2010)",
+    "label": "Weezer - The Death To False Metal & Pinkerton Deluxe Sampler (2010)",
     "format": "FLAC",
     "year": 2010,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "2014 Oddities",
+    "label": "Weezer - 2014 Oddities",
     "format": "MP3",
     "year": 2014,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Back To The Shack (2014)",
+    "label": "Weezer - Back To The Shack (2014)",
     "format": "FLAC",
     "year": 2014,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Everything Will Be Alright In The End (Instrumentals) (2014)",
+    "label": "Weezer - Everything Will Be Alright In The End (Instrumentals) (2014)",
     "format": "MP3",
     "year": 2014,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Everything Will Be Alright In The End {Rough Mix - Set 2} (2014)",
+    "label": "Weezer - Everything Will Be Alright In The End {Rough Mix - Set 2} (2014)",
     "format": "MP3",
     "year": 2014,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "EWBAITE Vocals (2014)",
+    "label": "Weezer - EWBAITE Vocals (2014)",
     "format": "MP3",
     "year": 2014,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "2015 Oddities",
+    "label": "Weezer - 2015 Oddities",
     "format": "M4A",
     "year": 2015,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Everybody Needs Salvation (Vinyl) {WFC-001} (2015)",
+    "label": "Weezer - Everybody Needs Salvation (Vinyl) {WFC-001} (2015)",
     "format": "FLAC",
     "year": 2015,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Weezer x Wavves - Split EP (2016)",
+    "label": "Weezer - Weezer x Wavves - Split EP (2016)",
     "format": "FLAC",
     "year": 2016,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "The Last Days of Summer Vinyl (2016)",
+    "label": "Weezer - The Last Days of Summer Vinyl (2016)",
     "format": "FLAC",
     "year": 2016,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Thank God For Girls Live Debut (2016)",
+    "label": "Weezer - Thank God For Girls Live Debut (2016)",
     "format": "MP3",
     "year": 2016,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Spotify Sessions (2016)",
+    "label": "Weezer - Spotify Sessions (2016)",
     "format": "FLAC",
     "year": 2016,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "2017 Oddities",
+    "label": "Weezer - 2017 Oddities",
     "format": "FLAC",
     "year": 2017,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Pacific Daydream Fan Remaster (2017)",
+    "label": "Weezer - Pacific Daydream Fan Remaster (2017)",
     "format": "MP3",
     "year": 2017,
     "category": "OTHER"
@@ -1760,40 +1760,40 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Rosanna",
+    "label": "Weezer - Rosanna",
     "format": "FLAC + MP3",
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Africa",
+    "label": "Weezer - Africa",
     "format": "FLAC + M4A",
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "2018 Oddities",
+    "label": "Weezer - 2018 Oddities",
     "format": "FLAC",
     "year": 2018,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "2019 Oddities",
+    "label": "Weezer - 2019 Oddities",
     "format": "FLAC",
     "year": 2019,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Black Album clean Fortnite tracks (2019)",
+    "label": "Weezer - Black Album clean Fortnite tracks (2019)",
     "format": "OGG",
     "year": 2019,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Dusty Gems and Raw Nuggets [24-96 Vinyl Rip] (2019)",
+    "label": "Weezer - Dusty Gems and Raw Nuggets [24-96 Vinyl Rip] (2019)",
     "format": "FLAC",
     "year": 2019,
     "category": "OTHER"
@@ -1807,35 +1807,35 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "2020 Oddities",
+    "label": "Weezer - 2020 Oddities",
     "format": "FLAC + MP3",
     "year": 2020,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Island In The Zoom (2020)",
+    "label": "Weezer - Island In The Zoom (2020)",
     "format": "MP3",
     "year": 2020,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "2021 Oddities",
+    "label": "Weezer - 2021 Oddities",
     "format": "FLAC +MP3 + MOV",
     "year": 2021,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Audible Interview (2021)",
+    "label": "Weezer - Audible Interview (2021)",
     "format": "MP3",
     "year": 2021,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "OK Human Photoshoot (2021)",
+    "label": "Weezer - OK Human Photoshoot (2021)",
     "format": "JPG",
     "year": 2021,
     "category": "OTHER"
@@ -1922,325 +1922,301 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Undone - The Sweater Song (1994) [FLAC] [UK, GFSTD 85]",
+    "label": "Weezer - Undone - The Sweater Song {UK, GFSTD 85} (1994)",
     "format": "FLAC",
     "year": 1994,
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Undone – The Sweater Song {Geffen GFSTD 85}",
+    "label": "Weezer - Undone – The Sweater Song {Geffen GFSTD 85}",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Buddy Holly {UK Geffen GFSTD 88}",
+    "label": "Weezer - Buddy Holly {UK Geffen GFSTD 88}",
     "format": "FLAC",
-    "category": "SINGLES",
-    "textFile": "MISC - Buddy Holly {UK Geffen GFSTD 88}.txt"
+    "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Christmas CD [INTR-10267-2] (2000)",
+    "label": "Weezer - Christmas CD {INTR-10267-2} (2000)",
     "format": "FLAC",
     "year": 2000,
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Say It Ain't So {Geffen GFSTD 95}",
+    "label": "Weezer - Say It Ain't So {Geffen GFSTD 95}",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "El Scorcho {Geffen GEFDM 22167}",
+    "label": "Weezer - El Scorcho {Geffen GEFDM 22167}",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Pink Triangle (Promo Single) {DGC PRO-CD-1102}",
+    "label": "Weezer - Pink Triangle (Promo Single) {DGC PRO-CD-1102}",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Hash Pipe (Digital Single)",
+    "label": "Weezer - Hash Pipe (Digital Single)",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Hash Pipe {UK Geffen 497 564-2}",
+    "label": "Weezer - Hash Pipe {UK Geffen 497 564-2}",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Hash Pipe [EU INTR-10362-2]",
+    "label": "Weezer - Hash Pipe {EU INTR-10362-2}",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Island In The Sun (2001) [FLAC] [EU, Geffen 497 610-2]",
+    "label": "Weezer - Island In The Sun {EU, Geffen 497 610-2} (2001)",
     "format": "FLAC",
     "year": 2001,
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Island In The Sun [UICF-5002] [FLAC]",
+    "label": "Weezer - Island In The Sun {UICF-5002} [FLAC]",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Island In The Sun [UK CD2 497 616-2]",
+    "label": "Weezer - Island In The Sun [UK CD2 497 616-2]",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Island In The Sun {Australia 497 635-2}",
+    "label": "Weezer - Island In The Sun {Australia 497 635-2}",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Keep Fishin' (Digital Single)",
+    "label": "Weezer - Keep Fishin' (Digital Single)",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Keep Fishin' {Europe Geffen 497 771-2}",
+    "label": "Weezer - Keep Fishin' {Europe Geffen 497 771-2}",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Keep Fishin' {Europe Geffen 497 792-2}",
+    "label": "Weezer - Keep Fishin' {Europe Geffen 497 792-2}",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Beverly Hills {Geffen 0602498817919}",
+    "label": "Weezer - Beverly Hills {Geffen 0602498817919}",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "We Are All On Drugs {Geffen 0602498834954}",
+    "label": "Weezer - We Are All On Drugs {Geffen 0602498834954}",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Pork And Beans (EU Promo CD)",
+    "label": "Weezer - Pork And Beans (EU Promo CD)",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Pork and Beans Digital EP",
+    "label": "Weezer - Pork and Beans Digital EP",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "(If You're Wondering If I Want You To) I Want You To (Digital Single)",
+    "label": "Weezer - (If You're Wondering If I Want You To) I Want You To (Digital Single)",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "The Last Days of Summer {WFC-002}",
+    "label": "Weezer - The Last Days of Summer {WFC-002}",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Feels Like Summer",
+    "label": "Weezer - Feels Like Summer",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Mexican Fender",
+    "label": "Weezer - Mexican Fender",
     "format": "FLAC",
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "The End of the Game (2019) {Crush Music - Atlantic} [24-44.1]",
+    "label": "Weezer - The End of the Game (2019) {Crush Music - Atlantic} (24-44.1)",
     "format": "FLAC",
     "year": 2019,
     "category": "SINGLES"
   },
   {
     "type": "release",
-    "label": "Blue Album (1994)",
-    "year": 1994,
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Weezer (Advance Copy)",
+    "label": "Weezer - Weezer (Advance Copy)",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Weezer (Deluxe Edition) {Geffen B0002139-02}",
+    "label": "Weezer - Weezer (Deluxe Edition) {Geffen B0002139-02}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Weezer [WEB FLAC]",
+    "label": "Weezer - Weezer [WEB FLAC]",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Weezer {MoFi MFSL 1-390} (24bit) [FLAC]",
-    "format": "FLAC HD",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Weezer MoFi SACD (UDSACD 2160)",
-    "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Weezer (1994) (24/192)",
+    "label": "Weezer - Weezer {MoFi MFSL 1-390} (24bit) (1994)",
     "format": "FLAC HD",
     "year": 1994,
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Pinkerton (1996)",
-    "year": 1996,
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Pinkerton (Advance Copy)",
+    "label": "Weezer - Weezer MoFi SACD {UDSACD 2160}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Pinkerton (Deluxe Edition) {US DGC B0012913-02}",
+    "label": "Weezer - Weezer (1994) (24/192)",
+    "format": "FLAC HD",
+    "year": 1994,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Weezer - Pinkerton (Advance Copy)",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Pinkerton {MoFi MFSL 1-393} [VINYL]",
+    "label": "Weezer - Pinkerton (Deluxe Edition) {US DGC B0012913-02}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Pinkerton Deluxe Edition Vinyl (US Geffen B0012913-01)",
+    "label": "Weezer - Pinkerton {MoFi MFSL 1-393} [VINYL]",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Pinkerton Vinyl (US Original Pressing Geffen DGC-25007)",
+    "label": "Weezer - Pinkerton Deluxe Edition Vinyl (US Geffen B0012913-01)",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Green Album (2001)",
-    "year": 2001,
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Weezer MoFi Vinyl (MFSL 1-394) [Old Rip]",
+    "label": "Weezer - Pinkerton Vinyl (US Original Pressing Geffen DGC-25007)",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Weezer Vinyl (Original Pressing US Geffen 069493045-1)",
+    "label": "Weezer - Weezer MoFi Vinyl {MFSL 1-394} (Old Rip)",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Weezer {Japanese UICF-1002}",
+    "label": "Weezer - Weezer Vinyl {Original Pressing US Geffen 069493045-1}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Weezer (The Green Album) {MFSL} [24bit FLAC] 3.18.19 Rip",
+    "label": "Weezer - Weezer {Japanese UICF-1002}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Weezer (The Green Album) {069493045-1 Green Translucent}",
+    "label": "Weezer - Weezer (The Green Album) {MFSL} [24bit FLAC] 3.18.19 Rip",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Maladroit (2002)",
-    "year": 2002,
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Maladroit {Japan UICF-1007}",
+    "label": "Weezer - Weezer (The Green Album) {069493045-1 Green Translucent}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Maladroit Vinyl (US Geffen 069493241-1)",
+    "label": "Weezer - Maladroit {Japan UICF-1007}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Maladroit (UK Promo CD)",
+    "label": "Weezer - Maladroit Vinyl (US Geffen 069493241-1)",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Maladroit (Unmastered German Promo)",
+    "label": "Weezer - Maladroit (UK Promo CD)",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Songs from the Forthcoming 'Maladroit' (LIGHTING HILL 11982)",
+    "label": "Weezer - Maladroit (Unmastered German Promo)",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Songs from the Forthcoming 'Maladroit' (LIGHTNING HILL 12020)",
+    "label": "Weezer - Songs from the Forthcoming 'Maladroit' (LIGHTING HILL 11982)",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Songs from the Forthcoming 'Maladroit' {BJM 11946)",
+    "label": "Weezer - Songs from the Forthcoming 'Maladroit' (LIGHTNING HILL 12020)",
+    "format": "FLAC",
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Weezer - Songs from the Forthcoming 'Maladroit' {BJM 11946)",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
@@ -2252,156 +2228,132 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "The Lion and the Witch EP {Geffen 0694934582} (2002)",
+    "label": "Weezer - The Lion and the Witch EP {Geffen 0694934582} (2002)",
     "format": "FLAC",
     "year": 2002,
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "The Lion and the Witch EP {MoFi MFSL 1-391} [VINYL24] (2002)",
+    "label": "Weezer - The Lion and the Witch EP {MoFi MFSL 1-391} [VINYL24] (2002)",
     "format": "FLAC",
     "year": 2002,
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Make Believe (2005)",
-    "year": 2005,
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Make Believe MoFi Vinyl (MFSL 1-395)",
+    "label": "Weezer - Make Believe MoFi Vinyl {MFSL 1-395}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Make Believe {Japan UICF-1040}",
+    "label": "Weezer - Make Believe {Japan UICF-1040}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Make Believe [Original Pressing]",
+    "label": "Weezer - Make Believe [Original Pressing]",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Make Believe (Unmastered)",
+    "label": "Weezer - Make Believe (Unmastered)",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Make Believe (UK Promo CD)",
+    "label": "Weezer - Make Believe (UK Promo CD)",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Red Album (2008)",
-    "year": 2008,
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Weezer (Red Album) {Japanese - UCIF 9057}",
+    "label": "Weezer - Weezer (Red Album) {Japanese - UCIF 9057}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Weezer Vinyl (US Geffen B0011135-01) [FLAC]",
+    "label": "Weezer - Weezer Vinyl (US Geffen B0011135-01) [FLAC]",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Weezer Deluxe Vinyl (US Self-Released) [FLAC]",
+    "label": "Weezer - Weezer Deluxe Vinyl (US Self-Released) [FLAC]",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Weezer 4.8.08 CD Ref Promo",
+    "label": "Weezer - Weezer 4.8.08 CD Ref Promo",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Weezer 4.24.08 CD Ref Promo",
+    "label": "Weezer - Weezer 4.24.08 CD Ref Promo",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Weezer B-Sides 4.24.08 CD Ref Promo",
+    "label": "Weezer - Weezer B-Sides 4.24.08 CD Ref Promo",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Six Hits (2008)",
+    "label": "Weezer - Six Hits (2008)",
     "format": "FLAC",
     "year": 2008,
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Raditude (2009)",
-    "year": 2009,
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Raditude (2009) {Japanese - UICF-1119, UICF-1120}",
+    "label": "Weezer - Raditude (2009) {Japanese - UICF-1119, UICF-1120}",
     "format": "FLAC",
     "year": 2009,
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Raditude Vinyl (US DGC B0013510-01)",
+    "label": "Weezer - Raditude Vinyl (US DGC B0013510-01)",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Death To False Metal (2010)",
-    "year": 2010,
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Death To False Metal [24bit FLAC] 3.19.2019",
+    "label": "Weezer - Death To False Metal (3.19.2019)",
     "format": "FLAC HD",
     "year": 2019,
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Death to False Metal {Japan UICY-1498}",
+    "label": "Weezer - Death to False Metal {Japan UICY-1498}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Death To False Metal Vinyl (US SRC-063)",
+    "label": "Weezer - Death To False Metal Vinyl {US SRC-063}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Death to False Metal (iTunes Edition)",
+    "label": "Weezer - Death to False Metal (iTunes Edition)",
     "format": "M4A",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Happy Record Store Day! {Interscope B0014167-02}",
+    "label": "Weezer - Happy Record Store Day! {Interscope B0014167-02}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
@@ -2413,13 +2365,13 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Hurley (Deluxe) {Japan EICP-1430}",
+    "label": "Weezer - Hurley (Deluxe) {Japan EICP-1430}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Hurley [24bit FLAC] 3.19.19 Sibilance",
+    "label": "Weezer - Hurley [24bit FLAC] 3.19.19 Sibilance",
     "format": "FLAC HD",
     "category": "OFFICIAL RELEASES"
   },
@@ -2431,25 +2383,25 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Everything Will Be Alright In The End (UK Promo CD)",
+    "label": "Weezer - Everything Will Be Alright In The End (UK Promo CD)",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Everything Will Be Alright In The End (US Republic B0021619-02)",
+    "label": "Weezer - Everything Will Be Alright In The End {US Republic B0021619-02}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Everything Will Be Alright In The End [24bit FLAC] 3.19.19",
+    "label": "Weezer - Everything Will Be Alright In The End [24bit FLAC] 3.19.19",
     "format": "FLAC HD",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Everything Will Be Alright In The End (24-96 HDtracks)",
+    "label": "Weezer - Everything Will Be Alright In The End (24-96 HDtracks)",
     "format": "FLAC HD",
     "category": "OFFICIAL RELEASES"
   },
@@ -2481,7 +2433,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Weezer {Japan WPCR-17591}",
+    "label": "Weezer - Weezer {Japan WPCR-17591}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
@@ -2493,13 +2445,13 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Pacific Daydream {Japan WPCR-17867}",
+    "label": "Weezer - Pacific Daydream {Japan WPCR-17867}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Pacific Daydream (2017) (24/96)",
+    "label": "Weezer - Pacific Daydream (2017) (24/96)",
     "format": "FLAC HD",
     "year": 2017,
     "category": "OFFICIAL RELEASES"
@@ -2512,13 +2464,13 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Weezer (Black Album) [WEB FLAC]",
+    "label": "Weezer - Weezer (Black Album) [WEB FLAC]",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Weezer (The Black Album) [24-96 Vinyl Rip]",
+    "label": "Weezer - Weezer (The Black Album) [24-96 Vinyl Rip]",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
@@ -2530,20 +2482,20 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Weezer (The Teal Album) (2019) [Vinyl-FLAC-24-192] {587378-1}",
+    "label": "Weezer - Weezer (The Teal Album) (2019) [Vinyl-FLAC-24-192] {587378-1}",
     "format": "FLAC",
     "year": 2019,
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Weezer (The Teal Album) [WEB FLAC]",
+    "label": "Weezer - Weezer (The Teal Album) [WEB FLAC]",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Weezer (Teal Album) (2019) (24/44.1)",
+    "label": "Weezer - Weezer (Teal Album) (2019) (24/44.1)",
     "format": "FLAC HD",
     "year": 2019,
     "category": "OFFICIAL RELEASES"
