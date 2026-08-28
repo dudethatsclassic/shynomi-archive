@@ -1850,6 +1850,12 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
+    "label": "Weezer - 1192 (Vinyl Rip)",
+    "format": "FLAC 24",
+    "category": "OTHER"
+  },
+  {
+    "type": "release",
     "label": "Weezer - Geezer {KTS-026-A} (1995)",
     "version": "Silver CD",
     "format": "FLAC",
