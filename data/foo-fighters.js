@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "foo-fighters",
   "name": "Foo Fighters",
   "drive": "C",
-  "showCount": 1085,
+  "showCount": 1086,
   "firstYear": 1995,
   "lastYear": 2026,
   "years": [
@@ -15156,6 +15156,19 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 · unk",
       "version": "AUD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "day": 13,
+      "dateStr": "8-13-2026",
+      "city": "Philadelphia",
+      "state": "PA",
+      "location": "Philadelphia, PA",
+      "venue": "Lincoln Financial Field",
+      "notes": "DPA 4061 · tapehead2",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2026,
