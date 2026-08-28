@@ -2512,7 +2512,21 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
+    "label": "Weezer - SZNZ Autumn {075678634338} (2022)",
+    "format": "FLAC",
+    "year": 2022,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
     "label": "Weezer - SZNZ Winter {075678634345} (2022)",
+    "format": "FLAC",
+    "year": 2022,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Weezer - SZNZ Spring {075678634314} (2022)",
     "format": "FLAC",
     "year": 2022,
     "category": "OFFICIAL RELEASES"
