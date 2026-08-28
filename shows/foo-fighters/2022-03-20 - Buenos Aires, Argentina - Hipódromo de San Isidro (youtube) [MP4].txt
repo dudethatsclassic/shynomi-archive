@@ -1,0 +1,97 @@
+FOO FIGHTERS
+Lollapalooza Argentina
+Hipódromo de San Isidro, Buenos Aires, Argentina
+20/03/2022
+
++ R.I.P. Taylor +
+
+GENERATION (PRO Shot):
+FLOW Webcast > MKV file [1080p MPEG-4/AAC LC SBR Stereo]
+NOTE:
+Last gig with Taylor on drums.
+
+TRACKLIST:
+1 Times Like These (Dave and Rami into full band)
+2 The Pretender
+3 Learn to Fly
+4 No Son of Mine
+5 The Sky Is a Neighborhood
+6 Shame Shame
+7 Breakout
+8 My Hero (Dave solo into full band)
+9 These Days
+10 Walk
+11 Guitar Solo / My Generation / Keyboard Solo / Gonna Make You Sweat / Blitzkrieg Bop (Band introductions)
+12 Somebody to Love (Dave on drums, Taylor on vocals)
+13 All My Life
+14 Run
+15 Wheels (Slow Version; dedicated to an audience member who painted a portrait of Dave and gave it to him)
+16 Best of You
+17 Been Caught Stealing (with Perry Farrell)
+18 Monkey Wrench
+19 Everlong
+
+Captured by unknown (thanks whoever you are)
+
+
+MEDIAINFO:
+Formato                                  : MPEG-4
+Formato del perfil                       : Base Media
+ID códec                                 : isom (isom/iso2/avc1/mp41)
+Tamaño de archivo                        : 3,78 GiB
+Duración                                 : 2 h 12 min
+Tasa de bits general                     : 4 069 kb/s
+Aplicación de codifición                 : Lavf59.20.101
+
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4
+Ajustes del formato                      : CABAC / 4 Ref Frames
+Ajustes del formato, CABAC               : Sí
+Ajustes del formato, RefFrames           : 4 fotogramas
+ID códec                                 : avc1
+ID códec/Info                            : Advanced Video Coding
+Duración                                 : 2 h 12 min
+Duración original                        : 2 h 12 min
+Tasa de bits                             : 3 998 kb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 080 píxeles
+Relación de aspecto                      : 16:9
+Modo velocidad fotogramas                : Constante
+Velocidad de fotogramas                  : 29,970 (29970/1000) FPS
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Progresivo
+Bits/(píxel*fotograma)                   : 0.064
+Tamaño de pista                          : 3,71 GiB (98%)
+Cantidad de pistas original              : 3,71 GiB (98%)
+Título                                   : Video
+Rango de color                           : Limited
+Colores primarios                        : BT.709
+Características transferencia            : BT.709
+Coeficientes matriz                      : BT.709
+Codec configuration box                  : avcC
+
+Audio
+ID                                       : 2
+Formato                                  : AAC LC SBR
+Formato/Info                             : Advanced Audio Codec Low Complexity with Spectral Band Replication
+Nombre comercial                         : HE-AAC
+Ajustes del formato                      : Implicit
+ID códec                                 : mp4a-40-2
+Duración                                 : 2 h 12 min
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 64,0 kb/s
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 23,438 FPS (2048 SPF)
+Modo de compresión                       : Con pérdida
+Tamaño de pista                          : 60,8 MiB (2%)
+Título                                   : Sound
+Idioma                                   : Inglés
+Default                                  : Sí
+Alternate group                          : 1

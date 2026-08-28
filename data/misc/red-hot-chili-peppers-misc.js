@@ -209,7 +209,8 @@ const ARTIST_MISC_DATA = [
     "label": "Red Hot Chili Peppers - Outtakes and Demos (1985-1988)",
     "format": "FLAC",
     "year": 1985,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Red Hot Chili Peppers - Outtakes and Demos - 1985-1988.txt"
   },
   {
     "type": "release",
@@ -220,11 +221,12 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Red Hot Chili Peppers - Flea´s Birthday Suit {AR161095} (1995)",
+    "label": "Red Hot Chili Peppers - Flea\u00b4s Birthday Suit {AR161095} (1995)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1995,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Red Hot Chili Peppers - Flea\u00b4s Birthday Suit {AR161095} (1995) [Silver].txt"
   },
   {
     "type": "release",
@@ -232,15 +234,14 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "category": "OTHER",
-    "textFile": "MISC - Red Hot Chili Peppers - By the Way (2015) (24_96) [FLAC HD].txt"
+    "textFile": "MISC - Red Hot Chili Peppers - Coverin' [Silver].txt"
   },
   {
     "type": "release",
     "label": "Red Hot Chili Peppers - Transmission Impossible (3CD)",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "OTHER",
-    "textFile": "MISC - Red Hot Chili Peppers - Stadium Arcadium (2015) (24_96) [FLAC HD].txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
@@ -248,7 +249,7 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "category": "OTHER",
-    "textFile": "MISC - Red Hot Chili Peppers - I'm With You (2015) (24_96) [FLAC HD].txt"
+    "textFile": "MISC - Red Hot Chili Peppers - One Hot Globe (FAAB 0006-1) [Silver].txt"
   },
   {
     "type": "release",
@@ -256,7 +257,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1992,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Red Hot Chili Peppers - Christmas Party '91 (1992) (KTS 104) [Silver].txt"
   },
   {
     "type": "release",
@@ -264,7 +266,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1991,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Red Hot Chili Peppers - Holland 1991 (1992) (RFCD 1184) [Silver].txt"
   },
   {
     "type": "release",
@@ -286,8 +289,7 @@ const ARTIST_MISC_DATA = [
     "label": "Red Hot Chili Peppers - Funk Off (Paris 90/Milan 92) {SKCD1078}",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "OTHER",
-    "textFile": "MISC - Red Hot Chili Peppers - Coverin' [Silver].txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
@@ -295,7 +297,8 @@ const ARTIST_MISC_DATA = [
     "version": "FM",
     "format": "FLAC",
     "year": 1989,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - RHCP - Westwood One 1989-1991.txt"
   },
   {
     "type": "release",
@@ -315,7 +318,8 @@ const ARTIST_MISC_DATA = [
     "label": "Red Hot Chili Peppers - A Definitive Collection of Raw Material. (4 shows)",
     "version": "PRO",
     "format": "MKV",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - RHCP - A Definitive Collection of Raw Material [PRO].txt"
   },
   {
     "type": "release",
@@ -338,7 +342,8 @@ const ARTIST_MISC_DATA = [
     "label": "Red Hot Chili Peppers - Off the Map (2001)",
     "format": "MKV",
     "year": 2001,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Red Hot Chili Peppers - Off the Map (2001) [MKV].txt"
   },
   {
     "type": "release",
@@ -370,7 +375,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Red Hot Chili Peppers - Freaky Styley (1985) [1989, CDP 7 90617 2 ∕ DIDX 3459]",
+    "label": "Red Hot Chili Peppers - Freaky Styley (1985) [1989, CDP 7 90617 2 \u2215 DIDX 3459]",
     "format": "FLAC",
     "year": 1985,
     "category": "OFFICIAL RELEASES"
@@ -457,14 +462,16 @@ const ARTIST_MISC_DATA = [
     "label": "Red Hot Chili Peppers - One Hot Minute (1995) (2015) (24bit)",
     "format": "FLAC HD",
     "year": 1995,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Red Hot Chili Peppers - One Hot Minute (2015) (24_96) [FLAC HD].txt"
   },
   {
     "type": "release",
     "label": "Red Hot Chili Peppers - Under the Covers (1998) (Ltd Ed Comp EMI-Capitol 72434-94139-2-4) US",
     "format": "FLAC",
     "year": 1998,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Red Hot Chili Peppers - Under the Covers (1998) (Ltd Ed Comp EMI-Capitol 72434-94139-2-4) US [FLAC].txt"
   },
   {
     "type": "release",
@@ -478,7 +485,8 @@ const ARTIST_MISC_DATA = [
     "label": "Red Hot Chili Peppers - Californication (1999) (2015) (24bit)",
     "format": "FLAC HD",
     "year": 1999,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Red Hot Chili Peppers - Californication (2015) (24_96) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -492,7 +500,8 @@ const ARTIST_MISC_DATA = [
     "label": "Red Hot Chili Peppers - By the Way (2002) (2015) (24bit)",
     "format": "FLAC HD",
     "year": 2002,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Red Hot Chili Peppers - By the Way (2015) (24_96) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -520,7 +529,8 @@ const ARTIST_MISC_DATA = [
     "label": "Red Hot Chili Peppers - Stadium Arcadium (2006) (2015) (24bit)",
     "format": "FLAC HD",
     "year": 2006,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Red Hot Chili Peppers - Stadium Arcadium (2015) (24_96) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -531,7 +541,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Red Hot Chili Peppers - I’m With You Sessions [FLAC]",
+    "label": "Red Hot Chili Peppers - I\u2019m With You Sessions [FLAC]",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
   },
@@ -540,7 +550,8 @@ const ARTIST_MISC_DATA = [
     "label": "Red Hot Chili Peppers - I'm With You (2015) (24bit)",
     "format": "FLAC HD",
     "year": 2015,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Red Hot Chili Peppers - I'm With You (2015) (24_96) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -603,14 +614,16 @@ const ARTIST_MISC_DATA = [
     "label": "1992 - Give It Away EP (Warner Bros WPCP-4750 JP)",
     "format": "FLAC",
     "year": 1992,
-    "category": "SINGLES"
+    "category": "SINGLES",
+    "textFile": "MISC - 1992 - Give It Away EP (Warner Bros WPCP-4750 JP) [FLAC].txt"
   },
   {
     "type": "release",
     "label": "1992 - Under the Bridge (Warner Bros 9362-40358-2 EU)",
     "format": "FLAC",
     "year": 1992,
-    "category": "SINGLES"
+    "category": "SINGLES",
+    "textFile": "MISC - 1992 - Under the Bridge (Warner Bros 9362-40358-2 EU) [FLAC].txt"
   },
   {
     "type": "release",
@@ -624,7 +637,8 @@ const ARTIST_MISC_DATA = [
     "label": "1995 - Warped (CDS) (Warner Bros 9362-43595-2 EU)",
     "format": "FLAC",
     "year": 1995,
-    "category": "SINGLES"
+    "category": "SINGLES",
+    "textFile": "MISC - 1995 - Warped (Warner Bros 9362-43595-2 EU) [FLAC].txt"
   },
   {
     "type": "release",
@@ -638,7 +652,8 @@ const ARTIST_MISC_DATA = [
     "label": "2000 - Californication (Warner Bros 9362 44872-2 EU)",
     "format": "FLAC",
     "year": 2000,
-    "category": "SINGLES"
+    "category": "SINGLES",
+    "textFile": "MISC - 2000 - Californication (Warner Bros 9362 44872-2 EU) [FLAC].txt"
   },
   {
     "type": "release",
@@ -667,5 +682,38 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2011,
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "05-27 - Landgraaf, Holland - Pinkpop Festival - Holland 91'",
+    "year": 1990,
+    "version": "Silver CD"
+  },
+  {
+    "type": "release",
+    "label": "RHCP - Anthony's Penis",
+    "version": "Silver CD"
+  },
+  {
+    "type": "release",
+    "label": "RHCP - Flea (Demos)",
+    "textFile": "MISC - RHCP - Flea (Demos).txt"
+  },
+  {
+    "type": "release",
+    "label": "RHCP - Funk Off (Paris 1990, Milan 1992)",
+    "version": "Silver CD",
+    "textFile": "MISC - RHCP - Funk Off (Paris 1990, Milan 1992) [SIlver].txt"
+  },
+  {
+    "type": "release",
+    "label": "RHCP - Milafornication",
+    "version": "Silver CD",
+    "textFile": "MISC - RHCP - Milafornication [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "RHCP - UMPP Instrumental Demos (13)",
+    "textFile": "MISC - RHCP - UMPP Instrumental Demos (13).txt"
   }
 ];

@@ -1,0 +1,15 @@
+24bit / 192khz
+
+Lineage:
+
+Ripped April 28, 2026
+
+Pre-Cleaning: Spin Clean MK II
+Cleaning and Drying: Humminguru 5 minute clean, 10 minute dry
+Turntable: Technics SL-1500c
+Cartridge: Ortofon Black 2M
+Phone Stage: Built-in Technics Phono
+Sugarcube SC-2 Beta, Level 3
+Recorded to USB with SC-2
+Recording Bitrate/Sample Rate: 192/24
+Tracks normalized and edited in Audacity

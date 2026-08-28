@@ -550,9 +550,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The Basement",
-      "notes": "Church Audio Cardioid Microphones · unk",
+      "notes": "Church Audio Cardioid Microphones \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-03-06 - Columbus, OH - The Basement (Church Audio Cardioid Microphones) (unk) [AUD].txt"
     },
     {
       "year": 2019,

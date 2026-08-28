@@ -1,0 +1,64 @@
+FOO FIGHTERS
+May 28th, 1997
+Astoria Theatre
+London, United Kingdom
+
+Source
+Amateur Video #1
+
+Generation
+Hi8(M) > VHS(1) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [H.264/AAC/FLAC]
+
+Video Transfer
+unknown > Virtualdub > AviSynth+ 3.7.5 > x264 0.165.3214+77M fb6c864 t_mod_New
+
+Audio Transfer
+unknown > Adobe Audition 2025 > flac.exe 1.5.0 & Apple AAC encoder q109
+
+Length
+1hr 7min 21s
+
+Video Track
+H.264 MPEG-4 AVC / 576p / 50fps / 4675 kbps VBR / 4:3 / 4:2:0 Chroma / 8-Bit / High Profile Level 3.2
+
+Audio Tracks
+AAC / ~256kbps / 48khz / Stereo
+FLAC / 48khz / Stereo
+
+Tracks
+Wind Up (cuts in)
+Wattershed
+Hey, Johnny Park!
+Monkey Wrench
+Alone + Easy Target (cut)
+Doll
+See You
+My Poor Brain
+For All The Cows
+Enough Space
+Big Me
+Weenie Beenie
+February Stars
+Everlong
+New Way Home
+This Is A Call
+Up In Arms
+I'll Stick Around
+
+
+Notes
+An upgrade for this source, the previous best copy was also first gen but was an NTSC tape.
+This is a PAL tape transferred to a lossless archive file and transparently encoded.
+
+Video is a clear improvement with far more detail and no tearing/frame issues that came with the NTSC
+converted tape. Audio is also a touch better. There are some VHS related image issues occasionaly
+but they are never too lengthy.
+
+If you taped Foo Fighters and want help to get your recordings shared, please get in touch.
+We're always on the lookout for upgrades and new FF sources at FooFightersDB.com
+
+Transferred By
+TravisBickle1963
+
+Encoded By
+FooFightersDB

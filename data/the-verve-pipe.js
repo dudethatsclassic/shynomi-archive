@@ -462,9 +462,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Marion, IL",
       "venue": "618 Tap House",
-      "notes": "Neumann SKM 184 · shanecalhoon",
+      "notes": "Neumann SKM 184 \u00b7 shanecalhoon",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2026-07-25 - Marion, IL - 618 Tap House (Neumann SKM 184) (shanecalhoon) [MIX].txt"
     }
   ]
 };

@@ -1,0 +1,140 @@
+Foo Fighters 
+2026-08-10 
+Cleveland, OH
+Huntington Bank Field
+
+
+Master #173, 2026
+
+
+During summer 2025, I was planning about 20 days in USA.
+I didn't know when we were spending these days.
+All that we know was : there'll be about 2 weeks in Colorado.
+
+When I saw the tour, we decided to plan everything.
+It was 15 days near Colorado and 5 days between Cleveland OH, 
+Niagara Falls NY and Watkins Glen NY.
+
+We finally booked 7 shows.
+Some of them will be shared soon (don't expect any other
+recordings from QOTSA and Foo Fighters, my friend doesn't
+want to see twice these bands during her holidays). 
+I need to end something first in France.
+
+
+Faults on The Teacher : small cut about 10'45"
+
+
+Many thanks to kissamos for his work
+on my master.
+
+
+------------------------------------
+SP-CMC-8	     		    
+Zoom H4e(48/32 float) 		    
+Remaster by kissamos(48kHz/24)
+CD WAV(split) 			    
+Trader's Little Helper(Flac 8 & md5)
+------------------------------------
+
+Setlist : 179'07
+
+01 - [8:10]	All My Life
+02 - [6:41]	The Pretender
+03 - [4:22]	Times Like These
+04 - [4:49]	Rope
+05 - [5:14]	Stacked Actors
+06 - [4:20]	My Hero
+07 - [3:45]	Learn to Fly
+08 - [8:09]	These Days
+09 - [4:55]	Walk
+10 - [3:39]	###Speech###
+11 - [4:51]	This Is a Call
+12 - [5:26]	No Son of Mine
+13 - [11:49]	Wheels
+14 - [3:50]	Marigold
+15 - [4:07]	Big Me
+16 - [4:56]	Under You
+17 - [4:25]	La Dee Da
+18 - [9:58]	Run
+19 - [2:22]	Invincible
+20 - [2:30]	Seven
+21 - [2:27]	One Headlight
+22 - [3:06]	Manimal
+23 - [3:35]	Tap Dancing in a Minefield
+24 - [7:57]	Monkey Wrench
+25 - [3:40]	Breakout
+26 - [4:53]	The Sky Is a Neighborhood
+27 - [9:40]	Aurora
+28 - [9:31]	Best of You
+29 - [3:54]	---------------------------
+30 - [13:58]	The Teacher
+31 - [7:52]	Everlong
+
+md5
+---
+961d60fbd6cab14501e00dd848bc18e2 *01 - All My Life.flac
+4c4b3915a3d14812d551d53e10950fcc *02 - The Pretender.flac
+b2b62a2f267641761ea06c75ab3f4fce *03 - Times Like These.flac
+6bb8990e563f548cb3bafeed43e9ac68 *04 - Rope.flac
+2dde74cef91fb8eb8dc4773275378f1d *05 - Stacked Actors.flac
+121023566cb3b84d633a4f5489daf0c0 *06 - My Hero.flac
+f720a236c769b29663cc2be646b02787 *07 - Learn to Fly.flac
+3655cf60ffc424f871acbae0d6bddef5 *08 - These Days.flac
+5843c6cf5de3d0a0b5b809d4c4a22536 *09 - Walk.flac
+522385bd03e28e140d2dbb389cecebe6 *10 - ###Speech###.flac
+5fdbcb40e1be1c879e261c6737b90f2b *11 - This Is a Call.flac
+79b6d57cd6e173fc7168d96360200f77 *12 - No Son of Mine.flac
+44fba1bae9f9ee4c172f3f081d788ebf *13 - Wheels.flac
+966799cf5a3b2497ab3e091bb8363924 *14 - Marigold.flac
+099e9073da0a3d6b9c414a92950d760f *15 - Big Me.flac
+1e698e28a762a58d12a11467733bed6b *16 - Under You.flac
+3e002c4601675d2bfbe20ff9ed486619 *17 - La Dee Da.flac
+462d105d2e4e8eca98eafab0c6553afa *18 - Run.flac
+321e5d271f124377407cbd0b9212a47a *19 - Invincible.flac
+4fe77305feb747ca2ff3c9dbab2bc299 *20 - Seven.flac
+88f838b2cd6745676d02406e2b2fdfdd *21 - One Headlight.flac
+f815a5feb2a66e3eeea2975c4f85e11a *22 - Manimal.flac
+79337e4c1dd58121e8244c2a09ba7271 *23 - Tap Dancing in a Minefield.flac
+03f251854fdb4e43bfb1967a7b97185a *24 - Monkey Wrench.flac
+e3ad89dff0ad54299f87df7b9f6f9c66 *25 - Breakout.flac
+9b1e531a66036d46bba8a5416f20e429 *26 - The Sky Is a Neighborhood.flac
+c34a109e9930a1119bfeb1942bcc57ea *27 - Aurora.flac
+040dd0c571ed707a5dea3c447cefed4a *28 - Best of You.flac
+a752c62994d904f8b31ba91b73ebfdc1 *29 - ######.flac
+1b929e5d95d075cd40b04be18793f186 *30 - The Teacher.flac
+ccc84fecaf1b093907c832efc178cf45 *31 - Everlong.flac
+
+ffp
+---
+01 - All My Life.flac:9f650344e4a147acc9d14bf5bf65c6ae
+02 - The Pretender.flac:aa5c211a8bdd158d968ec9938627f599
+03 - Times Like These.flac:697ac2a39f887e935eed862cd0aa569e
+04 - Rope.flac:c9962cf81a68644a3c535436d4c1b0db
+05 - Stacked Actors.flac:a5267bd0cc9bbc8d02c4acce9a7e3d29
+06 - My Hero.flac:2ad1259ed2361ae0058ce9d551a3c64f
+07 - Learn to Fly.flac:f9463f52c0bcda773a07f8c3f6a20074
+08 - These Days.flac:242e97f3aeb4fc586499c39647648916
+09 - Walk.flac:c64bece240a2125021af7534f062ed1c
+10 - ###Speech###.flac:92a01ef0a31ee4637d402f1c3a143c23
+11 - This Is a Call.flac:1e689f340c18ee506afba97d2e959360
+12 - No Son of Mine.flac:817a96c894b3ce19f028e357f06be269
+13 - Wheels.flac:d581960a79dd0910f808f13d7141ac10
+14 - Marigold.flac:a109ee32740fc132a795d85882394108
+15 - Big Me.flac:90a0cf4f8e52588113cd2103737a2523
+16 - Under You.flac:e08a030a37300dc78fa4f28411d1ff13
+17 - La Dee Da.flac:cdf5f9ec5c1fa20d54cd7479032a540c
+18 - Run.flac:d62ca2154e8f7e7b0bb377ee177b8fda
+19 - Invincible.flac:74a3793a4ef32aa1cfeb84bcfce7648f
+20 - Seven.flac:f674c0ef0847c138dc41a019db1b5448
+21 - One Headlight.flac:7d2af5f6785c54c539b12f3dee57edc0
+22 - Manimal.flac:52a50837ee1d8687dfe09ca694a643a5
+23 - Tap Dancing in a Minefield.flac:ea2265af94f969bf8aeda7e7f4b3dbd2
+24 - Monkey Wrench.flac:0706ad36c89482020c736fd315bf6222
+25 - Breakout.flac:8c1865919ac3c715599a53164867b658
+26 - The Sky Is a Neighborhood.flac:a9945196c8fd3046c2758a5eb3649ffc
+27 - Aurora.flac:d5aa11ddcb53e14fbc41754fe198a1a0
+28 - Best of You.flac:269abe5a18ce48bbe1ce437412ab098a
+29 - ######.flac:45d97731a0d5f566521db848ab3862b0
+30 - The Teacher.flac:eaaf7157095902e89b7f9d50e5917926
+31 - Everlong.flac:1e5f53d9da471262233b6e5dc1d46c55

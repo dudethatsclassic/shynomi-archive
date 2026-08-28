@@ -80,7 +80,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Inédits (Promo CD) (France, SPCD 2111)",
+    "label": "Ine\u0301dits (Promo CD) (France, SPCD 2111)",
     "year": 1997,
     "category": "SINGLES + EPS"
   },
@@ -1426,7 +1426,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Foo Fighters – Rope (Deadmau5 Mix Edit) (2011)",
+    "label": "Foo Fighters \u2013 Rope (Deadmau5 Mix Edit) (2011)",
     "format": "FLAC",
     "year": 2011,
     "category": "OTHER"
@@ -2039,5 +2039,15 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC HD",
     "year": 2025,
     "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Foo Fighters - Pocketwatch (EMCD09)",
+    "textFile": "MISC - Foo Fighters - Pocketwatch (EMCD09).txt"
+  },
+  {
+    "type": "release",
+    "label": "Garage Tour - Documentary",
+    "format": "MP4"
   }
 ];

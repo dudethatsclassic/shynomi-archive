@@ -1,0 +1,45 @@
+Foo Fighters
+July 19th, 1996
+Long Marston Airfield (Phoenix Festival)
+Long Marston, United Kingdom
+
+SOURCE (AMT #1):
+unknown > unknown
+
+GENERATION:
+VHS(x) [NTSC] > AVI [Lagarith / PCM] > MKV [480p/59.94fps/AAC 2.0 256kbps/FLAC 2.0]
+
+VIDEO TRANSFER:
+JVC SR-MV55 > ATI TV Wonder HD750 > Virtualdub > AviSynth+ 3.7.5 > x264 0.165.3214+77M fb6c864 t_mod_New
+
+AUDIO TRANSFER:
+JVC SR-MV55 > ATI TV Wonder HD750 > Adobe Audition 2025 > flac.exe 1.5.0 & Apple AAC encoder q109
+
+LENGTH:
+49:10
+
+TRACKS:
+01. Gas Chamber
+02. Butterflies
+03. Winnebago
+04. Wattershed
+05. For All The Cows
+06. Weenie Beenie
+07. Big Me
+08. My Poor Brain
+09. This Is A Call
+10. Up In Arms
+11. Enough Space
+12. Good Grief
+13. Podunk
+14. Alone + Easy Target
+15. I'll Stick Around
+
+MD5 FINGERPRINTS:
+70047207de3ab8641225e4cce88b2bb4 *1996-07-19_FF_PhoenixFestival_AMT1_VHSX_480p_Stereo.mkv
+
+RECORDED BY:
+unknown
+
+TRANSFERRED BY:
+Sean Foster

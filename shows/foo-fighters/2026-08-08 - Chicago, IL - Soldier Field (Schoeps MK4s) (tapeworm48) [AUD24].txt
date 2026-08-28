@@ -1,0 +1,51 @@
+
+Foo Fighters
+Soldier Field: Chicago, IL
+August 8, 2026
+
+Source: Schoeps MK4s > RiotBox > Sony PCM-A10 @ 24-bit / 48.0kHz
+Location: FOB left stack, 100' back
+Transfer: A10 > USB > Audacity > xACT 2.50
+Edits/EQ: +1dB
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 All My Life
+03 The Pretender
+04 Times Like These
+05 Rope
+06 Stacked Actors
+07 My Hero
+08 Learn to Fly
+09 These Days
+10 Walk
+11 This Is A Call
+12 No Son of Mine / (Ace of Spades [Motorhead])
+13 Wheels
+14 Marigold [Nirvana]
+15 Big Me
+16 Under You
+17 La Dee Da
+18 Run
+19 Introductions + Medley
+20 Monkey Wrench
+21 Breakout
+22 The Sky Is A Neighborhood
+23 Aurora
+24 Caught In The Echo
+25 Best Of You
+26 -encore break-
+27 The Teacher
+28 Exhausted
+29 Everlong
+
+Notes: Take Cover 2026 tour. Opening acts were Queens of the Stone Age (recorded) and Mannequin Pussy (not recorded). RiotBox set at no gain; A10 set at 12. Raw transfer with no fades or EQ. 
+
+Archive: Master WAV was archived @ 24-bit/48.0kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 8/10/2026
+
+*** DO NOT REMASTER WITHOUT PERMISSION. DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

@@ -1,0 +1,57 @@
+FOO FIGHTERS
+August 8th, 1995
+Phoenix Concert Centre
+Toronto, Ontario, Canada
+
+Source
+Amateur Video #1
+
+Generation
+VHS(1) > AVI [Lagarith Video/48khz/16-Bit/PCM] > MKV [H.264/AAC/FLAC]
+
+Video Transfer
+JVC SR-MV55 > ATI TV Wonder HD750 > Virtualdub > AviSynth+ 3.7.5 > x264 0.165.3214+77M fb6c864 t_mod_New
+
+Audio Transfer
+JVC SR-MV55 > ATI TV Wonder HD750 > Adobe Audition 2025 > flac.exe 1.5.0 & Apple AAC encoder q109
+
+Length
+1hr 5min 48s
+
+Video Details
+H.264 MPEG-4 AVC / 480p / 59.94fps / 4570 kbps VBR / 4:3 / 4:2:0 Chroma / 8-Bit / High Profile Level 3.1
+
+Audio
+AAC / ~256kbps / 48khz / 2.0
+FLAC / ~836kbps / 48khz / 2.0
+
+Tracks
+01. Winnebago
+02. I'll Stick Around
+03. Butterflies
+04. Wattershed
+05. Big Me
+06. This Is A Call
+07. Weenie Beenie
+08. For All The Cows
+09. X-Static
+10. Oh, George
+11. Podunk
+12. Alone + Easy Target
+13. Exhausted
+14. Lovin' Touchin' Squeezin' (Craig Wedren on lead vocals)
+15. Down in the Park
+
+Notes
+This is a small upgrade over previous versions of this source. Still from a first generation VHS, but
+from a new transfer that was captured to a lossless file. The video is a bit cleaner, a bit less ghosting,
+and there are no big black borders. Audio is also marginally better but still pretty distorted.
+
+If you ever taped Foo Fighters, including this video, or even recorded them from the TV or Radio,
+please get in touch. We're always on the lookout for upgrades and new sources at FooFightersDB.com
+
+Transferred By
+Sean Foster
+
+Encoded By
+FooFightersDB

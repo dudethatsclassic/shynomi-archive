@@ -1,0 +1,46 @@
+FOO FIGHTERS
+May 13th, 2000
+outside Newbury Comics
+Providence, RI
+
+Source
+Professional Video #1
+
+Generation
+Pre-Broadcast VHS(1) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [H.264/AAC/FLAC]
+
+Video Transfer
+Panasonic AG1980 > Datavideo TBC6000 > ATI TV Wonder 600 USB > VirtualDub > AviSynth+ 3.7.5 > x264 0.165.3214+77M fb6c864 t_mod_New
+
+Audio Transfer
+Panasonic AG1980 > Datavideo TBC6000 > ATI TV Wonder 600 USB > VirtualDub > Adobe Audition 2025 > flac.exe 1.5.0 & Apple AAC encoder q109
+
+Length
+37min 48s
+
+Video Track
+H.264 MPEG-4 AVC / 480p / 59.94fps / 3451 kbps VBR / 4:3 / 4:2:0 Chroma / 8-Bit / High Profile Level 3.1
+
+Audio Tracks
+AAC / ~256kbps / 48khz / 2.0
+FLAC / ~836kbps / 48khz / 2.0
+
+Tracks
+01. Broadcast clip
+02. Learn To Fly
+03. Everlong
+04. My Hero
+05. Wattershed [Indoor set] (jam)
+06. My Hero (different camera angle)
+07. Signing Session
+08. Fan interview
+09. Brief tour bus footage
+10. More signing session
+11. Fan interview
+12. More signing
+
+Transferred By
+Nick Serra
+
+Encoded By
+FooFightersDB

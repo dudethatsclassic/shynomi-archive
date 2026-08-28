@@ -1,0 +1,36 @@
+Foo Fighters w/ Gustavo Dudamel, LA Phil, YOLA
+August 22nd, 2026
+Hollywood Bowl (Celebrating Gustavo at the Bowl)
+Los Angeles, CA
+
+SOURCE (AUD #1):
+Sound Pro SP-CMC-4U > Sony PCM-A10
+
+TRANSFER:
+USB > Adobe Audition 2025 > CDWave 1.98 > flac 1.5.0
+
+GENERATION:
+WAV(M) [48khz/24-bit] > FLAC [Level 8]
+
+LENGTH:
+1hr 38min 28s
+
+TRACKS:
+01. Times Like These
+02. All My Life
+03. The Pretender
+04. Walk
+05. A320
+06. My Hero
+07. Learn to Fly
+08. The Sky Is A Neighborhood
+09. Run
+10. I Should Have Known
+11. Razor
+12. Aurora
+13. Best Of You
+14. Home
+15. Everlong
+
+RECORDED BY:
+ijwthstd

@@ -41,7 +41,8 @@ const ARTIST_MISC_DATA = [
     "label": "(2005) Make Believe Enhanced CD Bonus Content",
     "year": 2005,
     "format": "Requires Quicktime",
-    "category": "STEMS"
+    "category": "STEMS",
+    "textFile": "MISC - (2005) Make Believe Enhanced CD Bonus Content [Requires Quicktime].txt"
   },
   {
     "type": "release",
@@ -153,8 +154,7 @@ const ARTIST_MISC_DATA = [
     "label": "(2005) Make Believe Enhanced CD Bonus Content",
     "year": 2005,
     "format": "Requires Quicktime",
-    "category": "STEMS",
-    "textFile": "MISC - (2005) Make Believe Enhanced CD Bonus Content [Requires Quicktime].txt"
+    "category": "STEMS"
   },
   {
     "type": "release",
@@ -344,7 +344,8 @@ const ARTIST_MISC_DATA = [
   {
     "type": "release",
     "label": "Weezer - My Name Is Jonas",
-    "category": "STEMS"
+    "category": "STEMS",
+    "textFile": "MISC - Weezer - My Name is Weezer (1997) [Silver].txt"
   },
   {
     "type": "release",
@@ -1115,13 +1116,15 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Weezer - B-sides & Rarities",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Weezer - B-Sides And Rarities.txt"
   },
   {
     "type": "release",
     "label": "Weezer - Songs from the Black Hole",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Weezer - Songs From The Black Hole (2013) [FLAC].txt"
   },
   {
     "type": "release",
@@ -1129,7 +1132,8 @@ const ARTIST_MISC_DATA = [
     "version": "FM",
     "format": "FLAC",
     "year": 1996,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Weezer - Reading and Lowlands Festivals - 1996 [FM].txt"
   },
   {
     "type": "release",
@@ -1166,7 +1170,7 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2002,
     "category": "OTHER",
-    "textFile": "MISC - Weezer - Alive Quantum {W.B. 052-053} [Silver].txt"
+    "textFile": "MISC - Weezer - Alive Quantum (Wonderboy Records) (2002) [FLAC].txt"
   },
   {
     "type": "release",
@@ -1868,7 +1872,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1995,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Weezer - American Holiday [Silver].txt"
   },
   {
     "type": "release",
@@ -1876,7 +1881,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2001,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Weezer - Studio Jam June 2001 {LOOSE-052} [Silver].txt"
   },
   {
     "type": "release",
@@ -1884,7 +1890,8 @@ const ARTIST_MISC_DATA = [
     "version": "Silver CD",
     "format": "FLAC",
     "year": 1997,
-    "category": "SILVERS"
+    "category": "SILVERS",
+    "textFile": "MISC - Weezer - My Name is Weezer {EXP-015} [Silver].txt"
   },
   {
     "type": "release",
@@ -1920,7 +1927,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Weezer – Surf Wax Mt. Fuji {LOOSE-022} (2000)",
+    "label": "Weezer \u2013 Surf Wax Mt. Fuji {LOOSE-022} (2000)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2000,
@@ -2084,7 +2091,8 @@ const ARTIST_MISC_DATA = [
     "label": "Weezer - The End of the Game (2019) {Crush Music - Atlantic} (24-44.1)",
     "format": "FLAC",
     "year": 2019,
-    "category": "SINGLES"
+    "category": "SINGLES",
+    "textFile": "MISC - The End of the Game (2019) {Crush Music - Atlantic} [WEB FLAC 24-44.1].txt"
   },
   {
     "type": "release",
@@ -2230,7 +2238,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Weezer - Maladroit {069493241-1} 3.25.19 Rip",
     "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Weezer - 1192 (Vinyl Rip) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -2442,7 +2451,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Weezer - Weezer (Black Album) [WEB FLAC]",
     "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Weezer - Songs From the Black Hole.txt"
   },
   {
     "type": "release",
@@ -2544,5 +2554,18 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2026,
     "category": "OFFICIAL RELEASES"
+    "label": "Oddities",
+    "year": 2021
+  },
+  {
+    "type": "release",
+    "label": "Weezer - Alive Quantum {W.B. 052-053}",
+    "version": "Silver CD",
+    "textFile": "MISC - Weezer - Alive Quantum {W.B. 052-053} [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Weezer - Studio Jams 2001",
+    "textFile": "MISC - Weezer - Studio Jams 2001.txt"
   }
 ];

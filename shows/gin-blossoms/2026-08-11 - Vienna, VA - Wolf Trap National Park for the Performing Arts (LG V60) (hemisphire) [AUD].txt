@@ -1,0 +1,23 @@
+Gin Blossoms
+August 11, 2026
+Wolf Trap National Park for the Performing Arts 
+Vienna, VA
+
+Taper: hemisphire
+Source: LG V60 > RecForge II Pro > WAV
+Lineage: WAV > ffmpeg (track split) > Trader's Little Helper > FLAC
+
+01. Follow You Down
+02. Hold Me Down
+03. Learning The Hard Way
+04. Mrs. Rita
+05. Lost Horizons
+06. As Long As It Matters
+07. Until I Fall Away
+08. Hands Are Tied
+09. Found Out About You
+10. Allison Road
+11. Hey Jealousy
+12. Til I Hear It From You
+13. 29
+14. Just Like Heaven
