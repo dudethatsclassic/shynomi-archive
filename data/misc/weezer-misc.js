@@ -2517,5 +2517,12 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC HD",
     "year": 2022,
     "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Weezer - Weezer (Gold Album) {093624818885} (2026)",
+    "format": "FLAC",
+    "year": 2026,
+    "category": "OFFICIAL RELEASES"
   }
 ];
