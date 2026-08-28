@@ -2359,12 +2359,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Hurley (2010)",
-    "year": 2010,
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
     "label": "Weezer - Hurley (Deluxe) {Japan EICP-1430}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
@@ -2373,12 +2367,6 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Weezer - Hurley [24bit FLAC] 3.19.19 Sibilance",
     "format": "FLAC HD",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Everything Will Be Alright In The End (2014)",
-    "year": 2014,
     "category": "OFFICIAL RELEASES"
   },
   {
@@ -2403,12 +2391,6 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Weezer - Everything Will Be Alright In The End (24-96 HDtracks)",
     "format": "FLAC HD",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "White Album (2016)",
-    "year": 2016,
     "category": "OFFICIAL RELEASES"
   },
   {
@@ -2439,12 +2421,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Pacific Daydream (2017)",
-    "year": 2017,
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
     "label": "Weezer - Pacific Daydream {Japan WPCR-17867}",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
@@ -2458,12 +2434,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "The Black Album (2019)",
-    "year": 2019,
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
     "label": "Weezer - Weezer (Black Album) [WEB FLAC]",
     "format": "FLAC",
     "category": "OFFICIAL RELEASES"
@@ -2472,12 +2442,6 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Weezer - Weezer (The Black Album) [24-96 Vinyl Rip]",
     "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "The Teal Album (2019)",
-    "year": 2019,
     "category": "OFFICIAL RELEASES"
   },
   {
@@ -2502,12 +2466,6 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "OK Human (2021)",
-    "year": 2021,
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
     "label": "Weezer - OK Human [FLAC 24-192]",
     "format": "FLAC HD",
     "category": "OFFICIAL RELEASES"
@@ -2516,12 +2474,6 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Weezer - OK Human [FLAC 16/44.1kHz]",
     "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Van Weezer (2021)",
-    "year": 2021,
     "category": "OFFICIAL RELEASES"
   },
   {
@@ -2540,14 +2492,22 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "SZNZ (2022)",
+    "label": "Weezer - SZNZ Summer (2022) (24/88.2)",
+    "format": "FLAC HD",
     "year": 2022,
     "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
-    "label": "Weezer - SZNZ Summer (2022) (24/88.2)",
-    "format": "FLAC HD",
+    "label": "Weezer - SZNZ Summer {075678634321} (2022)",
+    "format": "FLAC",
+    "year": 2022,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Weezer - SZNZ Winter {075678634345} (2022)",
+    "format": "FLAC",
     "year": 2022,
     "category": "OFFICIAL RELEASES"
   },
