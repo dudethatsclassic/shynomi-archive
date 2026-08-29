@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "lynyrd-skynyrd",
   "name": "Lynyrd Skynyrd",
   "drive": "A",
-  "showCount": 36,
+  "showCount": 37,
   "firstYear": 1973,
   "lastYear": 2018,
   "years": [
@@ -422,6 +422,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1987-09-23 - Concord, CA - Concord Pavilion (Source 2) (Shure SM58) (marcus buick) [AUD].txt"
+    },
+    {
+      "year": 1988,
+      "month": 6,
+      "day": 8,
+      "dateStr": "6-8-1988",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "location": "Pittsburgh, PA",
+      "venue": "Civic Arena",
+      "notes": "ANA(1) · unk · wesmeyette",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1988,
