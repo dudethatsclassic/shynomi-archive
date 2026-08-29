@@ -1948,7 +1948,7 @@ const ARTISTS = [
   {
     "id": "old-97-s",
     "name": "Old 97's",
-    "showCount": 10,
+    "showCount": 11,
     "firstYear": 1996,
     "lastYear": 2026
   },
@@ -2683,7 +2683,7 @@ const ARTISTS = [
   {
     "id": "swell-season",
     "name": "Swell Season",
-    "showCount": 27,
+    "showCount": 28,
     "firstYear": 2006,
     "lastYear": 2026
   },
