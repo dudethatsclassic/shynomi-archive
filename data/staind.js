@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "staind",
   "name": "Staind",
   "drive": "A",
-  "showCount": 15,
+  "showCount": 16,
   "firstYear": 1999,
   "lastYear": 2026,
   "years": [
@@ -199,6 +199,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-04-27 - Worcester, MA - DCU Center (Zoom H1n) (mm) [AUD24].txt"
+    },
+    {
+      "year": 2024,
+      "month": 9,
+      "day": 13,
+      "dateStr": "9-13-2024",
+      "city": "Noblesville",
+      "state": "IN",
+      "location": "Noblesville, IN",
+      "venue": "Ruoff Music Center",
+      "notes": "CA-14 Omnis · roc_dhth",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2024,
