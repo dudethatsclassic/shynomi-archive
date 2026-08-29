@@ -1584,7 +1584,7 @@ const ARTISTS = [
   {
     "id": "lynyrd-skynyrd",
     "name": "Lynyrd Skynyrd",
-    "showCount": 36,
+    "showCount": 37,
     "firstYear": 1973,
     "lastYear": 2018
   },
@@ -2578,7 +2578,7 @@ const ARTISTS = [
   {
     "id": "staind",
     "name": "Staind",
-    "showCount": 15,
+    "showCount": 16,
     "firstYear": 1999,
     "lastYear": 2026
   },
@@ -2683,7 +2683,7 @@ const ARTISTS = [
   {
     "id": "swell-season",
     "name": "Swell Season",
-    "showCount": 25,
+    "showCount": 27,
     "firstYear": 2006,
     "lastYear": 2026
   },
@@ -2704,9 +2704,9 @@ const ARTISTS = [
   {
     "id": "system-of-a-down",
     "name": "System of a Down",
-    "showCount": 19,
+    "showCount": 20,
     "firstYear": 2000,
-    "lastYear": 2024
+    "lastYear": 2026
   },
   {
     "id": "tad",
@@ -3173,9 +3173,9 @@ const ARTISTS = [
   {
     "id": "vertical-horizon",
     "name": "Vertical Horizon",
-    "showCount": 66,
+    "showCount": 67,
     "firstYear": 1994,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "veruca-salt",
