@@ -2,12 +2,13 @@ const ARTIST_DATA = {
   "id": "old-97-s",
   "name": "Old 97's",
   "drive": "E",
-  "showCount": 10,
+  "showCount": 11,
   "firstYear": 1996,
   "lastYear": 2026,
   "years": [
     1996,
     1998,
+    2001,
     2008,
     2011,
     2013,
@@ -54,6 +55,19 @@ const ARTIST_DATA = {
       "venue": "Starry Plough",
       "notes": "DAT(M) · mhg",
       "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2001,
+      "month": 4,
+      "day": 12,
+      "dateStr": "4-12-2001",
+      "city": "Madison",
+      "state": "WI",
+      "location": "Madison, WI",
+      "venue": "Barrymore Theater",
+      "notes": "Core Sound Stealthy Cardioid · unk",
+      "version": "AUD",
       "format": "FLAC"
     },
     {
