@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "system-of-a-down",
   "name": "System of a Down",
   "drive": "A",
-  "showCount": 19,
+  "showCount": 20,
   "firstYear": 2000,
-  "lastYear": 2024,
+  "lastYear": 2026,
   "years": [
     2000,
     2002,
@@ -15,7 +15,8 @@ const ARTIST_DATA = {
     2021,
     2022,
     2023,
-    2024
+    2024,
+    2026
   ],
   "shows": [
     {
@@ -279,6 +280,19 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4s · loughney",
       "version": "AUD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 29,
+      "dateStr": "6-29-2026",
+      "city": "Stockholm",
+      "state": "Sweden",
+      "location": "Stockholm, Sweden",
+      "venue": "Strawberry Arena",
+      "notes": "SP-CMC-8 · mats666",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
