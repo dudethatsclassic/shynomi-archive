@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "vertical-horizon",
   "name": "Vertical Horizon",
   "drive": "E",
-  "showCount": 66,
+  "showCount": 67,
   "firstYear": 1994,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1994,
     1995,
@@ -23,7 +23,8 @@ const ARTIST_DATA = {
     2018,
     2021,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -945,6 +946,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-10-06 - Portland, ME - State Theatre (Sony PCM-A10) (shane e. calhoon) [AUD].txt"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "day": 22,
+      "dateStr": "8-22-2026",
+      "city": "Springfield",
+      "state": "IL",
+      "location": "Springfield, IL",
+      "venue": "Grand Central Stage, Illinois State Fair",
+      "notes": "Sony PCM-A10 · shanecalhoon",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
   ]
 };
