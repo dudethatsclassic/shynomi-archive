@@ -150,9 +150,10 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
-      "notes": "Ko-stalden · M · unk",
+      "notes": "Ko-stalden \u00b7 M \u00b7 unk",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-06-30 - Roskilde, Denmark - Roskilde Festival (unk) [SBD #1].txt"
     },
     {
       "year": 1995,
@@ -165,7 +166,8 @@ const ARTIST_DATA = {
       "venue": "Roskilde Festival",
       "notes": "unk",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-06-30 - Roskilde, Denmark - Roskilde Festival - Ko-stalden - DAT(M) (unk) [SBD #1].txt"
     },
     {
       "year": 1995,
@@ -234,7 +236,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-09-12 - Hollywood, CA - Whisky A Go-Go - FM-CDR(x) (unk) [SBD #1].txt"
+      "textFile": "1995-09-12 - Hollywood, CA - Whisky A Go-Go [AUD].txt"
     },
     {
       "year": 1995,
@@ -245,9 +247,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Whisky A Go-Go",
-      "notes": "FM-CDR(x) · unk",
+      "notes": "FM-CDR(x) \u00b7 unk",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-09-12 - Hollywood, CA - Whisky A Go-Go - FM-CDR(x) (unk) [SBD #1].txt"
     },
     {
       "year": 1995,
@@ -385,7 +388,8 @@ const ARTIST_DATA = {
       "venue": "Homebake Festival",
       "notes": "Impossible",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-03 - Byron Bay, AU - Homebake Festival - Impossible Music Festival Rebroadcast [FM].txt"
     },
     {
       "year": 1996,
@@ -398,7 +402,8 @@ const ARTIST_DATA = {
       "venue": "Homebake Festival *Mudbath At Homebake",
       "notes": "unk",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-03 - Byron Bay, AU - Homebake Festival - Mudbath At Homebake (unk) [SBD #1].txt"
     },
     {
       "year": 1996,
@@ -411,7 +416,8 @@ const ARTIST_DATA = {
       "venue": "Homebake Festival *Surfin' In The Rain",
       "notes": "",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-03 - Byron Bay, Australia - Homebake Festival  - Surfin' In The Rain (1996) [Silver].txt"
     },
     {
       "year": 1996,
@@ -425,7 +431,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-01-03 - Byron Bay, AU - Homebake Festival - Impossible Music Festival Rebroadcast [FM].txt"
+      "textFile": "1996-01-03 - Byron Bay, Australia - HomeBake Festival - Mudbath at Homebake [AUD].txt"
     },
     {
       "year": 1996,
@@ -439,7 +445,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "1996-01-03 - Byron Bay, AU - Homebake Festival - Mudbath At Homebake (unk) [SBD #1].txt"
+      "textFile": "1996-01-03 - Byron Bay, Australia - Homebake Festival - Surfin' In The Rain [SBD #1].txt"
     },
     {
       "year": 1996,
@@ -453,7 +459,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Broadcast",
       "format": "MP2",
-      "textFile": "1996-01-04 - Byron Bay, Australia - Homebake Festival - Triple J Broadcast (2005 Rebroadcast) [SBD #1].txt"
+      "textFile": "1996-01-04 - Byron Bay, Australia - Homebake Festival [TV2].txt"
     },
     {
       "year": 1996,
@@ -464,9 +470,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Byron Bay, Australia",
       "venue": "Homebake Festival",
-      "notes": "Triple · 2005 Rebroadcast",
+      "notes": "Triple \u00b7 2005 Rebroadcast",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-04 - Byron Bay, Australia - Homebake Festival - Triple J Broadcast (2005 Rebroadcast) [SBD #1].txt"
     },
     {
       "year": 1996,
@@ -479,7 +486,8 @@ const ARTIST_DATA = {
       "venue": "The Palladium",
       "notes": "Live",
       "version": "SBD #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-04 - Los Angeles, CA - The Palladium - Live From the Pit [SBD #1a].txt"
     },
     {
       "year": 1996,
@@ -490,9 +498,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Palladium",
-      "notes": "DAT(M) · unk",
+      "notes": "DAT(M) \u00b7 unk",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-04 - Hollywood, CA - Hollywood Palladium [SBD #1].txt"
     },
     {
       "year": 1996,
@@ -505,7 +514,8 @@ const ARTIST_DATA = {
       "venue": "Hollywood Palladium",
       "notes": "",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-04 - Los Angeles, CA - The Palladium - DAT(M) (unk) [SBD #1].txt"
     },
     {
       "year": 1996,
@@ -588,7 +598,8 @@ const ARTIST_DATA = {
       "venue": "Astoria Theatre",
       "notes": "unk",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-21 - London, England - Astoria Theatre [AUD].txt"
     },
     {
       "year": 1996,
@@ -615,7 +626,8 @@ const ARTIST_DATA = {
       "venue": "Paradiso",
       "notes": "unk",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-03-05 - Amsterdam, Netherlands - Paradiso (unk) [SBD #1].txt"
     },
     {
       "year": 1996,
@@ -628,7 +640,8 @@ const ARTIST_DATA = {
       "venue": "The Paradiso *Liveomania",
       "notes": "",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-03-05 - Amsterdam, Netherlands - The Paradiso - Liveomania (unk) [SBD #1].txt"
     },
     {
       "year": 1996,
