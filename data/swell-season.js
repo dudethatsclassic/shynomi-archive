@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "swell-season",
   "name": "Swell Season",
   "drive": "E",
-  "showCount": 25,
+  "showCount": 27,
   "firstYear": 2006,
   "lastYear": 2026,
   "years": [
@@ -230,6 +230,19 @@ const ARTIST_DATA = {
     },
     {
       "year": 2010,
+      "month": 3,
+      "day": 14,
+      "dateStr": "3-14-2010",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "McCabe's",
+      "notes": "Schoeps MK40 · ridemyllama",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2010,
       "month": 10,
       "day": 15,
       "dateStr": "10-15-2010",
@@ -323,6 +336,19 @@ const ARTIST_DATA = {
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2024-11-23 - Brienz, Switzerland - Reusser Guitars (IG Livestream) (ryan fisher) [WEB].txt"
+    },
+    {
+      "year": 2025,
+      "month": 5,
+      "day": 29,
+      "dateStr": "5-29-2025",
+      "city": "Gateshead",
+      "state": "UK",
+      "location": "Gateshead, UK",
+      "venue": "The Glasshouse",
+      "notes": "Tascam DR40 · unk",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2025,
