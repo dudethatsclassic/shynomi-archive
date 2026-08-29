@@ -91,7 +91,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Peterborough, ON",
       "venue": "Peterborough MusicFest, Del Crary Park",
-      "notes": "Zoom H1n \u00b7 unk",
+      "notes": "Zoom H1n · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-07-22 - Peterborough, ON - Peterborough MusicFest, Del Crary Park (Zoom H1n) (unk) [AUD].txt"
