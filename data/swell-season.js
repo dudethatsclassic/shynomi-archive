@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "swell-season",
   "name": "Swell Season",
   "drive": "E",
-  "showCount": 27,
+  "showCount": 28,
   "firstYear": 2006,
   "lastYear": 2026,
   "years": [
@@ -11,6 +11,7 @@ const ARTIST_DATA = {
     2008,
     2009,
     2010,
+    2013,
     2015,
     2022,
     2023,
@@ -254,6 +255,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-10-15 - Barcelona, Spain - Sala 1 Pau Casals - L'Auditori (DPA 4061s) (fortylicks) [AUD].txt"
+    },
+    {
+      "year": 2013,
+      "month": 3,
+      "day": 25,
+      "dateStr": "3-25-2013",
+      "city": "Sydney",
+      "state": "Australia",
+      "location": "Sydney, Australia",
+      "venue": "Sydney Opera House",
+      "notes": "Glen Hansard & The Frames · Schoeps MK41s · mttdxb",
+      "version": "MIX",
+      "format": "FLAC"
     },
     {
       "year": 2015,
