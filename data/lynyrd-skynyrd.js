@@ -431,9 +431,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Civic Arena",
-      "notes": "ANA(1) · unk · wesmeyette",
+      "notes": "ANA(1) \u00b7 unk \u00b7 wesmeyette",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-06-08 - Pittsburgh, PA - Civic Arena - ANA(1)  (unk) (wesmeyette) [AUD].txt"
     },
     {
       "year": 1988,
