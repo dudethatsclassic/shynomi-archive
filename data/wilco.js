@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "wilco",
   "name": "Wilco",
   "drive": "E",
-  "showCount": 1279,
+  "showCount": 1280,
   "firstYear": 1994,
   "lastYear": 2026,
   "years": [
@@ -17795,6 +17795,19 @@ const ARTIST_DATA = {
       "notes": "Edirol R-09 · paul",
       "version": "AUD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "day": 28,
+      "dateStr": "8-28-2026",
+      "city": "Saint-Cloud",
+      "state": "France",
+      "location": "Saint-Cloud, France",
+      "venue": "Domaine National de Saint-Cloud, Scène AXS",
+      "notes": "france tv",
+      "version": "TV",
+      "format": "MP4"
     }
   ]
 };
