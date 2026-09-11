@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "tori-amos",
   "name": "Tori Amos",
   "drive": "E",
-  "showCount": 116,
+  "showCount": 118,
   "firstYear": 1991,
   "lastYear": 2026,
   "years": [
@@ -1641,6 +1641,32 @@ const ARTIST_DATA = {
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
       "notes": "AT ES943-933 · u.n.owen",
+      "version": "AUD",
+      "format": ""
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "day": 3,
+      "dateStr": "8-3-2026",
+      "city": "Syracuse",
+      "state": "NY",
+      "location": "Syracuse, NY",
+      "venue": "Landmark Theatre",
+      "notes": "Phone 1 · gkw",
+      "version": "AUD",
+      "format": ""
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "day": 29,
+      "dateStr": "8-29-2026",
+      "city": "Berkeley",
+      "state": "CA",
+      "location": "Berkeley, CA",
+      "venue": "Greek Theatre",
+      "notes": "Schoeps CCM4 · theman",
       "version": "AUD",
       "format": ""
     }
