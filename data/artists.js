@@ -3089,9 +3089,9 @@ const ARTISTS = [
   {
     "id": "tori-amos",
     "name": "Tori Amos",
-    "showCount": 115,
+    "showCount": 118,
     "firstYear": 1991,
-    "lastYear": 2022
+    "lastYear": 2026
   },
   {
     "id": "tracy-chapman",
