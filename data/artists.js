@@ -1297,9 +1297,9 @@ const ARTISTS = [
   {
     "id": "john-mayer",
     "name": "John Mayer",
-    "showCount": 378,
+    "showCount": 382,
     "firstYear": 1999,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "johnny-cash",
