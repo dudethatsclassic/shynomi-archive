@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "guster",
   "name": "Guster",
   "drive": "C",
-  "showCount": 859,
+  "showCount": 860,
   "firstYear": 1992,
   "lastYear": 2026,
   "years": [
@@ -8176,7 +8176,7 @@ const ARTIST_DATA = {
       "venue": "This Tent, Bonnaroo Festival",
       "notes": "unk",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC 24"
     },
     {
       "year": 2015,
@@ -10206,6 +10206,19 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "FLAC",
       "textFile": "2020-05-10 - Council Bluffs, IW - 89.7 The River KIWR (Webstream) (brian) [FM].txt"
+    },
+    {
+      "year": 2020,
+      "month": 8,
+      "day": 14,
+      "dateStr": "8-14-2020",
+      "city": "Brattleboro",
+      "state": "VT",
+      "location": "Brattleboro, VT",
+      "venue": "Brattleboro Music Center",
+      "notes": "youtube",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2020,
