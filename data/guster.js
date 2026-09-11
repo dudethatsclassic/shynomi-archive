@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "guster",
   "name": "Guster",
   "drive": "C",
-  "showCount": 860,
+  "showCount": 862,
   "firstYear": 1992,
   "lastYear": 2026,
   "years": [
@@ -10217,8 +10217,8 @@ const ARTIST_DATA = {
       "location": "Brattleboro, VT",
       "venue": "Brattleboro Music Center",
       "notes": "youtube",
-      "version": "",
-      "format": ""
+      "version": "WEB",
+      "format": "FLAC 24"
     },
     {
       "year": 2020,
@@ -10624,6 +10624,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-11-25 - New York, NY - Carnegie Hall - Stern Auditorium (H1) (cameron frye) [AUD 24].txt"
+    },
+    {
+      "year": 2024,
+      "month": 3,
+      "day": 18,
+      "dateStr": "3-18-2024",
+      "city": "Charleston",
+      "state": "SC",
+      "location": "Charleston, SC",
+      "venue": "Half-Moon Outfitters",
+      "notes": "youtube",
+      "version": "WEB",
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -11182,6 +11195,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-03-22 - Colombus, OH - KEMBA LIVE! (Zoom H1n) (acady) [AUD24].txt"
+    },
+    {
+      "year": 2024,
+      "month": 3,
+      "day": 22,
+      "dateStr": "3-22-2024",
+      "city": "Columbus",
+      "state": "OH",
+      "location": "Columbus, OH",
+      "venue": "WCBE-FM Studio A",
+      "notes": "FM-YouTube(x) · wcbe90.5fm",
+      "version": "WEB",
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
