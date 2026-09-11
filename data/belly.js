@@ -65,7 +65,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Koln, Germany",
       "venue": "Luxor",
-      "notes": "AUD(M) \u00b7 buenaventura",
+      "notes": "AUD(M) · buenaventura",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-03-02 - Koln, Germany - Luxor - AUD(M) (buenaventura) [AUD].txt"
@@ -93,10 +93,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Santa Monica Pier",
-      "notes": "KROQ \u00b7 Sony TCM-37V \u00b7 van",
+      "notes": "KROQ · Sony TCM-37V · van",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-04-16 - Santa Monica, CA - Santa Monica Pier - KROQ Free Concert (Sony TCM-37V) (van) [AUD].txt"
+      "textFile": "1993-04-16 - Santa Monica, CA - Santa Monica Pier (2-cam) (chrisedge) [DVD].txt"
     },
     {
       "year": 1993,
@@ -107,7 +107,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Santa Monica Pier",
-      "notes": "2-cam \u00b7 chrisedge",
+      "notes": "2-cam · chrisedge",
       "version": "AUD",
       "format": "DVD",
       "textFile": "1993-04-16 - Santa Monica, CA - Santa Monica Pier (2-cam) (chrisedge) [DVD].txt"
@@ -121,7 +121,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Grant Park (WXRT-FM)",
-      "notes": "DAT(M) \u00b7 nt",
+      "notes": "DAT(M) · nt",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1993-07-04 - Chicago, IL - Grant Park (WXRT-FM) - DAT(M) (nt) [FM].txt"
@@ -135,7 +135,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Cameo Theatre",
-      "notes": "SS-DSM-6 \u00b7 datfly",
+      "notes": "SS-DSM-6 · datfly",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-09-23 - Miami, FL - Cameo Theatre (SS-DSM-6) (datfly) [AUD].txt"
@@ -163,7 +163,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Virgin Megastore",
-      "notes": "ECM737 \u00b7 unk",
+      "notes": "ECM737 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-02-13 - Hollywood, CA - Virgin Megastore (ECM737) (unk) [AUD].txt"
@@ -191,7 +191,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theatre",
-      "notes": "MarcR binaurals \u00b7 marcr",
+      "notes": "MarcR binaurals · marcr",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1995-04-19 - Denver, CO - Ogden Theatre (MarcR binaurals) (marcr) [AUD24].txt"
@@ -275,7 +275,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -302,7 +302,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "notes": "MK4 \u00b7 daspyknows",
+      "notes": "MK4 · daspyknows",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -315,7 +315,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Wesley Stace's Cabinet of Wonders Winery",
-      "notes": "CA-14s \u00b7 neil d",
+      "notes": "CA-14s · neil d",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2017-05-05 - New York, NY - Wesley Stace's Cabinet of Wonders Winery (CA-14s) (neil d) [AUD].txt"
@@ -343,7 +343,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Gramercy Theatre",
-      "notes": "Nokia Lumia Icon \u00b7 viper",
+      "notes": "Nokia Lumia Icon · viper",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-10-08 - New York, NY - Gramercy Theatre (Nokia Lumia Icon) (viper) [AUD].txt"
@@ -357,7 +357,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Sony Hall",
-      "notes": "AT-853 \u00b7 neil d",
+      "notes": "AT-853 · neil d",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-10-24 - New York, NY - Sony Hall (AT-853) (neil d) [AUD24].txt"
@@ -371,7 +371,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Teragram Ballroom",
-      "notes": "SP-CMC-4U \u00b7 ijwthstd",
+      "notes": "SP-CMC-4U · ijwthstd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-11-07 - Los Angeles, CA - Teragram Ballroom (SP-CMC-4U) (ijwthstd) [AUD].txt"
