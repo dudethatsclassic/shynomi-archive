@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "WY",
       "location": "Cheyenne, WY",
       "venue": "Lion's Park Community House",
-      "notes": "Realistic SCP-29 \u00b7 lantz barbour",
+      "notes": "Realistic SCP-29 · lantz barbour",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1992-05-09 - Cheyenne, WY - Lion's Park Community House (Realistic SCP-29) (lantz barbour) [AUD].txt"
