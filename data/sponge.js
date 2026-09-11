@@ -39,7 +39,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -52,7 +52,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "Spartan Stadium",
-      "notes": "Lollapalooza \u00b7 unk \u00b7 neekrive",
+      "notes": "Lollapalooza · unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -65,7 +65,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Concord Pavilion",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -78,7 +78,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Johnson City, TN",
       "venue": "Gatsby's",
-      "notes": "CSBs \u00b7 geordy",
+      "notes": "CSBs · geordy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-11-04 - Johnson City, TN - Gatsby's (CSBs) (geordy) [AUD].txt"
@@ -92,7 +92,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Magic Stick",
-      "notes": "Church STC-11 \u00b7 pothole productions",
+      "notes": "Church STC-11 · pothole productions",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-02-27 - Detroit, MI - Magic Stick (Church STC-11) (pothole productions) [AUD].txt"
@@ -106,7 +106,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The King of Clubs",
-      "notes": "CA-14 \u00b7 charles dewey cole",
+      "notes": "CA-14 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-06-01 - Columbus, OH - The King of Clubs (CA-14) (charles dewey cole) [AUD].txt"
@@ -120,7 +120,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Commodore Ballroom",
-      "notes": "CA-11 \u00b7 leifh",
+      "notes": "CA-11 · leifh",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-10-12 - Vancouver, BC - Commodore Ballroom (CA-11) (leifh) [AUD].txt"
@@ -134,7 +134,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "The Parish at House of Blues",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-05-24 - Anaheim, CA - The Parish at House of Blues (DPA 4081) (faninor) [AUD24].txt"
@@ -148,7 +148,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Clinton Square",
-      "notes": "AKGck61 \u00b7 beatkilla",
+      "notes": "AKGck61 · beatkilla",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-08-16 - Syracuse, NY - Clinton Square (AKGck61) (beatkilla) [AUD24].txt"
@@ -162,7 +162,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Liverpool, NY",
       "venue": "Sharkey's Event Center",
-      "notes": "Schoeps MK4 \u00b7 beatkilla",
+      "notes": "Schoeps MK4 · beatkilla",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-07-16 - Liverpool, NY - Sharkey's Event Center (Schoeps MK4) (beatkilla) [AUD].txt"
@@ -176,7 +176,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Clinton Square",
-      "notes": "Sennheiser MKE1 \u00b7 beatkilla",
+      "notes": "Sennheiser MKE1 · beatkilla",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-08-16 - Syracuse, NY - Clinton Square (Sennheiser MKE1) (beatkilla) [AUD24].txt"
@@ -190,7 +190,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Goldfield Trading Post",
-      "notes": "SP-CMC-4U \u00b7 vibrioidxire",
+      "notes": "SP-CMC-4U · vibrioidxire",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-04-06 - Sacramento, CA - Goldfield Trading Post (SP-CMC-4U) (vibrioidxire) [AUD24].txt"
@@ -204,7 +204,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Charles, MO",
       "venue": "Family Arena",
-      "notes": "Sony PCM-A10 \u00b7 shane e. calhoon",
+      "notes": "Sony PCM-A10 · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-09-26 - St. Charles, MO - Family Arena (Sony PCM-A10) (shane e. calhoon) [AUD24].txt"
@@ -218,7 +218,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "The Plaza Theatre",
-      "notes": "Panasonic MM-BSM7s \u00b7 kevdogg",
+      "notes": "Panasonic MM-BSM7s · kevdogg",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-10-07 - Orlando, FL - The Plaza Theatre (Panasonic MM-BSM7s) (kevdogg) [AUD].txt"
@@ -232,7 +232,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Neighborhood Theatre",
-      "notes": "M \u00b7 Shure MV88 \u00b7 shynomi",
+      "notes": "M · Shure MV88 · shynomi",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-10-16 - Charlotte, NC - Neighborhood Theatre (Shure MV88) (shynomi) [AUD24].txt"
@@ -246,7 +246,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
-      "notes": "SP-CMC-8 \u00b7 live2cd",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-10-27 - Cleveland, OH - House of Blues (SP-CMC-8) (live2cd) [AUD].txt"
@@ -260,7 +260,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Edwardsville, IL",
       "venue": "The Wildey Theatre",
-      "notes": "Sony PCM-A10 \u00b7 shanecalhoon",
+      "notes": "Sony PCM-A10 · shanecalhoon",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-04-23 - Edwardsville, IL - The Wildey Theatre (Sony PCM-A10) (shanecalhoon) [AUD24].txt"
@@ -274,7 +274,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Greenfield, IN",
       "venue": "Depot Street Park",
-      "notes": "Freedom \u00b7 CA-14 Omni \u00b7 charlesdeweycoleiv",
+      "notes": "Freedom · CA-14 Omni · charlesdeweycoleiv",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-07-04 - Greenfield, IN - Depot Street Park - Freedom Fest 2026 (CA-14 Omni) (charlesdeweycoleiv) [AUD].txt"
