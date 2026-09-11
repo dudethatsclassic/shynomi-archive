@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "gin-blossoms",
   "name": "Gin Blossoms",
   "drive": "C",
-  "showCount": 66,
+  "showCount": 70,
   "firstYear": 1990,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1990,
     1992,
@@ -30,7 +30,8 @@ const ARTIST_DATA = {
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -108,7 +109,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "State Student Union",
-      "notes": "ANA(M) \u00b7 ECM-909 \u00b7 tjcruz",
+      "notes": "ANA(M) · ECM-909 · tjcruz",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -121,7 +122,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Justin Herman Plaza",
-      "notes": "ANA(M) \u00b7 ECM-909 \u00b7 tjcruz",
+      "notes": "ANA(M) · ECM-909 · tjcruz",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -267,7 +268,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "St. Petersburg, FL",
       "venue": "Jannus Landing",
-      "notes": "Core Sound Stealth \u00b7 fletchina",
+      "notes": "Core Sound Stealth · fletchina",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-05-31 - St. Petersburg, FL - Jannus Landing (Core Sound Stealth) (fletchina) [AUD].txt"
@@ -363,7 +364,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Soldier's Memorial",
-      "notes": "Rib \u00b7 CSSC \u00b7 shane e. calhoon",
+      "notes": "Rib · CSSC · shane e. calhoon",
       "version": "AUD",
       "format": "SHN",
       "textFile": "2003-05-24 - St. Louis, MO - Soldier's Memorial - Rib American Festival [AUD].txt"
@@ -391,7 +392,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Uncasville, CT",
       "venue": "Wolf Den @ Mohegan Sun Casino",
-      "notes": "ECM719 \u00b7 b",
+      "notes": "ECM719 · b",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-10-15 - Uncasville, CT - Wolf Den [AUD].txt"
@@ -405,7 +406,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Alton, IL",
       "venue": "Argosy Casino",
-      "notes": "CSSC \u00b7 shane e. calhoon",
+      "notes": "CSSC · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-07-07 - Alton, IL - Argosy Casino - Music Room [AUD].txt"
@@ -419,7 +420,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
-      "notes": "ECM-717 \u00b7 kevdogg",
+      "notes": "ECM-717 · kevdogg",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-09-26 - Orlando, FL - House of Blues [AUD].txt"
@@ -433,7 +434,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "City Hall",
-      "notes": "Sony ECM-717 \u00b7 unk",
+      "notes": "Sony ECM-717 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-03-10 - Orlando, FL - City Hall [AUD].txt"
@@ -447,7 +448,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Grapevine, TX",
       "venue": "Glass Cactus",
-      "notes": "CA-11 \u00b7 david sell",
+      "notes": "CA-11 · david sell",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-06-27 - Grapevine, TX - Glass Cactus (CA-11) (david sell) [AUD].txt"
@@ -461,7 +462,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Corning City Preserve",
-      "notes": "SP-CMC4s \u00b7 unk",
+      "notes": "SP-CMC4s · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-07-01 - Albany, NY - Corning City Preserve (SP-CMC4s) (unk) [AUD].txt"
@@ -475,7 +476,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "Promenade Park",
-      "notes": "DPA 4060 \u00b7 live2cd",
+      "notes": "DPA 4060 · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-07-31 - Toledo, OH - Promenade Park [AUD].txt"
@@ -503,7 +504,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Colorado Springs, CO",
       "venue": "Spec's Spot at the Broadmoor Hotel",
-      "notes": "DPA 4060 \u00b7 brainblank",
+      "notes": "DPA 4060 · brainblank",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-12-02 - Colorado Springs, CO - Spec's Spot at the Broadmoor Hotel [AUD].txt"
@@ -517,7 +518,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Arizona Stands Together",
-      "notes": "200 \u00b7 Tascam DR-100 \u00b7 unk",
+      "notes": "200 · Tascam DR-100 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-01-12 - Phoenix, AZ - Arizona Stands Together - 200 EVB (Tascam DR-100) (unk) [AUD].txt"
@@ -531,7 +532,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Denver Day of Rock",
-      "notes": "16th \u00b7 Gefell M300 \u00b7 lance stack",
+      "notes": "16th · Gefell M300 · lance stack",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2011-05-28 - Denver, CO - Denver Day of Rock - 16th Street Mall [AUD24].txt"
@@ -545,7 +546,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "The Soiled Dove Underground",
-      "notes": "Gefell M300 \u00b7 lance stack",
+      "notes": "Gefell M300 · lance stack",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2011-05-29 - Denver, CO - The Soiled Dove Underground [AUD24].txt"
@@ -559,7 +560,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Bloomington, IL",
       "venue": "Castle Theatre",
-      "notes": "DPA 4061s \u00b7 don",
+      "notes": "DPA 4061s · don",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-07-08 - Bloomington, IL - Castle Theatre [AUD].txt"
@@ -573,7 +574,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The Bluestone",
-      "notes": "CA-14s \u00b7 live2cd",
+      "notes": "CA-14s · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2011-09-19 - Columbus, OH - The Bluestone [AUD24].txt"
@@ -587,7 +588,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The Lifestyle Communities Pavilion",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2012-07-10 - Columbus, OH - The Lifestyle Communities Pavilion [AUD24].txt"
@@ -601,7 +602,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Asbury Park, NJ",
       "venue": "Stone Pony",
-      "notes": "SP-CMC4s \u00b7 unk",
+      "notes": "SP-CMC4s · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2013-01-19 - Asbury Park, NJ - Stone Pony [AUD].txt"
@@ -615,7 +616,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Battle Creek, MI",
       "venue": "FireKeepers Casino",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2013-12-21 - Battle Creek, MI - FireKeepers Casino [AUD24].txt"
@@ -629,7 +630,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Columbus Bicentennial Pavilion at Columbus Commons",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-08-21 - Columbus, OH - Columbus Bicentennial Pavilion at Columbus Commons [AUD].txt"
@@ -643,7 +644,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Fountain, CO",
       "venue": "Pikes Peak International Raceway",
-      "notes": "DPA 4061s \u00b7 cheese cadet audio",
+      "notes": "DPA 4061s · cheese cadet audio",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2017-06-22 - Fountain, CO - Pikes Peak International Raceway [AUD].flac.txt"
@@ -657,7 +658,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Arlington Heights, IL",
       "venue": "Frontier Days Fest",
-      "notes": "DPA 4022 \u00b7 analog4011",
+      "notes": "DPA 4022 · analog4011",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2017-07-02 - Arlington Heights, IL - Frontier Days Fest [AUD24].txt"
@@ -671,7 +672,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Celebrity Theatre",
-      "notes": "Microtrack 2 \u00b7 milocampo",
+      "notes": "Microtrack 2 · milocampo",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -684,7 +685,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Marion, OH",
       "venue": "The Marion Popcorn Festival",
-      "notes": "Main \u00b7 CA14 \u00b7 live2cd",
+      "notes": "Main · CA14 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2017-09-08 - Marion, OH - The Marion Popcorn Festival - Main Stage [AUD24].txt"
@@ -698,7 +699,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Atlantic City, NJ",
       "venue": "Borgata Casino",
-      "notes": "AT853s \u00b7 musicman224",
+      "notes": "AT853s · musicman224",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2017-12-01 - Atlantic City, NJ - Borgata Casino [AUD].txt"
@@ -712,7 +713,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "St. Andrews Hall",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2018-02-18 - Detroit, MI - St. Andrews Hall [AUD24].txt"
@@ -726,7 +727,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Infinity Hall 9",
-      "notes": "Beyer MC930 \u00b7 steve walkuski",
+      "notes": "Beyer MC930 · steve walkuski",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-02-22 - Hartford, CT - Infinity Hall [AUD].txt"
@@ -740,7 +741,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Express Live!",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2018-06-06 - Columbus, OH - Express Live [AUD24].txt"
@@ -754,7 +755,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Huber Heights, OH",
       "venue": "Rose Music Center",
-      "notes": "AT853 \u00b7 live2cd",
+      "notes": "AT853 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2018-06-13 - Huber Heights, OH - Rose Music Center [AUD24].txt"
@@ -768,7 +769,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Huber Heights, OH",
       "venue": "Rose Music Center",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2019-06-13 - Huber Heights, OH - Rose Music Center [AUD24].txt"
@@ -782,7 +783,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "Hollywood Casino Amphitheatre",
-      "notes": "Nokia Lumia Icon \u00b7 shane e. calhoon",
+      "notes": "Nokia Lumia Icon · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-08-31 - Maryland Heights, MO - Hollywood Casino Amphitheatre [AUD].txt"
@@ -796,7 +797,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Osh Kosh, WI",
       "venue": "Waterfest",
-      "notes": "Edirol R09HR \u00b7 unk",
+      "notes": "Edirol R09HR · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-07-22 - Osh Kosh, WI - Waterfest (Edirol R09HR) (unk) [AUD].txt"
@@ -810,7 +811,7 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Wolf Trap",
-      "notes": "LG V60 \u00b7 hemisphere",
+      "notes": "LG V60 · hemisphere",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-07-17 - Vienna, VA - Wolf Trap (LG V60) (hemisphere) [AUD].txt"
@@ -824,7 +825,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Chevrolet Court",
-      "notes": "Sennheiser ME105 \u00b7 beatkilla",
+      "notes": "Sennheiser ME105 · beatkilla",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-09-02 - Syracuse, NY - Chevrolet Court (Sennheiser ME105) (beatkilla) [AUD24].txt"
@@ -838,7 +839,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Mason, OH",
       "venue": "Mason Municipal Campus",
-      "notes": "CA-14s \u00b7 live2cd",
+      "notes": "CA-14s · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-07-03 - Mason, OH - Mason Municipal Campus (CA-14s) (live2cd) [AUD24].txt"
@@ -852,7 +853,7 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Huntsville, AL",
       "venue": "South Star Music Festival",
-      "notes": "Supersonic \u00b7 Schoeps MK4 \u00b7 jesse mc",
+      "notes": "Supersonic · Schoeps MK4 · jesse mc",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-09-28 - Huntsville, AL - South Star Music Festival - Supersonic Stage (Schoeps MK4) (jesse mc) [AUD24].txt"
@@ -866,7 +867,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Lincoln, CA",
       "venue": "Thunder Valley Casino Resort",
-      "notes": "WAV(M) \u00b7 SP-CMC-4U \u00b7 vibriodxire",
+      "notes": "WAV(M) · SP-CMC-4U · vibriodxire",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-01-25 - Lincoln, CA - Thunder Valley Casino Resort - WAV(M) (SP-CMC-4U) (vibriodxire) [AUD24].txt"
@@ -880,7 +881,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
-      "notes": "iPhone 16 Pro \u00b7 stoodo",
+      "notes": "iPhone 16 Pro · stoodo",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -893,7 +894,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Highland Park, IL",
       "venue": "The Pavilion",
-      "notes": "CA-14s \u00b7 brian emerick",
+      "notes": "CA-14s · brian emerick",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-07-26 - Highland Park, IL - The Pavilion (CA-14s) (brian emerick) [AUD24].txt"
@@ -907,7 +908,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Ashwaubenon, WI",
       "venue": "Capital Credit Union Park",
-      "notes": "BSC1 \u00b7 69mako",
+      "notes": "BSC1 · 69mako",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-07-27 - Ashwaubenon, WI - Capital Credit Union Park (BSC1) (69mako) [AUD].txt"
@@ -921,7 +922,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Gallagher Square",
-      "notes": "AKG C414 XLS \u00b7 dave mallick",
+      "notes": "AKG C414 XLS · dave mallick",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-08-16 - San Diego, CA - Gallagher Square (AKG C414 XLS) (dave mallick) [AUD24].txt"
@@ -935,11 +936,62 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Rocklin, CA",
       "venue": "Quarry Park Amphitheatre",
-      "notes": "WAV(M) \u00b7 SP-CMC-4U \u00b7 vibriodxire",
+      "notes": "WAV(M) · SP-CMC-4U · vibriodxire",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-08-17 - Rocklin, CA - Quarry Park Amphitheatre - WAV(M) (SP-CMC-4U) (vibriodxire) [AUD24].txt"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "day": 8,
+      "dateStr": "8-8-2026",
+      "city": "Columbus",
+      "state": "OH",
+      "location": "Columbus, OH",
+      "venue": "Celeste Center",
+      "notes": "Tascam DR-07XP · unk",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "day": 11,
+      "dateStr": "8-11-2026",
+      "city": "Vienna",
+      "state": "VA",
+      "location": "Vienna, VA",
+      "venue": "Wolf Trap National Park for the Performing Arts",
+      "notes": "LG V60 · hemisphire",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "day": 15,
+      "dateStr": "8-15-2026",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Central Park Summerstage",
+      "notes": "Neumann TLM170 · scottbernstein",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "day": 5,
+      "dateStr": "9-5-2026",
+      "city": "Atlanta",
+      "state": "GA",
+      "location": "Atlanta, GA",
+      "venue": "Synovus Bank Amphitheater at Chastain Park",
+      "notes": "Schoeps MK4 · jessemc",
+      "version": "AMT",
+      "format": "MP4"
     }
-  ],
-  "misc": []
+  ]
 };
