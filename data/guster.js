@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "guster",
   "name": "Guster",
   "drive": "C",
-  "showCount": 856,
+  "showCount": 859,
   "firstYear": 1992,
   "lastYear": 2026,
   "years": [
@@ -335,6 +335,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-05-17 - Martinsville, NJ - The Pingry School [AUD].txt"
+    },
+    {
+      "year": 1996,
+      "month": 5,
+      "day": 18,
+      "dateStr": "5-18-1996",
+      "city": "Portsmouth",
+      "state": "NH",
+      "location": "Portsmouth, NH",
+      "venue": "The Music Hall",
+      "notes": "Aiwa mic · jeffhowe",
+      "version": "AUD",
+      "format": "FLAC 24"
     },
     {
       "year": 1996,
@@ -1258,6 +1271,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-09-05 -Portland, OR - Portland Meadows - H.O.R.D.E. Festival [AUD].txt"
+    },
+    {
+      "year": 1998,
+      "month": 9,
+      "day": 13,
+      "dateStr": "9-13-1998",
+      "city": "Atlanta",
+      "state": "GA",
+      "location": "Atlanta, GA",
+      "venue": "APC Studios",
+      "notes": "99X · FM-VHS · ericnorthcutt",
+      "version": "FM",
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -8138,6 +8164,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2015-05-02 - Portland, ME - State Theatre (Late show) (KM201s) (dave mallick) [AUD24].txt"
+    },
+    {
+      "year": 2015,
+      "month": 6,
+      "day": 12,
+      "dateStr": "6-12-2015",
+      "city": "Manchester",
+      "state": "TN",
+      "location": "Manchester, TN",
+      "venue": "This Tent, Bonnaroo Festival",
+      "notes": "unk",
+      "version": "AUD",
+      "format": ""
     },
     {
       "year": 2015,
