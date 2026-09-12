@@ -19,7 +19,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -32,7 +32,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "Hollywood Casino Amphitheater",
-      "notes": "Nokia Lumia Icon \u00b7 cptncrash76",
+      "notes": "Nokia Lumia Icon · cptncrash76",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-08-31 - Maryland Heights, MO - Hollywood Casino Amphitheater (Nokia Lumia Icon) (cptncrash76) [AUD].txt"
