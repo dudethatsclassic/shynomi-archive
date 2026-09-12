@@ -2,13 +2,14 @@ const ARTIST_DATA = {
   "id": "teenage-fanclub",
   "name": "Teenage Fanclub",
   "drive": "C",
-  "showCount": 19,
+  "showCount": 21,
   "firstYear": 1991,
   "lastYear": 2025,
   "years": [
     1991,
     1992,
     1993,
+    1994,
     1995,
     1996,
     2003,
@@ -48,6 +49,19 @@ const ARTIST_DATA = {
       "version": "preFM",
       "format": "FLAC",
       "textFile": "1992-02-01 - London, UK - Town & Country [preFM].txt"
+    },
+    {
+      "year": 1992,
+      "month": 2,
+      "day": 28,
+      "dateStr": "2-28-1992",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Marquee",
+      "notes": "Sony 929 mic · scottsimpson",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -106,6 +120,19 @@ const ARTIST_DATA = {
       "textFile": "1993-11-03 - Lille, France - L'Aeronef [AUD #2].txt"
     },
     {
+      "year": 1994,
+      "month": 2,
+      "day": 16,
+      "dateStr": "2-16-1994",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Irving Plaza",
+      "notes": "Sony 929 mic · scottsimpson",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
       "year": 1995,
       "month": 8,
       "day": 20,
@@ -114,7 +141,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -155,7 +182,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Knitting Factory",
-      "notes": "Sony WM-D3 \u00b7 manofstealth",
+      "notes": "Sony WM-D3 · manofstealth",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2005-08-07 - Los Angeles, CA - Knitting Factory (Sony WM-D3) (manofstealth) [AUD24].txt"
@@ -169,7 +196,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
-      "notes": "ECM-909a \u00b7 steve hanna",
+      "notes": "ECM-909a · steve hanna",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-07-26 - Carrboro, NC - Cat's Cradle (ECM-909a) (steve hanna) [AUD].txt"
@@ -183,7 +210,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Glanusk Park",
       "venue": "Wales, UK / Green Man Festival",
-      "notes": "Far \u00b7 SP-CMC-2s \u00b7 rayrad",
+      "notes": "Far · SP-CMC-2s · rayrad",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-08-22 - Glanusk Park - Wales, UK - Green Man Festival - Far Out Tent (SP-CMC-2s) (rayrad) [AUD].txt"
@@ -197,7 +224,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Pumpehuset",
-      "notes": "CA-14 \u00b7 unk",
+      "notes": "CA-14 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-04-25 - Copenhagen, Denmark - Pumpehuset (CA-14) (unk) [AUD].txt"
@@ -211,7 +238,7 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "San Sebastian, Spain",
       "venue": "Victoria Eugenia",
-      "notes": "Yamaha PR7 \u00b7 unaesfingelunar",
+      "notes": "Yamaha PR7 · unaesfingelunar",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-10-15 - San Sebastian, Spain - Victoria Eugenia (Yamaha PR7) (unaesfingelunar) [AUD].txt"
@@ -225,7 +252,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Mississippi Studios",
-      "notes": "DPA 4061s \u00b7 tim kahn",
+      "notes": "DPA 4061s · tim kahn",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-05-12 - Portland, OR - Mississippi Studios (DPA 4061s) (tim kahn) [AUD24].txt"
@@ -239,7 +266,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Mississippi Studios",
-      "notes": "DPA 4061s \u00b7 tim kahn",
+      "notes": "DPA 4061s · tim kahn",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-05-13 - Portland, OR - Mississippi Studios (DPA 4061s) (tim kahn) [AUD24].txt"
@@ -253,7 +280,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Filmore",
-      "notes": "Schoeps MK4 \u00b7 loughney",
+      "notes": "Schoeps MK4 · loughney",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-05-16 - San Francisco, CA - The Filmore (Schoeps MK4) (loughney) [AUD24].txt"
@@ -267,7 +294,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Teragram Ballroom",
-      "notes": "CA-11 \u00b7 manofstealth",
+      "notes": "CA-11 · manofstealth",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-05-18 - Los Angeles, CA - Teragram Ballroom (CA-11) (manofstealth) [AUD24].txt"
@@ -281,7 +308,7 @@ const ARTIST_DATA = {
       "state": "Argentina",
       "location": "Buenos Aires, Argentina",
       "venue": "C Art Media",
-      "notes": "MM-MCSM-4 \u00b7 rony kohn",
+      "notes": "MM-MCSM-4 · rony kohn",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-09-09 - Buenos Aires, Argentina - C Art Media (MM-MCSM-4) (rony kohn) [AUD].txt"
