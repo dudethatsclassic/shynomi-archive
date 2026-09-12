@@ -2732,7 +2732,7 @@ const ARTISTS = [
   {
     "id": "teenage-fanclub",
     "name": "Teenage Fanclub",
-    "showCount": 19,
+    "showCount": 21,
     "firstYear": 1991,
     "lastYear": 2025
   },
