@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "john-mayer",
   "name": "John Mayer",
   "drive": "E",
-  "showCount": 382,
+  "showCount": 388,
   "firstYear": 1999,
   "lastYear": 2026,
   "years": [
@@ -3548,6 +3548,19 @@ const ARTIST_DATA = {
     },
     {
       "year": 2013,
+      "month": 7,
+      "day": 17,
+      "dateStr": "7-17-2013",
+      "city": "Morrison",
+      "state": "CO",
+      "location": "Morrison, CO",
+      "venue": "Red Rocks Amphitheatre",
+      "notes": "SiriusXM",
+      "version": "WEB",
+      "format": "FLAC"
+    },
+    {
+      "year": 2013,
       "month": 8,
       "day": 10,
       "dateStr": "8-10-2013",
@@ -3684,6 +3697,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2013-09-27 - Atlanta, GA - Aaron's Amphitheatre at Lakewood (unk) (don browning) [AUD].txt"
+    },
+    {
+      "year": 2013,
+      "month": 9,
+      "day": 27,
+      "dateStr": "9-27-2013",
+      "city": "Atlanta",
+      "state": "GA",
+      "location": "Atlanta, GA",
+      "venue": "Aaron's Amphitheatre at Lakewood",
+      "notes": "SiriusXM",
+      "version": "WEB",
+      "format": "FLAC"
     },
     {
       "year": 2013,
@@ -4437,6 +4463,19 @@ const ARTIST_DATA = {
     {
       "year": 2019,
       "month": 7,
+      "day": 26,
+      "dateStr": "7-26-2019",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Madison Square Garden",
+      "notes": "SiriusXM",
+      "version": "WEB",
+      "format": "FLAC"
+    },
+    {
+      "year": 2019,
+      "month": 7,
       "day": 30,
       "dateStr": "7-30-2019",
       "city": "Toronto",
@@ -4709,6 +4748,19 @@ const ARTIST_DATA = {
     },
     {
       "year": 2022,
+      "month": 2,
+      "day": 21,
+      "dateStr": "2-21-2022",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Madison Square Garden",
+      "notes": "SiriusXM",
+      "version": "WEB",
+      "format": "FLAC"
+    },
+    {
+      "year": 2022,
       "month": 3,
       "day": 11,
       "dateStr": "3-11-2022",
@@ -4825,6 +4877,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-04-09 - Atlanta, GA - State Farm Arena (Schoeps MK4s) (mark terrell) [AUD].txt"
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 14,
+      "dateStr": "4-14-2022",
+      "city": "Nashville",
+      "state": "TN",
+      "location": "Nashville, TN",
+      "venue": "Bridgestone Arena",
+      "notes": "SiriusXM",
+      "version": "WEB",
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -5058,6 +5123,19 @@ const ARTIST_DATA = {
       "notes": "Zoom H1 · djid4",
       "version": "AUD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "dateStr": "4-14-2023",
+      "city": "Inglewood",
+      "state": "CA",
+      "location": "Inglewood, CA",
+      "venue": "The Forum",
+      "notes": "SiriusXM",
+      "version": "WEB",
+      "format": "FLAC"
     },
     {
       "year": 2023,
