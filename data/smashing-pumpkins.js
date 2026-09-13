@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "smashing-pumpkins",
   "name": "Smashing Pumpkins",
   "drive": "B",
-  "showCount": 1804,
+  "showCount": 1805,
   "firstYear": 1988,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1988,
     1989,
@@ -34,7 +34,8 @@ const ARTIST_DATA = {
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -24997,6 +24998,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-09-29 - Quezon City, PH - Smart Araneta Coliseum.txt"
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "day": 29,
+      "dateStr": "7-29-2026",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Riviera Theatre",
+      "notes": "Schoeps MK4s · tapeworm48",
+      "version": "AUD #1",
+      "format": "FLAC 24"
     },
     {
       "year": 1988,
