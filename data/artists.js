@@ -2473,7 +2473,7 @@ const ARTISTS = [
   {
     "id": "smashing-pumpkins",
     "name": "Smashing Pumpkins",
-    "showCount": 1803,
+    "showCount": 1804,
     "firstYear": 1988,
     "lastYear": 2025
   },
