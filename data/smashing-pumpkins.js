@@ -25028,15 +25028,15 @@ const ARTIST_DATA = {
     {
       "year": 2026,
       "month": 7,
-      "day": 29,
-      "dateStr": "7-29-2026",
+      "day": 31,
+      "dateStr": "7-31-2026",
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Riviera Theatre",
-      "notes": "WAV(M) · CA-14s · bullet1979",
-      "version": "",
-      "format": ""
+      "venue": "Grant Park",
+      "notes": "Bud · Disney+ Stream",
+      "version": "WEB",
+      "format": "FLAC"
     },
     {
       "year": 1988,
