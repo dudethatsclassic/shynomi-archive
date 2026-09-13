@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "smashing-pumpkins",
   "name": "Smashing Pumpkins",
   "drive": "B",
-  "showCount": 1805,
+  "showCount": 1807,
   "firstYear": 1988,
   "lastYear": 2026,
   "years": [
@@ -25011,6 +25011,32 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4s · tapeworm48",
       "version": "AUD #1",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "day": 29,
+      "dateStr": "7-29-2026",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Riviera Theatre",
+      "notes": "WAV(M) · CA-14s · bullet1979",
+      "version": "AUD #3",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "day": 29,
+      "dateStr": "7-29-2026",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Riviera Theatre",
+      "notes": "WAV(M) · CA-14s · bullet1979",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1988,
