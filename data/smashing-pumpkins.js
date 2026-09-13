@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "smashing-pumpkins",
   "name": "Smashing Pumpkins",
   "drive": "B",
-  "showCount": 1803,
+  "showCount": 1804,
   "firstYear": 1988,
   "lastYear": 2025,
   "years": [
@@ -6616,6 +6616,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-05-11 - Dublin, Ireland - The Point.txt"
+    },
+    {
+      "year": 1996,
+      "month": 5,
+      "day": 11,
+      "dateStr": "5-11-1996",
+      "city": "Dublin",
+      "state": "Ireland",
+      "location": "Dublin, Ireland",
+      "venue": "The Point",
+      "notes": "DAT(2) · SS-DSM6 · mz transfer",
+      "version": "AUD #1",
+      "format": "FLAC"
     },
     {
       "year": 1996,
