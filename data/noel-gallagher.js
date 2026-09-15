@@ -24,7 +24,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Wolverhampton, England",
       "venue": "Civic Hall",
-      "notes": "Sony D8 \u00b7 tommybagnall",
+      "notes": "Sony D8 · tommybagnall",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-07-06 - Wolverhampton, England - Civic Hall (Sony D8) (tommybagnall) [AUD].txt"
@@ -107,7 +107,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The Royal Albert Hall",
-      "notes": "DAT(M) \u00b7 AT831b \u00b7 johnky",
+      "notes": "DAT(M) · AT831b · johnky",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-03-26 - London, UK - The Royal Albert Hall - DAT(M) (AT831b) (johnky) [AUD].txt"
@@ -121,7 +121,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Albert Hall",
-      "notes": "Teenage \u00b7 Sony Ericsson C901 \u00b7 jp zarka",
+      "notes": "Teenage · Sony Ericsson C901 · jp zarka",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-03-25 - London, UK - Live from the Royal Albert Hall, TCT (an oasisshare recording [AUD].txt"
@@ -135,7 +135,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Royal Albert Hall",
-      "notes": "AT898 + Icom IC-R5 \u00b7 unk",
+      "notes": "AT898 + Icom IC-R5 · unk",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2010-03-25 - London, England - Royal Albert Hall (AT898 + Icom IC-R5) (unk) [MIX].txt"
@@ -176,7 +176,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Ridgefield, WA",
       "venue": "RV Inn Style Resorts Amphitheater",
-      "notes": "SP-CMC-9 \u00b7 robgronotte",
+      "notes": "SP-CMC-9 · robgronotte",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-06-03 - Ridgefield, WA - RV Inn Style Resorts Amphitheater (SP-CMC-9) (robgronotte) [AUD].txt"
