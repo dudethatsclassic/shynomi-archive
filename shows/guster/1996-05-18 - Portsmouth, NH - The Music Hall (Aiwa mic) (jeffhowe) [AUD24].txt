@@ -1,0 +1,33 @@
+Guster
+The Music Hall
+Portsmouth, NH
+May 18, 1996
+
+01 Window
+02 Grin
+03 Bury Me
+04 Perfect
+05 Happy Frappy
+06 Mona Lisa
+07 Pantomime
+08 Dissolve*
+09 Dregs
+
+Adam Gardner: vocals, guitar
+Brian Rosenworcel: bongos, percussion
+Ryan Miller: vocals, guitar
+
+*with
+Andy Happel: violin
+Drew Wyman: bass
+
+Taper: Jeff Howe
+Source: Aiwa mic > Aiwa HS-JS350 cassette recorder > master cassette
+Lineage: Master cassette > Sony TC-WE605S cassette player > 1st gen cassette > Sony TC-WE605S cassette player > PC > iZotope RX 12 > WAV (24 bit/48 kHz) > Audacity (speed & pitch adjustment; track breaks; levels) > WAV (24 bit/48 kHz) > TLH > FLAC
+
+September 2026 transfer by Jeff Howe 
+
+Notes: 
+Opening for Thanks to Gravity. Guster joined TTG for "The Devil Went Down to Portsmouth" during the encore.
+The master tape was slightly damaged and had some dropouts. My safety copy played cleanly so that is what I used for this transfer.
+

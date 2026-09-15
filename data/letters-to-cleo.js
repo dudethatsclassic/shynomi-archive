@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -45,7 +45,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Numbers",
-      "notes": "Sony PC-62 · mystical crow",
+      "notes": "Sony PC-62 \u00b7 mystical crow",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-10-12 - Houston, TX - Numbers (Sony PC-62) (mystical crow) [AUD].txt"

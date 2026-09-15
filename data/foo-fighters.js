@@ -1435,7 +1435,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-08-08 - Toronto, ON - Phoenix Concert Centre - VHS(1) (seanfoster) [MKV].txt"
+      "textFile": "1995-08-08 - Toronto, Ontario - Phoenix Concert Theatre [AUD].txt"
     },
     {
       "year": 1995,
@@ -1446,9 +1446,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Phoenix Concert Centre",
-      "notes": "VHS(1) · seanfoster",
+      "notes": "VHS(1) \u00b7 seanfoster",
       "version": "AMT #1",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1995-08-08 - Toronto, ON - Phoenix Concert Centre - VHS(1) (seanfoster) [MKV].txt"
     },
     {
       "year": 1995,
@@ -3587,7 +3588,7 @@ const ARTIST_DATA = {
       "notes": "Phoenix · M · loughney transfer",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1996-07-19 - Long Marston, United Kingdom - Long Marston Airfield - Phoenix Festival (VHS(x)) (unk) [MKV].txt"
+      "textFile": "1996-07-19 - Stratford-upon-Avon, UK - Long Marston Airfield - Phoenix Fest - DAT(M) (loughney transfer) [SBD].txt"
     },
     {
       "year": 1996,
@@ -3598,9 +3599,10 @@ const ARTIST_DATA = {
       "state": "United Kingdom",
       "location": "Long Marston, United Kingdom",
       "venue": "Long Marston Airfield",
-      "notes": "Phoenix · VHS(x · unk",
+      "notes": "Phoenix \u00b7 VHS(x \u00b7 unk",
       "version": "AMT #1",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1996-07-19 - Long Marston, United Kingdom - Long Marston Airfield - Phoenix Festival (VHS(x)) (unk) [MKV].txt"
     },
     {
       "year": 1997,
@@ -3821,9 +3823,10 @@ const ARTIST_DATA = {
       "state": "United Kingdom",
       "location": "London, United Kingdom",
       "venue": "Astoria Theatre",
-      "notes": "Hi8(M) · unk",
+      "notes": "Hi8(M) \u00b7 unk",
       "version": "AMT #1",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1997-05-28 - London, United Kingdom - Astoria Theatre - Hi8(M) (unk) [MKV].txt"
     },
     {
       "year": 1997,
@@ -5825,7 +5828,7 @@ const ARTIST_DATA = {
       "notes": "CSC",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1998-06-20 - United Kingdom - Milton Keynes Bowl [AUD #2].txt"
+      "textFile": "1998-06-20 - Milton Keynes, GB - National Bowl - Ozzfest (master8uk) [MKV].txt"
     },
     {
       "year": 1998,
@@ -5853,7 +5856,7 @@ const ARTIST_DATA = {
       "notes": "Sony",
       "version": "AUD #2 (48k)",
       "format": "FLAC",
-      "textFile": "1998-06-20 - United Kingdom - Milton Keynes Bowl [AUD].txt"
+      "textFile": "1998-06-20 - United Kingdom - Milton Keynes Bowl [AUD #2].txt"
     },
     {
       "year": 1998,
@@ -6954,7 +6957,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2000-05-13 - Providence, RI - Newbury Comics Outdoor - TV-VHS(1) (nickserra) [MKV].txt"
+      "textFile": "2000-05-13a - North Attleboro, MA - Newbury Comics - In-store Set [AUD].txt"
     },
     {
       "year": 2000,
@@ -6979,9 +6982,10 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Newbury Comics Outdoor",
-      "notes": "TV-VHS(1) · nickserra",
+      "notes": "TV-VHS(1) \u00b7 nickserra",
       "version": "PRO #1",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2000-05-13 - Providence, RI - Newbury Comics Outdoor - TV-VHS(1) (nickserra) [MKV].txt"
     },
     {
       "year": 2000,
@@ -14637,10 +14641,11 @@ const ARTIST_DATA = {
       "city": "Buenos Aires",
       "state": "Argentina",
       "location": "Buenos Aires, Argentina",
-      "venue": "Hipódromo de San Isidro",
+      "venue": "Hip\u00f3dromo de San Isidro",
       "notes": "youtube",
       "version": "WE",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2022-03-20 - Buenos Aires, Argentina - Hip\u00f3dromo de San Isidro (youtube) [MP4].txt"
     },
     {
       "year": 2022,
@@ -15185,7 +15190,7 @@ const ARTIST_DATA = {
       "notes": "NOS Alive",
       "version": "PRO #1",
       "format": "MKV",
-      "textFile": "2026-07-10 - Oeiras, Portugal - Passeio Marítimo de Algés (NOS Alive) (foofighterslive.com) [MKV].txt"
+      "textFile": "2026-07-10 - Oeiras, Portugal - Passeio Mar\u00edtimo de Alg\u00e9s (NOS Alive) (foofighterslive.com) [MKV].txt"
     },
     {
       "year": 2026,
@@ -15196,7 +15201,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Soldier Field",
-      "notes": "Schoeps MK4s · tapeworm48",
+      "notes": "Schoeps MK4s \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-08-08 - Chicago, IL - Soldier Field (Schoeps MK4s) (tapeworm48) [AUD24].txt"
@@ -15210,7 +15215,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Huntington Bank Field",
-      "notes": "SP-CMC-8 · unk",
+      "notes": "SP-CMC-8 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-08-10 - Cleveland, OH - Huntington Bank Field (SP-CMC-8) (unk) [AUD24].txt"
@@ -15224,7 +15229,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Lincoln Financial Field",
-      "notes": "DPA 4061 · tapehead2",
+      "notes": "DPA 4061 \u00b7 tapehead2",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-08-13 - Philadelphia, PA - Lincoln Financial Field (DPA 4061) (tapehead2) [AUD].txt"
@@ -15238,7 +15243,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Hollywood Bowl",
-      "notes": "Celebrating Gustavo at the Bowl · Sound Pro SP-CMC-4U · ijwthstd",
+      "notes": "Celebrating Gustavo at the Bowl \u00b7 Sound Pro SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD #1",
       "format": "FLAC 24",
       "textFile": "2026-08-22 - Los Angeles, CA - Hollywood Bowl (Celebrating Gustavo at the Bowl) (Sound Pro SP-CMC-4U) (ijwthstd) [AUD24].txt"
@@ -15252,7 +15257,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Rogers Stadium",
-      "notes": "Zoom H1n · bowlingron",
+      "notes": "Zoom H1n \u00b7 bowlingron",
       "version": "AUD #1",
       "format": "FLAC"
     }

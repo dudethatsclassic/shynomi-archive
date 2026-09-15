@@ -1,0 +1,28 @@
+The Smashing Pumpkins
+2026-07-31
+Lollapalooza Chicago 2026, Day 2, Channel 1
+Bud Light Stage at Grant Park, Chicago, IL, USA (Disney+ Stream)
+
+
+Source: Disney+ Stream (https://www.disneyplus.com/play/59e8188c-3e22-48e6-8159-9fdef9f67c4c) > Audacity 3.7.8 Windows WASAPI loopback recording > 16/48 FLAC file (FLAC 1.4.2x64 Compression Level 8)
+Transfer: FLAC > LosslessCut 3.69.0 (tracking)
+
+Tracklist:
+01. 1979
+02. Bullet with Butterfly Wings
+03. Today
+04. Edin
+05. Disarm
+06. Luna (with YUNGBLUD)
+07. Porcelina of the Vast Oceans
+08. Jellybelly
+09. Tonight, Tonight
+10. Pentagrams
+11. Thirty-Three (with Olivia Rodrigo)
+12. Ava Adore
+13. War Dreams of Itself
+14. Mayonaise
+15. Cherub Rock
+16. Zero
+17. The Everlasting Gaze (with Melissa Auf der Maur)
+18. Pre Show Interview

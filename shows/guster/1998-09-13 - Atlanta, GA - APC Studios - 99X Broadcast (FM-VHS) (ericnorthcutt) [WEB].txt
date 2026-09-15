@@ -1,0 +1,25 @@
+Guster
+September 13th, 1998
+99X Broadcast, APC Studios, Atlanta, GA
+
+Master:
+FM > unknown audio > YouTube (link below)
+by Eric Northcutt
+
+Conversion:
+youtube-dl > mp4 > m4a > Sound Studio 4.11.0 > xACT 2.58 > FLAC
+by Dave Mallick
+
+01. intro            [00:39.988]
+02. Dissolve         [05:58.202]
+03. Demons           [04:59.937]
+04. Airport Song     [03:47.032]
+05. Barrel Of A Gun  [03:59.711]
+06. X-Ray Eyes       [04:08.911]
+              Total: [23:33.781]
+
+YouTube (audio only): https://www.youtube.com/watch?v=BWD11YU9S1A
+
+No date is provided on the YouTube link, but Guster was in Atlanta for
+the 99X Big Day Out on September 12th and stayed for this performance
+the next day.

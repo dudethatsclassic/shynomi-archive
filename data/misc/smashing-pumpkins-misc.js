@@ -2011,7 +2011,8 @@ const ARTIST_MISC_DATA = [
     "label": "The Smashing Pumpkins - Zeitgeist (2007)",
     "year": 2007,
     "format": "VINYL",
-    "category": "VINYL RIPS"
+    "category": "VINYL RIPS",
+    "textFile": "MISC - The Smashing Pumpkins - Zeitgeist Tour [DVD].txt"
   },
   {
     "type": "release",
@@ -3249,5 +3250,12 @@ const ARTIST_MISC_DATA = [
     "year": 2000,
     "format": "FLAC",
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Piano Dreamers - Play Smashing Pumpkins (2015)",
+    "year": 2015,
+    "format": "FLAC",
+    "category": "OTHER"
   }
 ];

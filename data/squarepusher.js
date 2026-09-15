@@ -32,7 +32,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "170 Russell",
-      "notes": "Zoom H1n · claire laura fredriksson",
+      "notes": "Zoom H1n \u00b7 claire laura fredriksson",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-06-06 - Melbourne, Australia - 170 Russell (Zoom H1n) (claire laura fredriksson) [AUD24].txt"

@@ -1,0 +1,37 @@
+Faith No More
+June 13, 1987
+Cabaret Metro
+Chicago, Illinois
+
+Recording generously loaned from the Aadam Jacobs Audio Archive.
+
+Source: Aiwa CM-30A Stereo Mic > Marantz PMD 420 > Cassette (M)
+
+Transfer: Yamaha KX-200U > Tascam DR-40
+
+Mastering: .FLAC > FFmpeg > .WAV > Izotope RX 11 [rumble reduction] > Adobe Audition 2025 [normalize, compression, delay, gain, fades] > CDWave [tracking] > Metaflac.exe > .FLAC > Metaflac.exe [tagging].
+
+Recorded by: Aadam Jacobs
+Transfer by: Brian Emerick
+Mastered by: Popmarter
+
+Setlist: 
+01 Faster Disco
+02 Introduce Yourself
+03 Chinese Arithmetic
+04 New Beginnings
+05 Arabian Disco
+06 R N’ R
+07 The Crab Song
+08 We Care A Lot
+09 Blood
+10 The Jungle
+11 Death March
+12 Spirit
+13 Why Do You Bother
+14 War Pigs (Black Sabbath)
+15 As The Worm Turns
+
+Recording 03203 from the Aadam Jacobs Collection Project 
+Coordinated by the Live Music Archive at the Internet Archive
+Contact info: aadam.jacobs.project AT gmail DOT com

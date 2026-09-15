@@ -1,0 +1,54 @@
+FOO FIGHTERS
+November 25th, 1999
+Brixton Academy
+London, United Kingdom
+
+Source
+Amateur Video #1
+
+Generation
+MiniDV(1) > AVI [DV-AVI/48khz/16-Bit/PCM] > MKV [H.264/AAC/FLAC]
+
+Video Transfer
+firewire > AviSynth+ 3.7.5 > x264 core 164 r3156+57M dac90dd t_mod_New
+
+Audio Transfer
+firewire > Adobe Audition 2025 > flac.exe 1.5.0 & Apple AAC encoder q109
+
+Length
+1hr 22min 03s
+
+Video Track
+H.264 MPEG-4 AVC / 704x572 / Progressive / 50fps / 4155 kbps VBR / 4:3 / 4:2:0 Chroma / 8-Bit / High Profile Level 3.2
+
+Audio Tracks
+AAC / ~256kbps / 48khz / Stereo
+FLAC / 48khz / 16-bit / Stereo
+
+Tracks
+Stacked Actors
+My Poor Brain
+For All The Cows
+Breakout
+Learn to Fly
+Up In Arms
+Ain't It The Life
+Monkey Wrench
+Hey, Johnny Park!
+Alone + Easy Target
+Everlong
+Generator
+Aurora
+I'll Stick Around
+Weenie Beenie
+Now I'm Here (With Brian May and Roger Taylor of Queen)
+This Is A Call
+
+Recorded By
+Master8UK
+
+Transferred By
+TravisBickle1963
+
+Encoded By
+FooFightersDB

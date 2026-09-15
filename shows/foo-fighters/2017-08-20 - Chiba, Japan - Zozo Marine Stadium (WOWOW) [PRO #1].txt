@@ -1,0 +1,66 @@
+FOO FIGHTERS
+Summer Sonic Festival
+Zozo Marine Stadium, Chiba, Japan
+2017, August 20th
+
+INFO: HDTV WOWOW / 32m 49s
+VIDEO: 1920x1080i / MPEG Video v2 / 24 Mb/s
+AUDIO: AAC LC / Stereo / 48 khz
+
+SETLIST:
+1. The Pretender
+2. Walk
+3. Times Like These
+4. Best Of You
+5. Everlong
+
+
+MEDIAINFO:
+Vídeo
+ID                                       : 4113 (0x1011)
+ID menú                                  : 1 (0x1)
+Formato                                  : MPEG Video
+Formato de la versión                    : Version 2
+Formato del perfil                       : Main@High
+Ajustes del formato                      : CustomMatrix / BVOP
+Ajustes del formato, BVOP                : Sí
+Ajustes del formato, Matrix              : Personlizado
+Ajustes del formato, GOP                 : M=3, N=15
+Ajustes del formato, estructura imagen   : Frame
+ID códec                                 : 2
+Duración                                 : 32 min 49 s
+Tipo de tasa de bits                     : Variable
+Tasa de bits máxima                      : 24,0 Mb/s
+Ancho                                    : 1 920 píxeles
+Alto                                     : 1 080 píxeles
+Relación de aspecto                      : 16:9
+Velocidad de fotogramas                  : 29,970 (30000/1001) FPS
+Espacio de color                         : YUV
+Submuestreo croma                        : 4:2:0
+Profundidad bits                         : 8 bits
+Tipo barrido                             : Entrelazado
+Orden de barrido                         : Campo superior primero
+Modo de compresión                       : Con pérdida
+Código tiempo primer fotograma           : 13:14:37:29
+Código tiempo origen                     : Group of pictures header
+GOP, abierto/cerrado                     : Abierto
+Colores primarios                        : BT.709
+Características transferencia            : BT.709
+Coeficientes matriz                      : BT.709
+
+Audio
+ID                                       : 4352 (0x1100)
+ID menú                                  : 1 (0x1)
+Formato                                  : AAC LC
+Formato/Info                             : Advanced Audio Codec Low Complexity
+Formato de la versión                    : Version 2
+Modo multiplexor                         : ADTS
+ID códec                                 : 15-2
+Duración                                 : 32 min 49 s
+Tipo de tasa de bits                     : Variable
+Canal(es)                                : 2 canales
+Channel layout                           : L R
+Velocidad de muestreo                    : 48,0 kHz
+Velocidad de fotogramas                  : 46,875 FPS (1024 SPF)
+Modo de compresión                       : Con pérdida
+Retraso relativo al vídeo                : -71 ms

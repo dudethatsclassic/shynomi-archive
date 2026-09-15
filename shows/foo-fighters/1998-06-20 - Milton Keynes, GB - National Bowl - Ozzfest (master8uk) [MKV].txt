@@ -1,0 +1,77 @@
+FOO FIGHTERS
+June 20th, 1998
+National Bowl (Ozzfest)
+Milton Keynes, United Kingdom
+
+Source
+Amateur Video #1
+
+Generation
+MiniDV(1) > AVI [DV-AVI/48khz/16-Bit/PCM] > MKV [H.264/AAC/FLAC]
+
+Video Transfer
+firewire > AviSynth+ 3.7.5 > x264 core 164 r3156+57M dac90dd t_mod_New
+
+Audio Transfer
+firewire > Adobe Audition 2025 > flac.exe 1.5.0 & Apple AAC encoder q109
+
+Length
+1hr 01min 41s
+
+Video Track
+H.264 MPEG-4 AVC / 704x572 / Progressive / 50fps / 3911 kbps VBR / 4:3 / 4:2:0 Chroma / 8-Bit / High Profile Level 3.2
+
+Audio Tracks
+AAC / ~256kbps / 48khz / Stereo
+FLAC / 48khz / 16-bit / Stereo
+
+Tracks
+Enough Space
+My Hero
+My Poor Brain
+Monkey Wrench
+Hey, Johnny Park!
+Alone + Easy Target
+War Pigs (jam)
+Ain't Talkin' 'Bout Love (jam)
+I'll Stick Around
+Weenie Beenie
+Requiem
+Gas Chamber
+Wattershed
+Everlong
+New Way Home
+This Is A Call
+
+Notes
+Here is another master upgrade from one of Master8s videos, this one is their
+stand-in set at Ozzfest 1998. This is again from a digital MiniDV clone and
+thankfully this one is pretty much error free, no major nasty digital glitches.
+
+The raw video as transferred had two clear issues - firstly, owing to the fact
+it was shot on a sunny British evening the sun was very bright, this led to
+shots directly at the stage to look pretty overblow in brightness, some old VHS
+copies looked almost fully white in some angles. With this new master transfer
+I have toned that down the best I can, it's not perfect but far nicer to watch
+now with more natural tones and colour.
+
+The other issue was the sound syncronisation was off, due it being filmed a long
+way from the stage. I have applied a delay to the audio to correct this, so it's now
+correctly in sync.
+
+The taper mostly shoots directly at the stage but does sometimes pivot to the big screen.
+Those shots are also in sync thanks to the natural delay on those screens exactly for this reason.
+
+There is a small cut during the encore break, no music is missing.
+
+If you ever taped Foo Fighters and haven't shared your recordings, need help getting anything transferred, or just aren't sure
+please get in touch. We're always on the lookout for upgrades and new FF sources at FooFightersDB.com
+
+Recorded By
+Master8UK
+
+Transferred By
+TravisBickle1963
+
+Encoded By
+FooFightersDB

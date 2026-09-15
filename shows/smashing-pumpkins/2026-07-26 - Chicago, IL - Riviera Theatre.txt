@@ -1,0 +1,75 @@
+Smashing Pumpkins
+July 29th 2026
+Riviera Theatre
+Chicago, IL, US
+
+SOURCE (AUD#3)
+Church Audio CA-14 Cards > CA-Ugly Preamp > Roland R-07
+
+TRANSFER:
+Roland R-07 > WAV > Adobe Audition > CD Wave Editor > Trader's Little Helper 2.8.4
+
+GENERATION:
+WAV(M) > FLAC
+
+LENGTH:
+126:24
+
+SETLIST:
+01. 1979
+02. Bullet With Butterfly Wings
+03. Edin
+04. Pentagrams
+05. Porcelina of the Vast Oceans
+06. Jellybelly
+07. Bodies
+08. Here Is No Why
+09. Thirty-Three
+10. Tonight, Tonight
+11. Muzzle
+12. Stand Inside Your Love
+13. Luna
+14. Today
+15. Disarm
+16. 999
+17. It's a Sunshine Day [Steve McCarthy]
+18. Ava Adore
+19. War Dreams of Itself
+20. Dorian
+21. Mayonaise
+22. Cherub Rock
+23. Zero
+24. The Everlasting Gaze
+
+MD5 FINGERPRINTS:
+ca75c3d1631f7a831c503a18aa4cd9f7 *Smashing Pumpkins 2026-07-29 AUD3 t01 1979.flac
+45ac7bdd1cf482fbc2e45d9ce7f56829 *Smashing Pumpkins 2026-07-29 AUD3 t02 Bullet With Butterfly Wings.flac
+4de466332bf53a51e780820e193163ba *Smashing Pumpkins 2026-07-29 AUD3 t03 Edin.flac
+f5fcbb4b8517ac2784351004da4641f0 *Smashing Pumpkins 2026-07-29 AUD3 t04 Pentagrams.flac
+09feb71a6d465372bf4d92b574adb7c2 *Smashing Pumpkins 2026-07-29 AUD3 t05 Porcelina of the Vast Oceans.flac
+8d3ce7f42dca0fa5951e4e786b4025a1 *Smashing Pumpkins 2026-07-29 AUD3 t06 Jellybelly.flac
+afb1f6f52d0ef883edf2edf0e66266a4 *Smashing Pumpkins 2026-07-29 AUD3 t07 Bodies.flac
+bfdcd6eaebd503cd6dfa90776c24cd0e *Smashing Pumpkins 2026-07-29 AUD3 t08 Here Is No Why.flac
+a58b4db4e84a982d731dce93d109d06f *Smashing Pumpkins 2026-07-29 AUD3 t09 Thirty-Three.flac
+c581537d6ed833991e5302774ede92f5 *Smashing Pumpkins 2026-07-29 AUD3 t10 Tonight, Tonight.flac
+7abb6a3abcef2662dca5cf0634a31cef *Smashing Pumpkins 2026-07-29 AUD3 t11 Muzzle.flac
+15e9f222c7c356f9362715a229664942 *Smashing Pumpkins 2026-07-29 AUD3 t12 Stand Inside Your Love.flac
+72136dcdfca7ad45d80eea4c7f66c7fb *Smashing Pumpkins 2026-07-29 AUD3 t13 Luna.flac
+43ceaf9f7242ea4e1e085f0bc5ca447d *Smashing Pumpkins 2026-07-29 AUD3 t14 Today.flac
+9149438a717d70819edfa61b81219377 *Smashing Pumpkins 2026-07-29 AUD3 t15 Disarm.flac
+fea5176590f4bf00d436edeb094cc671 *Smashing Pumpkins 2026-07-29 AUD3 t16 999.flac
+8bedab4bd760c32a7b34ef51329414d9 *Smashing Pumpkins 2026-07-29 AUD3 t17 It's a Sunshine Day [Steve McCarthy].flac
+82fa8a41bf1ce2ae6b919cb5b7ecd6ba *Smashing Pumpkins 2026-07-29 AUD3 t18 Ava Adore.flac
+6216bf68757862359ec10fa66e8d8fbd *Smashing Pumpkins 2026-07-29 AUD3 t19 War Dreams of Itself.flac
+6b30abb4898ef366d5436bb8f7f51bc1 *Smashing Pumpkins 2026-07-29 AUD3 t20 Dorian.flac
+6688d7260dec2f0fa98e20a2e7286399 *Smashing Pumpkins 2026-07-29 AUD3 t21 Mayonaise.flac
+0ea90a41fb58d16f186d3f76106cc345 *Smashing Pumpkins 2026-07-29 AUD3 t22 Cherub Rock.flac
+533feb8d8167ec9eb14c543698a9d5e4 *Smashing Pumpkins 2026-07-29 AUD3 t23 Zero.flac
+2577788f7e8a304cd53b9f3a9040aaeb *Smashing Pumpkins 2026-07-29 AUD3 t24 The Everlasting Gaze.flac
+
+RECORDED BY:
+Bullet1979
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2026-08-12

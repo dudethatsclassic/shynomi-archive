@@ -1,0 +1,132 @@
+Smashing Pumpkins Zeitgeist Tour DVD
+
+INFO: Lineage unknown. This DVD was sourced from a public tracker and previously contained copyrighted material which I removed (without re-encoding) using DVD Shrink 3.2. A translation of the original info file is presented below, which I have edited only to reflect accurate technical data.
+
+
+smashing pumpkins - Unknown DVD
+picCountry: USA
+Genre: Alternative - Rock
+Duration: 01:38:08
+Year of manufacture: 2007 year
+Description: I understand this DVD tour in support of Zeitgeist album
+and everything connected with it
+
+Tracklist:
+
+2007-06-09 Oeiras Alive! 07, Lisbon, PT
+01. Rocket
+02. To Sheila
+03. (piano interlude)
+04. Tonight, Tonight
+05. Tarantula
+06. Starz
+07. Zero (cut)
+
+
+2007/07/09 Late show with David Letterman
+01. Tarantula
+
+
+2007/07/13 Late show with David Letterman
+01. That's the Way (My Love is)
+
+
+2007-09-14 AOL Music Sessions
+01. Superchrist
+02. Doomsday clock
+03. That's the Way (My Love is)
+04. Tonight Tonight
+05. Tarantula
+06. Heavy Metal Machine
+
+
+2007-10-19 Tower Theater, Upper Darby, PA
+01. Bullet With Butterfly Wings
+02. Tarantula
+03. That's the way (My Love is)
+04. Cherub Rock
+
+
+Extras
+
+Billy Corgan and Jimmy Chamberlin talks about band, reunion and Zeitgeist
+
+Additional information: I have no idea where I downloaded this DVD
+and therefore information about his contents had to be collected bit by bit. could somewhere to make a mistake, any help will be useful. Thank you
+
+Breakdown into chapters by track
+
+Quality : TVrip
+Format: DVD video
+Video codec: MPEG2
+Audio Codec: AC3
+Video: Mpeg2, PAL 4:3 (720x576) VBR (4 016-5 000 Kbps), 25,000 fps
+Audio: AC3, 192 Kbps, 48.0 KHz, 2 channels
+
+DVDinfo
+
+Title: 1-2
+Size: 3.02 Gb (3,251,608 kb) - DVD-5
+Enabled regions: 1, 2, 3, 4, 5, 6, 7, 8
+
+VTS_01 :
+  Play Length: 00:22:51
+  Video: PAL 4:3 (720x576) VBR
+  Audio:
+      Not specified (Dolby AC3, 2 ch)
+
+VTS_02 :
+  Play Length: 00:04:30
+  Video: PAL 4:3 (720x576) VBR
+  Audio:
+      Not specified (Dolby AC3, 2 ch)
+
+VTS_03 :
+  Play Length: 00:04:22
+  Video: PAL 4:3 (720x576) VBR
+  Audio:
+      Not specified (Dolby AC3, 2 ch)
+
+VTS_04 :
+  Play Length: 00:33:54
+  Video: PAL 4:3 (720x576) VBR
+  Audio:
+      Not specified (Dolby AC3, 2 ch)
+
+VTS_05 :
+  Play Length: 00:20:19
+  Video: PAL 4:3 (720x576) VBR
+  Audio:
+      Not specified (Dolby AC3, 2 ch)
+
+VTS_06 :
+  Play Length: 00:12:10
+  Video: PAL 4:3 (720x576) VBR
+  Audio:
+      Not specified (Dolby AC3, 2 ch)
+  Subtitles:
+      Not specified
+
+309bbb87f3e56caccc741fc24a8ef8d4 *VIDEO_TS\VIDEO_TS.BUP
+309bbb87f3e56caccc741fc24a8ef8d4 *VIDEO_TS\VIDEO_TS.IFO
+fd2f3ce580d56841c1858eefc3e6fa86 *VIDEO_TS\VTS_01_0.BUP
+fd2f3ce580d56841c1858eefc3e6fa86 *VIDEO_TS\VTS_01_0.IFO
+3d3988f31427d2e598675279eafd6fe7 *VIDEO_TS\VTS_01_1.VOB
+933681baf4d6049186e95bf6ec836e5e *VIDEO_TS\VTS_02_0.BUP
+933681baf4d6049186e95bf6ec836e5e *VIDEO_TS\VTS_02_0.IFO
+d1b5f10c5e03419ae2263d0fed469ee6 *VIDEO_TS\VTS_02_1.VOB
+f4f2ffc817b3d732a29ba89d80b4ab46 *VIDEO_TS\VTS_03_0.BUP
+f4f2ffc817b3d732a29ba89d80b4ab46 *VIDEO_TS\VTS_03_0.IFO
+152d14c41db66035584552c9dfe32796 *VIDEO_TS\VTS_03_1.VOB
+0079870052a6d0319a95ba4a4e149dc7 *VIDEO_TS\VTS_04_0.BUP
+0079870052a6d0319a95ba4a4e149dc7 *VIDEO_TS\VTS_04_0.IFO
+4c8bd07e6293970b47827baeb2979e69 *VIDEO_TS\VTS_04_1.VOB
+4dbf62f3c31e7210e6b6d718ce818f1d *VIDEO_TS\VTS_04_2.VOB
+3f99141c7ae8e32ca9917f89db5bb03e *VIDEO_TS\VTS_05_0.BUP
+3f99141c7ae8e32ca9917f89db5bb03e *VIDEO_TS\VTS_05_0.IFO
+19c49860cf49c064d232e42e4f4bf881 *VIDEO_TS\VTS_05_1.VOB
+5c623dab85aeea51bbfd804e0c9450ec *VIDEO_TS\VTS_06_0.BUP
+5c623dab85aeea51bbfd804e0c9450ec *VIDEO_TS\VTS_06_0.IFO
+ec878bdda265b07812b67d19fa7cc895 *VIDEO_TS\VTS_06_1.VOB
+
+
