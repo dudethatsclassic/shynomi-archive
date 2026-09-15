@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "tom-petty-the-heartbreakers",
   "name": "Tom Petty & the Heartbreakers",
   "drive": "F",
-  "showCount": 325,
+  "showCount": 326,
   "firstYear": 1973,
   "lastYear": 2017,
   "years": [
@@ -2594,6 +2594,19 @@ const ARTIST_DATA = {
       "version": "TV",
       "format": "",
       "textFile": "1999-04-23 - Hamburg, Germany - Docks [TV].txt"
+    },
+    {
+      "year": 1999,
+      "month": 7,
+      "day": 5,
+      "dateStr": "7-5-1999",
+      "city": "Hershey",
+      "state": "PA",
+      "location": "Hershey, PA",
+      "venue": "Hersheypark Stadium",
+      "notes": "MD(M) · unk · luvsufo",
+      "version": "AUD",
+      "format": ""
     },
     {
       "year": 1999,
