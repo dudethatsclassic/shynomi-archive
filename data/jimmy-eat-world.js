@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "jimmy-eat-world",
   "name": "Jimmy Eat World",
   "drive": "C",
-  "showCount": 28,
+  "showCount": 29,
   "firstYear": 1999,
   "lastYear": 2026,
   "years": [
@@ -413,6 +413,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-06-16 - Brooklyn, NY - Brooklyn Paramount (petersconcerts) [AUD].txt"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "day": 15,
+      "dateStr": "8-15-2026",
+      "city": "Cardiff",
+      "state": "Wales",
+      "location": "Cardiff, Wales",
+      "venue": "Cardiff Castle",
+      "notes": "Edirol R-07 · welshylad",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
