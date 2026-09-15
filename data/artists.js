@@ -1941,7 +1941,7 @@ const ARTISTS = [
   {
     "id": "oasis",
     "name": "Oasis",
-    "showCount": 718,
+    "showCount": 720,
     "firstYear": 1992,
     "lastYear": 2025
   },
