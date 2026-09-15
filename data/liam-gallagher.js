@@ -290,7 +290,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Albert Hall",
-      "notes": "Teenage \u00b7 Nokia Lumia 830 \u00b7 birchy",
+      "notes": "Teenage · Nokia Lumia 830 · birchy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-03-26 - London, UK - Royal Albert Hall - Teenage Cancer Trust (Nokia Lumia 830) (birchy) [AUD].txt"
@@ -304,7 +304,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Alexandra Place",
-      "notes": "Later \u00b7 NGL Digital Box \u00b7 johnky",
+      "notes": "Later · NGL Digital Box · johnky",
       "version": "TV",
       "format": "FLAC",
       "textFile": "2022-05-21 - London, UK - Alexandra Place - Later With Jools Holland (NGL Digital Box) (johnky) [TV].txt"
@@ -332,7 +332,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Knebworth, England",
       "venue": "Knebworth House",
-      "notes": "OUI FM \u00b7 whatever",
+      "notes": "OUI FM · whatever",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2022-06-03 - Knebworth, England - Knebworth House (OUI FM) (whatever) [FM].txt"
@@ -359,7 +359,7 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "LIsbon, Portugal",
       "venue": "Parque da Bela Vista",
-      "notes": "Rock \u00b7 johnky",
+      "notes": "Rock · johnky",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "2022-06-18 - LIsbon, Portugal - Parque da Bela Vista - Rock in Rio (johnky) [SBD].txt"
@@ -401,7 +401,7 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Kilmainham Hospital",
-      "notes": "johnky \u00b7 petrock2000 remaster",
+      "notes": "johnky · petrock2000 remaster",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-08-27 - Dublin, Ireland - Kilmainham Hospital (johnky) (petrock2000 remaster) [AUD].txt"
@@ -415,7 +415,7 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Werchter, Belgium",
       "venue": "Rock Werchter",
-      "notes": "SP-CMC-8 \u00b7 toshi",
+      "notes": "SP-CMC-8 · toshi",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-06-30 - Werchter, Belgium - Rock Werchter (SP-CMC-8) (toshi) [AUD].txt"
@@ -429,7 +429,7 @@ const ARTIST_DATA = {
       "state": "IT",
       "location": "Milan, IT",
       "venue": "Ippodromo Snai La Maura",
-      "notes": "WAV(M) \u00b7 Sennheiser MM-HLSC-2 \u00b7 alberto",
+      "notes": "WAV(M) · Sennheiser MM-HLSC-2 · alberto",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-07-01 - Milan, IT - Ippodromo Snai La Maura - WAV(M) (Sennheiser MM-HLSC-2) (alberto) [AUD24] .txt"
@@ -443,7 +443,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Summer Sonic Extra",
-      "notes": "Toyosu \u00b7 DPA 4061 + IEM",
+      "notes": "Toyosu · DPA 4061 + IEM",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2023-08-22 - Tokyo, Japan  - Summer Sonic Extra - Toyosu Pit (DPA 4061 + IEM) [MIX].txt"
@@ -457,7 +457,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Wolverhampton, UK",
       "venue": "Civic Hall",
-      "notes": "Pete Remaster \u00b7 Olympus LS-P1 \u00b7 welshylad",
+      "notes": "Pete Remaster · Olympus LS-P1 · welshylad",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-03-14 - Wolverhampton, UK - Civic Hall (Pete Remaster) (Olympus LS-P1) (welshylad) [AUD].txt"
@@ -471,7 +471,7 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "Utilita Arena",
-      "notes": "Olympus LS-P1 \u00b7 unk",
+      "notes": "Olympus LS-P1 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-06-03 - Cardiff, Wales - Utilita Arena (Olympus LS-P1) (unk) [AUD].txt"
@@ -499,7 +499,7 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "Utilita Arena Cardiff",
-      "notes": "SP-CMC-8 \u00b7 unk",
+      "notes": "SP-CMC-8 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-06-03 - Cardiff, Wales - Utilita Arena Cardiff (SP-CMC-8) (unk) [AUD].txt"
@@ -513,7 +513,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "02 Arena",
-      "notes": "Olympus LS-P1 \u00b7 welshylad",
+      "notes": "Olympus LS-P1 · welshylad",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-06-07 - London, UK - 02 Arena (Olympus LS-P1) (welshylad) [AUD].txt"
