@@ -39,7 +39,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGBs",
-      "notes": "ANA(M (mat leffler-schulman transfer) · 24/44.1",
+      "notes": "ANA(M (mat leffler-schulman transfer) \u00b7 24/44.1",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -52,7 +52,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGBs",
-      "notes": "ANA(M) · mat leffler-schulman transfer · 24/44.1",
+      "notes": "ANA(M) \u00b7 mat leffler-schulman transfer \u00b7 24/44.1",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -65,7 +65,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGBs",
-      "notes": "ANA(M) · mat leffler-schulman transfer · 24/44.1",
+      "notes": "ANA(M) \u00b7 mat leffler-schulman transfer \u00b7 24/44.1",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -78,7 +78,7 @@ const ARTIST_DATA = {
       "state": "Holland",
       "location": "Amsterdam, Holland",
       "venue": "Melkweg",
-      "notes": "ANA(M) · rene meister · 24/44.1",
+      "notes": "ANA(M) \u00b7 rene meister \u00b7 24/44.1",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -91,7 +91,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Manhattan, NY",
       "venue": "The Knitting Factory",
-      "notes": "ANA(M) · mat leffler-schulman transfer · 24/44.1",
+      "notes": "ANA(M) \u00b7 mat leffler-schulman transfer \u00b7 24/44.1",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -117,7 +117,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Bluebird Theatre",
-      "notes": "DAT(M) · Binaurals · marcr",
+      "notes": "DAT(M) \u00b7 Binaurals \u00b7 marcr",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1995-05-10 - Denver, CO - Bluebird Theatre - DAT(M) (Binaurals) (marcr) [AUD24].txt"
@@ -158,7 +158,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Let It Be Records",
-      "notes": "DAT(M) · DSM6 · jay saari",
+      "notes": "DAT(M) \u00b7 DSM6 \u00b7 jay saari",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-07-08 - Minneapolis, MN - Let It Be Records - DAT(M) (DSM6) (jay saari) [AUD].txt"
@@ -172,7 +172,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Khyber Pass Pub",
-      "notes": "CSB · zrrbrrt",
+      "notes": "CSB \u00b7 zrrbrrt",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-07-15 - Philadelphia, PA - Khyber Pass Pub (CSB) (zrrbrrt) [AUD].txt"
@@ -186,7 +186,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "Spartan Stadium",
-      "notes": "Lollapalooza · unk · neekrive",
+      "notes": "Lollapalooza \u00b7 unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -213,7 +213,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "ANA(M) · mat leffler-schulman transfer · 24/44.1",
+      "notes": "ANA(M) \u00b7 mat leffler-schulman transfer \u00b7 24/44.1",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -226,7 +226,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Tower Records",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-02-15 - West Hollywood, CA - Tower Records - ANA(M) (unk) [AUD].txt"
@@ -254,7 +254,7 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Winooski, VT",
       "venue": "Higher Ground",
-      "notes": "Neumann KM184 · unk",
+      "notes": "Neumann KM184 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -267,7 +267,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "notes": "Schoeps CMC6-MK4 · unk",
+      "notes": "Schoeps CMC6-MK4 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-10-23 - New York, NY - Irving Plaza (Schoeps CMC6-MK4) (unk) [AUD].txt"
@@ -294,7 +294,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "CA-11 · vortexzephyr",
+      "notes": "CA-11 \u00b7 vortexzephyr",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-09-14 - San Francisco, CA - The Fillmore (CA-11) (vortexzephyr) [AUD24].txt"
@@ -308,10 +308,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "MG M300s · michael zelner",
+      "notes": "MG M300s \u00b7 michael zelner",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2024-09-15 - San Francisco, CA - The Fillmore (Schoeps MK4s) (tj) [AUD24].txt"
+      "textFile": "2024-09-15 - San Francisco, CA - The Fillmore (MG M300s) (michael zelner) [AUD].txt"
     },
     {
       "year": 2024,
@@ -322,7 +322,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "Schoeps MK4s · tj",
+      "notes": "Schoeps MK4s \u00b7 tj",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-09-15 - San Francisco, CA - The Fillmore (Schoeps MK4s) (tj) [AUD24].txt"
@@ -336,7 +336,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Terminal 5",
-      "notes": "CA-11 · larryrulz",
+      "notes": "CA-11 \u00b7 larryrulz",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-10-06 - New York, NY - Terminal 5 (CA-11) (larryrulz) [AUD].txt"
@@ -350,7 +350,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Eastern",
-      "notes": "CA-14 · unk",
+      "notes": "CA-14 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-04-12 - Atlanta, GA - The Eastern (CA-14) (unk) [AUD].txt"
@@ -364,7 +364,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "The Sylvee",
-      "notes": "Zoom H1N · pael",
+      "notes": "Zoom H1N \u00b7 pael",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-12-13 - Madison, WI - The Sylvee (Zoom H1N) (pael) [AUD].txt"

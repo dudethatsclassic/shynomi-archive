@@ -83,7 +83,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Alanis Morissette - So‐Called Chaos {WPCR-11790 Japan} (2004)",
+    "label": "Alanis Morissette - So\u2010Called Chaos {WPCR-11790 Japan} (2004)",
     "format": "FLAC",
     "year": 2004,
     "category": "OFFICIAL RELEASES"
@@ -243,6 +243,13 @@ const ARTIST_MISC_DATA = [
     "label": "Alanis Morissette - Head Over Feet {9362437192 Australia} (1995)",
     "format": "FLAC",
     "year": 1995,
+    "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Alanis Morissette - Head Over Feet {9362437192} (1995)",
+    "year": 1995,
+    "format": "FLAC",
     "category": "SINGLES"
   }
 ];

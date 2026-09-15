@@ -1,0 +1,42 @@
+Teenage Fanclub
+
+Irving Plaza
+New York City NY
+USA
+
+16th February 1994
+
+AUD: Sony 929 mic > Sony WM-D6 > analog master (Maxell MX-s 100)
+Transfer: analog master > BBE > hard drive > Audacity (volume adjustments) > WAV
+Recording and transfer: Scott Simpson
+
+Received as untracked wav from Scott Simpson, August 2026
+> CDWave (tracking) > TLH (flac, checksum)
+
+01 Hang On 
+02 The Cabbage 
+03 Radio 
+04 What You Do to Me 
+05 120 Minutes
+06 Commercial Alternative 
+07 Escher 
+08 Mr. Tambourine Man [Bob Dylan]
+09 Metal Baby 
+10 Alcoholiday 
+11 Star Sign 
+12 God Knows It's True 
+13 Pet Rock 
+14 So Far Gone
+15 Everything Flows
+
+Encore:
+16 December 
+17 Goody Goody Gumdrops [1910 Fruitgum Co.]
+18 Free Again [Alex Chilton]
+19 The Concept
+20 Satan
+
+Running time [71:00]
+
+auto_pilot
+August 2026

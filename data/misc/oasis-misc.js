@@ -162,11 +162,13 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "label",
-    "label": "XX-XX-1992 / First Demo Tape"
+    "label": "XX-XX-1992 / First Demo Tape",
+    "textFile": "MISC - 1992 - First Demo Tape.txt"
   },
   {
     "type": "label",
-    "label": "XX-XX-1993 / Definitely Maybe Demos (MickDude)"
+    "label": "XX-XX-1993 / Definitely Maybe Demos (MickDude)",
+    "textFile": "MISC - 1993-XX-XX - Definitely Maybe Demos (MickDude).txt"
   },
   {
     "type": "show",
@@ -184,15 +186,18 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "label",
-    "label": "7-XX-1993 / Live Forever Demo (Creation for the Nation) Promo"
+    "label": "7-XX-1993 / Live Forever Demo (Creation for the Nation) Promo",
+    "textFile": "MISC - 1993-07-XX - Live Forever (Demo) (Creation for the Nation) Promo [Silver].txt"
   },
   {
     "type": "label",
-    "label": "XX-XX-1993 / Whatever Demos"
+    "label": "XX-XX-1993 / Whatever Demos",
+    "textFile": "MISC - 1993-XX-XX - Whatever Demos.flac.txt"
   },
   {
     "type": "label",
-    "label": "XX-XX-1993 / Whatever Demos (MickDude Remaster)"
+    "label": "XX-XX-1993 / Whatever Demos (MickDude Remaster)",
+    "textFile": "MISC - 1993-XX-XX - Whatever Demos (MickDude Remaster).txt"
   },
   {
     "type": "release",
@@ -219,7 +224,8 @@ const ARTIST_MISC_DATA = [
     "label": "Oasis - The Lost Tapes (KTS 561)",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Oasis - The Lost Tapes - KTS Records [SBD].txt"
   },
   {
     "type": "release",
@@ -247,7 +253,8 @@ const ARTIST_MISC_DATA = [
     "label": "Oasis - Step Into 96",
     "version": "Silver CD",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Oasis - Step Into 1996 [Silver].txt"
   },
   {
     "type": "release",
@@ -397,14 +404,16 @@ const ARTIST_MISC_DATA = [
     "label": "Oasis - Definitely Maybe (1994) (2014 Remastered Deluxe) (24bit)",
     "format": "FLAC HD",
     "year": 1994,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Oasis - Be Here Now (Remastered) (2016) (24bit) [FLAC HD].txt"
   },
   {
     "type": "release",
     "label": "Oasis - What's the Story Morning Glory (1995) (Deluxe_Edition 2014) (24bit) [FLAC HD]",
     "format": "FLAC HD",
     "year": 1995,
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Oasis - Definitely Maybe (1994) (2014 Remastered Deluxe) (24bit) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -699,8 +708,7 @@ const ARTIST_MISC_DATA = [
     "label": "Oasis - 2025-07-26 - Live Wembley Stadium {Petrock2000 Remaster mexico2418}",
     "format": "FLAC",
     "year": 2025,
-    "category": "SINGLES",
-    "textFile": "MISC - Oasis - 2025-07-26 - Live Wembley Stadium {Petrock2000 Remaster mexico2418} [FLAC].rtf"
+    "category": "SINGLES"
   },
   {
     "type": "release",
@@ -735,8 +743,7 @@ const ARTIST_MISC_DATA = [
     "label": "Oasis - 2025-08-03 - Live Wembley Stadium - Wembley Nights Forever {Bennyboy Matrix Remaster EVSD}",
     "format": "FLAC",
     "year": 2025,
-    "category": "SINGLES",
-    "textFile": "MISC - Oasis - 2025-08-03 - Live Wembley Stadium - Wembley Nights Forever {Bennyboy Matrix Remaster EVSD} [FLAC].txt"
+    "category": "SINGLES"
   },
   {
     "type": "release",
@@ -764,8 +771,7 @@ const ARTIST_MISC_DATA = [
     "label": "Oasis - 2025-08-17 - Live Dublin - Croke Park {Sabrewulf}",
     "format": "FLAC",
     "year": 2025,
-    "category": "SINGLES",
-    "textFile": "MISC - Oasis - 2025-08-17 - Live Dublin - Croke Park {Sabrewulf} [FLAC].txt"
+    "category": "SINGLES"
   },
   {
     "type": "release",
@@ -787,5 +793,26 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2025,
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - Liverpool, England - Real People Studios (Demos)",
+    "year": 1993,
+    "textFile": "MISC - 1993-XX-XX - Liverpool, England - Real People Studios (Demos).txt"
+  },
+  {
+    "type": "release",
+    "label": "Gun"
+  },
+  {
+    "type": "release",
+    "label": "Oasis - Big Brother",
+    "textFile": "MISC - Oasis - Big Brother.txt"
+  },
+  {
+    "type": "release",
+    "label": "Working Class Hero",
+    "version": "Silver CD",
+    "textFile": "MISC - Working Class Hero [Silver].txt"
   }
 ];

@@ -50,7 +50,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The Basement",
-      "notes": "CA-14 · live2cd",
+      "notes": "CA-14 \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-11-04 - Columbus, OH - The Basement (CA-14) (live2cd) [AUD].txt"
@@ -64,7 +64,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The Basement",
-      "notes": "CA-14 · live2cd",
+      "notes": "CA-14 \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-08-18 - Columbus, OH - The Basement (CA-14) (live2cd) [AUD].txt"
@@ -78,7 +78,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "A&R Music Bar",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-04-19 - Columbus, OH - A&R Music Bar (SP-CMC-8) (live2cd) [AUD].txt"

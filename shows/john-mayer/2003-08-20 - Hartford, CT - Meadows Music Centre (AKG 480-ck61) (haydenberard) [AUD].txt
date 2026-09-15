@@ -1,0 +1,36 @@
+John Mayer
+ctnow.com Meadows Music Centre
+Hartford, CT
+August 20, 2003
+
+Taper: Hayden Berard
+
+Source: AKG 480/ck61 > Sound Devices MP2 > ADC-20 > M1 @44.1
+        (Sec 100 Row M)
+
+Conversion: D8 (oade) > Audiowerk2 > CDWAV > MKW
+            (seek files appended)
+
+*Do Not Convert to MP3*
+
+Disc 1  (75:45.10)
+------------------------------------------------
+01.	Intro				01:55.15
+02.	3x5				05:51.58
+03.	No Such Thing			04:39.13
+04.	Somethings Missing		07:33.54
+05.	My Stupid Mouth			05:27.45
+06.	Bigger Than My Body		04:55.38
+07.	83 (girls just wanna..)		07:26.52
+08.	Come Back to Bed		11:35.32
+09.	Your Body is a Wonderland	07:11.59
+10.	Why Georgia			14:22.62
+ENCORE
+11.	Wheel				05:58.56
+12.	Back to You			04:57.58
+
+Thanks to Eric Naylor for letting my
+nab his M1 for some shows and to Mark
+Goodell for swapping over the seats.
+
+compiled August 24, 2003

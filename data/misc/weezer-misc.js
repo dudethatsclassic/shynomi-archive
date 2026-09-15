@@ -1451,7 +1451,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Weezer - Untitled French Promo (3 Titres Inédits)",
+    "label": "Weezer - Untitled French Promo (3 Titres Ine\u0301dits)",
     "format": "FLAC",
     "category": "OTHER"
   },
@@ -1856,7 +1856,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Weezer - 1192 (Vinyl Rip)",
     "format": "FLAC 24",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Weezer - 1192 (Vinyl Rip) [FLAC HD].txt"
   },
   {
     "type": "release",
@@ -1942,7 +1943,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Weezer - Undone – The Sweater Song {Geffen GFSTD 85}",
+    "label": "Weezer - Undone \u2013 The Sweater Song {Geffen GFSTD 85}",
     "format": "FLAC",
     "category": "SINGLES"
   },
@@ -1950,7 +1951,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Weezer - Buddy Holly {UK Geffen GFSTD 88}",
     "format": "FLAC",
-    "category": "SINGLES"
+    "category": "SINGLES",
+    "textFile": "MISC - Buddy Holly {UK Geffen GFSTD 88}.txt"
   },
   {
     "type": "release",
@@ -2238,8 +2240,7 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Weezer - Maladroit {069493241-1} 3.25.19 Rip",
     "format": "FLAC",
-    "category": "OFFICIAL RELEASES",
-    "textFile": "MISC - Weezer - 1192 (Vinyl Rip) [FLAC HD].txt"
+    "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
@@ -2451,14 +2452,14 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Weezer - Weezer (Black Album) [WEB FLAC]",
     "format": "FLAC",
-    "category": "OFFICIAL RELEASES",
-    "textFile": "MISC - Weezer - Songs From the Black Hole.txt"
+    "category": "OFFICIAL RELEASES"
   },
   {
     "type": "release",
     "label": "Weezer - Weezer (The Black Album) [24-96 Vinyl Rip]",
     "format": "FLAC",
-    "category": "OFFICIAL RELEASES"
+    "category": "OFFICIAL RELEASES",
+    "textFile": "MISC - Weezer - Songs From the Black Hole.txt"
   },
   {
     "type": "release",
@@ -2554,6 +2555,9 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2026,
     "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
     "label": "Oddities",
     "year": 2021
   },
@@ -2567,5 +2571,20 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Weezer - Studio Jams 2001",
     "textFile": "MISC - Weezer - Studio Jams 2001.txt"
+  },
+  {
+    "type": "release",
+    "label": "Randoms",
+    "year": 2002
+  },
+  {
+    "type": "release",
+    "label": "Hashpipe (Unmastered) (2001)",
+    "year": 2001
+  },
+  {
+    "type": "release",
+    "label": "OK Human Photoshoot (2021)",
+    "year": 2021
   }
 ];

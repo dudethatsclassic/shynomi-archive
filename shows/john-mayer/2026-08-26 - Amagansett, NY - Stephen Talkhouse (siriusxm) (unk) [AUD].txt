@@ -1,0 +1,39 @@
+John Mayer
+August 26, 2026 (Aired 9pm, August 29th)
+Stephen Talkhouse
+Amagansett, NY
+
+
+Source: SiriusXM Live HLS Stream (256k aac) > m4a/aac (16/44.1) with yt-dlp and ffmpeg
+Conversion: m4a/aac > Audacity (32-bit float, ffmpeg 5.0 plugin) (Normalize, Tracking, Fades) > wav (16/44.1) > flac (16/44.1)
+
+
+Setlist:
+
+01. Last Train Home 					04:29
+02. Queen of California 				06:00
+03. Who Says 						03:29
+04. Love on the Weekend 				04:47
+05. Something Like Olivia 				05:09
+06. Belief 						07:48
+07. I Don't Trust Myself (With Loving You) 		06:45
+08. I Guess I Just Feel Like 				07:17
+09. In the Blood 					09:26
+10. Slow Dancing in a Burning Room 			07:58
+11. New Light 						03:50
+12. Free Fallin' ~					04:53
+13. Gravity *						10:50
+14. Outro 						00:15
+
+Total - 01:22:55
+
+
+
+~ - Tom Petty Cover
+* - With "I Will Always Love You" by Dolly Parton interlude as tribute to her passing
+
+
+Compiled 8/31/2026.
+
+
+

@@ -1,0 +1,35 @@
+John Mayer
+September 1, 2003
+Alltel Pavilion at Walnut Creek
+Raleigh, NC
+
+Taper:		Nick Gregory (ngregory@taperssection.com)
+
+Source: 	AKG 391s->MP-2->Oade mod SBM1->D100
+
+Location:	AB, 9 ft high, ROC, 10 feet back 
+		(Sect.1, Row G, Seats 5&6)
+
+Conversion: 	PCM-R300 -> Audiophile 2496-> 
+		SoundForge 5.0 -> Waves C1 comp-gate HF Enhancer ->
+		CD Wave 1.62 > MKWACT (shn)
+	
+Disc One	79:45.67
+
+1)  Intro			00:39.33
+2)  3x5				07:32.33
+3)  My Stupid Mouth		05:33.33
+4)  Clarity			07:02.23
+5)  No Such Ting, mon		04:27.58
+6)  Bigger Than My Body		05:08.65
+7)  83				08:59.21
+8)  Come Back to Bed		12:13.48
+9)  Your Body is a Wonderland	07:15.16
+10) Why Georgia			08:55.18
+----ENCORE----	
+11) Wheel			07:01.41
+12) Back To You			04:56.53
+
+Compiled 9/3/03
+
+

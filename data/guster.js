@@ -345,9 +345,10 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Portsmouth, NH",
       "venue": "The Music Hall",
-      "notes": "Aiwa mic · jeffhowe",
+      "notes": "Aiwa mic \u00b7 jeffhowe",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1996-05-18 - Portsmouth, NH - The Music Hall (Aiwa mic) (jeffhowe) [AUD24].txt"
     },
     {
       "year": 1996,
@@ -1281,9 +1282,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "APC Studios",
-      "notes": "99X · FM-VHS · ericnorthcutt",
+      "notes": "99X \u00b7 FM-VHS \u00b7 ericnorthcutt",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-09-13 - Atlanta, GA - APC Studios - 99X Broadcast (FM-VHS) (ericnorthcutt) [WEB].txt"
     },
     {
       "year": 1998,
@@ -8174,7 +8176,8 @@ const ARTIST_DATA = {
       "venue": "This Tent, Bonnaroo Festival",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2015-06-12 - Manchester, TN - This Tent, Bonnaroo Festival (unk) [AUD24].txt"
     },
     {
       "year": 2015,
@@ -11198,7 +11201,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "WCBE-FM Studio A",
-      "notes": "FM-YouTube(x) · wcbe90.5fm",
+      "notes": "FM-YouTube(x) \u00b7 wcbe90.5fm",
       "version": "WEB",
       "format": "FLAC 24"
     },

@@ -1,0 +1,40 @@
+John Mayer
+September 27, 2025
+Michigan Stadium
+Ann Arbor, MI
+
+Source: 	SiriusXM web rip > 256k .aac (16/44.1)
+Conversion:	.aac > .wav > Audacity (Normalization and Tracking) > .wav > .flac level 8
+
+Setlist:
+
+01. Belief					06:33
+02. Last Train Home				04:15
+03. Who Says					03:27
+04. Queen of California				05:33
+05. In the Blood				04:16
+06. New Light					03:37
+07. I Guess I Just Feel Like			07:32
+08. Slow Dancing in a Burning Room		08:21
+09. Wild Blue					06:52
+10. Gravity					07:21
+
+Total						57:48
+
+
+Compiled 12/12/2025
+
+
+.flac fingerprints:
+
+01 - Belief.flac:92000ad5f7c073e7dffdd13005c301f9
+02 - Last Train Home.flac:f72270cfba9d1626d38f585db6455bec
+03 - Who Says.flac:1c2158aeb13400d79a0aea3eff526870
+04 - Queen of California.flac:5358131869c7d65e46aa89c0a197f6c3
+05 - In the Blood.flac:d330cfa1b4ae9fe42b54ac2137a258e9
+06 - New Light.flac:2753c2fe7753951b79e76f5df1e9c182
+07 - I Guess I Just Feel Like.flac:890795b0a55bb56b54729148c17c09e9
+08 - Slow Dancing in a Burning Room.flac:3c46581caffd9eed10d8e8ed1bdb6a25
+09 - Wild Blue.flac:ada3d64f8acd770735ea122147fbc2ca
+10 - Gravity.flac:1f5d63704654e200c637e65d2fff3eae
+

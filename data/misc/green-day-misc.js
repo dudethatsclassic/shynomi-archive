@@ -39,7 +39,7 @@ const ARTIST_MISC_DATA = [
     "type": "label",
     "label": "Green Day - Unreleased + Rare Songs",
     "format": "FLAC",
-    "textFile": "MISC - Green Day - Unreleased + Rare Songs.txt"
+    "textFile": "MISC - Green Day - Ultra Rare Traxx {DGC-758034-2} (1999) [FLAC].txt"
   },
   {
     "type": "label",
@@ -283,5 +283,34 @@ const ARTIST_MISC_DATA = [
     "year": 1994,
     "format": "FLAC",
     "category": "SINGLES"
+  },
+  {
+    "type": "release",
+    "label": "Green Day - Foot in Mouth {WPCR-1110} (1997)",
+    "year": 1997,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Green Day - Live Tracks (1995)",
+    "year": 1995,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Green Day - Nimrod In Chile {LMR-112} (1999)",
+    "year": 1999,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Green Day - Tune In, Tokyo... {Reprise WPCR-10973} (2001)",
+    "year": 2001,
+    "format": "FLAC"
+  },
+  {
+    "type": "release",
+    "label": "Green Day - Woodstock 1994",
+    "format": "FLAC"
   }
 ];
