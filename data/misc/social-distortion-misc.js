@@ -7,6 +7,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Social Distortion - Modern Rock Live 1992",
     "version": "FM",
-    "format": "MP3"
+    "format": "MP3",
+    "year": 1992,
+    "category": "OTHER"
   }
 ];
