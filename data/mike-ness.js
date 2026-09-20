@@ -76,6 +76,5 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "FLAC"
     }
-  ],
-  "misc": []
+  ]
 };
