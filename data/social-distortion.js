@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "social-distortion",
   "name": "Social Distortion",
   "drive": "A",
-  "showCount": 89,
+  "showCount": 91,
   "firstYear": 1981,
   "lastYear": 2026,
   "years": [
@@ -61,7 +61,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Club 88",
-      "notes": "ANA(M) \u00b7 unk",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1981-11-25 - Los Angeles, CA - Club 88 - ANA(M) (unk) [AUD].txt"
@@ -417,7 +417,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Silverado, CA",
       "venue": "Oak Canyon Ranch",
-      "notes": "M \u00b7 Sony ECM-909A \u00b7 marco moir",
+      "notes": "M · Sony ECM-909A · marco moir",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-07-07 - Silverado, CA - Oak Canyon Ranch (M) (Sony ECM-909A) (marco moir) [AUD].txt"
@@ -434,7 +434,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1997-03-17 - Stuttgart, Germany - R\u00f6hre [SBD].txt"
+      "textFile": "1997-03-17 - Stuttgart, Germany - Röhre [SBD].txt"
     },
     {
       "year": 1997,
@@ -676,7 +676,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Davis, CA",
       "venue": "Rec Hall at UC Davis",
-      "notes": "DPA 4060 \u00b7 unk",
+      "notes": "DPA 4060 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-06-08 - Davis, CA - Rec Hall at UC Davis (DPA 4060) (unk) [AUD].txt"
@@ -716,7 +716,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Nokia Theater",
-      "notes": "TCD-D8 \u00b7 madelf master",
+      "notes": "TCD-D8 · madelf master",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-10-05 - New York, NY - Nokia Theater (TCD-D8) (madelf master) [AUD].txt"
@@ -931,10 +931,10 @@ const ARTIST_DATA = {
       "state": "Finland",
       "location": "Helsinki, Finland",
       "venue": "Suvilahti",
-      "notes": "Pitka\u0308",
+      "notes": "Pitkä",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-06-27 - Helsinki, Finland - Suvilahti - Pitk\u00e4 Kuuma Kes\u00e4 Festival (Zoom H2) [AUD].txt"
+      "textFile": "2009-06-27 - Helsinki, Finland - Suvilahti - Pitkä Kuuma Kesä Festival (Zoom H2) [AUD].txt"
     },
     {
       "year": 2009,
@@ -1043,7 +1043,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Eleanor Tinsley Park",
-      "notes": "Zoom Q3HD \u00b7 bradleybee",
+      "notes": "Zoom Q3HD · bradleybee",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2013-06-02 - Houston, TX - Eleanor Tinsley Park (Zoom Q3HD) (bradleybee) [AUD].txt"
@@ -1057,7 +1057,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Discovery Park",
-      "notes": "Aftershock \u00b7 AT853s \u00b7 tj",
+      "notes": "Aftershock · AT853s · tj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-10-10 - Sacramento, CA - Discovery Park - Aftershock Festival (AT853s) (tj) [AUD].txt"
@@ -1099,7 +1099,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Menlo Park, CA",
       "venue": "The Guild Theatre",
-      "notes": "SP-CMC-4U \u00b7 loughney",
+      "notes": "SP-CMC-4U · loughney",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-11-21 - Menlo Park, CA - The Guild Theatre (SP-CMC-4U) (loughney) [AUD].txt"
@@ -1113,7 +1113,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Menlo Park, CA",
       "venue": "The Guild",
-      "notes": "SP-CMC-4U \u00b7 loughney",
+      "notes": "SP-CMC-4U · loughney",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-01-01 - Menlo Park, CA - The Guild (SP-CMC-4U) (loughney) [AUD].txt"
@@ -1127,7 +1127,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Chula Vista, CA",
       "venue": "North Island Credit Union Amphitheatre",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-04-12 - Chula Vista, CA - North Island Credit Union Amphitheatre (DPA 4081) (faninor) [AUD24].txt"
@@ -1141,7 +1141,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Mesa, AZ",
       "venue": "Mesa Amphitheater",
-      "notes": "Tascam DR-05 \u00b7 unk",
+      "notes": "Tascam DR-05 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-04-14 - Mesa, AZ - Mesa Amphitheater (Tascam DR-05) (unk) [AUD].txt"
@@ -1155,7 +1155,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Pier 17",
-      "notes": "Zoom iQ5 \u00b7 paprick",
+      "notes": "Zoom iQ5 · paprick",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-05-08 - New York, NY - Pier 17 (Zoom iQ5) (paprick) [AUD].txt"
@@ -1169,7 +1169,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Sayreville, NJ",
       "venue": "Starland Ballroom",
-      "notes": "Roland R-07 \u00b7 unk",
+      "notes": "Roland R-07 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-10-13 - Sayreville, NJ - Starland Ballroom (Roland R-07) (unk) [AUD].txt"
@@ -1183,7 +1183,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tucson, AZ",
       "venue": "Rialto Theater",
-      "notes": "Tascam DR05 \u00b7 unk",
+      "notes": "Tascam DR05 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-10-23 - Tucson, AZ - Rialto Theater (Tascam DR05) (unk) [AUD].txt"
@@ -1197,7 +1197,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "House of Blues",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-11-29 - Anaheim, CA - House of Blues (DPA 4081) (faninor) [AUD24].txt"
@@ -1211,7 +1211,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "Schoeps MK4 \u00b7 lachtna",
+      "notes": "Schoeps MK4 · lachtna",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-12-10 - San Francisco, CA - The Fillmore (Schoeps MK4) (lachtna) [AUD24].txt"
@@ -1225,7 +1225,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "House of Blues",
-      "notes": "AT853 \u00b7 unk",
+      "notes": "AT853 · unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-12-27 - Las Vegas, NV - House of Blues (AT853) (unk) [AUD24].txt"
@@ -1239,7 +1239,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Summerfest",
-      "notes": "Miller \u00b7 Shure MV-88 \u00b7 unk",
+      "notes": "Miller · Shure MV-88 · unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-07-04 - Milwaukee, WI - Summerfest - Miller Lite Oasis Stage (Shure MV-88) (unk) [AUD24[.txt"
@@ -1247,16 +1247,42 @@ const ARTIST_DATA = {
     {
       "year": 2026,
       "month": 6,
+      "day": 4,
+      "dateStr": "6-4-2026",
+      "city": "Norje",
+      "state": "Sweden",
+      "location": "Norje, Sweden",
+      "venue": "Sweden Rock Festival, Norje Havsbad",
+      "notes": "SP-CMC-8 · mats666",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 6,
       "day": 7,
       "dateStr": "6-7-2026",
-      "city": "N\u00fcrburg",
+      "city": "Nürburg",
       "state": "Germany",
-      "location": "N\u00fcrburg, Germany",
+      "location": "Nürburg, Germany",
       "venue": "Rock Am Ring",
-      "notes": "Mandora \u00b7 magentamusik \u00b7 Livestream",
+      "notes": "Mandora · magentamusik · Livestream",
       "version": "Webcast",
       "format": "MP4",
-      "textFile": "2026-06-07 - N\u00fcrburg, Germany - Rock Am Ring - Mandora Stage (magentamusik) (Livestream) [MP4].txt"
+      "textFile": "2026-06-07 - Nürburg, Germany - Rock Am Ring - Mandora Stage (magentamusik) (Livestream) [MP4].txt"
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "day": 11,
+      "dateStr": "9-11-2026",
+      "city": "Brooklyn",
+      "state": "NY",
+      "location": "Brooklyn, NY",
+      "venue": "Brooklyn Paramount",
+      "notes": "Zoom iq5 · unk",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
   ]
 };
