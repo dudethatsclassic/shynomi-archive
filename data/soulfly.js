@@ -2,11 +2,12 @@ const ARTIST_DATA = {
   "id": "soulfly",
   "name": "Soulfly",
   "drive": "E",
-  "showCount": 2,
+  "showCount": 3,
   "firstYear": 1998,
   "lastYear": 2025,
   "years": [
     1998,
+    2002,
     2025
   ],
   "shows": [
@@ -23,6 +24,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "DVD",
       "textFile": "1998-05-10 - Tempe, AZ - Club Rio - ANA(x) (unk) [DVD].txt"
+    },
+    {
+      "year": 2002,
+      "month": 9,
+      "day": 5,
+      "dateStr": "9-5-2002",
+      "city": "Mississauga",
+      "state": "ON",
+      "location": "Mississauga, ON",
+      "venue": "Hershey Centre",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2025,
