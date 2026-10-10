@@ -1297,7 +1297,7 @@ const ARTISTS = [
   {
     "id": "john-mayer",
     "name": "John Mayer",
-    "showCount": 391,
+    "showCount": 392,
     "firstYear": 1999,
     "lastYear": 2026
   },
