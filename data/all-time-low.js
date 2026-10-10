@@ -22,7 +22,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Lifestyle Communities Pavilion",
-      "notes": "Aiwa CM-30A \u00b7 unk",
+      "notes": "Aiwa CM-30A · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-05-13 - Columbus, OH - Lifestyle Communities Pavilion (Aiwa CM-30A) (unk) [AUD].txt"
@@ -50,7 +50,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "Kia Forum",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-05-30 - Inglewood, CA - Kia Forum (DPA 4081) (faninor) [AUD24].txt"
@@ -78,10 +78,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Scheebel, Germany",
       "venue": "Hurricane Festival",
-      "notes": "Forest \u00b7 magentamusik",
+      "notes": "Forest · magentamusik",
       "version": "WEB",
       "format": "MP4",
-      "textFile": "2026-06-20 - Schee\u00dfel, Germany - Hurricane Festival - Forest Stage (magentamusik) (Livestream) [MP4].txt"
+      "textFile": "2026-06-20 - Scheeßel, Germany - Hurricane Festival - Forest Stage (magentamusik) (Livestream) [MP4].txt"
     }
   ]
 };
