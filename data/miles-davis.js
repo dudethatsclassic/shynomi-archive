@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "miles-davis",
   "name": "Miles Davis",
   "drive": "B",
-  "showCount": 193,
+  "showCount": 194,
   "firstYear": 1946,
   "lastYear": 1991,
   "years": [
@@ -68,7 +68,8 @@ const ARTIST_DATA = {
       "venue": "Streets of Paris",
       "notes": "Unk",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1946-03-31 - Los Angeles, CA - Streets of Paris - Unk Radio Broadcast [FM].txt"
     },
     {
       "year": 1946,
@@ -81,7 +82,8 @@ const ARTIST_DATA = {
       "venue": "Streets of Paris",
       "notes": "Unk",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1946-03-31 - Los Angeles, CA - Streets of Paris - Unk Radio Broadcast [FM].txt"
     },
     {
       "year": 1946,
@@ -94,7 +96,8 @@ const ARTIST_DATA = {
       "venue": "Streets of Paris",
       "notes": "Unk",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1946-03-31 - Los Angeles, CA - Streets of Paris - Unk Radio Broadcast [FM].txt"
     },
     {
       "year": 1947,
@@ -1089,7 +1092,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1960-09-27 - Manchester, UK - Free Trade Hall - Manchester Concert (Early) [AUD].txt"
+      "textFile": "1960-09-27 - Manchester, UK - Free Trade Hall - Manchester Concert (Late) [AUD].txt"
     },
     {
       "year": 1960,
@@ -2133,7 +2136,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "University Of Michigan",
-      "notes": "M \u00b7 unk",
+      "notes": "M · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1970-02-21 - Ann Arbor, MI - University Of Michigan - (M) (unk) [AUD].txt"
@@ -2350,6 +2353,19 @@ const ARTIST_DATA = {
     {
       "year": 1972,
       "month": 9,
+      "day": 10,
+      "dateStr": "9-10-1972",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "location": "Ann Arbor, MI",
+      "venue": "Otis Spann Memorial Field",
+      "notes": "bfoq · goody · upgrade",
+      "version": "FM",
+      "format": "FLAC"
+    },
+    {
+      "year": 1972,
+      "month": 9,
       "day": 14,
       "dateStr": "9-14-1972",
       "city": "Boston",
@@ -2457,7 +2473,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1973-11-21 - Bordeaux, France - Unknown Venue [Remaster].txt"
+      "textFile": "1973-11-21 - Bordeaux, France - Unknown Venue [UNK].txt"
     },
     {
       "year": 1973,
@@ -2485,7 +2501,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1974-06-02b - S\u00e3o Paulo, Brazil - Teatro Municpal [AUD].txt"
+      "textFile": "1974-06-02b - São Paulo, Brazil - Teatro Municpal [AUD].txt"
     },
     {
       "year": 1975,
@@ -2552,7 +2568,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Pier 84",
-      "notes": "Dr. \u00b7 flambay",
+      "notes": "Dr. · flambay",
       "version": "MTX",
       "format": "FLAC",
       "textFile": "1982-07-17a - New York, NY - Pier 84 (flambay) [MTX].txt"
@@ -2566,7 +2582,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Nagoya, Japan",
       "venue": "Nagoyashi Kokaido",
-      "notes": "AUD(M) \u00b7 xfer2",
+      "notes": "AUD(M) · xfer2",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1983-05-24 - Nagoya, Japan - Nagoyashi Kokaido  AUD(M) (xfer2) [AUD].txt"
