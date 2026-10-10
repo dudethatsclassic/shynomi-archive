@@ -2,15 +2,16 @@ const ARTIST_DATA = {
   "id": "golden-smog",
   "name": "Golden Smog",
   "drive": "E",
-  "showCount": 16,
+  "showCount": 17,
   "firstYear": 1994,
-  "lastYear": 2006,
+  "lastYear": 2025,
   "years": [
     1994,
     1995,
     1996,
     1998,
-    2006
+    2006,
+    2025
   ],
   "shows": [
     {
@@ -236,6 +237,19 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "FLAC",
       "textFile": "2006-09-19 - Chicago, IL - Vic Theatre [FM].txt"
+    },
+    {
+      "year": 2025,
+      "month": 12,
+      "day": 9,
+      "dateStr": "12-9-2025",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Vic Theater",
+      "notes": "DPA 4060 · unk",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
   ]
 };
