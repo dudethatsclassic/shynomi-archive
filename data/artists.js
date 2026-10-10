@@ -870,7 +870,7 @@ const ARTISTS = [
   {
     "id": "filter",
     "name": "Filter",
-    "showCount": 18,
+    "showCount": 19,
     "firstYear": 1995,
     "lastYear": 2026
   },
@@ -915,6 +915,13 @@ const ARTISTS = [
     "showCount": 37,
     "firstYear": 1997,
     "lastYear": 2012
+  },
+  {
+    "id": "francis-of-delirium",
+    "name": "Francis of Delirium",
+    "showCount": 1,
+    "firstYear": 2026,
+    "lastYear": 2026
   },
   {
     "id": "fuel",
@@ -1269,7 +1276,7 @@ const ARTISTS = [
   {
     "id": "jimmy-eat-world",
     "name": "Jimmy Eat World",
-    "showCount": 28,
+    "showCount": 29,
     "firstYear": 1999,
     "lastYear": 2026
   },
@@ -1857,7 +1864,7 @@ const ARTISTS = [
   {
     "id": "natalie-merchant",
     "name": "Natalie Merchant",
-    "showCount": 3,
+    "showCount": 4,
     "firstYear": 1996,
     "lastYear": 2001
   },
@@ -1948,7 +1955,7 @@ const ARTISTS = [
   {
     "id": "old-97-s",
     "name": "Old 97's",
-    "showCount": 11,
+    "showCount": 12,
     "firstYear": 1996,
     "lastYear": 2026
   },
@@ -2249,9 +2256,9 @@ const ARTISTS = [
   {
     "id": "rob-zombie",
     "name": "Rob Zombie",
-    "showCount": 23,
+    "showCount": 24,
     "firstYear": 1998,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "rocket-from-the-crypt",
@@ -2662,9 +2669,9 @@ const ARTISTS = [
   {
     "id": "sunny-day-real-estate",
     "name": "Sunny Day Real Estate",
-    "showCount": 20,
+    "showCount": 21,
     "firstYear": 1993,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "superdrag",
