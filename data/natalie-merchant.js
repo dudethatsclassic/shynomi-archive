@@ -2,11 +2,12 @@ const ARTIST_DATA = {
   "id": "natalie-merchant",
   "name": "Natalie Merchant",
   "drive": "D",
-  "showCount": 3,
+  "showCount": 4,
   "firstYear": 1996,
   "lastYear": 2001,
   "years": [
     1996,
+    1998,
     1999,
     2001
   ],
@@ -24,6 +25,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-07-07 - Milwaukee, WI - Marcus Amphitheater (Schoeps MK4) (unk) [AUD].txt"
+    },
+    {
+      "year": 1998,
+      "month": 8,
+      "day": 20,
+      "dateStr": "8-20-1998",
+      "city": "Milwaukee",
+      "state": "WI",
+      "location": "Milwaukee, WI",
+      "venue": "Marcus Amphitheater",
+      "notes": "ECM-22P · unk",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1999,
