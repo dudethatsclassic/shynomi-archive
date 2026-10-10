@@ -17742,7 +17742,7 @@ const ARTIST_DATA = {
       "venue": "Valbyparken",
       "notes": "Syd · dpa4061 · tw",
       "version": "MIX",
-      "format": "FLAC 24"
+      "format": "FLAC"
     },
     {
       "year": 2026,
