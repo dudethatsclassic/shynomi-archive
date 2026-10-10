@@ -2452,9 +2452,9 @@ const ARTISTS = [
   {
     "id": "sleater-kinney",
     "name": "Sleater-Kinney",
-    "showCount": 10,
+    "showCount": 11,
     "firstYear": 2005,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "slipknot",
@@ -2536,7 +2536,7 @@ const ARTISTS = [
   {
     "id": "soulfly",
     "name": "Soulfly",
-    "showCount": 2,
+    "showCount": 3,
     "firstYear": 1998,
     "lastYear": 2025
   },
