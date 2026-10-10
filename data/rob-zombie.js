@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "rob-zombie",
   "name": "Rob Zombie",
   "drive": "D",
-  "showCount": 23,
+  "showCount": 24,
   "firstYear": 1998,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1998,
     1999,
@@ -18,7 +18,8 @@ const ARTIST_DATA = {
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -319,6 +320,19 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK41 · jesse mc",
       "version": "AUD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "day": 6,
+      "dateStr": "9-6-2026",
+      "city": "Noblesville",
+      "state": "IN",
+      "location": "Noblesville, IN",
+      "venue": "Ruoff Music Center",
+      "notes": "Sound Professionals CMC-08s · ironchef",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
