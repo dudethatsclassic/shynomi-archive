@@ -1,0 +1,36 @@
+311
+09-23-1995
+Vic Theatre
+Chicago, IL
+
+Source: AUD -> ? -> Cassette
+
+Transfer: Marantz PMD-300CP -> SD MixPre-6ii Channel 5/6 (L/R) @ 16bit/44.1kHz -> Wave Agent Beta (PolyWAV Splitting) -> Adobe Audition (Combine Tracks, Trim, Fade, EQ, Normalize, Track) -> Foobar2000 (Tagging)
+
+Transfer by: Brad Downen (bradleyjdownen@gmail.com)
+
+0. Intro
+1. Homebrew
+2. Lucky
+3. Freak Out
+4. Hive
+5. Silver
+6. All Mixed Up
+7. Tribute
+8. Nix Hex
+9. Plain
+10. Applied Science
+11. Don't Stay Home
+12. My Stoney Baby
+13. Visit
+14. T&P Combo
+15. Paradise
+16. Do You Right
+17. 8:16 AM
+18. Omaha Stylee
+19. Down
+20. Unity
+21. Hydroponic
+22. Jackolantern's Weather
+23. Offbeat Bareass
+24. Fat Chance

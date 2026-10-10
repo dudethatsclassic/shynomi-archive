@@ -1,0 +1,39 @@
+Miles Davis
+Sunday, September 10th, 1972
+Ann Arbor Blues and Jazz Festival @ Otis Spann Memorial Field
+Ann Arbor, MI
+------------------------------
+mastering: .wav file (via BFOQ) > iZotope RX 11 Advanced (tracking / removal overlap) > 
+
+Notes:
+--- removed 0:48 second overlap in Black Satin
+------------------------------
+goody's additional lineage:
+Audition (Speed/Pitch adjustment; Levels adjusted; noise cleanup; Tuned and patched 'Right Off' w/alternate source; tuned and added 'Sanctuary' from alternate source to complete the show) > TLH (FLAC Level 8; Align sector boundaries) > foobar2000 (tags)
+------------------------------
+
+Setlist:
+1. setting up; tuning 11:22
+2. Chieftain > 7:29
+3. Rated X 14:22
+3. Honky Tonk > 13:52
+4. Black Satin > 11:57
+5. Right Off (patched) > 9:00
+6. Sanctuary (Closing Theme, Applause, Announcement) (alt. source) 1:57
+------------------------------------------------------
+Runtime: 69:23
+
+The Players of Instruments:
+Miles Davis: Electric Trumpet with wah-wah pedal
+Carlos Garnett: Soprano Saxophone
+Cedric Lawson: Yamaha Organ
+Reggie Lucas: Guitar
+Khalil Balakrishna: Electric Sitar
+Michael Henderson: Bass
+Al Foster: Drums
+James "Mtume" Forman: Congas + Percussion
+Badal Roy: Tabla
+
+The patch for Track 5 and Track 6 has been taken from an Unknown Source, probably from a different broadcast as explained by Peter Losin at the following: http://www.plosin.com/milesAhead/Sessions.aspx?s=720910 )
+
+This edition - October 2026

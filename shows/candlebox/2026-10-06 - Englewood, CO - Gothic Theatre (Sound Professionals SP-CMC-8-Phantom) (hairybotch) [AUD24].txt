@@ -1,0 +1,98 @@
+Candlebox 20261006 Gothic Theatre Englewood CO USA Hairy Botch Recording and Master
+A Hairy Botch Recording and Remaster
+
+	CAF 96kHz24b IEEE float
+-->	FLAC 96kHz24b
+	FLAC 48kHz24b
+	FLAC 44.1kHz16b
+
+Contrast:
+
+Lineage:
+Sound Professionals SP-CMC-8-Phantom (@24V) Zoom H1 XLR 96kHz32b IEEE Float WAV -> OcenAudio -> Reaper -> Media Monkey (tagging only)
+
+Notes and observations:
+A fun show. Kevin Martin's voice is still great and Peter Klett is back with the band.
+
+A few minor issues with the recording. I was standing in the cool air but it left a little wind noise during the very soft passages. You probably won't notice it. I also mucked up my battery situation. I didn't miss any music but you'll hear the hard cut at the beginning of Blossom. And lastly, the band interrupted the song Breathe Me In because someone went down.
+
+All in all, I'm really happy with the recording. Brought back some great memories.
+
+I mastered this recording so that it sounded good to my old ears. It may be a little bright to your young ears.
+If you want this recording in a different format I'll do my best to help. Just reach out.
+
+Tracks:
+1-01 intro.flac
+1-02 Arrow.flac
+1-03 Stand.flac
+1-04 Punks.flac
+1-05 Change.flac
+1-06 Blossom.flac
+1-07 Alive At Last.flac
+1-08 Miss You.flac
+1-09 Breathe Me In (intro).flac
+1-10 Breathe Me In (including the man down interlude).flac
+1-11 Bitches Brewin'.flac
+1-12 I Remember Everything.flac
+2-13 Into The Sun.flac
+2-14 Cover Me.flac
+2-15 Elegante.flac
+2-16 Far Behind.flac
+2-17 You.flac
+2-18 outro.flac
+
+The band are:
+Kevin Martin - vox, acoustic guitar
+Peter Klett - guitar
+Adam Kury - bass, vox
+Island Styles - guitar, vox
+BJ Kerwin - drums
+
+Mastering details:
+Both OcenAudio and Reaper use 64bit float internal representation for the audio data. The transfer between the programs is 32bit IEEE float PCM. Overkill for bootleg recordings? Sure, but I'm OK with overkill.
+
+OcenAudio (destructive)
+	convert WAV to IEEE float 32b CAF (this is for import to Reaper)
+	adjust L/R to be roughly equal RMS and average power, normalize, and remove DC
+	limit/reduce amplitude clapping and "woo!" and "yeah!" sections, remove all references to Freebird when possible
+	additional minor clap and transient fixups that appear after Eq mastering
+
+Reaper v7.x (non-destructive)
+	EQ and readjust for 0dB peaks (IK Multimedia TR5 Linear Phase EQ)
+		additional peak limiter on difficult transients (Cockos ReaLimit)
+	brickwall limiter (IK Multimedia TR5 Stealth Limiter)
+	render to FLAC, songs/tracks to individual files
+
+Media Monkey
+	tagging and file renaming
+	batch conversion from master format to lower res FLAC for anything below 96kHz24b (my native library format)
+
+Other Files:
+Candlebox 20261006 Gothic Theatre Englewood CO US.txt
+Candlebox 20261006 Gothic Theatre Englewood CO US 96kHz24b [Hairy Botch].ffp
+20261006_183634.jpg
+20261006_183641.jpg
+20261006_204541.jpg
+20261006_204546.jpg
+20261006_220555.jpg
+20261006_220600.jpg
+20261006_220604.jpg
+20261006_220634.jpg
+20261006_220636.jpg
+20261006_220644.jpg
+20261006_220646.jpg
+20261006_221754.jpg
+
+About the software I use:
+OcenAudio is a fantastic and very stable (destructive) audio editor that runs on Mac, Windows, and Linux. I contribute to their project. I hope you will too.
+
+Audacity very rarely, just for specific filters.
+
+Cockos Reaper is a great and very reasonably priced DAW that runs on Mac, Windows, and Linux. It is the backbone of all my mastering work. I use the paid personal edition and love it. It has a bit of a learning curve, but it's worth the effort. If you need a DAW on the cheap please consider trying it out.
+
+IK Multimedia various VST/AU plug-ins. I primarily use the Eq and limiting.
+
+Media Monkey is a Windows only media library manager that I've used for many years now. I don't know what I would do without it.
+
+Finally:
+If you enjoy this recording please support this artist.

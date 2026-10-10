@@ -3257,5 +3257,12 @@ const ARTIST_MISC_DATA = [
     "year": 2015,
     "format": "FLAC",
     "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "Various Artists - Sending Hearts To All My Dearies (2026)",
+    "year": 2026,
+    "format": "FLAC HD",
+    "category": "OTHER"
   }
 ];

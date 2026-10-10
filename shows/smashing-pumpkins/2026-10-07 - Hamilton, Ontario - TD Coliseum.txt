@@ -1,0 +1,63 @@
+The Smashing Pumpkins
+October 7th, 2026
+TD  Coliseum, 
+Hamilton, ON, Canada
+
+SOURCE: Church CA-14 > Bat 2B > Edirol R-09hr (WAV 24bit/96kHz) [AUD > SD]
+LOCATION: ~ 125ft back, left of the soundboard
+TRANSFER: SD>USB>PC
+EQ: WAV>Cool Edit Pro>Goldwave>SRCdrop>wavbreaker
+EQ DETAILS: GW: Fades, compression, volume; 
+            CEP: EQ, limiting; 
+            SRC: downsample to 16bit/44.1kHz WAV; 
+            wavebreaker: track splits,
+ENCODING: FLAC(6)
+
+time: 02:39:14
+
+[set 01]
+01. 1979
+02. Bullet with Butterfly Wings
+03. Cupid de Locke
+04. Porcelina of the Vast Oceans
+05. Jellybelly
+06. Bodies
+07. [banter]
+08. Galapogos
+09. Thirty-Three
+10. Tonight, Tonight
+11. [banter]
+12. Here is No Why
+13. To Forgive
+14. Fuck You (An Ode to No One)
+15. Zero
+       > Tales of a Scorched Earth [tease]
+16. [banter]
+17. Muzzle
+18. By Starlight
+19. Mellon Collie and the Infinite Sadness
+
+
+[set 02]
+20. Machina, Machina
+21. Sojourner
+22. Edin
+23. Pentagrams
+24. Disarm
+25. Ava Adore
+26. War Dreams of Itself
+27. Mayonaise
+28. As Rome Burns
+       > Today [abandoned]
+29. Today
+30. Cherub Rock
+31. Jesus is the Sun
+32. The Everlasting Gaze
+33. Superchrist [instrumental]
+
+
+NOTE:
+
+- A few digital glitches here and there are likely. The input jack on my Edirol remains touch-and-go. 
+
+- Loud talkers, even louder clappers beside me. Used some extra limiting and compression to bring it down. 

@@ -1,0 +1,26 @@
+311
+12-XX-1992
+The Ranch Bowl
+Omaha, NE
+
+Source: AUD VID
+
+Transfer: AUD VID (M4V) -> SD MixPre-6ii Channel 5/6 (L/R) @ 24bit/48kHz -> Wave Agent Beta (PolyWAV Splitting) -> Adobe Audition (Combine Tracks, Trim, Fade, EQ, Normalize, Track) -> Foobar2000 (Tagging)
+
+Transfer by: Brad Downen (bradleyjdownen@gmail.com)
+
+1. Push It Away
+2. Plain
+3. My Stoney Baby
+4. Paradise
+5. Summer of Love
+6. Do You Right
+7. Nix Hex
+8. Welcome
+9. Freak Out
+10. Rollin
+11. Visit
+12. Hydroponic
+13. Unity
+14. Feels So Good
+15. Fat Chance

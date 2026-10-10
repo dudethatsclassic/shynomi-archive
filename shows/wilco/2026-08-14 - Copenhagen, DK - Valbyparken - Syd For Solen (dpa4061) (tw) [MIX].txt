@@ -1,0 +1,22 @@
+Wilco
+Copenhagen Valbyparken, DK
+2026-08-14
+
+[Syd For Solen]
+
+Source # 1: dpa4061->mma6000->sony pcm-a10->wav (96 khz/24 bit) normalized to 50%
+Source # 2: dpa4080->deity->r2 (48 kHz/ 24 bit) normalized to 75%
+Transfer: Sony pcm-a10+Deity Pr2->hd->matrix made in audition->cdwav (44 khz/16 bit)->flac
+Taper: Tw
+
+01. Intro
+02. Handshake Drugs
+03. Annihilation
+04. Hummingbird
+05. If I Ever Was a Child
+06. Bird Without a Tail / Base of My Skull
+07. Via Chicago
+08. Jesus, Etc.
+09. Impossible Germany
+10. I'm the Man Who Loves You
+11. Spiders (Kidsmoke)
