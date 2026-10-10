@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "filter",
   "name": "Filter",
   "drive": "E",
-  "showCount": 18,
+  "showCount": 19,
   "firstYear": 1995,
   "lastYear": 2026,
   "years": [
@@ -60,6 +60,19 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "FLAC",
       "textFile": "1995-12-31 - Cleveland, OH - Westwood One [FM].txt"
+    },
+    {
+      "year": 2002,
+      "month": 8,
+      "day": 17,
+      "dateStr": "8-17-2002",
+      "city": "Weeze",
+      "state": "Germany",
+      "location": "Weeze, Germany",
+      "venue": "Bizarre Festival",
+      "notes": "",
+      "version": "PRO",
+      "format": "DVD"
     },
     {
       "year": 2002,
