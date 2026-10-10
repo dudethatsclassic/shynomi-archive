@@ -975,9 +975,9 @@ const ARTISTS = [
   {
     "id": "golden-smog",
     "name": "Golden Smog",
-    "showCount": 16,
+    "showCount": 17,
     "firstYear": 1994,
-    "lastYear": 2006
+    "lastYear": 2025
   },
   {
     "id": "goldfinger",
@@ -3229,7 +3229,7 @@ const ARTISTS = [
   {
     "id": "wilco",
     "name": "Wilco",
-    "showCount": 1280,
+    "showCount": 1281,
     "firstYear": 1994,
     "lastYear": 2026
   },
