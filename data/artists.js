@@ -2949,9 +2949,9 @@ const ARTISTS = [
   {
     "id": "the-shins",
     "name": "The Shins",
-    "showCount": 32,
+    "showCount": 33,
     "firstYear": 2000,
-    "lastYear": 2017
+    "lastYear": 2026
   },
   {
     "id": "the-smile",
