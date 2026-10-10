@@ -24,7 +24,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Mercury Cafe",
-      "notes": "Binaural mics \u00b7 marcr",
+      "notes": "Binaural mics · marcr",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-10-06 - Denver, CO - Mercury Cafe (Binaural mics) (marcr) [AUD24].txt"
@@ -94,7 +94,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Saratoga NY",
       "venue": "Saratoga Performing Arts Center",
-      "notes": "Horde \u00b7 Sony D7 \u00b7 beerengineer",
+      "notes": "Horde · Sony D7 · beerengineer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-08-10 - Saratoga NY - Saratoga Performing Arts Center - Horde Fest (Sony D7) (beerengineer) [AUD].txt"
@@ -122,10 +122,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
-      "notes": "DAT(M) \u00b7 Gefell + M20 \u00b7 unk",
+      "notes": "DAT(M) · Gefell + M20 · unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-11-09 - Philadelphia, PA - Electric Factory (M20) [AUD].txt"
+      "textFile": "1997-11-09 - Philadelphia, PA - Electric Factory (Nak 300s) (lee schusterman + joey mutis) [AUD].txt"
     },
     {
       "year": 1997,
@@ -136,7 +136,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
-      "notes": "Nak 300s \u00b7 lee schusterman + joey mutis",
+      "notes": "Nak 300s · lee schusterman + joey mutis",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-11-09 - Philadelphia, PA - Electric Factory (Nak 300s) (lee schusterman + joey mutis) [AUD].txt"
@@ -192,7 +192,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "House of Blues",
-      "notes": "DAT(M) \u00b7 ECM-12 \u00b7 luke freteluco",
+      "notes": "DAT(M) · ECM-12 · luke freteluco",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-06-11 - Las Vegas, NV - House of Blues - DAT(M) (ECM-12) (luke freteluco) [AUD].txt"
