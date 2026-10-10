@@ -2,13 +2,14 @@ const ARTIST_DATA = {
   "id": "sleater-kinney",
   "name": "Sleater-Kinney",
   "drive": "E",
-  "showCount": 10,
+  "showCount": 11,
   "firstYear": 2005,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     2005,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -149,6 +150,19 @@ const ARTIST_DATA = {
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2025-06-29 - San Francisco, CA - Stern Grove Festival (Webstream) [WEB].txt"
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "day": 21,
+      "dateStr": "9-21-2026",
+      "city": "Boston",
+      "state": "MA",
+      "location": "Boston, MA",
+      "venue": "MGM Music Hall at Fenway",
+      "notes": "Zoom H2 · unk",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
