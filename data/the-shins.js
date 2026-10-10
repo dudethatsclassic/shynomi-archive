@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "the-shins",
   "name": "The Shins",
   "drive": "B",
-  "showCount": 32,
+  "showCount": 33,
   "firstYear": 2000,
-  "lastYear": 2017,
+  "lastYear": 2026,
   "years": [
     2000,
     2001,
@@ -17,7 +17,8 @@ const ARTIST_DATA = {
     2009,
     2012,
     2016,
-    2017
+    2017,
+    2026
   ],
   "shows": [
     {
@@ -57,7 +58,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's BBQ",
-      "notes": "Oktava MC012 \u00b7 mark phillips",
+      "notes": "Oktava MC012 · mark phillips",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-07-13 - Austin, TX - Stubb's BBQ [AUD].txt"
@@ -85,7 +86,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox",
-      "notes": "AKG 480s \u00b7 unk",
+      "notes": "AKG 480s · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-02-01 - Seattle, WA - The Showbox [AUD].flac.txt"
@@ -99,7 +100,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Henry Fonda Theatre",
-      "notes": "DAT(M) \u00b7 DPA 4061s \u00b7 ed davis",
+      "notes": "DAT(M) · DPA 4061s · ed davis",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-02-06 - Los Angeles, CA - Henry Fonda Theatre [AUD].txt"
@@ -113,7 +114,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mission Beach, CA",
       "venue": "Canes Ballroom",
-      "notes": "AT831s \u00b7 tyler huff",
+      "notes": "AT831s · tyler huff",
       "version": "AUD",
       "format": "SHN",
       "textFile": "2004-02-08 - Mission Beach, CA - Canes Ballroom [AUD].txt"
@@ -127,7 +128,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Black Cat",
-      "notes": "MBHO 603a/KA2000n \u00b7 scott",
+      "notes": "MBHO 603a/KA2000n · scott",
       "version": "AUD",
       "format": "SHN",
       "textFile": "2004-02-10 - Washington D.C. - Black Cat [AUD].txt"
@@ -141,10 +142,10 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Gothenburg, Sweden",
       "venue": "Accelerator Festival",
-      "notes": "Tra\u0308dga\u030ar'n",
+      "notes": "Trädgår'n",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2004-07-07 - Gothenburg, Sweden - Accelerator Festival - Tr\u00e4dg\u00e5r'n [SBD].txt"
+      "textFile": "2004-07-07 - Gothenburg, Sweden - Accelerator Festival - Trädgår'n [SBD].txt"
     },
     {
       "year": 2004,
@@ -155,7 +156,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Laguna Beach, CA",
       "venue": "Acoustic X-Mas",
-      "notes": "James Mercer Solo \u00b7 AT831 \u00b7 ljsurfer2002",
+      "notes": "James Mercer Solo · AT831 · ljsurfer2002",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2004-10-10 - Laguna Beach, CA - Festival of the Arts Grounds (James Mercer) [AUD].txt"
@@ -183,7 +184,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "notes": "SR-71s \u00b7 dan lang",
+      "notes": "SR-71s · dan lang",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-04-11 - Minneapolis, MN - First Avenue [AUD].flac.txt"
@@ -211,7 +212,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "The Kool Haus",
-      "notes": "Schoeps CCM41 \u00b7 fares halteh",
+      "notes": "Schoeps CCM41 · fares halteh",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-04-17 - Toronto, Ontario - The Kool Haus [AUD].flac.txt"
@@ -225,7 +226,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Hec Ed Pavilion",
-      "notes": "University \u00b7 SP-CMC-2 \u00b7 mycarrion",
+      "notes": "University · SP-CMC-2 · mycarrion",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-05-13 - Seattle, WA - Hec Ed Pavilion - University of WA [AUD].flac.txt"
@@ -239,7 +240,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Grant Park",
-      "notes": "Lollapalooza \u00b7 unk",
+      "notes": "Lollapalooza · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-08-06 - Chicago, IL - Grant Park - Lollapolooza [AUD].flac.txt"
@@ -253,7 +254,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "McCarren Pool",
-      "notes": "Schoeps MK64 \u00b7 vg/bel",
+      "notes": "Schoeps MK64 · vg/bel",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-08-23 - Brooklyn, NY - McCarren Pool [AUD].flac.txt"
@@ -295,7 +296,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "DAR Constitution Hall",
-      "notes": "CA-STC-11s \u00b7 unk",
+      "notes": "CA-STC-11s · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-03-11 - Washington, D.C. - DAR Constitution Hall  [AUD].flac.txt"
@@ -309,7 +310,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Kool Haus",
-      "notes": "CSC \u00b7 unk",
+      "notes": "CSC · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-03-17 - Toronto, Ontario - Kool Haus [AUD].flac.txt"
@@ -323,7 +324,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Enmore Theatre",
-      "notes": "Sony STR-DE598 \u00b7 franger",
+      "notes": "Sony STR-DE598 · franger",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2007-08-09 - Sydney, Australia - Enmore Theatre [FM].flac.txt"
@@ -337,7 +338,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theatre",
-      "notes": "Schoeps CMC34 \u00b7 unk",
+      "notes": "Schoeps CMC34 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-10-05 - Berkeley, CA - Greek Theatre [AUD].flac.txt"
@@ -351,7 +352,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
-      "notes": "Zoom H2 \u00b7 happy jack",
+      "notes": "Zoom H2 · happy jack",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-05-20 - Boston, MA - Orpheum Theatre [AUD].flac.txt"
@@ -365,7 +366,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Germany",
       "venue": "Berlin Huxley's Neue Welt",
-      "notes": "Nokia dbox2 \u00b7 elaljoscha",
+      "notes": "Nokia dbox2 · elaljoscha",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2012-03-28 - Berlin, Germany - Huxleys Neue Welt [FM].txt"
@@ -393,7 +394,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Manchester, TN",
       "venue": "Bonnaroo Festival",
-      "notes": "What \u00b7 SP-CMC-2 \u00b7 billfloyd",
+      "notes": "What · SP-CMC-2 · billfloyd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2012-06-10 - Manchester, TN - Bonnaroo - Which Stage [AUD24].mp3.txt"
@@ -421,7 +422,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Joint",
-      "notes": "Edirol R09 \u00b7 luke freteluco",
+      "notes": "Edirol R09 · luke freteluco",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-12-06 - Las Vegas, NV - Joint (R09HR) [AUD].txt"
@@ -435,7 +436,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Village Underground",
-      "notes": "Schoeps CCM5 \u00b7 duncan",
+      "notes": "Schoeps CCM5 · duncan",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2016-09-02 - London, England - Village Underground [AUD24].txt"
@@ -449,7 +450,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Summerfest",
-      "notes": "BMO \u00b7 Sony PCM-M10 \u00b7 jot",
+      "notes": "BMO · Sony PCM-M10 · jot",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2017-07-09 - Milwaukee, WI - Summerfest - BMO Harris Pavilion [AUD].txt"
@@ -463,11 +464,23 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Brooklyn, NC",
       "venue": "Kings Theatre",
-      "notes": "CA-14s \u00b7 larryrulz",
+      "notes": "CA-14s · larryrulz",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2017-11-03 - Brooklyn, NY - Kings Theatre [AUD].txt"
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "day": 15,
+      "dateStr": "9-15-2026",
+      "city": "West Valley City",
+      "state": "UT",
+      "location": "West Valley City, UT",
+      "venue": "Maverick Center",
+      "notes": "DPA 4061 · opsopcopolis",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
-  ],
-  "misc": []
+  ]
 };
