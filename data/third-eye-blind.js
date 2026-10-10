@@ -139,7 +139,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "The Catalyst",
-      "notes": "Schoeps MK4s \u00b7 tj",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-06-19 - Santa Cruz, CA - The Catalyst (Schoeps MK4s) (tj) [AUD].txt"
@@ -153,7 +153,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "UB Center For The Arts",
-      "notes": "IEM-Tascam DR-08 \u00b7 conan",
+      "notes": "IEM-Tascam DR-08 · conan",
       "version": "MIX",
       "format": "FLAC"
     },
@@ -166,7 +166,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Celeste Center",
-      "notes": "AT853U \u00b7 live2cd",
+      "notes": "AT853U · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-07-28 - Columbus, OH - Celeste Center (AT853U) (live2cd) [AUD].txt"
@@ -180,7 +180,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "MidFlorida Credit Union Amphitheater",
-      "notes": "Panasonic MM-BSM7s \u00b7 kevdogg",
+      "notes": "Panasonic MM-BSM7s · kevdogg",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-07-25 - Tampa, FL - MidFlorida Credit Union Amphitheater (Panasonic MM-BSM7s) (kevdogg) [AUD].txt"
@@ -194,7 +194,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Hotel Cafe",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-01-28 - Los Angeles, CA - The Hotel Cafe (DPA 4081) (faninor) [AUD24].txt"
@@ -208,7 +208,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "BMO Pavilion",
-      "notes": "CA14 \u00b7 unk",
+      "notes": "CA14 · unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-07-05 - Milwaukee, WI - BMO Pavilion (CA14) (unk) [AUD24].txt"
