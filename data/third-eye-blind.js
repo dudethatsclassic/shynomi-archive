@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "third-eye-blind",
   "name": "Third Eye Blind",
   "drive": "B",
-  "showCount": 14,
+  "showCount": 15,
   "firstYear": 1998,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1998,
     2003,
@@ -15,7 +15,8 @@ const ARTIST_DATA = {
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -212,6 +213,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-07-05 - Milwaukee, WI - BMO Pavilion (CA14) (unk) [AUD24].txt"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "day": 29,
+      "dateStr": "8-29-2026",
+      "city": "Syracuse",
+      "state": "NY - Suburban Park Stage - New York State Fairgrounds (Schoeps MK4 CMC1L) (beatkilla)",
+      "location": "Syracuse, NY - Suburban Park Stage - New York State Fairgrounds (Schoeps MK4 CMC1L) (beatkilla)",
+      "venue": "",
+      "notes": "",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
   ]
 };
