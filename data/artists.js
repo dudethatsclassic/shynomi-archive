@@ -2711,8 +2711,8 @@ const ARTISTS = [
   {
     "id": "system-of-a-down",
     "name": "System of a Down",
-    "showCount": 20,
-    "firstYear": 2000,
+    "showCount": 21,
+    "firstYear": 1997,
     "lastYear": 2026
   },
   {
