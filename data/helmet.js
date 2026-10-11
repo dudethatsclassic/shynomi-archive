@@ -80,7 +80,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Marquee",
-      "notes": "ANA(x) \u00b7 Sony Walkman \u00b7 unk",
+      "notes": "ANA(x) · Sony Walkman · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-01-25 - Sydney, Australia - Marquee - ANA(x) (Sony Walkman) (unk) [AUD].txt"
@@ -136,7 +136,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -177,7 +177,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
-      "notes": "DAT(M) \u00b7 CSB \u00b7 jlizard",
+      "notes": "DAT(M) · CSB · jlizard",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-09-13 - St. Louis, MO - Mississippi Nights - DAT(M) (CSB) (jlizard) [AUD].txt"
@@ -191,10 +191,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Doug Fir Lounge",
-      "notes": "DAT(M) \u00b7 Schoeps MK4 \u00b7 robert d",
+      "notes": "DAT(M) · Schoeps MK4 · robert d",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2004-10-22 - Portland, OR - Doug Fir Lounge - DAT(M) (DSM-6) (unk) [AUD].txt"
+      "textFile": "2004-10-22 - Portland, OR - Doug Fir Lounge - DAT(M) (Schoeps MK4) (robert d) [AUD].txt"
     },
     {
       "year": 2004,
@@ -205,7 +205,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Doug Fir Lounge",
-      "notes": "DAT(M) \u00b7 DSM-6 \u00b7 unk",
+      "notes": "DAT(M) · DSM-6 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2004-10-22 - Portland, OR - Doug Fir Lounge - DAT(M) (Schoeps MK4) (robert d) [AUD].txt"
@@ -261,7 +261,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Wasted Space",
-      "notes": "WAV(M) \u00b7 CK63 \u00b7 cps",
+      "notes": "WAV(M) · CK63 · cps",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-05-16 - Las Vegas, NV - Wasted Space - WAV(M) (CK63) (cps) [AUD].txt"
@@ -303,7 +303,7 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Adelaide, AUS",
       "venue": "The Governor Hindmarsh Hotel",
-      "notes": "SP-CMC-25 \u00b7 gods golfball",
+      "notes": "SP-CMC-25 · gods golfball",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2013-12-16 - Adelaide, AUS - The Governor Hindmarsh Hotel (SP-CMC-25) (gods golfball) [AUD].txt"
@@ -317,7 +317,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Brooklyn, NC",
       "venue": "Saint Vitus Bar",
-      "notes": "SBD + Schoeps CCM4u \u00b7 nyctaper",
+      "notes": "SBD + Schoeps CCM4u · nyctaper",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2015-02-22 - Brooklyn, NC - Saint Vitus Bar (SBD + Schoeps CCM4u) (nyctaper) [MIX].txt"
@@ -331,10 +331,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Mohawk",
-      "notes": "Tascam DR-05 \u00b7 exene",
+      "notes": "Tascam DR-05 · exene",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2018-05-10  - Austin, TX - Mohawk [AUD].txt"
+      "textFile": "2018-05-10 - Austin, TX - Mohawk (Tascam DR-05) (2021 exene remaster) [AUD].txt"
     },
     {
       "year": 2018,
@@ -345,7 +345,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Mohawk",
-      "notes": "Tascam DR-05 \u00b7 2021 exene remaster",
+      "notes": "Tascam DR-05 · 2021 exene remaster",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-05-10 - Austin, TX - Mohawk (Tascam DR-05) (2021 exene remaster) [AUD].txt"
@@ -401,7 +401,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Banc of California Stadium",
-      "notes": "Schoeps MK4s \u00b7 tj",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-02-04 - Los Angeles, CA - Banc of California Stadium (Schoeps MK4s) (tj) [AUD].txt"
@@ -415,7 +415,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Banc of California Stadium",
-      "notes": "Schoeps MK4s \u00b7 tj",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-02-05 - Los Angeles, CA - Banc of California Stadium (Schoeps MK4s) (tj) [AUD].txt"
@@ -429,7 +429,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "Hollywood Casino Amphitheatre",
-      "notes": "Sony PCM-A10 \u00b7 shane e. calhoon",
+      "notes": "Sony PCM-A10 · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-08-18 - Maryland Heights, MO - Hollywood Casino Amphitheatre (Sony PCM-A10) (shane e. calhoon) [AUD24].txt"
@@ -443,7 +443,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Filmore",
-      "notes": "Olympus LS-P4 \u00b7 bluejane99",
+      "notes": "Olympus LS-P4 · bluejane99",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-10-13 - Denver, CO - Filmore (Olympus LS-P4) (bluejane99) [AUD].txt"
@@ -457,7 +457,7 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Slaktkyrkan",
-      "notes": "Instamic Pro Plus \u00b7 qew",
+      "notes": "Instamic Pro Plus · qew",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-11-12 - Stockholm, SWE - Slaktkyrkan (Instamic Pro Plus) (qew) [AUD24].txt"
@@ -471,7 +471,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Denver CO",
       "venue": "Gothic Theater",
-      "notes": "Olympus LS-P4 \u00b7 bluejane99",
+      "notes": "Olympus LS-P4 · bluejane99",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-04-18 - Denver CO - Gothic Theater (Olympus LS-P4) (bluejane99) [AUD].txt"
@@ -485,7 +485,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Wacken, Germany",
       "venue": "Wacken Open Air",
-      "notes": "W.E.T. \u00b7 1080p",
+      "notes": "W.E.T. · 1080p",
       "version": "PRO",
       "format": "MP4",
       "textFile": "2025-08-02 - Wacken, Germany - Wacken Open Air - W.E.T. Stage  (1080p) [PRO].txt"
