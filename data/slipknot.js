@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "slipknot",
   "name": "Slipknot",
   "drive": "D",
-  "showCount": 56,
+  "showCount": 57,
   "firstYear": 1998,
   "lastYear": 2025,
   "years": [
@@ -151,6 +151,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-12-16 - Paris, France - Elysee Montmartre [AUD].txt"
+    },
+    {
+      "year": 2000,
+      "month": 1,
+      "day": 16,
+      "dateStr": "1-16-2000",
+      "city": "Fort Lauderdale",
+      "state": "FL /- Chili Pepper (Center Cam)",
+      "location": "Fort Lauderdale, FL /- Chili Pepper (Center Cam)",
+      "venue": "",
+      "notes": "",
+      "version": "AUD",
+      "format": "DVD"
     },
     {
       "year": 2000,
