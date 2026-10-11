@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "paramore",
   "name": "Paramore",
   "drive": "D",
-  "showCount": 12,
+  "showCount": 14,
   "firstYear": 2009,
   "lastYear": 2024,
   "years": [
@@ -59,6 +59,19 @@ const ARTIST_DATA = {
     },
     {
       "year": 2010,
+      "month": 5,
+      "day": 23,
+      "dateStr": "5-23-2010",
+      "city": "Bangor",
+      "state": "Wales",
+      "location": "Bangor, Wales",
+      "venue": "Faenol Park",
+      "notes": "Radio · bbc",
+      "version": "PRO",
+      "format": "DVD"
+    },
+    {
+      "year": 2010,
       "month": 11,
       "day": 16,
       "dateStr": "11-16-2010",
@@ -84,6 +97,19 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "MP2",
       "textFile": "2013-04-03 - London, UK - BBC Studios - Live Lounge [FM].txt"
+    },
+    {
+      "year": 2013,
+      "month": 7,
+      "day": 15,
+      "dateStr": "7-15-2013",
+      "city": "Mexico City",
+      "state": "Mexico",
+      "location": "Mexico City, Mexico",
+      "venue": "Palacio de los Deportes",
+      "notes": "FM-CDR · kikohbc",
+      "version": "FM",
+      "format": "FLAC"
     },
     {
       "year": 2013,
