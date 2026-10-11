@@ -25,7 +25,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -52,7 +52,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Brighton, CO",
       "venue": "Adams Country Fairgrounds",
-      "notes": "CSBs \u00b7 sxpxdxcx",
+      "notes": "CSBs · sxpxdxcx",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-07-08 - Brighton, CO - Adams Country Fairgrounds (CSBs) (sxpxdxcx) [AUD].txt"
@@ -94,7 +94,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Discovery Park",
-      "notes": "Aftershock \u00b7 Schoeps MK4s \u00b7 tj",
+      "notes": "Aftershock · Schoeps MK4s · tj",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-10-05 - Sacramento, CA - Discovery Park - Aftershock Festival (Schoeps MK4s) (tj) [AUD24].txt"
@@ -108,10 +108,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "Schoeps MK4 \u00b7 loughney",
+      "notes": "Schoeps MK4 · loughney",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-09-04 - Mountain View, CA - Shoreline Amphitheatre (Schoeps MK4) (loughney) [AUD24].txt"
+      "textFile": "2024-09-04 - Mountain View, CA - Shoreline Amphitheatre (Schoeps MK4s) (tj) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -122,7 +122,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "Schoeps MK4s \u00b7 tj",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-09-04 - Mountain View, CA - Shoreline Amphitheatre (Schoeps MK4s) (tj) [AUD24].txt"
