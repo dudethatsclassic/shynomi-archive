@@ -1535,9 +1535,9 @@ const ARTISTS = [
   {
     "id": "liz-phair",
     "name": "Liz Phair",
-    "showCount": 11,
+    "showCount": 13,
     "firstYear": 1994,
-    "lastYear": 2023
+    "lastYear": 2026
   },
   {
     "id": "ll-cool-j",
@@ -2564,7 +2564,7 @@ const ARTISTS = [
   {
     "id": "sponge",
     "name": "Sponge",
-    "showCount": 19,
+    "showCount": 20,
     "firstYear": 1995,
     "lastYear": 2026
   },
