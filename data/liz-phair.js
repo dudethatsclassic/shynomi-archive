@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "liz-phair",
   "name": "Liz Phair",
   "drive": "E",
-  "showCount": 11,
+  "showCount": 13,
   "firstYear": 1994,
-  "lastYear": 2023,
+  "lastYear": 2026,
   "years": [
     1994,
     1995,
@@ -12,7 +12,8 @@ const ARTIST_DATA = {
     2016,
     2018,
     2019,
-    2023
+    2023,
+    2026
   ],
   "shows": [
     {
@@ -168,6 +169,32 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-12-01 - Austin, TX - Moody Theater (SP-CMC-8s) (rjl) [AUD24].txt"
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "day": 21,
+      "dateStr": "9-21-2026",
+      "city": "Boston",
+      "state": "MA",
+      "location": "Boston, MA",
+      "venue": "MGM Music Hall at Fenway",
+      "notes": "Zoom H2 · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "day": 24,
+      "dateStr": "9-24-2026",
+      "city": "Albany",
+      "state": "NY",
+      "location": "Albany, NY",
+      "venue": "Hart Theatre",
+      "notes": "The · Edirol R05 · smores",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
   ]
 };
