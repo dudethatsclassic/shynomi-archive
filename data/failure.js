@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "failure",
   "name": "Failure",
   "drive": "D",
-  "showCount": 39,
+  "showCount": 40,
   "firstYear": 1994,
   "lastYear": 2026,
   "years": [
@@ -54,7 +54,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "The Electric Lounge",
-      "notes": "VHS(x) \u00b7 unk",
+      "notes": "VHS(x) · unk",
       "version": "AUD",
       "format": "DVD",
       "textFile": "1997-02-10 - Austin, TX - The Electric Lounge - VHS(x) (unk) [DVD].txt"
@@ -68,7 +68,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Tremont Music Hall",
-      "notes": "unk \u00b7 doodee master",
+      "notes": "unk · doodee master",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-02-21 - Charlotte, NC - Tremont Music Hall (unk) (doodee master) [AUD].txt"
@@ -110,7 +110,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "notes": "? \u00b7 unk",
+      "notes": "? · unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -163,7 +163,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "El Rey",
-      "notes": "Schoeps MK41s \u00b7 blg",
+      "notes": "Schoeps MK41s · blg",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-02-13 - Los Angeles, CA - El Rey (Schoeps MK41s) (blg) AUD].txt"
@@ -177,7 +177,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bill Graham Civic Center",
-      "notes": "Schoeps CCM4s \u00b7 unk",
+      "notes": "Schoeps CCM4s · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-03-12 - San Francisco, CA - Bill Graham Civic Center (Schoeps CCM4s) (unk) [AUD].txt"
@@ -191,7 +191,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "notes": "Schoeps MK4 \u00b7 unk",
+      "notes": "Schoeps MK4 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-05-15 - San Francisco, CA - Great American Music Hall (Schoeps MK4) (unk) [AUD].txt"
@@ -205,7 +205,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Rickshaw Theatre",
-      "notes": "CA-11 \u00b7 leifh",
+      "notes": "CA-11 · leifh",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-05-17 - Vancouver, BC - Rickshaw Theatre (CA-11) (leifh) [AUD].txt"
@@ -219,7 +219,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "St. Andrews Hall",
-      "notes": "DPA 4060 \u00b7 charles dewey cole",
+      "notes": "DPA 4060 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2014-05-25 - Detroit, MI - St. Andrews Hall (DPA 4060) (charles dewey cole) [AUD24].txt"
@@ -246,7 +246,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pomona, CA",
       "venue": "Glass House",
-      "notes": "Schoeps MK5 \u00b7 blg",
+      "notes": "Schoeps MK5 · blg",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-06-14 - Pomona, CA - Glass House (Schoeps MK5) (blg) [AUD].txt"
@@ -260,7 +260,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Amoeba Records",
-      "notes": "AT933s \u00b7 mixter_",
+      "notes": "AT933s · mixter_",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2015-06-30 - Hollywood, CA - Amoeba Records (AT933s) (mixter_) [AUD].txt"
@@ -288,7 +288,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The LC",
-      "notes": "CA-14 \u00b7 charles dewey cole",
+      "notes": "CA-14 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2015-07-07 - Columbus, OH - The LC (CA-14) (charles dewey cole) [AUD24].txt"
@@ -302,7 +302,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "20th Century Theatre",
-      "notes": "CA-14s \u00b7 charles dewey cole",
+      "notes": "CA-14s · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2015-07-09 - Cincinnati, OH - 20th Century Theatre (CA-14s) (charles dewey cole) [AUD].txt"
@@ -316,7 +316,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "College Street Music Hall",
-      "notes": "AUD(M) \u00b7 Core Sound HEB's \u00b7 bill hoy",
+      "notes": "AUD(M) · Core Sound HEB's · bill hoy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2015-08-16 - New Haven, CT - College Street Music Hall - AUD(M) (Core Sound HEB's) (bill hoy) [AUD].txt"
@@ -330,7 +330,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "St. Andrew's Hall",
-      "notes": "AT831a \u00b7 ryanj",
+      "notes": "AT831a · ryanj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2015-08-19 - Detroit, MI - St. Andrew's Hall (AT831a) (ryanj) [AUD].txt"
@@ -344,7 +344,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Firebird",
-      "notes": "CSB \u00b7 charles dewey cole",
+      "notes": "CSB · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2015-10-17 - St. Louis, MO - The Firebird (CSB) (charles dewey cole) [AUD24].txt"
@@ -358,7 +358,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Fremont Country Club",
-      "notes": "WAV(M) \u00b7 Edirol R-09 \u00b7 luke freteluco",
+      "notes": "WAV(M) · Edirol R-09 · luke freteluco",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2015-10-22 - Las Vegas, NV - Fremont Country Club (R09HR) [AUD].txt"
@@ -372,7 +372,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Regent",
-      "notes": "DPA 4061s \u00b7 ed davis",
+      "notes": "DPA 4061s · ed davis",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2015-10-27 - Los Angeles, CA - The Regent (DPA 4061s) (ed davis) [AUD].txt"
@@ -386,7 +386,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Mohawk",
-      "notes": "Tascam DR-40 \u00b7 exene/bluejane99",
+      "notes": "Tascam DR-40 · exene/bluejane99",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2016-10-11 - Austin, TX - Mohawk [AUD].txt"
@@ -400,7 +400,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "The Pyramid Scheme",
-      "notes": "AT853s \u00b7 charles dewey cole",
+      "notes": "AT853s · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2016-10-22 - Grand Rapids, MI - The Pyramid Scheme (AT853s) (charles dewey cole) [AUD24].txt"
@@ -414,7 +414,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Crocadile",
-      "notes": "CA-11 \u00b7 leifh",
+      "notes": "CA-11 · leifh",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2016-10-27 - Seattle, WA - The Crocadile (CA-11) (leifh) [AUD].txt"
@@ -428,7 +428,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Spirit",
-      "notes": "CA-14 \u00b7 charles dewey cole",
+      "notes": "CA-14 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2019-03-23 - Pittsburgh, PA - Spirit (CA-14) (charles dewey cole) [AUD24].txt"
@@ -456,7 +456,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Newport Music Hall",
-      "notes": "AT853 \u00b7 charles dewey cole",
+      "notes": "AT853 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2019-04-02 - Columbus, OH - Newport Music Hall (AT853) (charles dewey cole) [AUD24].txt"
@@ -470,7 +470,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Venue",
-      "notes": "CA-11 \u00b7 leifh",
+      "notes": "CA-11 · leifh",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-04-18 - Vancouver, BC - Venue (CA-11) (leifh) [AUD].txt"
@@ -484,7 +484,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pioneertown, CA",
       "venue": "Pappy & Harriet's",
-      "notes": "Indoor \u00b7 DPA 4063 \u00b7 taye per",
+      "notes": "Indoor · DPA 4063 · taye per",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-06-03 - Pioneertown, CA - Pappy & Harriet's - Indoor Stage (DPA 4063) (taye per) [AUD].txt"
@@ -498,7 +498,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Bottom Lounge",
-      "notes": "CA-14 \u00b7 charles dewey cole",
+      "notes": "CA-14 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-07-01 - Chicago, IL - Bottom Lounge (CA-14) (charles dewey cole) [AUD24].txt"
@@ -512,7 +512,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "notes": "SP-CMC-4U \u00b7 loughney",
+      "notes": "SP-CMC-4U · loughney",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-07-07 - San Francisco, CA - Great American Music Hall (SP-CMC-4U) (loughney) [AUD24].txt"
@@ -539,7 +539,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Zebulon Cafe",
-      "notes": "DPA 4063 \u00b7 unk",
+      "notes": "DPA 4063 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-04-21 - Los Angeles, CA - Zebulon Cafe (DPA 4063) (unk) [AUD].txt"
@@ -553,11 +553,23 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Grog Shop",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-05-03 - Cleveland, OH - Grog Shop (CA-14s) (live2cd) [AUD24].txt"
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "day": 30,
+      "dateStr": "9-30-2026",
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "The Chapel",
+      "notes": "Schoeps MK4 · lachtna productions",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
-  ],
-  "misc": []
+  ]
 };
