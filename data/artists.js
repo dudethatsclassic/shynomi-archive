@@ -1332,9 +1332,9 @@ const ARTISTS = [
   {
     "id": "jose-gonzalez",
     "name": "Jose Gonzalez",
-    "showCount": 1,
+    "showCount": 2,
     "firstYear": 2006,
-    "lastYear": 2006
+    "lastYear": 2026
   },
   {
     "id": "juliana-hatfield",
@@ -3019,9 +3019,9 @@ const ARTISTS = [
   {
     "id": "third-eye-blind",
     "name": "Third Eye Blind",
-    "showCount": 14,
+    "showCount": 15,
     "firstYear": 1998,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "thom-yorke",
