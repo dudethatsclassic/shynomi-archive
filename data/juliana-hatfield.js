@@ -26,7 +26,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Victoria, BC",
       "venue": "Harpo's Cabaret",
-      "notes": "Sony WM-F46 \u00b7 crowflies",
+      "notes": "Sony WM-F46 · crowflies",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1992-07-23 - Victoria, BC - Harpo's Cabaret (Sony WM-F46) (crowflies) [AUD].txt"
@@ -54,7 +54,7 @@ const ARTIST_DATA = {
       "state": "GER",
       "location": "Koln, GER",
       "venue": "Luxor",
-      "notes": "ANA(M) \u00b7 Sony PC-62 \u00b7 buenaventura",
+      "notes": "ANA(M) · Sony PC-62 · buenaventura",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-09-03 - Koln, GER - Luxor - ANA(M) (Sony PC-62) (buenaventura) [AUD].txt"
@@ -82,7 +82,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "notes": "ANA(M) \u00b7 ECM-909 \u00b7 tjcruz",
+      "notes": "ANA(M) · ECM-909 · tjcruz",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -109,7 +109,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Central Park",
-      "notes": "Summerstage \u00b7 Juliana Hatfield Three \u00b7 M",
+      "notes": "Summerstage · Juliana Hatfield Three · M",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1994-07-23 - New York, NY - Central Park - Summerstage (Juliana Hatfield Three) - DAT(M) [SBD].txt"
@@ -123,7 +123,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Opera House",
-      "notes": "CBC-FM \u00b7 stevemtl",
+      "notes": "CBC-FM · stevemtl",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1995-09-22 - Toronto, ON - Opera House (CBC-FM) (stevemtl) [FM].txt"
@@ -165,7 +165,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Virgin Megastore",
-      "notes": "AUD(M) \u00b7 so cal rock shows",
+      "notes": "AUD(M) · so cal rock shows",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-10-12 - Los Angeles, CA - Virgin Megastore - AUD(M) (so cal rock shows) [AUD].txt"
@@ -179,7 +179,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's",
-      "notes": "CSB \u00b7 unk",
+      "notes": "CSB · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2000-06-17 - Austin, TX - Stubb's (CSB) (unk) [AUD].txt"
@@ -193,7 +193,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Saint Andrew's Hall",
-      "notes": "Shure MV88 \u00b7 adavici",
+      "notes": "Shure MV88 · adavici",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-12-11 - Detroit, MI - Saint Andrew's Hall (Shure MV88) (adavici) [AUD24].txt"
@@ -207,7 +207,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Le Poisson Rouge",
-      "notes": "Roland CS-10EM \u00b7 phideaux3",
+      "notes": "Roland CS-10EM · phideaux3",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-12-15 - New York, NY - Le Poisson Rouge (Roland CS-10EM) (phideaux3) [AUD24].txt"
@@ -221,7 +221,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Brick and Mortar",
-      "notes": "Juliana Hatfield Three \u00b7 Schoeps MK4s \u00b7 loughney",
+      "notes": "Juliana Hatfield Three · Schoeps MK4s · loughney",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-10-10 - San Francisco, CA - Brick and Mortar (Schoeps MK4s) (loughney) [AUD24].txt"
@@ -235,7 +235,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Homer, NY",
       "venue": "Center for the Arts",
-      "notes": "Core Sound Mics \u00b7 boeditaper \u00b7 JH3",
+      "notes": "Core Sound Mics · boeditaper · JH3",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-10-25 - Homer, NY - Center for the Arts (Core Sound Mics) (boeditaper) (JH3) [AUD].txt"
@@ -249,7 +249,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ferndale, MI",
       "venue": "Magic Bag",
-      "notes": "Shure MV88 \u00b7 adavici \u00b7 JH3",
+      "notes": "Shure MV88 · adavici · JH3",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-10-26 - Ferndale, MI - Magic Bag (Shure MV88) (adavici) (JH3) [AUD].txt"
