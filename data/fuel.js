@@ -20,7 +20,7 @@ const ARTIST_DATA = {
       "state": "AK",
       "location": "Fairbanks, AK",
       "venue": "The Blue Loon",
-      "notes": "SS-DSM-6P · ballsdeep",
+      "notes": "SS-DSM-6P \u00b7 ballsdeep",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-12-15 - Fairbanks, AK - The Blue Loon (SS-DSM-6P) (ballsdeep) [AUD].txt"
@@ -34,7 +34,7 @@ const ARTIST_DATA = {
       "state": "AK",
       "location": "Fairbanks, AK",
       "venue": "The Blue Loon",
-      "notes": "SS-DSM-6P · ballsdeep",
+      "notes": "SS-DSM-6P \u00b7 ballsdeep",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-12-16 - Fairbanks, AK - The Blue Loon (SS-DSM-6P) (ballsdeep) [AUD].txt"
@@ -48,7 +48,7 @@ const ARTIST_DATA = {
       "state": "Bahamas",
       "location": "Nassau, Bahamas",
       "venue": "Norwegian Jade",
-      "notes": "Stardust · Edirol R09HR · unk",
+      "notes": "Stardust \u00b7 Edirol R09HR \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-04-28 - Nassau, Bahamas - Norwegian Jade - Stardust Theater - Summer of 99 & Beyond (Edirol R09HR) (unk) [AUD] .txt"
@@ -62,7 +62,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Norwegian Jade",
       "venue": "Pool Deck",
-      "notes": "Summer · Edirol R09HR · unk",
+      "notes": "Summer \u00b7 Edirol R09HR \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-04-30 - Norwegian Jade - Pool Deck - Summer of 99 & Beyond (Edirol R09HR) (unk) [AUD].txt"
@@ -76,7 +76,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Bernardino, CA",
       "venue": "Glen Helen Amphitheater",
-      "notes": "Summer · Zoom H4N · unk",
+      "notes": "Summer \u00b7 Zoom H4N \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-08-31 - San Bernardino, CA - Glen Helen Amphitheater - Summer of 99 Festival (Zoom H4N) (unk) [AUD].txt"
@@ -90,7 +90,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Bowler, WI",
       "venue": "North Star Mohican Casino",
-      "notes": "Edirol R09HR · unk",
+      "notes": "Edirol R09HR \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-02-15 - Bowler, WI - North Star Mohican Casino (Edirol R09HR) (unk) [AUD].txt"
@@ -104,7 +104,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Wheatland, CA",
       "venue": "Hard Rock Live",
-      "notes": "SP-CMC-4U · vibrioidxire",
+      "notes": "SP-CMC-4U \u00b7 vibrioidxire",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-03-28 - Wheatland, CA - Hard Rock Live (SP-CMC-4U) (vibrioidxire) [AUD24].txt"
@@ -118,7 +118,7 @@ const ARTIST_DATA = {
       "state": "GEM",
       "location": "Norwegian, GEM",
       "venue": "Stardust Theater",
-      "notes": "Summer · Show 2 · Zoom H4n · unk",
+      "notes": "Summer \u00b7 Show 2 \u00b7 Zoom H4n \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-04-10 - Norwegian, GEM - Stardust Theater - Summer of 99 Cruise (Show 2) (Zoom H4n) (unk) [AUD].txt"

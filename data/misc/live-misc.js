@@ -96,5 +96,11 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2007,
     "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "XX-XX - Columbia, PA - Throwing Copper Churchbox Demo",
+    "year": 1993,
+    "textFile": "MISC - 1993-XX-XX - Columbia, PA - Throwing Copper Churchbox Demo.txt"
   }
 ];

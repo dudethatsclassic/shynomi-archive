@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Echoplex",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-06-19 - Los Angeles, CA - Echoplex (DPA 4081) (faninor) [AUD24].txt"

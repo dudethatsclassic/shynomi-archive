@@ -96,5 +96,11 @@ const ARTIST_MISC_DATA = [
     "year": 2020,
     "format": "FLAC HD",
     "category": "HD"
+  },
+  {
+    "type": "release",
+    "label": "Incubus - Closet Cultivation (Demo) (inc)",
+    "format": "FLAC",
+    "textFile": "MISC - Incubus - Closet Cultivation (Demo) (inc) [FLAC].txt"
   }
 ];

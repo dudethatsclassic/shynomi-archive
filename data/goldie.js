@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -31,7 +31,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "",
       "format": ""
     }

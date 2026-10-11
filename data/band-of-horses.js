@@ -29,7 +29,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Echo",
-      "notes": "Sony WM-D6C · steve hanna",
+      "notes": "Sony WM-D6C \u00b7 steve hanna",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-06-30 - Los Angeles, CA - The Echo (Sony WM-D6C) (steve hanna) [AUD].txt"
@@ -57,7 +57,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Amoeba Music",
-      "notes": "SS-DSM6 · unk",
+      "notes": "SS-DSM6 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-10-10 - Hollywood, CA - Amoeba Music (SS-DSM6) (unk) [AUD].txt"
@@ -85,7 +85,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Newark, NJ",
       "venue": "Prudential Center",
-      "notes": "Schoeps MK41 · unk",
+      "notes": "Schoeps MK41 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-05-18 - Newark, NJ - Prudential Center (Schoeps MK41) (unk) [AUD].txt"
@@ -99,7 +99,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Billboard",
-      "notes": "M · franger",
+      "notes": "M \u00b7 franger",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2010-08-03 - Melbourne, Australia - Billboard (M) (franger) [FM] .txt"
@@ -113,7 +113,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Shepherd's Bush",
-      "notes": "Bush · AT933 · humbug",
+      "notes": "Bush \u00b7 AT933 \u00b7 humbug",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-08-26 - London, UK - Shepherd's Bush - Bush Hall (AT933) (humbug) [AUD].txt"
@@ -168,7 +168,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Time Warner Cable Uptown Ammphitheatre",
-      "notes": "CM-33s · nsl",
+      "notes": "CM-33s \u00b7 nsl",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -209,7 +209,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Live In Session On MBE",
-      "notes": "KCRW · nibbler",
+      "notes": "KCRW \u00b7 nibbler",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2012-10-15 - Santa Monica, CA - Live In Session On MBE - KCRW (nibbler) [FM] .txt"
@@ -236,7 +236,7 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Melbourne, AUS",
       "venue": "Palais Theatre",
-      "notes": "CA-14s · roman79",
+      "notes": "CA-14s \u00b7 roman79",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2013-01-23- Melbourne, AUS - Palais Theatre (CA-14s) (roman79) [AUD].txt"
@@ -250,7 +250,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival",
-      "notes": "CA-11s · djdarkbeat",
+      "notes": "CA-11s \u00b7 djdarkbeat",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2013-04-12 - Indio, CA - Coachella Festival  (CA-11s) (djdarkbeat) [AUD].txt"
@@ -264,7 +264,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "Schoeps MK41s · mttdxb",
+      "notes": "Schoeps MK41s \u00b7 mttdxb",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-10-25 - Mountain View, CA - Shoreline Amphitheatre (Schoeps MK41s) (mttdxb) [AUD].txt"
@@ -278,7 +278,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "Schoeps MK41s · mttdxb",
+      "notes": "Schoeps MK41s \u00b7 mttdxb",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-10-26 - Mountain View, CA - Shoreline Amphitheatre (Schoeps MK41s) (mttdxb) [AUD].txt"
@@ -292,7 +292,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Camden, NJ",
       "venue": "Susquehana Bank Center",
-      "notes": "SP-CMC-2 · unk",
+      "notes": "SP-CMC-2 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2015-07-16 - Camden, NJ - Susquehana Bank Center (SP-CMC-2) (unk) [AUD24].txt"
@@ -306,7 +306,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Amoeba Music",
-      "notes": "AT831 · unk",
+      "notes": "AT831 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2016-06-01 - Hollywood, CA - Amoeba Music (AT831) (unk) [AUD].txt"
@@ -334,7 +334,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Rebel",
-      "notes": "AT831 · unk",
+      "notes": "AT831 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2016-11-03 - Toronto, ON - Rebel (AT831) (unk) [AUD].txt"
@@ -348,7 +348,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cuyahoga Falls, OH",
       "venue": "Blossom Music Center",
-      "notes": "Tascam DR-02 · unk",
+      "notes": "Tascam DR-02 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-09-09 - Cuyahoga Falls, OH - Blossom Music Center (Tascam DR-02) (unk) [AUD].txt"
@@ -362,7 +362,7 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "Twilight Series at the Gallivan Center",
-      "notes": "CA-11 · opsopcopolis",
+      "notes": "CA-11 \u00b7 opsopcopolis",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-09-30 - Salt Lake City, UT - Twilight Series at the Gallivan Center (CA-11) (opsopcopolis) [AUD24].txt"
@@ -376,7 +376,7 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Portsmouth, NH",
       "venue": "The Music Hall",
-      "notes": "Zoom H1N · unk",
+      "notes": "Zoom H1N \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-02-01 - Portsmouth, NH - The Music Hall (Zoom H1N) (unk) [AUD].txt"
@@ -404,7 +404,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Bel-aire Backyard",
-      "notes": "WAV(M) · AT853 · unk",
+      "notes": "WAV(M) \u00b7 AT853 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-09-27 - Las Vegas, NV - Bel-aire Backyard - WAV(M) (AT853) (unk) [AUD24].txt"

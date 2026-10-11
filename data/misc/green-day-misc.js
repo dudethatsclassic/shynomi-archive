@@ -33,7 +33,7 @@ const ARTIST_MISC_DATA = [
     "type": "label",
     "label": "Green Day - Foot in Mouth (Live EP)",
     "format": "FLAC",
-    "textFile": "MISC - Green Day - Dookie Demos.txt"
+    "textFile": "MISC - Green Day - Foot in Mouth.txt"
   },
   {
     "type": "label",
@@ -68,8 +68,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Green Day - Foot in Mouth",
-    "textFile": "MISC - Green Day - Foot in Mouth.txt"
+    "label": "Green Day - Foot in Mouth"
   },
   {
     "type": "release",
@@ -103,7 +102,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Green Day - VH1 Ultimate Albums - Dookie (1994)",
     "year": 1994,
-    "format": "MPG"
+    "format": "MPG",
+    "textFile": "MISC - Green Day - Dookie Demos.txt"
   },
   {
     "type": "release",
@@ -116,8 +116,7 @@ const ARTIST_MISC_DATA = [
     "label": "Green Day - Attack of Insomnia {MOONRAKER 013} (1995)",
     "year": 1995,
     "version": "Silver CD",
-    "category": "SILVERS",
-    "textFile": "MISC - Green Day - Insomniac 1995 (2016) (24_96) [FLAC HD].txt"
+    "category": "SILVERS"
   },
   {
     "type": "release",
@@ -294,7 +293,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "Green Day - Live Tracks (1995)",
     "year": 1995,
-    "format": "FLAC"
+    "format": "FLAC",
+    "textFile": "MISC - Green Day - Insomniac 1995 (2016) (24_96) [FLAC HD].txt"
   },
   {
     "type": "release",

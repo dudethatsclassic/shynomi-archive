@@ -41,7 +41,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Dodge Music Theatre",
-      "notes": "ECM719 · firemt66",
+      "notes": "ECM719 \u00b7 firemt66",
       "version": "AUD #1",
       "format": "FLAC",
       "textFile": "2008-08-22 - Hartford, CT - Dodge Music Theatre (ECM719) (firemt66) [AUD #1].txt"
@@ -55,7 +55,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Allstate Arena",
-      "notes": "Sony ECM-DS70P · ratpickle",
+      "notes": "Sony ECM-DS70P \u00b7 ratpickle",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-10-10 - Chicago, IL - Allstate Arena (Sony ECM-DS70P) (ratpickle) [AUD].txt"
@@ -69,7 +69,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wachovia Center",
-      "notes": "Schoeps MK4 · nicky c and mom c",
+      "notes": "Schoeps MK4 \u00b7 nicky c and mom c",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-03-18 - Philadelphia, PA - Wachovia Center (Schoeps MK4) (nicky c and mom c) [AUD #1].txt"
@@ -83,7 +83,7 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Charlottesville, VA",
       "venue": "John Paul Jones Arena",
-      "notes": "CA-11s · jagraham84",
+      "notes": "CA-11s \u00b7 jagraham84",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-03-20 - Charlottesville, VA - John Paul Jones Arena (CA-11s) (jagraham84) [AUD].txt"
@@ -97,7 +97,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Nippon Budokan",
-      "notes": "The · IEM+AUD",
+      "notes": "The \u00b7 IEM+AUD",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2011-02-16 - Tokyo, Japan - Nippon Budokan - The Story of Budokan (IEM+AUD) [MIX].txt"
@@ -111,7 +111,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Nippon Budokan",
-      "notes": "unk · xavel-110a",
+      "notes": "unk \u00b7 xavel-110a",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-02-17 - Tokyo, Japan - Nippon Budokan (unk) (xavel-110a) [AUD].txt"
@@ -125,7 +125,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Civic Center",
-      "notes": "ECM-719 · unk",
+      "notes": "ECM-719 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-06-22 - Hartford, CT - Civic Center (ECM-719) (unk) [AUD].txt"
@@ -153,7 +153,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "TBT Forum",
-      "notes": "CA-11 · veg",
+      "notes": "CA-11 \u00b7 veg",
       "version": "AUD #1",
       "format": "FLAC",
       "textFile": "2011-11-12 - Tampa, FL - TBT Forum (CA-11) (veg) [AUD #1].txt"
@@ -181,7 +181,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Saitama Super Arena",
-      "notes": "June · xavel",
+      "notes": "June \u00b7 xavel",
       "version": "AUD",
       "format": "DVD",
       "textFile": "2014-06-01 - Tokyo, Japan - Saitama Super Arena - June 1st 2014 (xavel) [DVD].txt"
@@ -195,7 +195,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Tokyo Dome",
-      "notes": "Night 1 · IEM+AUD",
+      "notes": "Night 1 \u00b7 IEM+AUD",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2015-05-05 - Tokyo, Japan - Tokyo Dome (Night 1) (IEM+AUD) [MIX].txt"
@@ -209,7 +209,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Tokyo Dome",
-      "notes": "Night 2 · IEM+AUD",
+      "notes": "Night 2 \u00b7 IEM+AUD",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2015-05-06 - Tokyo, Japan - Tokyo Dome (Night 2) (IEM+AUD) [MIX].txt"
@@ -237,7 +237,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pasadena, CA",
       "venue": "Rose Bowl",
-      "notes": "AT943 · carsfan",
+      "notes": "AT943 \u00b7 carsfan",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-05-18 - Pasadena, CA - Rose Bowl (AT943) (carsfan) [AUD].txt"
@@ -265,7 +265,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "FirstEnergy Stadium",
-      "notes": "CA-14 · charles dewey cole",
+      "notes": "CA-14 \u00b7 charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-07-17 - Cleveland, OH - FirstEnergy Stadium (CA-14) (charles dewey cole) [AUD].txt"
@@ -321,7 +321,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Glendale, AZ",
       "venue": "State Farm Stadium",
-      "notes": "Sony PCM-A10 · unk",
+      "notes": "Sony PCM-A10 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-03-17 - Glendale, AZ - State Farm Stadium (Sony PCM-A10) (unk) [AUD].txt"
@@ -335,7 +335,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Nissan Stadium",
-      "notes": "Zoom H2n · chickenwing",
+      "notes": "Zoom H2n \u00b7 chickenwing",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-05-07 - Nashville, TN - Nissan Stadium (Zoom H2n) (chickenwing) [AUD24].txt"
@@ -349,7 +349,7 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Friends Arena",
-      "notes": "Solna · Sony ECM CS-10 · snarko",
+      "notes": "Solna \u00b7 Sony ECM CS-10 \u00b7 snarko",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-05-19 - Stockholm, SWE - Friends Arena - Solna (Sony ECM CS-10) (snarko) [AUD].txt"
@@ -363,7 +363,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Lyon, France",
       "venue": "Groupama Stadium",
-      "notes": "KM140s · alysha",
+      "notes": "KM140s \u00b7 alysha",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-06-02 - Lyon, France - Groupama Stadium (KM140s) (alysha) [AUD].txt"
@@ -377,7 +377,7 @@ const ARTIST_DATA = {
       "state": "Poland",
       "location": "Warsaw, Poland",
       "venue": "PGE Narodowy",
-      "notes": "CA-14 · unk",
+      "notes": "CA-14 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-08-02 - Warsaw, Poland - PGE Narodowy (CA-14) (unk) [AUD].txt"
@@ -391,7 +391,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "BC Place",
-      "notes": "DPA 4061 · opsopcopolis",
+      "notes": "DPA 4061 \u00b7 opsopcopolis",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-12-07 - Vancouver, BC - BC Place (DPA 4061) (opsopcopolis) [AUD24].txt"
