@@ -1927,7 +1927,7 @@ const ARTISTS = [
   {
     "id": "no-doubt",
     "name": "No Doubt",
-    "showCount": 3,
+    "showCount": 4,
     "firstYear": 1997,
     "lastYear": 2026
   },
@@ -2004,7 +2004,7 @@ const ARTISTS = [
   {
     "id": "paramore",
     "name": "Paramore",
-    "showCount": 12,
+    "showCount": 14,
     "firstYear": 2009,
     "lastYear": 2024
   },
