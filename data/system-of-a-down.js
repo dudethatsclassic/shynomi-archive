@@ -2,10 +2,11 @@ const ARTIST_DATA = {
   "id": "system-of-a-down",
   "name": "System of a Down",
   "drive": "A",
-  "showCount": 20,
-  "firstYear": 2000,
+  "showCount": 21,
+  "firstYear": 1997,
   "lastYear": 2026,
   "years": [
+    1997,
     2000,
     2002,
     2005,
@@ -19,6 +20,19 @@ const ARTIST_DATA = {
     2026
   ],
   "shows": [
+    {
+      "year": 1997,
+      "month": 7,
+      "day": 11,
+      "dateStr": "7-11-1997",
+      "city": "West Hollywood",
+      "state": "CA",
+      "location": "West Hollywood, CA",
+      "venue": "Whisky A Go Go",
+      "notes": "",
+      "version": "PRO",
+      "format": "DVD"
+    },
     {
       "year": 2000,
       "month": 1,
