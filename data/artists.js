@@ -3089,7 +3089,7 @@ const ARTISTS = [
   {
     "id": "tool",
     "name": "Tool",
-    "showCount": 1406,
+    "showCount": 1410,
     "firstYear": 1991,
     "lastYear": 2026
   },
