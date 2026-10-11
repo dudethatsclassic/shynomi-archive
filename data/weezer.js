@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "weezer",
   "name": "Weezer",
   "drive": "C",
-  "showCount": 294,
+  "showCount": 295,
   "firstYear": 1993,
   "lastYear": 2026,
   "years": [
@@ -4033,6 +4033,19 @@ const ARTIST_DATA = {
       "location": "West Valley City, UT",
       "venue": "Maverick Center",
       "notes": "DPA 4061 · opsopcopolis",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "day": 3,
+      "dateStr": "10-3-2026",
+      "city": "Charlotte",
+      "state": "NC",
+      "location": "Charlotte, NC",
+      "venue": "Spectrum Center",
+      "notes": "CA-14 Cardioids · majintrunkz",
       "version": "AUD",
       "format": "FLAC 24"
     }
