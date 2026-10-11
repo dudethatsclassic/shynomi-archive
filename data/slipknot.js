@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "slipknot",
   "name": "Slipknot",
   "drive": "D",
-  "showCount": 57,
+  "showCount": 59,
   "firstYear": 1998,
   "lastYear": 2025,
   "years": [
@@ -10,6 +10,7 @@ const ARTIST_DATA = {
     1999,
     2000,
     2001,
+    2002,
     2004,
     2005,
     2008,
@@ -304,6 +305,32 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-05-21 - Zurich, Switzerland - Volkshaus - DAT(M) (ECM939T) (ko) [AUD].txt"
+    },
+    {
+      "year": 2001,
+      "month": 10,
+      "day": 23,
+      "dateStr": "10-23-2001",
+      "city": "Detroit",
+      "state": "MI",
+      "location": "Detroit, MI",
+      "venue": "Cobo Arena",
+      "notes": "",
+      "version": "AUD",
+      "format": "DVD"
+    },
+    {
+      "year": 2002,
+      "month": 3,
+      "day": 23,
+      "dateStr": "3-23-2002",
+      "city": "Chiba",
+      "state": "JP - Tokyo Bay NK Hall (rozy)",
+      "location": "Chiba, JP - Tokyo Bay NK Hall (rozy)",
+      "venue": "",
+      "notes": "",
+      "version": "AUD",
+      "format": "DVD"
     },
     {
       "year": 2004,
