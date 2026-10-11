@@ -2,11 +2,12 @@ const ARTIST_DATA = {
   "id": "no-doubt",
   "name": "No Doubt",
   "drive": "G",
-  "showCount": 3,
+  "showCount": 4,
   "firstYear": 1997,
   "lastYear": 2026,
   "years": [
     1997,
+    2002,
     2026
   ],
   "shows": [
@@ -33,10 +34,23 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Sports Arena",
-      "notes": "Realistic Walkman \u00b7 michael cariola",
+      "notes": "Realistic Walkman · michael cariola",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-06-03 - San Diego, CA - Sports Arena (Realistic Walkman) (michael cariola) [AUD] .txt"
+    },
+    {
+      "year": 2002,
+      "month": 11,
+      "day": 14,
+      "dateStr": "11-14-2002",
+      "city": "San Jose",
+      "state": "CA",
+      "location": "San Jose, CA",
+      "venue": "Compaq Center (DAT(M))",
+      "notes": "jefftak",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2026,
@@ -47,7 +61,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Sphere",
-      "notes": "DPA 4061 \u00b7 opsopcopolis",
+      "notes": "DPA 4061 · opsopcopolis",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-06-12 - Las Vegas, NV - Sphere (DPA 4061) (opsopcopolis) [AUD24].txt"
