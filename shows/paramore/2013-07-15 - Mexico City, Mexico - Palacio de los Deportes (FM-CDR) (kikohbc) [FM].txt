@@ -1,0 +1,49 @@
+Paramore
+2013-07-15
+Palacio de los Deportes, Mexico City, Mexico.
+
+Setlist:
+
+
+1. Interlude: Moving On
+2. Misery Business
+3. For a Pessimist, I'm Pretty Optimistic
+4. Decode
+5. Now
+6. Renegade
+7. Pressure
+8. Ain't It Fun
+9. The Only Exception
+10. Let the Flames Begin
+11. Fast in My Car
+12. Ignorance
+13. Looking Up
+14. Whoa
+15. Anklebiters
+16. That's What You Get(some seconds missing)
+17. Still Into You(only the beginning)
+Encore:
+18. Proof(not streamed)
+19. Brick by Boring Brick(part of the song missed - stream problems)
+
+The radio had a lot of problems with the stream. Started on 'Fast in my Car', when the sound was wavering all the time, and gone till 'That's What You Get', when THE RADIO sttoped broadcasting the show for some seconds. By the end of the song, Coca-Cola FM stopped again, restarting the broadcast on the beginning of 'Still Into You'. After less than 10 seconds, the broadcast started wavering again, but much stronger. So they putted some songs of the band on the streaming('Crushcrushcrush' and 'Part II') and then a Band Info(in Spanish). On the middle of Brick By Boring Brick, they restarted the broadcast, and then everything gone right till the end of the show.
+
+
+Audio:
+
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+BitDepth/String                          : 16 bits
+Bit rate mode                            : Variable
+Bit rate                                 : 580Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Library used                             : libFLAC 20080709 (UTC 2008-07-09)
+
+
+Captured by:
+
+kikohbc
+
+Coca-Cola FM Mexico -> Audacity -> WAV Files -> Sony Vegas to split the tracks -> FLAC Files

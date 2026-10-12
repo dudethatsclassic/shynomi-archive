@@ -1,0 +1,150 @@
+Slipknot 1999-07-31 Mancow's Lazer Luau II, Ankeny Airfield, Ankeny, IA, USA (Stage Cam Transfer 2)
+
+SOURCE: Audience
+LENGHT: 00:48:14
+QUALITY: A/A
+VIDEO: 720*480
+AUDIO: 256kbps
+MENU: Yes
+CHAPTERS: Yes
+SIZE: 3,26 GB
+
+SETLIST:
+Before the Concert Footage
+
+01 742617000027
+02 (sic)
+03 Eyeless
+04 Wait and Bleed
+05 Liberate
+06 Surfacing
+07 Purity
+08 Spit It Out
+09 Eeyore
+
+After the Concert Footage
+
+General
+Complete name                  : C:\Users\USER\Downloads\Torrent\Slipknot 1999-07-31 Mancow's Lazer Luau II, Ankeny Airfield, Ankeny, IA, USA (Stage Cam) (Transfer 2)\VIDEO_TS\VTS_01_0.IFO
+Format                         : DVD Video
+File size                      : 3.27 GiB
+Duration                       : 48 min 14 s
+Overall bit rate mode          : Variable
+Overall bit rate               : 1 867 Mb/s
+Frame rate                     : 29.970 FPS
+
+Video
+ID                             : 224 (0xE0)
+Format                         : MPEG Video
+Format version                 : Version 2
+Format profile                 : Main@Main
+Format settings                : CustomMatrix / BVOP
+Format settings, BVOP          : Yes
+Format settings, Matrix        : Custom
+Format settings, GOP           : M=3, N=15
+Format settings, picture struc : Frame
+Duration                       : 48 min 14 s
+Bit rate mode                  : Variable
+Bit rate                       : 1 829 Mb/s
+Maximum bit rate               : 9 396 kb/s
+Width                          : 720 pixels
+Height                         : 480 pixels
+Display aspect ratio           : 4:3
+Frame rate                     : 29.970 (30000/1001) FPS
+Standard                       : NTSC
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Interlaced
+Scan order                     : Top Field First
+Compression mode               : Lossy
+Bits/(Pixel*Frame)             : 176.618
+Time code of first frame       : 00:00:00;00
+Time code source               : Group of pictures header
+GOP, Open/Closed               : Open
+GOP, Open/Closed of first fram : Closed
+Stream size                    : 3.20 GiB (98%)
+intra_dc_precision             : 10
+Source                         : VTS_01_1.VOB
+
+Audio
+ID                             : 189 (0xBD)-128 (0x80)
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Commercial name                : Dolby Digital
+Muxing mode                    : DVD-Video
+Duration                       : 48 min 14 s
+Bit rate mode                  : Constant
+Bit rate                       : 256 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 31.250 FPS (1536 SPF)
+Compression mode               : Lossy
+Stream size                    : 464 KiB (0%)
+Service kind                   : Complete Main
+bsid                           : 4
+Dialog Normalization           : -31
+Dialog Normalization           : -31 dB
+compr                          : -11.02
+compr                          : -11.02 dB
+dsurmod                        : 0
+acmod                          : 2
+lfeon                          : 0
+dialnorm_Average               : -31
+dialnorm_Average               : -31 dB
+dialnorm_Minimum               : -31
+dialnorm_Minimum               : -31 dB
+dialnorm_Maximum               : -31
+dialnorm_Maximum               : -31 dB
+dialnorm_Count                 : 1032
+compr_Average                  : -11.02
+compr_Average                  : -11.02 dB
+compr_Minimum                  : -11.02
+compr_Minimum                  : -11.02 dB
+compr_Maximum                  : -11.02
+compr_Maximum                  : -11.02 dB
+compr_Count                    : 1032
+Source                         : VTS_01_1.VOB
+
+Text
+ID                             : 224 (0xE0)-CC3
+Format                         : EIA-608
+Muxing mode, more info         : Muxed in Video #1
+Duration                       : 48 min 14 s
+Bit rate mode                  : Constant
+Stream size                    : 0.00 Byte (0%)
+Caption service name           : CC3
+InternalDetectionKind          : Command
+Source                         : VTS_01_1.VOB
+
+Menu
+Duration                       : 48 min 14 s
+00:00:00.000                   : Chapter 1
+00:03:05.500                   : Chapter 2
+00:06:08.000                   : Chapter 3
+00:08:55.500                   : Chapter 4
+00:11:57.000                   : Chapter 5
+00:14:58.000                   : Chapter 6
+00:17:59.000                   : Chapter 7
+00:20:59.500                   : Chapter 8
+00:24:02.000                   : Chapter 9
+00:27:04.000                   : Chapter 10
+00:30:06.000                   : Chapter 11
+00:33:06.500                   : Chapter 12
+00:36:07.500                   : Chapter 13
+00:38:53.500                   : Chapter 14
+00:41:54.500                   : Chapter 15
+00:44:56.500                   : Chapter 16
+List (Audio)                   : 0
+Source                         : VTS_01_1.VOB
+
+A86F0E590D03DE603DB527CC94DF7C9D  VIDEO_TS.BUP
+A86F0E590D03DE603DB527CC94DF7C9D  VIDEO_TS.IFO
+3C3A603018BEB45B70133D246D45F6D2  VIDEO_TS.VOB
+A694BF968ECAAD6CA088F39A94D3848F  VTS_01_0.BUP
+A694BF968ECAAD6CA088F39A94D3848F  VTS_01_0.IFO
+1F5AC82700C8B575A1FCC40227167528  VTS_01_1.VOB
+E0EE9F40A634CE0AD31C819D90883B84  VTS_01_2.VOB
+039CBEB2D43FEC1A2AF032D551F25F1D  VTS_01_3.VOB
+C4094FE31CFDEFD8103E4EB8564648B3  VTS_01_4.VOB

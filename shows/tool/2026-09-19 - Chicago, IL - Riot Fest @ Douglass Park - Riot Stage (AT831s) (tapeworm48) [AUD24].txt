@@ -1,0 +1,30 @@
+
+Tool
+Riot Fest @ Douglass Park: Chicago, IL
+September 19, 2026
+
+Source: AT831s > SP-SPSB-11 (@69Hz) > Sony PCM-A10 @ 24-bit / 48.0kHz
+Location: FOB 50' right stack
+Transfer: A10 > USB > Audacity > xACT 2.50
+Edits/EQ: none
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Stinkfist
+03 Rosetta Stoned
+04 The Grudge
+05 Jambi
+06 Pneuma
+07 Crawl Away
+08 Aenema
+
+Notes: Headlining spot on the Riot Stage during night 2 of 3 of the festival. Tool was scheduled to play from 8:20-10:00pm, but the set got changed to 6:00-7:00pm due to an impending rainstorm. Minor click removal on Intro track. Levels were hot all night. A10 set at 10. Raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/48.0kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 9/20/2026
+
+*** DO NOT REMASTER WITHOUT PERMISSION. DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

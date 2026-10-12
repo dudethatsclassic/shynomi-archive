@@ -59,7 +59,8 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The Flaming Lips - Mushroom Demos & Priest Demos",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Mushroom & Priest Demos.txt"
   },
   {
     "type": "release",
@@ -124,13 +125,15 @@ const ARTIST_MISC_DATA = [
     "label": "The Flaming Lips - Zaireeka and 1997-98 Soft Bulletin Unmastered Tracks",
     "format": "FLAC",
     "year": 1997,
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - The Flaming Lips - Zaireeka and Soft Bulletin Unmastered Tracks.txt"
   },
   {
     "type": "release",
     "label": "I Am Not On Drugs...Yet (Compliation)",
     "format": "DVD",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - I am not on Drugs... Yet (Comp. DVD).txt"
   },
   {
     "type": "release",
@@ -177,14 +180,16 @@ const ARTIST_MISC_DATA = [
     "label": "BBC 6 Music Interviews and Sessions",
     "version": "WEB",
     "format": "SHN",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - Flaming Lips - BBC 6 Music Interviews and Sessions.txt"
   },
   {
     "type": "release",
     "label": "The Flaming Lips - KCRW Studios - Morning Becomes Eclectic *Brave New World",
     "version": "FM",
     "format": "FLAC",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - KCRW's - Brave New World [1996].txt"
   },
   {
     "type": "release",
@@ -203,5 +208,10 @@ const ARTIST_MISC_DATA = [
     "label": "Documentary - The Flaming Lips Have Landed A Documentary",
     "format": "FLV",
     "category": "OTHER"
+  },
+  {
+    "type": "release",
+    "label": "The Flaming Lips - Circuit 3 (Audio)",
+    "textFile": "MISC - The Flaming Lips - Circuit 3 (Audio).txt"
   }
 ];

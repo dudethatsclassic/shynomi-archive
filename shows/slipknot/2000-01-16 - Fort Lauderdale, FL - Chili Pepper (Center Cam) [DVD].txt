@@ -1,0 +1,136 @@
+Slipknot 2000-01-16 Chili Pepper, Fort Lauderdale, FL, USA (Center Cam)
+
+SOURCE: Audience
+LENGHT: 01:04:56
+QUALITY: A+/A+
+VIDEO: 704*480
+AUDIO: 256kbps
+MENU: Yes
+CHAPTERS: Yes
+SIZE: 3,99 GB
+
+SETLIST:
+01 742617000027
+02 (Sic)
+03 Eyeless
+04 Wait And Bleed
+05 Liberate
+06 Surfacing
+07 Purity
+08 Me Inside
+09 Spit It Out
+10 Get This
+11 Scissors
+
+General
+Complete name                  : C:\Users\USER\Downloads\Torrent\ 2000_01_16 Chili Pepper center\VIDEO_TS\VTS_01_0.IFO
+Format                         : DVD Video
+File size                      : 4.00 GiB
+Duration                       : 1 h 4 min
+Overall bit rate mode          : Variable
+Overall bit rate               : 2 164 Mb/s
+Frame rate                     : 29.970 FPS
+
+Video
+ID                             : 224 (0xE0)
+Format                         : MPEG Video
+Format version                 : Version 2
+Format profile                 : Main@Main
+Format settings                : CustomMatrix / BVOP
+Format settings, BVOP          : Yes
+Format settings, Matrix        : Custom
+Format settings, GOP           : M=3, N=15
+Format settings, picture struc : Frame
+Duration                       : 1 h 4 min
+Bit rate mode                  : Variable
+Bit rate                       : 2 120 Mb/s
+Maximum bit rate               : 9 586 kb/s
+Width                          : 704 pixels
+Height                         : 480 pixels
+Display aspect ratio           : 4:3
+Frame rate                     : 29.970 (30000/1001) FPS
+Standard                       : NTSC
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Interlaced
+Scan order                     : Top Field First
+Compression mode               : Lossy
+Bits/(Pixel*Frame)             : 209.369
+Time code of first frame       : 00:00:00:00
+Time code source               : Group of pictures header
+Stream size                    : 3.91 GiB (98%)
+Color primaries                : BT.601 NTSC
+Transfer characteristics       : BT.601
+Matrix coefficients            : BT.601
+intra_dc_precision             : 10
+Source                         : VTS_01_1.VOB
+
+Audio
+ID                             : 189 (0xBD)-128 (0x80)
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Commercial name                : Dolby Digital
+Muxing mode                    : DVD-Video
+Duration                       : 1 h 4 min
+Bit rate mode                  : Constant
+Bit rate                       : 256 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 31.250 FPS (1536 SPF)
+Compression mode               : Lossy
+Stream size                    : 496 KiB (0%)
+Service kind                   : Complete Main
+bsid                           : 4
+Dialog Normalization           : -31
+Dialog Normalization           : -31 dB
+compr                          : -11.02
+compr                          : -11.02 dB
+dsurmod                        : 0
+acmod                          : 2
+lfeon                          : 0
+dialnorm_Average               : -31
+dialnorm_Average               : -31 dB
+dialnorm_Minimum               : -31
+dialnorm_Minimum               : -31 dB
+dialnorm_Maximum               : -31
+dialnorm_Maximum               : -31 dB
+dialnorm_Count                 : 1207
+compr_Average                  : -11.02
+compr_Average                  : -11.02 dB
+compr_Minimum                  : -11.02
+compr_Minimum                  : -11.02 dB
+compr_Maximum                  : -11.02
+compr_Maximum                  : -11.02 dB
+compr_Count                    : 1207
+Source                         : VTS_01_1.VOB
+
+Menu
+Duration                       : 1 h 4 min
+00:00:00.000                   : Chapter 1
+00:04:37.000                   : Chapter 2
+00:09:21.500                   : Chapter 3
+00:14:08.500                   : Chapter 4
+00:18:40.000                   : Chapter 5
+00:23:21.000                   : Chapter 6
+00:27:56.000                   : Chapter 7
+00:32:32.000                   : Chapter 8
+00:37:11.000                   : Chapter 9
+00:41:41.000                   : Chapter 10
+00:46:19.500                   : Chapter 11
+00:50:58.500                   : Chapter 12
+00:55:34.000                   : Chapter 13
+01:00:08.000                   : Chapter 14
+List (Audio)                   : 0
+Source                         : VTS_01_1.VOB
+
+7B78662D90C702F250201BC8CA81493D  VIDEO_TS.BUP
+7B78662D90C702F250201BC8CA81493D  VIDEO_TS.IFO
+DDB5664A30ED3E2821B0222CFD195A06  VIDEO_TS.VOB
+6C159FCCE1DD5B83094A1005FF4BC588  VTS_01_0.BUP
+6C159FCCE1DD5B83094A1005FF4BC588  VTS_01_0.IFO
+DEF033F2EEB4BB0FD6D881D37F592A39  VTS_01_1.VOB
+12A96C11C48DFFD6E4E398D96AB14BDF  VTS_01_2.VOB
+78C90881E0ECFF382FAC7174F118B9F9  VTS_01_3.VOB
+F1FFD8BEF1EB29EA24A28307CF3DBC50  VTS_01_4.VOB

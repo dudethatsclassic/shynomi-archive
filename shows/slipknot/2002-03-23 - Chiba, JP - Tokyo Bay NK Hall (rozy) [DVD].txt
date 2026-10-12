@@ -1,0 +1,153 @@
+Slipknot 2002-03-23 Tokyo Bay NK Hall, Chiba, Japan (rozy)
+
+SOURCE Audience
+LENGHT 012043
+QUALITY AA
+VIDEO 720480
+AUDIO 384kbps
+MENU No
+CHAPTERS Yes
+SIZE 4,16 GB
+
+SETLIST
+01 (515)
+02 People=Shit
+03 Liberate
+04 Left Behind
+05 Eeyore
+06 Disasterpiece
+07 Purity
+08 Gently
+09 Sid Solo
+10 Eyeless
+11 Iowa (short)
+12 Joey Solo
+13 My Plague
+14 The Heretic Anthem
+15 Spit It Out
+16 Wait and Bleed
+17 742617000027
+18 (Sic)
+19 Surfacing
+
+NOTE
+Main filming focus on Corey, other than that good job!
+
+General
+Complete name                  : C:\Users\USER\Downloads\Torrent\Slipknot 2002-03-23 Tokyo Bay NK Hall, Chiba, Japan (rozy)\VIDEO_TS\VTS_01_0.IFO
+Format                         : DVD Video
+File size                      : 4.17 GiB
+Duration                       : 1 h 20 min
+Overall bit rate mode          : Variable
+Overall bit rate               : 2 225 Mb/s
+Frame rate                     : 29.970 FPS
+
+Video
+ID                             : 224 (0xE0)
+Format                         : MPEG Video
+Format version                 : Version 2
+Format profile                 : Main@Main
+Format settings                : BVOP
+Format settings, BVOP          : Yes
+Format settings, Matrix        : Default
+Format settings, GOP           : M=3, N=15
+Format settings, picture struc : Frame
+Duration                       : 1 h 20 min
+Bit rate mode                  : Variable
+Bit rate                       : 2 181 Mb/s
+Maximum bit rate               : 8 800 kb/s
+Width                          : 720 pixels
+Height                         : 480 pixels
+Display aspect ratio           : 4:3
+Frame rate                     : 29.970 (30000/1001) FPS
+Standard                       : NTSC
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Interlaced
+Scan order                     : Top Field First
+Compression mode               : Lossy
+Bits/(Pixel*Frame)             : 210.545
+Time code of first frame       : 00:00:00:00
+Time code source               : Group of pictures header
+GOP, Open/Closed               : Open
+GOP, Open/Closed of first fram : Closed
+Stream size                    : 4.08 GiB (98%)
+Color primaries                : BT.601 NTSC
+Transfer characteristics       : BT.601
+Matrix coefficients            : BT.601
+intra_dc_precision             : 9
+Source                         : VTS_01_1.VOB
+
+Audio
+ID                             : 189 (0xBD)-128 (0x80)
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Commercial name                : Dolby Digital
+Muxing mode                    : DVD-Video
+Duration                       : 1 h 20 min
+Bit rate mode                  : Constant
+Bit rate                       : 384 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 31.250 FPS (1536 SPF)
+Compression mode               : Lossy
+Stream size                    : 745 KiB (0%)
+Service kind                   : Complete Main
+bsid                           : 4
+Dialog Normalization           : -31
+Dialog Normalization           : -31 dB
+compr                          : -11.02
+compr                          : -11.02 dB
+dsurmod                        : 0
+acmod                          : 2
+lfeon                          : 0
+dialnorm_Average               : -31
+dialnorm_Average               : -31 dB
+dialnorm_Minimum               : -31
+dialnorm_Minimum               : -31 dB
+dialnorm_Maximum               : -31
+dialnorm_Maximum               : -31 dB
+dialnorm_Count                 : 270
+compr_Average                  : -11.02
+compr_Average                  : -11.02 dB
+compr_Minimum                  : -11.02
+compr_Minimum                  : -11.02 dB
+compr_Maximum                  : -11.02
+compr_Maximum                  : -11.02 dB
+compr_Count                    : 270
+Source                         : VTS_01_1.VOB
+
+Menu
+Duration                       : 1 h 20 min
+00:00:00.000                   : Chapter 1
+00:05:00.000                   : Chapter 2
+00:10:00.000                   : Chapter 3
+00:15:00.000                   : Chapter 4
+00:20:00.000                   : Chapter 5
+00:25:00.000                   : Chapter 6
+00:30:00.000                   : Chapter 7
+00:35:00.000                   : Chapter 8
+00:40:00.000                   : Chapter 9
+00:45:00.000                   : Chapter 10
+00:50:00.000                   : Chapter 11
+00:55:00.000                   : Chapter 12
+01:00:00.000                   : Chapter 13
+01:05:00.000                   : Chapter 14
+01:10:00.000                   : Chapter 15
+01:15:00.000                   : Chapter 16
+01:20:00.000                   : Chapter 17
+List (Audio)                   : 0
+Source                         : VTS_01_1.VOB
+
+FBD24D34AFA2AAEB54676FD3FF8A0416  VIDEO_TS.BUP
+FBD24D34AFA2AAEB54676FD3FF8A0416  VIDEO_TS.IFO
+3F40193CA2D11A221EB0538518FF030B  VIDEO_TS.VOB
+5ED5A0805A292261CD7E7FBE709953AD  VTS_01_0.BUP
+5ED5A0805A292261CD7E7FBE709953AD  VTS_01_0.IFO
+B1E6EEFC38C1B7003AB73E49DE9AC3C0  VTS_01_1.VOB
+2FCF7BB88B0C4ED7C3F6C69867D0FB50  VTS_01_2.VOB
+676E6578B5E848B6F0C73642DF4B3A1B  VTS_01_3.VOB
+8A313F75129D70CF013B6B2FB21FFBFB  VTS_01_4.VOB
+5FF09EA3ECC240AFCCFDA45F10203770  VTS_01_5.VOB

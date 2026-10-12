@@ -1,0 +1,67 @@
+Death Cab For Cutie - Utrecht - TivoliVredenburg (Ronda) 2026-09-29 (audience, master)
+Running time: ~106m
+
+01. Intro (Kraftwerk - Computer world)
+02. Riptides
+03. Roman candles
+04. The new year
+05. Punching the flowers
+06. The ghosts of Beverly Drive
+07. Black sun
+08. I built you a tower (a)
+09. Photobooth
+10. Pep talk
+11. Rand McNally
+12. I will follow you into the dark
+13. I will possess your heart
+14. Grapevine fires
+15. Stone over water
+16. How heavenly a state
+17. Cath..
+18. Crooked teeth
+19. Trap door
+20. You are a tourist
+21. Soul meets body
+22. Champagne from a paper cup
+23. Here to forever
+24. The sound of settling
+25. Transatlanticism
+
+Line-up:
+• Ben Gibbard (lead vocals, guitars, piano)
+• Nick Harmer (bass)
+• Jason McGerr (drums)
+• Dave Depper (guitars, keyboards, backing vocals)
+• Zac Rae (keyboards, guitars, backing vocals)
+
+Lineage: 
+SP-CMC-4U-PHANTOM-48 -> JTS MA-123 (-10dB attenuation) -> Tascam FR-AV2 (96kHz,32bfp) -> SD-Card -> Adobe Audition (equalizing, dynamics, markers, normalization) -> FLAC (48kHz,24bit) -> metadata tooling
+
+ffp-checksums:
+01. Intro (Kraftwerk - Computer world).flac:3411449090726f7c1164b74f32dfcb06
+02. Riptides.flac:b7c85f844d23d17305b114a4b5b2f098
+03. Roman candles.flac:ab6c78a33bf79ccbaeed357529b6116d
+04. The new year.flac:8f2532bfca1bd70e57a65ad7b82557a8
+05. Punching the flowers.flac:507ce54ab1d19484fe16849c5034c15a
+06. The ghosts of Beverly Drive.flac:561a4cfdfbc82ab1e8adcefd625cfb6f
+07. Black sun.flac:1f266fbd09e51ae4fe10cb0697bc96e9
+08. I built you a tower (a).flac:435f93b0822a9629d5c22d6a16bd6121
+09. Photobooth.flac:6a023ede204b169937e3165343e5d7ad
+10. Pep talk.flac:51255fdce390cbafb9ccaa57642b67e3
+11. Rand McNally.flac:01a0398c9b8e8da6444bbaacb64f76a6
+12. I will follow you into the dark.flac:2e5d92d11a00b49751b10d792df31786
+13. I will possess your heart.flac:3b01f782584e9f0847f67021a4c9bb38
+14. Grapevine fires.flac:c01170883560fe223afddce8a56d4591
+15. Stone over water.flac:bf21869614825522ad8c8c2a26d6f1df
+16. How heavenly a state.flac:0381ee66295bac1f99f4f121eb0de70a
+17. Cath...flac:8a1e9df9bba44a63647d7dabb948f1bc
+18. Crooked teeth.flac:4005c0c12b3f8eeeb2f24974ab02c044
+19. Trap door.flac:91f5a13cea0792df73a2814531a9ebc4
+20. You are a tourist.flac:ab9a7783bd77d158d9aac8c77d2855cf
+21. Soul meets body.flac:e4442d28bd97bccca5a61de0916e4468
+22. Champagne from a paper cup.flac:166dd1633d5164c393fc2bd81539c90e
+23. Here to forever.flac:15dd9e0be6057ebdac74572ec7e3fd0a
+24. The sound of settling.flac:960ff88f9738b3479e8b5745f506a530
+25. Transatlanticism.flac:1bf4556fbc26d4cebe93ec211a24101a
+
+Artwork done by an anonymous local artist

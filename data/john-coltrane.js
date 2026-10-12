@@ -110,7 +110,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1961-07-01 - Newport, RI - Music at Newport [SBD].txt"
+      "textFile": "1961-07-01 - Newport, RI - Music At Newport (Mono), rm v.2 (goody) [SBD].txt"
     },
     {
       "year": 1961,
@@ -121,7 +121,7 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Music at Newport",
-      "notes": "speed/pitch adjusted · jimitrane",
+      "notes": "speed/pitch adjusted \u00b7 jimitrane",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1961-07-01 - Newport, RI - Music at Newport [SBD].txt"
@@ -261,7 +261,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Unknown Venue",
-      "notes": "Trane 65-67 Disc 8 · speed corrected",
+      "notes": "Trane 65-67 Disc 8 \u00b7 speed corrected",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1965-09-30 - Seattle, WA - Unknown Venue (Trane 65-67 Disc 8) (speed corrected).txt"

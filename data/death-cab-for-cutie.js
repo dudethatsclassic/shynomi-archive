@@ -1823,9 +1823,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Outside Lands Music Festival",
-      "notes": "Sutro · Early Set",
+      "notes": "Sutro \u00b7 Early Set",
       "version": "WEB",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2026-08-09 - San Francisco, CA - Outside Lands Music Festival - Sutro Stage (Early Set) (youtube) [TS].txt"
     },
     {
       "year": 2026,
@@ -1836,9 +1837,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Outside Lands Music Festival",
-      "notes": "Sutro · Late Set",
+      "notes": "Sutro \u00b7 Late Set",
       "version": "WEB",
       "format": "TS"
+      "textFile": "2026-08-09 - San Francisco, CA - Outside Lands Music Festival - Sutro Stage (Late Set) (youtube) [TS].txt"
     },
     {
       "year": 2026,

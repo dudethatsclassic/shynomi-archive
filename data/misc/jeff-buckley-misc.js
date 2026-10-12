@@ -63,5 +63,10 @@ const ARTIST_MISC_DATA = [
     "year": 1993,
     "category": "OTHER",
     "textFile": "MISC - 1993-09-XX  - Grace Outtakes.txt"
+  },
+  {
+    "type": "release",
+    "label": "Jeff Buckley Demos (1990-1997)",
+    "textFile": "MISC - Jeff Buckley Demos (1990-1997).txt"
   }
 ];

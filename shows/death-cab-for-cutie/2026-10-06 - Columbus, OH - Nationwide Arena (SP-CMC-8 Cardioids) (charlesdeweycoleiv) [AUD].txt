@@ -1,0 +1,74 @@
+Weezer
+October 6th, 2026.
+Nationwide Arena - Columbus, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   Section 102, Row N - Seat 10
+            (see chart here: http://www.ticketmaster.com/seatingchart/41498/28690)
+Source:     SP-CMC-8 Cardioids (4.7k mod) > SP-SPSB-11 (@16Hz) > Sony PCM-A10 (24 bit @48kHz) >
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Sony PCM-A10 > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+*** The Gathering World Tour ***
+---------------------------------------------------------------------------------------------------------
+Total Time: (1:40:22)
+
+01. Shine Again			 		4:17
+02. Surf Wax America				3:15
+03. Keep Fishin'				3:18
+04. Hash Pipe					3:24
+05. The Good Life				4:09
+06. No Other One				3:01
+07. Lonely Girl					2:13
+08. Slob					3:15
+09. C.E.O.					2:53
+10. The LA Sound				4:13
+11. Beverly Hills				3:24
+12. Across The Sea				6:20
+13. Longtime Sunshine ^				3:59
+14. In The Garage ^				4:58
+15. Pork And Beans *				3:53
+16. My Name Is Jonas				4:21
+17. Aloo Gobi					3:10
+18. Pink Triangle				4:31
+19. We Might As Well Be Strangers #		3:40
+20. Go Away #					3:15
+21. I Just Threw Out The Love Of My Dreams #	3:39
+22. Undone - The Sweater Song			3:31
+23. El Scorcho					4:01
+24. Say It Ain't So				5:21
+25. Buddy Holly 				2:37
+26. Island In The Sun				5:45
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+^  Acoustic, performed in the rear corner of the main stage.
+#  Featuring Nikki Monninger on vocals.
+
+Weezer released their self titled "Gold" album this past August and are
+out on their "Gathering" World Tour supporting. Similiar to the last time
+Weezer played Nationwide (September of 2024), the sound in the arena
+was fairly below average. I've heard so many great sounding shows inside
+Nationwide Arena, Im assuming the blame falls on their FOH and I would be
+willing to bet its the same one from the last tour. Thank god I had a close
+seat to the corner stack, it was probably the loudest and most clear at
+my vantage point. The crowd around me was pretty good, although I did use
+RX7 to remove some faint screams and yelps when needed. I couldn't believe
+how many kids (mostly teens) were at this show, and had a girl a few rows
+behind me who liked to scream "I LOVE YOU RIVERS!" every few songs, so I
+did my best to remove her when I could. Speaking of kids, I brought my 13
+yr old with me who loved the show. I just had no idea Weezer was suddenly
+so popular with Gen Z. When did THAT happen? Pretty cool, but I was a bit
+taken back. I dont recall this many at the "Voyage" show just 2 years ago.
+The biggest surprise was how big "Go Away" has gotten 14 years since it's
+original release thanks to TikTok trends. Rivers even mentions it in the
+beginning of the song. This was news to me!
+
+Silversun Pickups and The Shins opened. [not recorded].
+
+---------------------------------------------------------------------------------------------------------
+For more information on Weezer, please visit:
+
+http://weezer.com/

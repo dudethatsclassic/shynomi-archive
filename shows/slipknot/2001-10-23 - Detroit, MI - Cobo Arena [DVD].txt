@@ -1,0 +1,178 @@
+Slipknot 2001-10-23 Cobo Arena, Detroit, MI, USA
+
+SOURCE: Audience
+LENGHT: 01:13:45
+QUALITY: A/A
+VIDEO: 720*480
+AUDIO: 224kbps
+MENU: Yes
+CHAPTERS: Yes
+SIZE: 4,30 GB
+
+SETLIST:
+01 (515)
+02 People = Shit
+03 Liberate
+04 Get This
+05 Disasterpiece
+06 Purity
+07 Gently
+08 Turntables Solo
+09 Eyeless
+10 Iowa (Intro)
+11 Drum Solo
+12 New Abortion
+13 The Heretic Anthem
+14 Spit It Out
+15 Wait and Bleed
+16 742617000027
+17 (sic)
+18 Surfacing
+
+NOTE:
+Great filming, sound is distorted.
+
+General
+Complete name                  : C:\Users\USER\Downloads\Torrent\Slipknot 2001-10-23 Cobo Arena, Detroit, MI, USA\DVD 1\VTS_01_0.IFO
+Format                         : DVD Video
+File size                      : 2.96 GiB
+Duration                       : 47 min 4 s
+Overall bit rate mode          : Variable
+Overall bit rate               : 9 007 kb/s
+Frame rate                     : 29.970 FPS
+
+Video
+ID                             : 224 (0xE0)
+Format                         : MPEG Video
+Format version                 : Version 2
+Format profile                 : Main@Main
+Format settings                : CustomMatrix
+Format settings, BVOP          : No
+Format settings, Matrix        : Custom
+Format settings, GOP           : N=12
+Format settings, picture struc : Frame
+Duration                       : 47 min 4 s
+Bit rate mode                  : Variable
+Bit rate                       : 8 444 kb/s
+Maximum bit rate               : 8 900 kb/s
+Width                          : 720 pixels
+Height                         : 480 pixels
+Display aspect ratio           : 4:3
+Frame rate                     : 29.970 (30000/1001) FPS
+Standard                       : NTSC
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Interlaced
+Scan order                     : Top Field First
+Compression mode               : Lossy
+Bits/(Pixel*Frame)             : 0.815
+Time code of first frame       : 00:00:09;18
+Time code source               : Group of pictures header
+GOP, Open/Closed               : Closed
+Stream size                    : 2.78 GiB (94%)
+intra_dc_precision             : 8
+Source                         : VTS_01_1.VOB
+
+Audio
+ID                             : 189 (0xBD)-128 (0x80)
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Commercial name                : Dolby Digital
+Muxing mode                    : DVD-Video
+Duration                       : 47 min 4 s
+Bit rate mode                  : Constant
+Bit rate                       : 384 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 31.250 FPS (1536 SPF)
+Compression mode               : Lossy
+Stream size                    : 129 MiB (4%)
+Service kind                   : Complete Main
+bsid                           : 4
+Dialog Normalization           : -31
+Dialog Normalization           : -31 dB
+compr                          : -12.04
+compr                          : -12.04 dB
+dynrng                         : -0.42
+dynrng                         : -0.42 dB
+dsurmod                        : 0
+acmod                          : 2
+lfeon                          : 0
+dialnorm_Average               : -31
+dialnorm_Average               : -31 dB
+dialnorm_Minimum               : -31
+dialnorm_Minimum               : -31 dB
+dialnorm_Maximum               : -31
+dialnorm_Maximum               : -31 dB
+dialnorm_Count                 : 1075
+compr_Average                  : -21.12
+compr_Average                  : -21.12 dB
+compr_Minimum                  : -23.06
+compr_Minimum                  : -23.06 dB
+compr_Maximum                  : -12.04
+compr_Maximum                  : -12.04 dB
+compr_Count                    : 1075
+dynrng_Average                 : -9.86
+dynrng_Average                 : -9.86 dB
+dynrng_Minimum                 : -12.18
+dynrng_Minimum                 : -12.18 dB
+dynrng_Maximum                 : -0.42
+dynrng_Maximum                 : -0.42 dB
+dynrng_Count                   : 1075
+Source                         : VTS_01_1.VOB
+
+Text #1
+ID                             : 224 (0xE0)-CC3
+Format                         : EIA-608
+Muxing mode, more info         : Muxed in Video #1
+Duration                       : 47 min 4 s
+End time                       : 47 min 4 s
+Bit rate mode                  : Constant
+Stream size                    : 0.00 Byte (0%)
+Caption service name           : CC3
+Source                         : VTS_01_1.VOB
+
+Text #2
+ID                             : 224 (0xE0)-CC4
+Format                         : EIA-608
+Muxing mode, more info         : Muxed in Video #1
+Duration                       : 47 min 4 s
+End time                       : 47 min 4 s
+Bit rate mode                  : Constant
+Stream size                    : 0.00 Byte (0%)
+Caption service name           : CC4
+Source                         : VTS_01_1.VOB
+
+Menu
+Duration                       : 47 min 4 s
+00:00:00.000                   : Chapter 1
+00:05:00.300                   : Chapter 2
+00:10:00.200                   : Chapter 3
+00:15:00.100                   : Chapter 4
+00:20:00.400                   : Chapter 5
+00:25:00.300                   : Chapter 6
+00:30:00.200                   : Chapter 7
+00:35:00.100                   : Chapter 8
+00:40:00.400                   : Chapter 9
+00:45:00.300                   : Chapter 10
+List (Audio)                   : 0
+Source                         : VTS_01_1.VOB
+
+DVD 1 
+F868BE4ADBD9EF359728B149EB6CE2B8  VIDEO_TS.BUP
+F868BE4ADBD9EF359728B149EB6CE2B8  VIDEO_TS.IFO
+9BF1819DFEFA9715E449BD1D33000B25  VTS_01_0.BUP
+9BF1819DFEFA9715E449BD1D33000B25  VTS_01_0.IFO
+8EA3A84545F44B82B58884187946A88A  VTS_01_1.VOB
+5ECF726821EB8A79D1D6470C2A34710C  VTS_01_2.VOB
+D267F5BA7363432F601EBC927FA9E366  VTS_01_3.VOB
+
+DVD2
+D7B3FAFFF6B22C29638DD04A787CB246  VIDEO_TS.BUP
+D7B3FAFFF6B22C29638DD04A787CB246  VIDEO_TS.IFO
+25861C1EDD7A49F6BD3D7D534CDAE529  VTS_01_0.BUP
+25861C1EDD7A49F6BD3D7D534CDAE529  VTS_01_0.IFO
+3C42C46DFEDDAD9E4CD0DFB6AF3A9DD5  VTS_01_1.VOB
+2BCF03A41C937D875E978A02761A95DA  VTS_01_2.VOB

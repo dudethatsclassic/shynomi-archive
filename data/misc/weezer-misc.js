@@ -1451,7 +1451,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Weezer - Untitled French Promo (3 Titres Inédits)",
+    "label": "Weezer - Untitled French Promo (3 Titres Ine\u0301dits)",
     "format": "FLAC",
     "category": "OTHER"
   },
@@ -1928,7 +1928,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Weezer – Surf Wax Mt. Fuji {LOOSE-022} (2000)",
+    "label": "Weezer \u2013 Surf Wax Mt. Fuji {LOOSE-022} (2000)",
     "version": "Silver CD",
     "format": "FLAC",
     "year": 2000,
@@ -1943,7 +1943,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Weezer - Undone – The Sweater Song {Geffen GFSTD 85}",
+    "label": "Weezer - Undone \u2013 The Sweater Song {Geffen GFSTD 85}",
     "format": "FLAC",
     "category": "SINGLES"
   },
@@ -2555,5 +2555,36 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 2026,
     "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
+    "label": "Randoms",
+    "year": 2002
+  },
+  {
+    "type": "release",
+    "label": "Oddities",
+    "year": 2008
+  },
+  {
+    "type": "release",
+    "label": "Hashpipe (Unmastered) (2001)",
+    "year": 2001
+  },
+  {
+    "type": "release",
+    "label": "OK Human Photoshoot (2021)",
+    "year": 2021
+  },
+  {
+    "type": "release",
+    "label": "Weezer - Alive Quantum {W.B. 052-053}",
+    "version": "Silver CD",
+    "textFile": "MISC - Weezer - Alive Quantum {W.B. 052-053} [Silver].txt"
+  },
+  {
+    "type": "release",
+    "label": "Weezer - Studio Jams 2001",
+    "textFile": "MISC - Weezer - Studio Jams 2001.txt"
   }
 ];
