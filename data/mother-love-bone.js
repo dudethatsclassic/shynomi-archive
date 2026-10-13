@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "mother-love-bone",
   "name": "Mother Love Bone",
   "drive": "D",
-  "showCount": 13,
+  "showCount": 14,
   "firstYear": 1988,
   "lastYear": 2018,
   "years": [
@@ -73,7 +73,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "JC Dobbs",
-      "notes": "ANA(M) \u00b7 unk",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -141,6 +141,19 @@ const ARTIST_DATA = {
       "notes": "VHS(1)",
       "version": "AUD",
       "format": "FLAC"
+    },
+    {
+      "year": 1989,
+      "month": 9,
+      "day": 3,
+      "dateStr": "9-3-1989",
+      "city": "Seattle",
+      "state": "WA - Bumbershoot Festival - VHS(1) (team dz)",
+      "location": "Seattle, WA - Bumbershoot Festival - VHS(1) (team dz)",
+      "venue": "",
+      "notes": "",
+      "version": "AUD",
+      "format": "DVD"
     },
     {
       "year": 1989,
