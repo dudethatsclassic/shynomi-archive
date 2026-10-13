@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "slipknot",
   "name": "Slipknot",
   "drive": "D",
-  "showCount": 59,
+  "showCount": 61,
   "firstYear": 1998,
   "lastYear": 2025,
   "years": [
@@ -252,6 +252,19 @@ const ARTIST_DATA = {
     },
     {
       "year": 2000,
+      "month": 7,
+      "day": 30,
+      "dateStr": "7-30-2000",
+      "city": "Pontiac",
+      "state": "MI",
+      "location": "Pontiac, MI",
+      "venue": "Phoenix Plaza Amphitheater",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2000,
       "month": 8,
       "day": 10,
       "dateStr": "8-10-2000",
@@ -305,6 +318,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-05-21 - Zurich, Switzerland - Volkshaus - DAT(M) (ECM939T) (ko) [AUD].txt"
+    },
+    {
+      "year": 2001,
+      "month": 8,
+      "day": 19,
+      "dateStr": "8-19-2001",
+      "city": "Tokyo",
+      "state": "Japan",
+      "location": "Tokyo, Japan",
+      "venue": "Chiba Marine Stadium",
+      "notes": "",
+      "version": "PRO",
+      "format": "DVD"
     },
     {
       "year": 2001,
