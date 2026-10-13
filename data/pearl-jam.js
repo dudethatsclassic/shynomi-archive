@@ -7065,9 +7065,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Marine Midland Arena",
-      "notes": "Sony D7 · joel gershon · remaster",
-      "version": "",
-      "format": ""
+      "notes": "CSB · green1224",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "pj1996-10-01.sony-d7.remaster.flac.txt"
     },
     {
       "year": 1996,
