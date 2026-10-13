@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "The Rock and Roll Hall of Fame",
-      "notes": "MTV Rebroadcast \u00b7 datfly",
+      "notes": "MTV Rebroadcast · datfly",
       "version": "TV",
       "format": "FLAC"
     },
@@ -31,7 +31,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park",
-      "notes": "Polo \u00b7 2 source mix",
+      "notes": "Polo · 2 source mix",
       "version": "MIX",
       "format": "FLAC"
     },
@@ -57,7 +57,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Dyrskuepladesen",
-      "notes": "Heyday \u00b7 DAT",
+      "notes": "Heyday · DAT",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -70,7 +70,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Dyrskuepladesen",
-      "notes": "Heyday \u00b7 Sony TCD-D7 \u00b7 hanwaker remaster",
+      "notes": "Heyday · Sony TCD-D7 · hanwaker remaster",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -83,7 +83,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Waldbuehne",
-      "notes": "DAT(1) \u00b7 OKM",
+      "notes": "DAT(1) · OKM",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -96,7 +96,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Waldbuehne",
-      "notes": "unk \u00b7 2nd gen",
+      "notes": "unk · 2nd gen",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -122,7 +122,7 @@ const ARTIST_DATA = {
       "state": "Czech Republic",
       "location": "Praugue, Czech Republic",
       "venue": "Czechoslavakia Sports Palace",
-      "notes": "ANA(M) \u00b7 Sony WMD6 \u00b7 zuma66 \u00b7 remaster",
+      "notes": "ANA(M) · Sony WMD6 · zuma66 · remaster",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -161,7 +161,7 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Salzburg, Austria",
       "venue": "Residenzplatz",
-      "notes": "DAT(M) \u00b7 steve hagar",
+      "notes": "DAT(M) · steve hagar",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -187,7 +187,7 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Gampel, Switzerland",
       "venue": "Festivalgelande",
-      "notes": "DAT(M) \u00b7 steve hagar",
+      "notes": "DAT(M) · steve hagar",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -213,7 +213,7 @@ const ARTIST_DATA = {
       "state": "Israel",
       "location": "Jerusalem, Israel",
       "venue": "Sultan's Pool",
-      "notes": "DAT(M) \u00b7 unk",
+      "notes": "DAT(M) · unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -239,7 +239,7 @@ const ARTIST_DATA = {
       "state": "Israel",
       "location": "Ceasarea, Israel",
       "venue": "The Royal Amphitheatre",
-      "notes": "DAT(M) \u00b7 steve hagar",
+      "notes": "DAT(M) · steve hagar",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -265,7 +265,7 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Hasselt, Belgium",
       "venue": "Pucklepop Festival",
-      "notes": "DAT(M) \u00b7 unk",
+      "notes": "DAT(M) · unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -278,7 +278,7 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Hasselt, Belgium",
       "venue": "Pucklepop Festival",
-      "notes": "DAT(M) \u00b7 steve hagar",
+      "notes": "DAT(M) · steve hagar",
       "version": "AUD",
       "format": "DVD"
     },
