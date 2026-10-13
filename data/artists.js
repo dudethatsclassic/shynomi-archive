@@ -1801,7 +1801,7 @@ const ARTISTS = [
   {
     "id": "mother-love-bone",
     "name": "Mother Love Bone",
-    "showCount": 13,
+    "showCount": 14,
     "firstYear": 1988,
     "lastYear": 2018
   },
@@ -2032,7 +2032,7 @@ const ARTISTS = [
   {
     "id": "pearl-jam",
     "name": "Pearl Jam",
-    "showCount": 1695,
+    "showCount": 1696,
     "firstYear": 1990,
     "lastYear": 2025
   },
