@@ -156,6 +156,5 @@ const ARTIST_DATA = {
       "version": "MIX",
       "format": "FLAC"
     }
-  ],
-  "misc": []
+  ]
 };
