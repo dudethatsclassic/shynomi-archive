@@ -58,7 +58,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Crocodile Cafe",
-      "notes": "CASS(M) \u00b7 Aiwa",
+      "notes": "CASS(M) · Aiwa",
       "version": "AUD",
       "format": "FLAC"
     },
