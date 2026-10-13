@@ -22,6 +22,5 @@ const ARTIST_DATA = {
       "version": "PRO",
       "format": "DVD"
     }
-  ],
-  "misc": []
+  ]
 };
