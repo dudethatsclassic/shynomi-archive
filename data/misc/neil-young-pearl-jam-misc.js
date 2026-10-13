@@ -3,11 +3,13 @@ const ARTIST_MISC_DATA = [
     "type": "release",
     "label": "The European Concerts (3CD)",
     "version": "Silver CD",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   },
   {
-    "type": "label",
+    "type": "release",
     "label": "Mirror Ball Tour Compilation (a.v.)",
-    "format": "FLAC"
+    "format": "FLAC",
+    "category": "OTHER"
   }
 ];
