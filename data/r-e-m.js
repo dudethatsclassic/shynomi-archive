@@ -4269,7 +4269,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "UIC Pavilion",
-      "notes": "University",
+      "notes": "University · Lapel mic · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1986-10-19 - Chicago, IL - UIC Pavilion - University Of Illinois At Chicago [AUD].txt"
