@@ -499,9 +499,9 @@ const ARTISTS = [
   {
     "id": "coheed-cambria",
     "name": "Coheed & Cambria",
-    "showCount": 16,
+    "showCount": 18,
     "firstYear": 2005,
-    "lastYear": 2024
+    "lastYear": 2026
   },
   {
     "id": "cold",
