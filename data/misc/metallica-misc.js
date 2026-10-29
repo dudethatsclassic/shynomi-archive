@@ -248,7 +248,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Live In Chile (1993 \u2013 2017) Master Upgrade (Hi-res)",
+    "label": "Metallica - Live In Chile (1993 – 2017) Master Upgrade (Hi-res)",
     "version": "SBD",
     "format": "FLAC HD",
     "year": 1993,
@@ -256,16 +256,16 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Metallica - Live In Brazil (1993 \u2013 2017) MQA (Hi-Res)",
+    "label": "Metallica - Live In Brazil (1993 – 2017) MQA (Hi-Res)",
     "version": "SBD",
     "format": "FLAC HD",
     "year": 1993,
     "category": "OTHER",
-    "textFile": "MISC - Metallica - Live In Brazil (1993 \u2013 2017) MQA (Hi-Res).txt"
+    "textFile": "MISC - Metallica - Live In Brazil (1993 – 2017) MQA (Hi-Res).txt"
   },
   {
     "type": "release",
-    "label": "Metallica - Live In Argentina (1993 \u2013 2017)",
+    "label": "Metallica - Live In Argentina (1993 – 2017)",
     "version": "SBD",
     "format": "FLAC",
     "year": 1993,
@@ -954,52 +954,5 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC HD",
     "year": 2020,
     "category": "OFFICIAL RELEASES"
-  },
-  {
-    "type": "release",
-    "label": "Metallica - Live At Great Western Forum (1997) (METUS1CD) (METUS2CD)",
-    "year": 1997,
-    "version": "Silver CD",
-    "category": "SILVERS",
-    "textFile": "MISC - Metallica - Live At Great Western Forum (1997) (METUS1CD) (METUS2CD) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Metallica - Rough Justice (1993) (BM1)",
-    "year": 1993,
-    "version": "Silver CD",
-    "category": "SILVERS",
-    "textFile": "MISC - Metallica - Rough Justice (1993) (BM1) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Fan Can 3",
-    "textFile": "MISC - Fan Can 2.txt"
-  },
-  {
-    "type": "release",
-    "label": "Fan Can 5",
-    "textFile": "MISC - Fan Can 3.txt"
-  },
-  {
-    "type": "release",
-    "label": "Metallica - Sucking My Love",
-    "textFile": "MISC - Metallica - Sucking My Love.txt"
-  },
-  {
-    "type": "release",
-    "label": "Metallica - The Complete Demo Collection",
-    "textFile": "MISC - Metallica - The Complete Demo Collection.txt"
-  },
-  {
-    "type": "release",
-    "label": "Metallica Napster Case (2001)",
-    "year": 2001
-  },
-  {
-    "type": "release",
-    "label": "Fan Can 6 - Copenhagen",
-    "format": "DVD",
-    "textFile": "MISC - Fan Can 5.txt"
   }
 ];
