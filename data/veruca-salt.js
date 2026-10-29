@@ -25,7 +25,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Palo Alto, CA",
       "venue": "The Edge",
-      "notes": "Binaurals \u00b7 marcr",
+      "notes": "Binaurals · marcr",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1994-11-12 - Palo Alto, CA - The Edge (Binaurals) (marcr) [AUD24].txt"
@@ -81,7 +81,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theatre",
-      "notes": "Binaural Mics \u00b7 marcr",
+      "notes": "Binaural Mics · marcr",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1995-04-25 - Denver, CO - Ogden Theatre (Binaural Mics) (marcr) [AUD24].txt"
@@ -151,7 +151,7 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Water Festival",
-      "notes": "VHS(1) \u00b7 travisbickle1963",
+      "notes": "VHS(1) · travisbickle1963",
       "version": "AUD",
       "format": "MKV",
       "textFile": "1997-08-13 - Stockholm, SWE - Water Festival - VHS(1) (travisbickle1963) [MKV].txt"
@@ -179,7 +179,7 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Des Moines, IA",
       "venue": "Super Toad",
-      "notes": "DAT(M) \u00b7 CSB \u00b7 cpscps",
+      "notes": "DAT(M) · CSB · cpscps",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-11-10 - Des Moines, IA - Super Toad [AUD].txt"
@@ -210,7 +210,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2014-06-22 - Portland, OR - Mississippi Studios - WAV(M) (CA-11) (kris sproul) [AUD].txt"
+      "textFile": "2014-06-22 - Portland, OR - Mississippi Studios [AUD].txt"
     },
     {
       "year": 2014,
@@ -221,7 +221,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Mississippi Studios",
-      "notes": "WAV(M) \u00b7 CA-11 \u00b7 kris sproul",
+      "notes": "WAV(M) · CA-11 · kris sproul",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-06-22 - Portland, OR - Mississippi Studios [AUD].txt"
@@ -277,7 +277,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "North Hollywood, CA",
       "venue": "Federal Bar",
-      "notes": "Mimosa Music Sunday \u00b7 AT831",
+      "notes": "Mimosa Music Sunday · AT831",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2015-07-19 - North Hollywood, CA - Federal Bar (Mimosa Music Sunday) (AT831) [AUD].txt"
@@ -319,7 +319,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Norwegian Pearl",
       "venue": "Atrium",
-      "notes": "Summer \u00b7 Louise Post \u00b7 Zoom H4N \u00b7 unk",
+      "notes": "Summer · Louise Post · Zoom H4N · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-04-21 - Norwegian Pearl - Atrium - Summer of 99 Cruise (Louise Post) (Zoom H4N) (unk) [AUD].txt"
