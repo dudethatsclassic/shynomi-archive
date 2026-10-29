@@ -2977,7 +2977,7 @@ const ARTISTS = [
   {
     "id": "the-verve-pipe",
     "name": "The Verve Pipe",
-    "showCount": 32,
+    "showCount": 33,
     "firstYear": 1997,
     "lastYear": 2026
   },
