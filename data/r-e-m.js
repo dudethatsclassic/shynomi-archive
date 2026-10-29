@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "r-e-m",
   "name": "R.E.M.",
   "drive": "G",
-  "showCount": 876,
+  "showCount": 877,
   "firstYear": 1980,
   "lastYear": 2009,
   "years": [
@@ -4270,6 +4270,20 @@ const ARTIST_DATA = {
       "location": "Chicago, IL",
       "venue": "UIC Pavilion",
       "notes": "University · Lapel mic · unk",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "1986-10-19 - Chicago, IL - UIC Pavilion - University Of Illinois At Chicago [AUD].txt"
+    },
+    {
+      "year": 1986,
+      "month": 10,
+      "day": 19,
+      "dateStr": "10-19-1986",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "UIC Pavilion",
+      "notes": "Aiwa · aadam.jacobs",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1986-10-19 - Chicago, IL - UIC Pavilion - University Of Illinois At Chicago [AUD].txt"
