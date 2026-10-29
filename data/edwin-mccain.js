@@ -48,7 +48,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Bethel, NY",
       "venue": "Bethel Woods Center for the Arts",
-      "notes": "Schoeps MK41vs \u00b7 radio_w_b",
+      "notes": "Schoeps MK41vs · radio_w_b",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-06-27 - Bethel, NY - Bethel Woods Center for the Arts (Schoeps MK41vs) (radio_w_b) [AUD].txt"
