@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "smashing-pumpkins",
   "name": "Smashing Pumpkins",
   "drive": "B",
-  "showCount": 1808,
+  "showCount": 1810,
   "firstYear": 1988,
   "lastYear": 2026,
   "years": [
@@ -5608,6 +5608,20 @@ const ARTIST_DATA = {
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
       "notes": "ANA(M) · M · DSM-6S",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "1996-01-05 - Washington, DC - 930 Club .txt"
+    },
+    {
+      "year": 1996,
+      "month": 1,
+      "day": 5,
+      "dateStr": "1-5-1996",
+      "city": "Washington",
+      "state": "D.C.",
+      "location": "Washington, D.C.",
+      "venue": "9:30 Club",
+      "notes": "AT822 · jody chancey",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-01-05 - Washington, DC - 930 Club .txt"
@@ -25050,6 +25064,19 @@ const ARTIST_DATA = {
       "location": "Colombus, OH - Schottenstein Center (SP-CMC-8) (live2cd)",
       "venue": "",
       "notes": "",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "day": 7,
+      "dateStr": "10-7-2026",
+      "city": "Hamilton",
+      "state": "Ontario",
+      "location": "Hamilton, Ontario",
+      "venue": "TD Coliseum",
+      "notes": "CA-14 · unk",
       "version": "AUD",
       "format": "FLAC 24"
     },
