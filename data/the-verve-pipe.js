@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "the-verve-pipe",
   "name": "The Verve Pipe",
   "drive": "B",
-  "showCount": 32,
+  "showCount": 33,
   "firstYear": 1997,
   "lastYear": 2026,
   "years": [
@@ -466,6 +466,19 @@ const ARTIST_DATA = {
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2026-07-25 - Marion, IL - 618 Tap House (Neumann SKM 184) (shanecalhoon) [MIX].txt"
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "day": 17,
+      "dateStr": "10-17-2026",
+      "city": "Columbus",
+      "state": "OH",
+      "location": "Columbus, OH",
+      "venue": "The Bluestone",
+      "notes": "CA-14 Cardioids · charlesdeweycoleiv",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
