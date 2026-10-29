@@ -29,14 +29,16 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Beck - Don't Get Bent Out of Shape (v3)",
+    "label": "Beck - Don't Get Bent Out of Shape (v3) (1992)",
     "format": "FLAC",
+    "year": 1992,
     "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Beck - Fresh Meat and Old Slabs",
+    "label": "Beck - Fresh Meat and Old Slabs (1993)",
     "format": "FLAC",
+    "year": 1993,
     "category": "OTHER"
   },
   {
@@ -56,9 +58,10 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Beck - The Mutations Conversations *Interview CD",
+    "label": "Beck - The Mutations Conversations Interview CD (1998)",
     "version": "Silver CD",
     "format": "FLAC",
+    "year": 1998,
     "category": "SILVERS"
   },
   {
@@ -69,37 +72,5 @@ const ARTIST_MISC_DATA = [
     "year": 1996,
     "category": "SILVERS",
     "textFile": "MISC - Beck - Quodlibet {B-DAT 025} (1996) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Beck - Early Rarities (2017)",
-    "year": 2017,
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Beck - The Information (2006)",
-    "year": 2006,
-    "format": "DVD"
-  },
-  {
-    "type": "release",
-    "label": "Images"
-  },
-  {
-    "type": "release",
-    "label": "Interviews"
-  },
-  {
-    "type": "release",
-    "label": "Old Tapes"
-  },
-  {
-    "type": "release",
-    "label": "Show Reviews"
-  },
-  {
-    "type": "release",
-    "label": "Writing"
   }
 ];
