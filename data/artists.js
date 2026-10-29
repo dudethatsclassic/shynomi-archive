@@ -1703,7 +1703,7 @@ const ARTISTS = [
   {
     "id": "metallica",
     "name": "Metallica",
-    "showCount": 1487,
+    "showCount": 1491,
     "firstYear": 1982,
     "lastYear": 2026
   },
