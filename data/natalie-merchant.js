@@ -21,7 +21,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheater",
-      "notes": "Schoeps MK4 \u00b7 unk",
+      "notes": "Schoeps MK4 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-07-07 - Milwaukee, WI - Marcus Amphitheater (Schoeps MK4) (unk) [AUD].txt"
@@ -35,7 +35,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheater",
-      "notes": "ECM-22P \u00b7 unk",
+      "notes": "ECM-22P · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-08-20 - Milwaukee, WI - Marcus Amphitheater (ECM-22P) (unk) [AUD].txt"
@@ -49,7 +49,7 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Cumberland County Civic Center",
-      "notes": "DAT(x) \u00b7 unk",
+      "notes": "DAT(x) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-02-25 - Portland, ME - Cumberland County Civic Center - DAT(x) (unk) [AUD].txt"
@@ -63,7 +63,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "notes": "Neumann AK40s \u00b7 unk",
+      "notes": "Neumann AK40s · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-11-08 - New York, NY - Beacon Theatre (Neumann AK40s) (unk) [AUD].txt"
