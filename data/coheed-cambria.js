@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "coheed-cambria",
   "name": "Coheed & Cambria",
   "drive": "C",
-  "showCount": 16,
+  "showCount": 18,
   "firstYear": 2005,
-  "lastYear": 2024,
+  "lastYear": 2026,
   "years": [
     2005,
     2006,
@@ -13,7 +13,8 @@ const ARTIST_DATA = {
     2010,
     2012,
     2023,
-    2024
+    2024,
+    2026
   ],
   "shows": [
     {
@@ -239,6 +240,32 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-08-19 - Washington, DC - The Anthem (Tascam DR-07Z) (bucketpool) [AUD].txt"
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "day": 23,
+      "dateStr": "9-23-2026",
+      "city": "Lawrence",
+      "state": "KS",
+      "location": "Lawrence, KS",
+      "venue": "Liberty Hall",
+      "notes": "Internal mics · unk",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "day": 29,
+      "dateStr": "9-29-2026",
+      "city": "Morrison",
+      "state": "CO",
+      "location": "Morrison, CO",
+      "venue": "Red Rocks Amphitheatre",
+      "notes": "Afterman · Sound Professionals SP-CMC-8-Phantom · hairybotch",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
