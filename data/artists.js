@@ -2459,7 +2459,7 @@ const ARTISTS = [
   {
     "id": "slipknot",
     "name": "Slipknot",
-    "showCount": 61,
+    "showCount": 71,
     "firstYear": 1998,
     "lastYear": 2025
   },
