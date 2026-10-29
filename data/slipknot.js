@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "slipknot",
   "name": "Slipknot",
   "drive": "D",
-  "showCount": 61,
+  "showCount": 71,
   "firstYear": 1998,
   "lastYear": 2025,
   "years": [
@@ -113,6 +113,19 @@ const ARTIST_DATA = {
     },
     {
       "year": 1999,
+      "month": 9,
+      "day": 19,
+      "dateStr": "9-19-1999",
+      "city": "Worcester",
+      "state": "MA",
+      "location": "Worcester, MA",
+      "venue": "Green Hill Park, Locobazooka 1999",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "DVD"
+    },
+    {
+      "year": 1999,
       "month": 10,
       "day": 11,
       "dateStr": "10-11-1999",
@@ -141,6 +154,32 @@ const ARTIST_DATA = {
     },
     {
       "year": 1999,
+      "month": 11,
+      "day": 3,
+      "dateStr": "11-3-1999",
+      "city": "Winnipeg",
+      "state": "MB",
+      "location": "Winnipeg, MB",
+      "venue": "Le Rendez-Vous",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "DVD"
+    },
+    {
+      "year": 1999,
+      "month": 12,
+      "day": 3,
+      "dateStr": "12-3-1999",
+      "city": "Detroit",
+      "state": "MI",
+      "location": "Detroit, MI",
+      "venue": "Harpo's",
+      "notes": "Left Cam",
+      "version": "AUD",
+      "format": "DVD"
+    },
+    {
+      "year": 1999,
       "month": 12,
       "day": 16,
       "dateStr": "12-16-1999",
@@ -156,6 +195,19 @@ const ARTIST_DATA = {
     {
       "year": 2000,
       "month": 1,
+      "day": 10,
+      "dateStr": "1-10-2000",
+      "city": "Springfield",
+      "state": "MO",
+      "location": "Springfield, MO",
+      "venue": "Juke Joint",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "DVD"
+    },
+    {
+      "year": 2000,
+      "month": 1,
       "day": 16,
       "dateStr": "1-16-2000",
       "city": "Fort Lauderdale",
@@ -164,6 +216,19 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
+      "format": "DVD"
+    },
+    {
+      "year": 2000,
+      "month": 2,
+      "day": 7,
+      "dateStr": "2-7-2000",
+      "city": "Tokyo",
+      "state": "Japan",
+      "location": "Tokyo, Japan",
+      "venue": "Shibuya Club Quattro",
+      "notes": "TV-VHS",
+      "version": "PRO",
       "format": "DVD"
     },
     {
@@ -207,6 +272,19 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "FLAC",
       "textFile": "2000-02-29 - Manchester, England - Manchester Main Debating Hall [FM].txt"
+    },
+    {
+      "year": 2000,
+      "month": 4,
+      "day": 8,
+      "dateStr": "4-8-2000",
+      "city": "Montreal",
+      "state": "QC",
+      "location": "Montreal, QC",
+      "venue": "Metropolis",
+      "notes": "wickeddreams",
+      "version": "AUD",
+      "format": "DVD"
     },
     {
       "year": 2000,
@@ -308,6 +386,19 @@ const ARTIST_DATA = {
     {
       "year": 2001,
       "month": 5,
+      "day": 20,
+      "dateStr": "5-20-2001",
+      "city": "Milan",
+      "state": "Italy",
+      "location": "Milan, Italy",
+      "venue": "Palavobis",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "DVD"
+    },
+    {
+      "year": 2001,
+      "month": 5,
       "day": 21,
       "dateStr": "5-21-2001",
       "city": "Zurich",
@@ -318,6 +409,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-05-21 - Zurich, Switzerland - Volkshaus - DAT(M) (ECM939T) (ko) [AUD].txt"
+    },
+    {
+      "year": 2001,
+      "month": 7,
+      "day": 31,
+      "dateStr": "7-31-2001",
+      "city": "Detroit",
+      "state": "MI",
+      "location": "Detroit, MI",
+      "venue": "DTE Energy Music Center",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "DVD"
     },
     {
       "year": 2001,
@@ -346,6 +450,19 @@ const ARTIST_DATA = {
       "format": "DVD"
     },
     {
+      "year": 2001,
+      "month": 10,
+      "day": 27,
+      "dateStr": "10-27-2001",
+      "city": "Peoria",
+      "state": "IL",
+      "location": "Peoria, IL",
+      "venue": "Peoria Civic Center",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "DVD"
+    },
+    {
       "year": 2002,
       "month": 3,
       "day": 23,
@@ -355,6 +472,19 @@ const ARTIST_DATA = {
       "location": "Chiba, JP - Tokyo Bay NK Hall (rozy)",
       "venue": "",
       "notes": "",
+      "version": "AUD",
+      "format": "DVD"
+    },
+    {
+      "year": 2004,
+      "month": 6,
+      "day": 6,
+      "dateStr": "6-6-2004",
+      "city": "Castle Donington",
+      "state": "England",
+      "location": "Castle Donington, England",
+      "venue": "Donington Park",
+      "notes": "Left Cam · unk",
       "version": "AUD",
       "format": "DVD"
     },
