@@ -1388,9 +1388,9 @@ const ARTISTS = [
   {
     "id": "korn",
     "name": "Korn",
-    "showCount": 54,
+    "showCount": 55,
     "firstYear": 1995,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "kula-shaker",
