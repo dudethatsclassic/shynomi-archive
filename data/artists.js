@@ -632,7 +632,7 @@ const ARTISTS = [
   {
     "id": "deftones",
     "name": "Deftones",
-    "showCount": 303,
+    "showCount": 304,
     "firstYear": 1992,
     "lastYear": 2026
   },
