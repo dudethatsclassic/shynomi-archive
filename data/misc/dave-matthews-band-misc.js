@@ -1,32 +1,6 @@
 const ARTIST_MISC_DATA = [
   {
     "type": "release",
-    "label": "Dave Matthews Band - 1990-1993 Demos",
-    "version": "SBD",
-    "format": "FLAC"
-  },
-  {
-    "type": "label",
-    "label": "XX-XX-1991 / Granny's Demo"
-  },
-  {
-    "type": "label",
-    "label": "10-21-1991 / Mixtap (Remastered Compilation)"
-  },
-  {
-    "type": "release",
-    "label": "6-XX-1992 - Ardent Studio Demos (Remastered)",
-    "version": "SBD",
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Dave Matthews Band - Live and Dreaming {CH006} (1995)",
-    "version": "Silver CD",
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
     "label": "07-28 - Charlottesville, VA - Trax (Nugs.net)",
     "year": 1992,
     "format": "FLAC",
@@ -167,7 +141,7 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "07-09 - Belfort, FR - Presqu'i\u0302le de Malsaucy (Nugs.net)",
+    "label": "07-09 - Belfort, FR - Presqu'île de Malsaucy (Nugs.net)",
     "year": 1995,
     "format": "FLAC",
     "category": "DMBlive SERIES"
@@ -601,34 +575,34 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "10-21 - Mixtape (Compilation)",
-    "year": 1991,
-    "format": "SBD",
-    "textFile": "MISC - 1991-10-21 - Mixtape (Compilation) [SBD].txt"
+    "label": "Dave Matthews Band - 1990-1993 Demos",
+    "version": "SBD",
+    "format": "FLAC",
+    "year": 1990,
+    "category": "OTHER"
+  },
+  {
+    "type": "label",
+    "label": "XX-XX-1991 / Granny's Demo"
+  },
+  {
+    "type": "label",
+    "label": "10-21-1991 / Mixtap (Remastered Compilation)"
   },
   {
     "type": "release",
-    "label": "XX-XX - Grannys Demo",
-    "year": 1991,
-    "format": "SBD",
-    "textFile": "MISC - 1991-XX-XX - Grannys Demo [SBD].txt"
-  },
-  {
-    "type": "release",
-    "label": "06-XX - Ardent Studio Demos",
+    "label": "6-XX-1992 - Ardent Studio Demos (Remastered)",
+    "version": "SBD",
+    "format": "FLAC",
     "year": 1992,
-    "format": "SBD",
-    "textFile": "MISC - 1992-06-XX - Ardent Studio Demos [SBD].txt"
+    "category": "OTHER"
   },
   {
     "type": "release",
-    "label": "Dave Matthews - Mother's Night Tape (1989)",
-    "year": 1989,
-    "textFile": "MISC - Dave Matthews - Mother's Night Tape (1989).txt"
-  },
-  {
-    "type": "release",
-    "label": "Dave Matthews Band - 1990-93 Demos",
-    "textFile": "MISC - Dave Matthews Band - 1990-93 Demos.txt"
+    "label": "Dave Matthews Band - Live and Dreaming {CH006} (1995)",
+    "version": "Silver CD",
+    "format": "FLAC",
+    "year": 1995,
+    "category": "OTHER"
   }
 ];
