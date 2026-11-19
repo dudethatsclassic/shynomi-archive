@@ -168,7 +168,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Time Warner Cable Uptown Ammphitheatre",
-      "notes": "CM-33s · nsl",
+      "notes": "CM-33s · nsl · inc",
       "version": "AUD",
       "format": "FLAC"
     },
