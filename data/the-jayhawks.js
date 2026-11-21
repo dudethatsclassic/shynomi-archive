@@ -1,7 +1,7 @@
 const ARTIST_DATA = {
   "id": "the-jayhawks",
   "name": "The Jayhawks",
-  "drive": "E",
+  "drive": "E2",
   "showCount": 37,
   "firstYear": 1985,
   "lastYear": 2025,
@@ -255,7 +255,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "notes": "ANA(M) \u00b7 ECM-909 \u00b7 tjcruz",
+      "notes": "ANA(M) · ECM-909 · tjcruz",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -282,7 +282,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -309,7 +309,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theater of the Living Arts",
-      "notes": "Schoeps MK4vs \u00b7 bill haegele",
+      "notes": "Schoeps MK4vs · bill haegele",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2000-11-11 - Philadelphia, PA - Theater of the Living Arts (Schoeps MK4vs) (bill haegele) [AUD24].txt"
@@ -364,7 +364,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Ardmore, PA",
       "venue": "Ardmore Music Hall",
-      "notes": "SBD + Neumann KM84s \u00b7 julsay",
+      "notes": "SBD + Neumann KM84s · julsay",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2019-06-15 - Ardmore, PA - Ardmore Music Hall (SBD + Neumann KM84s) (julsay) [MIX].txt"
@@ -378,7 +378,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "The Hamilton",
-      "notes": "Gefell M21 \u00b7 alex leary",
+      "notes": "Gefell M21 · alex leary",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2021-10-08 - Washington, D.C. - The Hamilton (Gefell M21) (alex leary) [AUD24].txt"
@@ -392,7 +392,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Chapel",
-      "notes": "Schoeps CCM4 \u00b7 unk",
+      "notes": "Schoeps CCM4 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-10-24 - San Francisco, CA - The Chapel (Schoeps CCM4) (unk) [AUD].txt"
@@ -406,7 +406,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Minnesota State Fair",
-      "notes": "ATM-11 SM \u00b7 mike mahoney",
+      "notes": "ATM-11 SM · mike mahoney",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-09-04 - St. Paul, MN - Minnesota State Fair (ATM-11 SM) (mike mahoney) [AUD].txt"
@@ -420,7 +420,7 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Malmo, SWE",
       "venue": "Slagthuset",
-      "notes": "CA14s \u00b7 Sony PCM-M10 \u00b7 unk",
+      "notes": "CA14s · Sony PCM-M10 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-04-12 - Malmo, SWE - Slagthuset (CA14s) (Sony PCM-M10) (unk) [AUD].txt"
@@ -434,7 +434,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Evanston, IL",
       "venue": "S.P.A.C.E.",
-      "notes": "Late Show \u00b7 DPA 4060 \u00b7 ademotte",
+      "notes": "Late Show · DPA 4060 · ademotte",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-02-24 - Evanston, IL - S.P.A.C.E. (Late Show) (DPA 4060) (ademotte) [AUD24].txt"
@@ -448,7 +448,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Evanston, IL",
       "venue": "S.P.A.C.E.",
-      "notes": "Edirol R-07 \u00b7 lucca",
+      "notes": "Edirol R-07 · lucca",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-02-25 - Evanston, IL - S.P.A.C.E. (Edirol R-07) (lucca) [AUD].txt"
@@ -462,7 +462,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Infinity Music Hall",
-      "notes": "DPA 4061s + CSBs \u00b7 km",
+      "notes": "DPA 4061s + CSBs · km",
       "version": "MIX",
       "format": "FLAC 24",
       "textFile": "2024-05-03 - Hartford, CT - Infinity Music Hall (DPA 4061s + CSBs) (km) [MIX24].txt"
@@ -476,7 +476,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Infinity Hall",
-      "notes": "Tascam DR22 \u00b7 john lombardi \u00b7 inc",
+      "notes": "Tascam DR22 · john lombardi · inc",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-05-03 - Hartford, CT - Infinity Hall (Tascam DR22) (john lombardi) (inc) [AUD].txt"
@@ -490,7 +490,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Chesterfield, MO",
       "venue": "The Factory",
-      "notes": "Sony PCM-A10 \u00b7 shane e. calhoon",
+      "notes": "Sony PCM-A10 · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-08-03 - Chesterfield, MO - The Factory (Sony PCM-A10) (shane e. calhoon) [AUD24].txt"
@@ -504,7 +504,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Salt Shed",
-      "notes": "iPhone \u00b7 ryan fisher",
+      "notes": "iPhone · ryan fisher",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-08-07 - Chicago, IL - The Salt Shed (iPhone) (ryan fisher) [AUD].txt"
@@ -518,7 +518,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Ardmore, PA",
       "venue": "Ardmore Music Hall",
-      "notes": "AKG C414B \u00b7 jamie burks",
+      "notes": "AKG C414B · jamie burks",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-09-26 - Ardmore, PA - Ardmore Music Hall (AKG C414B) (jamie burks) [AUD24].txt"
@@ -532,7 +532,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Tarrytown, NY",
       "venue": "Tarrytown Music Hall",
-      "notes": "Instamic Pro Plus C \u00b7 km",
+      "notes": "Instamic Pro Plus C · km",
       "version": "AUD",
       "format": "MIX 24",
       "textFile": "2025-11-22 - Tarrytown, NY - Tarrytown Music Hall (Instamic Pro Plus C) (km) [MIX24].txt"
