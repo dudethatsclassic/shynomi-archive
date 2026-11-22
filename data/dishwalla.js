@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "dishwalla",
   "name": "Dishwalla",
   "drive": "E",
-  "showCount": 3,
+  "showCount": 4,
   "firstYear": 1995,
   "lastYear": 2023,
   "years": [
@@ -35,6 +35,19 @@ const ARTIST_DATA = {
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
       "notes": "unk · neekrive",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1996,
+      "month": 7,
+      "day": 23,
+      "dateStr": "7-23-1996",
+      "city": "Boulder",
+      "state": "CO",
+      "location": "Boulder, CO",
+      "venue": "Fox Theatre & Best Buy In-store",
+      "notes": "MarcR binaurals · sxpxdxcx",
       "version": "AUD",
       "format": "FLAC"
     },
