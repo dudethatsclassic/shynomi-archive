@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "filter",
   "name": "Filter",
   "drive": "E",
-  "showCount": 19,
+  "showCount": 20,
   "firstYear": 1995,
   "lastYear": 2026,
   "years": [
@@ -283,6 +283,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-03-14 - Indianapolis, IN - The Hi-Fi (CA-14) (live2cd) [AUD].txt"
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "day": 24,
+      "dateStr": "10-24-2026",
+      "city": "Fort Worth",
+      "state": "TX",
+      "location": "Fort Worth, TX",
+      "venue": "Blue Stage at Texas Motor Speedway",
+      "notes": "Sick · Schoeps MK4 · jessymc",
+      "version": "",
+      "format": "DVD"
     }
   ]
 };
