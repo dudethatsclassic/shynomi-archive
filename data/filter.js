@@ -294,8 +294,8 @@ const ARTIST_DATA = {
       "location": "Fort Worth, TX",
       "venue": "Blue Stage at Texas Motor Speedway",
       "notes": "Sick · Schoeps MK4 · jessymc",
-      "version": "",
-      "format": "DVD"
+      "version": "AUD",
+      "format": "MP4"
     }
   ]
 };
