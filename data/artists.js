@@ -436,7 +436,7 @@ const ARTISTS = [
   {
     "id": "chris-cornell",
     "name": "Chris Cornell",
-    "showCount": 83,
+    "showCount": 85,
     "firstYear": 1999,
     "lastYear": 2019
   },
