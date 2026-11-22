@@ -9,6 +9,13 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
+    "label": "Mother Love Bone - The Love Bone Earth Affair (VHS) (1993)",
+    "format": "DVD",
+    "year": 1993,
+    "category": "OFFICIAL RELEASES"
+  },
+  {
+    "type": "release",
     "label": "Mother Love Bone - On Earth As It Is - The Complete Works (2016) (24/96)",
     "format": "FLAC HD",
     "year": 2016,
