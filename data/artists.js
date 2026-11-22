@@ -2032,9 +2032,9 @@ const ARTISTS = [
   {
     "id": "pearl-jam",
     "name": "Pearl Jam",
-    "showCount": 1696,
+    "showCount": 1697,
     "firstYear": 1990,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "pete-yorn",
