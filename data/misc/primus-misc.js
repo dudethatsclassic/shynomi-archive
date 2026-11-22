@@ -304,31 +304,5 @@ const ARTIST_MISC_DATA = [
     "year": 2017,
     "category": "OFFICIAL RELEASES",
     "textFile": "MISC - Primus - The Desaturating Seven (2017) [ATO 0404] [CD FLAC].txt"
-  },
-  {
-    "type": "release",
-    "label": "Primus - First In Line (Live!) (1994) (EXX-52522)",
-    "year": 1994,
-    "version": "Silver CD",
-    "textFile": "MISC - Primus - First In Line (Live!) (1994) (EXX-52522) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Primus - Masters Of Puppies (1990 Tour) (1992) (LM02)",
-    "year": 1992,
-    "version": "Silver CD",
-    "textFile": "MISC - Primus - Masters Of Puppies (1990 Tour) (1992) (LM02) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Primus - Paradiso Amsterdam 1990 (1994) (HJ 009-10)",
-    "year": 1994,
-    "version": "Silver CD",
-    "textFile": "MISC - Primus - Paradiso Amsterdam 1990 (1994) (HJ 009-10) [Silver].txt"
-  },
-  {
-    "type": "release",
-    "label": "Primus - Welcome To This World (Demo)",
-    "format": "MP3-LOSSY"
   }
 ];
