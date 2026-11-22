@@ -62,7 +62,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Universal Amphitheatre",
-      "notes": "KROQ \u00b7 WW1-#03-14",
+      "notes": "KROQ · WW1-#03-14",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "2002-12-07 - Los Angeles, CA - Universal Amphitheatre - KROQ Almost Acoustic Christmas [SBD].txt"
@@ -104,7 +104,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "XFM Studios (Interview)",
-      "notes": "DAT(M) \u00b7 SBD #1 \u00b7 gary watson",
+      "notes": "DAT(M) · SBD #1 · gary watson",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2003-01-17 - London, England - XFM Studios (Interview) - DAT(M) (SBD #1) (gary watson) [FM].txt"
@@ -284,7 +284,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Electric Factory",
-      "notes": "AUD(M) \u00b7 Coresound",
+      "notes": "AUD(M) · Coresound",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-03-07 - Philadelphia, PA - Electric Factory - DAT(M) (Gefell M20) (jlizard) [AUD].txt"
@@ -298,7 +298,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
-      "notes": "DAT(M) \u00b7 Gefell M20 \u00b7 jlizard",
+      "notes": "DAT(M) · Gefell M20 · jlizard",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-03-07 - Philadelphia, PA - The Electric Factory - AUD(M) (Coresound) [AUD].txt"
@@ -522,7 +522,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheatre",
-      "notes": "Lollapalooza \u00b7 ls",
+      "notes": "Lollapalooza · ls",
       "version": "AUD",
       "format": "SHN",
       "textFile": "2003-07-03 - Milwaukee, WI - Marcus Amphitheatre (Lollapalooza) [AUD].txt"
@@ -550,7 +550,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheatre",
-      "notes": "Lollapalooza \u00b7 ko",
+      "notes": "Lollapalooza · ko",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-07-11 - Milwaukee, WI - Marcus Amphitheater - Lollapalooza (SM98) [AUD].txt"
@@ -578,7 +578,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Burgettstown, PA",
       "venue": "Post-Gazette Pavilion",
-      "notes": "SM98 \u00b7 cps",
+      "notes": "SM98 · cps",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-07-19 - Burgettstown, PA - Post-Gazette Pavilion (SM98) [AUD].txt"
@@ -633,7 +633,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Wantagh, NY",
       "venue": "Jones Beach Amphitheater",
-      "notes": "Lollapalooza \u00b7 MarcSounds",
+      "notes": "Lollapalooza · MarcSounds",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-07-30 - Wantagh, NY - Jones Beach Amphitheater (Lollapalooza) (MarcSounds) [AUD].txt"
@@ -661,7 +661,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "HiFi Buys Amphitheatre",
-      "notes": "DAT(M) \u00b7 DPA 4061s \u00b7 pjdave",
+      "notes": "DAT(M) · DPA 4061s · pjdave",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-08-03 - Atlanta, GA - HiFi Buys Amphitheatre - DAT(M) (DPA 4061s) (pjdave) [AUD].txt"
@@ -675,7 +675,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "HiFi Buys Amphitheatre",
-      "notes": "Lollapalooza \u00b7 M \u00b7 AT-853 \u00b7 cal evans",
+      "notes": "Lollapalooza · M · AT-853 · cal evans",
       "version": "AUD #2",
       "format": "FLAC",
       "textFile": "2003-08-03 - Atlanta, GA - HiFi Buys Amphitheatre - Lollapalooza - DAT(M) (AT-853) (cal evans) [AUD #2].txt"
@@ -689,7 +689,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Smirnoff Music Centre",
-      "notes": "Lollapalooza \u00b7 asthma77 \u00b7 inc",
+      "notes": "Lollapalooza · asthma77 · inc",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-08-08 - Dallas, TX - Smirnoff Music Centre - Lollapalooza (asthma77) (inc) [AUD].txt"
@@ -717,7 +717,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Fiddler's Green",
-      "notes": "Lollapalooza \u00b7 taperbt",
+      "notes": "Lollapalooza · taperbt",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-08-13 - Denver, CO - Fiddler's Green (MK4) [AUD].txt"
@@ -745,7 +745,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Verizon Wireless Amphitheatre",
-      "notes": "DAB \u00b7 cavis3208",
+      "notes": "DAB · cavis3208",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-08-16 - Irvine, CA - Verizon Wireless Amphitheatre (DAB) (cavis3208) [AUD].txt"
@@ -759,7 +759,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Chula Vista, CA",
       "venue": "Coors Amphitheatre",
-      "notes": "DAT(M) \u00b7 Oade Brothers \u00b7 the ramblin taper",
+      "notes": "DAT(M) · Oade Brothers · the ramblin taper",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-08-17 - Chula Vista, CA - Coors Amphitheatre - DAT(M) (Oade Brothers) (the ramblin taper) [AUD].txt"
@@ -773,7 +773,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "Lollapalooza \u00b7 michele",
+      "notes": "Lollapalooza · michele",
       "version": "AUD",
       "format": "SHN",
       "textFile": "2003-08-19 - Mountain View, CA - Shoreline Amphitheatre (Lollapalooza) [AUD].txt"
@@ -815,7 +815,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "DPA 4061 \u00b7 tapeworm48",
+      "notes": "DPA 4061 · tapeworm48",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-04-22 - Chicago, IL - Aragon Ballroom (DPA 4061) (tapeworm(48) [AUD].txt"
@@ -857,7 +857,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Jimmy Kimmel Live",
-      "notes": "DSM6 \u00b7 unk",
+      "notes": "DSM6 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-05-18 - Hollywood, CA - Jimmy Kimmel Live (DSM6) (unk) [AUD].txt"
@@ -927,7 +927,7 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Nickelsdorf, Austria",
       "venue": "Pannonia Fields",
-      "notes": "DPA4061 \u00b7 mg",
+      "notes": "DPA4061 · mg",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-06-09 - Nickelsdorf, Austria - Pannonia Fields (DPA4061) (mg) [AUD].txt"
@@ -941,7 +941,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Newhausen ob Eck, Germany",
       "venue": "Southside Festival",
-      "notes": "Flugplatz \u00b7 OKM-IIr",
+      "notes": "Flugplatz · OKM-IIr",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-06-10 - Newhausen ob Eck, Germany - Southside Festival - Flugplatz [AUD].txt"
@@ -969,7 +969,7 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Hovet",
-      "notes": "MD(M) \u00b7 ECM-DS70P \u00b7 andreas magnusson",
+      "notes": "MD(M) · ECM-DS70P · andreas magnusson",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-06-27 - Stockholm, Sweden - Hovet - MD(M) (ECM-DS70P) (andreas magnusson) [AUD].txt"
@@ -983,7 +983,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
-      "notes": "Orange \u00b7 CSC \u00b7 jtl",
+      "notes": "Orange · CSC · jtl",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-07-01  - Roskilde, Denmark - Roskilde Festival - Orange Stage (CSC) (jtl) [AUD].txt"
@@ -1000,7 +1000,7 @@ const ARTIST_DATA = {
       "notes": "thir13en remaster",
       "version": "FM",
       "format": "APE",
-      "textFile": "2005-07-05 - Montreux, Switzerland - Miles Davis Hall [FM].txt"
+      "textFile": "2005-07-05 - Montreux, Switzerland - Montreux Jazz Festival (jzingapoor) [FM].txt"
     },
     {
       "year": 2005,
@@ -1014,7 +1014,7 @@ const ARTIST_DATA = {
       "notes": "jungle brother",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2005-07-05 - Montreux, Switzerland - Montreux Jazz Festival (jungle brother) [FM].txt"
+      "textFile": "2005-07-05 - Montreux, Switzerland - Montreux Jazz Festival (jzingapoor) [FM].txt"
     },
     {
       "year": 2005,
@@ -1109,7 +1109,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "UIC Pavilion",
-      "notes": "Schoeps MK4 \u00b7 tapeworm48",
+      "notes": "Schoeps MK4 · tapeworm48",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-11-07 - Chicago, IL - UIC Pavilion (Schoeps MK4) (tapeworm48) [AUD].txt"
@@ -1123,7 +1123,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "notes": "AT831s \u00b7 tapeworm48",
+      "notes": "AT831s · tapeworm48",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-01-16 - Inglewood, CA - The Forum (AT831s) (tapeworm48) [AUD].txt"
