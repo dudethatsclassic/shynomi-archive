@@ -2,11 +2,12 @@ const ARTIST_DATA = {
   "id": "jimmies-chicken-shack",
   "name": "Jimmies Chicken Shack",
   "drive": "F",
-  "showCount": 3,
+  "showCount": 4,
   "firstYear": 1999,
   "lastYear": 2023,
   "years": [
     1999,
+    2005,
     2018,
     2023
   ],
@@ -24,6 +25,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-10-29 - Miami, FL - Bayfront Park - DAT(M) (B&K 4022) (jlizard) [AUD].txt"
+    },
+    {
+      "year": 2005,
+      "month": 3,
+      "day": 11,
+      "dateStr": "3-11-2005",
+      "city": "Towson",
+      "state": "MD",
+      "location": "Towson, MD",
+      "venue": "Recher Theater",
+      "notes": "DAT(M) · cps",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2018,
