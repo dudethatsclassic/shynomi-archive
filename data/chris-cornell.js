@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "chris-cornell",
   "name": "Chris Cornell",
   "drive": "F",
-  "showCount": 83,
+  "showCount": 85,
   "firstYear": 1999,
   "lastYear": 2019,
   "years": [
@@ -113,7 +113,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Community Center Theater",
-      "notes": "ECM-MS-907 \u00b7 big d.",
+      "notes": "ECM-MS-907 · big d.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-11-29 - Sacramento, CA - Community Center Theater (ECM-MS-907) (big d.) [AUD].txt"
@@ -225,7 +225,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "notes": "Core Sound Stealthy \u00b7 crazyafroman & bob20",
+      "notes": "Core Sound Stealthy · crazyafroman & bob20",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2007-04-08 - Minneapolis, MN - First Avenue (crazyafroman & bob20) [AUD24].txt"
@@ -284,6 +284,32 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Webcast",
       "format": "FLAC"
+    },
+    {
+      "year": 2007,
+      "month": 5,
+      "day": 8,
+      "dateStr": "5-8-2007",
+      "city": "Seattle",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "Fenix Underground",
+      "notes": "V1 · youtube",
+      "version": "PRO",
+      "format": "DVD"
+    },
+    {
+      "year": 2007,
+      "month": 5,
+      "day": 8,
+      "dateStr": "5-8-2007",
+      "city": "Seattle",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "Fenix Underground",
+      "notes": "Live · V2 · controlroomevent",
+      "version": "PRO",
+      "format": "DVD"
     },
     {
       "year": 2007,
@@ -349,7 +375,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Camden Roundhouse",
-      "notes": "DAT(M) \u00b7 EM8 \u00b7 gary watson",
+      "notes": "DAT(M) · EM8 · gary watson",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-09-03 - London, England - Camden Roundhouse - DAT(M) (EM8) (gary watson) [AUD].txt"
@@ -447,7 +473,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Pabst Theater",
-      "notes": "mk4 \u00b7 tapeworm48",
+      "notes": "mk4 · tapeworm48",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-04-17 - Milwaukee, WI - Pabst Theater (mk4) (tapeworm48) [AUD].txt"
@@ -461,7 +487,7 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "The Depot",
-      "notes": "DPA 4061s \u00b7 geordy",
+      "notes": "DPA 4061s · geordy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-04-25 - Salt Lake City, UT - The Depot (DPA 4061s) (geordy) [AUD].txt"
@@ -573,7 +599,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Coquitlam, BC",
       "venue": "Boulevard Casino",
-      "notes": "CA-11 \u00b7 dennis orr",
+      "notes": "CA-11 · dennis orr",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2011-04-30 - Coquitlam, BC - Boulevard Casino (CA-11) (dennis orr) [AUD24].txt"
@@ -643,7 +669,7 @@ const ARTIST_DATA = {
       "state": "AR",
       "location": "Buenos Aires, AR",
       "venue": "Teatro Grean Rex",
-      "notes": "MM-MCSM-4 \u00b7 rony kohn",
+      "notes": "MM-MCSM-4 · rony kohn",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-11-09 - Buenos Aires, AR - Teatro Grean Rex (MM-MCSM-4) (rony kohn) [AUD].txt"
@@ -838,7 +864,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Victoria, BC",
       "venue": "Farquhar Auditorium",
-      "notes": "Zoom H2 \u00b7 jason",
+      "notes": "Zoom H2 · jason",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2013-10-22 - Victoria, BC - Farquhar Auditorium (Zoom H2) (jason) [AUD].txt"
@@ -894,7 +920,7 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Adelaide, AUS",
       "venue": "Soundwave Festival",
-      "notes": "SP-CMC-25 \u00b7 godzogolfball",
+      "notes": "SP-CMC-25 · godzogolfball",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1161,7 +1187,7 @@ const ARTIST_DATA = {
       "notes": "Chris",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2019-01-16 - Inglewood, CA - The Forum - Chris Cornell Tribute (AT831) [AUD].txt"
+      "textFile": "2019-01-16 - Inglewood, CA - The Forum - Chris Cornell Tribute (CA-11) [AUD].flac.txt"
     },
     {
       "year": 2019,
