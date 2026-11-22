@@ -2,15 +2,29 @@ const ARTIST_DATA = {
   "id": "lit",
   "name": "Lit",
   "drive": "D",
-  "showCount": 4,
-  "firstYear": 2023,
+  "showCount": 5,
+  "firstYear": 1999,
   "lastYear": 2025,
   "years": [
+    1999,
     2023,
     2024,
     2025
   ],
   "shows": [
+    {
+      "year": 1999,
+      "month": 7,
+      "day": 11,
+      "dateStr": "7-11-1999",
+      "city": "Denver",
+      "state": "CO",
+      "location": "Denver, CO",
+      "venue": "Mile High Stadium",
+      "notes": "Core Sound Stealthy Cardioid · sxpdxcx",
+      "version": "AUD",
+      "format": "FLAC"
+    },
     {
       "year": 2023,
       "month": 7,
