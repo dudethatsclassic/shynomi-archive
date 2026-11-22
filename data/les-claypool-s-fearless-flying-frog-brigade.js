@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "les-claypool-s-fearless-flying-frog-brigade",
   "name": "Les Claypool's Fearless Flying Frog Brigade",
   "drive": "F",
-  "showCount": 34,
+  "showCount": 35,
   "firstYear": 2000,
   "lastYear": 2023,
   "years": [
@@ -82,6 +82,19 @@ const ARTIST_DATA = {
       "version": "AUD (48k)",
       "format": "FLAC",
       "textFile": "2001-07-30 - Providence, RI - Lupos Heartbreak Hotel (Neumann SKM-184) (david keller) [AUD].txt"
+    },
+    {
+      "year": 2002,
+      "month": 4,
+      "day": 21,
+      "dateStr": "4-21-2002",
+      "city": "Santa Cruz",
+      "state": "CA",
+      "location": "Santa Cruz, CA",
+      "venue": "Cocoanut Grove",
+      "notes": "Neumann KM140's · billshaw",
+      "version": "AUD (48k)",
+      "format": "FLAC"
     },
     {
       "year": 2002,
