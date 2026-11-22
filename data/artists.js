@@ -1234,7 +1234,7 @@ const ARTISTS = [
   {
     "id": "jerry-cantrell",
     "name": "Jerry Cantrell",
-    "showCount": 19,
+    "showCount": 20,
     "firstYear": 1998,
     "lastYear": 2025
   },
