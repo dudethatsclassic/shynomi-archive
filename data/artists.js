@@ -821,7 +821,7 @@ const ARTISTS = [
   {
     "id": "failure",
     "name": "Failure",
-    "showCount": 40,
+    "showCount": 43,
     "firstYear": 1994,
     "lastYear": 2026
   },
