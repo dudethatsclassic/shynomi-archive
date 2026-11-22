@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "slipknot",
   "name": "Slipknot",
   "drive": "D",
-  "showCount": 71,
+  "showCount": 72,
   "firstYear": 1998,
   "lastYear": 2025,
   "years": [
@@ -409,6 +409,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-05-21 - Zurich, Switzerland - Volkshaus - DAT(M) (ECM939T) (ko) [AUD].txt"
+    },
+    {
+      "year": 2001,
+      "month": 7,
+      "day": 21,
+      "dateStr": "7-21-2001",
+      "city": "Camden",
+      "state": "NJ",
+      "location": "Camden, NJ",
+      "venue": "Tweeter Center",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "DVD"
     },
     {
       "year": 2001,
