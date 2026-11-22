@@ -653,7 +653,7 @@ const ARTISTS = [
   {
     "id": "dishwalla",
     "name": "Dishwalla",
-    "showCount": 3,
+    "showCount": 4,
     "firstYear": 1995,
     "lastYear": 2023
   },
@@ -870,7 +870,7 @@ const ARTISTS = [
   {
     "id": "filter",
     "name": "Filter",
-    "showCount": 19,
+    "showCount": 20,
     "firstYear": 1995,
     "lastYear": 2026
   },
@@ -1521,8 +1521,8 @@ const ARTISTS = [
   {
     "id": "lit",
     "name": "Lit",
-    "showCount": 4,
-    "firstYear": 2023,
+    "showCount": 5,
+    "firstYear": 1999,
     "lastYear": 2025
   },
   {
@@ -2711,7 +2711,7 @@ const ARTISTS = [
   {
     "id": "system-of-a-down",
     "name": "System of a Down",
-    "showCount": 21,
+    "showCount": 27,
     "firstYear": 1997,
     "lastYear": 2026
   },
