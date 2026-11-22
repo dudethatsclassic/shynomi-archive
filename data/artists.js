@@ -877,8 +877,8 @@ const ARTISTS = [
   {
     "id": "finger-eleven",
     "name": "Finger Eleven",
-    "showCount": 6,
-    "firstYear": 2025,
+    "showCount": 9,
+    "firstYear": 2024,
     "lastYear": 2026
   },
   {
@@ -1262,7 +1262,7 @@ const ARTISTS = [
   {
     "id": "jimmies-chicken-shack",
     "name": "Jimmies Chicken Shack",
-    "showCount": 3,
+    "showCount": 4,
     "firstYear": 1999,
     "lastYear": 2023
   },
@@ -2368,7 +2368,7 @@ const ARTISTS = [
   {
     "id": "sebadoh",
     "name": "Sebadoh",
-    "showCount": 49,
+    "showCount": 48,
     "firstYear": 1991,
     "lastYear": 2014
   },
