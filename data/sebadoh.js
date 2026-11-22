@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "sebadoh",
   "name": "Sebadoh",
   "drive": "E",
-  "showCount": 49,
+  "showCount": 48,
   "firstYear": 1991,
   "lastYear": 2014,
   "years": [
@@ -551,20 +551,6 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "FLAC",
       "textFile": "1997-03-01 - Boston, MA - Paradise (WBCN Broadcast) - ANA(3) (loughney transfer) [FM].txt"
-    },
-    {
-      "year": 1997,
-      "month": 3,
-      "day": 1,
-      "dateStr": "3-1-1997",
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "Paradise",
-      "notes": "ANA(3) · WBCN Broadcast · complete",
-      "version": "FM",
-      "format": "FLAC",
-      "textFile": "1997-03-01 - Boston, MA - Paradise - ANA(3) (WBCN Broadcast) [FM].txt"
     },
     {
       "year": 1997,
