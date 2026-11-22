@@ -2,14 +2,28 @@ const ARTIST_DATA = {
   "id": "finger-eleven",
   "name": "Finger Eleven",
   "drive": "E",
-  "showCount": 6,
-  "firstYear": 2025,
+  "showCount": 9,
+  "firstYear": 2024,
   "lastYear": 2026,
   "years": [
+    2024,
     2025,
     2026
   ],
   "shows": [
+    {
+      "year": 2024,
+      "month": 7,
+      "day": 30,
+      "dateStr": "7-30-2024",
+      "city": "Toronto",
+      "state": "ON",
+      "location": "Toronto, ON",
+      "venue": "Budweiser Stage",
+      "notes": "Zoom H1n · bowlingron",
+      "version": "AUD",
+      "format": "FLAC"
+    },
     {
       "year": 2025,
       "month": 10,
@@ -90,6 +104,32 @@ const ARTIST_DATA = {
       "location": "Port Colborne, ON",
       "venue": "H.H. Knoll Lakeview Park",
       "notes": "Zoom H1n · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "day": 31,
+      "dateStr": "10-31-2026",
+      "city": "Wolverhampton",
+      "state": "UK",
+      "location": "Wolverhampton, UK",
+      "venue": "KK's Steelmill",
+      "notes": "Zoom H1n · a11anm",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 11,
+      "day": 6,
+      "dateStr": "11-6-2026",
+      "city": "Nottingham",
+      "state": "UK",
+      "location": "Nottingham, UK",
+      "venue": "Rock City",
+      "notes": "Olympus ME-51S · a11anm",
       "version": "AUD",
       "format": "FLAC"
     }
