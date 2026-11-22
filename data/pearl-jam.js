@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "pearl-jam",
   "name": "Pearl Jam",
   "drive": "D",
-  "showCount": 1696,
+  "showCount": 1697,
   "firstYear": 1990,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1990,
     1991,
@@ -39,7 +39,8 @@ const ARTIST_DATA = {
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -23638,6 +23639,19 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC HD"
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "day": 27,
+      "dateStr": "9-27-2026",
+      "city": "Dana Point",
+      "state": "CA",
+      "location": "Dana Point, CA",
+      "venue": "Doheny Beach",
+      "notes": "Ohana Festival Night Three · unk",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
