@@ -485,7 +485,7 @@ const ARTISTS = [
   {
     "id": "claypool-gold",
     "name": "Claypool Gold",
-    "showCount": 12,
+    "showCount": 13,
     "firstYear": 2024,
     "lastYear": 2026
   },
@@ -1465,7 +1465,7 @@ const ARTISTS = [
   {
     "id": "les-claypool-s-fearless-flying-frog-brigade",
     "name": "Les Claypool's Fearless Flying Frog Brigade",
-    "showCount": 34,
+    "showCount": 35,
     "firstYear": 2000,
     "lastYear": 2023
   },
@@ -2123,9 +2123,9 @@ const ARTISTS = [
   {
     "id": "primus",
     "name": "Primus",
-    "showCount": 803,
+    "showCount": 811,
     "firstYear": 1987,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "public-enemy",
