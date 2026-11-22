@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "failure",
   "name": "Failure",
   "drive": "D",
-  "showCount": 40,
+  "showCount": 43,
   "firstYear": 1994,
   "lastYear": 2026,
   "years": [
@@ -570,6 +570,45 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4 · lachtna productions",
       "version": "AUD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "day": 11,
+      "dateStr": "10-11-2026",
+      "city": "Columbus",
+      "state": "OH",
+      "location": "Columbus, OH",
+      "venue": "A&R Music Bar",
+      "notes": "SP-CMC-8 Cardioids · charlesdeweycoleiv",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "day": 20,
+      "dateStr": "10-20-2026",
+      "city": "Indianapolis",
+      "state": "IN",
+      "location": "Indianapolis, IN",
+      "venue": "The Vogue",
+      "notes": "SP-CMC-8 · charlesdeweycoleiv",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "day": 30,
+      "dateStr": "10-30-2026",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "Belasco Theater",
+      "notes": "AKG LC81 MD · tayepurr",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
