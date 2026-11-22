@@ -1010,7 +1010,7 @@ const ARTISTS = [
   {
     "id": "green-day",
     "name": "Green Day",
-    "showCount": 355,
+    "showCount": 357,
     "firstYear": 1989,
     "lastYear": 2025
   },
