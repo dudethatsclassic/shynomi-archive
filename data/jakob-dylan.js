@@ -35,6 +35,5 @@ const ARTIST_DATA = {
       "version": "TV",
       "format": "FLAC"
     }
-  ],
-  "misc": []
+  ]
 };
