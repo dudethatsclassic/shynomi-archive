@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "the-wallflowers",
   "name": "The Wallflowers",
   "drive": "D",
-  "showCount": 39,
+  "showCount": 40,
   "firstYear": 1992,
   "lastYear": 2025,
   "years": [
@@ -36,7 +36,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Paramount Theater",
-      "notes": "unk \u00b7 bershaw",
+      "notes": "unk · bershaw",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1992-11-20 - New York, NY - Paramount Theater (unk) (bershaw) [AUD].txt"
@@ -64,7 +64,7 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Metropolis",
-      "notes": "Sennheiser MKE2002 \u00b7 stevemtl",
+      "notes": "Sennheiser MKE2002 · stevemtl",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-10-29 - Montreal, QC - Metropolis [AUD].txt"
@@ -78,7 +78,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -91,7 +91,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "DeKalb, IL",
       "venue": "Evans Field House",
-      "notes": "inc \u00b7 AKG460B \u00b7 michael devitt",
+      "notes": "inc · AKG460B · michael devitt",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-11-12 - DeKalb, IL - Evans Field House (inc) (CK63) [AUD].txt"
@@ -105,7 +105,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "UIC Pavilion",
-      "notes": "DAT(M) \u00b7 CSB \u00b7 michael devitt",
+      "notes": "DAT(M) · CSB · michael devitt",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-11-14 - Chicago, IL - UIC Pavilion (CSB) [AUD].txt"
@@ -119,7 +119,7 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Fairfax, VA",
       "venue": "George Mason Patriot Center",
-      "notes": "WHFU \u00b7 dolphinsmile",
+      "notes": "WHFU · dolphinsmile",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1996-12-08 - Fairfax, VA - George Mason Patriot Center (dolphinsmile) [FM].txt"
@@ -133,7 +133,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "Schoeps mic \u00b7 dolphinsmile",
+      "notes": "Schoeps mic · dolphinsmile",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-01-10 - San Francisco, CA - The Fillmore [AUD].txt"
@@ -147,7 +147,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Late Show with David Letterman",
-      "notes": "VHS(2) \u00b7 unk",
+      "notes": "VHS(2) · unk",
       "version": "TV",
       "format": "MKV",
       "textFile": "1997-02-19 - New York, NY - Late Show with David Letterman - VHS(2) (unk) [TV].txt"
@@ -182,6 +182,19 @@ const ARTIST_DATA = {
     },
     {
       "year": 1997,
+      "month": 3,
+      "day": 31,
+      "dateStr": "3-31-1997",
+      "city": "Palo Alto",
+      "state": "CA",
+      "location": "Palo Alto, CA",
+      "venue": "The Edge",
+      "notes": "CMC64 · kurtwilliamvogel",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1997,
       "month": 6,
       "day": 14,
       "dateStr": "6-14-1997",
@@ -189,7 +202,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows",
-      "notes": "ANA(M) \u00b7 unk",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-06-14 - Irvine, CA - Irvine Meadows [AUD].txt"
@@ -217,7 +230,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Hallandale, FL",
       "venue": "Gulfstream Park",
-      "notes": "AKG 391 \u00b7 dolphinsmile",
+      "notes": "AKG 391 · dolphinsmile",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-11-07 - Hallandale, FL - Gulfstream Park [AUD].txt"
@@ -231,7 +244,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Dodger Stadium",
-      "notes": "ANA(M) \u00b7 unk",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-11-09 - Los Angeles, CA - Dodger Stadium [AUD].txt"
@@ -245,7 +258,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "San Jose Arena",
-      "notes": "DAT(M) \u00b7 unk \u00b7 stevemtl",
+      "notes": "DAT(M) · unk · stevemtl",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-11-14 - San Jose, CA - San Jose Arena (stevemtl) [AUD].txt"
@@ -259,7 +272,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Spectrum",
-      "notes": "DAT(M) \u00b7 Schoeps MK4Vs \u00b7 bigredaudio",
+      "notes": "DAT(M) · Schoeps MK4Vs · bigredaudio",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-05-01 - Philadelphia, PA - The Spectrum (bigredaudio) [AUD].txt"
@@ -273,7 +286,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows",
-      "notes": "ANA(M) \u00b7 unk",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-06-20 - Irvine, CA - Irvine Meadows - ANA(M) (unk) [AUD].txt"
@@ -287,7 +300,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "Bridge \u00b7 Schoeps CCM4 \u00b7 kv",
+      "notes": "Bridge · Schoeps CCM4 · kv",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-10-18 - Mountain View, CA - Shoreline Amphitheatre - Bridge School Benefit 12 [AUD].txt"
@@ -301,7 +314,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "notes": "DAT(M) \u00b7 Schoeps MK4Vs \u00b7 keith litzenberger",
+      "notes": "DAT(M) · Schoeps MK4Vs · keith litzenberger",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2000-10-07 - New York, NY - Madison Square Garden [AUD].txt"
@@ -329,7 +342,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Verizon Wireless",
-      "notes": "Schoeps \u00b7 unk",
+      "notes": "Schoeps · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-05-06 - Irvine, CA - Verizon Wireless (Schoeps) [AUD].txt"
@@ -343,7 +356,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "General Motors Place",
-      "notes": "Marcsounds \u00b7 chris bold",
+      "notes": "Marcsounds · chris bold",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2001-08-10 - Vancouver, BC - General Motors Place (Marcsounds) (chris bold) [AUD].txt"
@@ -385,7 +398,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "California State Fair",
-      "notes": "Core Directionals \u00b7 mike_markov",
+      "notes": "Core Directionals · mike_markov",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-08-31 - Sacramento, CA - California State Fair [AUD].txt"
@@ -399,7 +412,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Summerfest",
-      "notes": "North \u00b7 M \u00b7 Oktava MK012s \u00b7 dk-wi",
+      "notes": "North · M · Oktava MK012s · dk-wi",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2006-07-03 - Milwaukee, WI - Summerfest - North Shore Bank Landing Stage [AUD].txt"
@@ -413,7 +426,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Glenside, PA",
       "venue": "Keswick Theatre",
-      "notes": "Shoeps MKV4 \u00b7 flying gonz/nicky c",
+      "notes": "Shoeps MKV4 · flying gonz/nicky c",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-07-02 - Glenside, PA - Keswick Theatre [AUD].txt"
@@ -441,7 +454,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Richardson, TX",
       "venue": "Wildflower Festival",
-      "notes": "Mirantz PMD620 \u00b7 unk",
+      "notes": "Mirantz PMD620 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-05-18 - Richardson, TX - Wildflower Festival (Mirantz PMD620) (unk) [AUD].txt"
@@ -455,7 +468,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Arlington, WA",
       "venue": "River Meadows County Park",
-      "notes": "Festival \u00b7 Zoom H2 \u00b7 unk",
+      "notes": "Festival · Zoom H2 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-08-09 - Arlington, WA - River Meadows County Park - Festival Of The River [AUD].txt"
@@ -469,7 +482,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Blue Hills Bank Pavilion",
-      "notes": "SP-CMC-8c \u00b7 farve4",
+      "notes": "SP-CMC-8c · farve4",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2017-06-28 - Boston, MA - Blue Hills Bank Pavilion [AUD].txt"
@@ -483,7 +496,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theater",
-      "notes": "CA-11 \u00b7 steve hanna",
+      "notes": "CA-11 · steve hanna",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-04-10 - New York, NY - Beacon Theater (CA-11) (steve hanna) [AUD].txt"
@@ -497,7 +510,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Plymouth, MA",
       "venue": "Plymouth Memorial Hall",
-      "notes": "SP-CMC-8c \u00b7 farve4",
+      "notes": "SP-CMC-8c · farve4",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-07-18 - Plymouth, MA - Plymouth Memorial Hall [AUD].txt"
@@ -525,7 +538,7 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Charleston, SC",
       "venue": "The Rivera Theater",
-      "notes": "Schoeps MK4s \u00b7 ryanj",
+      "notes": "Schoeps MK4s · ryanj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-04-15 - Charleston, SC - The Rivera Theater (Schoeps MK4s) (ryanj) [AUD].txt"
@@ -539,7 +552,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Menlo Park, CA",
       "venue": "The Guild Theatre",
-      "notes": "SP-CMC-4U \u00b7 loughney",
+      "notes": "SP-CMC-4U · loughney",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-10-03 - Menlo Park, CA - The Guild Theatre (SP-CMC-4U) (loughney) [AUD].txt"
@@ -553,7 +566,7 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Arnolds Park, IA",
       "venue": "Preservation Plaza",
-      "notes": "LyxPro SDPC-2 \u00b7 midwest sounds",
+      "notes": "LyxPro SDPC-2 · midwest sounds",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-08-09 - Arnolds Park, IA - Preservation Plaza (LyxPro SDPC-2) (midwest sounds) [AUD].txt"
@@ -567,11 +580,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "TD Garden",
-      "notes": "SP-CMC-8s \u00b7 farve4",
+      "notes": "SP-CMC-8s · farve4",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-09-16 - Boston, MA - TD Garden (SP-CMC-8s) (farve4) [AUD] .txt"
     }
-  ],
-  "misc": []
+  ]
 };
