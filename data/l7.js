@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "l7",
   "name": "L7",
   "drive": "A",
-  "showCount": 15,
+  "showCount": 16,
   "firstYear": 1989,
   "lastYear": 2024,
   "years": [
@@ -66,6 +66,19 @@ const ARTIST_DATA = {
       "location": "Cambridge, MA",
       "venue": "TT The Bear's Place",
       "notes": "ANA(x) · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1992,
+      "month": 5,
+      "day": 30,
+      "dateStr": "5-30-1992",
+      "city": "Fagersta",
+      "state": "Sweden",
+      "location": "Fagersta, Sweden",
+      "venue": "Folkets Park",
+      "notes": "Bergslagsrocken · Sony ECM 929LT · pata63",
       "version": "AUD",
       "format": "FLAC"
     },
