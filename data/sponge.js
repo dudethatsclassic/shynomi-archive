@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "sponge",
   "name": "Sponge",
   "drive": "F",
-  "showCount": 20,
+  "showCount": 22,
   "firstYear": 1995,
   "lastYear": 2026,
   "years": [
@@ -291,6 +291,32 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8-Phantom · hairybotch",
       "version": "AUD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "day": 14,
+      "dateStr": "10-14-2026",
+      "city": "Orlando",
+      "state": "FL",
+      "location": "Orlando, FL",
+      "venue": "The Plaza Live",
+      "notes": "SP-BMC-3 · kevdogg",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "day": 24,
+      "dateStr": "10-24-2026",
+      "city": "Cleveland",
+      "state": "OH",
+      "location": "Cleveland, OH",
+      "venue": "House of Blues",
+      "notes": "SP-CMC-8 Cardioids · charlesdeweycoleiv",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
