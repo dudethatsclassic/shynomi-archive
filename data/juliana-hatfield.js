@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "juliana-hatfield",
   "name": "Juliana Hatfield",
   "drive": "B",
-  "showCount": 17,
+  "showCount": 18,
   "firstYear": 1992,
   "lastYear": 2024,
   "years": [
@@ -113,6 +113,19 @@ const ARTIST_DATA = {
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1994-07-23 - New York, NY - Central Park - Summerstage (Juliana Hatfield Three) - DAT(M) [SBD].txt"
+    },
+    {
+      "year": 1995,
+      "month": 7,
+      "day": 1,
+      "dateStr": "7-1-1995",
+      "city": "Denver",
+      "state": "CO",
+      "location": "Denver, CO",
+      "venue": "Ogden Theatre",
+      "notes": "binaural mics · marcr",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1995,
