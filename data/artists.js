@@ -3047,7 +3047,7 @@ const ARTISTS = [
   {
     "id": "toad-the-wet-sprocket",
     "name": "Toad the Wet Sprocket",
-    "showCount": 349,
+    "showCount": 351,
     "firstYear": 1986,
     "lastYear": 2026
   },
