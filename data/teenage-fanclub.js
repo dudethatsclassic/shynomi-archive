@@ -214,8 +214,8 @@ const ARTIST_DATA = {
       "location": "Glasgow, UK",
       "venue": "BBC Studios Pacific Quay",
       "notes": "The · BBC4HD · bbc",
-      "version": "",
-      "format": ""
+      "version": "TV",
+      "format": "MKV"
     },
     {
       "year": 2021,
