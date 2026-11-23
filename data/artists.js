@@ -1339,7 +1339,7 @@ const ARTISTS = [
   {
     "id": "juliana-hatfield",
     "name": "Juliana Hatfield",
-    "showCount": 17,
+    "showCount": 18,
     "firstYear": 1992,
     "lastYear": 2024
   },
@@ -2564,7 +2564,7 @@ const ARTISTS = [
   {
     "id": "sponge",
     "name": "Sponge",
-    "showCount": 20,
+    "showCount": 22,
     "firstYear": 1995,
     "lastYear": 2026
   },
@@ -2739,7 +2739,7 @@ const ARTISTS = [
   {
     "id": "teenage-fanclub",
     "name": "Teenage Fanclub",
-    "showCount": 21,
+    "showCount": 22,
     "firstYear": 1991,
     "lastYear": 2025
   },
