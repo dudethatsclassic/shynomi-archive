@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "teenage-fanclub",
   "name": "Teenage Fanclub",
   "drive": "C",
-  "showCount": 21,
+  "showCount": 22,
   "firstYear": 1991,
   "lastYear": 2025,
   "years": [
@@ -15,6 +15,7 @@ const ARTIST_DATA = {
     2003,
     2005,
     2014,
+    2016,
     2021,
     2022,
     2023,
@@ -202,6 +203,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-07-26 - Carrboro, NC - Cat's Cradle (ECM-909a) (steve hanna) [AUD].txt"
+    },
+    {
+      "year": 2016,
+      "month": 12,
+      "day": 7,
+      "dateStr": "12-7-2016",
+      "city": "Glasgow",
+      "state": "UK",
+      "location": "Glasgow, UK",
+      "venue": "BBC Studios Pacific Quay",
+      "notes": "The · BBC4HD · bbc",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2021,
