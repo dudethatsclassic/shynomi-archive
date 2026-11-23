@@ -360,10 +360,10 @@ const ARTIST_MISC_DATA = [
   },
   {
     "type": "release",
-    "label": "Nirvana - Where Were You In \u00b489 (MIK 035)",
+    "label": "Nirvana - Where Were You In ´89 (MIK 035)",
     "version": "Silver CD",
     "category": "Silvers",
-    "textFile": "MISC - Nirvana - Where Were You In \u00b489 (MIK 035) [Silver].txt"
+    "textFile": "MISC - Nirvana - Where Were You In ´89 (MIK 035) [Silver].txt"
   },
   {
     "type": "release",
@@ -465,7 +465,8 @@ const ARTIST_MISC_DATA = [
     "label": "Kurt Cobain - Montage of Heck",
     "version": "Official",
     "format": "MP4",
-    "category": "OTHER"
+    "category": "OTHER",
+    "textFile": "MISC - 1985-XX-XX - Montage Of Heck.txt"
   },
   {
     "type": "release",
@@ -491,7 +492,7 @@ const ARTIST_MISC_DATA = [
     "state": "WA",
     "location": "Olympia, WA",
     "venue": "Garage",
-    "notes": "Vail \u00b7 Go Team",
+    "notes": "Vail · Go Team",
     "version": "SBD",
     "format": "FLAC"
   },
@@ -834,7 +835,7 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 1987,
     "category": "OTHER",
-    "textFile": "MISC - 198X-XX-XX - Aberdeen, WA - Cobain Residence (SBD1f).txt"
+    "textFile": "MISC - 198X-XX-XX - Aberdeen, WA - Cobain Residence (SBD#1b).txt"
   },
   {
     "type": "release",
@@ -1062,75 +1063,5 @@ const ARTIST_MISC_DATA = [
     "format": "FLAC",
     "year": 1994,
     "category": "OTHER"
-  },
-  {
-    "type": "release",
-    "label": "01-24 Radio Shack, Aberdeen, WA (american journal excerpt)",
-    "year": 1988,
-    "textFile": "MISC - 1988-01-24 Radio Shack, Aberdeen, WA (american journal excerpt).txt"
-  },
-  {
-    "type": "release",
-    "label": "04-21 - (Go Team) - Garage, Vail Residence, Olympia, WA",
-    "year": 1989
-  },
-  {
-    "type": "release",
-    "label": "04-XX - Chad Channing's Tape",
-    "year": 1990
-  },
-  {
-    "type": "release",
-    "label": "04-XX - Top Secret Tape",
-    "year": 1990
-  },
-  {
-    "type": "release",
-    "label": "10-XX - (Earth) Smegma Studios, Portland, OR",
-    "year": 1990
-  },
-  {
-    "type": "release",
-    "label": "11-XX - Laundry Room Studios, Seattle, WA",
-    "year": 1992
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Hollywood Rock Festival - Rio De Janeiro, Brazil, January 23rd, 1993 {Doxy} (2016)",
-    "year": 2016,
-    "format": "FLAC",
-    "textFile": "MISC - Nirvana - Hollywood Rock Festival - Rio De Janeiro, Brazil, January 23rd, 1993 {Doxy} (2016) [FLAC].txt"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Kurdts Kassette.flac",
-    "textFile": "MISC - Nirvana - Kurdts Kassette.flac.txt"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Live! Tonight! Sold Out!!",
-    "format": "MKV"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Loose Ends.flac",
-    "textFile": "MISC - Nirvana - Loose Ends.flac.txt"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - Saturday Night Not-So-Live (2018)",
-    "year": 2018,
-    "format": "VINYL"
-  },
-  {
-    "type": "release",
-    "label": "Nirvana - The Rare Recordings {Lilith} (2016)",
-    "year": 2016,
-    "format": "FLAC"
-  },
-  {
-    "type": "release",
-    "label": "Total Fucking Godhead 7''",
-    "textFile": "MISC - Total Fucking Godhead 7''.txt"
   }
 ];
