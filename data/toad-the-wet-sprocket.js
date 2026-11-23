@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "toad-the-wet-sprocket",
   "name": "Toad the Wet Sprocket",
   "drive": "F",
-  "showCount": 351,
+  "showCount": 352,
   "firstYear": 1986,
   "lastYear": 2026,
   "years": [
@@ -4931,6 +4931,19 @@ const ARTIST_DATA = {
       "notes": "Church Audio CA 14 · jonpasternak",
       "version": "AUD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "day": 21,
+      "dateStr": "10-21-2026",
+      "city": "Morristown",
+      "state": "NJ",
+      "location": "Morristown, NJ",
+      "venue": "Mayo Performing Arts Center",
+      "notes": "iPhone 17 Pro · dforrest",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };
