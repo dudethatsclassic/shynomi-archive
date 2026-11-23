@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "sevendust",
   "name": "Sevendust",
   "drive": "E",
-  "showCount": 47,
+  "showCount": 48,
   "firstYear": 1998,
   "lastYear": 2026,
   "years": [
@@ -53,6 +53,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-07-08 - State College, PA - The Crowbar (unk) [AUD].txt"
+    },
+    {
+      "year": 1999,
+      "month": 7,
+      "day": 11,
+      "dateStr": "7-11-1999",
+      "city": "Denver",
+      "state": "CO",
+      "location": "Denver, CO",
+      "venue": "Mile High Stadium",
+      "notes": "CSC · sxpdxcx",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1999,
