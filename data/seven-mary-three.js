@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "seven-mary-three",
   "name": "Seven Mary Three",
   "drive": "D",
-  "showCount": 17,
+  "showCount": 18,
   "firstYear": 1995,
   "lastYear": 2012,
   "years": [
@@ -73,6 +73,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-01-27 - Dallas, TX - Deep Ellum Live [AUD].flac.txt"
+    },
+    {
+      "year": 1996,
+      "month": 3,
+      "day": 2,
+      "dateStr": "3-2-1996",
+      "city": "Toronto",
+      "state": "ON",
+      "location": "Toronto, ON",
+      "venue": "Lee's Palace",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1996,
