@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "chris-cornell",
   "name": "Chris Cornell",
   "drive": "F",
-  "showCount": 85,
+  "showCount": 86,
   "firstYear": 1999,
   "lastYear": 2019,
   "years": [
@@ -407,6 +407,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2007-12-08 - Buenos Aires, Argentina - Club Ciudad [AUD].txt"
+    },
+    {
+      "year": 2007,
+      "month": 12,
+      "day": 8,
+      "dateStr": "12-8-2007",
+      "city": "Buenos Aires",
+      "state": "Argentina",
+      "location": "Buenos Aires, Argentina",
+      "venue": "Personal Festival",
+      "notes": "",
+      "version": "PRO #1",
+      "format": "DVD"
     },
     {
       "year": 2008,
