@@ -2396,14 +2396,14 @@ const ARTISTS = [
   {
     "id": "seven-mary-three",
     "name": "Seven Mary Three",
-    "showCount": 17,
+    "showCount": 18,
     "firstYear": 1995,
     "lastYear": 2012
   },
   {
     "id": "sevendust",
     "name": "Sevendust",
-    "showCount": 47,
+    "showCount": 48,
     "firstYear": 1998,
     "lastYear": 2026
   },
@@ -3145,7 +3145,7 @@ const ARTISTS = [
   {
     "id": "ugly-kid-joe",
     "name": "Ugly Kid Joe",
-    "showCount": 10,
+    "showCount": 11,
     "firstYear": 1992,
     "lastYear": 2025
   },
