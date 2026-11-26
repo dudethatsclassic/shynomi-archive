@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "ugly-kid-joe",
   "name": "Ugly Kid Joe",
   "drive": "A",
-  "showCount": 10,
+  "showCount": 11,
   "firstYear": 1992,
   "lastYear": 2025,
   "years": [
@@ -14,6 +14,19 @@ const ARTIST_DATA = {
     2025
   ],
   "shows": [
+    {
+      "year": 1992,
+      "month": 2,
+      "day": 7,
+      "dateStr": "2-7-1992",
+      "city": "Brockton",
+      "state": "MA",
+      "location": "Brockton, MA",
+      "venue": "Deringers",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
     {
       "year": 1992,
       "month": 2,
