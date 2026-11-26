@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "smashing-pumpkins",
   "name": "Smashing Pumpkins",
   "drive": "B",
-  "showCount": 1814,
+  "showCount": 1815,
   "firstYear": 1988,
   "lastYear": 2026,
   "years": [
@@ -25129,6 +25129,19 @@ const ARTIST_DATA = {
       "location": "Denver, CO",
       "venue": "Ball Arena (VIP set)",
       "notes": "WAV(M) · Zoom H1 · 2ndtheory",
+      "version": "AUD #1",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 11,
+      "day": 8,
+      "dateStr": "11-8-2026",
+      "city": "San Jose",
+      "state": "CA",
+      "location": "San Jose, CA",
+      "venue": "SAP Center",
+      "notes": "Schoeps MK4 · unk",
       "version": "AUD #1",
       "format": "FLAC 24"
     },
