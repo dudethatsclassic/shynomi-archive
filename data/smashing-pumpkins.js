@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "smashing-pumpkins",
   "name": "Smashing Pumpkins",
   "drive": "B",
-  "showCount": 1810,
+  "showCount": 1811,
   "firstYear": 1988,
   "lastYear": 2026,
   "years": [
@@ -25079,6 +25079,19 @@ const ARTIST_DATA = {
       "notes": "CA-14 · unk",
       "version": "AUD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "day": 20,
+      "dateStr": "10-20-2026",
+      "city": "Indianapolis",
+      "state": "IN",
+      "location": "Indianapolis, IN",
+      "venue": "Gainbridge Fieldhouse",
+      "notes": "Sound Professionals CMC-08s · ironchef",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1988,
