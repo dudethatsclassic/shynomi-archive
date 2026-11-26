@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "guster",
   "name": "Guster",
   "drive": "C",
-  "showCount": 873,
+  "showCount": 876,
   "firstYear": 1992,
   "lastYear": 2026,
   "years": [
@@ -10685,6 +10685,19 @@ const ARTIST_DATA = {
     {
       "year": 2023,
       "month": 4,
+      "day": 4,
+      "dateStr": "4-4-2023",
+      "city": "Northampton",
+      "state": "MA",
+      "location": "Northampton, MA",
+      "venue": "Northampton School Of Music",
+      "notes": "MZR50 · brianh",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2023,
+      "month": 4,
       "day": 7,
       "dateStr": "4-7-2023",
       "city": "Philadelphia",
@@ -10918,6 +10931,19 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-08-08 - Canandaigua, NY - Lincoln Hill Farms (AT4041) (dgodwin) [AUD24].rtf"
+    },
+    {
+      "year": 2023,
+      "month": 8,
+      "day": 9,
+      "dateStr": "8-9-2023",
+      "city": "Hartford",
+      "state": "CT",
+      "location": "Hartford, CT",
+      "venue": "Old State House",
+      "notes": "MZR50 · brianh",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -12235,6 +12261,19 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Wolf Trap",
+      "notes": "Church Audio 14 · dennisheyman",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 11,
+      "day": 20,
+      "dateStr": "11-20-2026",
+      "city": "Brooklyn",
+      "state": "NY",
+      "location": "Brooklyn, NY",
+      "venue": "Music Hall of Williamsburg",
       "notes": "Church Audio 14 · dennisheyman",
       "version": "AUD",
       "format": "FLAC 24"
