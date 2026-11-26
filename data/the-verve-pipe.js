@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "the-verve-pipe",
   "name": "The Verve Pipe",
   "drive": "B",
-  "showCount": 33,
+  "showCount": 34,
   "firstYear": 1997,
   "lastYear": 2026,
   "years": [
@@ -479,6 +479,19 @@ const ARTIST_DATA = {
       "notes": "CA-14 Cardioids · charlesdeweycoleiv",
       "version": "AUD",
       "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 11,
+      "day": 14,
+      "dateStr": "11-14-2026",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "location": "Ann Arbor, MI",
+      "venue": "The Ark",
+      "notes": "DPA4060 · charlesdeweycoleiv",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
   ]
 };
