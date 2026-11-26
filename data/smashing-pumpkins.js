@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "smashing-pumpkins",
   "name": "Smashing Pumpkins",
   "drive": "B",
-  "showCount": 1813,
+  "showCount": 1814,
   "firstYear": 1988,
   "lastYear": 2026,
   "years": [
@@ -25118,6 +25118,19 @@ const ARTIST_DATA = {
       "notes": "Sound Professionals CMC-08s · ironchef",
       "version": "AUD",
       "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "day": 27,
+      "dateStr": "10-27-2026",
+      "city": "Denver",
+      "state": "CO",
+      "location": "Denver, CO",
+      "venue": "Ball Arena (VIP set)",
+      "notes": "WAV(M) · Zoom H1 · 2ndtheory",
+      "version": "AUD #1",
+      "format": "FLAC 24"
     },
     {
       "year": 1988,
