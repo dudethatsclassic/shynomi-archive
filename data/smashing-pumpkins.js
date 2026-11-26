@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "smashing-pumpkins",
   "name": "Smashing Pumpkins",
   "drive": "B",
-  "showCount": 1811,
+  "showCount": 1812,
   "firstYear": 1988,
   "lastYear": 2026,
   "years": [
@@ -25066,6 +25066,19 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "day": 4,
+      "dateStr": "10-4-2026",
+      "city": "Brooklyn",
+      "state": "NY",
+      "location": "Brooklyn, NY",
+      "venue": "Barclays Center (VIP set)",
+      "notes": "M4A(M) · Samsung S25 · geoffrey pelz",
+      "version": "AUD #1",
+      "format": "FLAC"
     },
     {
       "year": 2026,
