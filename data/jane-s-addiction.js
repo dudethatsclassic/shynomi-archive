@@ -1042,7 +1042,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "John Anson Ford Theatre",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1989-04-22 - Los Angeles, CA - John Anson Ford Theatre [AUD].txt"
@@ -1055,11 +1055,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "John Anson Ford Theatre",
-      "notes": "",
+      "venue": "John Anson Ford Theater",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1989-04-25 - Los Angeles, CA - John Anson Ford Theatre [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -1070,7 +1069,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "John Anson Ford Theatre",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1989-04-28 - Los Angeles, CA - John Anson Ford Theatre [AUD].txt"
@@ -1098,7 +1097,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore West",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1989-05-08 - San Francisco, CA - Fillmore West [AUD].txt"
