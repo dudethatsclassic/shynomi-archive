@@ -1110,11 +1110,10 @@ const ARTIST_DATA = {
       "city": "San Diego",
       "state": "CA",
       "location": "San Diego, CA",
-      "venue": "San Diego State University",
+      "venue": "San Diego State University *Amok",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "textFile": "1989-05-11 - San Diego, CA - San Diego State University [Silver].txt"
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -1125,7 +1124,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Palace",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "SHN",
       "textFile": "1989-07-11 - Los Angeles, CA - The Palace [AUD].txt"
@@ -1153,7 +1152,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Subterania",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-08-22 - London, UK - Subterania [AUD].txt"
@@ -1167,7 +1166,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Subterania",
-      "notes": "ANA(M) · Aiwa HS-J800",
+      "notes": "ANA(M) · Loss of voice · Aiwa HS-J800 · hedfro",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-08-23 - London, UK - Subterania - ANA(M) (Aiwa HS-J800) [AUD].txt"
@@ -1180,11 +1179,10 @@ const ARTIST_DATA = {
       "city": "Manchester",
       "state": "UK",
       "location": "Manchester, UK",
-      "venue": "Interanational II",
-      "notes": "",
+      "venue": "International II",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1990-09-28 - Manchester, UK - Interanational II [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -1195,7 +1193,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Astoria Theatre",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-10-05 - London, UK - Astoria Theatre [AUD].txt"
@@ -1209,7 +1207,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Elysee Montmartre",
-      "notes": "cc",
+      "notes": "Sony Mic · cc",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-10-09 - Paris, France - Elysee Montmartre [AUD].txt"
@@ -1219,11 +1217,11 @@ const ARTIST_DATA = {
       "month": 10,
       "day": 11,
       "dateStr": "10-11-1990",
-      "city": "Milan Italy",
-      "state": "",
-      "location": "Milan Italy",
+      "city": "Milan",
+      "state": "Italy",
+      "location": "Milan, Italy",
       "venue": "City Square",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-10-11 - Milan Italy - City Square [AUD].txt"
@@ -1237,7 +1235,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milan Italy",
       "venue": "City Square",
-      "notes": "",
+      "notes": "unk",
       "version": "PRO",
       "format": "DVD",
       "textFile": "1990-10-11 - Milan, Italy - City Square [DVD].txt"
@@ -1251,7 +1249,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Bochum, Germany",
       "venue": "Die Zeche",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-10-15 - Bochum, Germany - Die Zeche [AUD].txt"
@@ -1265,7 +1263,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Markethalle",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-10-17 - Hamburg, Germany - Markethalle [AUD].txt"
@@ -1279,7 +1277,7 @@ const ARTIST_DATA = {
       "state": "Holland",
       "location": "Amsterdam, Holland",
       "venue": "The Melkweg",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-10-19 - Amsterdam, Holland - The Melkweg [AUD].txt"
@@ -1293,7 +1291,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Henry Fonda Theatre",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-10-31 - Los Angeles, CA - Henry Fonda Theatre [AUD].txt"
@@ -1307,7 +1305,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "La Jolla, CA",
       "venue": "UCSD Price Center Ballroom",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-11-03 - La Jolla, CA - UCSD Price Center Ballroom [AUD].txt"
@@ -1321,7 +1319,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Celebrity Theater",
-      "notes": "david homes",
+      "notes": "ANA(M) · david homes",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-11-04 - Phoenix, AZ - Celebrity Theater [AUD].txt"
@@ -1335,7 +1333,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "The Unicorn",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-11-08 - Houston, TX - The Unicorn [AUD].txt"
@@ -1349,7 +1347,7 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Norfolk, VA",
       "venue": "Boathouse",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-11-15 - Norfolk, VA - Boathouse [AUD].txt"
@@ -1377,7 +1375,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Ritz",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-11-20 - New York, NY - The Ritz [AUD].txt"
@@ -1405,7 +1403,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Ritz",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-11-21 - New York, NY - The Ritz [AUD].txt"
@@ -1447,7 +1445,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Latin Quarter",
-      "notes": "",
+      "notes": "Rollins set included · unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1990-11-28 - Detroit, MI - Latin Quarter (Rollins set included) [AUD].txt"
@@ -1472,10 +1470,10 @@ const ARTIST_DATA = {
       "day": 10,
       "dateStr": "12-10-1990",
       "city": "Vancouver",
-      "state": "BC",
-      "location": "Vancouver, BC",
+      "state": "Canada",
+      "location": "Vancouver, Canada",
       "venue": "P.N.E. Forum",
-      "notes": "audioarchivist U-101",
+      "notes": "Sony WM-D3 · audioarchivist",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-12-10 - Vancouver, BC - P.N.E. Forum [AUD].txt"
@@ -1488,11 +1486,10 @@ const ARTIST_DATA = {
       "city": "San Jose",
       "state": "CA",
       "location": "San Jose, CA",
-      "venue": "San Jose University",
-      "notes": "",
+      "venue": "San José State University Event Center",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1990-12-14 - San Jose, CA - San Jose University [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -1503,10 +1500,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Civic Auditorium",
-      "notes": "AUD1",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1990-12-15 - San Francisco, CA - Civic Auditorium [AUD2].txt"
+      "notes": "unk",
+      "version": "AUD #1",
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -1517,10 +1513,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Civic Auditorium",
-      "notes": "AUD2",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1990-12-15 - San Francisco, CA - Civic Auditorium [AUD2].txt"
+      "notes": "unk",
+      "version": "AUD #2",
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -1531,7 +1526,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Hollywood Palladium",
-      "notes": "VHS sourced",
+      "notes": "VHS sourced · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-12-18 - Los Angeles, CA - Hollywood Palladium (VHS sourced) [AUD].txt"
@@ -1559,7 +1554,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Hollywood Palladium",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1990-12-20 - Los Angeles, CA - Hollywood Palladium [AUD].txt"
@@ -1573,10 +1568,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tempe, AZ",
       "venue": "Arizona State University",
-      "notes": "Activity · AUD1",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1991-01-28 - Tempe, AZ - Arizona State University - Activity Center [AUD2].txt"
+      "notes": "Activity · unk",
+      "version": "AUD #1",
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -1587,10 +1581,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tempe, AZ",
       "venue": "Arizona State University",
-      "notes": "Activity · AUD2",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1991-01-28 - Tempe, AZ - Arizona State University - Activity Center [AUD2].txt"
+      "notes": "Activity · unk",
+      "version": "AUD #2",
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -1601,7 +1594,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Universial Ampitheater",
-      "notes": "DAT(M)",
+      "notes": "DAT(M) · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-02-04 - Los Angeles, CA - Universial Ampitheater [AUD].txt"
@@ -1615,7 +1608,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "City Coliseum",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-02-10 - Austin, TX - City Coliseum [AUD].txt"
@@ -1629,7 +1622,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Memorial Hall",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-02-12 - Kansas City, MO - Memorial Hall [AUD].txt"
