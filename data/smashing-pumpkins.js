@@ -25116,7 +25116,7 @@ const ARTIST_DATA = {
       "location": "Indianapolis, IN",
       "venue": "Gainbridge Fieldhouse",
       "notes": "Sound Professionals CMC-08s · ironchef",
-      "version": "AUD",
+      "version": "AUD #2",
       "format": "FLAC"
     },
     {
