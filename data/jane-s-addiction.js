@@ -3010,7 +3010,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Comcast Center",
-      "notes": "bennyblanco",
+      "notes": "DPA 4061 · bennyblanco",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-06-03 - Mansfield, MA - Comcast Center [AUD].txt"
@@ -3025,9 +3025,8 @@ const ARTIST_DATA = {
       "location": "Camden, NJ",
       "venue": "Susquehanna Bank Center",
       "notes": "MK4 · m. watson",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-06-05 - Camden, NJ - Susquehanna Bank Center [AUD3].txt"
+      "version": "AUD #1",
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -3039,9 +3038,8 @@ const ARTIST_DATA = {
       "location": "Camden, NJ",
       "venue": "Susquehanna Bank Center",
       "notes": "DPA 4061 · bennyblanco",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-06-05 - Camden, NJ - Susquehanna Bank Center [AUD3].txt"
+      "version": "AUD #2",
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -3052,10 +3050,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Camden, NJ",
       "venue": "Susquehanna Bank Center",
-      "notes": "t.j. samulis",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-06-05 - Camden, NJ - Susquehanna Bank Center [AUD3].txt"
+      "notes": "Schoeps mk41 · t.j. samulis",
+      "version": "AUD3",
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -3066,10 +3063,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Holmdel, NJ",
       "venue": "PNC Bank Arts Center",
-      "notes": "su6oxone",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-06-06 - Holmdel, NJ - PNC Bank Arts Center [AUD2].txt"
+      "notes": "Schoeps MK4/CMC6 · su6oxone",
+      "version": "AUD #1",
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -3080,10 +3076,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Holmdel, NJ",
       "venue": "PNC Bank Arts Center",
-      "notes": "ninslave",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-06-06 - Holmdel, NJ - PNC Bank Arts Center [AUD2].txt"
+      "notes": "Sony ECM-719 · ninslave",
+      "version": "AUD #2",
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -3094,7 +3089,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Burgettstown, PA",
       "venue": "Post-Gazzette Pavilion",
-      "notes": "nikres",
+      "notes": "Dynamic Audio Binaurals · nikres",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-06-10 - Burgettstown, PA - Post-Gazzette Pavilion [AUD].txt"
@@ -3108,7 +3103,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Verizon Wireless Amphitheatre",
-      "notes": "univonc",
+      "notes": "Core Sound Dual DPA 4061 · univonc",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-06-12 - Charlotte, NC - Verizon Wireless Amphitheatre [AUD].txt"
@@ -3118,11 +3113,11 @@ const ARTIST_DATA = {
       "month": 7,
       "day": 12,
       "dateStr": "7-12-2009",
-      "city": "Kildaire",
+      "city": "Naas",
       "state": "Ireland",
-      "location": "Kildaire, Ireland",
+      "location": "Naas, Ireland",
       "venue": "Punchestown Racecourse",
-      "notes": "Oxygen · MR2 Petofi",
+      "notes": "Oxygen · unk",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2009-07-12 - Kildaire, Ireland - Punchestown Racecourse - Oxygen Festival [FM].txt"
@@ -3136,7 +3131,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Manchester Evening News",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -3149,7 +3144,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Grant Park",
-      "notes": "Lollapalooza · Edirol R-09",
+      "notes": "Lollapalooza · Edirol R-09 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-08-09 - Chicago, IL - Grant Park (Lollapalooza) [AUD].txt"
@@ -3163,7 +3158,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Brisbane, Australia",
       "venue": "RNA Showgrounds",
-      "notes": "Soundwave · javier",
+      "notes": "Soundwave · Giant Squid Cardioids · javier",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-02-20 - Brisbane, Australia - RNA Showgrounds - Soundwave Festival [AUD].txt"
@@ -3177,7 +3172,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "The Palace Theatre",
-      "notes": "javier",
+      "notes": "Giant Squid Cardioids · javier",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-02-24 - Melbourne, Australia - The Palace Theatre [AUD].txt"
@@ -3191,7 +3186,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Bardot",
-      "notes": "handsome mike",
+      "notes": "Sony ECM-MS957 · handsome mike",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-05-05 - Hollywood, CA - Bardot [AUD].txt"
@@ -3205,7 +3200,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Roxy",
-      "notes": "Edirol RH-09",
+      "notes": "Edirol R-09 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-07-02 - Hollywood, CA - The Roxy [AUD].txt"
@@ -3232,11 +3227,11 @@ const ARTIST_DATA = {
       "city": "Santiago",
       "state": "Chile",
       "location": "Santiago, Chile",
-      "venue": "Parque O' Higgings",
-      "notes": "Lollapalooza · CA-11 · realkuka",
+      "venue": "Parque O'Higgins",
+      "notes": "Lollapalooza · CA-11 cardioids · realkuka",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-04-03 - Santiago, Chile - Parque O' Higgings (Lollapalooza) [AUD].txt"
+      "textFile": "2011-04-03 - Santiago, Chile - Parque O'Higgins (MM-MCSM-4) (rony kohn) [AUD].txt"
     },
     {
       "year": 2011,
@@ -3247,7 +3242,7 @@ const ARTIST_DATA = {
       "state": "Chile",
       "location": "Santiago, Chile",
       "venue": "Parque O'Higgins",
-      "notes": "MM-MCSM-4 · rony kohn",
+      "notes": "Lollapalooza · MM-MCSM-4 · rony kohn",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-04-03 - Santiago, Chile - Parque O'Higgins (MM-MCSM-4) (rony kohn) [AUD].txt"
@@ -3261,7 +3256,7 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Ottawa, Canada",
       "venue": "MBNA Stage",
-      "notes": "H2 Zoom · bootlegottawa",
+      "notes": "Ottawa · H2 Zoom · bootlegottawa",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-07-16 - Ottawa, Canada - MBNA Stage (H2 Zoom) (bootlegottawa) [AUD].txt"
@@ -3274,11 +3269,10 @@ const ARTIST_DATA = {
       "city": "Bridgeport",
       "state": "CT",
       "location": "Bridgeport, CT",
-      "venue": "Seaside Park",
-      "notes": "chuck doll",
-      "version": "FM",
-      "format": "FLAC",
-      "textFile": "2011-07-23 - Bridgeport, CT - Seaside Park (chuck doll) [FM].txt"
+      "venue": "Seaside Park *Gathering Of The Vibes",
+      "notes": "Neumann KM184 · rob clarke",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -3288,11 +3282,10 @@ const ARTIST_DATA = {
       "city": "Bridgeport",
       "state": "CT",
       "location": "Bridgeport, CT",
-      "venue": "Seaside Park",
-      "notes": "Neumann KM184s · rob clarke",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2011-07-23 - Bridgeport, CT - Seaside Park (Neumann KM184s) (rob clarke) [AUD].txt"
+      "venue": "Seaside Park *Gathering of the Vibes",
+      "notes": "chuck doll",
+      "version": "FM",
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -3331,7 +3324,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Gibson Amphitheatre",
-      "notes": "KROQ",
+      "notes": "KROQ · unk",
       "version": "WEB",
       "format": "FLAC",
       "textFile": "2011-12-11 - Universal City, CA - Gibson Amphitheatre - KROQ Almost Acoustic Christmas [WEB].txt"
@@ -3345,7 +3338,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Auditorium Theatre",
-      "notes": "beatkilla",
+      "notes": "AT853 · beatkilla",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-02-29 - Rochester, NY - Auditorium Theatre (BEATKILLA) [AUD].txt"
@@ -3359,7 +3352,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Eagles Ballroom",
-      "notes": "john bottorff",
+      "notes": "MS-BMC-3 · john bottorff",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-03-24 - Milwaukee, WI - Eagles Ballroom [AUD].txt"
@@ -3369,11 +3362,11 @@ const ARTIST_DATA = {
       "month": 4,
       "day": 8,
       "dateStr": "4-8-2012",
-      "city": "Sao Pablo",
+      "city": "São Paulo",
       "state": "Brazil",
-      "location": "Sao Pablo, Brazil",
+      "location": "São Paulo, Brazil",
       "venue": "Jockey Club",
-      "notes": "Lollapalooza · king_ganesha",
+      "notes": "Lollapalooza · unk",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "2012-04-08 - Sao Pablo, Brazil - Jockey Club - Lollapalooza [SBD].txt"
@@ -3387,7 +3380,7 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "Birmingham-Jefferson Convention Complex Sheraton",
-      "notes": "Tascam DR-2d · steve hagar",
+      "notes": "Schaeffer · Tascam DR-2d · steve hagar",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-05-04 - Birmingham, AL - Birmingham-Jefferson Convention Complex Sheraton (Tascam DR-2d) (steve hagar) [AUD].txt"
@@ -3401,7 +3394,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Memphis, TN",
       "venue": "Beale Street Music Festival",
-      "notes": "teddyboy",
+      "notes": "Bud · Tascam DR-2d · teddyboy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-05-05 - Memphis, TN - Beale Street Music Festival [AUD].txt"
@@ -3414,11 +3407,10 @@ const ARTIST_DATA = {
       "city": "Miami Beach",
       "state": "FL",
       "location": "Miami Beach, FL",
-      "venue": "The Fillmore",
-      "notes": "SP-CMC-8",
+      "venue": "The Fillmore Miami",
+      "notes": "SP-CMC-8 · mr. foo",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2012-05-18 - Miami Beach, FL - The Fillmore [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -3429,7 +3421,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Lewiston, NY",
       "venue": "Artpark",
-      "notes": "guy incognito",
+      "notes": "CA11s · guy incognito",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2012-08-20 - Lewiston, NY - Artpark [AUD].txt"
@@ -3443,7 +3435,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Jimmy Kimmel Live",
-      "notes": "DSM 6",
+      "notes": "DSM6 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2013-10-30 - Los Angeles, CA - Jimmy Kimmel Live [AUD].txt"
@@ -3457,7 +3449,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
-      "notes": "Schoeps MK4 · mw",
+      "notes": "Schoeps mk4 · m.w.",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2015-05-16 - Philadelphia, PA - Electric Factory (Schoeps MK4) (mw) [AUD].txt"
@@ -3471,7 +3463,7 @@ const ARTIST_DATA = {
       "state": "AK",
       "location": "Fairbanks, AK",
       "venue": "The Blue Loon",
-      "notes": "steve hagar",
+      "notes": "Tascam DR-2D · steve hagar",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2015-07-24 - Fairbanks, AK - The Blue Loon [AUD].txt"
@@ -3485,7 +3477,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Download Festival",
-      "notes": "moka17",
+      "notes": "Hippodrome · CA11's · moka17",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2016-06-11 - Paris, France - Download Festival [AUD].txt"
