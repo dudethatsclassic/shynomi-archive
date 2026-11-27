@@ -2532,7 +2532,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Spreckels Theatre",
-      "notes": "the ramblin taper master",
+      "notes": "Sony PCM-M1 · ramblin",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-02-08 - San Diego, CA - Spreckels Theatre [AUD].txt"
@@ -2543,12 +2543,12 @@ const ARTIST_DATA = {
       "day": 24,
       "dateStr": "5-24-2003",
       "city": "Washington",
-      "state": "D.C.",
-      "location": "Washington, D.C.",
+      "state": "DC",
+      "location": "Washington, DC",
       "venue": "RFK Stadium",
-      "notes": "WHFS",
+      "notes": "WHFS · unk",
       "version": "SBD",
-      "format": "FLAC",
+      "format": "SHN",
       "textFile": "2003-05-24 - Washington, D.C. - RFK Stadium - WHFS Festival [SBD].txt"
     },
     {
@@ -2560,7 +2560,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Germain Amphitheatre",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-07-13 - Columbus, OH - Germain Amphitheatre [AUD].txt"
@@ -2588,7 +2588,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cuyahoga Falls, OH",
       "venue": "Blossom Music Center",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-07-20 - Cuyahoga Falls, OH - Blossom Music Center [AUD].txt"
@@ -2602,7 +2602,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Camden, NJ",
       "venue": "Tweeter Center",
-      "notes": "DPA 4022",
+      "notes": "DPA4022 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-07-27 - Camden, NJ - Tweeter Center [AUD].txt"
@@ -2630,7 +2630,7 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "Lollapalooza",
-      "notes": "DME 50",
+      "notes": "DME 50 · shawn carlyle",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2003-08-21 - Salt Lake City, UT - Lollapalooza [AUD].txt"
@@ -2644,7 +2644,7 @@ const ARTIST_DATA = {
       "state": "Norway",
       "location": "Oslo, Norway",
       "venue": "Rockefeller",
-      "notes": "ECM-MS957",
+      "notes": "Sony ECM-MS957 · unk",
       "version": "AUD",
       "format": "SHN",
       "textFile": "2003-10-21 - Oslo, Norway - Rockefeller [AUD].txt"
@@ -2658,7 +2658,7 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Cirkus",
-      "notes": "thir13en remaster",
+      "notes": "13 Remaster · unk",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2003-10-23 - Stockholm, Sweden - Cirkus (13 Remaster) [FM].txt"
@@ -2672,7 +2672,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Elysee Montmartre",
-      "notes": "OUI",
+      "notes": "unk",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2003-10-25 - Paris, France - Elysee Montmartre [FM].txt"
@@ -2714,7 +2714,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "La Cita",
-      "notes": "darshun",
+      "notes": "Edirol R09 · darshun",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-10-23 - Los Angeles, CA - La Cita [AUD].txt"
@@ -2728,7 +2728,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Echo Park, CA",
       "venue": "The EchoPlex",
-      "notes": "darshun",
+      "notes": "Edirol R09 · darshun",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-02-16 - Echo Park, CA - The EchoPlex [AUD].txt"
@@ -2742,7 +2742,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "West Palm Beach, FL",
       "venue": "Cruzan Amphitheatre",
-      "notes": "mr. foo",
+      "notes": "SP-CMC-2 · mr. foo",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-05-08 - West Palm Beach, FL - Cruzan Amphitheatre [AUD].txt"
@@ -2770,9 +2770,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Lakewood Amphitheatre",
-      "notes": "jb",
+      "notes": "Edirol R9 · jb",
       "version": "AUD",
-      "format": "FLAC",
+      "format": "FLAC 24",
       "textFile": "2009-05-10 - Atlanta, GA - Lakewood Amphitheatre [AUD24].txt"
     },
     {
@@ -2798,7 +2798,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Chula Vista, CA",
       "venue": "Cricket Wireless",
-      "notes": "AT943",
+      "notes": "AT943 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-05-16 - Chula Vista, CA - Cricket Wireless [AUD].txt"
@@ -2812,7 +2812,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Verizon Wireless Amphitheatre",
-      "notes": "nate pottker",
+      "notes": "ECM DS70P · nate pottker",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-05-20 - Irvine, CA - Verizon Wireless Amphitheatre [AUD].txt"
@@ -2826,10 +2826,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Barbara, CA",
       "venue": "Santa Barbara Bowl",
-      "notes": "ronmcintosh",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-05-21 - Santa Barbara, CA - Santa Barbara Bowl [AUD2].txt"
+      "notes": "Edirol R 09HR · ronmcintosh",
+      "version": "AUD #1",
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -2840,10 +2839,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Barbara, CA",
       "venue": "Santa Barbara Bowl",
-      "notes": "DSM6",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-05-21 - Santa Barbara, CA - Santa Barbara Bowl [AUD2].txt"
+      "notes": "DSM6 · unk",
+      "version": "AUD #2",
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -2854,10 +2852,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "KM140s",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-05-22 - Mountain View, CA - Shoreline Amphitheatre [AUD1].txt"
+      "notes": "Neumann KM140s · unk",
+      "version": "AUD #1",
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -2868,10 +2865,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "thebang",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-05-22 - Mountain View, CA - Shoreline Amphitheatre [AUD1].txt"
+      "notes": "CA-14 cardioid · thebang",
+      "version": "AUD #2",
+      "format": "FLAC 24"
     },
     {
       "year": 2009,
@@ -2883,9 +2879,8 @@ const ARTIST_DATA = {
       "location": "Kansas City, MO",
       "venue": "Starlight Theater",
       "notes": "DPA 4061 · elwoodblues",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-05-27 - Kansas City, MO - Starlight Theater [AUD3].txt"
+      "version": "AUD #1",
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -2897,9 +2892,8 @@ const ARTIST_DATA = {
       "location": "Kansas City, MO",
       "venue": "Starlight Theater",
       "notes": "CA-14 · elwoodblues",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-05-27 - Kansas City, MO - Starlight Theater [AUD3].txt"
+      "version": "AUD #2",
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -2910,10 +2904,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Starlight Theater",
-      "notes": "CSB",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-05-27 - Kansas City, MO - Starlight Theater [AUD3].txt"
+      "notes": "CSB · unk",
+      "version": "AUD #3",
+      "format": "FLAC 24"
     },
     {
       "year": 2009,
@@ -2924,10 +2917,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Verizon Wireless Music Center",
-      "notes": "brianblank",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-05-30 - Noblesville, IN - Verizon Wireless Music Center [AUD2].txt"
+      "notes": "Core Sound LC Binaurals · brianblank",
+      "version": "AUD #1",
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -2938,52 +2930,48 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Verizon Wireless Music Center",
-      "notes": "darktrain",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-05-30 - Noblesville, IN - Verizon Wireless Music Center [AUD2].txt"
+      "notes": "MM-HLSC-1's · darktrain",
+      "version": "AUD #2",
+      "format": "FLAC"
     },
     {
       "year": 2009,
       "month": 5,
       "day": 31,
       "dateStr": "5-31-2009",
-      "city": "Carkston",
+      "city": "Clarkston",
       "state": "MI",
-      "location": "Carkston, MI",
+      "location": "Clarkston, MI",
       "venue": "DTE Energy Music Theater",
-      "notes": "chris m.",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-05-31 - Carkston, MI - DTE Energy Music Theater [AUD3].txt"
+      "notes": "Edirol R-09HR · chris m",
+      "version": "AUD #1",
+      "format": "FLAC 24"
     },
     {
       "year": 2009,
       "month": 5,
       "day": 31,
       "dateStr": "5-31-2009",
-      "city": "Carkston",
+      "city": "Clarkston",
       "state": "MI",
-      "location": "Carkston, MI",
-      "venue": "DTE Energy Music Theater",
-      "notes": "richard simms",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-05-31 - Carkston, MI - DTE Energy Music Theater [AUD3].txt"
+      "location": "Clarkston, MI",
+      "venue": "DTE Energy Music Theatre",
+      "notes": "AKG c460b/ck61 · richard simms",
+      "version": "AUD #2",
+      "format": "FLAC"
     },
     {
       "year": 2009,
       "month": 5,
       "day": 31,
       "dateStr": "5-31-2009",
-      "city": "Carkston",
+      "city": "Clarkston",
       "state": "MI",
-      "location": "Carkston, MI",
+      "location": "Clarkston, MI",
       "venue": "DTE Energy Music Theater",
-      "notes": "ryan j.",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2009-05-31 - Carkston, MI - DTE Energy Music Theater [AUD3].txt"
+      "notes": "NIN · DPA 4060 · ryanjonik",
+      "version": "AUD #3",
+      "format": "FLAC"
     },
     {
       "year": 2009,
