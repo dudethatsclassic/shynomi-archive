@@ -4,13 +4,14 @@ const ARTIST_MISC_DATA = [
     "label": "Jane's Addiction - Skin And Bones (YTH-081)",
     "version": "Silver CD",
     "format": "FLAC",
+    "category": "OTHER",
     "textFile": "MISC - Jane's Addiction - Skin And Bones (YTH-081) [Silver].txt"
   },
   {
     "type": "release",
-    "label": "Jane's Addiction - Nothing's Shocking (1988) (24:192)",
-    "year": 1988,
+    "label": "Jane's Addiction - Nothing's Shocking (1988) (24/192)",
     "format": "FLAC HD",
+    "year": 1988,
     "category": "OFFICIAL RELEASES"
   }
 ];
