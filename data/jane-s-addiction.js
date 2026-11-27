@@ -2490,7 +2490,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Niigita, Japan",
       "venue": "Naeba Ski Resort",
-      "notes": "Fuji · 1 · Sanken Cos11",
+      "notes": "Fuji · 1 · Sanken Cos11 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-07-28 - Niigita, Japan - Naeba Ski Resort - Fuji Rock Festival - DAT(1) (Sanken Cos11) [AUD].txt"
@@ -2504,7 +2504,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Leeds, UK",
       "venue": "Temple Newsam Park",
-      "notes": "Leeds · yousef",
+      "notes": "Leeds · ECM-717 · yousef",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-08-24 - Leeds, UK - Temple Newsam Park - Leeds Festival [AUD].txt"
@@ -2518,7 +2518,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Fillmore Auditorium",
-      "notes": "MBHO · taperbt",
+      "notes": "MBHO ka200n · taperbt",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-12-28 - Denver, CO - Fillmore Auditorium [AUD].txt"
