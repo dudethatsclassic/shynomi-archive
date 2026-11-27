@@ -1636,7 +1636,7 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Municipal Auditorium",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-02-15 - New Orleans, LA - Municipal Auditorium [AUD].txt"
@@ -1650,7 +1650,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "Orlando Sports Club",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-02-18 - Orlando, FL - Orlando Sports Club [AUD].txt"
@@ -1664,10 +1664,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Bayfront Park Amphitheater",
-      "notes": "AUD1",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1991-02-20 - Miami, FL - Bayfront Park Amphitheater [AUD2].txt"
+      "notes": "unk",
+      "version": "AUD #1",
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -1678,10 +1677,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Bayfront Park Amphitheater",
-      "notes": "AUD2",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1991-02-20 - Miami, FL - Bayfront Park Amphitheater [AUD2].txt"
+      "notes": "king jolly-trouser",
+      "version": "AUD #2",
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -1692,7 +1690,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Newcastle upon Tyne, England",
       "venue": "Mayfair Suite",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-03-10 - Newcastle upon Tyne, England - Mayfair Suite [AUD].txt"
@@ -1720,7 +1718,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "Hummingbird",
-      "notes": "direwolf-pgh",
+      "notes": "Sony TCS-450 · direwolf-pgh",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-03-14 - Birmingham, UK - Hummingbird [AUD].txt"
@@ -1734,7 +1732,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Dusseldorf, Germany",
       "venue": "Tor III",
-      "notes": "AUD(x)",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-03-20 - Dusseldorf, Germany - Tor III [AUD].txt"
@@ -1761,7 +1759,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Rome, Italy",
       "venue": "Teatro Teantrisdice",
-      "notes": "",
+      "notes": "l.contucci",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-04-01 - Rome, Italy - Teatro Teantrisdice [AUD].txt"
@@ -1775,7 +1773,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Torino, Italy",
       "venue": "The Big Club",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-04-03 - Torino, Italy - The Big Club [AUD].txt"
@@ -1789,7 +1787,7 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Madrid, Spain",
       "venue": "Sala Universal Theater",
-      "notes": "",
+      "notes": "unk",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1991-04-07 - Madrid, Spain - Sala Universal Theater [FM].txt"
@@ -1800,10 +1798,10 @@ const ARTIST_DATA = {
       "day": 23,
       "dateStr": "4-23-1991",
       "city": "Washington",
-      "state": "D.C.",
-      "location": "Washington, D.C.",
+      "state": "DC",
+      "location": "Washington, DC",
       "venue": "George Washington University",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-04-23 - Washington, D.C. - George Washington University [AUD].txt"
@@ -1831,7 +1829,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Troy, NY",
       "venue": "FPI Fieldhouse",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-04-27 - Troy, NY - FPI Fieldhouse [AUD].txt"
@@ -1859,10 +1857,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Warwick, RI",
       "venue": "Rocky Point Amusement Park",
-      "notes": "AUD1 · Schoeps MK4",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1991-05-01 - Warwick, RI - Rocky Point Amusement Park [AUD2].txt"
+      "notes": "Schoeps MK4/CMC6 · unk",
+      "version": "AUD #1",
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -1873,10 +1870,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Warwick, RI",
       "venue": "Rocky Point Amusement Park",
-      "notes": "AUD2",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1991-05-01 - Warwick, RI - Rocky Point Amusement Park [AUD2].txt"
+      "notes": "unk",
+      "version": "AUD #2",
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -1887,7 +1883,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Springfield, MA",
       "venue": "Springfield Armory",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-05-03 - Springfield, MA - Springfield Armory [AUD].txt"
@@ -1901,7 +1897,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "War Memorial Auditorium",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-05-04 - Rochester, NY - War Memorial Auditorium [AUD].txt"
@@ -1911,14 +1907,13 @@ const ARTIST_DATA = {
       "month": 5,
       "day": 7,
       "dateStr": "5-7-1991",
-      "city": "Pittsburgh PA",
-      "state": "",
-      "location": "Pittsburgh PA",
-      "venue": "AJ Palumbo Center",
-      "notes": "ANA(1) · Sony D6 · unk",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "location": "Pittsburgh, PA",
+      "venue": "AJPalumbo Center",
+      "notes": "ANA(1) · Sony DC6 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1991-05-07 -   Pittsburgh PA - AJPalumbo Center - ANA(1) (Sony D6) (unk) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -1929,7 +1924,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Salem, OR",
       "venue": "National Guard Armory",
-      "notes": "sz master",
+      "notes": "wmd6/pc62 · sz",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-05-27 - Salem, OR - National Guard Armory [AUD].txt"
@@ -1942,11 +1937,10 @@ const ARTIST_DATA = {
       "city": "Tempe",
       "state": "AZ",
       "location": "Tempe, AZ",
-      "venue": "Compton Terrace (Lollapalooza)",
-      "notes": "ANA(M) · david homes",
+      "venue": "Compton Terrace",
+      "notes": "Lollapalooza · M · david homes",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1991-07-18 - Tempe, AZ - Compton Terrace (Lollapalooza) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -1957,9 +1951,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Devore Stadium",
-      "notes": "",
+      "notes": "Lollapalooza · M · Sony WM-D3 · unk",
       "version": "AUD",
-      "format": "",
+      "format": "FLAC",
       "textFile": "1991-07-20 - San Diego, CA - Devore Stadium [AUD].txt"
     },
     {
@@ -1970,11 +1964,10 @@ const ARTIST_DATA = {
       "city": "Irvine",
       "state": "CA",
       "location": "Irvine, CA",
-      "venue": "Irvine Meadows",
-      "notes": "Lollapalooza · SBD1",
-      "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1991-07-21 - Irvine, CA - Irvine Meadows (Lollapalooza) [SBD2].txt"
+      "venue": "Irvine Meadows Amphitheater",
+      "notes": "Lollapalooza · unk",
+      "version": "SBD #1",
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -1985,10 +1978,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows",
-      "notes": "Lollapalooza · SBD2",
-      "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1991-07-21 - Irvine, CA - Irvine Meadows (Lollapalooza) [SBD2].txt"
+      "notes": "Lollapalooza · unk",
+      "version": "SBD #2",
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -1999,7 +1991,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows",
-      "notes": "Lollapalooza",
+      "notes": "Lollapalooza · unk",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1991-07-23 - Irvine, CA - Irvine Meadows (Lollapalooza) [SBD].txt"
@@ -2013,7 +2005,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows Amphitheatre",
-      "notes": "Lollapalooza · inc",
+      "notes": "Lollapalooza · inc · unk",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1991-07-24 - Irvine, CA - Irvine Meadows Amphitheatre (Lollapalooza) (inc) [SBD].txt"
@@ -2027,7 +2019,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "persic",
+      "notes": "Night · Nakamichi cm300 · persic",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-07-26 - Mountainview, CA - Shoreline Amphitheatre - ANA(M) (jeftak) (krw_co transfer) [AUD24].txt"
@@ -2041,7 +2033,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "CM300 · markp",
+      "notes": "Nakamichi CM300 · markp",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-07-26 - Mountain View, CA - Shoreline Amphitheatre [AUD].txt"
@@ -2069,7 +2061,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "se",
+      "notes": "WMD3/PC62 · se",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-07-27 - Mountain View, CA - Shoreline Amphitheatre [AUD].txt"
@@ -2083,7 +2075,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Harriet Island",
-      "notes": "Lollapalooza · dm",
+      "notes": "Lollapalooza · Sony WMd3/PC62 · dm",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-08-01 - St. Paul, MN - Harriet Island (Lollapalooza) [AUD].txt"
@@ -2097,7 +2089,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "World Amphitheatre",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-08-03 - Chicago, IL - World Amphitheatre [AUD].txt"
@@ -2111,7 +2103,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Clarkston, MI",
       "venue": "Pine Knob Amphitheatre",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-08-04 - Clarkston, MI - Pine Knob Amphitheatre [AUD].txt"
@@ -2125,7 +2117,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cuyahoga Falls, OH",
       "venue": "Blossom Music Theater",
-      "notes": "Lollapalooza",
+      "notes": "Lollapalooza · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-08-05 - Cuyahoga Falls, OH - Blossom Music Theater (Lollapalooza) [AUD].txt"
@@ -2136,10 +2128,10 @@ const ARTIST_DATA = {
       "day": 7,
       "dateStr": "8-7-1991",
       "city": "Toronto",
-      "state": "Ontario",
-      "location": "Toronto, Ontario",
+      "state": "Canada",
+      "location": "Toronto, Canada",
       "venue": "Canadian Exposition Park",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-08-07 - Toronto, Ontario - Canadian Exposition Park [AUD].txt"
@@ -2153,7 +2145,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Great Woods Amphitheatre",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-08-09 - Mansfield, MA - Great Woods Amphitheatre [AUD].txt"
@@ -2167,7 +2159,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Stanhope, NJ",
       "venue": "Waterloo Village",
-      "notes": "Lollapalooza",
+      "notes": "Lollapalooza · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-08-11 - Stanhope, NJ - Waterloo Village (Lollapalooza) [AUD].txt"
@@ -2181,7 +2173,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga Springs, NY",
       "venue": "Saratoga Performing Arts Center",
-      "notes": "Lollapalooza",
+      "notes": "Lollapalooza · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-08-13 - Saratoga Springs, NY - Saratoga Performing Arts Center (Lollapalooza) [AUD].txt"
@@ -2195,10 +2187,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Stanhope, NJ",
       "venue": "Waterloo Village",
-      "notes": "Lollapalooza · AUD1",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1991-08-14 - Stanhope, NJ - Waterloo Village (Lollapalooza) [AUD].txt"
+      "notes": "Lollapalooza · unk",
+      "version": "AUD #1",
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -2209,10 +2200,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Stanhope, NJ",
       "venue": "Waterloo Village",
-      "notes": "Lollapalooza · AUD2",
-      "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1991-08-14 - Stanhope, NJ - Waterloo Village (Lollapalooza) [AUD].txt"
+      "notes": "Lollapalooza · unk",
+      "version": "AUD #2",
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -2237,7 +2227,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Lakewood Amphitheatre",
-      "notes": "Lollapalooza · jj",
+      "notes": "Lollapalooza · WMD3 · jj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-08-18 - Atlanta, GA - Lakewood Amphitheatre (Lollapalooza) [AUD].txt"
@@ -2251,7 +2241,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Starplex Amphitheatre",
-      "notes": "Lollapalooza",
+      "notes": "Lollapalooza · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-08-22 - Dallas, TX - Starplex Amphitheatre (Lollapalooza) [AUD].txt"
@@ -2261,11 +2251,11 @@ const ARTIST_DATA = {
       "month": 8,
       "day": 28,
       "dateStr": "8-28-1991",
-      "city": "Enumblaw",
+      "city": "Enumclaw",
       "state": "WA",
-      "location": "Enumblaw, WA",
+      "location": "Enumclaw, WA",
       "venue": "King County Fairgrounds",
-      "notes": "thir13en remaster",
+      "notes": "13 Remaster · unk",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1991-08-28 -  Enumblaw, WA - King County Fairgrounds (13 Remaster) [SBD].txt"
@@ -2279,7 +2269,7 @@ const ARTIST_DATA = {
       "state": "HI",
       "location": "Honolulu, HI",
       "venue": "Aloha Tower",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1991-09-25 - Honolulu, HI - Aloha Tower [AUD].txt"
@@ -2331,9 +2321,9 @@ const ARTIST_DATA = {
       "month": null,
       "day": null,
       "dateStr": "XX-XX-1997",
-      "city": "*The Devil Made Me Do It - FM",
+      "city": "*The Devil Made Me Do It (FM)",
       "state": "",
-      "location": "*The Devil Made Me Do It - FM",
+      "location": "*The Devil Made Me Do It (FM)",
       "venue": "",
       "notes": "",
       "version": "Silver CD",
@@ -2348,7 +2338,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Olympic Stadium",
-      "notes": "",
+      "notes": "ANA(M) · Sony WM-D3 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-10-23 - Los Angeles, CA - Olympic Stadium [AUD].txt"
@@ -2375,7 +2365,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-11-03 - Chicago, IL - Aragon Ballroom [AUD].txt"
@@ -2391,7 +2381,7 @@ const ARTIST_DATA = {
       "venue": "Core States Spectrum Theater",
       "notes": "Handheld Video Camera · unk",
       "version": "AUD",
-      "format": "FLAC",
+      "format": "MPG",
       "textFile": "1997-11-10 - Philadelphia, PA - Core States Spectrum Theater (Handheld Video Camera) (unk) [AUD].txt"
     },
     {
@@ -2403,7 +2393,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Enit Festival",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-11-22 - San Francisco, CA - Enit Festival [AUD].txt"
@@ -2431,7 +2421,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheater",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-12-01 - Universal City, CA - Universal Amphitheater [AUD].txt"
@@ -2444,11 +2434,10 @@ const ARTIST_DATA = {
       "city": "East Rutherford",
       "state": "NJ",
       "location": "East Rutherford, NJ",
-      "venue": "Continnental Airlines Arena",
-      "notes": "jon d.",
+      "venue": "Continental Airlines Arena",
+      "notes": "MBHO · jon d.",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2001-10-16 - East Rutherford, NJ - Continnental Airlines Arena [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -2459,7 +2448,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rosemont, IL",
       "venue": "AllState Arena",
-      "notes": "CSB · unk",
+      "notes": "Core Sound Binaurals · unk",
       "version": "AUD",
       "format": "SHN",
       "textFile": "2001-10-21 - Auburn Hills, MI - Palace of Auburn Hills - MD(M) (Sony MZ-R700) (mitaper78) [AUD].txt"
