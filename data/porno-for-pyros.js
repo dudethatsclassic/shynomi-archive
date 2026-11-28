@@ -53,7 +53,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Huntridge Theater",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1992-11-21 - Las Vegas, NV - Huntridge Theater [AUD].txt"
@@ -193,7 +193,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "I.C. Light Amphitheater",
-      "notes": "",
+      "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1993-08-20 - Pittsburgh, PA - I.C. Light Amphitheater [AUD].txt"
